@@ -1,0 +1,46 @@
+# Clean Seed public outbox safety ignores
+
+# Secrets / tokens
+TOKEN.txt
+token.txt
+*.token
+*.key
+*.pem
+*.pfx
+*.p12
+*.env
+.env
+.env.*
+*secret*
+*SECRET*
+*password*
+*PASSWORD*
+*credential*
+*CREDENTIAL*
+
+# Local/private clutter
+desktop.ini
+Thumbs.db
+*.lnk
+*.log
+*.tmp
+*.bak
+*.old
+
+# Heavy / risky bundles
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.exe
+*.msi
+*.ps1
+*.bat
+*.cmd
+
+# Private proof/history by default
+PROOF_HISTORY/
+Shed/
+CleanSeed_LiveBridge_V0/
+CleanSeed_Bridge_OUT/
