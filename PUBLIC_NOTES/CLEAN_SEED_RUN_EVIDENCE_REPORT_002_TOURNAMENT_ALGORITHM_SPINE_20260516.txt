@@ -1,0 +1,489 @@
+CLEAN SEED — RUN EVIDENCE REPORT 002
+Tournament Algorithm Spine / Best-of-Routes Report
+Created: 2026-05-16
+Status: run evidence report / proof-history first / publishable note if John approves exact file
+Placement: save to PROOF_HISTORY first; optional one-file publish to PUBLIC_NOTES
+Authority: not active doctrine, not cleanup approval, not active-guide install, not final parking implementation
+
+RUN NAME
+RUN_002_TOURNAMENT_ALGORITHM_SPINE
+
+ACTIVE QUESTION
+How should Clean Seed run a tournament that finds both:
+1. the best next route, and
+2. the missing ideas, gates, lots, or bridges that the current route field failed to see?
+
+WHY THIS RUN EXISTS
+Run 001 proved that the source/read/order stack was justified, but it did not prove completeness.
+
+Run 002 exists because the next large task cannot be handled by adding one good-sounding rule after another.
+
+The system needs a method for:
+- running multiple route sequences in sandbox
+- letting each route mutate only its own board-state
+- comparing routes by proof, not preference
+- protecting diamond-in-the-rough routes
+- discovering missing gates before implementation
+- leaving a report after every run
+
+REAL PROJECT STATE
+Frozen.
+
+No cleanup.
+No publish.
+No file movement.
+No ACTIVE_GUIDES install.
+No rule promotion.
+No doctrine change.
+No deletion.
+No real parking remodel yet.
+
+COMMON CANDIDATE FIELD
+The following candidates were allowed into this run:
+
+- Candidate Field
+- Discovery Budget / Field Lock
+- Intake Buffer
+- Candidate Carding Gate
+- Master Rule Interlock
+- Dropout Classifier
+- Missing-Idea Harvester
+- Priority Card
+- Active Working Core
+- Parking Control Board / Front Desk
+- Board Is Display, Not Judge
+- Capstones
+- Core Lots
+- Proof / Source Lot
+- Risk / Quarantine Lot
+- Later / Parked Lot
+- Retired / History Lot
+- Unplaced Value / Puzzle Piece Lot
+- Cleanup Waiting Lot
+- Cleanup Decision Map Gate
+- Public / OpenAI Lot
+- Public-Safe Gate
+- Worker / Tool Lot
+- Neighbor Probe
+- Bridge Map
+- Transition Gates
+- Variable Sweep
+- Depth Governor / Far-Enough Gate
+- Winner / Loser Proof
+- Run Evidence Report
+- Run Report Ledger
+- Board Refresh Rule
+
+MASTER RULE FAMILIES USED
+Each route had to respect:
+
+- placement before action
+- evidence before cleanup
+- quarantine before preview
+- authority clarity before promotion
+- public/private separation
+- worker as worker, not judge
+- user pacing as safety
+- closeout after compaction
+- active plate collapse
+- no cleanup without exact proof and approval
+- support notes are not active doctrine by default
+- parked items do not promote themselves
+- no fake PASS
+- reports are evidence, not authority by themselves
+
+ROUTES TESTED
+Run 002 tested five route variants total.
+
+The first three were the main tournament set.
+The last two were follow-up challengers used to test whether the first winner still held.
+
+ROUTE 002A — STRUCTURE-FIRST TOURNAMENT
+Theory:
+Clean order comes from structure first.
+
+Sequence tested:
+Candidate Field ->
+Candidate Carding Gate ->
+Master Rule Interlock ->
+Dropout Classifier ->
+Priority Card ->
+Active Core ->
+Capstones ->
+Lots ->
+Unplaced Value ->
+Cleanup Decision Map Gate ->
+Public / Worker Lots ->
+Bridges ->
+Transition Gates ->
+Report.
+
+Result:
+Strongest structural discipline.
+
+Strengths:
+- fog cannot enter raw
+- every candidate must become a card
+- master rules check the field before action
+- cleanup cannot activate early
+- lots cannot become junk drawers without capstones
+- later rules land cleaner because candidates are carded and interlocked first
+
+Weakness:
+Too internal by itself.
+It needs a visible Parking Control Board / Front Desk so the assistant and John can see the working state without holding the whole city mentally.
+
+Verdict:
+PASS — best structural spine, but needs usability layer.
+
+ROUTE 002B — STRESS-FIRST TOURNAMENT
+Theory:
+Pressure exposes missing pieces faster than calm planning.
+
+Sequence tested:
+Candidate Field ->
+Candidate Carding Gate ->
+Stress Cases ->
+Dropout Classifier ->
+Missing-Idea Harvester ->
+Master Interlock ->
+Priority Card ->
+Route Sequence ->
+Report.
+
+Stress cases:
+- five ideas arrive at once
+- cleanup candidate appears
+- public/GitHub request appears
+- risky/quarantine item appears
+- retired draft resurfaces
+- worker/tool produces a report
+- John or assistant starts sputtering
+- two rules appear to conflict
+
+Result:
+Excellent discovery engine, but not safe as first operating order.
+
+Missing pieces found:
+- Intake Buffer
+- Run Report Ledger
+- Sputter / Rest Stop Gate
+- Public-Safe Gate
+
+Strength:
+Finds hidden gates quickly.
+
+Weakness:
+Creates too much pressure before authority/interlock is fully guarding the board.
+
+Verdict:
+PASS as discovery engine.
+FAIL as first order.
+
+ROUTE 002C — PARKING-VIEW TOURNAMENT
+Theory:
+The best system is the one the assistant can actually see and use.
+
+Sequence tested:
+Candidate Field ->
+Candidate Carding Gate ->
+Active Core ->
+Priority Card ->
+Lot Capstones ->
+Neighbor Probe ->
+Bridge Map ->
+Master Interlock ->
+Transition Gates ->
+Report.
+
+Result:
+Best access and visibility.
+
+Missing pieces found:
+- Parking Control Board / Front Desk
+- Neighbor Probe
+- View State vs Storage State
+
+Strength:
+Makes the parking model concrete and usable.
+
+Weakness:
+Layout starts too early.
+Without Master Rule Interlock before the layout hardens, the board could become a pretty city with weak authority.
+
+Verdict:
+PASS as access model.
+FAIL as first authority order.
+
+FIRST BEST-OF-THREE RESULT
+Winner:
+002A — Structure-first.
+
+But 002A must absorb the salvage gold from 002B and 002C.
+
+The improved route after the first three runs:
+Candidate Field ->
+Intake Buffer ->
+Candidate Carding Gate ->
+Master Rule Interlock ->
+Dropout Classifier ->
+Missing-Idea Harvester ->
+Priority Card ->
+Active Working Core ->
+Parking Control Board / Front Desk ->
+Capstones ->
+Core Lots ->
+Unplaced Value Lot ->
+Cleanup Waiting Lot ->
+Cleanup Decision Map Gate ->
+Public / OpenAI Lot ->
+Public-Safe Gate ->
+Worker / Tool Lot ->
+Neighbor Probe ->
+Bridge Map ->
+Transition Gates ->
+Variable Sweep ->
+Winner / Loser Proof ->
+Run Evidence Report ->
+Run Report Ledger.
+
+Key discovery:
+The parking system should not begin by building the whole parking city.
+
+It should begin by building the control board that lets the assistant use the city.
+
+ROUTE 002D — BOARD-EARLY HYBRID
+Theory:
+The Parking Control Board may need to appear earlier because access is the point.
+
+Sequence tested:
+Candidate Field ->
+Intake Buffer ->
+Candidate Carding Gate ->
+Master Rule Interlock ->
+Parking Control Board ->
+Priority Card ->
+Active Core ->
+Capstones ->
+Lots ->
+Neighbor Probe ->
+Bridge Map ->
+Transition Gates ->
+Report Ledger.
+
+Result:
+Strong view improvement but not the best main order.
+
+Strength:
+The table becomes visible sooner.
+
+Weakness:
+If the board appears before Priority Card and Active Core, it can start acting like the judge instead of the display.
+
+Missing idea found:
+Board Is Display, Not Judge.
+
+Verdict:
+PASS as view improvement.
+Not best main order.
+
+ROUTE 002E — DISCOVERY-FIRST HYBRID
+Theory:
+Force missing ideas out earlier.
+
+Sequence tested:
+Candidate Field ->
+Intake Buffer ->
+Candidate Carding Gate ->
+Variable Sweep ->
+Missing-Idea Harvester ->
+Dropout Classifier ->
+Master Rule Interlock ->
+Priority Card ->
+Active Core ->
+Parking Board ->
+Lots ->
+Bridges ->
+Transition Gates.
+
+Result:
+Useful but too dangerous as main spine.
+
+Strength:
+Finds more hidden pieces faster.
+
+Weakness:
+Discovery expands the field faster than the system can place it if it happens before master interlock.
+
+Missing idea found:
+Discovery Budget / Field Lock.
+
+Verdict:
+PASS as discovery engine.
+FAIL as main order.
+
+FINAL BEST ROUTE AFTER FIVE TESTS
+The winner remains the structure-first route, but with missing ideas absorbed.
+
+Best current tournament algorithm spine:
+
+1. Candidate Field
+2. Discovery Budget / Field Lock
+3. Intake Buffer
+4. Candidate Carding Gate
+5. Master Rule Interlock
+6. Dropout Classifier
+7. Missing-Idea Harvester
+8. Priority Card
+9. Active Working Core
+10. Parking Control Board / Front Desk
+11. Board Is Display, Not Judge
+12. Capstones
+13. Core Lots
+14. Unplaced Value / Puzzle Piece Lot
+15. Cleanup Waiting Lot
+16. Cleanup Decision Map Gate
+17. Public / OpenAI Lot
+18. Public-Safe Gate
+19. Worker / Tool Lot
+20. Neighbor Probe
+21. Bridge Map
+22. Transition Gates
+23. Variable Sweep
+24. Winner / Loser Proof
+25. Run Evidence Report
+26. Run Report Ledger
+27. Board Refresh Rule
+
+HOW THIS RUN KNOWS THE BEST PICK
+This run does not claim infinite perfect knowledge.
+
+It proves best current route inside the declared field.
+
+The route wins because:
+
+1. It held more concepts cleanly than the competitors.
+2. It protected authority before layout became active.
+3. It allowed discovery without letting discovery become endless expansion.
+4. It kept the board as display, not judge.
+5. It blocked cleanup before proof.
+6. It protected public/private separation.
+7. It let stress-first and parking-view discoveries become salvage, not discarded loss.
+8. It produced missing ideas and absorbed them into a stronger sequence.
+9. It preserved the real project by running only in sandbox.
+10. It creates a usable front surface without letting the whole parking city become active.
+
+WHY OTHER ROUTES LOST
+Stress-first lost as main order because it creates pressure before master rules guard the board.
+
+Parking-view lost as main order because it makes the layout visible before authority is fully checked.
+
+Board-early lost because the board can become judge if it appears before priority and active core are defined.
+
+Discovery-first lost because discovery can expand the field endlessly unless a budget/field lock exists early.
+
+The structure-first route won because it makes each later step land cleaner while still absorbing the best discoveries from the other routes.
+
+MISSING IDEAS DISCOVERED BY THIS RUN
+This run discovered and preserved:
+
+- Intake Buffer
+- Run Report Ledger
+- Sputter / Rest Stop Gate
+- Public-Safe Gate
+- Parking Control Board / Front Desk
+- Neighbor Probe
+- View State vs Storage State
+- Cleanup Decision Map Gate
+- Board Refresh Rule
+- Board Is Display, Not Judge
+- Discovery Budget / Field Lock
+
+These were not discarded as loser noise.
+They were harvested and inserted into the winning spine.
+
+WHAT THIS RUN PROVED
+This run proved that the best current tournament algorithm spine is structure-first with controlled discovery and a usable board.
+
+It proved that the Parking Control Board is needed, but must not be first authority.
+
+It proved that discovery is needed, but must be budgeted and field-locked.
+
+It proved that each run needs a report and report ledger.
+
+It proved that failed routes can contain salvage gold.
+
+It proved that missing ideas can be found by comparing route failure modes.
+
+WHAT THIS RUN DID NOT PROVE
+This run did not prove the final parking implementation is complete.
+
+It did not install the parking remodel.
+
+It did not prove all possible missing ideas have been found.
+
+It did not update ACTIVE_GUIDES.
+
+It did not approve cleanup.
+
+It did not publish by itself.
+
+It did not replace the need for Candidate Field Sweep.
+
+It did not prove the Parking Control Board design is finalized.
+
+NEXT CLEAN ACTION
+Run 003 should be:
+
+RUN_003_CANDIDATE_FIELD_SWEEP_FOR_PARKING_IMPLEMENTATION
+
+Job:
+Use the winning algorithm spine to create the actual candidate field for the parking implementation.
+
+Run 003 should:
+1. Declare discovery budget / field lock.
+2. Pull candidate concepts into the field.
+3. Put raw candidates through Intake Buffer.
+4. Convert candidates into cards.
+5. Interlock each card with master-rule families.
+6. Identify duplicates, missing gates, missing lots, missing bridges, and blocked items.
+7. Produce a Parking Control Board draft.
+8. Leave Run Evidence Report 003.
+
+CLOSE VERDICT
+PASS WITH BOUNDARY.
+
+Winner:
+Structure-first tournament spine with discovery, board, and report controls added.
+
+Current best sequence:
+Candidate Field ->
+Discovery Budget / Field Lock ->
+Intake Buffer ->
+Candidate Carding Gate ->
+Master Rule Interlock ->
+Dropout Classifier ->
+Missing-Idea Harvester ->
+Priority Card ->
+Active Working Core ->
+Parking Control Board ->
+Board Is Display, Not Judge ->
+Capstones ->
+Core Lots ->
+Unplaced Value ->
+Cleanup Waiting ->
+Cleanup Decision Map Gate ->
+Public/OpenAI ->
+Public-Safe Gate ->
+Worker/Tool ->
+Neighbor Probe ->
+Bridge Map ->
+Transition Gates ->
+Variable Sweep ->
+Winner/Loser Proof ->
+Run Evidence Report ->
+Run Report Ledger ->
+Board Refresh Rule.
+
+Boundary:
+This is a tournament algorithm spine, not implementation yet.

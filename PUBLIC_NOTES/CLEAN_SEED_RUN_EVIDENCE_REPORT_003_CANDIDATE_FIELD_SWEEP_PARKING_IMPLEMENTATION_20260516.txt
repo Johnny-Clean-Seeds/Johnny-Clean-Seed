@@ -1,0 +1,639 @@
+CLEAN SEED — RUN EVIDENCE REPORT 003
+Candidate Field Sweep for Parking Implementation
+Created: 2026-05-16
+Status: run evidence report / candidate-field sweep / proof-history first
+Placement: save to PROOF_HISTORY first; optional one-file publish to PUBLIC_NOTES only if John approves exact file
+Authority: not active doctrine, not cleanup approval, not active-guide install, not final parking implementation
+
+RUN NAME
+RUN_003_CANDIDATE_FIELD_SWEEP_PARKING_IMPLEMENTATION
+
+ACTIVE QUESTION
+What candidates are allowed into the parking implementation field, what is each candidate's job, what missing lots/gates/bridges are visible, and what first usable Parking Control Board shape should be tested next?
+
+WHY THIS RUN EXISTS
+Run 001 proved that the source/read/order stack was justified, but completeness was not proven.
+Run 002 proved the best current tournament algorithm spine: structure-first with discovery, board, and report controls added.
+Run 003 applies that spine to the actual parking implementation field.
+
+REAL PROJECT STATE
+Frozen.
+
+No cleanup.
+No publish.
+No file movement.
+No ACTIVE_GUIDES install.
+No rule promotion.
+No doctrine change.
+No deletion.
+No real parking remodel yet.
+No GitHub action.
+
+DISCOVERY BUDGET / FIELD LOCK
+Budget:
+This run may name and card the parking implementation candidates.
+This run may identify missing candidates/gates/lots/bridges.
+This run may draft the Parking Control Board shape.
+This run must stop before implementation.
+
+Field lock:
+Only parking implementation candidates are allowed.
+Outside product/UI/frequency/public ideas may be referenced only if they affect parking intake, placement, proof, guard, or access.
+If a new idea appears outside this field, it is parked for a later run.
+
+SOURCE STACK USED
+1. Calculated Precision Triage Method V1.2.
+2. Compaction Housekeeping Closure Rule V1.1.
+3. Parking Core Operating Plan V1 and prior parking notes.
+4. Run Evidence Report 001 boundary: order justified, completeness not proven.
+5. Run Evidence Report 002 tournament spine: structure-first route with discovery, board, and report controls.
+6. Frequency/Sensor/Guard/Rope notes only as intake/guard support, not as doctrine.
+
+SOURCE LOGIC USED
+Calculated Precision Triage provides the base law:
+- do not read everything first
+- use structure to find what deserves reading
+- map before judgment
+- review edge before cleanup
+- quarantine before curiosity
+- rotate the view, not the storage
+
+Housekeeping provides the closure law:
+- rule before file
+- fit before make
+- status after make
+- every related file needs a state
+- reports are evidence, not authority
+- cleanup candidate does not mean delete
+- active plate must collapse
+
+Parking provides the access law:
+- active work is small
+- old pile stays available but not active
+- the assistant needs a center, front priority, support lots, bridges, capstones, and stop gates
+
+Tournament provides the install law:
+- card candidates
+- interlock with master rules
+- harvest missing ideas
+- compare routes
+- report every run
+- install only the first proven move
+
+CANDIDATE FIELD — ACCEPTED CARDS
+
+CARD 01 — Discovery Budget / Field Lock
+Type: tournament control / field boundary
+Job: prevent the run from expanding forever.
+Trigger: before any candidate sweep or tournament run.
+Immediate effect: limits what can enter this run.
+Dependencies: active question.
+Touched lots: active core, later/parked, run report ledger.
+Risk: too tight may block useful missing ideas; too loose creates fog.
+Proof needed: run closes with clear included/excluded field.
+Activation test: a run begins.
+Stop condition: field expands beyond active question.
+
+CARD 02 — Intake Buffer
+Type: parking intake gate
+Job: catch raw ideas before they become active or discarded.
+Trigger: multiple ideas arrive, or one large idea enters.
+Immediate effect: raw material waits before carding.
+Dependencies: field lock.
+Touched lots: active core, later/parked, unplaced value.
+Risk: can become a junk drawer if not carded.
+Proof needed: raw idea is buffered then carded/statused.
+Activation test: five ideas arrive at once.
+Stop condition: buffer fills without carding.
+
+CARD 03 — Candidate Carding Gate
+Type: conversion gate
+Job: turn raw ideas/files/rules/notes into cards.
+Trigger: any item wants to enter the implementation field.
+Immediate effect: fog becomes named candidate.
+Dependencies: intake buffer.
+Touched lots: all lots.
+Risk: cards become too heavy if overfilled.
+Proof needed: candidate has name, job, trigger, dependency, risk, proof, status.
+Activation test: raw item enters.
+Stop condition: raw item influences sequence without card.
+
+CARD 04 — Master Rule Interlock
+Type: authority check
+Job: test each card against master-rule families.
+Trigger: after candidate carding.
+Immediate effect: invalid or risky candidates are blocked/parked.
+Dependencies: carding gate.
+Touched lots: active core, proof/source, quarantine, cleanup, public, worker/tool.
+Risk: too rigid if treated as fear instead of fit.
+Proof needed: each active candidate has authority fit.
+Activation test: candidate attempts to affect order.
+Stop condition: card violates evidence, authority, quarantine, cleanup, or public/private boundary.
+
+CARD 05 — Dropout Classifier
+Type: tournament diagnosis
+Job: classify failed routes as defeated, dirty, missing-step, out-of-field, salvage, or diamond.
+Trigger: route drops, stalls, or fails.
+Immediate effect: prevents losing routes from hiding missing gold.
+Dependencies: carding + interlock.
+Touched lots: unplaced value, later/parked, run report.
+Risk: over-saving true junk.
+Proof needed: each failed route gets reason.
+Activation test: a route fails or becomes weird.
+Stop condition: route discarded without classification.
+
+CARD 06 — Missing-Idea Harvester
+Type: discovery tool
+Job: extract missing gates/lots/bridges from route failures.
+Trigger: dropout classifier marks missing-step/salvage/diamond.
+Immediate effect: missing piece becomes a new candidate card.
+Dependencies: dropout classifier.
+Touched lots: later/parked, unplaced value, run report ledger.
+Risk: endless expansion.
+Proof needed: harvested idea is carded and either inserted, parked, or blocked.
+Activation test: route fails because something was absent.
+Stop condition: discovery exceeds budget/field lock.
+
+CARD 07 — Priority Card
+Type: front command
+Job: state the one active priority and what is blocked.
+Trigger: before work starts or after run/report closes.
+Immediate effect: prevents multi-lane drift.
+Dependencies: interlock.
+Touched lots: active core, later/parked, proof/source.
+Risk: too narrow if support proof is blocked.
+Proof needed: John and assistant can name current mission and blocked lanes.
+Activation test: new lane begins.
+Stop condition: "also" tasks sneak in.
+
+CARD 08 — Active Working Core
+Type: center control
+Job: define what is allowed in the center.
+Trigger: after priority is named.
+Immediate effect: active plate stays small.
+Dependencies: priority card.
+Touched lots: all support lots.
+Risk: if too broad, the old pile becomes active again.
+Proof needed: center has current object, current rule, current report/board only.
+Activation test: a task begins.
+Stop condition: old notes/reports/drafts crowd the center.
+
+CARD 09 — Parking Control Board / Front Desk
+Type: usable view / dashboard
+Job: show the active priority, current core, support lots in view, blocked lots, next gate, stop condition, latest report.
+Trigger: after priority and active core exist.
+Immediate effect: assistant sees the working table without holding the whole city.
+Dependencies: priority card + active core + board-is-display rule.
+Touched lots: active core, proof/source, risk/quarantine, later/parked, run report ledger.
+Risk: board becomes judge if placed before priority/core.
+Proof needed: board shows state without deciding state.
+Activation test: after run or before next task.
+Stop condition: board displays stale or unverified state.
+
+CARD 10 — Board Is Display, Not Judge
+Type: board boundary
+Job: prevent the board from deciding truth.
+Trigger: when a board exists.
+Immediate effect: board reflects interlocked state only.
+Dependencies: parking control board.
+Touched lots: all lots.
+Risk: if missing, a pretty view becomes authority.
+Proof needed: board only shows what cards/reports prove.
+Activation test: board changes after report.
+Stop condition: board overrides report/proof.
+
+CARD 11 — Board Refresh Rule
+Type: state freshness gate
+Job: refresh board after run, closeout, publish, rest stop, or major carding pass.
+Trigger: state changes.
+Immediate effect: prevents stale active view.
+Dependencies: board + run report ledger.
+Touched lots: active core, report ledger, proof/source.
+Risk: too much ceremony if used for tiny no-op.
+Proof needed: board matches latest report and current priority.
+Activation test: a run closes.
+Stop condition: board points to old state.
+
+CARD 12 — Capstones
+Type: lot identity control
+Job: give each lot a head/name/allowed/forbidden rule.
+Trigger: before lots are used.
+Immediate effect: prevents random parking.
+Dependencies: active core + priority + interlock.
+Touched lots: every lot.
+Risk: over-defining too early.
+Proof needed: each lot has purpose, belongs/does-not-belong, retrieval path, exit condition.
+Activation test: a lot is created or used.
+Stop condition: lot becomes junk drawer.
+
+CARD 13 — Proof / Source Lot
+Type: support lot
+Job: hold source notes, proof files, reports, receipts, hashes, origins.
+Trigger: item supports claim but is not active.
+Immediate effect: source remains findable without active clutter.
+Dependencies: capstone.
+Touched lots: active core, report ledger, retired/history.
+Risk: source proof starts competing with master.
+Proof needed: source is linked to claim or master.
+Activation test: assistant needs to verify origin.
+Stop condition: source treated as active authority by default.
+
+CARD 14 — Risk / Quarantine Lot
+Type: safety lot
+Job: hold sensitive, risky, executable-like, token, huge, or unknown-risk material.
+Trigger: risk marker appears.
+Immediate effect: item is listed/statused but not opened or public-copied.
+Dependencies: capstone + interlock.
+Touched lots: public-safe gate, cleanup waiting, proof/source.
+Risk: overblocking harmless material or underblocking sensitive material.
+Proof needed: risk item has status and blocked action.
+Activation test: token/secret/huge/executable-like item appears.
+Stop condition: risky material opened/pasted/published casually.
+
+CARD 15 — Later / Parked Lot
+Type: non-current holding lot
+Job: hold important but not-current material.
+Trigger: valid item does not serve current priority.
+Immediate effect: item remains recoverable without hijacking task.
+Dependencies: capstone + priority.
+Touched lots: unplaced value, public, worker/tool.
+Risk: becomes vague pile.
+Proof needed: item has reason, reopen trigger, and status.
+Activation test: side idea appears.
+Stop condition: parked item promotes itself.
+
+CARD 16 — Retired / History Lot
+Type: version-history lot
+Job: hold replaced drafts and old versions.
+Trigger: newer version becomes current.
+Immediate effect: rollback/history preserved without active competition.
+Dependencies: capstone + housekeeping state.
+Touched lots: proof/source, cleanup waiting.
+Risk: old draft treated as current.
+Proof needed: current/retired status is explicit.
+Activation test: V1/V1.1/V1.2 chain exists.
+Stop condition: retired file becomes active by accident.
+
+CARD 17 — Unplaced Value / Puzzle Piece Lot
+Type: special parking lot
+Job: hold odd pieces that need family/neighbors before fit appears.
+Trigger: item seems valuable but does not fit current picture.
+Immediate effect: prevents premature deletion or forced promotion.
+Dependencies: later/parked + capstone + neighbor probe.
+Touched lots: later/parked, proof/source, cleanup waiting.
+Risk: hoarding if unlabeled.
+Proof needed: item has family/neighbor trigger and review condition.
+Activation test: odd clue appears.
+Stop condition: unplaced lot becomes unlabeled junk.
+
+CARD 18 — Cleanup Waiting Lot
+Type: cleanup holding lot
+Job: hold possible cleanup targets without authorizing deletion.
+Trigger: item appears old, duplicate, absorbed, or removable.
+Immediate effect: cleanup waits for proof.
+Dependencies: proof/source, retired/history, quarantine, capstone.
+Touched lots: cleanup decision map gate.
+Risk: "candidate" gets read as "trash."
+Proof needed: exact path/reason/keeper/risk/user approval before action.
+Activation test: cleanup candidate appears.
+Stop condition: deletion/move starts before decision map.
+
+CARD 19 — Cleanup Decision Map Gate
+Type: cleanup gate
+Job: convert cleanup waiting into exact reviewed cleanup plan.
+Trigger: cleanup is requested or needed.
+Immediate effect: action blocked until exact map and approval.
+Dependencies: cleanup waiting + proof/source + quarantine.
+Touched lots: cleanup waiting, proof/source, retired/history.
+Risk: too late if clutter blocks work; too early if cleanup is aesthetic.
+Proof needed: exact path, reason, keeper/proof, risk check, user approval, post-check.
+Activation test: cleanup lane starts.
+Stop condition: cleanup without proof/approval.
+
+CARD 20 — Public / OpenAI Lot
+Type: public-facing holding lot
+Job: hold external-safe proposals, public notes, README material, GitHub-safe summaries.
+Trigger: item is meant for outside visibility.
+Immediate effect: separates public output from internal proof.
+Dependencies: public-safe gate + proof/source + priority.
+Touched lots: proof/source, quarantine, GitHub/outbox.
+Risk: private/internal material leaks.
+Proof needed: public-safe check passed.
+Activation test: publish/public request appears.
+Stop condition: proof-history bulk or sensitive material moves public.
+
+CARD 21 — Public-Safe Gate
+Type: publish gate
+Job: block unsafe public output.
+Trigger: GitHub/public/site output requested.
+Immediate effect: checks file identity, scope, risk, private content, and intended destination.
+Dependencies: public/openAI lot + quarantine + proof/source.
+Touched lots: public, quarantine, GitHub/outbox.
+Risk: overblocking publish or underchecking privacy.
+Proof needed: file is intended, public-safe, one-file scoped, and verified.
+Activation test: publish requested.
+Stop condition: public copy from proof-history without safe check.
+
+CARD 22 — Worker / Tool Lot
+Type: execution support lot
+Job: hold PowerShell scripts, prompts, tool commands, report generators, Git/outbox commands.
+Trigger: local/tool action needed.
+Immediate effect: keeps worker output separate from judgment.
+Dependencies: master interlock + priority + proof/source.
+Touched lots: proof/source, run report ledger, public.
+Risk: worker becomes judge; tool output becomes fake PASS.
+Proof needed: tool action has scope, stop condition, evidence output.
+Activation test: PowerShell/Git/task command needed.
+Stop condition: script acts outside scope or prints fake PASS after failure.
+
+CARD 23 — Neighbor Probe
+Type: relationship check
+Job: ask which lots actually need bridge lines for current task.
+Trigger: before bridge map.
+Immediate effect: prevents over-bridging the whole city.
+Dependencies: lots + capstones.
+Touched lots: all lots in current view.
+Risk: too many bridges create fog.
+Proof needed: only relevant neighbor links drawn.
+Activation test: two lots need relation.
+Stop condition: bridge exists because it is pretty, not useful.
+
+CARD 24 — Bridge Map
+Type: relationship surface
+Job: show how active lots connect.
+Trigger: after neighbor probe.
+Immediate effect: assistant sees how support lots cooperate.
+Dependencies: neighbor probe + capstones.
+Touched lots: all current support lots.
+Risk: relationship map becomes active authority.
+Proof needed: each bridge has reason, allowed movement, blocked movement, proof needed, stop condition.
+Activation test: support lots need coordination.
+Stop condition: bridge map replaces reports/cards.
+
+CARD 25 — Transition Gates
+Type: movement rules
+Job: define how items move between lots and states.
+Trigger: after lots/bridges exist.
+Immediate effect: prevents parked/self-promoted/cleanup/public drift.
+Dependencies: bridge map.
+Touched lots: all.
+Risk: too much ceremony if every tiny motion requires full gate.
+Proof needed: each major movement has allowed trigger and stop condition.
+Activation test: item changes state.
+Stop condition: item moves without proof/status.
+
+CARD 26 — Variable Sweep
+Type: stress test
+Job: test route under different variables.
+Trigger: before winner proof.
+Immediate effect: exposes hidden missing gates.
+Dependencies: route sequence + dropout classifier.
+Touched lots: run report ledger.
+Risk: endless discovery if no budget.
+Proof needed: variables tested and results reported.
+Activation test: route appears to win.
+Stop condition: variable field expands beyond budget.
+
+CARD 27 — Depth Governor / Far-Enough Gate
+Type: depth control
+Job: decide not far enough, far enough, or too far.
+Trigger: route looks ugly or promising.
+Immediate effect: protects diamond routes without endless testing.
+Dependencies: dropout classifier + variable sweep.
+Touched lots: run report.
+Risk: stopping too early or running too far.
+Proof needed: trend over steps.
+Activation test: route is awkward but safe.
+Stop condition: safety breach or route mutates into new project.
+
+CARD 28 — Winner / Loser Proof
+Type: tournament proof
+Job: prove why winner won and why losers lost.
+Trigger: after route testing.
+Immediate effect: prevents vibe-based selection.
+Dependencies: variable sweep + depth governor + dropout classifier.
+Touched lots: run report ledger.
+Risk: weak loser-proof hides diamond ideas.
+Proof needed: each serious route has result and reason.
+Activation test: route winner proposed.
+Stop condition: "seems best" without proof.
+
+CARD 29 — Run Evidence Report
+Type: proof receipt
+Job: record the run question, field, tested order, proof, limits, missing ideas, next action.
+Trigger: every run.
+Immediate effect: run becomes evidence instead of chat memory.
+Dependencies: winner/loser proof.
+Touched lots: run report ledger, proof/source, public notes if approved.
+Risk: reports become clutter if not indexed.
+Proof needed: report exists and is statused.
+Activation test: run closes.
+Stop condition: run claims proof without report.
+
+CARD 30 — Run Report Ledger
+Type: report index
+Job: keep reports from becoming another pile.
+Trigger: second or later run report exists.
+Immediate effect: reports become navigable.
+Dependencies: run evidence reports.
+Touched lots: proof/source, parking board.
+Risk: ledger itself becomes stale.
+Proof needed: latest report list and statuses are findable.
+Activation test: Run 002 or later exists.
+Stop condition: multiple reports exist with no index.
+
+CARD 31 — Sputter / Rest Stop Gate
+Type: pacing safety
+Job: pause when John or assistant hits overload/sputter.
+Trigger: confusion rises, fatigue shows, task lanes collide, or weird fake-PASS risk appears.
+Immediate effect: checkpoint, stop active work, resume from parked state later.
+Dependencies: priority card + board refresh.
+Touched lots: active core, later/parked, run report ledger.
+Risk: overused as avoidance.
+Proof needed: state is parked and return phrase/next lane known.
+Activation test: "check engine light" moment.
+Stop condition: pushing through creates dirty work.
+
+CARD 32 — View State vs Storage State
+Type: view/storage boundary
+Job: show that front-row view can change without physically moving files.
+Trigger: board pulls support lots forward.
+Immediate effect: prevents storage chaos.
+Dependencies: parking board + lot capstones.
+Touched lots: all visible lots.
+Risk: user thinks "in view" means "moved."
+Proof needed: board distinguishes visible/support state from physical location.
+Activation test: support lot comes into view.
+Stop condition: files moved just because view changed.
+
+CARD 33 — Frequency Sensor / Guard / Rope Intake
+Type: outside-idea intake support
+Job: allow big outside ideas as signal without making them authority.
+Trigger: outside-world idea enters.
+Immediate effect: signal is carded/parked/tested, not feared or obeyed.
+Dependencies: intake buffer + carding + interlock + guard/rope stance.
+Touched lots: unplaced value, later/parked, proof/source.
+Risk: mystical authority, fear boss, or blind rejection.
+Proof needed: idea helps build better intake/parking/proof without overclaim.
+Activation test: big strange concept appears.
+Stop condition: outside idea becomes boss or gets rejected without placement.
+
+DUPLICATES / OVERLAPS FOUND
+- Intake Buffer and Candidate Carding Gate are separate. Buffer catches raw influx; carding converts it.
+- Parking Control Board and Active Working Core are separate. Core is what is active; board displays it.
+- Board Refresh Rule and Run Report Ledger are separate. Ledger stores report history; refresh updates current view.
+- Public/OpenAI Lot and Public-Safe Gate are separate. Lot holds candidate public material; gate approves public movement.
+- Cleanup Waiting Lot and Cleanup Decision Map Gate are separate. Waiting holds possible targets; decision map authorizes exact plan.
+- Bridge Map and Neighbor Probe are separate. Probe decides which bridges are needed; map records the selected bridges.
+- Dropout Classifier and Missing-Idea Harvester are separate. Classifier diagnoses route failure; harvester extracts missing candidates.
+
+MISSING ITEMS DISCOVERED IN RUN 003
+1. Current Board Snapshot
+A small current-state board needs to exist after each run. It should show current priority, current core, latest reports, visible lots, blocked lanes, and next gate.
+
+2. Report Ledger Row Format
+The Run Report Ledger needs a simple row format:
+Report name, run question, verdict, latest state, next action, public/private status, hash/path if needed.
+
+3. Board Staleness Check
+Before using the board, check whether it matches the latest report. If not, refresh it.
+
+4. Field-Lock Exception Lane
+If a high-value outside idea enters during a locked run, it needs a place: "outside field / parked for next run," not ignored and not activated.
+
+5. Proof Pull Rule
+When the board needs proof, pull only the smallest proof item needed. Do not pull the whole proof pile.
+
+6. Publish Visibility Marker
+If a report/note is published to GitHub, the board or ledger should mark it as public-visible vs local-only.
+
+7. Fake-PASS Block
+If a script errors, later PASS lines are invalid unless the script stops. This belongs in Worker/Tool Lot and Public-Safe Gate.
+
+PARKING CONTROL BOARD — DRAFT SHAPE
+The board should be a compact front desk, not the whole parking city.
+
+Minimum fields:
+
+BOARD NAME:
+-
+
+LAST REFRESH:
+-
+
+LATEST RUN REPORT:
+-
+
+ACTIVE PRIORITY:
+-
+
+CURRENT ACTIVE CORE:
+-
+
+VISIBLE SUPPORT LOTS:
+-
+
+BLOCKED LOTS:
+-
+
+CURRENT PROOF SOURCE:
+-
+
+CURRENT RISK / QUARANTINE:
+-
+
+CURRENT PARKED ODD PIECES:
+-
+
+PUBLIC / GITHUB STATUS:
+-
+
+NEXT GATE:
+-
+
+STOP CONDITION:
+-
+
+BOARD IS DISPLAY, NOT JUDGE:
+- yes/no
+
+VIEW STATE VS STORAGE STATE:
+-
+
+RUN REPORT LEDGER POINTER:
+-
+
+BOARD SUCCESS CRITERIA
+The board works if:
+- John and assistant can name the active priority in one glance.
+- The assistant can see which support lots are allowed in view.
+- The assistant can see what is blocked.
+- The assistant can identify the latest run report.
+- The assistant can tell local-only vs public-visible material.
+- The board does not require mentally holding the whole city.
+- The board does not become authority.
+- The board refreshes after runs or state changes.
+
+BOARD FAIL CRITERIA
+The board fails if:
+- it becomes another giant note
+- it decides truth instead of displaying report/card state
+- it shows stale active priority
+- it hides quarantine/public-safe state
+- it encourages cleanup
+- it causes storage moves just because the view changed
+- it makes reports or notes feel active by default
+
+CANDIDATE FIELD SWEEP VERDICT
+PASS WITH BOUNDARY.
+
+This run successfully named the candidate field for parking implementation.
+It separated duplicates/overlaps.
+It found missing pieces.
+It drafted the Parking Control Board shape.
+It did not implement the board.
+It did not install doctrine.
+It did not approve cleanup.
+It did not publish.
+It did not prove completeness forever.
+
+WHAT THIS RUN PROVED
+The parking implementation field is now large enough to require a board and ledger.
+The board must come after priority/core and must remain display, not judge.
+The system needs a current board snapshot, report ledger row format, staleness check, field-lock exception lane, proof pull rule, publish visibility marker, and fake-PASS block.
+The next clean build target is not the whole parking city.
+The next clean build target is the first Parking Control Board prototype.
+
+WHAT THIS RUN DID NOT PROVE
+This run did not prove the final board design.
+It did not prove every possible candidate has been found.
+It did not test the board with a live future task.
+It did not create or install a real board into active guides.
+It did not prove public-facing organization.
+It did not clean local files.
+It did not publish anything.
+
+NEXT CLEAN ACTION
+Run 004 should be:
+
+RUN_004_PARKING_CONTROL_BOARD_PROTOTYPE
+
+Job:
+Build the first actual Parking Control Board prototype from the Run 003 candidate field.
+
+Run 004 should:
+1. Use the board draft fields.
+2. Populate the board using current known state.
+3. Test it against three scenarios:
+   - new idea appears
+   - publish request appears
+   - cleanup candidate appears
+4. Prove whether the board helps the assistant work without holding the whole city.
+5. Leave Run Evidence Report 004.
+
+CLOSE VERDICT
+Run 003 proves that the Parking Implementation field is ready for a board prototype, not a full remodel.
+
+Clean line:
+Do not build the whole city.
+Build the front desk first.
