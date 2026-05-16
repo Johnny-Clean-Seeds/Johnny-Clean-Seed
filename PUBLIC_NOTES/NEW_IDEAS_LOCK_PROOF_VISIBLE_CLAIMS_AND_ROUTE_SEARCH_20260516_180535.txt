@@ -1,0 +1,108 @@
+CLEAN SEED — NEW IDEAS LOCK
+Created: 2026-05-16 18:05:35
+Status: PROOF-HISTORY ONLY
+Install status: NOT ACTIVE DOCTRINE
+Authority files edited: NO
+Active guides edited: NO
+Cleanup started: NO
+Git publish: NO
+
+PURPOSE
+Lock the newest ideas before continuing the hunt for the missing long concept list, so the current ideas do not stay loose in chat.
+
+1. GUESS LANGUAGE VS PROOF LANGUAGE
+Status: captured wording/control idea.
+Do not say "found" when the evidence only supports a pattern match, likely family, or candidate. Use guess/candidate language until exact proof exists.
+
+Guess language:
+- "This may be it."
+- "Candidate match."
+- "Likely family."
+- "Possible recovered piece."
+- "Not proven yet."
+- "Let me take a guess from the evidence."
+
+Proof language:
+- "Found."
+- "Confirmed."
+- "Verified."
+- "Matches exact phrase."
+- "Path/hash/line proves it."
+- "PASS."
+
+2. CREDIBILITY LINE
+Status: captured idea.
+Overclaiming makes a person or assistant look careless. A wrong confident claim can make the speaker look like a clown. A bounded claim with visible proof makes the speaker look serious.
+
+Core line:
+Do not claim more certainty than the evidence earned.
+
+3. PROOF-SOFTENED CORRECTION
+Status: captured word-control / trust-control idea.
+When correcting someone or disagreeing, show the proof path without weakening the truth.
+
+Pattern:
+- My read is X.
+- The evidence I am using is Y.
+- The inference is Z.
+- What would prove me wrong is W.
+- Current verdict is V.
+
+Purpose:
+This keeps the claim inspectable and reduces the chance that the other person feels ambushed.
+
+4. PROOF-VISIBLE CLAIM RULE
+Status: strong rule candidate.
+Truth is not enough. Proof must be visible.
+
+When making a claim, correction, verdict, disagreement, or "found/clean/done/wrong" statement, show the proof path at the level the risk requires.
+
+Minimum fields:
+- claim
+- evidence
+- inference
+- confidence/proof level
+- what would disprove it
+- verdict or status
+- next clean action
+
+5. LOST LIST SEARCH STATE
+Status: active search note.
+The long 80+ concept list has NOT been confirmed found.
+Current recovered materials are candidate families / nearby treasure only.
+Do not install nearby ideas as if they are the missing list.
+Continue hunting for exact file, exact phrase, or exact list structure.
+
+6. ROUTE-OWNED ORDER SEARCH
+Status: Run 029 candidate idea.
+The next algorithm idea is not just "try many possible orders."
+Each possible order should be treated as a route with a small contract:
+- target home
+- named check set
+- allowed results
+- bridge allowed yes/no
+- result conditions
+
+Purpose:
+Prevent the order-search engine from becoming a new boss or widening itself mid-run.
+
+7. HIGHEST-YIELD ROUTE SELECTION
+Status: candidate next-work frame.
+The system should test possible next orders by yield:
+- exposes useful truth
+- reduces confusion
+- protects authority
+- avoids cleanup drift
+- avoids token/file waste
+- keeps user pacing safe
+- preserves local/public boundary
+- produces the next clean action
+
+8. BRING IDEAS HOME BEFORE MORE HUNTING
+Status: workflow behavior.
+When the user is about to do another heavy search/hunt, first lock the active ideas into proof-history so the burden is lower and the chat does not become the only storage.
+
+NEXT CLEAN STATE
+User may continue searching for the missing long concept list.
+Assistant should treat this file as proof-history capture only.
+No active guide install, no CURRENT_TRUTH_INDEX edit, and no cleanup are authorized by this save.

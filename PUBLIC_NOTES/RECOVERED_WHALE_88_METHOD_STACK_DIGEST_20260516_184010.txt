@@ -1,0 +1,287 @@
+RECOVERED WHALE — 88 METHOD STACK DIGEST
+Created: 2026-05-16 18:40:11
+Status: PROOF-HISTORY ONLY
+Install status: NOT ACTIVE DOCTRINE
+Source: C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECURSIVE_FLOW_ARCHITECTURE_REAL_WORLD_METHOD_STACK_20260511.txt
+Source SHA256: 4497527F1C270B3495EE7685619FD7A8F90B623A098F0470045EC6680524ED7C
+Numbered heading count: 88
+
+BOUNDARY
+This digest brings the 88-heading whale home as a readable recovery artifact.
+It does not edit ACTIVE_GUIDES.
+It does not edit CURRENT_TRUTH_INDEX.
+It does not authorize cleanup, deletion, movement, overwrite, folder creation, promotion, or final PASS.
+
+CURRENT VERDICT
+FOUND WITH GUARDRAIL: this is a confirmed 88-heading recovered whale from 2026-05-11. A separate larger 180-item file may still exist, but this file is real and high-value.
+
+============================================================
+GROUP 1: REAL-WORLD METHOD LENSES
+COUNT: 51
+
+L132: 1. Intelligence cycle
+Clean Seed use: This maps directly onto AUTHORITY, CAPTURE, INVENTORY, JUDGE, REVIEW / HANDOFF, and CONTINUE.
+Rule extracted: Do not analyze before the collection requirement and proof boundary are known.
+
+L149: 2. Crime-scene preservation
+Clean Seed use: This strengthens FREEZE and CAPTURE / COLLECT.
+Rule extracted: Freeze before inventory, sorting, judgment, cleanup, deletion, movement, overwrite, rename, or promotion.
+
+L166: 3. Chain of custody
+Clean Seed use: This strengthens CAPTURE, SAVE, SEAL, and REVIEW.
+Rule extracted: No proof, no authority jump.
+
+L184: 4. Forensic imaging
+Clean Seed use: This strengthens FREEZE and CAPTURE / COLLECT.
+Rule extracted: Capture before structure; structure before judgment.
+
+L200: 5. Digital forensics triage
+Clean Seed use: This makes TRIAGE an optional lens inside JUDGE, not a mandatory station.
+Rule extracted: Triage is a risk lens, not a new boss.
+
+L216: 6. Lab accessioning
+Clean Seed use: This strengthens INVENTORY.
+Rule extracted: Inventory turns captured evidence into structured identity.
+
+L235: 7. Lab notebook / electronic lab notebook
+Clean Seed use: This strengthens SAVE and SEAL.
+Rule extracted: Observation is not judgment; judgment is not action.
+
+L252: 8. Scientific method
+Clean Seed use: This strengthens JUDGE and CONTINUE.
+Rule extracted: A good idea is a hypothesis until proof and gate acceptance exist.
+
+L268: 9. Experimental controls
+Clean Seed use: This strengthens old/new comparison and REVIEW.
+Rule extracted: Do not judge a new candidate without the current/old source in view.
+
+L285: 10. Replication and reproducibility
+Clean Seed use: This strengthens SEAL and REVIEW.
+Rule extracted: If a review cannot be repeated from the evidence, it is weak.
+
+L301: 11. Peer review
+Clean Seed use: This strengthens REVIEW / HANDOFF.
+Rule extracted: Review can recommend; it does not automatically promote.
+
+L318: 12. Red-team review
+Clean Seed use: This strengthens JUDGE and REVIEW.
+Rule extracted: Attack the claim before installing the claim.
+
+L334: 13. Differential diagnosis
+Clean Seed use: This strengthens JUDGE and incident handling.
+Rule extracted: Suspect is not proven cause.
+
+L350: 14. Medical triage
+Clean Seed use: This supports optional TRIAGE inside JUDGE.
+Rule extracted: Urgency changes order of attention, not authority.
+
+L366: 15. Clinical pathway
+Clean Seed use: This strengthens station order.
+Rule extracted: Every standard route needs an exception gate.
+
+L382: 16. Incident command system
+Clean Seed use: This strengthens AUTHORITY, REVIEW / HANDOFF, and BLOCK.
+Rule extracted: No single surface should become the master brain.
+
+L399: 17. Aviation checklist discipline
+Clean Seed use: This strengthens gates and stop conditions.
+Rule extracted: Checklist gates are for high-risk transitions, not every breath.
+
+L415: 18. Systems engineering V-model
+Clean Seed use: This strengthens AUTHORITY, JUDGE, SEAL, and REVIEW.
+Rule extracted: Each promoted part must trace back to a requirement and verification.
+
+L432: 19. Requirements traceability
+Clean Seed use: This strengthens authority and proof.
+Rule extracted: No role without a reason; no gate without proof.
+
+L449: 20. FMEA
+Clean Seed use: This strengthens JUDGE and BLOCK.
+Rule extracted: Judge not only value; judge how it can fail.
+
+L467: 21. Fault tree analysis
+Clean Seed use: This strengthens incident review and cobweb analysis.
+Rule extracted: A bad outcome may have a chain, not one villain.
+
+L483: 22. HAZOP / deviation review
+Clean Seed use: This strengthens flow check.
+Rule extracted: Every station should be checked for missing, early, late, skipped, duplicated, and reversed behavior.
+
+L499: 23. STPA / control-system safety
+Clean Seed use: This strengthens gate design.
+Rule extracted: A gate must know when action is unsafe, missing, late, early, or stale.
+
+L515: 24. Lean assembly line
+Clean Seed use: This strengthens the station model.
+Rule extracted: Do not make one station do every job.
+
+L531: 25. Toyota-style jidoka / stop-the-line
+Clean Seed use: This strengthens FREEZE and BLOCK.
+Rule extracted: If proof, authority, or context breaks, stop the line.
+
+L547: 26. Kanban and WIP limits
+Clean Seed use: This strengthens ACTIVE BALL.
+Rule extracted: Too many active balls is a flow failure.
+
+L563: 27. Quality control sampling
+Clean Seed use: This strengthens CAPTURE and REVIEW.
+Rule extracted: Inspect to the risk, not to infinity.
+
+L579: 28. Statistical process control
+Clean Seed use: This strengthens CONTINUE and drift checks.
+Rule extracted: Drift is captured before it becomes action.
+
+L595: 29. Audit trail
+Clean Seed use: This strengthens SAVE and SEAL.
+Rule extracted: If later review cannot tell what happened, the seal is weak.
+
+L612: 30. Segregation of duties
+Clean Seed use: This strengthens authority boundaries.
+Rule extracted: The station that proposes should not silently promote.
+
+L628: 31. Legal discovery
+Clean Seed use: This strengthens CAPTURE, REVIEW, PROMOTE / PARK / BLOCK.
+Rule extracted: Collected does not mean produced; reviewed does not mean promoted.
+
+L645: 32. Evidence admissibility
+Clean Seed use: This strengthens JUDGE and REVIEW.
+Rule extracted: Useful-sounding proof is not automatically admissible proof.
+
+L662: 33. Archival appraisal
+Clean Seed use: This strengthens PLACE / FILE and PARK.
+Rule extracted: Not active is not trash.
+
+L678: 34. Records retention
+Clean Seed use: This strengthens SAVE, PARK, BLOCK, and deletion boundaries.
+Rule extracted: Deletion is its own gate, never a side effect of sorting.
+
+L694: 35. Library cataloging
+Clean Seed use: This strengthens INVENTORY and PLACE / FILE.
+Rule extracted: An item should be findable without becoming active truth.
+
+L710: 36. Faceted classification
+Clean Seed use: This strengthens SORT.
+Rule extracted: One label is rarely enough for complex material.
+
+L729: 37. Ontology / relationship mapping
+Clean Seed use: This strengthens machine structure.
+Rule extracted: The system needs relationships, not just piles.
+
+L748: 38. Knowledge graph / link analysis
+Clean Seed use: This strengthens context preservation.
+Rule extracted: Context travels with the item.
+
+L765: 39. Archaeological stratigraphy
+Clean Seed use: This strengthens source-ore handling.
+Rule extracted: Old material should be layered before it is judged.
+
+L781: 40. Field sampling
+Clean Seed use: This strengthens large-batch review.
+Rule extracted: Do not disturb the whole shed when a bounded sample answers the current question.
+
+L797: 41. Zero trust
+Clean Seed use: This strengthens AUTHORITY and BLOCK.
+Rule extracted: A file in the project folder is not active truth by location.
+
+L814: 42. Threat modeling
+Clean Seed use: This strengthens JUDGE and BLOCK.
+Rule extracted: Judge both usefulness and abuse path.
+
+L830: 43. Quarantine / sandboxing
+Clean Seed use: This strengthens BLOCK.
+Rule extracted: Unknown or executable material is visible but inert.
+
+L846: 44. Version control
+Clean Seed use: This strengthens SAVE and SEAL.
+Rule extracted: Change without rollback proof is high risk.
+
+L863: 45. Release management
+Clean Seed use: This strengthens PROMOTE.
+Rule extracted: Promotion is a release, not a vibe.
+
+L880: 46. Change control
+Clean Seed use: This strengthens any active-guide/current-truth update.
+Rule extracted: Judgment does not authorize change by itself.
+
+L897: 47. Root-cause analysis
+Clean Seed use: This strengthens incident review.
+Rule extracted: Freeze first, cause later.
+
+L914: 48. 5 Whys
+Clean Seed use: This strengthens JUDGE when simple cause is suspect.
+Rule extracted: Use only when the issue needs cause depth; do not turn every review into a cause hunt.
+
+L929: 49. Lessons-learned register
+Clean Seed use: This strengthens CONTINUE.
+Rule extracted: Feedback becomes future guardrail only after review.
+
+L945: 50. OODA loop
+Clean Seed use: This strengthens the recursion of the whole system.
+Rule extracted: Continue means return to orientation, not drift into the next shiny item.
+
+L963: 51. Human cognitive control
+Clean Seed use: This strengthens the whole architecture as distributed coordination.
+Rule extracted: No part decides everything. Parts coordinate through gates.
+
+
+============================================================
+GROUP 2: CORRECTED STATION ORDER
+COUNT: 13
+
+L985: 1. AUTHORITY
+L1008: 2. ACTIVE BALL
+L1031: 3. FREEZE
+L1054: 4. CAPTURE / COLLECT
+L1077: 5. INVENTORY
+L1100: 6. SORT
+L1123: 7. JUDGE
+L1146: 8. PLACE / FILE
+L1169: 9. SAVE
+L1192: 10. SEAL
+L1215: 11. REVIEW / HANDOFF
+L1238: 12. PROMOTE / PARK / BLOCK
+L1261: 13. CONTINUE
+
+============================================================
+GROUP 3: CORE PRESERVATION / CONTROL CONCEPTS
+COUNT: 10
+
+L1336: 1. Proof custody
+L1339: 2. Authority separation
+L1342: 3. Role separation
+L1345: 4. Context preservation
+L1348: 5. Stop-line authority
+L1351: 6. Optional triage
+L1354: 7. No identity promotion
+L1357: 8. No hidden deletion
+L1360: 9. Feedback loop
+L1363: 10. Bloat control
+
+============================================================
+GROUP 4: MINIMUM OPERATING ANCHORS
+COUNT: 8
+
+L1397: 1. One authority boundary
+L1400: 2. One active ball
+L1403: 3. One corrected station order
+L1406: 4. One evidence rule
+L1409: 5. One inhibition rule
+L1412: 6. One action rule
+L1415: 7. One memory rule
+L1418: 8. One feedback rule
+
+============================================================
+GROUP 5: SMALL FRONT-DOOR PIECES
+COUNT: 6
+
+L1451: 1. A tiny front-door launcher
+L1454: 2. A one-file memory/update pack
+L1457: 3. A current-ball surface
+L1460: 4. A station checklist
+L1464: 5. A proof row template
+L1467: 6. A blocked-action line
+
+NEXT CLEAN STATE
+Use this digest as the small readable front door to the recovered whale.
+Keep the full source file as proof-history ore.
+Do not install, promote, or rewrite active guides from this digest without a separate review and approval gate.
