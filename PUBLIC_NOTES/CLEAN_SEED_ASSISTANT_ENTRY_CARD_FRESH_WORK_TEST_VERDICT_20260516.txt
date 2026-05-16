@@ -1,0 +1,56 @@
+CLEAN SEED — ASSISTANT ENTRY CARD FRESH WORK TEST VERDICT
+Created: 2026-05-16
+Status: verdict / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+TESTED ITEM
+Fresh assistant answer to:
+
+CLEAN_SEED_ASSISTANT_ENTRY_CARD_FRESH_WORK_TEST_PACKET_20260516.txt
+
+STARTING DOORWAY
+CLEAN_SEED_ASSISTANT_READ_WORK_ENTRY_CARD_20260516.txt
+
+VERDICT
+PASS WITH BOUNDARY.
+
+WHAT PASSED
+The returned fresh assistant answer correctly identified:
+
+- active target: Run 020 / assistant entry-card fresh work test
+- blocked lanes: cleanup, deletion, move, overwrite, doctrine install, active-guide rewrite, public-as-local-truth, superseded drafts, names-as-commands
+- allowed next action: bounded test/proof/review work only
+- pause conditions: cleanup, deletion, install, promotion, local truth uncertainty, user judgment, Git publishing, real fork, insufficient evidence, report-treadmill risk
+- proof needed: path, hash, PowerShell output, local receipt, user approval where needed, remote check when publishing
+- local/public boundary: public state is not local truth
+- public codename boundary: names guide thinking but cannot modify the system
+- clean continuation: yes, with boundary
+- failure conditions: named correctly
+
+BOUNDARY
+This proves the assistant entry card works for a fresh assistant that is pointed to the card and test packet.
+
+It does not prove:
+- unaided repo discovery
+- doctrine install readiness
+- cleanup readiness
+- active-guide rewrite readiness
+- final engine doctrine
+
+FRESH MATERIAL NOTE
+The fresh answer did not add much new Joker-style material.
+That is acceptable.
+The goal of this test was clean work-entry behavior, not invention.
+
+NEXT CLEAN GATE
+After publishing Run 021, the next likely route is:
+
+Run 022 — Assistant Boot Command / Current Work Pointer
+
+Purpose:
+Create a tiny command-style doorway that tells a fresh assistant what to open first and what to do after entry-card PASS.
+
+CLEAN LINE
+The assistant entry card passed the fresh work test.
+The assistant can read, route, and work from the doorway.
+The next missing piece is what it should do after it enters.
