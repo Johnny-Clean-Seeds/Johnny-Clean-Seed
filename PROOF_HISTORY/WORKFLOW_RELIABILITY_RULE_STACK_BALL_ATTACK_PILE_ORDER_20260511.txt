@@ -1,0 +1,277 @@
+﻿WORKFLOW RELIABILITY RULE STACK — BALL / ATTACK PLAN / PILE PLACEMENT / ORDER SCAN
+
+Status:
+Proof-history-only rule candidate stack.
+Not active guide doctrine.
+Not current truth.
+Not cleanup authority.
+Not folder-creation approval.
+Not deletion approval.
+Not promotion approval.
+
+Purpose:
+Prevent the assistant or worker from dropping active items, scattering rule candidates, losing gold, or moving into action without a clean operating scan.
+
+RULE 1 — BALL-IN-HAND CUSTODY / NO SILENT TASK DROP
+
+Core law:
+If you are holding something, name it before you move.
+
+Purpose:
+Prevent the assistant or worker from dropping an active task, idea, proof item, save action, report, correction, or worker output because a new task appears.
+
+Trigger:
+Use before:
+- moving to next
+- switching tasks
+- starting a new command
+- saving a file
+- handing work to a worker
+- judging a worker report
+- calling PASS
+- responding after interruption
+- capturing a new idea while another item is active
+
+Required check:
+ACTIVE BALL:
+SOURCE:
+STATUS:
+WHERE IT LIVES:
+WHAT STILL NEEDS ACTION:
+NEXT GATE:
+OWNER:
+SAFE TO MOVE ON: YES / NO
+
+Allowed statuses:
+IN HAND
+ON PLATE
+IN LOCKER
+PARKED
+REST STOP
+BLOCKED
+YIELDED
+SAVED
+CLOSED
+NEXT ACTION
+
+Move-on rule:
+Do not move to a new task until the current ball is CLOSED, SAVED, PARKED, BLOCKED, YIELDED, REST STOP, or clearly carried forward as NEXT ACTION.
+
+Dirty state:
+A held item disappears, a pending save is forgotten, a worker report is skipped, or PASS is claimed while an unstated ball remains in hand.
+
+Clean state:
+Every held item has custody and the next action names what is carried forward.
+
+Verdict:
+PASS when every active item has custody and the next action is clear.
+FAIL when a held item disappears.
+YIELD when the assistant cannot tell what it is holding.
+
+
+RULE 2 — CURRENT-HELD-ITEM CARRY-IN / SMART BATCH CAPTURE
+
+Core law:
+If a related item is already in hand and the assistant is already doing a related capture, save, checkpoint, or worker handoff, include it in the same safe batch when clean.
+
+Purpose:
+Reduce dropped balls and repeated work without creating mixed-task bloat.
+
+Trigger:
+Use when:
+- multiple related rule candidates are active
+- a save/checkpoint is already being made
+- the assistant is about to move on while still holding a related item
+- user says add those, save them, or move on after several related ideas
+
+Required check:
+HELD ITEMS:
+RELATED ITEMS:
+SAFE TO BATCH:
+MUST STAY SEPARATE:
+AUTHORITY / RISK DIFFERENCE:
+SAVE ROUTE:
+NEXT GATE:
+
+Batch allowed when:
+- items share the same rule family
+- items share the same proof-history save route
+- items do not require different authority gates
+- items do not require separate user judgment
+- batching reduces loss and confusion
+
+Do not batch:
+- unrelated ideas
+- active guide edits
+- deletion/move/overwrite actions
+- risky actions
+- items needing separate proof
+- items with different file destinations
+- items that would create duplicate truth or bloat
+
+Verdict:
+PASS when related items are batched safely or separated with reason.
+FAIL when batching hides different authority/risk.
+YIELD when relation or placement is unclear.
+
+
+RULE 3 — ATTACK PLAN BEFORE ACTION / STEP BACK THEN STRIKE
+
+Core law:
+Before action, step back and name the plan.
+
+Purpose:
+Make work faster, clearer, and safer by choosing the cleanest route before commands, saves, worker handoffs, cleanup, verdicts, or task switches.
+
+Trigger:
+Use before:
+- starting a new task
+- running a command
+- saving a file
+- handing work to a worker
+- processing multiple ideas
+- doing cleanup
+- making a verdict
+- moving from review into action
+
+Attack plan fields:
+ACTIVE TARGET:
+BALLS IN HAND:
+INTENDED OUTCOME:
+SCOPE / BOUNDARY:
+BLOCKED ACTIONS:
+EVIDENCE NEEDED:
+ORDER OF ATTACK:
+WHAT CAN BE BATCHED:
+WHAT MUST STAY SEPARATE:
+EXPECTED RETURN PROOF:
+STOP / YIELD CONDITIONS:
+
+Clean state:
+The next action is clear before execution.
+
+Dirty state:
+The assistant acts from momentum, scatters tasks, forgets held items, or gives commands without knowing proof and stop conditions.
+
+Verdict:
+PASS when the attack plan is fit to the risk and action.
+PARTIAL when one field is weak but safe.
+FAIL when action begins without a needed plan.
+YIELD when target, boundary, or proof is unclear.
+
+
+RULE 4 — CORRECT PARKING / GROUPED PLACEMENT / MIXED-LIST PILE RULE
+
+Core law:
+When a list contains more than one type of item, apply the pile rule before saving, parking, filing, or acting.
+
+Purpose:
+Prevent scattering items across chat, memory, files, and next actions without placement proof.
+
+Trigger:
+Use when:
+- multiple ideas, rules, fixes, evidence items, risks, or tasks are active
+- a user gives a mixed list
+- several rule candidates appear in one run
+- the assistant is deciding where to park or save items
+- items may belong in different lanes
+
+Required pile pass:
+1. Sort items by family, type, role, risk, status, and save route.
+2. Group related items when safe.
+3. Separate items when authority, evidence, risk, approval, or destination differs.
+4. Name each item’s home lane.
+5. Save, park, hold, yield, or block each item with reason.
+
+Placement proof fields:
+ITEM:
+FAMILY / TYPE:
+HOME LANE:
+STATUS:
+SAVE ROUTE:
+WHY GROUPED OR SEPARATED:
+NEXT GATE:
+
+Grouping is preferred when:
+- items share a rule family
+- items share a save route
+- items support the same checkpoint or worker handoff
+- grouping makes the system easier to understand
+
+Separation is required when:
+- items need different authority
+- items need different proof
+- items have different risk gates
+- items need separate approval
+- items belong in different files
+- grouping would create bloat or hidden conflict
+
+Verdict:
+PASS when every item is grouped or separated with clear placement.
+FAIL when items scatter or vanish.
+YIELD when placement cannot be safely decided.
+
+
+RULE 5 — UNIVERSAL ORDER OF OPERATIONS / ALL-RULE SCAN GATE
+
+Core law:
+Before complex work, scan the whole operating field in order.
+
+Purpose:
+When several rules, files, ideas, risks, saves, workers, or actions are active at once, the assistant must first run a general order-of-operations pass so the system stays clear, scannable, and smooth.
+
+Trigger:
+Use before:
+- multi-rule work
+- multi-file work
+- worker handoff
+- cleanup
+- save batches
+- proof-history updates
+- active-guide review
+- current-truth review
+- folder/file structure decisions
+- any “crazy things at once” task
+
+Required scan:
+ACTIVE TARGET:
+BALLS IN HAND:
+MODE: STOP / DREAM / GROW
+SOURCE TRUTH:
+SCOPE / BOUNDARY:
+BLOCKED ACTIONS:
+APPLICABLE RULE FAMILIES:
+PILE / SORT NEEDED:
+EVIDENCE NEEDED:
+RISK LEVEL:
+AUTHORITY / APPROVAL NEEDED:
+NEIGHBOR SYSTEMS AFFECTED:
+WHAT CAN BE BATCHED:
+WHAT MUST STAY SEPARATE:
+SAVE / RECEIPT NEEDED:
+EXPECTED PROOF:
+STOP / YIELD CONDITIONS:
+NEXT CLEAN ACTION:
+
+Clean state:
+The assistant can see the whole field before acting.
+
+Dirty state:
+The assistant acts from one rule while another needed rule, file state, risk gate, evidence need, or neighbor system is missed.
+
+Verdict:
+PASS when the scan names the relevant rule families, boundaries, evidence, batching, separation, proof, and stop/yield points.
+FAIL when complex work begins without the scan.
+YIELD when the scan shows missing authority, unclear scope, or unknown source truth.
+
+
+CURRENT STATUS OF THIS STACK
+
+These rules are saved as proof-history guidance only.
+They are not installed into ACTIVE_GUIDES yet.
+They do not update CURRENT_TRUTH_INDEX.
+They do not authorize folder creation, cleanup, movement, deletion, overwrite, execution, extraction, or promotion.
+
+Recommended next clean state:
+Use these as worker/review guidance when continuing the Project Knowledge Stack planning.
+Install into active guides only after a separate active-guide review proves they belong.

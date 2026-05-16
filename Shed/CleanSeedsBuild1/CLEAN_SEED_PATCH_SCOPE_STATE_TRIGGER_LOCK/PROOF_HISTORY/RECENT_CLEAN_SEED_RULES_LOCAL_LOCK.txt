@@ -1,0 +1,111 @@
+﻿RECENT CLEAN SEED RULES LOCAL LOCK
+
+Purpose:
+Preserve the recent Clean Seed setup/save/process rules locally so they do not depend only on chat, memory, or compressed summaries.
+
+State boundary:
+This is a PROOF_HISTORY support file.
+This is not a fourth active guide file.
+This does not modify ACTIVE_GUIDES.
+This does not prove the whole package final PASS.
+This preserves recent clean rules before regression or compression loss.
+
+Saved items:
+
+1. EASY SETUP WALKTHROUGH / INSTALLER-FIRST USER PATH
+
+When a user wants to make a build using the Clean Seed model setup, the assistant should walk them through it like the successful local install:
+- give one clean default location
+- create or provide a safe installer/script/file packet when possible
+- make the user run one simple command instead of manually sorting files
+- back up existing local folders before overwrite
+- install active guide files separately from proof/history and live-test files
+- verify expected files and hashes when available
+- print short PASS/FAIL lines
+- ask the user to return only printed PASS/FAIL or error lines
+- then state exactly where the files are and what to open next
+
+This belongs as startup/build-handoff behavior, not a fourth guide file and not a separate control system.
+
+2. SAVE METHOD / NO DUPLICATE DOWNLOAD DRIFT
+
+When files, package updates, proof reports, live-test folders, or build artifacts need to be saved locally, default to the clean installer/file-packet method instead of scattered browser downloads.
+
+Clean save method:
+- use one clear local root
+- create one named package/build folder
+- separate ACTIVE_GUIDES from PROOF_HISTORY and live-test/build folders
+- back up existing folders before overwrite
+- write stable filenames instead of browser duplicate names like (1), (2), or final_final copies
+- verify expected files and hashes when available
+- print short PASS/FAIL lines
+- ask the user to return only those lines or errors
+- then state exactly where the files are and what to open next
+
+Single harmless one-off files may still use direct download when they are clearly named and not active package truth.
+
+3. LOCAL SAVE RULE / NO MEMORY-ONLY TRUST
+
+"Saved in memory" does not mean saved in a user-owned local file.
+
+Memory, chat, and summaries are reference-only convenience, not durable package proof.
+They can compress, lose detail, distort wording, or fail to transfer later.
+
+Clean rule:
+Any clean rule, patch candidate, proof report, package update, live-test result, or trust-affecting saved item that matters long term must be saved to the user's PC or another user-controlled durable location when practical.
+
+Reason:
+Local save prevents important clean milk from being trapped only in chat or memory where it may be lost or compressed.
+
+Future wording should distinguish:
+- memory-captured
+- local-file-saved
+- package-file-installed
+- proof-history-saved
+- exported/sent
+
+4. PRE-RUN INSTALLER / FILE EXISTENCE GATE
+
+Before asking the user to run a downloaded installer, script, file packet, or local-save command, verify the file path first.
+
+Correct order:
+- name the target local path
+- make sure the file is actually saved there
+- use Test-Path or equivalent before execution
+- if missing, stop cleanly with installer-location FAIL
+- do not call it package failure
+- use the smallest clean fix, such as an inline PowerShell save packet when a download path is unreliable
+
+Reason:
+A script cannot be run from Downloads unless the file actually exists in Downloads.
+
+5. PARTIAL RETURN EVIDENCE / GOLD-LOSS REMINDER
+
+When the assistant asks the user to return exact PASS/FAIL/error lines and the user sends only a shortened summary such as "pass," partial output, or selected lines, the assistant must not shame the user or call the package failed.
+
+Correct classification:
+Partial return evidence.
+
+Reminder:
+A shortened return is okay as a quick signal, but it may lose valuable proof/gold:
+- which file passed
+- which file failed
+- what command finished
+- which folder was used
+- what evidence can be trusted later
+
+Correct assistant action:
+Ask only for the missing proof lines or run a small existence check.
+Do not restart the whole process.
+Do not treat partial return as full receipt-quality proof.
+Do not treat it as package failure.
+Keep the active thread anchored.
+
+Reason:
+Exact returned output prevents compression, missing evidence, duplicate work, and false PASS.
+
+Current return anchor:
+After this local save is verified, return to the live seed test checkpoint:
+C:\CleanSeedsBuild\CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK\LIVE_SEED_TEST_001\SEED_BUILD_CARD.txt
+
+Stage 0 still requires user acceptance or exact correction before it closes.

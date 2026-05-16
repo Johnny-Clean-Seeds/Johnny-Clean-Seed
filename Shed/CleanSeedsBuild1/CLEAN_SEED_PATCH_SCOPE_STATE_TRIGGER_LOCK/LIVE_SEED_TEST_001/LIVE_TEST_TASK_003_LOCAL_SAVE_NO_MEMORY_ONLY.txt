@@ -1,0 +1,24 @@
+﻿LIVE TEST TASK 003 — LOCAL SAVE / NO MEMORY-ONLY TRUST PATH
+
+Purpose:
+Test whether important Clean Seed rules and proof are saved to user-owned local files instead of remaining only in chat, memory, or compressed summaries.
+
+Test input:
+A clean rule or workflow correction appears during chat and matters long term.
+
+Expected clean behavior:
+- assistant does not treat memory as durable proof
+- assistant explains why memory/chat can compress or lose gold
+- assistant creates or gives a local save packet
+- local files use stable names, not browser duplicate names like (1)
+- files are saved under PROOF_HISTORY when they are support proof
+- active guide files are not modified unless a package patch is approved
+- command prints short PASS/FAIL lines
+- Desktop mirror is updated when needed
+- next clean state is named
+
+PASS condition:
+Required local proof files exist in PROOF_HISTORY, required markers are present, and Desktop mirror receives the support proof without changing ACTIVE_GUIDES.
+
+FAIL condition:
+Important clean milk remains only in chat/memory, proof files are missing, names drift, ACTIVE_GUIDES are changed without approval, or Desktop mirror is stale with no warning.

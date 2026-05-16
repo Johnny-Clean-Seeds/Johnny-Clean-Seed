@@ -1,0 +1,163 @@
+﻿CHATGPT MEMORY UPDATE PACK 20260511
+
+Created:
+2026-05-11 03:06:09 -04:00
+
+Status:
+One-file memory/update pack.
+Proof-history-only.
+Not active guide doctrine.
+Not current truth.
+Not a fourth guide.
+Not cleanup authority.
+Not deletion approval.
+Not folder-creation approval.
+Not promotion approval.
+
+Project root:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+
+Active source-of-truth order:
+1. CURRENT_TRUTH_INDEX.txt
+2. AGENTS.md for local technician / Codex bridge limits
+3. ACTIVE_GUIDES:
+   - README_START_HERE.txt
+   - CLEAN_SEED_WRAP_GUIDE.txt
+   - CLEAN_SEED_ALIGNMENT_CHECK.txt
+4. PROOF_HISTORY only as support proof/history
+5. LIVE_SEED_TEST_001 only as scoped test evidence
+
+Current active guide hashes:
+CURRENT_TRUTH_INDEX.txt:
+6CDD8E83AE95AE76F4658188452B799633B8CE76B4AEB93346E2E1C3FC715408
+
+AGENTS.md:
+C8EAB85B490B91B54B0E4FAF3BF81B825B63C4A6401A5039A587F0B0034F77A9
+
+README_START_HERE.txt:
+EFF0CE517F5647016E04715761F505DBB3D5B0023E51256EBB8750AFABDDEFF1
+
+CLEAN_SEED_WRAP_GUIDE.txt:
+B14955F9BBBB52DBFC4E3786FF7CB2FCC0ECDB114A275DB06A591966B9FEF6FE
+
+CLEAN_SEED_ALIGNMENT_CHECK.txt:
+EDE9C65D7367D6EE507E31B6532760AE945A3B8CAB7E9D5E08FAA68CCFBD70AA
+
+Core operating laws:
+- Done is not PASS.
+- Movement is not proof.
+- Confidence is not proof.
+- Memory is not file truth.
+- Proof-history is not active doctrine by identity.
+- User owns direction and final approval.
+- Assistant guides inside approved boundary.
+- Technician/Codex may review and advise but is not final authority.
+
+Current wording preference:
+Use fixing, repair, correction, guide update, active-file change, install, or refinement.
+Avoid casual "patch" language except exact historical IDs, file names, or old labels.
+
+Current cleanup / shed rule:
+Pile-making is not judging.
+Judging is not fixing.
+Fixing is not deleting.
+
+Correct shed order:
+FREEZE
+CAPTURE / COLLECT
+INVENTORY
+SORT
+TRIAGE if needed
+JUDGE
+PLACE / FILE
+SAVE
+SEAL
+REVIEW
+PROMOTE / PARK / BLOCK
+
+Capture / collect correction:
+CAPTURE / COLLECT belongs after FREEZE and before INVENTORY.
+It means preserve visible evidence while untouched:
+paths, names, timestamps, sizes, hashes when needed, file lists, command output, receipts, logs, and current state.
+Inventory turns that captured evidence into a structured list.
+Sort makes piles.
+Judge decides value, risk, authority, and next gate.
+
+Five shed lenses:
+1. Forensic lens: preserve.
+2. Archive lens: identify.
+3. Sorting lens: group.
+4. Triage lens: prioritize only if needed.
+5. Promotion lens: move only after proof.
+
+Batch / one-piece rule:
+Use batch flow for CAPTURE / INVENTORY / SORT.
+Use one-piece flow for JUDGE / PLACE / SAVE / SEAL.
+
+Recent saved proof-history states:
+- COPY_PASTE_CONTAINER_BOUNDARY_RULE_20260511 saved proof-history-only.
+- OPERATING_SURFACE_PROPOSAL_20260511 saved proof-history-only with duplicate-run incident recorded.
+- TECH_REVIEW_OPERATING_SURFACE_PROPOSAL_20260511 saved proof-history-only.
+- CAPTURE_COLLECT_BEFORE_INVENTORY_STATION_RULE_20260511 saved proof-history-only.
+- Shed inventory was paused until corrected order was saved.
+
+Operating Surface Proposal state:
+Held proof-history-only with guardrails.
+Useful as a view, not a boss.
+Not active guide doctrine.
+Not current truth.
+Not promotion.
+Future front-door/placement review remains candidate only.
+
+Technician minimal prompt shape:
+Load project authority:
+CURRENT_TRUTH_INDEX.txt
+AGENTS.md
+ACTIVE_GUIDES
+
+Target:
+Name the exact target.
+
+Order:
+Use only the relevant order.
+
+Scope:
+No edits, moves, deletes, renames, overwrites, folders, scripts, cleanup, promotion, or final PASS unless explicitly approved.
+
+Return:
+VERDICT
+EVIDENCE USED
+WHAT WAS CAPTURED / REVIEWED
+WHAT WAS NOT TOUCHED
+SUSPECT / COBWEB ITEMS
+BLOCKED ACTIONS
+NEXT CLEAN ACTION
+
+Project stack direction:
+Use existing designated folder first.
+Do not create a new project root by default.
+Start with files, sections, indexes, and templates first.
+Folders come later only if volume proves need and user explicitly approves.
+PROJECT_MISSION_CONTROL_INDEX, if later approved, is a project-stack front door only and must not replace CURRENT_TRUTH_INDEX.
+PROJECT_KNOWLEDGE_STACK_MASTER_INDEX, if later approved, indexes stack contents only and must not replace CURRENT_TRUTH_INDEX.
+
+Current blocked actions by default:
+No ACTIVE_GUIDES edit.
+No CURRENT_TRUTH_INDEX edit.
+No AGENTS.md edit unless explicitly approved with backup and receipt.
+No file movement.
+No deletion.
+No rename.
+No overwrite.
+No folder creation.
+No cleanup.
+No script execution.
+No shortcut execution.
+No zip extraction.
+No promotion of proof-history into active truth.
+
+Current next clean action after this pack:
+Use this file only as a compact memory/update handoff.
+If shed work resumes, start with:
+FREEZE -> CAPTURE / COLLECT -> INVENTORY -> SORT
+and do not clean or delete.

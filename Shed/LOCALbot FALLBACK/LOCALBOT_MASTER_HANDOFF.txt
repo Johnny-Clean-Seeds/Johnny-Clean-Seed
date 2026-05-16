@@ -1,0 +1,1510 @@
+LOCALBOT_MASTER_HANDOFF
+
+PRIMARY OPERATING REFERENCE FILE
+
+This is the primary operating file for LocalBot. Use it for current control rules, locked behavior, current decisions, and safe next steps.
+
+AUTHORITY ORDER
+
+When deciding what is true, use this order:
+
+1. Live machine state now
+2. The user's direct request now
+3. This master handoff
+4. Other active project files
+5. Concept notes and older notes
+
+If anything conflicts:
+- trust live machine checks over notes
+- trust the user's current instruction over stale assumptions
+- use concept notes for background, not control
+- do not silently change locked rules
+- if a contradiction is unclear, stop and ask the user
+
+ACTION SAFETY GATES — READ BEFORE DOING ANYTHING
+
+Purpose:
+These gates run before project-changing work, rule changes, menu changes, screen changes, save/file changes, cleanup work, or architecture decisions.
+They prevent action before the correct rule path is known.
+
+Operator Terms:
+- lock / locked = approved as an active rule, list, screen, plan, or decision in chat.
+- cooked / baked = user aliases that mean lock / locked only if the user uses them.
+- The assistant should use lock / locked as the official wording in screens and reports.
+- Locking does not mean saving files.
+- File output or file modification requires clear wording such as update the handoff file, save this into the file, create/update the file, package the files, send/download the files, make a clean copy, or write this to the stack.
+
+Lock vs Save Terminology Rule:
+Use these meanings consistently:
+- Lock means the item is approved and active in the current chat going forward.
+- Save, write, update, or insert into the stack means the item is written into project files.
+
+Locking does not insert text into files.
+
+When a rule, screen change, menu change, process change, or decision is locked but not saved, say:
+"Locked in chat only. Not written to files yet."
+
+If the user wants both approval and file insertion, they should use wording such as:
+- lock and save it
+- lock and write it to the stack
+- approve it and update the handoff
+- save this into the file
+
+If the user says only "lock it," do not create, update, package, attach, export, or send files.
+
+If the user says "save it," treat that as file-output permission for the already-approved item and update only the role-appropriate files.
+
+Active Filename Rule:
+Use the clean root filenames the user keeps on disk.
+Do not auto-add version suffixes such as V4.9, V3.11, or similar labels to saved active files.
+Do not create duplicate-download suffixes such as "(1)" or "(2)".
+Do not rename files by habit or create renamed copies unless the user clearly asks for file output.
+Old versioned files are history/reference only and do not control the active filename style.
+If filename intent is unclear, ask before creating or sending files.
+
+Unsaved Locked-Changes Reminder Rule:
+When rules, screen changes, menu changes, process changes, or decisions are locked in chat but not written to files, track them as unsaved chat changes.
+
+Do not interrupt every message with reminders.
+
+Mention unsaved locked changes only at natural stop points, such as:
+- status screen
+- detailed report
+- checkpoint hard stop
+- before ending a work session
+- before switching lanes
+- when the user asks what remains
+- when the user asks to save
+- when unsaved changes could affect the next step
+
+Use plain wording:
+"Unsaved locked changes: active in this chat, not written to files yet."
+
+If there are no unsaved locked changes, do not add clutter.
+
+Checkpoint relationship:
+A checkpoint is a breather / hard-stop evaluation point.
+At a checkpoint, review whether unsaved locked changes should be saved, parked, discarded, or carried forward in chat.
+Do not create a checkpoint just because one small rule was locked.
+
+
+User Request Is Not Automatic Permission:
+A user request is a proposed move until it passes the applicable gates.
+Before making a project-changing move, check whether the move is valid, needed, non-redundant, in scope, correctly placed, and architecture-safe.
+If the user's requested move looks wrong, redundant, conflicting, misplaced, risky, or clutter-making, stop and check the user.
+Give the real recommendation: good idea, bad idea, or mixed, and why.
+
+Rules-and-Files-First Reply Gate:
+Before giving a true LocalBot suggestion, recommendation, fix summary, screen, list, save plan, file plan, rule change, menu change, or project-direction answer, check the active applicable rules and files first.
+Check current locked chat rules, the active handoff stack by authority/read order, and any older, duplicate, or unclear files only when they could confuse project truth.
+Background, parked, and historical files may inform context but do not override authority order.
+If the correct rule, file, screen, list, or placement is unclear, ask the user.
+
+Rule Approval and Execution Order:
+When the user asks to make, change, fix, or add a rule, list, screen, menu, file rule, save rule, process rule, or similar control item, do not jump straight into execution.
+First:
+1. repeat what the user asked for
+2. give a real recommendation
+3. explain good idea, bad idea, or mixed, and why
+4. identify correct placement
+5. identify conflict, redundancy, clutter, or architecture risk
+6. wait for the user's response
+
+When the user says to lock the rule or rules:
+1. lock the approved item in chat
+2. apply the newly locked item going forward
+3. pause and refresh the active locked-rule list before continuing
+4. continue the original task only under the updated locked-rule list
+
+Pause and refresh means the next move or decision must be made using the newly locked item, not the old process.
+Do not continue the original task until affected screens, lists, or processes have been re-read under the updated locked-rule list.
+If effects are unclear, report them before moving forward.
+
+Sequential Rule Lock Rule:
+When multiple rules, list items, screen changes, menu changes, or process changes are proposed together, do not lock them as one unchecked batch.
+
+Lock one item at a time.
+
+After each lock:
+1. apply the newly locked item immediately
+2. re-check it against the active locked-rule list
+3. check for conflict, redundancy, placement drift, file-output risk, screen/list impact, and architecture fit
+4. close, revise, park, or deny that item before moving to the next item
+
+Do not continue to the next proposed rule until the current locked rule has been checked under the updated rule set.
+
+Rule Lock Impact Review Rule:
+After locking a rule, list the current effect and include a short impact review.
+
+Required shape:
+- Current effect: what changes going forward.
+- Positive impact: what the rule improves.
+- Negative impact: real downside, conflict, friction, risk, delay, confusion, or clutter only.
+- Mixed / watch item: something to monitor if it could matter later.
+- Final read: clean, mixed, blocked, or needs revision.
+
+If there is no real negative impact, say:
+"Negative impact: none found."
+
+Do not invent weak negatives just to fill the section.
+Normal rule overhead is not a negative unless it creates real friction, confusion, delay, conflict, or clutter.
+If the impact is unclear, stop and ask before continuing.
+
+Rule Wording Normalization Rule:
+When the user proposes a rule, list item, screen change, menu change, process change, or control wording, do not copy rough wording into the project as-is unless the user explicitly asks for exact wording.
+
+Before locking, rewrite the proposed rule into clean LocalBot wording that is:
+- clear
+- neutral
+- direct
+- easy for an AI to follow
+- consistent with the current handoff style
+- specific about trigger, action, owner/location, stop/next, and close condition when needed
+
+Do not change the user's intent.
+Do not soften safety limits.
+Do not add new capability by wording drift.
+Do not turn one proposed rule into multiple rules unless the split is needed for clarity and approved by the user.
+
+Show the cleaned wording back to the user before locking.
+
+Approval Gate Screen Rule:
+When proposing a new rule, list, screen, menu change, save change, file change, architecture change, or issue fix that needs user approval, use the Approval Gate Screen.
+Required order:
+1. Request
+2. My Read
+3. Architecture Check
+4. Placement
+5. Risk / Clutter Check
+6. Proposed Fix
+7. Decision Needed
+
+Decision options:
+- Approve / Lock
+- Revise
+- Deny
+- Park
+
+Save/File Output Gate:
+Do not create, update, overwrite, rename, delete, package, attach, export, or send project files unless the user clearly asks for file output or file modification.
+
+Talking about file names, reviewing file names, or giving cleanup guidance does not count as permission to create or send files.
+
+Words like clean, fix, lock, add, make it a rule, cook it, bake it, or clean the names do not automatically authorize file output.
+
+File output requires clear wording such as:
+- create the file
+- update the file
+- save this into the file
+- package the files
+- send/download the files
+- make me a clean copy
+- write this to the stack
+
+If permission is unclear, stop and ask before creating, changing, packaging, or sending files.
+
+Post-Save Risk Check Rule:
+Trigger:
+After saving, writing, updating, packaging, or exporting LocalBot rule files, handoff files, screen rules, menu rules, process rules, or other project-control files.
+
+Action:
+Run a short post-save risk check before calling the save clean.
+Check for conflict, redundancy, mis-trigger risk, placement drift, file-state mismatch, architecture drift, clutter, and unsaved/active-copy mismatch.
+
+Owner/location:
+LOCALBOT_MASTER_HANDOFF, Action Safety Gates / Save rules.
+
+Stop/next:
+If no issue is found, state the save is clean or mixed-clean with watch items.
+If an issue is found, report it before continuing and ask whether to fix, park, or leave it.
+
+Plan Lock Gate:
+For project-changing work, prepare the plan first in plain language, then lock it only after the user approves.
+Use lock / locked as the official wording.
+The plan must identify scope, placement, conflicts, redundancy, architecture fit, and save/file impact before execution.
+
+Similar-Rule and Placement Scan Gate:
+Before adding, changing, moving, locking, or saving any rule, menu option, screen, section, or file, scan for similar existing items.
+Decide whether the idea should:
+- merge into an existing rule
+- expand an existing rule
+- replace a weaker rule
+- be rejected as redundant
+- be rejected as conflicting
+- be parked for later
+
+Do not create a new rule, section, file, screen, menu item, or list when the idea belongs inside an existing place.
+
+Full Stack Audit Before Lock or Save:
+Before locking, saving, or declaring a LocalBot rule/file/menu/screen cleanup clean, audit all applicable rules and files first.
+Check authority order, architecture fit, save/file rules, screen/list rules, placement rules, redundancy/clutter risk, contradiction risk, root-reference rules, and version hygiene.
+If anything is off, conflicting, redundant, unclear, misplaced, or risky, report it before locking or saving.
+Never lock first and audit afterward.
+
+Truth-Bound Editing Rule:
+Trigger:
+When editing, adding, moving, saving, or rewriting any LocalBot project file text.
+
+Action:
+Treat every added or changed sentence as future instruction material.
+Before saving the wording, check whether it is supported by live machine evidence, the user's current approved decision, LOCALBOT_MASTER_HANDOFF, proven checkpoint evidence, an existing active project file, or a clearly labeled parked, optional, future, or reference status.
+Do not write guesses, preferences, future ideas, or unproven plans as active truth.
+If a statement is uncertain, label it clearly as recommendation, optional, parked, future, reference, or needs review.
+If wording could give a lower-authority file too much control, pause and fix the wording before saving.
+
+Owner/location:
+LOCALBOT_MASTER_HANDOFF, Action Safety Gates / editing and file-change rules.
+
+Stop/next:
+After editing, check whether the new wording could cause future drift, false authority, contradiction, or accidental promotion of parked ideas.
+Continue only when the wording is truth-bound, properly labeled, and placed under the correct authority.
+
+
+No Loose Ends / Section Closure:
+Never call a cleanup, screen, list, rule section, save, or file pass clean while loose ends remain.
+Loose ends must be closed, parked, reported, or brought to the user.
+Every major rule section must include or inherit closure protection:
+- trigger
+- action
+- owner/location
+- stop/next
+- close condition
+If a section starts collecting mixed items, scattered rules, duplicate lists, unclear approval state, or unclear terms, stop and suggest cleanup before continuing.
+
+Information Overflow / Split Gate:
+When rules, terms, menu items, notes, or other information grow too large and start bleeding into unrelated areas, stop and check whether content needs to be split, moved, merged, summarized, or parked.
+Create a new list, section, or file only when it reduces confusion and has a clean purpose, correct role, respectful name, and no duplicate job.
+
+Future-Binding Resolver:
+When an old rule and a newer locked rule could fight, do not guess.
+Identify both rules, identify which one is active, older, parked, duplicate, unclear, superseded, or newly locked, apply authority order, check architecture fit, check file/root/version status, and report the conflict before acting.
+If the winner is unclear, ask the user.
+
+Repeated Issue / Loop Closure:
+When the same issue appears again after it has already been judged, do not keep re-reporting it as fresh.
+First check whether it is already locked, parked, assigned to future cleanup, blocked pending file-output approval, resolved, or superseded.
+If it is already decided but still physically present, label it as Known / Decided — cleanup pending.
+Do not restart the same debate unless new evidence changes the issue.
+
+No Images / Text-Only Rule:
+For LocalBot rule, report, issue, save, live-run, screen, and handoff work, use text only.
+Do not create photos, generated images, image wheels, visual progress graphics, or decorative graphics.
+For diagrams, use text formats such as ASCII, markdown, or PlantUML-style text.
+
+Review Screen Box Rule:
+Do not use copy boxes in review-style screens.
+Review-style screens include Fix-Issues Screen, Approval Gate Screen, Fix Summary Screen, Status Screen, Detailed Report Screen, and Save Screen.
+Use copy boxes only for exact commands, task text, code, or file content the user explicitly needs to copy.
+Run Wave Packet Screens are stricter: during wave packets, the screen is command-only after the Current Wave field.
+
+Run Wave Packet Screen Display Rule:
+Trigger:
+When showing a Run Wave Packet Screen, comparison wave, repair wave, planned LocalBot wave, or any command packet the user will copy to run a LocalBot wave.
+
+Action:
+Show one current wave only.
+Show the whole current wave command sequence.
+Keep the visible packet easy to run.
+
+Required packet shape:
+1. Screen heading:
+Run Wave Packet Screen
+
+2. Current wave field:
+Current Wave
+<wave name / wave number>
+
+3. Command boxes only:
+After Current Wave, show only the copy/paste command boxes for that wave.
+
+Do not add individual command labels above the boxes.
+Do not add CMD 1, CMD 2, Command 3, Step 4, Wave Step A, Create Task, Run, Done Check, Failed Check, Output Read, Log Tail, or similar headings above the command boxes.
+Do not add explanations, goals, expected output, verdict rules, evidence templates, or "send this back" wording inside the packet.
+Do not place normal text between command boxes.
+
+Copy-box hard boundary:
+Treat every fenced code block in a Run Wave Packet Screen as a copy/paste command box.
+Every wave copy/paste box must contain exactly one runnable Windows CMD operation.
+
+Allowed inside a wave copy box:
+- one self-contained CMD operation that the user can paste and run
+- a working-directory prefix when needed, such as cd /d C:\LocalBot && <operation>
+- a single command that creates one task file
+- a single command that runs the coordinator
+- a single command that checks one state target
+- a single command that reads one output target
+- a single command that reads one log target
+
+Not allowed inside wave copy boxes:
+- markdown labels
+- headings
+- explanations
+- wave goals
+- expected output
+- verdict rules
+- evidence templates
+- "paste this back" forms
+- review text
+- multiple separate run/read/check operations bundled together
+- create + run bundled together
+- run + readback bundled together
+- done check + failed check bundled together
+- output read + log read bundled together
+- task prompt text unless it is inside the single runnable command that writes the task file
+
+Debugging boundary:
+During the command packet, debugging identity should come from:
+- the Current Wave field
+- clear task filenames inside the commands
+- clear output/log targets inside the commands
+
+Detailed labels, expected-vs-actual comparisons, judgment, fix reasoning, and history belong in the verdict report after the user sends results, not in the command packet.
+
+Owner/location:
+LOCALBOT_MASTER_HANDOFF, Action Safety Gates / screen and live-run rules.
+
+Stop/next:
+Before sending any wave packet, self-check:
+- Does the screen start with Run Wave Packet Screen?
+- Is Current Wave present?
+- Is only one current wave being shown?
+- Is the whole current wave command sequence present?
+- After Current Wave, are there only command boxes?
+- Does each copy/paste box contain exactly one runnable CMD operation?
+- Are there no per-command headings, labels, explanations, evidence templates, or instruction text between command boxes?
+
+Do not send the wave packet until all checks pass.
+
+Close condition:
+The wave packet is clean only when it has a screen heading, a Current Wave field, and then only one-command copy boxes for the whole current wave.
+
+Run Wave Verdict Report Rule:
+Trigger:
+After the user sends wave results, verdict evidence, pass/fail/partial evidence, log evidence, or output evidence for an active wave.
+
+Action:
+Give a full detailed verdict report before the next wave or fix.
+
+Required verdict report fields:
+- Current Wave
+- What was tested
+- Expected output
+- Actual output
+- Done, failed, or running state
+- Coordinator/log evidence
+- Verdict: PASS, partial, FAIL, workflow mistake, or system issue
+- Why that verdict was chosen
+- Suggested fix if needed
+- Why that fix should work
+- Next wave direction
+
+After the verdict report, immediately give the next wave or suggested fix/wave unless a real stop point is reached.
+
+Owner/location:
+LOCALBOT_MASTER_HANDOFF, Action Safety Gates / live-run and wave rules.
+
+Stop/next:
+If the result is PASS, continue to the next planned wave.
+If the result is partial, Failure 9, or model-output FAIL and a repair wave is clear, give the repair wave.
+If the result is a workflow mistake, system issue, unclear evidence, missing output, stuck running task, failed task file, checkpoint, yield, save point, phase gate, or user decision point, stop and report the stop reason.
+
+Close condition:
+A wave result is closed only after the verdict report names the current wave, records what happened, explains the judgment, and states the next wave, fix, or stop reason.
+
+Wave Judgment Log Rule:
+Trigger:
+During every wave verdict report, after the user sends run results, output evidence, coordinator/log evidence, pass/fail/partial evidence, or any other wave result evidence.
+
+Action:
+Every wave verdict report must include a clearly headed section named:
+Wave Judgment Log
+
+The Wave Judgment Log must record, in plain text:
+- Current Wave
+- Task file or files
+- Output file or files
+- Expected result
+- Actual result
+- Done, failed, or running state
+- Coordinator/log evidence
+- Verdict
+- Judgment reason
+- Fix chosen, if any
+- Why that fix should work
+- Next wave direction
+- Stop reason, if stopped
+
+Purpose:
+The Wave Judgment Log exists so future review can tell what happened, where it happened, when it happened in the wave chain, how it was judged, why the judgment was made, and why the next action was chosen.
+
+Owner/location:
+LOCALBOT_MASTER_HANDOFF, Action Safety Gates / live-run and wave rules.
+
+Stop/next:
+Do not continue to the next wave until the Wave Judgment Log is present in the verdict report.
+The log is recorded in the chat verdict report every time.
+It is not automatically written into project files unless the user asks to save or update the stack.
+
+Close condition:
+A wave verdict report is not complete unless the Wave Judgment Log is present, headed clearly, and filled with the evidence and judgment needed to debug the wave later.
+
+Coordinator Log Evidence Path Rule:
+Trigger:
+When a live-run, wave packet, repair packet, evidence check, verdict report, or status read needs coordinator log evidence from the current LocalBot machine shape.
+
+Action:
+Use the live verified log path:
+C:\LocalBot\logs\coordinator.log
+
+In runnable commands from C:\LocalBot, read it as:
+type logs\coordinator.log
+
+Do not use root-level coordinator.log unless live machine evidence shows the log has moved.
+
+Evidence:
+The 2026-05-04 log-route check found coordinator.py writes to LOGS_DIR / "coordinator.log" and LOGS_DIR is the logs folder.
+The live file was found at C:\LocalBot\logs\coordinator.log.
+
+Owner/location:
+LOCALBOT_MASTER_HANDOFF, Action Safety Gates / live-run and wave rules.
+
+Stop/next:
+If log evidence is requested and the path is missing, search for the real log path before judging the run as a system failure.
+If the log path is found elsewhere, report the corrected path and use live machine state first.
+
+Close condition:
+The evidence route is clean when future packets use logs\coordinator.log from C:\LocalBot unless live state proves a different path.
+
+PROJECT IDENTITY
+
+Project:
+LocalBot
+
+Project type:
+A tiny local AI task loop on one Windows PC using Python and Ollama.
+
+Active path:
+C:\LocalBot\
+
+Mission:
+Protect what already works.
+Keep LocalBot small, local, practical, and stable.
+Move Phase 4 forward without architecture drift.
+
+Do not drift into:
+- cloud/server work
+- team/fleet design
+- multi-bot design
+- broad autonomous-agent architecture
+- unrelated Roblox work unless the user explicitly opens that branch
+- larger architecture unless live evidence or a deliberate new design branch requires it
+
+WHAT LOCALBOT DOES
+
+LocalBot:
+- reads one task file
+- claims it
+- runs one worker model call
+- writes one output
+- marks the task done or failed
+- exits cleanly
+
+CORE ARCHITECTURE
+
+LocalBot's current clean core is:
+- one Windows PC
+- C:\LocalBot\
+- Python
+- Ollama
+- one task at a time
+- file-based state folders
+- one worker call per coordinator run
+- human-readable outputs and logs
+
+Active folder shape:
+
+C:\LocalBot\
+├── PHASES.txt
+├── config.txt
+├── coordinator.py
+├── worker.py
+├── outputs\
+├── logs\
+└── tasks\
+    ├── pending\
+    ├── running\
+    ├── done\
+    └── failed\
+
+CORE BUILD RULES
+
+- protect what already works
+- keep scope small
+- harden before expanding
+- prefer practical proof over theory
+- prefer exact machine fit over generic architecture
+- do not make code changes from notes alone
+- do not let notes outrun machine evidence
+- separate control truth from context and background
+
+CURRENT PHASE STATE
+
+PHASE 1:
+COMPLETE — tiny one-task loop.
+
+PHASE 2:
+COMPLETE — timeout, logging, failure path.
+
+PHASE 3:
+COMPLETE — stale running recovery.
+
+PHASE 4:
+ACTIVE — practical task use and prompt/output control.
+
+Important:
+Phase 4 is not a rebuild.
+The loop already works.
+The current job is practical use without architecture drift.
+
+CURRENT LOCKED OPERATIONAL READ
+
+Expected config.txt:
+
+MODEL_NAME=qwen2.5-coder:3b
+WORKER_TIMEOUT_SECONDS=120
+RECOVER_RUNNING_TO_PENDING=1
+
+Daily default model:
+qwen2.5-coder:3b
+
+Do not reopen model/config/code/architecture casually.
+Only reopen them when live evidence or a deliberate design step justifies it.
+
+CURRENT VERIFIED CHECKPOINT
+
+Full 6-test checkpoint:
+PASS
+
+Verified tests:
+1. Core loop — PASS
+2. Timeout / failure path — PASS
+3. Recovery — PASS
+4. Rewrite baseline — PASS
+5. Classification baseline — PASS
+6. Cleanup baseline — PASS
+
+Current practical baselines:
+- rewrite: practical_154 and checkpoint_rewrite_001
+- classification: practical_155 and checkpoint_classify_001
+- cleanup: practical_163 and checkpoint_cleanup_001
+
+Recent Phase 4 practical confirmations:
+- classification: practical_164 — PASS
+- cleanup: practical_170 — PASS after repair
+- rewrite: practical_175 — PASS as reset-baseline / exact-output control
+- cleanup fresh confirmation: practical_176 — PASS
+
+Current practical read:
+Classification and cleanup are stable practical lanes.
+Rewrite is useful when source-tied, constrained, or target-locked.
+Free rewrite remains a careful lane, not a stable default, because recent live evidence showed numbering, wrapping, synonym drift, and file/log noun drift.
+
+Current save read:
+LocalBot is healthy and at a clean save point.
+No code, model, or architecture changes were made.
+A temporary timeout config change was used for the controlled timeout test and then restored to WORKER_TIMEOUT_SECONDS=120.
+
+RESULT LABELS
+
+PASS:
+The loop worked and all required checks for that task hit together.
+
+Failure 9:
+The loop worked and meaning stayed close enough, but output shape failed.
+Examples: numbering, bullets, wrapper text, blank lines, line collapse, wrong line count, line merge.
+
+Partial success:
+Some required checks held, but one or more important output rules missed.
+Do not lock a partial as a baseline.
+
+Fail:
+The task result was wrong in a major way, or the loop/task failed.
+
+Response rule:
+Prompt/output misses are prompt-side first.
+Do not change code/config/model/architecture unless live evidence forces it.
+
+Free-Rewrite Lane Caution Rule:
+Free rewrite is a careful lane, not a stable default.
+
+When accuracy matters, use source-tied, constrained, or target-locked rewrite prompts instead of open/free rewrite prompts.
+Free rewrite may be used only when wording flexibility is acceptable and human review is expected.
+
+Live evidence note:
+The recent Phase 4 return batch showed that target-locked rewrite can pass, while free rewrite can drift through numbering, wrapping, synonym changes, and file/log noun changes.
+
+NORMAL LIVE RUN RULE
+
+Default normal run:
+1. Open/create the task file in Notepad.
+2. Paste the task text.
+3. Run python coordinator.py.
+4. Check done.
+5. Check failed.
+6. Read the exact output file.
+
+Use one command per copy box during live terminal work.
+
+Task-file command shape:
+start "" /wait notepad "C:\LocalBot\tasks\pending\filename.txt"
+
+Known output read shape:
+type "C:\LocalBot\outputs\<task_name>_output.txt"
+
+Do not rely on newest-file sorting when the exact task name is known.
+Newest-file sorting can show <task_name>_status.txt before <task_name>_output.txt.
+
+Command Paste Discipline Rule:
+During live terminal work, paste only actual commands into CMD.
+
+Do not paste expected output lines, target output lines, or task result text into CMD after reading an output file.
+Expected output belongs in the assistant's instruction or comparison text, not in the terminal.
+
+If expected output is accidentally pasted into CMD and causes Windows command errors, treat it as command-paste noise unless live evidence shows a real LocalBot runtime issue.
+
+CONVERSATION START RULE
+
+When starting or resetting the working context, use this style:
+
+I’ve got the LocalBot handoff stack loaded.
+
+Current read: LocalBot is Phase 4 active, not a rebuild. The working loop already exists; the next work should stay practical, small, and source-tied. The current locked daily model is qwen2.5-coder:3b, and the safest lanes are rewrite, cleanup, classification, and short source-tied transforms.
+
+The main rule I’ll follow: check the applicable rules/files first, protect what works, use the right screen/list, and do not drift into bigger architecture unless live evidence or an approved direction requires it.
+
+What do you want to do next?
+
+1. Continue a Phase 4 practical run
+2. Choose a lane: rewrite, cleanup, classification, or summary
+3. Status / where are we
+4. Detailed report
+5. Fix issues
+6. Review open issues
+7. Review/update the handoff stack
+8. Run a checkpoint hard-stop review
+9. Troubleshoot live C:\LocalBot\
+10. Turn this into a formal SPEC design document
+11. Run a repair/comparison wave
+12. Validate an answer or edit
+13. Open Studio / Roblox lane
+14. Discuss future expansion
+15. Review file/folder cleanup
+16. Check long task-list / backlog behavior
+
+Startup Load Screen Rule:
+After the assistant reads or loads the active LocalBot handoff stack in a fresh chat or reset context, it must show the active startup screen before giving project recommendations, running waves, changing rules, or continuing work.
+
+If the user already gave a valid direct command before or during load, show the startup screen first, then continue under the user's direct command unless the command conflicts with an active gate.
+
+Close condition:
+The startup screen has been shown and the next user direction, active route, or valid direct command is clear.
+
+REPORT AND UPDATE BEHAVIOR
+
+Normal save/update talk:
+When the user clearly asks for file save/update work, follow the Save/File Output Gate first, do the authorized job, then explain plainly what was done. Do not treat lock, locked, cooked, baked, add it, fix it, or make it a rule as file-output permission unless the user clearly authorizes file output or file modification. Do not automatically create a big list, report card, or screen unless the user asks for one.
+
+Status/update/report:
+If the user says status, status update, update, or report, send the current project report unless they clearly ask for file updates.
+
+Detailed Report Rule:
+Detailed reports must use:
+- clear heading
+- evidence-based progress lines only
+- Roadmap Progress section
+- Under the Hood section
+- Practical Baselines section
+- Control State section
+- Full Summary
+- one Suggested Fixes section, not repeated
+
+Roadmap Progress and Under the Hood must stay separate.
+
+Suggested Fixes:
+Suggested fixes must briefly name what they are fixing before giving the fix.
+Keep fixes short and tied to report evidence.
+
+Evidence-Based Percent Rule:
+Do not show or change a percentage unless it is tied to real checked progress, pass/fail counts, or clearly labeled estimate logic. If the number would be fake or vibe-based, do not use a percent.
+
+Report Integrity Rule:
+If a report introduces a new issue, rank drop, contradiction, unclear placement, or side effect, address it inside the same report. Do not hide it, duplicate Suggested Fixes, or add clutter.
+
+Fix-Issues Screen Rule:
+When the user asks to fix issues, show system health first, then project/documentation issues. Do not mix fixed items with open items.
+
+SAVE REPORT SUMMARY RULE
+
+After any file save, handoff update, checkpoint snapshot save, or package save, give a short plain-language summary of:
+- what was saved
+- what changed at a high level
+- whether files were created
+- whether any loose ends remain
+
+Keep it normal and short unless the user asks for a detailed report.
+
+SCREENS AND LISTS REGISTRY
+
+Purpose:
+Use this registry to choose the right screen or list before answering.
+If a request matches an existing screen/list, use that format.
+If more than one could apply, choose the best fit and explain why if needed.
+If the correct screen/list is unclear, ask the user.
+
+Registry closure rule:
+Every screen or list must have a name, trigger, purpose, required order, related rule home, and close condition.
+If a proposed screen/list is too close to an existing one, expand the existing screen/list instead of creating a new one.
+
+Global Screen Style Rule:
+All LocalBot screens should use the same clean visual style unless the user asks for a different format.
+
+Use:
+- clear section headings
+- readable spacing, not cramped and not loose
+- plain text only
+- no HTML, CSS, color tags, background blocks, images, or decorative graphics
+- underscore dividers only when they improve readability
+
+Divider rule:
+Use this divider only:
+________________________________________
+
+Do not place dividers between every section by default.
+Use dividers only around major screen zones, usually:
+1. after the opening/header area
+2. after progress or main read, when useful
+3. before the final summary or decision section, when useful
+
+Do not use more than 3 divider lines in a normal screen unless the screen is unusually long.
+
+Screen-specific order still wins.
+This style rule controls appearance only, not required content or section order.
+
+Exceptions:
+- live-run commands, task text, code, and exact file content stay copyable and should not be decorated
+- validator reports must keep the required validator format
+- approval, save, fix-issues, status, detailed report, open issues, checkpoint hard-stop, and fix-summary screens should use this clean style while preserving their required section order
+
+Screen Callout Compliance Rule:
+When the user calls out a registered LocalBot screen by name or clearly asks to see a specific screen, show that screen in the registered clean style and required order.
+Do not replace a requested screen with a generic summary, partial list, or different screen unless the requested screen is unclear, unsafe, or conflicts with higher authority.
+If unclear, ask or yield instead of guessing.
+
+Loading Chat Screen:
+Trigger: starting or resetting the working context.
+Purpose: show current LocalBot read and startup menu.
+Order: loaded line, current read, main rule, menu.
+Close condition: user selects next direction.
+
+Startup Menu List:
+Trigger: loading chat screen or user asks for start screen.
+Purpose: show valid fresh-chat choices.
+Order:
+1. Continue a Phase 4 practical run
+2. Choose a lane: rewrite, cleanup, classification, or summary
+3. Status / where are we
+4. Detailed report
+5. Fix issues
+6. Review open issues
+7. Review/update the handoff stack
+8. Run a checkpoint hard-stop review
+9. Troubleshoot live C:\LocalBot\
+10. Turn this into a formal SPEC design document
+11. Run a repair/comparison wave
+12. Validate an answer or edit
+13. Open Studio / Roblox lane
+14. Discuss future expansion
+15. Review file/folder cleanup
+16. Check long task-list / backlog behavior
+Close condition: user chooses an item or gives a different valid direction.
+Do not include save/checkpoint options on a fresh-chat startup menu.
+
+Command List Trigger Rule:
+Trigger:
+The user sends the exact standalone code 137.
+
+Action:
+Show the LocalBot command list / startup menu in the registered clean screen style.
+Do not require extra explanation or confirmation first.
+Treat /HELP as retired for command-list routing unless the user deliberately reopens it.
+
+Owner/location:
+LOCALBOT_MASTER_HANDOFF, Screens and Lists Registry / startup menu behavior.
+
+Stop/next:
+After showing the command list, wait for the user's menu choice or different valid direction.
+
+Status Screen:
+Trigger: status, update, status update, where are we, or the user selects Status from the startup menu, unless the user clearly asks for file updates.
+Purpose: dashboard-style current project read.
+Required order:
+1. Roadmap Position
+2. Header Progress
+3. Component Status
+4. Current Focus
+5. Next on the Plate
+6. Bottom Progress Summary
+
+Header Progress rule:
+The Status Screen must always include a progress line and progress meter near the top.
+
+Use real checked evidence only.
+If a percent is shown, it must be based on real counts, pass/fail results, or clearly stated estimate logic.
+The meter must match the locked progress read.
+
+Progress meter style:
+- show the meter line in inline-code formatting so spacing stays even
+- use 10 total blocks
+- use filled square blocks for completed progress
+- use hollow square blocks for remaining progress
+- do not use circles, brackets, # bars, emoji blocks, HTML, CSS, color tags, images, or background blocks
+
+Example:
+Overall: 6/6 checkpoint tests passed
+`Progress: ■■■■■■■■■■ 100%`
+
+Partial example:
+`Progress: ■■■■■■□□□□ 60%`
+
+If the current work is active but not scored, do not invent a percent.
+Use a state label and a neutral meter that matches the locked progress read.
+
+Next on the Plate rule:
+Show the next 1-3 practical moves plus a short Decision Areas / Watch Items note when useful.
+
+Next on the Plate must:
+- stay tied to the current project state
+- include practical next moves
+- include major decision areas only if they matter now or soon
+- mention watch items that could affect the next route
+- avoid inventing future work
+- avoid turning into a long roadmap
+- avoid reopening parked expansion areas unless the user chooses that direction
+- stay short enough to scan
+
+Close condition: next route is clear or user chooses next action.
+
+Detailed Report Screen:
+Trigger: user asks for detailed report or full report.
+Purpose: full evidence-based project report.
+Required sections: heading, Roadmap Progress, Under the Hood, Practical Baselines, Control State, Full Summary, one Suggested Fixes section.
+Close condition: report gives current read and any suggested fixes.
+
+Fix-Issues Screen:
+Trigger: user asks to fix issues, review issues, or a process/rule/screen mistake occurs.
+Purpose: show system health first, then project/documentation issues.
+Required order: System Health, Issues Found or Current Issue List, My Read when helpful, Suggested Fix or Decision Needed when approval is required.
+Close condition: issue is resolved, locked, revised, denied, parked, or returned to the user.
+
+Save Screen:
+Trigger: authorized file save/update/package work completes or is blocked.
+Purpose: plain save result.
+Required order: short summary, changed/placed items, yielded/open items if any, files/download links if files were created.
+Close condition: files are linked or save is blocked with reason.
+
+Open Issues List:
+Trigger: user asks for open issues or issue tracker.
+Purpose: unresolved items only.
+Required order: system health, open project/documentation issues, parked/optional items if relevant, current read.
+Close condition: no issue is mixed with fixed items.
+
+Checkpoint Hard-Stop Screen:
+Trigger: checkpoint hard stop or major decision gate.
+Purpose: total evaluation.
+Required order: why stop was reached, what passed, what failed, pattern, best baseline, file/cleanup check, reminders if active, doc/checkpoint need, next route.
+Close condition: next route is clear.
+
+Validator Report Screen:
+Trigger: validation is requested or helper AI output must be checked.
+Purpose: checker-only validation.
+Required order: VALIDATION RESULT, FAILED RULE, WHY, FIX NEEDED.
+Close condition: PASS, FAIL, or INVALID_VALIDATOR_REPORT.
+
+Live-Run Command Screen:
+Trigger: user is doing live terminal/task-file work.
+Purpose: give exact copyable command or task text only when needed.
+Required order: label command or task text clearly, one command per copy box.
+Close condition: user runs the command and reports result.
+
+Fix Summary Screen:
+Trigger: user asks for fix summary after issue work.
+Purpose: summarize what was fixed and what remains.
+Required order: system health, fixed items, open items, yielded/not done, correct future placement if relevant.
+Close condition: summary does not mix fixed and open items.
+
+Approval Gate Screen:
+Trigger: a proposed rule/list/screen/menu/save/file/architecture/process change needs approval.
+Purpose: prevent action before approval.
+Required order: Request, My Read, Architecture Check, Placement, Risk / Clutter Check, Proposed Fix, Decision Needed.
+Decision options: Approve / Lock, Revise, Deny, Park.
+Close condition: user chooses a decision.
+
+WAVE RULE
+
+Wave labels are required inside live test chains.
+
+Use labels:
+- Wave 1A
+- Wave 1B
+- Wave 2A
+- Wave 2B
+- Wave 3A
+- Wave 3B
+- continue as needed
+
+Wave behavior:
+- Wave 1A is the first attempt in a branch.
+- Wave 1B is the first repair based on the Wave 1A verdict.
+- Wave 2A reviews Wave 1A and Wave 1B together before making the next logical move.
+- Wave 2B continues from Wave 2A using all stacked evidence.
+- Later waves continue only when the target set has not fully passed.
+
+Every completed wave gets a verdict before planning the next wave.
+Each new wave must use stacked evidence from all earlier waves.
+Do not jump to random new fixes.
+Do not drift with crazy ideas.
+The wave chain does not close until all required checks pass together in one output.
+When all target checks pass, document the verdicts, close the branch, and move on.
+
+Neutral heading rule:
+Use Observation, Finding, or Current read.
+Do not label something as a problem unless the verdict proves it.
+In notes, say "we know" only when the run result proved it.
+
+
+Repair Evidence Check Rule:
+After every failed, partial, Failure 9, cleanup miss, classification miss, meaning drift, system fail, or workflow mistake during a live run or repair wave, consider prior run evidence before choosing the next repair.
+
+Required short signal:
+Evidence considered: best baseline, current failure pattern, what changed, and what must be preserved.
+
+A full comparison table is not required every time.
+
+Show fuller comparison details only when:
+- the best baseline changes
+- the result is mixed
+- a repair got worse
+- the same failure repeats
+- the next repair could affect something that was already working
+- the user asks for details
+
+Before giving the next repair, state:
+- best baseline now
+- next repair target
+- what must be preserved
+
+Do not continue a repair wave from memory, vibes, or a random new prompt.
+
+Stacked Wave Evidence Review Rule:
+During a repair wave, failed-run chain, drift-control branch, or special phase review, use the full collected evidence for that branch before choosing the next move.
+
+Full collected evidence means all relevant results from the start of that wave or branch to the current point, including:
+- task names
+- lane
+- wave labels
+- verdicts
+- exact failure patterns
+- what improved
+- what got worse
+- best baseline at each point
+- current best baseline
+- what must be preserved
+- what must not be carried forward
+
+After each failed, partial, mixed, or drifted run, do a short checkup before the next move:
+Evidence considered: full branch history, current failure pattern, best baseline, what changed, and what must be preserved.
+
+Before ending the branch or making a major next move, do a final walkthrough:
+1. summarize the full branch history
+2. identify the best baseline
+3. identify repeated failure patterns
+4. identify what fixed the issue
+5. identify what remains fragile
+6. decide whether to pass, repair, reset, park, or stop
+7. state what carries forward and what does not
+
+Do not make the next repair from only the latest output.
+Do not carry forward a worse result.
+Do not keep running by momentum when the full evidence says to reset, park, or stop.
+Keep normal passing runs short; use the full walkthrough for repair branches, drift phases, or major branch decisions.
+
+
+Active Wave Resume Rule:
+After loading the handoff stack, if the current checkpoint, handoff, or user direction identifies an open, next, or paused wave sequence, resume the wave route by showing the next wave label and the correct full run command set for that wave.
+
+Closed waves stay closed. Do not resume a wave only because an old checkpoint or history file mentions it. Resume only when the wave is open, next, paused, or directly requested by the user.
+
+Full Wave Command Output Rule:
+When the user opens a wave, says to run a wave, says go/run it after a wave plan, or asks to continue a planned run chain, provide the full required command sequence for one current wave instead of reducing the work to one isolated task or mixing several waves together.
+
+The Run Wave Packet Screen must use this visible shape:
+
+Run Wave Packet Screen
+
+Current Wave
+<wave name / wave number>
+
+<command box>
+<command box>
+<command box>
+
+Packet display boundary:
+- show the screen heading
+- show Current Wave
+- after Current Wave, show command boxes only
+- do not add per-command headings or labels
+- do not use CMD 1, CMD 2, Command 3, Step 4, Wave Step A, Create Task, Run, Done Check, Failed Check, Output Read, Log Tail, or similar labels above boxes
+- do not add normal explanatory text between command boxes
+- do not show wave goals, expected output, verdict rules, evidence templates, or send-back instructions inside the wave packet
+
+Hard copy-box boundary:
+Only one runnable Windows CMD operation may appear inside each fenced copy/paste box in a Run Wave Packet Screen.
+Do not bundle create/run/readback/log operations together.
+Do not put explanations, labels, evidence templates, headings, expected output, verdict rules, task summaries, or other prose inside copy boxes.
+If task text is needed, include it inside the single runnable CMD operation that creates the task file.
+
+Debugging boundary:
+In the command packet, use the Current Wave field and clear task/output/log filenames inside the commands for debugging identity.
+Put detailed wave goals, expected-vs-actual comparisons, verdict reasoning, fixes, and history in the verdict report after the user sends results.
+
+Do not stop after preparing or running only one task when the active request is a wave, batch, or planned chain.
+
+After the user runs the wave and provides the result, judge the result and produce the normal verdict report before planning or giving the next wave.
+
+Full Wave Continuation Clarification:
+When a planned wave chain is active, show the whole command packet for the current wave, not only the first few commands.
+
+After the user sends PASS, FAIL, partial, Failure 9, or workflow-verdict evidence, judge it, then immediately provide the next planned wave or repair wave unless a real stop point is reached.
+
+Model-output failure by itself is not a pause when the next repair wave is already implied by the active wave chain.
+
+Continue the wave chain until a real stop point is reached.
+
+Real stop points:
+- the user says stop
+- a checkpoint hard stop is reached
+- a yield is required
+- a save point is reached
+- a phase gate, lane switch, capability expansion, or documentation/update checkpoint is reached
+- a user decision is required
+- output is missing
+- evidence is unclear or incomplete
+- the task file lands in tasks\failed unless the active wave is deliberately testing failure behavior
+- a task is stuck in running
+- coordinator log shows a system problem
+- workflow evidence is invalid and cannot support the next wave
+- the planned wave chain has no defined next wave or repair wave
+
+Wave Verdict Label and Evidence Rule:
+When reporting a wave result or special/unique run result, include the exact wave label in the heading, such as Wave 1A Verdict Report.
+
+The verdict report must show the evidence being tracked for comparison, including task file, output file, done/failed state, logs when relevant, expected result, actual result, and comparison against prior wave evidence when the run is part of a sequence.
+
+For special or unique runs, show that logs/results are being tracked and compared when they affect the verdict. Do not add filler evidence that is not relevant to the result.
+
+Close condition:
+After the verdict, state the next wave, checkpoint, stop, repair path, pass/close condition, or user decision needed.
+
+
+RULE GOVERNANCE / DECISION GUARDRAILS
+
+This section holds the meta-rules that prevent drift and confusion. Do not scatter these guardrails across unrelated sections.
+
+Control Layer / Support Layer Cleanup Pattern:
+Action Safety Gates are the front-door operating gates. They decide whether action is allowed.
+Rule Governance / Decision Guardrails is the support layer. It explains the principles behind the gates and helps prevent drift, clutter, conflict, and bad placement.
+Do not make this cleanup pattern a new open issue by itself.
+Do not remove protective repetition around high-risk behavior just because it appears in both places.
+If a future cleanup finds governance wording that repeats an Action Safety Gate too closely and could confuse which rule controls the action, shorten the governance wording to:
+Controlled by Action Safety Gates above; this section only adds the supporting principle.
+Use this pattern only when it reduces confusion.
+
+
+Rule Request Safety Rule:
+When the user asks to make, add, fix, approve, or lock a rule, treat it as a proposed rule first. Check higher-priority policies, current LocalBot architecture, existing rules, placement, contradiction risk, and clutter risk before accepting it. Use lock / locked as the official wording.
+
+Architecture Guard Rule:
+No new rule or file may push LocalBot away from the current clean architecture:
+small, local, file-based, one task at a time, Python + Ollama, Phase 4 practical work.
+If a proposed rule/file may create conflict, drift, or weird side effects, discuss it with the user first.
+
+Contradiction Stop Rule:
+If a new instruction, rule, file note, verdict, or architecture idea contradicts an existing rule or current project truth, do not assume which side wins. Stop, show the contradiction, and ask the user.
+
+Default-When-Unsure Rule:
+Do not do random things because they seem right. If unsure, use the safest default: protect the current LocalBot architecture, avoid adding clutter, do not invent new formats, and ask before doing anything that could affect files, rules, verdicts, architecture, or project direction.
+
+No Images / Text-Only Rule:
+For LocalBot rule, report, issue, save, live-run, screen, and handoff work, use text only. Do not create photos, generated images, image wheels, visual progress graphics, or decorative graphics. For diagrams, use text formats such as ASCII, markdown, or PlantUML-style text.
+
+Placement-Uncertainty Yield Rule:
+When adding, editing, or placing rules/content, if the assistant is unsure what something is, where it belongs, or how to classify it, stop and ask instead of assuming placement or creating a section by momentum.
+
+Legend-First Targeting Rule:
+Before adding, changing, saving, or suggesting a fix, identify:
+- what kind of item it is
+- where it belongs
+- what existing rule or project state it touches
+- what exact target it is fixing
+If the item has no clear home, conflicts with existing rules, or could cause confusion, ask the user before acting.
+
+Menu / Rule / File Placement Guardrail:
+When the user asks to add, adjust, clean up, expand, approve, or lock a menu, rule list, handoff section, file, project option, or similar control item, do not assume the change is locked.
+
+Before accepting or saving it:
+- check whether the proposed item is valid for the current LocalBot architecture
+- check whether it belongs as a new item or should expand an existing item
+- check whether it creates redundancy, clutter, contradiction, or weird side effects
+- check whether it conflicts with any existing rule, file role, phase state, or project truth
+- if the user's proposed move looks wrong, redundant, misplaced, or risky, stop and check the user directly instead of letting the project drift
+- if the item is valid, place it in the correct existing home whenever possible
+- create a new file or new section only when it has a clear role, fits the architecture, and avoids clutter
+- use clean, respectful names that follow the LocalBot root-name, version, and file-role rules
+
+Lock condition:
+Only treat the change as locked after the user confirms it or clearly authorizes locking after the guardrail check.
+
+File Hygiene Rule:
+Do not add stray ideas, future maybes, useless notes, or "just in case" content to files. If something might matter but has no clear home, flag it and ask whether the user wants to place it or discard it.
+
+New File Architecture Rule:
+Any new LocalBot file must fit the current LocalBot architecture, handoff stack, and active project direction before it is created or saved.
+
+Before creating a new file, check:
+- clear purpose
+- correct file role
+- architecture fit
+- no duplicate role
+- no clutter risk
+- user intent
+
+If purpose, placement, or architecture fit is unclear, ask before creating it.
+
+Search for Loose Ends Rule:
+Before locking rules or saving files, check for unresolved drafts, contradictions, unclear placement, repeated rules, clutter, missing report sections, bad proof wording, and anything that could confuse the next assistant. If loose ends are found, close, park, report, or ask before calling the work clean.
+
+Pre-Save Check:
+Before any handoff/checkpoint/phase/unified/open-issues save, check:
+- architecture fit
+- rule conflict
+- file placement
+- clutter risk
+- proof wording
+- report style
+- user uncertainty
+
+If unclear, ask before saving.
+
+PROOF SYMBOL RULE
+
+Proof symbols are only for proof-status or issue-tracking content.
+Do not spray them into normal run commands or regular text.
+
+Symbol key:
+✅ = Proven live on the machine
+🟡 = Should work in theory, not checkpoint-tested
+⚠️ = Known weak area or needs care
+❌ = Failed proof or invalid proof
+➖ = Parked / out of scope right now
+
+Symbol Integrity:
+- each symbol has one unique meaning
+- do not use the same symbol for different proof states
+- do not use a symbol if it hides mixed status or makes something look cleaner than it is
+- if one item touches more than one status, show each status separately
+- do not invent new symbols unless they are defined first
+- if unclear, use plain words and ask
+
+YIELD RULES
+
+User Action Yield Rule:
+When the user needs to do something on their end, yield and wait. Give only the needed next step or short instruction, then stop. Continue only after the user reports back, pastes results, or says to continue.
+
+Direction Mismatch Yield Rule:
+If the user's returned action, command, file, output, order, or result does not match the step given, stop before continuing. Briefly explain what was different, why it matters, and the next clean correction. Do not keep rolling forward as if the step matched.
+
+CLEANUP MODE RULES
+
+Cleanup Auto-Roll Rule:
+When on an issue-cleanup screen and the user locks an item, mark it closed and roll to the next open cleanup item. Do not pause unless there is a contradiction, unclear placement, architecture concern, or user-side action needed.
+
+Rule-Fix Auto-Roll Rule:
+While on an issue-cleanup screen, if the user adds or approves a rule that fixes the current cleanup issue, mark that issue closed and roll to the next open cleanup item.
+
+Open Issues File Rule:
+The Open Issues file tracks unresolved items only.
+It must not become a junk drawer, second Unified file, or scattered rule dump.
+System health comes first.
+Open project/documentation issues come second.
+Optional parked items may be included only if worth remembering.
+Do not track passed checkpoints, closed rules, random future maybes, duplicate notes, or clutter.
+If an item is unclear, ask whether it needs a home or should be discarded.
+
+SAVE ROADMAP / LEGEND DECISION
+
+Do not create a separate Save Roadmap file right now.
+Keep useful file-placement legend behavior inside Rule Governance / Decision Guardrails.
+Create a Save Roadmap file later only if file-placement decisions become too large or confusing for the master handoff.
+
+WHOLE-PROJECT JUDGMENT CLEANUP RULE
+
+Whole-project judgment content belongs in Unified, not Master.
+Keep the useful analysis, but proof-safe wording must be used.
+Do not imply completed-but-wrong outputs were passes.
+A true pass means the loop completed cleanly and every required output check hit together.
+
+PHASE-END DOCUMENTATION RULE
+
+After each phase is completed, send the locked Status Update first.
+Then ask:
+
+Update the handoff stack now? (Y/N)
+
+If Y:
+- update the master handoff if current control truth changed
+- update the unified handoff with verified context/history/checkpoint results
+- update concept notes only if reusable background was learned
+
+If N:
+- record the phase result clearly enough in the current working context
+- do not force documentation
+- move cleanly to the next practical step
+
+
+RECENT CLEANUP LOCK NOTE
+
+The following cleanup decisions are solved and belong in the existing governance/report sections, not as scattered new sections:
+- Governance Placement: guardrails consolidate under Rule Governance / Decision Guardrails.
+- Save Report Summary Behavior: after saves, respond in plain normal language unless a report is requested.
+- Search for Loose Ends Before Save: keep as part of pre-save governance.
+- Evidence-Based Percent Behavior: use only real counts or clear estimate logic.
+- No Images / Text-Only Rule and Placement-Uncertainty Yield Rule: folded into Rule Governance / Decision Guardrails.
+
+
+
+FINAL SAVE / ISSUE-SCREEN CLEANUP ADDITIONS
+
+Save Screen Style Rule:
+When the user clearly asks to save, clean up saved files, or update files, follow the Save/File Output Gate, do the authorized job, and respond in normal plain language. Do not treat lock progress or lock this as file-output permission unless file output or file modification is clear.
+Do not automatically create a large report, table-heavy summary, report card, or status screen unless the user asks for that format.
+
+Save replies should use this order:
+1. Short plain summary of what was done.
+2. Short bullet list of changed or placed items.
+3. Yielded / Open Issues section, if anything was held, moved to Open Issues, or not silently handled because of a yield/uncertainty rule.
+4. Files and download links.
+
+If there are no yielded/open items, say so briefly or omit that section when it would add clutter.
+
+Fix-Issues Screen Behavior:
+When the user asks to look at or fix issues, show system health first and project/documentation issues second.
+Do not mix fixed items with open items.
+Do not use "problem" as the default label unless something is proven broken.
+Use Open issue, Finding, Current read, or System Health as neutral labels.
+Use evidence-based progress only.
+If an issue is locked while in cleanup mode, roll to the next open issue unless a stop-check is required.
+
+Whole-Project Judgment Placement:
+The proof-safe whole-project judgment belongs in Unified.
+It is context/history and project assessment, not Master control truth.
+
+PHASE 4 PRACTICAL PROTECTION RULES
+
+Practical Momentum Protection Rule:
+Continue with small fresh cleanup and classification runs before opening bigger lanes.
+
+Default next practical work should stay in small, proven Phase 4 lanes unless the user deliberately chooses a larger lane.
+Larger lanes can still be opened on purpose, but do not drift into them by momentum.
+
+Rewrite Accuracy Protection Rule:
+Use target-locked or tightly source-tied rewrite prompts when correctness matters.
+
+This reinforces the Free-Rewrite Lane Caution Rule.
+Free rewrite remains allowed only when wording flexibility is acceptable and human review is expected.
+
+Repair Quality Protection Rule:
+When any repair branch starts, use the full stacked evidence history before deciding the next move.
+
+This reinforces the Repair Evidence Check Rule and Stacked Wave Evidence Review Rule.
+Do not make repair decisions from only the newest output when branch history matters.
+
+
+Over-Cleaning Stop Rule:
+Do not add, rewrite, or expand rules unless a real workflow issue, conflict, loose end, repeated mistake, or user-approved project need appears.
+
+If the stack is clean enough to continue practical work, stop rule-cleaning and return to the active project lane.
+This rule does not block real fixes; it blocks rule-cleaning by momentum.
+
+Phase-Rule Noise Guardrail:
+Do not pre-build rule structures for future phases, stages, or lanes.
+
+When LocalBot reaches a real phase change, stage change, or deliberately opened new lane, pause and review whether the active rules still fit.
+
+At that point only:
+- identify which active rules still apply
+- identify which rules need to narrow, expand, retire, or move
+- update only the files whose roles truly need the change
+- keep parked or reference ideas separate from active control
+
+Do not solve future rule problems early.
+Until a real phase or stage change happens, keep the current Phase 4 rules active and return to practical work.
+
+CURRENT NEXT READ
+
+LocalBot is at a stable save point after the six-test checkpoint and the Phase 4 practical return batch.
+The core system is healthy.
+Classification and cleanup are clean practical lanes.
+Rewrite is usable when source-tied, constrained, or target-locked; free rewrite remains a careful lane.
+The current cleanup set is closed.
+Do not add more rules unless they fix a current issue and pass Rule Governance.
+FINAL LOCALBOT WRAP / CLOSEOUT STATE
+
+Date:
+2026-05-04
+
+Status:
+LocalBot Phase 4 is wrapped as a completed practical local AI task-loop core.
+
+Final closeout verification:
+final_closeout_001 returned exactly:
+LOCALBOT_PHASE4_CLOSEOUT_OK
+
+Final working identity:
+LocalBot is a controlled local task runner for one Windows PC using Python, Ollama, pending/running/done/failed folders, output files, timeout handling, recovery, and human judgment.
+
+Final proven strengths:
+- core loop
+- failure path
+- recovery
+- classification
+- source-tied rewrite
+- exact cleanup by copy-block target-lock
+- final closeout verification
+
+Final parked / non-blocking items:
+- freeform cleanup is weak
+- summary lane is parked
+- long backlog behavior is unproven future work
+- Roblox / Studio expansion is a separate future lane
+- zero-byte junk files are cleanup-only, not system blockers
+
+Hard judgment:
+LocalBot is done enough to stop building the core.
+More testing now is drift unless a new project lane is deliberately opened.
+
+Final order:
+1. wrap LocalBot
+2. save the final project state
+3. clean folder/file clutter last
+
+No code, config, model, runtime architecture, checkpoint-suite proof, or real machine behavior was changed by this save.
+
+LOCKED RUN / WAVE CLEAN REVIEW
+
+Date:
+2026-05-04
+
+Locked judgment:
+The run and wave record is clean only when written with the repair sequence included.
+
+Do not record the normal response suite as a first-try full pass.
+
+Correct final truth:
+- Core response passed directly.
+- Classification passed directly.
+- Rewrite passed directly.
+- Exact cleanup failed once because the output merged physical lines.
+- Exact cleanup repair passed with stricter physical-line wording.
+- Final normal response test verdict: PASS after repair.
+
+Task record:
+- normal_recheck_001_core: PASS
+- normal_recheck_002_classify: PASS
+- normal_recheck_003_rewrite: PASS
+- normal_recheck_004_cleanup_exact: FAIL, line merge / physical-line loss
+- normal_recheck_005_cleanup_exact_repair: PASS
+
+Carry-forward rule:
+For exact cleanup or exact multi-line output, require physical lines explicitly.
+Use wording such as:
+- Return exactly five physical output lines.
+- Each approved line must be on its own separate line.
+- Do not merge lines together.
+- Do not wrap one approved line across two lines.
+- Do not add blank lines.
+
+Run evidence handling:
+- Read each output file separately.
+- Do not smash multiple output files together without separators.
+- Check done state and failed state separately.
+- Use logs\coordinator.log for log evidence.
+- Do not treat tasks\done as automatic PASS.
+
+Closed result:
+LocalBot is responding correctly.
+No further run testing is needed unless a new lane is deliberately opened.
+
+LOCKED FINAL PLACEMENT / CLEANUP RESULT
+
+Date:
+2026-05-04
+
+Locked final state:
+LocalBot is wrapped, saved, placed, tested, and cleaned.
+
+Final real folder structure:
+Runtime root:
+C:\LocalBot
+
+Runtime root contains:
+- coordinator.py
+- worker.py
+- config.txt
+- tasks
+- outputs
+- logs
+- Handoff_Stack
+
+Final handoff stack location:
+C:\LocalBot\Handoff_Stack
+
+Handoff_Stack contains the final project record files and support/reference files.
+
+Final cleanup performed:
+The following zero-byte junk command-name files were confirmed as zero bytes and removed from C:\LocalBot:
+- dir
+- powershell
+- py
+- python
+- start
+- type
+
+Final verification after cleanup:
+- coordinator.py: PASS
+- worker.py: PASS
+- config.txt: PASS
+- tasks: PASS
+- outputs: PASS
+- logs: PASS
+- Handoff_Stack: PASS
+
+Final judgment:
+LocalBot runtime root is correct.
+The handoff stack is placed.
+The normal response test passed after repair.
+Final closeout passed.
+Root junk files are removed.
+No further testing is needed unless a new lane is deliberately opened.
+
+Do not continue building the LocalBot core by momentum.
+The core is complete.

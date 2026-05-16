@@ -1,0 +1,24 @@
+﻿HEAL BEFORE UPGRADE / NO SCAR LAYER
+
+Status:
+REST STOP / DOCTRINE CANDIDATE.
+Saved locally as durable proof/history.
+Not yet installed into ACTIVE_GUIDES.
+Not active package doctrine until deliberately merged through guide-file review.
+
+Core sentence:
+We do not patch. We fix before we upgrade, so the healed system carries no scar.
+
+Operational meaning:
+Do not stack temporary fixes over unresolved damage.
+First identify the real cause.
+Repair or source-install the fix in the correct active file or folder.
+Verify evidence.
+Update CURRENT_TRUTH_INDEX, receipt, hash, or manifest when needed.
+Grow or upgrade only after the healed base is stable.
+
+Dirty milk warning:
+Temporary chat fixes, vague memory saves, loose receipts, uninstalled candidates, stale duplicate files, or weak triggers are not healed state.
+
+Clean milk condition:
+A real healing layer is durable, source-installed, evidenced, reloadable, and correctly scoped as active, parked, proof/history, or rest stop.

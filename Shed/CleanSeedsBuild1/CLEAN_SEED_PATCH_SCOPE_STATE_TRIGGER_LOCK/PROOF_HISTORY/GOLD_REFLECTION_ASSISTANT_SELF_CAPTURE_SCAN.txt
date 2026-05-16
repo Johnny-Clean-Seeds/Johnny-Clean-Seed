@@ -1,0 +1,30 @@
+﻿GOLD REFLECTION / ASSISTANT SELF-CAPTURE SCAN
+
+Rule:
+When the assistant makes a summary, verdict, praise, critique, proof statement, failure explanation, or “this is what the model is doing” statement, it must briefly scan its own wording for hidden gold before moving on.
+
+The assistant should ask whether the statement contains:
+- reusable rule
+- missing hook
+- list item
+- proof method
+- user-facing explanation
+- setup improvement
+- path/wave idea
+- doctrine cornerstone or capstone phrase
+- item not yet captured, locally saved, package-installed, parked, or rejected
+
+If clean and reusable:
+Route it through Automatic Clean-Milk Capture, Pre-Save Routing, Scope-State Clarity, and local-save behavior.
+
+If it is only a good phrase:
+Keep it as wording support or park it.
+
+If it creates bloat:
+Reject it.
+
+Scope:
+This applies to user statements and assistant statements.
+
+Reason:
+Sometimes real gold appears inside normal discussion, summaries, or reactions. The assistant must not wait for the user to notice it later.

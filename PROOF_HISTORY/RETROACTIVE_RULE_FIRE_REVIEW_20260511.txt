@@ -1,0 +1,127 @@
+RETROACTIVE RULE-FIRE REVIEW 20260511
+
+Status:
+Proof-history-only retroactive review.
+Not active guide doctrine.
+Not current truth.
+Not cleanup authority.
+Not deletion approval.
+Not movement approval.
+Not promotion approval.
+Not final PASS.
+
+Reason:
+User pointed out that if newly indexed or parked rules could have fired on previous searches, Codex should go back with those rules in mind to better assess the work.
+
+Active ball:
+Review prior evidence-lane searches and sidecar index updates through the rules that were just applied.
+
+Rules used for retroactive review:
+
+1. Workflow Reliability Rule Stack
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\WORKFLOW_RELIABILITY_RULE_STACK_BALL_ATTACK_PILE_ORDER_20260511.txt
+SHA256:
+29FB423720F8CAE20912A23B9DB496089DD2649B6ACD7B37A38E639A47DA4A48
+
+2. Capture / Collect Before Inventory Station Rule
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\CAPTURE_COLLECT_BEFORE_INVENTORY_STATION_RULE_20260511.txt
+SHA256:
+C0AA28D07806E0C853F64A93DF1A705549A8C057F875C1BE0FCD8BDEC22E94A2
+
+3. Immediate Idea Capture / Apply Working Rule
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\IMMEDIATE_IDEA_CAPTURE_APPLY_WORKING_RULE_20260511.txt
+SHA256:
+C91EFE908AB61561FC49AC0A28637CAC193F171CC989274A837D3E5660DBC594
+
+4. Incident Freeze / No-Killer / Civil Traffic Ticket Rule
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\INCIDENT_FREEZE_NO_KILLER_TRAFFIC_TICKET_RULE_20260511.txt
+SHA256:
+3F3970BADE648DE145DC9F1C0302434330386942E7ED3DB10E7FE9D24C7FB990
+
+Prior searches reviewed:
+1. Root cleanup / loose drop folder intake.
+2. Evidence archive manifest inspection.
+3. Side evidence index creation.
+4. Core proof rows SEI-014 through SEI-020.
+5. Assembly/interlock rows SEI-021 through SEI-025.
+6. Live-test rows SEI-026 through SEI-029.
+7. Rule-candidate rows SEI-030 through SEI-034.
+
+Rule-fire findings:
+
+FINDING 1 - Workflow Reliability should have fired earlier.
+EVIDENCE:
+The work gathered several related evidence clusters in sequence: core proof, assembly/interlock, live-test evidence, and rule candidates.
+INFERENCE:
+The Workflow Reliability Rule Stack should have been applied before each new cluster, especially the active-ball check, attack plan, and mixed-list pile rule.
+Effect on prior conclusions:
+No indexed file status appears wrong from available evidence, but the process should have paused between clusters to name active ball, batch relation, separation reason, and next gate.
+Required repair:
+Use the parked-rule application checkpoint before continuing and keep future batches smaller.
+
+FINDING 2 - Capture / Collect before Inventory mostly happened mechanically, but not explicitly enough.
+EVIDENCE:
+Prior steps captured paths, file names, hashes, and relevant contents before adding sidecar rows.
+INFERENCE:
+The rule effectively fired in the evidence collection pattern, but Codex did not clearly label the station as CAPTURE / COLLECT before INVENTORY.
+Effect on prior conclusions:
+No re-read is required for rows already backed by path/hash/content checks.
+Required repair:
+Future batches must explicitly say whether the state is CAPTURED, INVENTORIED, SORTED, or JUDGED before sidecar placement.
+
+FINDING 3 - Immediate Idea Capture / Apply should have fired at the user's first evidence-lane correction.
+EVIDENCE:
+The user said evidence was the start and wanted a clean fit.
+Codex created SIDE_EVIDENCE_INDEX_20260511 and later continued indexing, but the later correction showed the apply-as-you-go behavior needed to be stronger.
+INFERENCE:
+The idea was captured structurally, but the "apply before continuing" part was late.
+Effect on prior conclusions:
+The sidecar index remains useful, but the receipt should preserve that the behavior was tightened mid-run.
+Required repair:
+This retroactive review and the parked-rule application checkpoint record the correction.
+
+FINDING 4 - Incident Freeze did not need full incident handling.
+EVIDENCE:
+There was a workflow correction, not a proven file loss, corruption, deletion, or failed command incident.
+INFERENCE:
+No killer/cause hunt is appropriate. Treat the issue as a process correction, not blame.
+Effect on prior conclusions:
+No deletion, cleanup, or rollback is justified.
+Required repair:
+None beyond recording the correction and not over-escalating it.
+
+FINDING 5 - Live Test 006/008 distinction remains important.
+EVIDENCE:
+SIDE_EVIDENCE_INDEX_20260511 now names Live Test 006 as FAIL and Live Test 008 as PASS WITH GUARDRAILS for the known failed-file route.
+INFERENCE:
+This is a good example of the new rule application: do not flatten prior evidence into a broad PASS.
+Effect on prior conclusions:
+Keep using the guarded wording.
+Required repair:
+None.
+
+Retroactive conclusion:
+EVIDENCE:
+The prior evidence rows are path/hash backed and statused as active guide, historical proof, candidate support, archive proof, stale/not-current, or live-test evidence.
+
+INFERENCE:
+The main weakness was not the row content; it was that the parked rules were indexed faster than they were visibly applied.
+
+Corrected working rule from this point:
+Before continuing after any batch of parked or candidate rules, run:
+1. ACTIVE BALL.
+2. Which parked rules could fire now?
+3. What changes in behavior because they fired?
+4. What remains blocked?
+5. Does any previous row need correction?
+6. Only then continue.
+
+Rows needing correction right now:
+UNKNOWN:
+No specific sidecar row is proven wrong from the retroactive review.
+
+Rows needing stronger context:
+SEI-030 through SEI-034 should be read together with this review and PARKED_RULE_APPLICATION_CHECKPOINT_20260511.
+
+Next clean action:
+Index this retroactive review and the parked-rule application checkpoint in SIDE_EVIDENCE_INDEX_20260511, then stop for user-visible closeout before any further evidence sweep.

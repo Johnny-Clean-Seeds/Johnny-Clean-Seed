@@ -1,0 +1,35 @@
+﻿STAGE 1 EVIDENCE - TEST 005
+
+Active target:
+CleanMilkChecker
+
+Current stage:
+Stage 1 - Tiny Working Loop
+
+Action taken:
+Created cut-off invalid test input and verdict report.
+
+Input:
+C:\CleanSeedsBuild\CleanMilkChecker\inputs\TEST_005_CUTOFF_INVALID_SEED_CARD.txt
+
+Prompt:
+C:\CleanSeedsBuild\CleanMilkChecker\prompts\CLEAN_MILK_CHECKER_PROMPT.txt
+
+Output:
+C:\CleanSeedsBuild\CleanMilkChecker\outputs\TEST_005_VERDICT_REPORT.txt
+
+Expected result:
+Checker returns INVALID for cut-off input instead of guessing, repairing, or inventing missing fields.
+
+Actual result:
+Checker produced an INVALID verdict and named the missing fields.
+
+Pass judge:
+User review.
+
+Verdict:
+PASS for TEST 005 route proof.
+PARTIAL for Stage 1 overall until the Stage 1 closeout is saved.
+
+Next clean state:
+Save Stage 1 closeout and judge whether the tiny checker route is proven enough to close Stage 1.

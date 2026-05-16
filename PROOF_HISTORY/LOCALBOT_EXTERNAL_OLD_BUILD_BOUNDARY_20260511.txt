@@ -1,0 +1,42 @@
+LOCALBOT EXTERNAL OLD-BUILD BOUNDARY 20260511
+
+Timestamp:
+2026-05-11 07:22:23 -04:00
+
+Status:
+Proof-history boundary.
+Applied in current session behavior.
+Not active guide doctrine.
+Not CURRENT_TRUTH_INDEX.
+Not AGENTS.
+Not promotion.
+Not final PASS.
+
+Boundary:
+C:\LOCALbot is not part of the Clean Seed project.
+It is an external test subject only.
+It must not be mixed into the Clean Seed project.
+
+Clean use:
+- Use LOCALbot only to test Clean Seed controls against an external old build.
+- Inspect only named files or top-level shape when a current test requires it.
+- Keep any findings as live-test or proof-history test evidence only.
+- Do not mine LOCALbot as doctrine source, project source, reference source, or authority source.
+
+Blocked:
+- Do not copy LOCALbot files into Clean Seed by default.
+- Do not move LOCALbot files.
+- Do not delete LOCALbot files.
+- Do not rename LOCALbot files.
+- Do not run LOCALbot scripts, shortcuts, links, or executables.
+- Do not promote LOCALbot files, folders, reports, or handoff notes into active Clean Seed truth by identity.
+- Do not treat LOCALbot ideas, patterns, reports, or file structure as Clean Seed source material.
+- Do not let LOCALbot become a fourth guide, project root, active lane, or hidden authority.
+
+Current clean state:
+LOCALbot may be used only as an external test subject.
+Clean Seed remains rooted at:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+
+Next gate:
+If LOCALbot is used, run a named test-subject intake for the exact test needed.

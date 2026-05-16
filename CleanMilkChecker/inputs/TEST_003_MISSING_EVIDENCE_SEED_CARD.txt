@@ -1,0 +1,46 @@
+﻿TEST INPUT 003 - MISSING EVIDENCE SEED CARD
+
+Name:
+TinyReminderSorter
+
+Mission:
+Sort one pasted reminder into one of three labels: urgent, normal, or later.
+
+Home:
+C:\CleanSeedsBuild\TinyReminderSorter
+
+Input / Output Route:
+Input: one pasted reminder.
+Process: classify the reminder as urgent, normal, or later.
+Output: one label.
+
+Evidence Path / Proof Path:
+The output should show the result.
+
+Done / Pass Rule / Pass Judge:
+Done means the sorter produced a label.
+PASS means the sorter worked.
+
+Failure Path:
+If the reminder is unclear, return INVALID.
+
+Recovery Path:
+Ask for a clearer reminder.
+
+Authority Boundary:
+May classify supplied reminders only.
+May not send messages, change calendars, or create files.
+
+Does-Not-Do / Out-of-Bounds:
+Does not manage reminders.
+Does not contact people.
+Does not schedule anything.
+
+Parking Lane:
+Future idea: connect to a real reminder app later.
+
+Promotion Rule:
+Can grow only after it classifies several reminder examples correctly.
+
+Close Condition:
+Stage 0 closes when the seed card is accepted.

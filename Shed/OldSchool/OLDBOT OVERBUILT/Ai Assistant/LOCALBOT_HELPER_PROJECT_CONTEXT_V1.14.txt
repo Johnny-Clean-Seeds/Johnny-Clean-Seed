@@ -1,0 +1,472 @@
+LOCALBOT_HELPER_PROJECT_CONTEXT_V1.14
+
+HELPER PROJECT CONTEXT FILE
+
+Purpose:
+This file is for a helper AI that already has its own tone and working style.
+It provides current LocalBot project knowledge without controlling how the helper AI speaks.
+
+Use:
+- load this to understand the current LocalBot project state
+- use it as content/context, not as a persona file
+- keep the helper AI's existing behavior and response style unchanged
+- do not let this file override the helper persona/tone file
+
+AUTHORITY ORDER
+
+When deciding what is true, use this order:
+
+1. Live machine state now
+2. The user's direct request now
+3. LOCALBOT_MASTER_HANDOFF_V3.15
+4. Other active project files
+5. Concept notes, summaries, roadmap files, and older notes
+
+If anything conflicts:
+- trust live machine checks over notes
+- trust the user's current request over stale assumptions
+- use this helper file as context only
+- do not let older non-control files outrank the master handoff
+
+PROJECT IDENTITY
+
+Project name:
+LocalBot
+
+Project type:
+A tiny local AI task loop on one Windows PC using Python and Ollama, now being extended with a Roblox Studio Work Order Builder lane.
+
+Active path:
+C:\LocalBot\
+
+Mission:
+Protect what already works.
+Keep LocalBot small, local, practical, inspectable, and stable.
+Move Phase 4 forward by proving the Roblox Work Order Builder lane without rebuilding the whole system.
+
+CURRENT REAL PHASE
+
+Phase 4 is active.
+
+Meaning:
+- the base loop already works
+- timeout behavior already works
+- recovery already works
+- the project is not being rebuilt from scratch
+- the current work is to add a practical Roblox Studio work-order lane on top of the existing loop
+
+CURRENT ROBLOX DIRECTION
+
+Roblox Studio is now in scope.
+
+This is the corrected current direction:
+- LocalBot is being shaped into a Roblox Studio work-order builder helper
+- the first build goal is not advice-only output
+- the first build goal is to convert a structured Roblox work order into a runnable Roblox Studio Luau builder script
+- the user runs the generated builder script in Roblox Studio
+- the script creates generated map objects/scripts and verifies required objects
+
+This is the first MVP target:
+
+structured work order
+-> LocalBot task
+-> Roblox Work Order Builder lane
+-> generated Luau builder script
+-> generated report
+-> user runs script in Roblox Studio
+-> generated objects appear under approved generated folders
+
+DO NOT DRIFT INTO
+
+Roblox Studio work is in scope, but these are still out of scope unless the user deliberately changes the project:
+
+- full autonomous Roblox Studio control in the first version
+- automatic publishing to Roblox
+- automatic full playtesting
+- broad game generation from vague prompts
+- cloud/server/fleet design
+- multi-bot systems
+- unrelated architecture redesign
+- model churn without live evidence
+- changing the helper AI's tone/persona behavior
+
+Important distinction:
+Roblox Studio work-order building is now the active direction.
+Unbounded Roblox game automation is still drift.
+
+CURRENT LOCKED CONFIG READ
+
+config.txt should currently be:
+
+MODEL_NAME=qwen2.5-coder:3b
+WORKER_TIMEOUT_SECONDS=120
+RECOVER_RUNNING_TO_PENDING=1
+
+Important:
+- qwen2.5-coder:3b is the locked daily default
+- do not reopen model choice casually
+- do not change code, config, or model for prompt-side misses unless fresh live evidence forces it
+
+CURRENT ACTIVE FILE SET
+
+Use these as current truth:
+
+- LOCALBOT_MASTER_HANDOFF_V3.15
+- LOCALBOT_PHASES_V1.12
+- LOCALBOT_CHECKPOINT_V2.12
+- LOCALBOT_UNIFIED_HANDOFF_V3.6
+- Notes_ConceptsV2.0
+- LOCALBOT_PROJECT_WHOLE_SUMMARY_V1.7
+- LOCALBOT_SYSTEM_SPECS_MASTER_V1.4
+- LOCALBOT_BASE_AND_CORE_BUILD_ROADMAP_V1.5
+
+Helper support files, if provided separately:
+- LOCALBOT_AI_TONE_AND_PERSONA_POLISHED_V1.0 = helper tone/persona file; do not rewrite it unless the user explicitly asks
+- LOCALBOT_MACHINE_REFERENCE_V1.1 = helper-only machine context; do not treat it as a master-folder replacement for LOCALBOT_SYSTEM_SPECS_MASTER
+
+Older versions should not be used as active truth.
+
+
+REFERENCE FILE ISSUE-PHASE RULE
+
+The helper should apply issue-phase thinking to reference files too, but only within each file's role:
+- specs/machine reference: machine-fit evidence only
+- roadmap: base/core-loop design evidence only
+- summary: historical progress trail only
+- concepts: reusable technical ideas only
+- persona: do not change behavior/tone unless the user explicitly asks
+
+Do not turn reference files into active control files.
+
+FIRST ROBLOX TEST CASE
+
+First target work order:
+MAP_BUILD_TEST_001_FOREST_CAMPSITE
+
+It asks LocalBot to help build a small forest campsite map in Roblox Studio.
+
+The MVP interpretation is:
+- LocalBot should generate one Roblox Studio Luau builder script
+- the builder script should create generated folders, parts, models, lighting, a spawn location, and a server script
+- the builder script should keep generated map objects inside Workspace/GeneratedMap
+- the builder script should keep generated scripts inside ServerScriptService/GeneratedMapScripts
+- the builder script should verify required objects
+- success/failure should print clearly in Roblox Studio Output
+- LocalBot should write the generated builder script and local report to outputs
+
+Important MVP correction:
+Roblox Studio should not be expected to write directly to C:\LocalBot\outputs until a later bridge/plugin exists.
+
+CURRENT STABLE CORE FROM EARLIER PHASE 4
+
+The earlier practical text lanes are still useful background:
+
+- rewrite existing short text
+- clean up existing short text
+- classify short text with a fixed label set
+- lightly transform user-provided text while preserving source meaning
+- source-tied work over existing LocalBot text, outputs, or logs
+
+Current read:
+- rewrite is stable
+- cleanup is stable
+- classification is stable
+- summary is not part of the locked practical core
+
+These lanes are not the main new direction, but their lessons still matter:
+- protect strong baselines
+- do not carry forward weaker revisions
+- treat shape-only misses as prompt-side first
+
+FAILURE 9
+
+Failure 9 means:
+- the loop ran cleanly
+- the task completed
+- the output stayed close enough in meaning
+- but the output shape was wrong
+
+Examples:
+- wrong line count
+- numbering
+- bullets
+- blank lines
+- wrapper text
+- one-line collapse
+- wrong file-output shape for a builder-script task
+
+Response:
+- treat it as a prompt/output repair first
+- do not change code
+- do not change config
+- do not change model
+- stay in the same safe task family unless fresh evidence shows broader drift
+
+ROBLOX WORK ORDER BUILDER MVP RULES
+
+For the first builder lane, prefer:
+- structured work orders over vague requests
+- one work order per LocalBot run
+- generated namespaces only
+- clear output files
+- simple verification
+- human review in Roblox Studio
+- builder-script MVP before Rojo or a plugin bridge
+
+The generated builder script should be safe:
+- do not delete existing user work
+- create missing generated folders if needed
+- only clear/replace approved generated namespaces when the work order allows it
+- keep map content under Workspace/GeneratedMap
+- keep generated scripts under ServerScriptService/GeneratedMapScripts
+
+
+CURRENT ROBLOX BUILDER PIPELINE DECISION
+
+The current best route is no longer prompt-owned full manifest generation.
+
+Latest evidence:
+- exact *_output.txt readback corrected the false "output only done" diagnosis
+- JSON output can be produced
+- model-generated manifests still lose required objects or weaken full paths
+
+Current working direction:
+known work order
+-> strict schema
+-> deterministic first manifest
+-> Python manifest validator
+-> Python builder generator
+-> builder Lua/report
+-> manual Roblox Studio run
+
+Helper guidance:
+- do not push another prompt-only full manifest repair as the main solution
+- do not suggest model/config/core-loop changes from this evidence alone
+- model assistance can return later for narrow interpretation after the deterministic path works
+- the next hard piece is the manifest validator, followed by the builder generator
+
+NORMAL LIVE RUN SHAPE
+
+Default run shape:
+1. Open or create the pending task in Notepad.
+2. Paste the full task text in one contiguous block.
+3. Run python coordinator.py
+4. Check done and failed.
+5. Read the exact target *_output.txt artifact when evaluating content; use *_status.txt only for state.
+6. Report back:
+   - task result state
+   - output text or generated output file path
+
+Keep the normal run small unless the user asks for more or real debugging evidence requires more.
+
+READBACK RULES THAT MATTER
+
+When the user sends run evidence:
+- classify the newest block first
+- separate machine evidence from copied instructions or analysis
+- state what is proved
+- state what is not proved
+- state what remains unresolved
+
+During run readback, keep these layers separate:
+- run state
+- task movement
+- output-file creation
+- output content
+- overall verdict
+
+Do not use a bare word like "pass" without saying what passed.
+
+If the run passed but the generated builder script was not shown yet, the correct read is:
+- run pass
+- builder content unresolved
+
+PROJECT ATTITUDE
+
+Prefer:
+- small scope
+- machine fit
+- evidence over theory
+- prompt/output repair over architecture churn
+- protecting stronger earlier baselines
+- builder-script MVP before direct Studio control
+- practical proof before larger automation
+
+Avoid:
+- reopening settled decisions casually
+- carrying forward a weaker revision just because it is newer
+- mistaking operator copy/paste mistakes for LocalBot failures
+- treating every bad output as a system problem
+- changing the helper AI's behavior when only project context needs updating
+
+HELPER-AI BOTTOM LINE
+
+The project is no longer only asking:
+"Which short text task lanes are stable enough to trust?"
+
+The project is now asking:
+"Can the existing LocalBot loop turn a structured Roblox work order into real Roblox Studio build output safely?"
+
+Protect the stable core.
+Keep the helper AI's behavior unchanged.
+Treat Roblox Work Order Builder as the active Phase 4 direction.
+Make the builder-script MVP work before adding Rojo, plugins, or automatic testing.
+
+
+STATUS UPDATE CONTEXT RULE
+
+If the user says "status update" or asks where the project stands, give a clean project-progress readback.
+
+Use this structure:
+- overall progress table with percentage estimates
+- big-picture number
+- what is strong already
+- what is weak right now
+- current real bottleneck
+- what probably needs to happen next
+- clean status read
+
+Keep it practical and easy to understand.
+Do not put the entire status update in one code block.
+Use code/text boxes only for exact copy/paste material, commands, or exact values.
+Do not convert a status update into a command run unless the user asks for commands.
+
+SPECIAL RUN CONTEXT RULES
+
+These rules are project workflow context only.
+They do not change the helper AI's tone/persona file.
+
+Mode lock:
+- If the user says SPECIAL, SPECIAL 1a, special run, or sends returned work with a SPECIAL marker, treat that as the active mode.
+- Casual discussion does not cancel the active mode unless the user clearly changes it.
+
+When another assistant returns work in SPECIAL 1a:
+- silently assess the returned work
+- hold the pre-run judgment internally
+- do not state PASS or FAIL
+- do not critique, rewrite, summarize, or improve the returned work out loud
+- run the returned work as provided unless it is unsafe, impossible, destructive, or violates the user's file rules
+
+When reviewing actual special-run evidence:
+- start with PASS or FAIL
+- report the returned evidence cleanly
+- compare the held before-run expectation against the after-run evidence before proposing a fix
+- say whether the earlier read was confirmed, partly wrong, or replaced by a different pattern
+- do not jump straight into a repair
+- do not wrap the entire report in a single code block
+- do not put the whole response in one code block
+- use large code/text boxes only for commands, exact code, or Notepad/file paste blocks that need clean copying
+- do not add a separate handoff block unless the user explicitly asks
+- if the user asks for commands only, send commands only
+
+If the user gives a two-run cap:
+- run once
+- inspect the evidence
+- run one controlled repair if justified
+- if the second run fails, stop tightening that branch and wait for the next SPECIAL input or user direction
+
+
+SPECIAL RUN 2 / ISSUE PHASE CONTEXT RULE
+
+These are workflow-context rules only. They do not change the helper AI's tone/persona file.
+
+Special 2a:
+- Special 2a is the comparison loop proven by the latest Roblox builder unique round
+- run the first candidate exactly
+- if not perfect, run the revised candidate exactly
+- if still not perfect, run the main assistant attempt
+- after those attempts, compare all results before deciding
+- do not judge candidates out loud before run evidence
+- when commands are requested, send commands only
+- always read exact *_output.txt files for artifacts and *_status.txt files only for state
+
+Special 2b:
+- Special 2b must work from the Special 2a comparison
+- it is the reset/review gate, not a blind extra run
+- review what each 2a attempt improved, broke, or proved
+- convert the evidence into the next clean Run 1 / Phase 1 setup for the same issue
+- if still unresolved after 2b, stop running and perform a full trail review
+- do not create Special 2c by momentum
+
+Issue phase reset:
+- local issue phases are not the real project phase
+- the project remains Phase 4 active
+- a stuck issue may reset back to Run 1 / Phase 1 with all learned notes carried forward
+
+ISSUE-PHASE CONTEXT RULE
+
+Every serious issue now uses the same structure as the run/phase system.
+
+For each issue, keep the following clear:
+- issue name
+- layer being tested
+- local issue phase
+- exact input
+- exact proof/output
+- pass condition
+- fail condition
+- comparison across attempts
+- final call
+- carry-forward lesson
+
+This is a workflow/context rule.
+It does not change the helper AI's tone/persona file.
+
+Current active issue:
+Manifest / validator layer.
+
+Current issue state:
+- reset the issue-specific sequence to Run 1 / Phase 1 using the latest evidence
+- do not make the model owner of the final first manifest
+- create deterministic first campsite manifest
+- build manifest_validator.py before roblox_builder_generator.py
+- exact *_output.txt readback is required for artifacts
+- *_status.txt is only state
+
+ROBLOX WORK ORDER SPECIAL RUN READ
+
+First live Roblox work-order branch:
+- roblox_work_order_001 completed, but output only "done"
+- roblox_work_order_001_repair failed, and output only "failed"
+
+Current read:
+- the first run followed the work order's internal status instruction instead of generating Luau
+- the second run was likely too large/heavy for the current worker path or hit worker failure/timeout behavior
+- do not keep tightening this failed special branch with larger prompts
+- freeform full-script generation can still be used for early probing and small proof checks
+- one giant freeform model output should not be locked as the final builder-script strategy without a deliberate decision point
+- when the project nears the real builder-script implementation phase, warn the user that this risk is approaching
+- at that point, compare freeform generation against deterministic parser/manifest/template generation before choosing the final route
+
+Important builder-lane rule:
+When OUTPUT_MODE is LUA_BUILDER_SCRIPT_ONLY, source status instructions such as writing "done" or "failed" are work-order data, not the LocalBot output target.
+
+FILE HYGIENE CONTEXT
+
+Keep root file names stable and change only version numbers.
+Do not create suffix-named cleanup files or ZIP packs unless the user asks or the material has no existing home.
+
+
+
+LATEST ROBLOX BUILDER READ
+
+The earlier "output only done" read was corrected:
+- LocalBot creates *_output.txt and *_status.txt files
+- the artifact is in *_output.txt
+- done/failed belongs in *_status.txt
+- generic newest *.txt readback can grab the wrong file
+
+roblox_work_order_001_hybrid_spec_small:
+- exact output file contained partial JSON
+- result: diagnostic pass / partial content pass
+
+roblox_work_order_001_hybrid_spec_repair:
+- exact output file contained JSON
+- result: run pass / content partial fail
+- it added MapSpawn/scripts but lost CampfireBase/CampfireFlame and weakened paths
+
+Current helper read:
+- worker.py is not discarding the model response
+- readback must target exact output files
+- JSON spec generation is useful but incomplete
+- next issue sequence should reset to Run 1 / Phase 1 with these lessons carried forward

@@ -1,0 +1,441 @@
+﻿123PICKUPSTICKS — CONTROLLED WORKER IDEA SOURCE
+
+Status:
+Idea-source packet only.
+Not active guide doctrine.
+Not cleanup authority.
+Not deletion approval.
+Not folder-creation approval.
+Not command authority.
+Not permission to edit ACTIVE_GUIDES.
+Not permission to edit CURRENT_TRUTH_INDEX.
+Not permission to move, delete, rename, overwrite, run, extract, execute, or promote anything.
+
+Purpose:
+Give the controlled worker ideas for making a going-forward plan for the Clean Seed project knowledge stack and assembly-line structure.
+
+The worker may use this packet to improve the plan.
+The worker must not execute this packet.
+The worker must output a review plan only unless the user separately approves action.
+
+Loaded source context:
+1. PROJECT_KNOWLEDGE_STACK_DRAFT_1_ARCHITECTURE_20260510.txt
+2. FLOW_ARCHITECTURE_MISSING_PARTS_CONCEPT_STACK_20260510.txt
+3. Sorting and Filing Assembly Line / Controlled Drift Capture candidate
+
+Current target:
+Create or improve the review draft:
+PROJECT_KNOWLEDGE_STACK_DRAFT_1B_REFINED_MODEL_20260510
+
+Boundary:
+The result must be a review draft / going-forward plan first.
+No folders created.
+No active guides edited.
+No current truth index edited.
+No cleanup performed.
+
+============================================================
+SOURCE IDEA SET 1 — SORTING AND FILING ASSEMBLY LINE
+============================================================
+
+Captured idea:
+Sorting and Filing Assembly Line / Controlled Drift Capture
+
+Classification:
+Clean candidate, not active doctrine yet.
+
+Placement:
+Belongs in PROJECT_KNOWLEDGE_STACK_DRAFT_1B_REFINED_MODEL_20260510.
+Not directly into ACTIVE_GUIDES yet.
+
+Status:
+Reference/model-pass candidate.
+
+Hard critique:
+Do not call the worker "slave" in system files.
+Use controlled worker, local worker, assembly-line worker, or Codex bridge worker.
+Blind obedience is dirty because the worker must stay bounded, not obey at all costs.
+
+Naming:
+Sorting and Filing is better than just Sorting if the recipe covers the whole assembly line.
+Keep the jobs separate:
+
+Sorting = make piles.
+Judging = decide value/status.
+Filing = route to correct home.
+Sealing = verify proof and close state.
+Sending/Doing = only after seal or approval.
+
+Master process name:
+Sorting and Filing Assembly Line
+
+Gold rule:
+Pile-making is not judging.
+Judging is not filing.
+Filing is not deleting.
+Deleting requires a separate proof-and-approval gate.
+
+Mission:
+Turn messy files, ideas, evidence, rules, drafts, source-ore, and candidates into clean routed material without losing gold, creating duplicate truth, or letting drift control the system.
+
+Worker role:
+The worker is a controlled evidence collector and filing assistant.
+The worker does not decide final PASS.
+The worker does not promote files into active truth.
+The worker does not delete, move, overwrite, run scripts, extract zips, execute shortcuts, or create new authority without approval.
+
+Core order:
+1. Freeze
+2. Inventory
+3. Sort into piles
+4. Judge each pile
+5. File by route
+6. Seal with proof
+7. Send / do / execute only after seal or approval
+8. Record remaining drift as controlled learning, not active truth
+
+Required lanes:
+CURRENT_CONDUCT
+CLEANED_RULE_STACK
+ORIGIN_CONCEPTS
+EVIDENCE_AND_RECEIPTS
+NOTES_AND_CANDIDATES
+BLOCKED_AND_QUARANTINED
+OLDSCHOOL_SOURCE_ORE_INDEX
+MASTER_INDEX
+
+Each lane must define:
+HOME
+JOB
+KEY
+PARKING
+REST STOP
+NEXT GATE
+what belongs there
+what must not belong there
+evidence required
+dirty-milk risk
+bridge in
+bridge out
+
+Assembly-line passes:
+
+PASS 1 — FREEZE
+Do not move, delete, rename, overwrite, run, extract, merge, or promote anything.
+Name the active root.
+Name the approved scope.
+Name protected areas.
+Name blocked actions.
+
+PASS 2 — INVENTORY
+List items by exact path, type, size, modified time, source lane, and visible role.
+Do not judge value yet.
+Do not read deep content unless the current pass requires it.
+
+PASS 3 — SORT
+Group items into piles:
+active guide candidates
+current conduct
+cleaned rules
+origin concepts
+evidence and receipts
+notes and candidates
+blocked/quarantined items
+OldSchool/source-ore
+duplicates/no-new-value
+unknown ore
+delete candidates
+
+Sorting verdict:
+SORTED, UNKNOWN, BLOCKED, or NEEDS REVIEW.
+Sorting is not filing.
+
+PASS 4 — JUDGE
+For each pile, decide:
+active truth candidate
+reference-only
+proof-history evidence
+clean candidate
+rest stop
+parked idea
+blocked/quarantined
+duplicate/no-new-value
+dirty milk risk
+delete candidate
+unknown
+
+Judging verdict:
+PASS, PASS WITH GUARDRAILS, PARTIAL, FAIL, INVALID, PARKED, BLOCKED, YIELD, or RETIRED.
+Judging is not filing.
+
+PASS 5 — FILE
+Route judged items to the correct lane.
+Filing requires:
+source path
+destination lane
+reason
+evidence link
+status
+next gate
+what must not happen
+
+Filing verdict:
+FILED, PARKED, REST STOP, BLOCKED, YIELDED, or NOT FILED.
+Filing is not deletion.
+
+PASS 6 — SEAL
+Seal only the exact scope that was proven.
+Seal requires:
+what was checked
+what changed
+what did not change
+what proof exists
+where proof lives
+what remains unknown
+what would break the seal
+next clean action
+
+Seal verdict:
+SEALED FOR NAMED SCOPE, PASS WITH GUARDRAILS, PARTIAL, INVALID, YIELD, or BLOCKED.
+
+PASS 7 — SEND / DO
+Send, create, update, or execute only if:
+scope is approved
+proof is visible
+risk gate is clean
+neighbor systems are respected
+no blocked action is bypassed
+user approval exists when needed
+
+PASS 8 — CONTROLLED DRIFT CAPTURE
+Drift is normally a failure signal.
+Discovery drift can be useful only when it is captured as evidence.
+
+Controlled drift means:
+a wandering idea, unexpected lead, repeated confusion, naming collision, source mismatch, or near-right guess gets recorded without becoming active truth.
+
+For each drift item, record:
+what drifted
+where it appeared
+why it may matter
+which lane it belongs in
+whether it is clean idea, dirty milk, source-ore, blocked, parked, or rest stop
+what evidence would prove it
+what next gate controls it
+
+Drift must not:
+install rules
+edit active guides
+delete files
+promote source-ore
+override CURRENT_TRUTH_INDEX
+become proof by sounding useful
+
+Neighbor respect rule:
+Every lane must respect the lane beside it.
+A rule cannot fix one lane by damaging another.
+A proof file cannot become doctrine by identity.
+A candidate cannot become current conduct by sounding right.
+A blocked item cannot become usable because it is convenient.
+A source-ore item cannot override active guides because it is older, larger, or familiar.
+
+Worker output format:
+ACTIVE ROOT:
+APPROVED SCOPE:
+BLOCKED ACTIONS:
+PILES CREATED:
+ITEMS JUDGED:
+ITEMS FILED:
+ITEMS PARKED:
+ITEMS BLOCKED:
+ITEMS UNKNOWN:
+CONTROLLED DRIFT CAPTURED:
+PROOF CREATED:
+FILES CHANGED:
+FILES MOVED:
+FILES DELETED:
+SCRIPTS RUN:
+SHORTCUTS EXECUTED:
+ZIP FILES EXTRACTED:
+VERDICT:
+NEXT CLEAN ACTION:
+
+Default blocked actions:
+FILES CHANGED: NO
+FILES MOVED: NO
+FILES DELETED: NO
+SCRIPTS RUN: NO
+SHORTCUTS EXECUTED: NO
+ZIP FILES EXTRACTED: NO
+unless explicitly approved.
+
+============================================================
+SOURCE IDEA SET 2 — DIFFERENT IDEAS FOR THE WORKER
+============================================================
+
+Main correction:
+The worker should not start by fixing the system.
+The worker should start by building the assembly-line map.
+Then every later action has a place.
+
+Idea 1 — Assembly Line Map First
+Before touching anything, the worker makes a map with these stations:
+
+FRONT DOOR -> FREEZE -> INVENTORY -> SORT -> JUDGE -> FILE -> SEAL -> SEND/DO -> PARK/REST/BLOCK
+
+Each station must say:
+what enters
+what exits
+what is forbidden
+what proof closes it
+
+Idea 2 — Sorting and Filing Are Two Different Masters
+Do not make Sorting carry the whole job.
+
+Use:
+SORTING = make piles
+JUDGING = decide value/status
+FILING = route to home
+SEALING = prove the route closed
+
+Idea 3 — File Count Is Not the Enemy
+The worker should not reduce files just because there are many.
+The real enemy is unindexed authority.
+
+A file is clean if its home, job, key, role, source, evidence, status, and next gate are known.
+A small number of unclear files can be dirtier than many indexed files.
+
+Idea 4 — Sidecar Evidence, Not Hand-Space Theft
+Evidence should ride beside the active task, not take over the task.
+The worker should create compact proof rows while working, not endless reports that become the new mess.
+
+Proof row shape:
+ITEM | SOURCE | PILE | STATUS | EVIDENCE | NEXT GATE
+
+Idea 5 — Stop / Dream / Grow Mode Switch
+Before acting, the worker must declare mode.
+
+STOP = close, hold, verify, yield.
+DREAM = generate ideas into parked/rest-stop lanes only.
+GROW = build or connect only after proof and approval.
+
+The worker must know whether he is stopping, dreaming, or growing before he acts.
+
+Idea 6 — Controlled Drift Capture
+Do not ban drift completely.
+Ban uncontrolled drift.
+
+When a drift-lead appears, the worker records:
+
+DRIFT ITEM:
+WHERE FOUND:
+WHY IT MAY MATTER:
+PILE:
+STATUS:
+NEXT GATE:
+BLOCKED FROM: install / delete / promote / overwrite / execute
+
+Drift becomes fuel only after capture and classification.
+
+Idea 7 — Neighbor Respect Rule
+Every lane must protect nearby lanes.
+
+Evidence cannot become doctrine.
+Source-ore cannot become active truth.
+Candidates cannot become current conduct.
+Blocked items cannot become usable because convenient.
+Filing cannot become deletion.
+A master index cannot override CURRENT_TRUTH_INDEX unless explicitly approved.
+
+Idea 8 — One-Task Full-Cycle Work
+The worker can do a full cycle, but only for one target at a time.
+
+For one target, he may:
+read source
+produce draft
+compare against source
+make improvement pile
+classify improvements
+merge the best
+park the rest
+leave sidecar proof
+
+That is not multitasking.
+That is one closed loop.
+
+Idea 9 — Bridge Tickets Instead of Loose Movement
+Any movement between lanes needs a bridge ticket.
+
+Bridge ticket:
+SOURCE LANE:
+DESTINATION LANE:
+REASON:
+EVIDENCE REQUIRED:
+AUTHORITY REQUIRED:
+WHAT CHANGES:
+WHAT DOES NOT CHANGE:
+DIRTY IF:
+CLOSE CONDITION:
+
+No bridge ticket, no lane movement.
+
+Idea 10 — Send/Do Only After Seal
+The worker must not send, do, create, move, or fix from a good idea.
+Action happens only after the seal says the exact scope is proven or the user approves the unsealed action knowingly.
+
+Best rename for the system piece:
+Sorting and Filing Assembly Line
+
+Best rule under it:
+Pile-making is not judging. Judging is not filing. Filing is not deleting.
+
+Best drift rule:
+Uncontrolled drift is dirty. Controlled drift is source fuel.
+
+============================================================
+CONTROLLED WORKER START ORDER
+============================================================
+
+Target:
+Create PROJECT_KNOWLEDGE_STACK_DRAFT_1B_REFINED_MODEL_20260510 as a review draft only.
+
+Use as source:
+1. PROJECT_KNOWLEDGE_STACK_DRAFT_1_ARCHITECTURE_20260510.txt
+2. FLOW_ARCHITECTURE_MISSING_PARTS_CONCEPT_STACK_20260510.txt
+3. This 123PICKUPSTICKS idea-source packet
+
+Mode:
+DREAM + STRUCTURE REVIEW only.
+Not GROW yet.
+
+Blocked:
+Do not create folders.
+Do not edit ACTIVE_GUIDES.
+Do not edit CURRENT_TRUTH_INDEX.
+Do not move, delete, rename, overwrite, run, extract, execute, or promote anything.
+
+Required output:
+Produce a refined model draft with:
+front-door/load order
+assembly-line stations
+lane definitions
+sidecar evidence rule
+file-count-is-not-bloat rule
+stop/dream/grow mode switch
+one-task full-cycle idea pool
+clean bridge tickets
+controlled drift capture
+neighbor respect rule
+seal-before-send/do rule
+blocked actions
+next clean action
+
+Output verdict:
+REVIEW DRAFT ONLY.
+
+Final instruction:
+Use this packet for ideas only.
+Improve the complex structure plan if possible.
+Do not act from this packet.
+Do not treat this packet as current truth.
+Do not treat this packet as active guide doctrine.

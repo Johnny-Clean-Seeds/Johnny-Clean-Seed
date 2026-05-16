@@ -1,0 +1,828 @@
+LOCALBOT_OCTAGON_ROUTE_MODEL_REFERENCE
+
+DETAILED OCTAGON / 8-GATE / SECTOR MODEL REFERENCE
+
+Date:
+2026-05-04
+
+Purpose:
+Preserve the octagon / 8-gate / sector route-model idea as detailed future LocalBot reference material without making it an active LocalBot pathway.
+
+Current status:
+Reference only.
+Future LocalBot idea only.
+No active pathway.
+No hidden pathway.
+No backdoor.
+No automatic escalation.
+No bypass of user control.
+Not active command behavior.
+Not active route logic.
+Not active runtime behavior.
+Not a replacement for LOCALBOT_MASTER_HANDOFF.
+Not a runtime, model, config, checkpoint, or phase change.
+
+SAVE INTENT
+
+The user wants the good ideas preserved, not thrown away.
+
+This file therefore saves the useful shape, vocabulary, names, cautions, and future-design ideas that belong to the octagon model.
+
+Important:
+Saving the idea does not activate the idea.
+
+This file is a visible reference home.
+It is not a buried control path.
+
+WHY THIS FILE EXISTS
+
+The octagon model contains useful thinking about route shape, gates, sectors, controlled movement, escalation pressure, and how a LocalBot action should stop before it grows beyond its permission.
+
+The idea originally had a "backdoor" flavor.
+That active direction was rejected because hidden pathways are dangerous in a control stack.
+
+The useful future value is kept:
+- bounded movement
+- visible route logic
+- named gate checks
+- clear sectors / homes
+- yield as a brake
+- explicit stop points
+- no route expansion by momentum
+- future design memory without active control drift
+
+This file gives the idea one visible home so it can be remembered, reviewed, refined, or deliberately reopened later without leaking into ordinary LocalBot work.
+
+AUTHORITY
+
+This file does not override:
+1. Live machine state now
+2. The user's direct request now
+3. LOCALBOT_MASTER_HANDOFF
+4. LOCALBOT_STUDIO_RULE_LIBRARY
+5. LOCALBOT_HIGH_RISK_ROUTE_CONTRACTS
+6. Other active project files
+
+If this file conflicts with active control files, this file loses.
+
+REFERENCE-ONLY BOUNDARY
+
+This file may:
+- preserve the concept
+- explain the idea in detail
+- hold future LocalBot design vocabulary
+- preserve rejected/parked ideas with accurate labels
+- support later design discussion if deliberately reopened
+- help recover old thinking without mixing it into active work
+- explain why the smaller high-risk route contract shape was chosen for testing
+
+This file must not:
+- create a command route
+- create a hidden route
+- create a backdoor
+- create active escalation behavior
+- create autonomous behavior
+- override the high-risk route contract experiment
+- override master-handoff rules
+- force broad contracts onto all commands
+- turn LocalBot into a control machine
+- let future theory outrun current proof
+
+BUILD POSTURE PRESERVED
+
+Feed LocalBot useful food.
+Do not redesign its skeleton.
+
+Meaning:
+- grow LocalBot by adding practical value
+- protect the small working core
+- do not add elegant control layers unless they solve a real risk
+- test whether a new control idea makes LocalBot safer and clearer in real use
+- reject control ideas that only make the design look smarter
+- keep useful future ideas in visible reference instead of hiding them or pretending they are active
+
+CURRENT READ PRESERVED
+
+This is not a rebuild.
+This is not a new active architecture lane.
+This is not a replacement for the master handoff.
+
+This is a future-reference model for route discipline.
+
+The useful current lesson is:
+- normal LocalBot use stays simple
+- tighter control belongs only where mistakes are expensive
+- route behavior must not expand itself mid-action
+- yield is the brake when a route needs more than it was allowed to use
+- reference theory may be saved, but it must not quietly become active operating truth
+
+THE CORE IDEA IN PLAIN WORDS
+
+The octagon model is a way to imagine a risky action moving through a controlled shape.
+
+The shape matters because the assistant can drift.
+
+A normal assistant may start with:
+"save this"
+
+Then widen into:
+- decide file placement
+- rewrite rules
+- update roadmap
+- update checkpoint
+- create a new control process
+- explain a theory
+- promote future behavior
+
+The octagon idea says:
+Do not let the route keep widening.
+
+A risky route should move through known sides/gates only.
+If it reaches something outside the allowed shape, it yields instead of inventing a new side.
+
+The model is useful because it turns vague caution into a visible route shape.
+
+OCTAGON AS A CONTROL SHAPE
+
+The octagon represents a bounded action space.
+
+Each side/gate is a check or boundary.
+The route is allowed to move only through the known boundary points.
+The route must not cut a hidden tunnel through the middle.
+The route must not add a new side during action.
+The route must not open a secret exit because the current action feels important.
+
+Conceptual meaning:
+- eight sides = enough structure to control high-risk action
+- visible perimeter = the allowed route surface
+- no hidden center path = no backdoor
+- no extra side = no mid-route expansion
+- yield = stop and return control to the user
+
+Text sketch:
+
+          [1 command_recognized]
+      [8 output_authorized]   [2 current_state]
+
+   [7 evidence_present]           [3 permission]
+
+      [6 conflict]           [4 file_ownership]
+             [5 placement]
+
+This sketch is reference only.
+It is not active operating syntax.
+
+POSSIBLE 8-GATE MAP FROM THE CURRENT NOTES
+
+The current note stack named a small check vocabulary.
+Those checks can be viewed as a possible future octagon gate set.
+
+1. command_recognized
+Purpose:
+Confirm what the user actually asked for.
+
+Risk controlled:
+The assistant should not treat vague words as permission for a larger action.
+
+Example:
+"Save this progress" may authorize saving the current approved progress.
+It does not automatically authorize a master-handoff rewrite unless that was clearly part of the approved save.
+
+2. current_state
+Purpose:
+Check what state the project is currently in before acting.
+
+Risk controlled:
+The assistant should not act from stale assumptions.
+
+Example:
+If LocalBot is Phase 4 active, a note about future route theory should not be treated as a new active phase.
+
+3. permission
+Purpose:
+Confirm the user gave enough permission for the kind of action being taken.
+
+Risk controlled:
+The assistant should not write, package, update, delete, or promote files without clear permission.
+
+Example:
+"Lock it" is not the same as "save it into files."
+"Save this progress" is file-output permission for the approved progress.
+
+4. file_ownership
+Purpose:
+Identify which file owns the content.
+
+Risk controlled:
+The assistant should not dump every idea into the master handoff or put active-control content into a reference file.
+
+Example:
+High-risk route contracts belong in their own support file.
+Full octagon theory belongs in a reference file.
+Decision history belongs in the unified handoff.
+The master handoff only gets proven operating truth.
+
+5. placement
+Purpose:
+Check whether the content is placed in the right part of the stack.
+
+Risk controlled:
+The assistant should not create clutter, duplicate rules, or hidden control.
+
+Example:
+Octagon theory may sit beside reference parking or in its own reference file.
+It should not be buried where it acts like a secret route.
+
+6. conflict
+Purpose:
+Check whether the action conflicts with active rules, scope, file roles, or the user's current decision.
+
+Risk controlled:
+The assistant should not celebrate a save before checking whether the save created a new contradiction.
+
+Example:
+If a file says "no active pathway" but also describes a backdoor as available, conflict is found.
+
+7. evidence_present
+Purpose:
+Check whether the action is backed by evidence or only by attractive theory.
+
+Risk controlled:
+The assistant should not promote ideas into active operation before proof.
+
+Example:
+The route-contract model remains experimental until /save and possibly /audit prove it helps.
+
+8. output_authorized
+Purpose:
+Check whether the output being created is authorized and safe to deliver.
+
+Risk controlled:
+The assistant should not export files, packages, screenshots, images, or changed stack copies unless the user actually authorized that kind of output.
+
+Example:
+User says a package is not needed.
+The assistant updates the visible files and links them, but does not need to create a new zip.
+
+HOW THE 8-GATE MAP RELATES TO THE SMALL CONTRACT SHAPE
+
+The high-risk contract experiment uses the small useful part of the octagon idea.
+
+Small active-test shape:
+
+screen presents
+route owns behavior
+route owns a tiny contract
+route uses only named checks
+route returns close/reset, dispatch, or yield
+
+The octagon reference model explains the larger design dream behind that shape.
+
+The smaller shape is better for current LocalBot because it makes risky actions narrower.
+
+The larger octagon theory is better for future LocalBot because it preserves a richer map for later design.
+
+SECTOR LANGUAGE PRESERVED AS REFERENCE
+
+"Sector" can be used as future reference language for a home, zone, or conceptual area inside the route model.
+
+Possible sectors from the current notes:
+
+1. Control Surface
+User-facing command or screen layer.
+The place where the user asks for something or sees choices.
+
+2. Screen
+Presentation layer.
+Shows choices, context, status, warnings, or decision options.
+May select or point to a route.
+Does not own route behavior.
+
+3. Route
+Action path.
+Performs the selected action.
+Owns its own behavior.
+May use only the checks named in its contract.
+
+4. Route Contract
+Small bounded agreement for a high-risk route.
+Defines the target home, named check set, allowed results, bridge permission, and result conditions.
+
+5. Named Check Set
+The small approved checks that route may use.
+Prevents the route from widening itself during action.
+
+6. Route Results
+The only normal route exits:
+- close/reset
+- dispatch
+- yield
+
+7. Bridge
+Special crossing structure.
+Used only when clean cross-home interaction is actually needed.
+Not normal route behavior.
+
+8. Save Point
+Later review point for yielded or unresolved items.
+Not a normal route result.
+Used to surface what was held instead of forcing dirty movement.
+
+Sector language should not be active everyday wording now.
+Use plain language in active files.
+Keep sector language here for future design memory.
+
+FULL OCTAGON THEORY PRESERVED
+
+The full theory is:
+
+A LocalBot action can be viewed as movement through a bounded octagon.
+Each side is a named gate/check.
+Each interior concept is a sector/home.
+The route is not free to invent new checks, new exits, or new authorities while moving.
+If it needs something outside the current shape, it yields.
+A bridge is not a normal side. It is a deliberate crossing between homes.
+A save point is not a route result. It is a later review point for unresolved or yielded material.
+A backdoor is not allowed. Hidden control destroys trust.
+Future expansion must be visible, named, reviewed, and deliberately promoted.
+
+The strongest idea:
+The route is safer when its allowed movement is smaller than its imagination.
+
+THE SHAPE THING EXPLAINED AND PRESERVED
+
+"Narrower instead of smarter-looking" means:
+
+Bad version:
+The route sounds powerful.
+It uses grand language.
+It has many gates, sectors, bridges, escalation paths, and exceptions.
+It can justify doing more work because the theory sounds complete.
+
+Good version:
+The route is constrained.
+It knows what it may check.
+It knows what it may return.
+It knows when to stop.
+It cannot invent a new permission path while acting.
+
+For current LocalBot:
+A route contract should make the route less able to wander.
+
+Example:
+The /save route may check permission, file ownership, placement, conflict, evidence, and output authorization.
+It may return close/reset, dispatch, or yield.
+If it needs a different kind of check, it must yield.
+
+That is safer than a route that says:
+"I am in a full octagon lifecycle, so I may escalate through sectors and promote a new control layer."
+
+Good control does not make LocalBot look smarter.
+Good control makes LocalBot easier to stop.
+
+8-GATE LIFECYCLE AS FUTURE REFERENCE ONLY
+
+The 8-gate lifecycle is preserved as a possible future design idea.
+
+Possible lifecycle interpretation:
+1. recognize the command
+2. check current state
+3. confirm permission
+4. identify file or route ownership
+5. verify placement
+6. check conflict
+7. require evidence
+8. authorize output or yield
+
+This may become useful later for:
+- high-risk saves
+- audits
+- rule changes
+- file cleanup
+- future Studio lane
+- future route visualizer
+- future command review screen
+
+It is not active lifecycle logic now.
+It must not be applied to every command now.
+
+BROAD CONTRACTS FOR ALL COMMANDS — PRESERVED AS REJECTED EXPANSION
+
+Idea:
+Every LocalBot command could have a route contract.
+
+Why it is attractive:
+- consistent behavior
+- clear permission shape
+- fewer surprise actions
+- easier future auditing
+
+Why it is rejected for current LocalBot:
+- too much overhead
+- turns simple work into ceremony
+- makes help/status/chat too stiff
+- risks making LocalBot a control machine
+- conflicts with the goal to keep normal practical use simple
+
+Future status:
+Parked.
+Could be reopened only if repeated real failures prove that simple routes need contracts.
+
+BACKDOOR / ESCALATION THEORY — PRESERVED AS REJECTED ACTIVE MECHANISM
+
+Original pull:
+A hidden or special pathway can feel useful when the assistant needs to escape a stuck process, recover a lost idea, or keep a future route alive.
+
+Final judgment:
+Do not build a backdoor.
+
+Why:
+- hidden control breaks trust
+- buried pathways confuse future readers
+- a backdoor can bypass user control
+- it can make reference material behave like secret operating law
+- it conflicts with clear file roles and visible authority
+
+Preserved safe version:
+No backdoor.
+No hidden pathway.
+No secret escalation.
+If escalation is ever needed, it must be visible, named, user-approved, and recorded in the active stack.
+
+Useful lesson preserved:
+The desire for a backdoor was really a desire for recovery and continuity.
+The safe replacement is visible reference plus yield plus save point.
+
+FUTURE ESCALATION REPLACEMENT
+
+Instead of backdoor:
+
+Use yield.
+Then use a save point.
+Then use deliberate user approval.
+Then update the proper file visibly if the idea is promoted.
+
+Safe future escalation shape:
+1. route hits something outside its contract
+2. route yields
+3. yielded issue is surfaced to the user
+4. user approves, denies, parks, or revises
+5. if approved, the active stack is updated visibly
+6. post-add conflict check runs
+7. decision history is recorded
+
+This preserves the useful goal without hidden control.
+
+BRIDGE IDEA PRESERVED
+
+Bridge:
+A bridge is a special crossing structure between homes.
+
+Why bridge exists:
+Some future actions may need to cross from one home to another, such as:
+- route result to save point
+- audit finding to file cleanup
+- Studio support idea to LocalBot reference
+- parked idea to active proposal
+
+Bridge is not normal route behavior.
+Bridge should not be available by default.
+Bridge should not become an excuse to move anything anywhere.
+
+Bridge allowed:
+Only when a route contract or future approved design explicitly allows it.
+
+Bridge denied:
+If the crossing would create hidden control, wrong placement, master-handoff pressure, or architecture drift.
+
+SAVE POINT IDEA PRESERVED
+
+Save Point:
+A later review point for yielded or unresolved items.
+
+It is not:
+- a route result
+- a hidden queue
+- a backdoor
+- automatic promotion
+- permission to save files
+
+It is:
+- a visible place to bring held issues back to the user
+- a way to avoid forcing dirty movement
+- a way to preserve unresolved but useful ideas without activating them
+
+Why it matters:
+Without a save point, the assistant may try to resolve everything immediately.
+That creates bad saves, clutter, or silent promotion.
+A save point lets the assistant hold the issue cleanly.
+
+ROUTE RESULTS PRESERVED
+
+Only three normal route results belong in the small model:
+
+1. close/reset
+Meaning:
+The route is complete, cancelled, or cleanly returned to neutral.
+
+2. dispatch
+Meaning:
+The route sends the action to the correct next owner, file, screen, or step.
+
+3. yield
+Meaning:
+The route stops because it needs something outside its allowed checks, permission, placement, evidence, or result set.
+
+Why only three:
+Too many results create too many escape paths.
+The route should not invent "almost dispatch," "soft promotion," "auto bridge," "hidden save," or "background continue."
+
+NAMED CHECK SET PRESERVED
+
+Named check sets are the brake.
+
+Rule:
+A route may use only its named check set.
+
+If a needed check is missing:
+- do not invent a new check mid-route
+- do not pull in broad extra rule logic just because it feels safer
+- do not silently expand the route
+- yield instead
+
+Purpose:
+Stop routes from widening themselves during action.
+
+This is one of the most important ideas in the whole model.
+
+ROUTE CONTRACT SHAPE PRESERVED
+
+Small route contract shape:
+
+target home
+named check set
+allowed results
+bridge allowed: yes/no
+result conditions
+
+Meaning:
+
+target home:
+Where this route is allowed to place or send the work.
+
+named check set:
+The exact checks this route may use.
+
+allowed results:
+The exact route results this route may return.
+
+bridge allowed:
+Whether this route may cross into another home.
+
+result conditions:
+When the route closes, dispatches, or yields.
+
+Do not add more fields unless real testing proves a missing need.
+
+WORKING RULE PRESERVED
+
+A route contract must make a route narrower, not more descriptive.
+
+If the contract starts sounding smarter than the route itself, trim it.
+If the route needs more checks than its named set allows, yield it.
+If the route is simple, do not wrap it in contract language just to make it look organized.
+
+This rule is the heart of the experiment.
+
+SELECTIVE USE RULE PRESERVED
+
+The model is a high-risk-route tool, not a whole-project operating law.
+
+Good candidates:
+- /save
+- /audit
+- rule/control changes
+- file output
+- future Studio lane only if deliberately reopened
+
+Do not force this model onto:
+- help
+- status
+- ordinary chat
+- normal practical rewrite
+- normal cleanup
+- normal classification
+- anything simple where the contract is bigger than the work
+
+This rule protects LocalBot from becoming overcontrolled.
+
+TEST PLAN PRESERVED
+
+Do not promote the whole theory into the active stack first.
+
+Test small.
+
+Recommended order:
+1. /save
+2. /audit only if /save stayed clean
+
+Test questions:
+- did the contract reduce ambiguity
+- did it reduce permission drift
+- did it make the route easier to trust
+- did it stay small
+- did yield catch expansion pressure cleanly
+- did the route feel safer without becoming stiff
+- did the model prevent post-add conflict blindness
+- did the model help without turning into ceremony
+
+If the win is clear:
+Keep the model small and continue carefully.
+
+If the result is mixed:
+Trim it harder or park it.
+
+If it mostly adds overhead:
+Kill it or leave it as reference only.
+
+ROADMAP IDEA PRESERVED
+
+Phase A:
+Lock the posture.
+Keep the motto.
+Keep the model selective.
+Do not expand scope.
+
+Phase B:
+Lock the tiny shape.
+Route owns the contract.
+Screen does not own behavior.
+Named check set replaces loose allowed checks.
+Results stay limited to close/reset, dispatch, or yield.
+
+Phase C:
+Test one real route.
+Start with /save.
+Use one tiny contract.
+
+Phase D:
+Test one second route.
+Use /audit only if /save stayed clean.
+Compare benefit versus mental overhead.
+
+Phase E:
+Judge honestly.
+If safer and clearer, keep it.
+If mostly explanation, trim it.
+If proud or ceremonial, park it.
+
+Phase F:
+Save minimum only.
+Do not save theory as active doctrine.
+Save only the proven operating principle if the tests earn it.
+
+This roadmap is reference for the experiment.
+It does not change the project phase.
+
+SAVE-WORTHY MINIMUM PRESERVED
+
+If the experiment earns promotion later, the minimum active principle would be:
+
+LocalBot stays simple by default.
+Use route contracts only on high-risk routes where tighter control clearly improves safety.
+
+A screen may present choices, context, or status, but the route owns behavior.
+
+Each approved high-risk route may carry a small contract that defines:
+- target home
+- named check set
+- allowed results
+- bridge allowed: yes/no
+- result conditions
+
+A route may use only its named check set.
+If more checking is needed, yield instead of expanding mid-route.
+
+Route results are limited to:
+- close/reset
+- dispatch
+- yield
+
+Bridge is special-case only.
+Save Point reviews yielded or unresolved items later.
+
+Current status:
+Not promoted.
+Saved here as future minimum only.
+
+WHAT BELONGS IN ACTIVE HIGH-RISK CONTRACT FILE VS THIS FILE
+
+LOCALBOT_HIGH_RISK_ROUTE_CONTRACTS:
+- tiny active-test shape
+- high-risk only
+- /save first
+- /audit second if /save works
+- named checks
+- yield brake
+- trim/park rule
+
+LOCALBOT_OCTAGON_ROUTE_MODEL_REFERENCE:
+- full octagon theory
+- 8-gate lifecycle idea
+- sector language
+- broad contracts idea as rejected expansion
+- backdoor/escalation idea as rejected active mechanism
+- future LocalBot route-design memory
+- detailed explanation of why the small shape exists
+
+This separation prevents the reference model from becoming active by accident.
+
+FILES THAT SHOULD NOT CHANGE JUST BECAUSE THIS EXISTS
+
+Do not change these just because the octagon file exists:
+- LOCALBOT_MASTER_HANDOFF
+- LOCALBOT_PHASES
+- LOCALBOT_CHECKPOINT
+- LOCALBOT_OPEN_ISSUES
+- code
+- config
+- model
+- runtime architecture
+
+A small master-handoff pointer may be considered later only after real route testing proves the high-risk contract model belongs in active operating truth.
+
+PROMOTION RULE
+
+This reference can become active only if:
+- the user explicitly reopens it
+- the active stack is reviewed first
+- a narrow proposed use is written
+- conflicts are checked before promotion
+- the user approves promotion
+- the proper file owner is identified
+- conflicts are checked again after promotion
+- LOCALBOT_MASTER_HANDOFF is updated only if the idea becomes proven operating truth
+- LOCALBOT_UNIFIED_HANDOFF records why it was promoted
+- checkpoint is updated only if there is a real checkpoint/save reason
+
+No idea in this file promotes itself.
+
+KILL / TRIM / PARK CRITERIA
+
+Trim if:
+- the contract sounds smarter than the route
+- the file starts creating ceremony
+- the terms make active work harder to understand
+- the model pressures the master handoff
+- a simple task starts needing control language to feel valid
+
+Park if:
+- the idea is interesting but unproven
+- the idea belongs to future LocalBot
+- the idea would add overhead now
+- the idea is not needed for current Phase 4 practical work
+
+Kill as active behavior if:
+- it creates hidden pathways
+- it weakens user control
+- it blurs authority
+- it makes LocalBot feel like a control machine
+- it creates more confusion than safety
+
+Keep as reference if:
+- it helps future thinking
+- it explains why a smaller active shape was chosen
+- it preserves names and ideas the user cares about
+- it remains visibly non-active
+
+POST-ADD CONFLICT CHECK FOR THIS DETAIL PASS
+
+Checked:
+- master-handoff promotion risk
+- hidden pathway risk
+- backdoor wording risk
+- broad-contract drift
+- phase/checkpoint drift
+- file-role confusion
+- active-vs-reference confusion
+
+Result:
+Clean as reference only.
+
+Watch item:
+The file is intentionally detailed.
+If it starts slowing active LocalBot work or making future assistants overuse octagon language, trim the active references and keep this file parked.
+
+CLOSE CONDITION
+
+For current LocalBot work, this file is closed as detailed parked reference.
+
+Next valid actions:
+- leave parked
+- use as background during deliberate future design review
+- compare against high-risk route test results
+- extract only proven minimum into active rules after testing
+- trim if it starts causing clutter or confusion
+
+Do not use this file as a route, command, gate, bridge, escalation path, or backdoor.
+

@@ -1,0 +1,275 @@
+FAST CHECKPOINT FILE
+
+Use this file to quickly understand where LocalBot is right now.
+This file is descriptive and practical.
+It is not the top authority file.
+
+Authority:
+1. Live machine state now
+2. User's direct request now
+3. LOCALBOT_MASTER_HANDOFF
+4. LOCALBOT_UNIFIED_HANDOFF
+5. Older notes
+
+CURRENT READ
+
+LocalBot is Phase 4 active.
+It is not a rebuild.
+The loop works.
+The current work is practical task fit, output control, and careful documentation cleanup.
+
+Active path:
+C:\LocalBot\
+
+Locked daily model:
+qwen2.5-coder:3b
+
+Expected config:
+MODEL_NAME=qwen2.5-coder:3b
+WORKER_TIMEOUT_SECONDS=120
+RECOVER_RUNNING_TO_PENDING=1
+
+Do not change model/config/code/architecture unless live evidence forces it.
+
+CURRENT SAVE POINT — PHASE 4 MINI-RUN AND LOG EVIDENCE PATH
+
+Save date:
+2026-05-04
+
+Current route:
+Phase 4 mini-run branch is closed after practical_197 and the log evidence route check.
+
+Final branch result:
+The branch closed as PASS after repair, with freeform cleanup parked as a weak lane.
+
+Best current finding:
+Copy-block target-lock remains the strongest confirmed cleanup prompt shape when exact output matters.
+Freeform cleanup is not trustworthy for exact capitalization and punctuation without further testing.
+
+Evidence:
+- practical_192: FAIL; blank lines appeared between otherwise correct lines.
+- practical_193: PASS; exact five-line repair with no blank lines.
+- practical_194: PASS; classification returned exactly done.
+- practical_195: PASS; rewrite returned five clean command-style sentences.
+- practical_196: FAIL; freeform cleanup kept lowercase starts and an unwanted comma.
+- practical_197: PASS; copy-block target-lock returned the exact approved cleaned output.
+- Log evidence route check: PASS after path correction; coordinator log is at C:\LocalBot\logs\coordinator.log.
+
+Decision:
+Use copy-block target-lock when exact cleanup output matters.
+Park freeform cleanup as a known weak lane unless deliberately reopened.
+Use logs\coordinator.log for future coordinator log evidence from C:\LocalBot unless live machine state proves a different path.
+Do not treat this as a reason to change code, config, model, architecture, checkpoint-suite status, or real phase state.
+
+PREVIOUS SAVE POINT — CLEANUP PROMPT-SHAPE WAVE
+
+Save date:
+2026-05-03
+
+Current route:
+Phase 4 cleanup confirmation wave is paused after Wave 5.
+
+Final wave result:
+Wave 5 closed as PASS.
+
+Best current finding:
+Copy-block target-lock is the strongest confirmed cleanup prompt shape from the practical_177 to practical_187 run chain.
+
+Winning prompt shape:
+Tell the model to output only the lines inside a COPY BLOCK, exclude the COPY BLOCK markers, do not explain, do not rewrite, and return every required line.
+
+Evidence:
+- practical_177 / Wave 1A: Failure 9
+- practical_178 / Wave 1B: PASS
+- practical_179 / Wave 2A: partial success
+- practical_180 / Wave 2B: workflow mistake / invalid proof
+- practical_181 / Wave 2B Retry: PASS
+- practical_182 / Wave 3A: PASS
+- practical_183 / Wave 3B: partial success
+- practical_184 / Wave 4A: partial success
+- practical_185 / Wave 4B: partial success / incomplete output
+- practical_186 / Wave 5A: PASS
+- practical_187 / Wave 5B: PASS
+
+Decision:
+Use copy-block target-lock when exact cleanup output matters.
+Do not treat this as a reason to change code, config, model, or architecture.
+Pause the wave chain here.
+
+CURRENT BASELINES
+
+Checkpoint suite:
+Full 6-test checkpoint PASS remains the core health proof.
+
+Practical baselines:
+- rewrite: practical_154 and checkpoint_rewrite_001
+- classification: practical_155 and checkpoint_classify_001
+- cleanup: practical_163 and checkpoint_cleanup_001
+- cleanup prompt-shape wave: practical_186 and practical_187 confirm copy-block target-lock
+- latest cleanup repair: practical_197 confirms copy-block target-lock after practical_196 freeform cleanup failed
+
+SYSTEM HEALTH
+
+System issue status:
+No active system issue from this save.
+The earlier root-level coordinator.log readback miss was an evidence-path mistake; the live log path is logs\coordinator.log.
+
+Code/config/model/architecture:
+No changes made.
+
+Next needed task:
+Choose the next Phase 4 lane intentionally. Do not continue freeform cleanup by momentum.
+
+Suggested next lanes:
+1. Status / where are we.
+2. Another constrained classification or rewrite confirmation only if needed.
+3. Summary only if deliberately reopened.
+4. File/folder cleanup route only if the user wants to inspect the zero-byte junk files found in C:\LocalBot.
+
+SAVE NOTE
+
+This checkpoint is a save snapshot.
+Do not edit old checkpoints in place on the user's machine.
+If placing this file into the active stack, use the clean root filename:
+LOCALBOT_CHECKPOINT.txt
+FINAL LOCALBOT WRAP / CLOSEOUT STATE
+
+Date:
+2026-05-04
+
+Status:
+LocalBot Phase 4 is wrapped as a completed practical local AI task-loop core.
+
+Final closeout verification:
+final_closeout_001 returned exactly:
+LOCALBOT_PHASE4_CLOSEOUT_OK
+
+Final working identity:
+LocalBot is a controlled local task runner for one Windows PC using Python, Ollama, pending/running/done/failed folders, output files, timeout handling, recovery, and human judgment.
+
+Final proven strengths:
+- core loop
+- failure path
+- recovery
+- classification
+- source-tied rewrite
+- exact cleanup by copy-block target-lock
+- final closeout verification
+
+Final parked / non-blocking items:
+- freeform cleanup is weak
+- summary lane is parked
+- long backlog behavior is unproven future work
+- Roblox / Studio expansion is a separate future lane
+- zero-byte junk files are cleanup-only, not system blockers
+
+Hard judgment:
+LocalBot is done enough to stop building the core.
+More testing now is drift unless a new project lane is deliberately opened.
+
+Final order:
+1. wrap LocalBot
+2. save the final project state
+3. clean folder/file clutter last
+
+No code, config, model, runtime architecture, checkpoint-suite proof, or real machine behavior was changed by this save.
+
+LOCKED RUN / WAVE CLEAN REVIEW
+
+Date:
+2026-05-04
+
+Locked judgment:
+The run and wave record is clean only when written with the repair sequence included.
+
+Do not record the normal response suite as a first-try full pass.
+
+Correct final truth:
+- Core response passed directly.
+- Classification passed directly.
+- Rewrite passed directly.
+- Exact cleanup failed once because the output merged physical lines.
+- Exact cleanup repair passed with stricter physical-line wording.
+- Final normal response test verdict: PASS after repair.
+
+Task record:
+- normal_recheck_001_core: PASS
+- normal_recheck_002_classify: PASS
+- normal_recheck_003_rewrite: PASS
+- normal_recheck_004_cleanup_exact: FAIL, line merge / physical-line loss
+- normal_recheck_005_cleanup_exact_repair: PASS
+
+Carry-forward rule:
+For exact cleanup or exact multi-line output, require physical lines explicitly.
+Use wording such as:
+- Return exactly five physical output lines.
+- Each approved line must be on its own separate line.
+- Do not merge lines together.
+- Do not wrap one approved line across two lines.
+- Do not add blank lines.
+
+Run evidence handling:
+- Read each output file separately.
+- Do not smash multiple output files together without separators.
+- Check done state and failed state separately.
+- Use logs\coordinator.log for log evidence.
+- Do not treat tasks\done as automatic PASS.
+
+Closed result:
+LocalBot is responding correctly.
+No further run testing is needed unless a new lane is deliberately opened.
+
+LOCKED FINAL PLACEMENT / CLEANUP RESULT
+
+Date:
+2026-05-04
+
+Locked final state:
+LocalBot is wrapped, saved, placed, tested, and cleaned.
+
+Final real folder structure:
+Runtime root:
+C:\LocalBot
+
+Runtime root contains:
+- coordinator.py
+- worker.py
+- config.txt
+- tasks
+- outputs
+- logs
+- Handoff_Stack
+
+Final handoff stack location:
+C:\LocalBot\Handoff_Stack
+
+Handoff_Stack contains the final project record files and support/reference files.
+
+Final cleanup performed:
+The following zero-byte junk command-name files were confirmed as zero bytes and removed from C:\LocalBot:
+- dir
+- powershell
+- py
+- python
+- start
+- type
+
+Final verification after cleanup:
+- coordinator.py: PASS
+- worker.py: PASS
+- config.txt: PASS
+- tasks: PASS
+- outputs: PASS
+- logs: PASS
+- Handoff_Stack: PASS
+
+Final judgment:
+LocalBot runtime root is correct.
+The handoff stack is placed.
+The normal response test passed after repair.
+Final closeout passed.
+Root junk files are removed.
+No further testing is needed unless a new lane is deliberately opened.
+
+Do not continue building the LocalBot core by momentum.
+The core is complete.

@@ -1,0 +1,145 @@
+SORTING RULES FAMILY TREE
+
+Status:
+Local durable save.
+Not installed into ACTIVE_GUIDES yet.
+Created during Gold Pan / Recycle Bin / recovered-file cleanup work.
+
+Purpose:
+Create a clean hierarchy for messy recovery work so the assistant does not dig item-by-item through raw clutter, lose gold, confuse judgment with fixing, or turn cleanup into deletion too early.
+
+Core gold rule:
+Pile-making is not judging.
+Judging is not fixing.
+Fixing is not deleting.
+
+GRANDPARENT RULE:
+Sorting Rules
+
+Meaning:
+Before judging, fixing, installing, archiving, or deleting messy material, sort it into visible piles by family, role, source, path, type, risk, status, and evidence quality.
+
+Sorting is a control layer.
+Sorting does not decide value.
+Sorting does not change active files.
+Sorting does not delete anything.
+
+PARENT RULE:
+Pile-First Recovery
+
+Meaning:
+When working through Recycle Bin material, lost folders, duplicate guides, proof-history clutter, recovered quarantine files, or messy evidence piles, do not inspect/fix/delete item-by-item in the raw mess.
+
+First freeze the scene.
+Then inventory.
+Then make piles of like things.
+Then review one pile at a time.
+Then route each pile to the correct place.
+
+CHILD RULES:
+
+1. Scene Freeze
+Stop movement first. Do not restore, delete, merge, rename, overwrite, or clean before the scene is captured.
+
+2. Metadata Inventory
+List items by name, original path, size, type, deleted date/time if available, source, and visible role. This is not content judgment.
+
+3. Pile-Making
+Group like with like:
+README family
+WRAP family
+ALIGNMENT family
+receipts
+proof/report/manifest files
+folder/container evidence
+script-like blocked evidence
+unknown ore
+duplicates/no-new-value
+delete-ready clutter
+
+4. Chain of Custody
+Every recovered item needs a durable identity record: item number, original name, source path, recovery path, timestamp, type, hash when useful, and action taken.
+
+5. Collision Safety
+Same-name files must not be restored or copied into one flat folder. Use numbered folders or original-path-preserving folders.
+
+6. One-Pile Review
+Review one pile at a time. Do not jump between README, Wrap, Alignment, receipts, scripts, and folders unless the current pile is closed, parked, or yielded.
+
+7. Value Judgment
+After a pile is visible, classify items as:
+active truth candidate
+proof-history reference
+gold bar candidate
+nugget
+dirty milk risk
+duplicate/no-new-value
+blocked evidence
+unknown ore
+delete candidate
+
+8. Routing
+Route judged material to:
+ACTIVE_GUIDES review
+PROOF_HISTORY
+archive
+parked reference
+blocked evidence
+duplicate/no-new-value
+delete gate
+human decision
+
+9. Fixing Gate
+Fixing means changing or improving the correct active file, rule, guide, wording, or workflow.
+A judgment does not automatically authorize fixing.
+Fixing requires scope, target, reason, approval if needed, and verification.
+
+10. Delete Gate
+Deleting is separate from sorting, judging, and fixing.
+Deletion requires proof that the target is redundant, represented elsewhere, outside protected active source, and approved by exact path.
+
+11. Closure Verify
+After cleanup or deletion, verify the protected source, quarantine/proof files, active guides, and residue state. Close only after proof.
+
+GRANDCHILD CHECKS:
+
+For Scene Freeze:
+- Is anything about to move?
+- Is anything about to be deleted?
+- Is anything about to overwrite same-name files?
+- Has inventory happened yet?
+
+For Pile-Making:
+- Are items grouped by family?
+- Are scripts blocked?
+- Are folders treated as containers?
+- Are duplicates separated from unique material?
+
+For Value Judgment:
+- Is this judgment based on metadata only or content review?
+- Is the item current truth or just recovered evidence?
+- Is this clean milk, dirty milk, duplicate, or unknown?
+
+For Fixing Gate:
+- What active file would change?
+- Why would it change?
+- What exact wording changes?
+- What stays protected?
+- What proves the fix worked?
+
+For Delete Gate:
+- What exact path is deleted?
+- Is it outside ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, PROOF_HISTORY, and quarantine?
+- Is it already represented elsewhere?
+- Is there a receipt?
+- Is there a post-delete verify?
+
+Control rule:
+Do not let pile-making become judgment.
+Do not let judgment become fixing.
+Do not let fixing become deletion.
+
+Current routing:
+This rule-family is locally saved as proof-history guidance.
+It is not installed into ACTIVE_GUIDES yet.
+It may later be distilled into active guide wording if a guide review proves it belongs there.

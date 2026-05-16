@@ -1,0 +1,165 @@
+﻿NEW IDEAS — MEMORY PACK / STATION ORDER / TECHNICIAN REFINEMENT 20260511
+
+Status:
+Proof-history-only idea note.
+Not active guide doctrine.
+Not current truth.
+Not a fourth guide.
+Not folder-creation approval.
+Not cleanup authority.
+Not deletion approval.
+Not promotion approval.
+Not technician final authority.
+
+Purpose:
+Save the current new ideas in one minimal note before asking the technician/Codex to refine them once more.
+
+Captured idea 1:
+ONE-FILE CHATGPT MEMORY / UPDATE PACK
+
+Classification:
+Clean candidate.
+Proof-history-only until user approves a final version.
+
+Meaning:
+When updating ChatGPT with project context, use one compressed map file rather than many loose files.
+The file should help reload the Clean Seed project state without becoming doctrine, current truth, or a fourth active guide.
+
+Required boundary:
+The one-file memory/update pack is a map, not proof.
+It must point back to CURRENT_TRUTH_INDEX, AGENTS.md, ACTIVE_GUIDES, and receipts when trust depends on local state.
+It must not replace CURRENT_TRUTH_INDEX.
+It must not import every proof-history file.
+It must not become a giant doctrine dump.
+
+Best shape:
+- project identity
+- active root path
+- load order
+- current active guide roles
+- AGENTS/Codex boundary
+- current verified hashes if available
+- current active ball
+- main operating laws
+- current assembly-line route
+- important proof-history candidates by status only
+- blocked actions
+- next clean action
+
+Captured idea 2:
+MINIMAL FILE COUNT RULE FOR CHATGPT UPDATE
+
+Classification:
+Clean refinement.
+Proof-history-only until installed or used.
+
+Meaning:
+Use the smallest number of files that preserves clarity and proof.
+For ChatGPT memory/update context, one clean carrier file is preferred over many similar files.
+
+Clean rule:
+Minimal does not mean missing proof.
+Minimal means no duplicate files, no loose piles, no extra guide, and no source-ore dump.
+
+Captured idea 3:
+CORRECTED SHED STATION ORDER
+
+Classification:
+Clean station-order candidate.
+Proof-history-only until reviewed.
+
+Preferred order:
+FREEZE -> CAPTURE / COLLECT -> INVENTORY -> SORT
+
+Reason:
+FREEZE stops movement.
+CAPTURE / COLLECT preserves what is visible before structuring.
+INVENTORY records what exists.
+SORT groups like with like.
+JUDGE comes later and must not collapse into sorting.
+
+Cobweb:
+Older rough wording used:
+Intake -> Freeze -> Inventory
+
+Decision candidate:
+Treat older wording as rough earlier wording, not as active failure.
+Treat the newer order as the preferred future station-order candidate.
+
+Captured idea 4:
+FIVE-LENS SHED REVIEW METHOD
+
+Classification:
+Clean working guidance candidate.
+Proof-history-only.
+
+Minimal lenses:
+1. Forensic preserve.
+2. Archive identify.
+3. Sorting group.
+4. Triage only if needed.
+5. Promotion blocked unless approved later.
+
+Risk:
+Do not install all outside procedure methods.
+Use the five lenses only as light review guidance.
+
+Captured idea 5:
+TECHNICIAN REFINEMENT SHOULD BE REVIEW-ONLY
+
+Classification:
+Already aligned with AGENTS boundary.
+Keep active.
+
+Meaning:
+Codex/technician may refine wording, grouping, placement, and pattern-fit.
+Codex/technician may not final PASS, promote, edit active guides, edit CURRENT_TRUTH_INDEX, move, delete, rename, overwrite, create folders, run scripts, perform cleanup, or install doctrine.
+
+TECHNICIAN REFINEMENT REQUEST
+
+Review this saved idea note and refine it once more.
+
+Authority:
+Read CURRENT_TRUTH_INDEX.txt first.
+Read AGENTS.md second.
+Use ACTIVE_GUIDES only as current doctrine.
+Use PROOF_HISTORY only as support evidence.
+
+Target:
+Refine the saved ideas into the smallest clean model.
+
+Required refinement:
+1. Confirm whether the one-file ChatGPT memory/update pack should stay one file.
+2. Confirm the exact boundary so it cannot become current truth or a fourth guide.
+3. Refine the preferred station order:
+   FREEZE -> CAPTURE / COLLECT -> INVENTORY -> SORT
+4. Decide whether older Intake -> Freeze -> Inventory wording is only rough older wording.
+5. Keep the five-lens method minimal or reject parts that create bloat.
+6. Name any cobwebs, collisions, or missing fields.
+7. Recommend one next clean action only.
+
+Blocked actions:
+No edits.
+No moves.
+No deletes.
+No renames.
+No overwrites.
+No folder creation.
+No script execution.
+No cleanup.
+No active guide changes.
+No CURRENT_TRUTH_INDEX changes.
+No AGENTS changes.
+No promotion.
+No final PASS.
+
+Return only:
+VERDICT
+EVIDENCE USED
+REFINED MINIMAL MODEL
+REFINED STATION ORDER
+ONE-FILE MEMORY PACK BOUNDARY
+WHAT STAYS PROOF-HISTORY-ONLY
+WHAT WAS NOT TOUCHED
+COBWEBS / COLLISIONS
+NEXT CLEAN ACTION

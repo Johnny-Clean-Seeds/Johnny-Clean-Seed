@@ -1,0 +1,372 @@
+CHATGPT MODEL DOCTRINE UPDATE PACK 20260511
+
+Created:
+2026-05-11 05:19:59 -04:00
+
+Status:
+Proof-history-only model update pack.
+Not active guide doctrine.
+Not CURRENT_TRUTH_INDEX.
+Not AGENTS.
+Not a fourth guide.
+Not cleanup authority.
+Not deletion approval.
+Not movement approval.
+Not folder-creation approval.
+Not promotion approval.
+Not final PASS.
+
+Purpose:
+Bring ChatGPT up to date on the current Clean Seed model without loading the whole shed or all noisy growth files.
+
+Use:
+Use this as a compact model/doctrine-state briefing.
+When trust depends on local file state, load the real authority files and proof paths.
+
+
+AUTHORITY ORDER
+
+1. C:\Users\13527\Desktop\Clean Milk not-BLOAT\CURRENT_TRUTH_INDEX.txt
+2. C:\Users\13527\Desktop\Clean Milk not-BLOAT\AGENTS.md
+3. C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES
+
+Authority hashes observed:
+
+CURRENT_TRUTH_INDEX.txt
+SHA256:
+6CDD8E83AE95AE76F4658188452B799633B8CE76B4AEB93346E2E1C3FC715408
+
+AGENTS.md
+SHA256:
+C8EAB85B490B91B54B0E4FAF3BF81B825B63C4A6401A5039A587F0B0034F77A9
+
+ACTIVE_GUIDES\README_START_HERE.txt
+SHA256:
+EFF0CE517F5647016E04715761F505DBB3D5B0023E51256EBB8750AFABDDEFF1
+
+ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt
+SHA256:
+B14955F9BBBB52DBFC4E3786FF7CB2FCC0ECDB114A275DB06A591966B9FEF6FE
+
+ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt
+SHA256:
+EDE9C65D7367D6EE507E31B6532760AE945A3B8CAB7E9D5E08FAA68CCFBD70AA
+
+
+CURRENT ANCHOR / MAP EVIDENCE
+
+Working map:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BALANCED_ASSEMBLY_LINE_INTERLOCK_PLAN_REFINED_20260511.txt
+SHA256:
+EA39BEF1C8397CE31151483613F867500409F16919AC679F22E064640383C308
+
+Gap-fill report:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PROJECT_GAP_FILL_RECURSIVE_FLOW_REVIEW_20260511.txt
+SHA256:
+D09FFEF6C1E19846D2CE11FBB9B5C71DE06C0E774DD5C4844B0B7C0AD83B8ADE
+
+Gap-fill receipt:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_PROJECT_GAP_FILL_RECURSIVE_FLOW_REVIEW_20260511.txt
+SHA256:
+C59D7F213FB2AB7CFF9507F61BAF6EAEFF3DB1052B8C73AFFAF59C320CF08D79
+
+Session audit:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DEEP_CLEAN_SESSION_REVIEW_AND_SAVE_20260511.txt
+SHA256:
+516FDE08D4A6DA3FC6D98D907A8E1C85B8F2FDE284FD8CDED5301CD28F40489E
+
+RFA split anchor:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RFA_SPLIT_ANCHOR_AFTER_GAP_FILL_20260511.txt
+SHA256:
+CE034BD2B9A5C76F6B43DA85062B26337C7FBC5E01E3CD21814D2F6670902D79
+
+
+CURRENT CLEAN MACHINE
+
+Authority:
+CURRENT_TRUTH_INDEX -> AGENTS -> ACTIVE_GUIDES
+
+Working map:
+BALANCED_ASSEMBLY_LINE_INTERLOCK_PLAN_REFINED_20260511.txt
+
+Core flow:
+FREEZE -> CAPTURE / COLLECT -> INVENTORY -> SORT -> JUDGE -> PLACE / FILE -> SAVE -> SEAL -> REVIEW / HANDOFF -> PROMOTE / PARK / BLOCK -> CONTINUE
+
+Meaning:
+Each part receives a defined input, does one job, respects forbidden actions, names proof needed, passes output to the next gate, and stops when proof or authority is missing.
+
+
+RECURSIVE FLOW ARCHITECTURE STATE
+
+Recursive Flow Architecture is not being split now.
+It is growing from a clean anchor.
+
+Current state:
+- proof-history-only
+- not active guide doctrine
+- not CURRENT_TRUTH_INDEX
+- not AGENTS
+- not promotion
+- not final PASS
+
+Future split may later have two paths:
+
+Path 1: Working Path
+Small live-use station/current-ball surface.
+This is the daily-use path for review, technician launchers, and bounded work.
+It should stay small.
+It should not become a dashboard, master brain, folder maze, or doctrine dump.
+
+Path 2: Architecture Path
+Full Recursive Flow structure, preserved and ordered for later targeted split.
+This path keeps the deeper role/lane/gate architecture and real-world method stack parked for future targeted use.
+It should not be installed wholesale.
+
+Current split rule:
+Use Working Path by default.
+Use Architecture Path only when a specific target, gap, risk, or proof question needs it.
+
+
+SHED / ARSENAL REFINEMENT
+
+The shed is not automatically clutter.
+The shed is not automatically threat.
+
+Better model:
+The shed is an arsenal / parking store.
+
+Meaning:
+Many tools, ideas, files, concepts, and "weapons" can exist safely if they are:
+- parked
+- labeled
+- role-bound
+- gated
+- proof-linked
+- authority-bounded
+- accessed by the right key
+
+Clean shed:
+Useful material exists without controlling the active task.
+
+Dirty shed:
+The working path rummages through everything, gets distracted, promotes by proximity, or treats parked material as current truth.
+
+Rule:
+The shed can be large if access is keyed and the active path stays small.
+
+
+KEYED ACCESS RULE
+
+The working path must not rummage through the whole shed by default.
+
+It should call only needed parked material by route/key.
+
+Access controls:
+- key
+- label
+- lane
+- gate
+- proof
+- authority boundary
+- parking status
+- active need
+
+Bleed risk:
+Useful parked material leaks into active work without a gate.
+
+Intruder risk:
+Unknown, unsafe, stale, or wrong-lane material enters the working path because it is nearby or interesting.
+
+Clean access:
+Name the needed material, why it is needed, what proof connects it, what lane it comes from, and what gate controls its use.
+
+
+GROWTH SUPPLY LANE
+
+The arsenal feeds build growth.
+
+Do not pull from the arsenal because something is interesting.
+
+Pull from the arsenal only when there is:
+- a matching active need
+- a role gap
+- a station gap
+- a neighbor lane relationship
+- a proof route
+- a review target
+- a blocked action needing a safe alternative
+
+Clean growth:
+The active build asks for a needed tool and receives only the matching tool.
+
+Dirty growth:
+The arsenal becomes a browsing loop, bloat engine, or accidental doctrine source.
+
+
+NEIGHBOR MODEL
+
+The build has neighbors.
+We also have neighbors.
+
+Nearby concepts, files, methods, and ideas may be useful if their relationship is named and gated.
+
+Neighbor material must not become active truth by proximity.
+
+Neighbor questions:
+- What is the neighbor?
+- Why is it nearby?
+- What relationship does it have to the active target?
+- What proof connects it?
+- What can it help?
+- What can it damage?
+- What gate controls use?
+- Where does it go after use?
+
+Clean neighbor:
+Related material supports the current decision without taking over.
+
+Dirty neighbor:
+Related material becomes active by closeness, age, familiarity, excitement, or size.
+
+
+STATION / CARD MODEL
+
+STATION CARD V0 exists inside:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PROJECT_GAP_FILL_RECURSIVE_FLOW_REVIEW_20260511.txt
+
+CURRENT BALL CARD V0 exists inside:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PROJECT_GAP_FILL_RECURSIVE_FLOW_REVIEW_20260511.txt
+
+Status:
+Proof-history-only until reviewed.
+
+Direction:
+These cards are the small working-surface direction.
+
+Purpose:
+Let future work start with:
+- active ball
+- current target
+- authority basis
+- proof in hand
+- allowed actions
+- blocked actions
+- next gate
+- close condition
+
+Boundary:
+They are not active doctrine yet.
+They are not a dashboard.
+They are not a fourth guide.
+They are not promotion.
+
+
+FULL-SHED SCAN RULE
+
+Full-shed scans are no longer default mode.
+
+Default future mode:
+AUTHORITY -> ACTIVE BALL -> STATION CARD -> NEXT GATE
+
+Use a full-shed scan only when:
+- the target requires it
+- proof is missing
+- a risk or mismatch points to it
+- user explicitly approves it
+- a gate cannot close without wider evidence
+
+Reason:
+The shed/arsenal exists to support growth, not to be rummaged through every time.
+
+
+OPEN GAPS
+
+1. CHATGPT_MEMORY_UPDATE_PACK_20260511.txt receipt/status gap.
+The file exists and is useful as a map candidate, but no dedicated original receipt was found.
+
+2. CAPTURE / COLLECT not confirmed active-guide wording.
+It remains proof-history guidance and prompt guidance unless separately reviewed and installed.
+
+3. Recursive Flow Architecture not active guide doctrine.
+Correct current state. Any installation requires a separate active-guide placement review.
+
+4. No live station-card test yet.
+The Station Card V0 has been saved inside the gap-fill report, but not pressure-tested as a live run.
+
+5. No current proof-history master index after newest architecture work.
+This may not need action unless retrieval pain increases.
+
+6. Physical project structure still held.
+No new folder structure is approved. Project Knowledge Stack physical structure remains blocked until separate approval and proof of need.
+
+
+WHAT THIS FILE IS
+
+This file is:
+- a compact model update pack
+- proof-history-only
+- a current-state briefing
+- a way to bring ChatGPT up to date without loading the whole shed
+- a map to current boundaries and next clean route
+
+This file is not:
+- active guide doctrine
+- CURRENT_TRUTH_INDEX
+- AGENTS
+- a fourth guide
+- a dashboard
+- a master brain
+- a folder plan
+- a cleanup plan
+- a promotion packet
+- final PASS
+
+
+NEXT CLEAN ROUTE
+
+Best next target:
+Review or extract STATION CARD V0 only when needed.
+
+Recommended working path:
+1. Load authority.
+2. Name active ball.
+3. Use small station/current-ball card.
+4. Pull from shed/arsenal only by key.
+5. Keep full architecture parked unless a targeted need calls it.
+6. Save or promote nothing without separate approval and proof.
+
+
+BOUNDARY CONFIRMATION
+
+ACTIVE_GUIDES edited:
+NO
+
+CURRENT_TRUTH_INDEX edited:
+NO
+
+AGENTS edited:
+NO
+
+Files moved:
+NO
+
+Files deleted:
+NO
+
+Files renamed:
+NO
+
+Existing files overwritten:
+NO
+
+Folders created:
+NO
+
+Cleanup performed:
+NO
+
+Promotion performed:
+NO
+
+Final PASS claimed:
+NO

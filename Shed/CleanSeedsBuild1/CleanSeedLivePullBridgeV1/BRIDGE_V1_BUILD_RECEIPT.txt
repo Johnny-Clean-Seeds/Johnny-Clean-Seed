@@ -1,0 +1,98 @@
+BRIDGE V1 BUILD RECEIPT
+
+Build target:
+C:\CleanSeedsBuild\CleanSeedLivePullBridgeV1
+
+Status:
+Created local read-only pull bridge core files.
+
+Authority boundary:
+Bridge build folder only.
+PROJECT and SHED roots are scanned read-only.
+
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Project files edited: NO
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX edited: NO
+Scripts from scanned folders executed: NO
+Shortcuts executed: NO
+Archives extracted: NO
+External network used: NO
+Public URL created: NO
+
+Checkpoint:
+Created only by POST /checkpoint inside bridge build folder.
+
+Verdict target:
+Local endpoints and checkpoint must be tested before PASS.
+
+TEST RESULTS 2026-05-12T01:17:51Z
+
+GO / NO-GO preflight:
+Python runtime: Python 3.14.4
+PROJECT root exists: YES
+SHED root exists: YES
+Recommended port 8791 usable: YES
+Estimated local core working chance before build: 95%
+
+Endpoint results:
+GET /status: PASS
+- server_running: YES
+- bind_host: 127.0.0.1
+- port: 8791
+- current_file_count: 784
+- current_folder_count: 199
+- checkpoint_exists: YES
+
+GET /manifest: PASS
+- file_count: 784
+- folder_count: 199
+- scan_error_count: 0
+- manifest includes metadata only, no file content
+
+GET /delta: PASS
+- checkpoint_exists: YES
+- new_count: 0
+- changed_count: 0
+- missing_count: 0
+- unchanged_count: 784
+- clean_rule: Delta is evidence, not truth. Detection is not promotion.
+
+GET /file?root=PROJECT&path=CURRENT_TRUTH_INDEX.txt: PASS
+- allowed: YES
+- size_bytes: 3870
+- sha256: 6CDD8E83AE95AE76F4658188452B799633B8CE76B4AEB93346E2E1C3FC715408
+
+GET /file path traversal test: PASS
+- blocked: YES
+- HTTP status: 400
+
+POST /checkpoint: PASS
+- checkpoint_path: C:\CleanSeedsBuild\CleanSeedLivePullBridgeV1\checkpoint_manifest_v1.json
+- checkpoint_sha256: F18EF873220CF5721DC7C833A4BF8D177001509B435A4685ECDCD4FBA5827EEF
+- files: 784
+- folders: 199
+
+Bind check:
+Bound to 127.0.0.1:8791 only: YES
+
+Boundary verification:
+Project files edited: NO
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX edited: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Scripts from scanned folders executed: NO
+Shortcuts executed: NO
+Archives extracted: NO
+External network used: NO
+Public URL created: NO
+
+Transport note:
+ChatGPT web cannot directly read this bridge yet because it is bound to local loopback only and no transport layer/public connector exists. That is intentionally outside V1 local core.
+
+Recommended next transport layer:
+Local browser/tool connector or user-mediated local fetch first. Public tunnel/Cloudflare/ngrok remain out of scope unless separately approved later.

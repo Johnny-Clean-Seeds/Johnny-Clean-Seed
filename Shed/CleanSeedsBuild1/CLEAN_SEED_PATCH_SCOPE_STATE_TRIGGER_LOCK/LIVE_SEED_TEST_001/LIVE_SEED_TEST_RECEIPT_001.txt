@@ -1,0 +1,36 @@
+LIVE SEED TEST RECEIPT 001
+
+Timestamp:
+2026-05-09 5:09 PM America/New_York
+Timestamp source:
+user_info tool, America/New_York
+
+Active mission:
+Start a controlled live seed test against the patched Clean Seed package.
+
+Package baseline:
+CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK
+
+Files created:
+- SEED_BUILD_CARD.txt — sha256 87dd5091522c8a181b3179801e11c16ca1b0cb0b9f7d927e1ceb764a3cf11d8d
+- LIVE_TEST_TASK_001.txt — sha256 ed8cc5e1c9cac5824a20b4693635ec59b485d72b0ecb183207df630bf5be6ddf
+- LIVE_TEST_RESULT_001.txt — sha256 a7ce606d3d4155dc34d626dd71db59483fa4c6b2e96f8742a5862f503224bb37
+- SEED_EVIDENCE_LOG.txt — sha256 d30d167bb98ea44a7d8b53701f6389e6533c66ccee120b56582eae786efcaebe
+- PARKED_TEST_PATHS.txt — sha256 4fa8bb36a523a4653e382ff6120d60b69b8f7e26d92922d0452dcf7f3dfe4208
+
+Files not changed:
+README_START_HERE.txt
+CLEAN_SEED_WRAP_GUIDE.txt
+CLEAN_SEED_ALIGNMENT_CHECK.txt
+EVIDENCE_ARCHIVE_MANIFEST.txt
+PATCH_RECEIPT_SCOPE_STATE_TRIGGER_LOCK.txt
+DEEP_CLEAN_REPORT_SCOPE_STATE_TRIGGER_LOCK.txt
+
+Verdict:
+Stage 0 setup created; Task 001 test-case PASS; full seed Stage 0 still needs user acceptance/correction before promotion.
+
+Scope-state boundary:
+These are live-test support files only. They are not active guide files. They do not create a fourth package file. They do not prove all future live behavior.
+
+Next clean action:
+User reviews/accepts SEED_BUILD_CARD.txt or corrects it. Then run the next live path or rerun Task 001 if needed.

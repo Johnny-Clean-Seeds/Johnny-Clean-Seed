@@ -1,0 +1,124 @@
+GOLD PAN INDEX REPAIRED 20260510
+Status: Repaired metadata-only index from completed Recycle Bin quarantine recovery.
+Classification rule: Used only global custody ledger, ITEM_CHAIN_OF_CUSTODY.txt files, item numbers, original names, original paths, item types, sizes, and custody fields. Recovered file contents were not inspected.
+
+Defect in first Gold Pan index
+The first index was internally inconsistent because custody fields were parsed incorrectly as blank values, producing blank ITEM_0000 rows and suppressing duplicate guide families, script-like evidence, and folder/container evidence. This repaired index rebuilds from custody note labels and ledger metadata only.
+
+1. Purpose
+Create a corrected visible Gold Pan index of recovered ore without reading recovered file contents or promoting any recovered item as current truth.
+
+2. Source quarantine root
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECYCLE_BIN_QUARANTINE_20260510
+
+3. Ledger path
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECYCLE_BIN_QUARANTINE_20260510\RECYCLE_BIN_QUARANTINE_LEDGER_20260510.txt
+
+4. Total recovered items from ledger
+127
+
+5. Total custody notes found
+127
+
+6. Boulder candidates
+BOULDER-001 | Full recovered Recycle Bin quarantine set | Evidence: 127 recovered/copied items and 127 custody notes | Reason: large version-history cluster with duplicate active-guide families and proof material.
+BOULDER-002 | Duplicate active-guide families | Evidence: README_START_HERE.txt / CLEAN_SEED_WRAP_GUIDE.txt / CLEAN_SEED_ALIGNMENT_CHECK.txt duplicate groups | Reason: possible timeline drift and lost rule recovery.
+BOULDER-003 | Folder/container evidence | Evidence: 2 folder/container custody entries | Reason: may contain nested recovery material; handle separately.
+
+7. Gold bar candidates
+GOLD-BAR-CANDIDATE-001 | Evidence Crime-Scene / recovery discipline files by name/path metadata only | Requires content review before bar status.
+GOLD-BAR-CANDIDATE-002 | Patch receipt/proof files by name/path metadata only | Requires receipt-family review before bar status.
+GOLD-BAR-CANDIDATE-003 | Manifest/audit/verification files by name/path metadata only | Requires proof-family review before bar status.
+
+8. Nugget candidates
+ITEM_0001 | EVIDENCE_ARCHIVE_MANIFEST.txt | original=C:\Users\13527\Downloads | deleted=‎5/‎9/‎2026 ‏‎10:47 AM | size=874 bytes | type=Text Document
+ITEM_0010 | DOCTRINE_CLOSURE_AUDIT_CLEAN_JUDGMENT.txt | original=C:\Users\13527\Desktop\Clean Milk not-BLOAT | deleted=‎5/‎9/‎2026 ‏‎10:47 AM | size=11.8 KB | type=Text Document
+ITEM_0012 | CLEAN_SEED_VISUAL_MAP.html | original=C:\Users\13527\Desktop\lost | deleted=‎5/‎10/‎2026 ‏‎1:25 PM | size=7.95 KB | type=Microsoft Edge HTML Document
+ITEM_0013 | EVIDENCE_ARCHIVE_MANIFEST.txt | original=C:\Users\13527\Downloads | deleted=‎5/‎9/‎2026 ‏‎11:40 AM | size=747 bytes | type=Text Document
+ITEM_0025 | PATCH_RECEIPT_LOGIC_SERIOUSNESS_CALIBRATION.txt | original=C:\Users\13527\Desktop\lost | deleted=‎5/‎10/‎2026 ‏‎1:25 PM | size=3.16 KB | type=Text Document
+ITEM_0030 | PATCH_RECEIPT_RULE_ID_PARTNER_SYNC.txt | original=C:\Users\13527\Desktop\Clean Milk not-BLOAT | deleted=‎5/‎9/‎2026 ‏‎11:40 AM | size=2.23 KB | type=Text Document
+ITEM_0036 | PATCH_RECEIPT_POINT_CHECK_DECISION_LOOP.txt | original=C:\Users\13527\Downloads | deleted=‎5/‎8/‎2026 ‏‎1:49 PM | size=3.90 KB | type=Text Document
+ITEM_0039 | CLOSED_LOOP_VERIFICATION_BOARD_SCOPE_STATE_TRIGGER_LOCK (1).txt | original=C:\Users\13527\Desktop\lost | deleted=‎5/‎10/‎2026 ‏‎1:25 PM | size=9.65 KB | type=Text Document
+ITEM_0041 | PATCH_RECEIPT_RULE_ID_PARTNER_SYNC.txt | original=C:\Users\13527\Desktop\lost | deleted=‎5/‎10/‎2026 ‏‎1:25 PM | size=2.23 KB | type=Text Document
+ITEM_0042 | EVIDENCE_ARCHIVE_MANIFEST.txt | original=C:\Users\13527\Desktop\Clean Milk not-BLOAT | deleted=‎5/‎9/‎2026 ‏‎11:32 AM | size=1.04 KB | type=Text Document
+ITEM_0043 | PATCH_RECEIPT_POINT_CHECK_DECISION_LOOP.txt | original=C:\Users\13527\Desktop\lost | deleted=‎5/‎10/‎2026 ‏‎1:25 PM | size=4.23 KB | type=Text Document
+ITEM_0046 | PATCH_RECEIPT_POINT_CHECK_DECISION_LOOP.txt | original=C:\Users\13527\Desktop\Clean Milk not-BLOAT | deleted=‎5/‎8/‎2026 ‏‎1:49 PM | size=3.90 KB | type=Text Document
+ITEM_0049 | EVIDENCE_ARCHIVE_MANIFEST.txt | original=C:\Users\13527\Desktop\lost | deleted=‎5/‎10/‎2026 ‏‎1:25 PM | size=1.19 KB | type=Text Document
+ITEM_0050 | PATCH_RECEIPT_SCOPE_STATE_TRIGGER_LOCK (1).txt | original=C:\Users\13527\Desktop\lost | deleted=‎5/‎10/‎2026 ‏‎1:25 PM | size=4.17 KB | type=Text Document
+ITEM_0051 | PATCH_RECEIPT_RULE_CHECKER_PREVENTION_LOOP.txt | original=C:\Users\13527\Desktop\lost | deleted=‎5/‎10/‎2026 ‏‎1:25 PM | size=1.13 KB | type=Text Document
+ITEM_0052 | EVIDENCE_ARCHIVE_MANIFEST.txt | original=C:\Users\13527\Desktop\Clean Milk not-BLOAT | deleted=‎5/‎9/‎2026 ‏‎11:40 AM | size=747 bytes | type=Text Document
+ITEM_0054 | PATCH_RECEIPT_POINT_CHECK_REPAIR_AND_METHOD_EVIDENCE.txt | original=C:\Users\13527\Desktop\lost | deleted=‎5/‎10/‎2026 ‏‎1:25 PM | size=4.82 KB | type=Text Document
+ITEM_0058 | EVIDENCE_ARCHIVE_MANIFEST (1).txt | original=C:\Users\13527\Desktop\lost | deleted=‎5/‎10/‎2026 ‏‎1:25 PM | size=1.42 KB | type=Text Document
+ITEM_0065 | PATCH_RECEIPT_RULE_ID_PARTNER_SYNC.txt | original=C:\Users\13527\Downloads | deleted=‎5/‎9/‎2026 ‏‎11:40 AM | size=2.23 KB | type=Text Document
+ITEM_0069 | PATCH_RECEIPT_POINT_CHECK_REPAIR_AND_METHOD_EVIDENCE.txt | original=C:\Users\13527\Desktop\Clean Milk not-BLOAT | deleted=‎5/‎9/‎2026 ‏‎10:47 AM | size=4.82 KB | type=Text Document
+ITEM_0075 | CLEAN_MILK_NOT_BLOAT_FOLDER_PROOF.txt | original=C:\Users\13527\Desktop\lost | deleted=‎5/‎10/‎2026 ‏‎1:25 PM | size=39.7 KB | type=Text Document
+ITEM_0077 | EVIDENCE_ARCHIVE_MANIFEST.txt | original=C:\Users\13527\Desktop\Clean Milk not-BLOAT | deleted=‎5/‎9/‎2026 ‏‎10:47 AM | size=874 bytes | type=Text Document
+ITEM_0087 | EVIDENCE_ARCHIVE_MANIFEST (2).txt | original=C:\Users\13527\Desktop\lost | deleted=‎5/‎10/‎2026 ‏‎1:25 PM | size=1.42 KB | type=Text Document
+ITEM_0088 | PATCH_RECEIPT_LOGIC_SERIOUSNESS_CALIBRATION.txt | original=C:\Users\13527\Desktop\Clean Milk not-BLOAT | deleted=‎5/‎9/‎2026 ‏‎10:47 AM | size=3.16 KB | type=Text Document
+ITEM_0093 | PATCH_RECEIPT_POINT_CHECK_DECISION_LOOP.txt | original=C:\Users\13527\Desktop\Clean Milk not-BLOAT | deleted=‎5/‎9/‎2026 ‏‎10:47 AM | size=4.23 KB | type=Text Document
+ITEM_0096 | EVIDENCE_ARCHIVE_MANIFEST.txt | original=C:\Users\13527\Desktop\Clean Milk not-BLOAT | deleted=‎5/‎9/‎2026 ‏‎11:57 AM | size=747 bytes | type=Text Document
+ITEM_0109 | DOCTRINE_CLOSURE_AUDIT_CLEAN_JUDGMENT.txt | original=C:\Users\13527\Desktop\lost | deleted=‎5/‎10/‎2026 ‏‎1:25 PM | size=11.8 KB | type=Text Document
+ITEM_0118 | PATCH_RECEIPT_LOCK_SAVE_SEND_REST_STOP_WORD_RULES.txt | original=C:\Users\13527\Desktop\lost | deleted=‎5/‎10/‎2026 ‏‎1:25 PM | size=1.97 KB | type=Text Document
+ITEM_0121 | PATCH_RECEIPT_PROOF_LEDGER_LOCK.txt | original=C:\Users\13527\Desktop\lost | deleted=‎5/‎10/‎2026 ‏‎1:25 PM | size=3.03 KB | type=Text Document
+
+9. Dirty milk risks
+RISK-001 | Duplicate same-name guide files can collide or mislead if treated as current truth.
+RISK-002 | Clean-looking names and newer timestamps do not prove active truth.
+RISK-003 | Script-like evidence must not be run or renamed into executable form.
+RISK-004 | Folder/container items may hide many files and need separate review.
+RISK-005 | Recovered files are ore only until source, hash, role, and guide status are separately proven.
+
+10. Duplicate active-guide families
+README_START_HERE.txt | count=30 | items=ITEM_0003, ITEM_0005, ITEM_0008, ITEM_0009, ITEM_0014, ITEM_0018, ITEM_0020, ITEM_0035, ITEM_0037, ITEM_0038, ITEM_0040, ITEM_0045, ITEM_0047, ITEM_0048, ITEM_0057, ITEM_0059, ITEM_0061, ITEM_0064, ITEM_0070, ITEM_0073, ITEM_0078, ITEM_0080, ITEM_0081, ITEM_0091, ITEM_0092, ITEM_0095, ITEM_0104, ITEM_0112, ITEM_0115, ITEM_0123
+CLEAN_SEED_WRAP_GUIDE.txt | count=30 | items=ITEM_0004, ITEM_0006, ITEM_0007, ITEM_0019, ITEM_0021, ITEM_0023, ITEM_0024, ITEM_0026, ITEM_0029, ITEM_0031, ITEM_0032, ITEM_0055, ITEM_0063, ITEM_0066, ITEM_0067, ITEM_0068, ITEM_0071, ITEM_0074, ITEM_0083, ITEM_0089, ITEM_0090, ITEM_0098, ITEM_0099, ITEM_0100, ITEM_0101, ITEM_0111, ITEM_0116, ITEM_0117, ITEM_0119, ITEM_0126
+CLEAN_SEED_ALIGNMENT_CHECK.txt | count=31 | items=ITEM_0002, ITEM_0011, ITEM_0015, ITEM_0027, ITEM_0028, ITEM_0033, ITEM_0034, ITEM_0044, ITEM_0053, ITEM_0060, ITEM_0062, ITEM_0072, ITEM_0076, ITEM_0079, ITEM_0082, ITEM_0085, ITEM_0086, ITEM_0094, ITEM_0097, ITEM_0102, ITEM_0105, ITEM_0106, ITEM_0107, ITEM_0108, ITEM_0110, ITEM_0113, ITEM_0114, ITEM_0120, ITEM_0122, ITEM_0125, ITEM_0127
+CLEAN_SEED_ALIGNMENT_CHECK (1).txt | count=1 | items=ITEM_0056
+CLEAN_SEED_WRAP_GUIDE (1).txt | count=1 | items=ITEM_0103
+README_START_HERE (1).txt | count=1 | items=ITEM_0124
+
+11. Proof/report/manifest families
+CLEAN_MILK_NOT_BLOAT_FOLDER_PROOF.txt | count=1 | items=ITEM_0075
+CLEAN_SEED_VISUAL_MAP.html | count=1 | items=ITEM_0012
+CLOSED_LOOP_VERIFICATION_BOARD_SCOPE_STATE_TRIGGER_LOCK (1).txt | count=1 | items=ITEM_0039
+DOCTRINE_CLOSURE_AUDIT_CLEAN_JUDGMENT.txt | count=2 | items=ITEM_0010, ITEM_0109
+EVIDENCE_ARCHIVE_MANIFEST (1).txt | count=1 | items=ITEM_0058
+EVIDENCE_ARCHIVE_MANIFEST (2).txt | count=1 | items=ITEM_0087
+EVIDENCE_ARCHIVE_MANIFEST.txt | count=7 | items=ITEM_0001, ITEM_0013, ITEM_0042, ITEM_0049, ITEM_0052, ITEM_0077, ITEM_0096
+PATCH_RECEIPT_LOCK_SAVE_SEND_REST_STOP_WORD_RULES.txt | count=1 | items=ITEM_0118
+PATCH_RECEIPT_LOGIC_SERIOUSNESS_CALIBRATION.txt | count=2 | items=ITEM_0025, ITEM_0088
+PATCH_RECEIPT_POINT_CHECK_DECISION_LOOP.txt | count=4 | items=ITEM_0036, ITEM_0043, ITEM_0046, ITEM_0093
+PATCH_RECEIPT_POINT_CHECK_REPAIR_AND_METHOD_EVIDENCE.txt | count=2 | items=ITEM_0054, ITEM_0069
+PATCH_RECEIPT_PROOF_LEDGER_LOCK.txt | count=1 | items=ITEM_0121
+PATCH_RECEIPT_RULE_CHECKER_PREVENTION_LOOP.txt | count=1 | items=ITEM_0051
+PATCH_RECEIPT_RULE_ID_PARTNER_SYNC.txt | count=3 | items=ITEM_0030, ITEM_0041, ITEM_0065
+PATCH_RECEIPT_SCOPE_STATE_TRIGGER_LOCK (1).txt | count=1 | items=ITEM_0050
+
+12. Script-like blocked evidence
+ITEM_0017 | PROMOTE_GOLD_INTAKE_PRIORITY_BOULDER_FIRST_BANK_LEAK.ps1.txt | original=C:\Users\13527\Desktop\lost | deleted=‎5/‎10/‎2026 ‏‎1:25 PM | size=7.63 KB | type=Text Document
+ITEM_0022 | RUN_VERIFY_GOLD_INTAKE_PRIORITY_FULL.ps1.txt | original=C:\Users\13527\Desktop\lost | deleted=‎5/‎10/‎2026 ‏‎1:25 PM | size=8.91 KB | type=Text Document
+
+13. Folder/container evidence
+ITEM_0016 | CleanSeedBuilds | original=C:\Users\13527\Desktop\lost | deleted=‎5/‎10/‎2026 ‏‎1:25 PM | size=121 KB | type=File folder
+ITEM_0084 | lost | original=C:\Users\13527\Desktop\lost | deleted=‎5/‎10/‎2026 ‏‎1:25 PM | size=21.2 KB | type=File folder
+
+14. Unknown ore
+Unknown ore count: 0
+Explanation: All custody notes contained item number/name/path/type metadata sufficient for this metadata-only pass.
+
+15. First recommended extraction target
+FIRST TARGET: Duplicate active-guide family timeline ledger, starting with README_START_HERE.txt because it is the startup guide family. Use metadata first, then content review only after separate approval. Do not promote any item as current truth during extraction.
+
+16. Explicit no-promotion statement
+No recovered item is active truth from this repaired index. This index does not install checkpoint rules, recovered guides, receipts, manifests, or reports into ACTIVE_GUIDES or CURRENT_TRUTH_INDEX.txt.
+
+17. Explicit no-change statement
+Recovered file contents inspected: NO
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX edited: NO
+Files deleted: NO
+Files moved: NO, except creating repaired Gold Pan index
+Files renamed: NO
+Scripts run: NO
+Shortcuts executed: NO
+Zip files extracted: NO
+Recycle Bin emptied: NO

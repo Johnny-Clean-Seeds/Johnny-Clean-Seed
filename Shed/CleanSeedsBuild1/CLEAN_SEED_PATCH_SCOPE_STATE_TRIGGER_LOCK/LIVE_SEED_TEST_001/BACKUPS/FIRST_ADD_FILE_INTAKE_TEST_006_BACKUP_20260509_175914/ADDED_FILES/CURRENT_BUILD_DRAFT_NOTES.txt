@@ -1,0 +1,10 @@
+﻿CURRENT BUILD DRAFT NOTES
+
+Name:
+Rough future build note
+
+Mission:
+Unclear draft idea. This file is not approved as active doctrine.
+
+Notes:
+This is a draft-style support note. It may contain useful ideas but must not steer the active package until reviewed and promoted.

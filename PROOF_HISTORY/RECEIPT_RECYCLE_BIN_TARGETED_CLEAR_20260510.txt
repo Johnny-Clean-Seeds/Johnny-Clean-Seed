@@ -1,0 +1,26 @@
+RECEIPT_RECYCLE_BIN_TARGETED_CLEAR_20260510
+Protected active source: C:\Users\13527\Desktop\Clean Milk not-BLOAT
+Protected quarantine root: C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECYCLE_BIN_QUARANTINE_20260510
+Custody ledger: C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECYCLE_BIN_QUARANTINE_20260510\RECYCLE_BIN_QUARANTINE_LEDGER_20260510.txt
+Repaired Gold Pan index: C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\GOLD_PAN_INDEX_REPAIRED_20260510.txt
+Folder/container count report: C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\FOLDER_CONTAINER_COUNT_CHECK_20260510.txt
+Manual partial output folder protected: C:\Users\13527\Desktop\where_da_fuk_arewe_tribe
+Timestamp: 2026-05-10 15:20:16 -04:00
+Recycle Bin visible before clear: YES
+Recycle Bin visible entries before clear: 102
+Matching already-quarantined Recycle Bin entries found: 102
+Matching entries permanently removed from Recycle Bin: 102
+Removal failures: 0
+Recycle Bin visible entries after targeted clear: 0
+Unrelated Recycle Bin entries removed: NO
+Whole Recycle Bin emptied: NO
+Quarantine files deleted: NO
+Manual partial output folder deleted: NO
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX edited: NO
+Files deleted outside Recycle Bin target entries: NO
+Files moved: NO
+Files renamed: NO
+Recovered scripts run: NO
+Shortcuts executed: NO
+Zip files extracted: NO

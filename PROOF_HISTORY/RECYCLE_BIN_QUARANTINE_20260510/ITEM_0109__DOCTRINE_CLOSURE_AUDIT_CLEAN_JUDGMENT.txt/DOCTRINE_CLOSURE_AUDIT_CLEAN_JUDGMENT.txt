@@ -1,0 +1,204 @@
+DOCTRINE CLOSURE AUDIT — REVERSE + CONNECTED SCOPE
+
+Audit target: current saved base core files in /mnt/data
+Verdict: PASS WITH GUARDRAILS
+Guardrail: this is a doctrine-closure audit, not a final Deep Clean seal for public/shared distribution.
+
+Current file hashes:
+- README_START_HERE.txt: 4eb515e023befb43e9be782e2d75545173a5e73ccb3ecdb059ebab3e7cf0d9c1
+- CLEAN_SEED_WRAP_GUIDE.txt: d59430caa5871b4746ec73cc6fef0cfd580005cd202ce2ae3826ace6476e7149
+- CLEAN_SEED_ALIGNMENT_CHECK.txt: 2ca26768a5594b42e2da384a09bcab2ed1ee2cefa56320c4d81f3cefaae609a0
+- PATCH_RECEIPT_CLEAN_JUDGMENT_NO_LITERALISM.txt: 3e333f3ab47f5c410effb437ad23790e90d3b0609ad2754b944ab92c4c91ce50
+
+Closure standard used: a doctrine rule is clean only when it has a trigger/route, evidence/proof burden, dirty/clean condition or equivalent guard, verdict/decision route, affected-scope handling, and next-state closure either directly or through a named matching check/umbrella check.
+
+1. Package Identity / Three-File Authority
+Verdict: PASS
+Why closed/safe: Closed because all three guide files share the same active patch ID and the package still defines only README, Wrap Guide, and Alignment Check as active guide files. Extra receipts are proof/history, not guide authority.
+
+2. User Authority Boundary
+Verdict: PASS
+Why closed/safe: Closed because user owns direction/approval while assistant is bounded by evidence, safety, and no dirty-milk promotion. User requests do not make dirty milk clean.
+
+3. Build Start Recognition
+Verdict: PASS
+Why closed/safe: Closed because startup asks whether this is a new build, existing build, or rough idea before project-specific names/files lock in.
+
+4. File Intake / First-Add Rule
+Verdict: PASS
+Why closed/safe: Closed because added files start untrusted, require role classification, doctrine check, dirty-milk/authority pass, no-run gate, and named status before use.
+
+5. Package Patch Recognition
+Verdict: PASS
+Why closed/safe: Closed because changed/missing/extra/suffix/newer/older package states trigger intake before obeying new or changed instructions.
+
+6. Patch Quarantine / Rollback
+Verdict: PASS
+Why closed/safe: Closed because patches are not active until prior state, rollback route, preserved good milk, dirty milk removed, and approval/proof are named.
+
+7. Patch Balance
+Verdict: PASS
+Why closed/safe: Closed because every patch must name real seam, dirty milk removed, good milk preserved, new pressure, bloat risk, active/parked status, rollback, and approval.
+
+8. Whole-Package Clean Milk Review / Package Alignment
+Verdict: PASS
+Why closed/safe: Closed because package changes must check README, Wrap Guide, and Alignment Check together, including patch ID sync, no second truth, and next state.
+
+9. Patch Receipt / Footer Proof
+Verdict: PASS
+Why closed/safe: Closed because receipts must include target, files reviewed/changed/not changed, method, affected areas, rollback, risk, verdict, proof, and next state.
+
+10. Key Terms / Words Are Keys
+Verdict: PASS
+Why closed/safe: Closed because README defines key terms and Wrap/Alignment apply word-key control to rules, checks, prompts, commands, filenames, verdicts, receipts, seals, risk labels, incident labels, and handoff wording.
+
+11. Command List / Role Map
+Verdict: PASS
+Why closed/safe: Closed because README has callable commands and Wrap/Alignment route them to existing controls without creating hidden authority.
+
+12. Evidence Before Repair
+Verdict: PASS
+Why closed/safe: Closed because repair/rerun/delete/overwrite cannot happen before required evidence is captured unless risk routing/yield handles it.
+
+13. Clean Evidence Capture
+Verdict: PASS
+Why closed/safe: Closed because evidence is bounded to necessary/helpful evidence inside approved scope, with anti-hoarding guardrails and pass-judge control.
+
+14. Evidence Coverage Map / No Blind Spots
+Verdict: PASS
+Why closed/safe: Closed because trust claims must list materially helpful evidence lanes and status each checked/unavailable/unsafe/outside-scope/not-needed/stale/conflicting/needs user access.
+
+15. Incident Existence / False Alarm Gate
+Verdict: PASS
+Why closed/safe: Closed because the system asks whether the incident happened before suspect/blame/patch/apology/overwrite/rule change, and can classify false alarm, fake, stale, misread, test, partial, unknown, or real.
+
+16. Real Evidence / Suspect Claim
+Verdict: PASS
+Why closed/safe: Closed because it requires direct evidence for the claim, checks wrong-suspect risk, treats missing/stale/fake/conflicting evidence as not enough, and uses INVALID/YIELD when proof is insufficient.
+
+17. Risk Analysis / Risk Severity Evidence
+Verdict: PASS
+Why closed/safe: Closed because LOW/MEDIUM/HIGH risk now controls evidence burden and response path; high risk preserves state, verifies, and routes to backup/quarantine/receipt/Deep Clean/project protection.
+
+18. High-Risk Yield / Suggestion Severity
+Verdict: PASS
+Why closed/safe: Closed because severe risks require stop/yield instead of quiet continuation; recommendations must remain clean, bounded, and non-risky.
+
+19. Challenge Verification Before Correction
+Verdict: PASS
+Why closed/safe: Closed because challenges require verifying actual state before apology, defense, patch, resend, overwrite, or rule change.
+
+20. Rule Checker Failure Prevention
+Verdict: PASS
+Why closed/safe: Closed because if a rule exists but misses, the system verifies the miss, names the failed hook, patches the smallest prevention point, and retests the same failure path.
+
+21. Rule Obedience Proof
+Verdict: PASS
+Why closed/safe: Closed because claims that a rule/request was followed must name target, controlling rule, action taken, proof, affected scope, result check, and next state.
+
+22. Rule Closure Cycle
+Verdict: PASS
+Why closed/safe: Closed because new/changed rules must name trigger, scope, evidence, clean/dirty states, verdicts, affected scope, follow-through, and rerun check after application.
+
+23. Affected-Area Apply-And-Check / No Blind Moves
+Verdict: PASS
+Why closed/safe: Closed because accepted ideas must name all affected areas, apply the smallest changes, then mark each affected area changed/unchanged/not affected/parked/blocked/yielded/needs follow-up.
+
+24. CYA / Affected-Rule Proof
+Verdict: PASS
+Why closed/safe: Closed because when one rule affects another, all affected areas inside approved scope must be mapped before patch and statused after patch with proof that they were checked.
+
+25. Clean Judgment / No Blind Literalism
+Verdict: PASS
+Why closed/safe: Closed because user vagueness no longer allows skipping obvious companion work; if bounded, do it; if high-risk/unclear/outside authority, yield.
+
+26. Point Check / Decision Validation Loop
+Verdict: PASS
+Why closed/safe: Closed because trust decisions must validate what/when/where/why/how, what can be done, what was done, effects, proof, disproof, verdict, and next point before moving forward.
+
+27. Verdict Precision / Done Proof
+Verdict: PASS
+Why closed/safe: Closed because Done is not PASS; claims require target, evidence, judge, proof location, unknowns, and closure condition.
+
+28. Issue Status Footer
+Verdict: PASS
+Why closed/safe: Closed because reports must state pending issues, action needed, next state, locked/saved status, proof/receipt/backup state, and remaining action.
+
+29. Capture Classification / Gold Snippet Capture
+Verdict: PASS
+Why closed/safe: Closed because implied and explicit concepts must be captured/classified and locked/saved, parked, yielded, rejected, blocked, or marked chat-only with reason.
+
+30. Immediate Lock/Save / Needed File Handoff
+Verdict: PASS
+Why closed/safe: Closed because clean accepted material that belongs in active files must not remain only in chat/memory; changed files are lock/saved before handoff and receipts/proof are produced.
+
+31. Save Location / Backup CYA
+Verdict: PASS
+Why closed/safe: Closed because changed files must name target location, preserve prior state or backup when meaningful/risky, and avoid unclear overwrites.
+
+32. Patch Method Evidence / Direction Check
+Verdict: PASS
+Why closed/safe: Closed because patch reports must show not only what changed but how, why placement was correct, affected areas, check-after-save, direction verdict, and unknowns.
+
+33. Focused Review Boundary
+Verdict: PASS
+Why closed/safe: Closed because the system must name scope: active target, affected scope, major-area review, Deep Clean, final lock, promotion, seal, or uncertain state, avoiding too narrow/too broad review.
+
+34. Rule Conflict / No-Guess
+Verdict: PASS
+Why closed/safe: Closed because conflicts must be named, affected rules/files/actions identified, obvious bounded fixes applied, otherwise yielded instead of guessed through.
+
+35. Change Impact / Post-Change Clean Milk
+Verdict: PASS
+Why closed/safe: Closed because changes to rules/roles/authority/routes/verdicts/package/promotion must state damage risk before change and check good milk/dirty milk after change.
+
+36. Rule Pressure / No Overbuild
+Verdict: PASS
+Why closed/safe: Closed because bloat is defined and patches must protect route/evidence/authority/verdict/next state; unnecessary rules are parked/rejected/trimmed.
+
+37. Ordered Multi-Fix / List-To-Task Queue
+Verdict: PASS
+Why closed/safe: Closed because multiple issues must be ordered, one active task handled at a time unless fix-all scope is approved, and each closed before moving forward.
+
+38. Interruption / Freeze / True Verified Continue
+Verdict: PASS
+Why closed/safe: Closed because resume must use last verified checkpoint, separate saved fixes from unsaved thoughts, and not treat partial work as active truth.
+
+39. Deep Clean / Seal / Cycle Truth
+Verdict: PASS WITH GUARDRAILS
+Why closed/safe: Closed for routing: Deep Clean requires real receipt/seal/manifest/proof; old runs become historical after changes. Guardrail: this audit is not a final Deep Clean seal.
+
+40. Stage/Wave/Promotion Control
+Verdict: PASS
+Why closed/safe: Closed because stages/waves have close conditions, wave-group close handles failed/multi-wave/change cases, promotion requires proof, boundary, approval, and receiving role.
+
+41. Parking Lane / Future Ideas
+Verdict: PASS
+Why closed/safe: Closed because useful future ideas are preserved without becoming active until promoted; parked items must have reason and next condition.
+
+42. Mechanical Clarity / Copy-Paste / User Steps
+Verdict: PASS
+Why closed/safe: Closed because commands/prompts/numbered steps must name target, action, expected result, return evidence, and avoid mixed command/file-content boxes.
+
+43. New File / Directory Certification
+Verdict: PASS
+Why closed/safe: Closed because new files/folders must have role, path, active/reference/parked status, creation reason, and authority boundary.
+
+44. Controlled Bridge Card
+Verdict: PASS
+Why closed/safe: Closed because bridge work requires parent/receiving decision, mission, authority, evidence, promotion, rollback, and close condition; no open access.
+
+45. Final Operating Rule
+Verdict: PASS
+Why closed/safe: Closed because it restates the spine: user owns direction, assistant owns discipline, evidence controls PASS, dirty milk not called clean, convenience/speed not replacing proof, growth waits for wrap.
+
+Known not-a-failure items:
+- Not every README paragraph needs full closure; README is the user on-ramp.
+- Not every mechanical rule needs a duplicate named check if it is closed through Prompt/Command Boundary, Mechanical Clarity, Word Seam, or Rule Closure standards.
+- Receipt files remain proof/history and are not active guide files.
+
+Final answer to murder model:
+The current rules can ask whether a murder happened, whether it was fake/stale/misread/partial/unknown, what evidence lanes exist, which lanes were checked, what suspects exist, which suspect is proven by real evidence, what rule/fix caused or prevented it, and what next state follows. That is clean milk with guardrails, not magic foolproofing.
+
+Open issues found in this audit: none requiring patch.
+Next clean move: no doctrine patch unless a real build run or Deep Clean exposes a specific missing lane.

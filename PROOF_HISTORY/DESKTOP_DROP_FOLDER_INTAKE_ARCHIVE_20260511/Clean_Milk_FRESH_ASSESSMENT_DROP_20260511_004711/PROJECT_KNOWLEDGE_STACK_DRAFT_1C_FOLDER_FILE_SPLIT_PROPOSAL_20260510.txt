@@ -1,0 +1,169 @@
+PROJECT KNOWLEDGE STACK DRAFT 1C SPLIT PROPOSAL — REVIEW ONLY
+
+Status:
+Proof-history-only proposal.
+Not active guide doctrine.
+Not current truth.
+Not cleanup authority.
+Not folder-creation approval.
+Not deletion approval.
+Not promotion approval.
+
+Source:
+Created from review of PROJECT_KNOWLEDGE_STACK_DRAFT_1B_REFINED_MODEL_20260510 and controlled worker split proposal.
+
+1. Recommended Physical Folders
+
+03_SIDE_EVIDENCE:
+YES, likely folder. Evidence/receipts can grow safely if indexed.
+
+05_SORTED_PILES:
+YES, later. Useful only if pile files are indexed and temporary.
+
+10_BLOCKED_QUARANTINED:
+YES, later. Risky material needs a hard visual boundary.
+
+11_SOURCE_ORE_INDEX:
+YES, later. OldSchool/origin material should stay separated.
+
+04_IDEA_POOL + 08_REST_STOPS + 09_PARKING:
+Combine into one physical folder later, not three.
+
+2. Recommended Index Files
+
+PROJECT_MISSION_CONTROL_INDEX.txt:
+Front-door/load order only.
+
+PROJECT_KNOWLEDGE_STACK_MASTER_INDEX.txt:
+Stack contents only, not package truth.
+
+CURRENT_CONDUCT_STACK.txt:
+Current mode, target, boundaries, next action.
+
+SIDE_EVIDENCE_INDEX.txt:
+Proof rows and receipt links.
+
+BRIDGE_TICKET_INDEX.txt:
+Lane movement tickets.
+
+CONTROLLED_DRIFT_CAPTURE_INDEX.txt:
+Drift records.
+
+SOURCE_ORE_INDEX.txt:
+OldSchool/origin/recovered source map.
+
+BLOCKED_AND_QUARANTINED_INDEX.txt:
+Blocked item register.
+
+3. Recommended Sections Inside Files
+
+00_FRONT_DOOR:
+Section inside PROJECT_MISSION_CONTROL_INDEX.txt, not folder.
+
+01_CURRENT_CONDUCT:
+Section/file, not folder at first.
+
+02_ACTIVE_TARGETS:
+Section inside CURRENT_CONDUCT_STACK.txt.
+
+06_CLEAN_MERGE_PLATE:
+Section/template inside current conduct or bridge file.
+
+07_BRIDGES:
+Index file plus ticket template, not folder yet.
+
+08_REST_STOPS:
+Section inside Ideas/Parking file.
+
+09_PARKING:
+Section inside Ideas/Parking file.
+
+99_MASTER_INDEX:
+One index file, not folder logic by itself.
+
+4. Lanes That Should Not Become Folders Yet
+
+00_FRONT_DOOR
+01_CURRENT_CONDUCT
+02_ACTIVE_TARGETS
+06_CLEAN_MERGE_PLATE
+07_BRIDGES
+08_REST_STOPS
+09_PARKING
+99_MASTER_INDEX
+
+5. Bloat Risks
+
+Too many lane folders will recreate the same clutter the stack is trying to solve.
+The first build should prefer a few durable folders plus strong index files.
+
+6. Duplicate-Truth Risks
+
+PROJECT_MISSION_CONTROL_INDEX.txt and PROJECT_KNOWLEDGE_STACK_MASTER_INDEX.txt must not replace CURRENT_TRUTH_INDEX.txt.
+They can explain stack navigation only.
+
+7. Neighbor-Respect Risks
+
+Evidence must not become doctrine.
+Ideas must not become current conduct.
+Source-ore must not become active truth.
+Blocked material must not become usable because it is neatly filed.
+
+8. Recommended Smallest Structure
+
+One future root:
+PROJECT_KNOWLEDGE_STACK
+
+Four folders:
+SIDE_EVIDENCE
+IDEAS_PARKING_REST
+BLOCKED_QUARANTINED
+SOURCE_ORE
+
+Four front files:
+PROJECT_MISSION_CONTROL_INDEX.txt
+PROJECT_KNOWLEDGE_STACK_MASTER_INDEX.txt
+CURRENT_CONDUCT_STACK.txt
+BRIDGE_TICKET_INDEX.txt
+
+Keep sorted piles and merge plate as sections/templates until real volume proves folders are needed.
+
+9. What Must Remain Blocked
+
+Folder creation.
+Active guide edits.
+CURRENT_TRUTH_INDEX edits.
+Deletion.
+Movement.
+Rename.
+Overwrite.
+Extraction.
+Execution.
+Shortcut launch.
+Promotion.
+Cleanup.
+Treating Draft 1C as authority.
+
+10. Next Clean Action
+
+Review Draft 1C.
+
+If accepted later, create a physical-folder/file split command only after explicit approval.
+
+Do not create the actual stack yet.
+
+Safety Confirmation:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+Folders created: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Scripts run: NO
+Shortcuts executed: NO
+Zip files extracted: NO
+Cleanup performed: NO
+Promotion performed: NO
+
+Verdict:
+REVIEW PROPOSAL ONLY — NO GROW ACTION TAKEN.

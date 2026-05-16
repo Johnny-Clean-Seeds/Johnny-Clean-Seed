@@ -1,0 +1,22 @@
+﻿LIVE TEST TASK 004 - DESKTOP MIRROR / FUTURE CHAT DROP-IN PATH
+
+Purpose:
+Test whether the Desktop folder is a clean future-chat handoff point.
+
+Expected clean behavior:
+- Desktop mirror folder exists
+- ACTIVE_GUIDES exists
+- ACTIVE_GUIDES contains exactly the three active guide files
+- ACTIVE_GUIDES does not contain proof/history/live-test files
+- mirrored active guide hashes match source active guide hashes
+- PROOF_HISTORY exists for support proof
+- LIVE_SEED_TEST_001 exists for live-test support
+- Desktop mirror rule is saved to PROOF_HISTORY
+- Desktop mirror is updated without creating browser duplicate names like (1)
+- no ACTIVE_GUIDES files are changed by this test
+
+PASS condition:
+Desktop mirror is ready for future chat drop-in use.
+
+FAIL condition:
+Desktop mirror is missing, stale, contains wrong active guide files, has extra active guide files, has hash mismatch, or blurs proof/history into ACTIVE_GUIDES.

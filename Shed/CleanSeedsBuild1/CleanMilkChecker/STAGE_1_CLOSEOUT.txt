@@ -1,0 +1,83 @@
+﻿STAGE 1 CLOSEOUT - TINY WORKING LOOP
+
+Active target:
+CleanMilkChecker
+
+Stage closed:
+Stage 1 - Tiny Working Loop
+
+What Stage 1 proved:
+CleanMilkChecker can take one supplied clean seed input and produce one verdict report.
+
+Tests completed:
+
+TEST 001:
+Clean-ish basic seed card.
+Expected verdict: PASS WITH GUARDRAILS.
+Result: PASS route proof.
+
+TEST 002:
+Dirty bloated seed card.
+Expected verdict: FAIL.
+Result: PASS route proof.
+
+TEST 003:
+Missing-evidence seed card.
+Expected verdict: PARTIAL.
+Result: PASS route proof.
+
+TEST 004:
+Unclear-authority seed card.
+Expected verdict: FAIL.
+Result: PASS route proof.
+
+TEST 005:
+Cut-off invalid seed card.
+Expected verdict: INVALID.
+Result: PASS route proof.
+
+Evidence files:
+C:\CleanSeedsBuild\CleanMilkChecker\evidence\STAGE_1_TEST_001_EVIDENCE.txt
+C:\CleanSeedsBuild\CleanMilkChecker\evidence\STAGE_1_TEST_002_EVIDENCE.txt
+C:\CleanSeedsBuild\CleanMilkChecker\evidence\STAGE_1_TEST_003_EVIDENCE.txt
+C:\CleanSeedsBuild\CleanMilkChecker\evidence\STAGE_1_TEST_004_EVIDENCE.txt
+C:\CleanSeedsBuild\CleanMilkChecker\evidence\STAGE_1_TEST_005_EVIDENCE.txt
+
+Outputs:
+C:\CleanSeedsBuild\CleanMilkChecker\outputs\TEST_001_VERDICT_REPORT.txt
+C:\CleanSeedsBuild\CleanMilkChecker\outputs\TEST_002_VERDICT_REPORT.txt
+C:\CleanSeedsBuild\CleanMilkChecker\outputs\TEST_003_VERDICT_REPORT.txt
+C:\CleanSeedsBuild\CleanMilkChecker\outputs\TEST_004_VERDICT_REPORT.txt
+C:\CleanSeedsBuild\CleanMilkChecker\outputs\TEST_005_VERDICT_REPORT.txt
+
+What passed:
+The checker route can produce verdict reports for clean, dirty, partial, authority-risk, and invalid inputs.
+The checker can return INVALID instead of guessing from cut-off input.
+The checker can identify bloat, dirty milk, missing evidence, unclear authority, weak done/PASS split, weak recovery, and unclear next state.
+
+What failed:
+Nothing blocks Stage 1 close.
+
+What remains parked:
+SeedCardHelper.
+CleanSeedBuilder.
+File intake automation.
+Patch checker.
+Wave group closer.
+Package deep-clean reviewer.
+
+Trusted use now:
+CleanMilkChecker is trusted as a manual verdict-report pattern for one supplied seed input at a time.
+
+Not trusted yet:
+Not trusted to run automatically.
+Not trusted to edit files automatically.
+Not trusted to patch package files automatically.
+Not trusted to inspect folders automatically.
+Not trusted as the full Clean Seed Builder.
+
+Final Stage 1 verdict:
+PASS
+
+Next clean state:
+Open Stage 2 - Failure Handling. Prove that checker failures, invalid inputs, bad command results, and missing files are captured without destroying evidence before repair.

@@ -1,0 +1,31 @@
+ITEM CHAIN OF CUSTODY
+Recovery item number: 
+49
+Original name: 
+EVIDENCE_ARCHIVE_MANIFEST.txt
+Original path if available: 
+C:\Users\13527\Desktop\lost
+Deleted date/time if available: 
+‎5/‎10/‎2026 ‏‎1:25 PM
+Size if available: 
+1.19 KB
+Type: 
+Text Document
+Recovery folder: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECYCLE_BIN_QUARANTINE_20260510\ITEM_0049__EVIDENCE_ARCHIVE_MANIFEST.txt
+Recovery action taken: 
+Shell namespace CopyHere into quarantine item folder
+Recovered by: Codex local bridge via Windows Shell Recycle Bin metadata/copy operation
+Timestamp: 
+2026-05-10 14:25:37 -04:00
+Hash if file hash is available: 
+E2417D06EE80217CD2917D326AA68F653725CB64C773DCF47E301A2D6BF5ABD5
+Notes: Recovered as quarantine evidence only; not restored to original path; not installed into ACTIVE_GUIDES; not interpreted as active truth.
+Whether script-like: 
+NO
+Whether folder/container: 
+NO
+Whether recovery succeeded: 
+YES
+Failure reason if recovery failed: 
+NONE

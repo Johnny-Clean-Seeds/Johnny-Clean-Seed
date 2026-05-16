@@ -1,0 +1,123 @@
+﻿OPERATING SURFACE PROPOSAL 20260511
+
+Status:
+Proof-history-only proposal.
+Not active guide doctrine.
+Not current truth.
+Not cleanup authority.
+Not folder-creation approval.
+Not deletion approval.
+Not movement approval.
+Not rename approval.
+Not overwrite approval.
+Not promotion approval.
+Not technician final authority.
+
+Purpose:
+Define a small visible operating surface for Clean Seed work so the user, assistant, and technician can see the active target, ball in hand, boundary, proof, lane, and next gate without turning every task into a full doctrine dig.
+
+Core idea:
+The operating surface is a view, not a new boss.
+
+It does not replace:
+- CURRENT_TRUTH_INDEX.txt
+- ACTIVE_GUIDES
+- AGENTS.md
+- proof-history receipts
+- user approval
+- final PASS judgment
+
+It only makes the current work easier to hold.
+
+Problem being addressed:
+The project has strong rules, proof files, receipts, drafts, worker limits, parked ideas, and current-truth boundaries, but the active hand can still feel overloaded.
+
+A clean surface should show:
+- what is active
+- what is held
+- what is protected
+- what is allowed
+- what is blocked
+- what proof exists
+- what next gate controls movement
+
+Operating surface fields:
+
+1. ACTIVE BALL
+The item currently in hand.
+
+2. ACTIVE TARGET
+The exact thing being saved, reviewed, judged, revised, or handed off.
+
+3. MODE
+STOP, DREAM, or GROW.
+
+STOP means close, hold, verify, yield, or pause for proof.
+DREAM means generate or shape ideas only into proposal, rest stop, or parking lanes.
+GROW means build, promote, connect, move, or create only after gates pass.
+
+4. SCOPE / BOUNDARY
+What may be touched and what must not be touched.
+
+5. PROTECTED ITEMS
+Files, folders, rules, receipts, indexes, or lanes that must not change.
+
+6. ALLOWED ACTIONS
+The exact actions approved for this task.
+
+7. BLOCKED ACTIONS
+Actions that are not approved, especially active-guide edits, current-truth edits, deletion, movement, rename, overwrite, cleanup, execution, extraction, shortcut launch, folder creation, and promotion unless explicitly approved.
+
+8. EVIDENCE IN HAND
+The files, receipts, hashes, user output, or review basis currently being used.
+
+9. LANE / STATUS
+Proof-history-only, active guide, current truth, receipt, parked, rest stop, blocked, source-ore, candidate, or yielded.
+
+10. NEXT GATE
+The next required proof, review, technician handoff, user approval, or closure condition.
+
+11. EXPECTED RETURN PROOF
+The exact PASS / FAIL / BLOCKED lines or report fields the user should return.
+
+12. CLOSE CONDITION
+What makes this surface item closed, saved, parked, blocked, yielded, or ready for next action.
+
+Clean use:
+Use the operating surface before a save, worker handoff, review, cleanup plan, active-guide proposal, current-truth proposal, or task switch when the active ball could be dropped.
+
+Dirty use:
+The operating surface becomes dirty if it creates another authority source, replaces CURRENT_TRUTH_INDEX, overrides ACTIVE_GUIDES, lets proof-history act as doctrine, turns into a giant dashboard, or authorizes file changes by being present.
+
+Smallest useful version:
+For now, keep this as a proof-history-only proposal.
+
+Do not create a new folder.
+Do not create a dashboard app.
+Do not edit ACTIVE_GUIDES.
+Do not edit CURRENT_TRUTH_INDEX.
+Do not promote this into active doctrine.
+Do not hand it to a worker as final authority.
+
+Possible future shape:
+If later approved, the operating surface may become a small current-conduct/front-door file or section inside the existing designated project stack location.
+
+It should stay small:
+- one active ball
+- one target
+- one boundary
+- one proof basis
+- one next gate
+- one close condition
+
+Technician role if reviewed later:
+The technician may review wording, grouping, placement, and pattern-fit.
+The technician may provide evidence-based advice and provisional judgment.
+The technician is not final authority and cannot promote this proposal.
+
+Next clean state:
+Save this proposal as proof-history-only.
+Then decide whether it needs technician review, revision, parking, or later active-guide placement review.
+
+Verdict:
+PASS as a proof-history-only proposal if saved with a receipt and no active files are changed.

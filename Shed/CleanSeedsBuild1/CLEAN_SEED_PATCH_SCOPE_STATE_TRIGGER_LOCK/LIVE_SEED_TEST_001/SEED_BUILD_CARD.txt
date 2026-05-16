@@ -1,0 +1,67 @@
+﻿SEED BUILD CARD â€” CONTROLLED LIVE SEED TEST 001
+
+Timestamp:
+2026-05-09 5:09 PM America/New_York
+
+Seed name:
+CleanSeed_BaseLiveTest_001
+
+Mission:
+Prove one tiny live route in the patched Clean Seed package: when a user raises a trust-affecting issue, the assistant must capture the issue, route it through clean order, avoid blind rule-adding, state scope/file status clearly, preserve the active mission, and leave judgeable evidence.
+
+Home:
+C:\CleanSeedsBuild\CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK\LIVE_SEED_TEST_001
+
+Package baseline:
+CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK
+
+Active package guide files:
+README_START_HERE.txt
+CLEAN_SEED_WRAP_GUIDE.txt
+CLEAN_SEED_ALIGNMENT_CHECK.txt
+
+Input / Output Route:
+Input: one user issue or concern.
+Process: assistant runs Issue Capture Path using patched trigger hooks.
+Output: one scoped response plus one evidence-log row and one result receipt.
+
+Evidence Path / Proof Path:
+SEED_EVIDENCE_LOG.txt
+LIVE_TEST_TASK_001.txt
+LIVE_TEST_RESULT_001.txt
+Visible chat response when returned to user.
+
+Done / Pass Rule / Pass Judge:
+Done means the test files and result receipt were created.
+PASS means the result proves the Issue Capture Path output contained: active target, scope/file state, issue classification, action taken or not taken, evidence/proof note, risk/cause note, affected-rule/self-application note, scope-state boundary, next clean action, and no false claim that package files changed.
+Pass judge: Clean Seed Alignment Check standards plus user review.
+
+Failure Path:
+If any required field is missing, vague, false, or over-absolute, mark the test PARTIAL or FAIL. Preserve the failed output before repair.
+
+Recovery Path:
+Return to the last verified checkpoint: patched package Deep Clean PASS WITH GUARDRAILS plus this seed card. Do not continue from unsaved thoughts.
+
+Authority Boundary:
+Allowed: create support test files inside this live-test folder and report results.
+Not allowed without user approval: edit README_START_HERE.txt, CLEAN_SEED_WRAP_GUIDE.txt, CLEAN_SEED_ALIGNMENT_CHECK.txt, change manifest/receipt as active truth, create a fourth guide file, or call the whole package final PASS from one live test.
+
+Does-Not-Do / Out-of-Bounds:
+Does not prove all future behavior.
+Does not prove real-build pressure in Roblox, LocalBot, or other external tools.
+Does not install new doctrine.
+Does not pull in Dreamforger/SUNO outside-field material.
+Does not treat support reports as guide files.
+
+Parking Lane:
+Future test paths go to PARKED_TEST_PATHS.txt until selected.
+
+Promotion Rule:
+This seed may promote to another live test path only after LIVE_TEST_TASK_001 has a clear verdict, evidence, disproof condition, and next clean state.
+
+Close Condition:
+Stage 0 closes when this card is accepted or corrected by the user. Stage 1 closes only if one tiny issue-capture route produces judged evidence.
+
+Current verdict:
+Stage 0 setup file created. Awaiting user acceptance/correction for Stage 0 close. Stage 1 Task 001 may be reviewed as a controlled first route, but full seed promotion waits for user acceptance.
+

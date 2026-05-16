@@ -1,0 +1,53 @@
+﻿CLEAN MILK CHECK REPORT
+
+Input checked:
+C:\CleanSeedsBuild\CleanMilkChecker\inputs\TEST_004_UNCLEAR_AUTHORITY_SEED_CARD.txt
+
+Verdict:
+FAIL
+
+What passed:
+The input has a name, mission, home, basic route, evidence report idea, parking lane, and promotion idea.
+
+What failed:
+The authority boundary is unsafe and unclear.
+The route allows destructive file changes.
+The evidence path happens after cleanup instead of before risky actions.
+Done and PASS are weak.
+The failure path repeats cleanup instead of preserving evidence.
+The recovery path is vague.
+The out-of-bounds list is too weak.
+The close condition is subjective.
+
+Dirty milk:
+"Clean up anything that looks wrong" gives the helper broad judgment without clear user approval.
+The helper may move, rename, delete, or rewrite files when it thinks doing so helps.
+The evidence report happens after cleanup, so useful proof may already be destroyed.
+"Does not delete important files" is weak because the helper decides what important means.
+
+Bloat:
+No giant feature bloat, but there is authority bloat. The seed is allowed to touch too much too early.
+
+Missing evidence:
+No before-state evidence is required.
+No backup requirement is named.
+No approval checkpoint is named before file changes.
+No exact pass judge evidence is named.
+
+Authority issues:
+Major authority leak. The helper can inspect, move, rename, delete, and rewrite files without a clear approval boundary.
+
+Done/PASS issues:
+Done means cleanup finished.
+PASS means the folder looks better.
+That is dirty because PASS depends on subjective appearance instead of evidence.
+
+Failure/recovery issues:
+Failure says try a different cleanup, which could make damage worse.
+Recovery says undo if something important is missing, but no backup or before-state proof is required.
+
+Next clean state:
+Reject this as a clean seed until the authority boundary is repaired.
+
+Smallest clean next action:
+Change the route to inspect-only first. Require before-state evidence, user approval, backup, and a written plan before any move, rename, delete, or rewrite action.

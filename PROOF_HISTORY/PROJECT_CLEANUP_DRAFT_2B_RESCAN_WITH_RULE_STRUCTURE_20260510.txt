@@ -1,0 +1,3277 @@
+PROJECT CLEANUP DRAFT 2B — RESCAN USING APPROVED RULE STRUCTURE
+
+Status:
+Metadata-only rescan using approved Draft 2A rule structure. No real cleanup performed.
+
+1. Source-of-truth read order confirmation
+CURRENT_TRUTH_INDEX.txt read first: YES
+AGENTS.md read second: YES
+PROJECT_CLEANUP_DRAFT_1_SORTING_PLAN_20260510.txt read: YES
+PROJECT_CLEANUP_DRAFT_2A_RULE_STRUCTURE_20260510.txt read: YES
+
+2. Draft 2A rule structure applied
+Applied cleanup cycle: SEE -> SORT -> COMPARE -> JUDGE -> PLAN -> APPROVE -> ACT -> VERIFY -> CLOSE
+Applied rule: metadata-only rescan, one lane per visible item, real actions blocked behind gates.
+No file contents were read except the approved source files listed in the read order.
+No duplicate folders were compared and no hash comparison was performed.
+
+3. Active source lane
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+Item type: 
+FOLDER
+Assigned lane: 
+ACTIVE_SOURCE
+Lane reason: 
+Active protected source folder.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+ACTIVE_GUIDE / PROOF_HISTORY
+Allowed next review gate: 
+NONE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES
+Item type: 
+FOLDER
+Assigned lane: 
+ACTIVE_GUIDE
+Lane reason: 
+Active guide folder named by CURRENT_TRUTH_INDEX.
+Neighbor before: 
+ACTIVE_SOURCE
+Neighbor after: 
+CURRENT_TRUTH_OR_BRIDGE_RULE / PROOF_HISTORY
+Allowed next review gate: 
+ACTIVE_GUIDE_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\AGENTS.md
+Item type: 
+FILE
+Assigned lane: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Lane reason: 
+Current truth or local bridge rule file.
+Neighbor before: 
+ACTIVE_SOURCE
+Neighbor after: 
+ACTIVE_GUIDE / PROOF_HISTORY
+Allowed next review gate: 
+NONE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\CURRENT_TRUTH_INDEX.txt
+Item type: 
+FILE
+Assigned lane: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Lane reason: 
+Current truth or local bridge rule file.
+Neighbor before: 
+ACTIVE_SOURCE
+Neighbor after: 
+ACTIVE_GUIDE / PROOF_HISTORY
+Allowed next review gate: 
+NONE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\LIVE_SEED_TEST_001
+Item type: 
+FOLDER
+Assigned lane: 
+STAGING_OR_TEMP
+Lane reason: 
+Live-test evidence lane; not active doctrine.
+Neighbor before: 
+UNKNOWN_NEEDS_REVIEW
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+UNKNOWN_ITEM_REVIEW_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY
+Item type: 
+FOLDER
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Support proof/history folder named by CURRENT_TRUTH_INDEX.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+4. Active guide lane
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt
+Item type: 
+FILE
+Assigned lane: 
+ACTIVE_GUIDE
+Lane reason: 
+Active guide file in ACTIVE_GUIDES.
+Neighbor before: 
+ACTIVE_SOURCE
+Neighbor after: 
+CURRENT_TRUTH_OR_BRIDGE_RULE / PROOF_HISTORY
+Allowed next review gate: 
+ACTIVE_GUIDE_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt
+Item type: 
+FILE
+Assigned lane: 
+ACTIVE_GUIDE
+Lane reason: 
+Active guide file in ACTIVE_GUIDES.
+Neighbor before: 
+ACTIVE_SOURCE
+Neighbor after: 
+CURRENT_TRUTH_OR_BRIDGE_RULE / PROOF_HISTORY
+Allowed next review gate: 
+ACTIVE_GUIDE_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES\README_START_HERE.txt
+Item type: 
+FILE
+Assigned lane: 
+ACTIVE_GUIDE
+Lane reason: 
+Active guide file in ACTIVE_GUIDES.
+Neighbor before: 
+ACTIVE_SOURCE
+Neighbor after: 
+CURRENT_TRUTH_OR_BRIDGE_RULE / PROOF_HISTORY
+Allowed next review gate: 
+ACTIVE_GUIDE_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+5. Current truth / bridge rule lane
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\AGENTS.md
+Item type: 
+FILE
+Assigned lane: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Lane reason: 
+Current truth or local bridge rule file.
+Neighbor before: 
+ACTIVE_SOURCE
+Neighbor after: 
+ACTIVE_GUIDE / PROOF_HISTORY
+Allowed next review gate: 
+NONE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\CURRENT_TRUTH_INDEX.txt
+Item type: 
+FILE
+Assigned lane: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Lane reason: 
+Current truth or local bridge rule file.
+Neighbor before: 
+ACTIVE_SOURCE
+Neighbor after: 
+ACTIVE_GUIDE / PROOF_HISTORY
+Allowed next review gate: 
+NONE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+6. Proof history lane
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY
+Item type: 
+FOLDER
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Support proof/history folder named by CURRENT_TRUTH_INDEX.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BACKUP_ACTIVE_GUIDES_BEFORE_CURRENT_IDEA_PLACEMENT_20260510
+Item type: 
+FOLDER
+Assigned lane: 
+BACKUP
+Lane reason: 
+Backup folder in PROOF_HISTORY.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+LIKELY_DUPLICATE_NEEDS_HASH_COMPARE
+Allowed next review gate: 
+HASH_COMPARE
+Proposed next action: 
+COMPARE_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BACKUP_BEFORE_COMMAND_MAP_HOUSEKEEPING_LOCK_20260509_203930
+Item type: 
+FOLDER
+Assigned lane: 
+SCRIPT_OR_COMMAND_BLOCKED
+Lane reason: 
+Script/command-looking name or extension; execution is blocked.
+Neighbor before: 
+SHORTCUT_BLOCKED / ZIP_BLOCKED
+Neighbor after: 
+BLOCKED_ITEM_GATE
+Allowed next review gate: 
+BLOCKED_ITEM_GATE
+Proposed next action: 
+BLOCK
+Risk level: 
+HIGH
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BACKUP_BEFORE_SCOPE_STATE_TRIGGER_LOCK
+Item type: 
+FOLDER
+Assigned lane: 
+BACKUP
+Lane reason: 
+Backup folder in PROOF_HISTORY.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+LIKELY_DUPLICATE_NEEDS_HASH_COMPARE
+Allowed next review gate: 
+HASH_COMPARE
+Proposed next action: 
+COMPARE_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BACKUP_CURRENT_TRUTH_INDEX_BEFORE_HEAL_BEFORE_UPGRADE_20260509_205618.txt
+Item type: 
+FILE
+Assigned lane: 
+BACKUP
+Lane reason: 
+Backup proof item.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+LIKELY_DUPLICATE_NEEDS_HASH_COMPARE
+Allowed next review gate: 
+HASH_COMPARE
+Proposed next action: 
+COMPARE_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\CAPTURE_FILTER_RULE_CLUSTER_20260510_001616.txt
+Item type: 
+FILE
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof-history guidance or proof artifact.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\CLEAN_MILK_FOLDER_COMPARE_REPORT.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\CLEANSEED_SHORT_REPORT.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\CLEANSEED_SORT_REPORT_20260509_190847.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\CLOSED_LOOP_VERIFICATION_BOARD_SCOPE_STATE_TRIGGER_LOCK.txt
+Item type: 
+FILE
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof-history guidance or proof artifact.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\CURRENT_IDEA_PLACEMENT_MAP_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\CURRENT_TRUTH_INDEX_COMMAND_MAP_HOUSEKEEPING_LOCK.txt
+Item type: 
+FILE
+Assigned lane: 
+SCRIPT_OR_COMMAND_BLOCKED
+Lane reason: 
+Script/command-looking name or extension; execution is blocked.
+Neighbor before: 
+SHORTCUT_BLOCKED / ZIP_BLOCKED
+Neighbor after: 
+BLOCKED_ITEM_GATE
+Allowed next review gate: 
+BLOCKED_ITEM_GATE
+Proposed next action: 
+BLOCK
+Risk level: 
+HIGH
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\CYCLE_PAIRING_AND_RESPECT_NEIGHBOR_MAP_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DEEP_CLEAN_REPORT_SCOPE_STATE_TRIGGER_LOCK.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DEEP_CLEAN_SUPPORT_PROOF_CHECKPOINT_20260510_010947.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DESKTOP_CAPTURED_FILE_ROLE_CLASSIFICATION_20260510_004023.txt
+Item type: 
+FILE
+Assigned lane: 
+UNKNOWN_NEEDS_REVIEW
+Lane reason: 
+Proof-history item role cannot be proven from name alone.
+Neighbor before: 
+SORT
+Neighbor after: 
+CONTENT_REVIEW
+Allowed next review gate: 
+UNKNOWN_ITEM_REVIEW_GATE
+Proposed next action: 
+USER_DECISION
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DESKTOP_CAPTURED_FILE_ROLE_REVIEW_20260510_003910.txt
+Item type: 
+FILE
+Assigned lane: 
+UNKNOWN_NEEDS_REVIEW
+Lane reason: 
+Proof-history item role cannot be proven from name alone.
+Neighbor before: 
+SORT
+Neighbor after: 
+CONTENT_REVIEW
+Allowed next review gate: 
+UNKNOWN_ITEM_REVIEW_GATE
+Proposed next action: 
+USER_DECISION
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DESKTOP_CLEANUP_ARCHIVE_20260509
+Item type: 
+FOLDER
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof/history folder requiring later role review.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DESKTOP_MIRROR_FUTURE_CHAT_DROP_IN_RULE_RECEIPT.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DESKTOP_MIRROR_FUTURE_CHAT_DROP_IN_RULE.txt
+Item type: 
+FILE
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof-history guidance or proof artifact.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DESKTOP_MIRROR_RECEIPT_20260509_172331.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DESKTOP_NEEDS_REVIEW_FOLDER_CLASSIFICATION_20260510_004247.txt
+Item type: 
+FILE
+Assigned lane: 
+UNKNOWN_NEEDS_REVIEW
+Lane reason: 
+Proof-history item role cannot be proven from name alone.
+Neighbor before: 
+SORT
+Neighbor after: 
+CONTENT_REVIEW
+Allowed next review gate: 
+UNKNOWN_ITEM_REVIEW_GATE
+Proposed next action: 
+USER_DECISION
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DESKTOP_NEEDS_REVIEW_FOLDER_TOP_CONTENTS_20260510_004142.txt
+Item type: 
+FILE
+Assigned lane: 
+UNKNOWN_NEEDS_REVIEW
+Lane reason: 
+Proof-history item role cannot be proven from name alone.
+Neighbor before: 
+SORT
+Neighbor after: 
+CONTENT_REVIEW
+Allowed next review gate: 
+UNKNOWN_ITEM_REVIEW_GATE
+Proposed next action: 
+USER_DECISION
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DESKTOP_NEEDS_REVIEW_TOP_ONLY_20260510_003630.txt
+Item type: 
+FILE
+Assigned lane: 
+UNKNOWN_NEEDS_REVIEW
+Lane reason: 
+Proof-history item role cannot be proven from name alone.
+Neighbor before: 
+SORT
+Neighbor after: 
+CONTENT_REVIEW
+Allowed next review gate: 
+UNKNOWN_ITEM_REVIEW_GATE
+Proposed next action: 
+USER_DECISION
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DESKTOP_TOP_FILE_GOLD_CAPTURE_20260510_003819
+Item type: 
+FOLDER
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof/history folder requiring later role review.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DESKTOP_TOP_LEVEL_CLASSIFICATION_NO_ACTION_20260510_003534.txt
+Item type: 
+FILE
+Assigned lane: 
+UNKNOWN_NEEDS_REVIEW
+Lane reason: 
+Proof-history item role cannot be proven from name alone.
+Neighbor before: 
+SORT
+Neighbor after: 
+CONTENT_REVIEW
+Allowed next review gate: 
+UNKNOWN_ITEM_REVIEW_GATE
+Proposed next action: 
+USER_DECISION
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DESKTOP_TOP_LEVEL_INVENTORY_NO_ACTION_20260510_003438.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\EVIDENCE_ARCHIVE_MANIFEST_COMMAND_MAP_HOUSEKEEPING_LOCK.txt
+Item type: 
+FILE
+Assigned lane: 
+SCRIPT_OR_COMMAND_BLOCKED
+Lane reason: 
+Script/command-looking name or extension; execution is blocked.
+Neighbor before: 
+SHORTCUT_BLOCKED / ZIP_BLOCKED
+Neighbor after: 
+BLOCKED_ITEM_GATE
+Allowed next review gate: 
+BLOCKED_ITEM_GATE
+Proposed next action: 
+BLOCK
+Risk level: 
+HIGH
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\EVIDENCE_ARCHIVE_MANIFEST.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\EVIDENCE_CRIME_SCENE_RULE_SET_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof-history guidance or proof artifact.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\FIRST_ADD_FILE_INTAKE_DIRTY_MILK_RULE_RECEIPT.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\FIRST_ADD_FILE_INTAKE_DIRTY_MILK_RULE.txt
+Item type: 
+FILE
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof-history guidance or proof artifact.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\FIXING_LANGUAGE_AND_OLD_REPAIR_JARGON_RULE_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof-history guidance or proof artifact.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\FOLDER_CONTAINER_COUNT_CHECK_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\FUTURE_CHAT_RELOAD_THREE_FILE_INTAKE_RULE_RECEIPT.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\FUTURE_CHAT_RELOAD_THREE_FILE_INTAKE_RULE.txt
+Item type: 
+FILE
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof-history guidance or proof artifact.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\GOLD_PAN_INDEX_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\GOLD_PAN_INDEX_REPAIRED_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\GOLD_RECOVERY_RULE_STACK_AND_CHAT_CHECKPOINT_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\GOLD_RECOVERY_TRAY_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof-history guidance or proof artifact.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\GOLD_REFLECTION_ASSISTANT_SELF_CAPTURE_SCAN_RECEIPT.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\GOLD_REFLECTION_ASSISTANT_SELF_CAPTURE_SCAN.txt
+Item type: 
+FILE
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof-history guidance or proof artifact.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\HEAL_BEFORE_UPGRADE_NO_SCAR_LAYER.txt
+Item type: 
+FILE
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof-history guidance or proof artifact.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\JOB_ASSEMBLY_LINE_AND_OLD_NEW_JUDGMENT_METHOD_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof-history guidance or proof artifact.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\LEGACY_SAVEPOINT_GOLD_CAPTURE_20260510_002253.txt
+Item type: 
+FILE
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof-history guidance or proof artifact.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\LOCAL_SAVE_ORDER_RECEIPT.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\LOCAL_SAVE_RULE_NO_MEMORY_ONLY.txt
+Item type: 
+FILE
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof-history guidance or proof artifact.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\MANUAL_LANE_DELETE_READINESS_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\MANUAL_LANE_VS_QUARANTINE_COMPARISON_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\MIRROR_LAW_AND_RESPECT_NEIGHBOR_RULES_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof-history guidance or proof artifact.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\MISC_UNPLACED_IDEA_PILE_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+UNKNOWN_NEEDS_REVIEW
+Lane reason: 
+Proof-history item role cannot be proven from name alone.
+Neighbor before: 
+SORT
+Neighbor after: 
+CONTENT_REVIEW
+Allowed next review gate: 
+UNKNOWN_ITEM_REVIEW_GATE
+Proposed next action: 
+USER_DECISION
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\OLDSCHOOL_INTAKE_MAP_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\ONE_HAND_GOLD_HANDLING_RULE_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof-history guidance or proof artifact.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PATCH_RECEIPT_COMMAND_MAP_HOUSEKEEPING_LOCK.txt
+Item type: 
+FILE
+Assigned lane: 
+SCRIPT_OR_COMMAND_BLOCKED
+Lane reason: 
+Script/command-looking name or extension; execution is blocked.
+Neighbor before: 
+SHORTCUT_BLOCKED / ZIP_BLOCKED
+Neighbor after: 
+BLOCKED_ITEM_GATE
+Allowed next review gate: 
+BLOCKED_ITEM_GATE
+Proposed next action: 
+BLOCK
+Risk level: 
+HIGH
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PATCH_RECEIPT_PROOF_LEDGER_LOCK.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PATCH_RECEIPT_SCOPE_STATE_TRIGGER_LOCK.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\POST_CLEANUP_LOCK_VERIFY_20260510_002815.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\POST_DELETE_CLEANUP_CLOSURE_VERIFY_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PRE_DELETE_GOLD_CAPTURE_RULE_20260510_003359.txt
+Item type: 
+FILE
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof-history guidance or proof artifact.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PRE_RUN_INSTALLER_FILE_EXISTENCE_GATE.txt
+Item type: 
+FILE
+Assigned lane: 
+UNKNOWN_NEEDS_REVIEW
+Lane reason: 
+Proof-history item role cannot be proven from name alone.
+Neighbor before: 
+SORT
+Neighbor after: 
+CONTENT_REVIEW
+Allowed next review gate: 
+UNKNOWN_ITEM_REVIEW_GATE
+Proposed next action: 
+USER_DECISION
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PROJECT_CLEANUP_DRAFT_1_SORTING_PLAN_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PROJECT_CLEANUP_DRAFT_2A_RULE_STRUCTURE_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PROTECTED_NAME_GUARD_BEFORE_CLEANUP_20260510_000854.txt
+Item type: 
+FILE
+Assigned lane: 
+UNKNOWN_NEEDS_REVIEW
+Lane reason: 
+Proof-history item role cannot be proven from name alone.
+Neighbor before: 
+SORT
+Neighbor after: 
+CONTENT_REVIEW
+Allowed next review gate: 
+UNKNOWN_ITEM_REVIEW_GATE
+Proposed next action: 
+USER_DECISION
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\README_ACTIVE_VS_ITEM_0124_TIMELINE_DRIFT_LEDGER_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\README_FAMILY_GOLD_EXTRACTION_WAVE_1_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof-history guidance or proof artifact.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_CODEX_LOCAL_BRIDGE_AGENTS_SETUP.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_CURRENT_IDEA_PLACEMENT_ACTIVE_GUIDE_UPDATE_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_CYCLE_PAIRING_AND_RESPECT_NEIGHBOR_MAP_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_DELETE_EXACT_ROOT_LIST_20260510_002505.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_DESKTOP_CLEANUP_NO_DELETE_20260509.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_DESKTOP_TOP_FILE_GOLD_CAPTURE_20260510_003819.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_EVIDENCE_CRIME_SCENE_RULE_SET_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_FISH_CURRENT_FILES_FOR_CHAT_DROP_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_FIXING_LANGUAGE_AND_OLD_REPAIR_JARGON_RULE_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_GOLD_RECOVERY_TRAY_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_HEAL_BEFORE_UPGRADE_NO_SCAR_LAYER.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_JOB_ASSEMBLY_LINE_AND_OLD_NEW_JUDGMENT_METHOD_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_MANUAL_LANE_TARGETED_DELETE_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_MIRROR_LAW_AND_RESPECT_NEIGHBOR_RULES_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_OLDSCHOOL_INTAKE_AND_CHECKPOINT_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_ONE_HAND_GOLD_HANDLING_RULE_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_PROJECT_CLEANUP_DRAFT_1_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_PROJECT_CLEANUP_DRAFT_2A_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_RECYCLE_BIN_TARGETED_CLEAR_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_ROOT_PROOF_CAPTURE_BEFORE_CLEANUP.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_SORTING_RULES_FAMILY_TREE_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECENT_CLEAN_SEED_RULES_LOCAL_LOCK_RECEIPT.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECENT_CLEAN_SEED_RULES_LOCAL_LOCK.txt
+Item type: 
+FILE
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof-history guidance or proof artifact.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECYCLE_BIN_QUARANTINE_20260510
+Item type: 
+FOLDER
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Protected quarantine proof folder.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECYCLE_BIN_QUARANTINE_RECOVERY_PLAN_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RESIDUE_AND_MANUAL_LANE_INVENTORY_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\ROOT_CLEANUP_CANDIDATE_LIST_NO_ACTION.txt
+Item type: 
+FILE
+Assigned lane: 
+UNKNOWN_NEEDS_REVIEW
+Lane reason: 
+Proof-history item role cannot be proven from name alone.
+Neighbor before: 
+SORT
+Neighbor after: 
+CONTENT_REVIEW
+Allowed next review gate: 
+UNKNOWN_ITEM_REVIEW_GATE
+Proposed next action: 
+USER_DECISION
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\SAVE_REGROUP_CHECKPOINT_BEFORE_DELETE_DECISION_20260510_000655.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\SCOPE_STATE_TRIGGER_LOCK_REVIEW_PACKET_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\SORTING_RULES_FAMILY_TREE_20260510.txt
+Item type: 
+FILE
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof-history guidance or proof artifact.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\USER_ASSISTANT_BRIDGE_JUDGEABLE_ACCEPTANCE_RECEIPT.txt
+Item type: 
+FILE
+Assigned lane: 
+RECEIPT
+Lane reason: 
+Receipt proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+MAP_OR_LEDGER
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\USER_ASSISTANT_BRIDGE_JUDGEABLE_ACCEPTANCE.txt
+Item type: 
+FILE
+Assigned lane: 
+PROOF_HISTORY
+Lane reason: 
+Proof-history guidance or proof artifact.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+RECEIPT / MAP_OR_LEDGER / BACKUP
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\VERIFY_AFTER_DELETE_EXACT_ROOT_LIST_20260510_002703.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Map, ledger, report, check, inventory, or draft proof file.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+7. OldSchool relic/source-ore lane
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool
+Item type: 
+FOLDER
+Assigned lane: 
+RELIC_SOURCE_ORE
+Lane reason: 
+Known OldSchool source-ore folder.
+Neighbor before: 
+PROOF_HISTORY intake map
+Neighbor after: 
+LOCALBOT_OR_OLDBOT / IMAGE_REFERENCE / SHORTCUT_BLOCKED
+Allowed next review gate: 
+OLDSCHOOL_SOURCE_ORE_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_04 AM (1).png
+Item type: 
+FILE
+Assigned lane: 
+IMAGE_REFERENCE
+Lane reason: 
+OldSchool image reference, metadata only.
+Neighbor before: 
+RELIC_SOURCE_ORE
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+CONTENT_REVIEW
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_05 AM (2).png
+Item type: 
+FILE
+Assigned lane: 
+IMAGE_REFERENCE
+Lane reason: 
+OldSchool image reference, metadata only.
+Neighbor before: 
+RELIC_SOURCE_ORE
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+CONTENT_REVIEW
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_05 AM (3).png
+Item type: 
+FILE
+Assigned lane: 
+IMAGE_REFERENCE
+Lane reason: 
+OldSchool image reference, metadata only.
+Neighbor before: 
+RELIC_SOURCE_ORE
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+CONTENT_REVIEW
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_05 AM (4).png
+Item type: 
+FILE
+Assigned lane: 
+IMAGE_REFERENCE
+Lane reason: 
+OldSchool image reference, metadata only.
+Neighbor before: 
+RELIC_SOURCE_ORE
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+CONTENT_REVIEW
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_05 AM (5).png
+Item type: 
+FILE
+Assigned lane: 
+IMAGE_REFERENCE
+Lane reason: 
+OldSchool image reference, metadata only.
+Neighbor before: 
+RELIC_SOURCE_ORE
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+CONTENT_REVIEW
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_06 AM (6).png
+Item type: 
+FILE
+Assigned lane: 
+IMAGE_REFERENCE
+Lane reason: 
+OldSchool image reference, metadata only.
+Neighbor before: 
+RELIC_SOURCE_ORE
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+CONTENT_REVIEW
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_06 AM (7).png
+Item type: 
+FILE
+Assigned lane: 
+IMAGE_REFERENCE
+Lane reason: 
+OldSchool image reference, metadata only.
+Neighbor before: 
+RELIC_SOURCE_ORE
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+CONTENT_REVIEW
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_06 AM (8).png
+Item type: 
+FILE
+Assigned lane: 
+IMAGE_REFERENCE
+Lane reason: 
+OldSchool image reference, metadata only.
+Neighbor before: 
+RELIC_SOURCE_ORE
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+CONTENT_REVIEW
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_06 AM (9).png
+Item type: 
+FILE
+Assigned lane: 
+IMAGE_REFERENCE
+Lane reason: 
+OldSchool image reference, metadata only.
+Neighbor before: 
+RELIC_SOURCE_ORE
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+CONTENT_REVIEW
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 12_10_29 AM.png
+Item type: 
+FILE
+Assigned lane: 
+IMAGE_REFERENCE
+Lane reason: 
+OldSchool image reference, metadata only.
+Neighbor before: 
+RELIC_SOURCE_ORE
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+CONTENT_REVIEW
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\CLEAN_SEED_ALIGNMENT_CHECK.txt
+Item type: 
+FILE
+Assigned lane: 
+RELIC_SOURCE_ORE
+Lane reason: 
+OldSchool relic/source-ore active-guide-looking or core-looking item.
+Neighbor before: 
+PROOF_HISTORY intake map
+Neighbor after: 
+LOCALBOT_OR_OLDBOT / IMAGE_REFERENCE / SHORTCUT_BLOCKED
+Allowed next review gate: 
+OLDSCHOOL_SOURCE_ORE_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\CLEAN_SEED_WRAP_GUIDE.txt
+Item type: 
+FILE
+Assigned lane: 
+RELIC_SOURCE_ORE
+Lane reason: 
+OldSchool relic/source-ore active-guide-looking or core-looking item.
+Neighbor before: 
+PROOF_HISTORY intake map
+Neighbor after: 
+LOCALBOT_OR_OLDBOT / IMAGE_REFERENCE / SHORTCUT_BLOCKED
+Allowed next review gate: 
+OLDSCHOOL_SOURCE_ORE_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\localbot_machine_evidence.md
+Item type: 
+FILE
+Assigned lane: 
+LOCALBOT_OR_OLDBOT
+Lane reason: 
+OldSchool LocalBot/OldBot-looking item.
+Neighbor before: 
+RELIC_SOURCE_ORE
+Neighbor after: 
+SHORTCUT_BLOCKED / UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+LOCALBOT_SEPARATION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\OLDBOT OVERBUILT
+Item type: 
+FOLDER
+Assigned lane: 
+LOCALBOT_OR_OLDBOT
+Lane reason: 
+OldSchool LocalBot/OldBot-looking item.
+Neighbor before: 
+RELIC_SOURCE_ORE
+Neighbor after: 
+SHORTCUT_BLOCKED / UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+LOCALBOT_SEPARATION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\README_START_HERE.txt
+Item type: 
+FILE
+Assigned lane: 
+RELIC_SOURCE_ORE
+Lane reason: 
+OldSchool relic/source-ore active-guide-looking or core-looking item.
+Neighbor before: 
+PROOF_HISTORY intake map
+Neighbor after: 
+LOCALBOT_OR_OLDBOT / IMAGE_REFERENCE / SHORTCUT_BLOCKED
+Allowed next review gate: 
+OLDSCHOOL_SOURCE_ORE_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\recursive_core_architecture.md
+Item type: 
+FILE
+Assigned lane: 
+RELIC_SOURCE_ORE
+Lane reason: 
+OldSchool relic/source-ore active-guide-looking or core-looking item.
+Neighbor before: 
+PROOF_HISTORY intake map
+Neighbor after: 
+LOCALBOT_OR_OLDBOT / IMAGE_REFERENCE / SHORTCUT_BLOCKED
+Allowed next review gate: 
+OLDSCHOOL_SOURCE_ORE_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\Slow Bot.lnk
+Item type: 
+SHORTCUT
+Assigned lane: 
+SHORTCUT_BLOCKED
+Lane reason: 
+Shortcut-like .lnk item; must remain inert.
+Neighbor before: 
+RELIC_SOURCE_ORE / LOCALBOT_OR_OLDBOT
+Neighbor after: 
+SCRIPT_OR_COMMAND_BLOCKED
+Allowed next review gate: 
+BLOCKED_ITEM_GATE
+Proposed next action: 
+BLOCK
+Risk level: 
+HIGH
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\SLOW_BOT_SETUP_README.txt
+Item type: 
+FILE
+Assigned lane: 
+LOCALBOT_OR_OLDBOT
+Lane reason: 
+OldSchool LocalBot/OldBot-looking item.
+Neighbor before: 
+RELIC_SOURCE_ORE
+Neighbor after: 
+SHORTCUT_BLOCKED / UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+LOCALBOT_SEPARATION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+8. Desktop project-looking items lane
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+Item type: 
+FOLDER
+Assigned lane: 
+ACTIVE_SOURCE
+Lane reason: 
+Active protected source folder.
+Neighbor before: 
+CURRENT_TRUTH_OR_BRIDGE_RULE
+Neighbor after: 
+ACTIVE_GUIDE / PROOF_HISTORY
+Allowed next review gate: 
+NONE
+Proposed next action: 
+LEAVE
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean_Milk_CHAT_DROP_CURRENT_STATE_20260510
+Item type: 
+FOLDER
+Assigned lane: 
+UPLOAD_PACKET
+Lane reason: 
+Chat-drop/upload copy packet, not active truth.
+Neighbor before: 
+ACTIVE_SOURCE
+Neighbor after: 
+LIKELY_DUPLICATE_NEEDS_HASH_COMPARE
+Allowed next review gate: 
+HASH_COMPARE
+Proposed next action: 
+COMPARE_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\CleanSeed PowerShell.lnk
+Item type: 
+SHORTCUT
+Assigned lane: 
+SHORTCUT_BLOCKED
+Lane reason: 
+Shortcut-like .lnk item; must remain inert.
+Neighbor before: 
+RELIC_SOURCE_ORE / LOCALBOT_OR_OLDBOT
+Neighbor after: 
+SCRIPT_OR_COMMAND_BLOCKED
+Allowed next review gate: 
+BLOCKED_ITEM_GATE
+Proposed next action: 
+BLOCK
+Risk level: 
+HIGH
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\DREAMFORGER_SUNO_SYMBOLIC_OUTPUT_FORENSICS_GUIDE.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Desktop project-looking report/guide/readme/map-like file; not active truth.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\in the name of Anyma.txt
+Item type: 
+FILE
+Assigned lane: 
+UNKNOWN_NEEDS_REVIEW
+Lane reason: 
+Desktop project-looking item matched by name but role is not proven.
+Neighbor before: 
+SORT
+Neighbor after: 
+CONTENT_REVIEW
+Allowed next review gate: 
+UNKNOWN_ITEM_REVIEW_GATE
+Proposed next action: 
+USER_DECISION
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\LOCALbot
+Item type: 
+FOLDER
+Assigned lane: 
+LOCALBOT_OR_OLDBOT
+Lane reason: 
+Desktop LocalBot-looking item kept separate from active guide truth.
+Neighbor before: 
+RELIC_SOURCE_ORE
+Neighbor after: 
+SHORTCUT_BLOCKED / UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+LOCALBOT_SEPARATION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\LOCALbot - Copy
+Item type: 
+FOLDER
+Assigned lane: 
+LIKELY_DUPLICATE_NEEDS_HASH_COMPARE
+Lane reason: 
+Copy-labeled LocalBot folder; duplicate status needs hash proof.
+Neighbor before: 
+Name/path similarity
+Neighbor after: 
+HASH_COMPARE
+Allowed next review gate: 
+HASH_COMPARE
+Proposed next action: 
+COMPARE_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\LOCALbot FALLBACK
+Item type: 
+FOLDER
+Assigned lane: 
+LOCALBOT_OR_OLDBOT
+Lane reason: 
+Desktop LocalBot-looking item kept separate from active guide truth.
+Neighbor before: 
+RELIC_SOURCE_ORE
+Neighbor after: 
+SHORTCUT_BLOCKED / UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+LOCALBOT_SEPARATION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\LOCALbot_FILE_CHECK_REPORT.txt
+Item type: 
+FILE
+Assigned lane: 
+LOCALBOT_OR_OLDBOT
+Lane reason: 
+Desktop LocalBot-looking item kept separate from active guide truth.
+Neighbor before: 
+RELIC_SOURCE_ORE
+Neighbor after: 
+SHORTCUT_BLOCKED / UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+LOCALBOT_SEPARATION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\LOCALbot_HANDOFF_STACK_CHECK_REPORT.txt
+Item type: 
+FILE
+Assigned lane: 
+LOCALBOT_OR_OLDBOT
+Lane reason: 
+Desktop LocalBot-looking item kept separate from active guide truth.
+Neighbor before: 
+RELIC_SOURCE_ORE
+Neighbor after: 
+SHORTCUT_BLOCKED / UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+LOCALBOT_SEPARATION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\localbotCMD.exe.lnk
+Item type: 
+SHORTCUT
+Assigned lane: 
+SHORTCUT_BLOCKED
+Lane reason: 
+Shortcut-like .lnk item; must remain inert.
+Neighbor before: 
+RELIC_SOURCE_ORE / LOCALBOT_OR_OLDBOT
+Neighbor after: 
+SCRIPT_OR_COMMAND_BLOCKED
+Allowed next review gate: 
+BLOCKED_ITEM_GATE
+Proposed next action: 
+BLOCK
+Risk level: 
+HIGH
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool
+Item type: 
+FOLDER
+Assigned lane: 
+RELIC_SOURCE_ORE
+Lane reason: 
+Known OldSchool source-ore folder.
+Neighbor before: 
+PROOF_HISTORY intake map
+Neighbor after: 
+LOCALBOT_OR_OLDBOT / IMAGE_REFERENCE / SHORTCUT_BLOCKED
+Allowed next review gate: 
+OLDSCHOOL_SOURCE_ORE_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\VISUAL_STUDIO_CODE_BOT_SETUP_README.txt
+Item type: 
+FILE
+Assigned lane: 
+MAP_OR_LEDGER
+Lane reason: 
+Desktop project-looking report/guide/readme/map-like file; not active truth.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+UNKNOWN_NEEDS_REVIEW
+Allowed next review gate: 
+PROOF_HISTORY_PROTECTION_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+LOW
+Exact user approval required before any real action: YES
+
+9. Blocked items lane
+Item:
+Exact path: 
+C:\Users\13527\Desktop\CleanSeed PowerShell.lnk
+Item type: 
+SHORTCUT
+Assigned lane: 
+SHORTCUT_BLOCKED
+Lane reason: 
+Shortcut-like .lnk item; must remain inert.
+Neighbor before: 
+RELIC_SOURCE_ORE / LOCALBOT_OR_OLDBOT
+Neighbor after: 
+SCRIPT_OR_COMMAND_BLOCKED
+Allowed next review gate: 
+BLOCKED_ITEM_GATE
+Proposed next action: 
+BLOCK
+Risk level: 
+HIGH
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\localbotCMD.exe.lnk
+Item type: 
+SHORTCUT
+Assigned lane: 
+SHORTCUT_BLOCKED
+Lane reason: 
+Shortcut-like .lnk item; must remain inert.
+Neighbor before: 
+RELIC_SOURCE_ORE / LOCALBOT_OR_OLDBOT
+Neighbor after: 
+SCRIPT_OR_COMMAND_BLOCKED
+Allowed next review gate: 
+BLOCKED_ITEM_GATE
+Proposed next action: 
+BLOCK
+Risk level: 
+HIGH
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\Slow Bot.lnk
+Item type: 
+SHORTCUT
+Assigned lane: 
+SHORTCUT_BLOCKED
+Lane reason: 
+Shortcut-like .lnk item; must remain inert.
+Neighbor before: 
+RELIC_SOURCE_ORE / LOCALBOT_OR_OLDBOT
+Neighbor after: 
+SCRIPT_OR_COMMAND_BLOCKED
+Allowed next review gate: 
+BLOCKED_ITEM_GATE
+Proposed next action: 
+BLOCK
+Risk level: 
+HIGH
+Exact user approval required before any real action: YES
+
+10. Unknown / needs-review lane
+Item:
+Exact path: 
+C:\Users\13527\Desktop\in the name of Anyma.txt
+Item type: 
+FILE
+Assigned lane: 
+UNKNOWN_NEEDS_REVIEW
+Lane reason: 
+Desktop project-looking item matched by name but role is not proven.
+Neighbor before: 
+SORT
+Neighbor after: 
+CONTENT_REVIEW
+Allowed next review gate: 
+UNKNOWN_ITEM_REVIEW_GATE
+Proposed next action: 
+USER_DECISION
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+
+11. Likely duplicate / needs-hash-compare lane
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BACKUP_ACTIVE_GUIDES_BEFORE_CURRENT_IDEA_PLACEMENT_20260510
+Item type: 
+FOLDER
+Assigned lane: 
+BACKUP
+Lane reason: 
+Backup folder in PROOF_HISTORY.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+LIKELY_DUPLICATE_NEEDS_HASH_COMPARE
+Allowed next review gate: 
+HASH_COMPARE
+Proposed next action: 
+COMPARE_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BACKUP_BEFORE_COMMAND_MAP_HOUSEKEEPING_LOCK_20260509_203930
+Item type: 
+FOLDER
+Assigned lane: 
+SCRIPT_OR_COMMAND_BLOCKED
+Lane reason: 
+Script/command-looking name or extension; execution is blocked.
+Neighbor before: 
+SHORTCUT_BLOCKED / ZIP_BLOCKED
+Neighbor after: 
+BLOCKED_ITEM_GATE
+Allowed next review gate: 
+BLOCKED_ITEM_GATE
+Proposed next action: 
+BLOCK
+Risk level: 
+HIGH
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BACKUP_BEFORE_SCOPE_STATE_TRIGGER_LOCK
+Item type: 
+FOLDER
+Assigned lane: 
+BACKUP
+Lane reason: 
+Backup folder in PROOF_HISTORY.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+LIKELY_DUPLICATE_NEEDS_HASH_COMPARE
+Allowed next review gate: 
+HASH_COMPARE
+Proposed next action: 
+COMPARE_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BACKUP_CURRENT_TRUTH_INDEX_BEFORE_HEAL_BEFORE_UPGRADE_20260509_205618.txt
+Item type: 
+FILE
+Assigned lane: 
+BACKUP
+Lane reason: 
+Backup proof item.
+Neighbor before: 
+PROOF_HISTORY
+Neighbor after: 
+LIKELY_DUPLICATE_NEEDS_HASH_COMPARE
+Allowed next review gate: 
+HASH_COMPARE
+Proposed next action: 
+COMPARE_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\LOCALbot - Copy
+Item type: 
+FOLDER
+Assigned lane: 
+LIKELY_DUPLICATE_NEEDS_HASH_COMPARE
+Lane reason: 
+Copy-labeled LocalBot folder; duplicate status needs hash proof.
+Neighbor before: 
+Name/path similarity
+Neighbor after: 
+HASH_COMPARE
+Allowed next review gate: 
+HASH_COMPARE
+Proposed next action: 
+COMPARE_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\CLEAN_SEED_ALIGNMENT_CHECK.txt
+Item type: 
+FILE
+Assigned lane: 
+RELIC_SOURCE_ORE
+Lane reason: 
+OldSchool relic/source-ore active-guide-looking or core-looking item.
+Neighbor before: 
+PROOF_HISTORY intake map
+Neighbor after: 
+LOCALBOT_OR_OLDBOT / IMAGE_REFERENCE / SHORTCUT_BLOCKED
+Allowed next review gate: 
+OLDSCHOOL_SOURCE_ORE_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\CLEAN_SEED_WRAP_GUIDE.txt
+Item type: 
+FILE
+Assigned lane: 
+RELIC_SOURCE_ORE
+Lane reason: 
+OldSchool relic/source-ore active-guide-looking or core-looking item.
+Neighbor before: 
+PROOF_HISTORY intake map
+Neighbor after: 
+LOCALBOT_OR_OLDBOT / IMAGE_REFERENCE / SHORTCUT_BLOCKED
+Allowed next review gate: 
+OLDSCHOOL_SOURCE_ORE_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+Item:
+Exact path: 
+C:\Users\13527\Desktop\OldSchool\README_START_HERE.txt
+Item type: 
+FILE
+Assigned lane: 
+RELIC_SOURCE_ORE
+Lane reason: 
+OldSchool relic/source-ore active-guide-looking or core-looking item.
+Neighbor before: 
+PROOF_HISTORY intake map
+Neighbor after: 
+LOCALBOT_OR_OLDBOT / IMAGE_REFERENCE / SHORTCUT_BLOCKED
+Allowed next review gate: 
+OLDSCHOOL_SOURCE_ORE_GATE
+Proposed next action: 
+REVIEW_LATER
+Risk level: 
+MEDIUM
+Exact user approval required before any real action: YES
+
+12. Proposed next draft choices
+A. Draft 2C — Hash compare only likely duplicates.
+B. Draft 2C — Unknown item content-review plan only.
+C. Draft 2C — Proof-history exact role map only.
+D. Hold and review Draft 2B before writing anything else.
+
+Cleanest next choice recommendation: D. Hold and review Draft 2B before writing anything else.
+Reason: Draft 2B contains a large lane map. Reviewing it first prevents premature compare, archive, park, delete, or cleanup pressure.
+
+13. Good milk review questions
+- Did the rescan obey Draft 2A? YES
+- Did each item get one lane? YES
+- Did each lane keep its neighbor boundary? YES
+- Was anything treated as duplicate without hash proof? NO
+- Was anything treated as trash? NO
+- Was any source-ore promoted? NO
+- Was any proof/history compressed into vague memory? NO
+- Were all real actions blocked behind approval gates? YES
+- Is the next draft choice obvious and bounded? YES
+
+14. Safety confirmation
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+OldSchool changed: NO
+OldSchool deeper content inspected: NO
+Duplicate folders compared: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Existing files overwritten: NO
+Files archived: NO
+Files parked: NO
+Files promoted: NO
+Scripts run: NO
+Zip files extracted: NO
+Shortcuts executed: NO
+Real cleanup performed: NO

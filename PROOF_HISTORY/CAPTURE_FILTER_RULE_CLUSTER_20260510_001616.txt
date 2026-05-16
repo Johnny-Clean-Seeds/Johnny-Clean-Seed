@@ -1,0 +1,36 @@
+﻿CAPTURE / FILTER RULE CLUSTER
+Timestamp: 2026-05-10 00:16:16
+Root: C:\Users\13527\Desktop\Clean Milk not-BLOAT
+Proof folder: C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY
+
+Purpose:
+Lock recent capture-protection rules so they are not lost to chat distance or compression.
+
+Rules captured:
+
+1. SELF-APPLICATION / SIMILAR-CONCEPT EXAMINATION
+After capturing any idea, rule, proof finding, or workflow correction, ask whether the concept also applies to what the assistant already does, what the project already does, or a similar existing lane.
+Classify as new rule, refinement, duplicate, conflict, unrecognized link, or generalization clue.
+
+2. MULTI-IDEA CAPTURE / TRIGGER INTEGRITY
+When more than one useful idea appears in a message, split them into separate captures, classify each, and check whether partner rules should trigger.
+If expected rules do not trigger, diagnose missing trigger wording, weak definition, conflict, overlap, bad placement, chat compression, or assistant failure to compare.
+
+3. BACKWARD GOLD SWEEP / COMPRESSION-DISTANCE REVIEW
+When asked to look back for missed gold, perform a bounded sweep of recent project-relevant chat, extract durable ideas/proof findings/workflow corrections, classify them, and avoid rehashing the whole chat.
+
+4. IDEA FILTER / BAD-IDEA VALUE
+Raw ideas are not dirty by default. Bad, weird, risky, wrong, or half-formed ideas can still be useful if filtered into the correct role.
+Possible roles: active rule, refinement, parked idea, rest stop, anti-pattern, risk case, counterexample, disproof test, evidence clue, metaphor-only, rejected, or blocked.
+The dirty move is letting an unfiltered idea affect active doctrine, commands, deletion, trust, files, or advice.
+
+State boundary:
+These are saved as support proof / capture rules in PROOF_HISTORY.
+They do not alter ACTIVE_GUIDES yet.
+They are active working behavior for this chat unless later rejected or superseded.
+
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Cleanup executed: NO
+NEXT_STATE=return to delete decision point or continue project work after user approval

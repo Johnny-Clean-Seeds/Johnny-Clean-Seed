@@ -1,0 +1,50 @@
+Patch receipt: Lock Save Send Rest Stop Word Rules
+Timestamp source: system UTC clock from container
+Timestamp: 2026-05-08T21:39:07.061368+00:00
+Active patch ID: CLEAN_SEED_PATCH_2026_05_08_LOCK_SAVE_SEND_REST_STOP_WORD_RULES
+Source package: /mnt/data/core_package_logic_seriousness_calibration
+Output package: /mnt/data/core_package_lock_save_send
+
+Purpose:
+Install the remaining Rest Stop word-control candidates and consolidate them into the active three-file package.
+
+Installed items:
+- Rest Stop / No Active Truth
+- Word Role / Term Collision
+- Word Variant Coverage / Best-Fit Term Selection
+- MAY MEAN Rule / Check
+- Command routes: Term check, Variant check, May mean check, Rest stop
+
+How applied:
+- README_START_HERE.txt: user-facing definitions, commands, and short explanation.
+- CLEAN_SEED_WRAP_GUIDE.txt: operating rules and command routes.
+- CLEAN_SEED_ALIGNMENT_CHECK.txt: matching checks and master-rule prompts.
+
+Files changed and hashes:
+- README_START_HERE.txt: sha256 245c478b66892eb07da512c6deb676f6d45468a9cfa9a2bc9a4f642667ddf9e9
+- CLEAN_SEED_WRAP_GUIDE.txt: sha256 bbfa7ffa0b0141935b60c04939db29551378c947fea39b896693ba354ca2c33c
+- CLEAN_SEED_ALIGNMENT_CHECK.txt: sha256 d07613935d9686b47fb595ba537892a0147f34ccf7084be1bc07f8e88e1d4c62
+
+Marker verification:
+- Rest Stop / No Active Truth: PASS
+- Word Role / Term Collision: PASS
+- Word Variant Coverage / Best-Fit Term Selection: PASS
+- MAY MEAN: PASS
+- Term check: PASS
+- Variant check: PASS
+- May mean check: PASS
+- Rest stop: PASS
+
+Startup pack count:
+- Three active guide files only.
+- This receipt and manifest are proof/history, not active guide files.
+
+Retired / previous state note:
+- Previous package remains as source/reference and was not overwritten.
+- This output package is the current corrected package for this patch.
+
+Verdict:
+PASS for targeted lock/save/send patch if all marker checks pass.
+
+Next clean state:
+Use the three guide files in this folder as the active core package. Keep receipt/manifest separate as proof/history.

@@ -1,0 +1,58 @@
+﻿CLEAN MILK CHECK REPORT
+
+Input checked:
+C:\CleanSeedsBuild\CleanMilkChecker\inputs\TEST_005_CUTOFF_INVALID_SEED_CARD.txt
+
+Verdict:
+INVALID
+
+What passed:
+The input has a name and partial home field.
+
+What failed:
+The mission is cut off.
+The input/output route is incomplete.
+The process field is blank.
+The Evidence Path / Proof Path field is blank.
+Done/PASS rule is missing.
+Pass judge is missing.
+Failure path is missing.
+Recovery path is missing.
+Authority boundary is missing.
+Does-Not-Do / Out-of-Bounds is missing.
+Parking lane is missing.
+Promotion rule is missing.
+Close condition is missing.
+
+Dirty milk:
+The checker cannot safely infer missing fields from a cut-off input.
+
+Bloat:
+No bloat can be judged because the input is incomplete.
+
+Missing evidence:
+Most required seed fields are missing or incomplete.
+
+Authority issues:
+Authority cannot be judged because the authority boundary is missing.
+
+Done/PASS issues:
+Done and PASS cannot be judged because the field is missing.
+
+Failure/recovery issues:
+Failure and recovery cannot be judged because both fields are missing.
+
+Save/backup/sync issues:
+No save or backup issue found in the checked input. The issue is incomplete content.
+
+Order-of-operations issues:
+The checker must return INVALID before trying to repair or judge the seed.
+
+Rule-implied follow-through:
+The next required task is to capture evidence that the checker returned INVALID instead of guessing.
+
+Next clean state:
+Treat TEST 005 as the invalid-input proof case.
+
+Smallest clean next action:
+Save TEST 005 evidence, then judge whether Stage 1 has enough route proof to close.

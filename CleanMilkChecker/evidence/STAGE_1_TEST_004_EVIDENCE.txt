@@ -1,0 +1,35 @@
+﻿STAGE 1 EVIDENCE - TEST 004
+
+Active target:
+CleanMilkChecker
+
+Current stage:
+Stage 1 - Tiny Working Loop
+
+Action taken:
+Created unclear-authority test input and verdict report.
+
+Input:
+C:\CleanSeedsBuild\CleanMilkChecker\inputs\TEST_004_UNCLEAR_AUTHORITY_SEED_CARD.txt
+
+Prompt:
+C:\CleanSeedsBuild\CleanMilkChecker\prompts\CLEAN_MILK_CHECKER_PROMPT.txt
+
+Output:
+C:\CleanSeedsBuild\CleanMilkChecker\outputs\TEST_004_VERDICT_REPORT.txt
+
+Expected result:
+Checker identifies unclear authority, destructive file-change risk, weak evidence-before-action, weak backup/recovery, and subjective PASS wording.
+
+Actual result:
+Checker produced a FAIL verdict and named the authority leak clearly.
+
+Pass judge:
+User review.
+
+Verdict:
+PASS for TEST 004 route proof.
+PARTIAL for Stage 1 overall, because invalid-input testing is still needed before Stage 1 can close.
+
+Next clean state:
+Create TEST 005 for invalid or cut-off input so the checker proves it can return INVALID instead of guessing.

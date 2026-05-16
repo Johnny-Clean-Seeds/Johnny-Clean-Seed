@@ -1,0 +1,22 @@
+﻿LOCAL SAVE RECEIPT
+
+Timestamp:
+2026-05-09 17:17:20 -04:00
+
+Package folder:
+C:\CleanSeedsBuild\CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK
+
+Proof/history folder:
+C:\CleanSeedsBuild\CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK\PROOF_HISTORY
+
+Files saved:
+LOCAL_SAVE_RULE_NO_MEMORY_ONLY.txt
+PRE_RUN_INSTALLER_FILE_EXISTENCE_GATE.txt
+
+Verdict:
+PASS when both files exist after write.
+
+State boundary:
+These are support proof/history files.
+They do not create a fourth active guide file.
+They do not modify ACTIVE_GUIDES.

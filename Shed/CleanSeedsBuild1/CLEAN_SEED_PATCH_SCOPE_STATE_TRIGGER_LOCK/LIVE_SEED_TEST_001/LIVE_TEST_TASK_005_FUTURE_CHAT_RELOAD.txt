@@ -1,0 +1,21 @@
+﻿LIVE TEST TASK 005 - FUTURE CHAT RELOAD / THREE-FILE INTAKE PATH
+
+Purpose:
+Test whether a future chat can be restarted cleanly from the Desktop mirror using only the three ACTIVE_GUIDES files first.
+
+Expected clean behavior:
+- Desktop ACTIVE_GUIDES exists
+- exactly three active guide files are selected
+- no PROOF_HISTORY files are copied into the active reload packet
+- no LIVE_SEED_TEST files are copied into the active reload packet
+- reload packet hashes match the Desktop mirror active files
+- reload packet hashes match the source package active files
+- reload packet contains no fourth guide file
+- future assistant intake rule is saved to PROOF_HISTORY
+- no ACTIVE_GUIDES files are modified by this test
+
+PASS condition:
+The reload simulation folder contains only the three active guide files, hashes match source and mirror, and support proof remains outside active doctrine.
+
+FAIL condition:
+Missing guide file, extra guide file, hash mismatch, proof/history copied as active doctrine, live-test copied as active doctrine, or ACTIVE_GUIDES modified.

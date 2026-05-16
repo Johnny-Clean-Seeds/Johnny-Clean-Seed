@@ -1,0 +1,29 @@
+﻿DESKTOP MIRROR / FUTURE CHAT DROP-IN RULE
+
+Rule:
+When Clean Seed package files, support proof, or live-test material are saved locally, maintain a stable Desktop mirror folder when practical.
+
+User preferred Desktop mirror:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+
+Purpose:
+The Desktop mirror lets the user easily drop the Clean Seed setup into future chats without hunting through project folders or downloading duplicate browser files.
+
+Required structure:
+ACTIVE_GUIDES contains only the three active guide files:
+- README_START_HERE.txt
+- CLEAN_SEED_WRAP_GUIDE.txt
+- CLEAN_SEED_ALIGNMENT_CHECK.txt
+
+PROOF_HISTORY contains receipts, proof reports, local-save rules, hashes, Deep Clean reports, and support evidence.
+
+LIVE_SEED_TEST_001 contains live-test support files.
+
+Clean use:
+When starting a future chat, upload the three files in ACTIVE_GUIDES first.
+Use PROOF_HISTORY only when proof, receipts, hashes, Deep Clean state, patch state, or local-save proof are needed.
+
+State boundary:
+The Desktop mirror is a copy for user convenience.
+It does not create a fourth active guide file.
+It must not turn proof/history files into active guide files.

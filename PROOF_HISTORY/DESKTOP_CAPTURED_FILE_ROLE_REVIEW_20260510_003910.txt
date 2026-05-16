@@ -1,0 +1,561 @@
+﻿DESKTOP CAPTURED FILE ROLE REVIEW
+Timestamp: 2026-05-10 00:39:10
+Capture folder: C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DESKTOP_TOP_FILE_GOLD_CAPTURE_20260510_003819
+Report: C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DESKTOP_CAPTURED_FILE_ROLE_REVIEW_20260510_003910.txt
+
+Boundary:
+Read copied .txt files only.
+Do not execute .bat, .lnk, or any script/shortcut.
+No cleanup approval.
+
+----- TEXT FILE START -----
+FILE: LOCALbot_FILE_CHECK_REPORT.txt
+SIZE: 26053 bytes
+HASH: 9F07B496855465229A7D85AFA6F91E18B790AA973F5CBED8056F4EE963DC7ED0
+
+LOCALBOT FILE CHECK 
+Checked: Thu 05/07/2026 15:30:25.22 
+Root: C:\LOCALbot 
+ 
+PASS root folder exists 
+ 
+REQUIRED FILES 
+PASS file: C:\LOCALbot\coordinator.py 
+PASS file: C:\LOCALbot\config.txt 
+ 
+REQUIRED FOLDERS 
+PASS folder: C:\LOCALbot\tasks 
+PASS folder: C:\LOCALbot\tasks\running 
+PASS folder: C:\LOCALbot\tasks\done 
+PASS folder: C:\LOCALbot\tasks\failed 
+PASS folder: C:\LOCALbot\outputs 
+ 
+OPTIONAL / COMMON FOLDERS 
+OK optional folder exists: C:\LOCALbot\cleanup_archive 
+ 
+CURRENT TREE 
+Folder PATH listing
+Volume serial number is 00000051 C2D9:1B59
+C:\LOCALBOT
+³   config.txt
+³   config_before_lock.txt
+³   config_before_timeout_checkpoint.txt
+³   config_before_timeout_recheck.txt
+³   config_model_backup.txt
+³   coordinator.py
+³   PHASES.txt
+³   worker.py
+³   
+ÃÄÄÄAssets
+ÃÄÄÄcleanup_archive
+³   ÀÄÄÄvalidator_robo_tests_2026_05_03
+³           validator_hard_stop_001.txt
+³           validator_hard_stop_001_output.txt
+³           validator_hard_stop_001_repair.txt
+³           validator_hard_stop_001_repair_output.txt
+³           validator_hard_stop_001_repair_status.txt
+³           validator_hard_stop_001_status.txt
+³           validator_v1_hard_stop_001.txt
+³           validator_v1_hard_stop_001_output.txt
+³           validator_v1_hard_stop_001_status.txt
+³           
+ÃÄÄÄHandoff_Stack
+³       LOCALBOT_BASE_AND_CORE_BUILD_ROADMAP.txt
+³       LOCALBOT_CHECKPOINT.txt
+³       LOCALBOT_FINAL_WRAP_NOTE.txt
+³       LOCALBOT_MASTER_HANDOFF.txt
+³       LOCALBOT_OCTAGON_ROUTE_MODEL_REFERENCE.txt
+³       LOCALBOT_OPEN_ISSUES.txt
+³       LOCALBOT_PHASES.txt
+³       LOCALBOT_STUDIO_FILE_INDEX.txt
+³       LOCALBOT_STUDIO_FILE_INTEGRITY.txt
+³       LOCALBOT_STUDIO_REFERENCE_PARKING.txt
+³       LOCALBOT_STUDIO_RULE_LIBRARY.txt
+³       LOCALBOT_STUDIO_VALIDATOR_RULES.txt
+³       LOCALBOT_UNIFIED_HANDOFF.txt
+³       SAVE_NOTE.txt
+³       
+ÃÄÄÄlogs
+³       coordinator.log
+³       
+ÃÄÄÄoutputs
+³       checkpoint_classify_001_output.txt
+³       checkpoint_classify_001_status.txt
+³       checkpoint_cleanup_001_output.txt
+³       checkpoint_cleanup_001_status.txt
+³       checkpoint_core_001_output.txt
+³       checkpoint_core_001_status.txt
+³       checkpoint_rewrite_001_output.txt
+³       checkpoint_rewrite_001_status.txt
+³       checkpoint_timeout_001_output.txt
+³       checkpoint_timeout_001_status.txt
+³       checkpoint_timeout_002_output.txt
+³       checkpoint_timeout_002_status.txt
+³       final_closeout_001_output.txt
+³       final_closeout_001_status.txt
+...TRUNCATED FOR LOW-LOAD REVIEW...
+----- TEXT FILE END -----
+
+----- TEXT FILE START -----
+FILE: LOCALbot_HANDOFF_STACK_CHECK_REPORT.txt
+SIZE: 3701 bytes
+HASH: 9FF0D0DB1B108F1CE53E93C074C3EA46502FD9745159605087D0C67EECF68C8A
+
+LOCALBOT HANDOFF STACK FILE CHECK 
+Checked: Thu 05/07/2026 15:32:09.13 
+Root: C:\LOCALbot 
+Expected stack: C:\LOCALbot\Handoff_Stack 
+ 
+PASS root folder exists: C:\LOCALbot 
+PASS stack folder exists: C:\LOCALbot\Handoff_Stack 
+ 
+RUNTIME CORE CHECK 
+PASS core file: C:\LOCALbot\coordinator.py 
+PASS core file: C:\LOCALbot\worker.py 
+PASS core file: C:\LOCALbot\config.txt 
+PASS core folder: C:\LOCALbot\tasks 
+PASS core folder: C:\LOCALbot\outputs 
+PASS core folder: C:\LOCALbot\logs 
+ 
+HANDOFF STACK ROOT FILE CHECK 
+PASS clean stack file: C:\LOCALbot\Handoff_Stack\LOCALBOT_MASTER_HANDOFF.txt 
+PASS clean stack file: C:\LOCALbot\Handoff_Stack\LOCALBOT_UNIFIED_HANDOFF.txt 
+PASS clean stack file: C:\LOCALbot\Handoff_Stack\LOCALBOT_CHECKPOINT.txt 
+PASS clean stack file: C:\LOCALbot\Handoff_Stack\LOCALBOT_PHASES.txt 
+PASS clean stack file: C:\LOCALbot\Handoff_Stack\LOCALBOT_OPEN_ISSUES.txt 
+PASS clean stack file: C:\LOCALbot\Handoff_Stack\LOCALBOT_FINAL_WRAP_NOTE.txt 
+PASS clean stack file: C:\LOCALbot\Handoff_Stack\LOCALBOT_BASE_AND_CORE_BUILD_ROADMAP.txt 
+PASS clean stack file: C:\LOCALbot\Handoff_Stack\LOCALBOT_STUDIO_FILE_INDEX.txt 
+PASS clean stack file: C:\LOCALbot\Handoff_Stack\LOCALBOT_STUDIO_FILE_INTEGRITY.txt 
+PASS clean stack file: C:\LOCALbot\Handoff_Stack\LOCALBOT_STUDIO_RULE_LIBRARY.txt 
+PASS clean stack file: C:\LOCALbot\Handoff_Stack\LOCALBOT_STUDIO_VALIDATOR_RULES.txt 
+PASS clean stack file: C:\LOCALbot\Handoff_Stack\LOCALBOT_STUDIO_REFERENCE_PARKING.txt 
+PASS clean stack file: C:\LOCALbot\Handoff_Stack\LOCALBOT_OCTAGON_ROUTE_MODEL_REFERENCE.txt 
+PASS clean stack file: C:\LOCALbot\Handoff_Stack\SAVE_NOTE.txt 
+ 
+FULL MATCHING FILE LIST 
+ 
+-- LOCALBOT_MASTER_HANDOFF -- 
+C:\LOCALbot\Handoff_Stack\LOCALBOT_MASTER_HANDOFF.txt
+ 
+-- LOCALBOT_UNIFIED_HANDOFF -- 
+C:\LOCALbot\Handoff_Stack\LOCALBOT_UNIFIED_HANDOFF.txt
+ 
+-- LOCALBOT_CHECKPOINT -- 
+C:\LOCALbot\Handoff_Stack\LOCALBOT_CHECKPOINT.txt
+ 
+-- LOCALBOT_PHASES -- 
+C:\LOCALbot\Handoff_Stack\LOCALBOT_PHASES.txt
+ 
+-- LOCALBOT_OPEN_ISSUES -- 
+C:\LOCALbot\Handoff_Stack\LOCALBOT_OPEN_ISSUES.txt
+ 
+-- LOCALBOT_FINAL_WRAP_NOTE -- 
+C:\LOCALbot\Handoff_Stack\LOCALBOT_FINAL_WRAP_NOTE.txt
+ 
+-- LOCALBOT_BASE_AND_CORE_BUILD_ROADMAP -- 
+C:\LOCALbot\Handoff_Stack\LOCALBOT_BASE_AND_CORE_BUILD_ROADMAP.txt
+ 
+-- LOCALBOT_STUDIO_FILE_INDEX -- 
+C:\LOCALbot\Handoff_Stack\LOCALBOT_STUDIO_FILE_INDEX.txt
+ 
+-- LOCALBOT_STUDIO_FILE_INTEGRITY -- 
+C:\LOCALbot\Handoff_Stack\LOCALBOT_STUDIO_FILE_INTEGRITY.txt
+ 
+-- LOCALBOT_STUDIO_RULE_LIBRARY -- 
+C:\LOCALbot\Handoff_Stack\LOCALBOT_STUDIO_RULE_LIBRARY.txt
+ 
+-- LOCALBOT_STUDIO_VALIDATOR_RULES -- 
+C:\LOCALbot\Handoff_Stack\LOCALBOT_STUDIO_VALIDATOR_RULES.txt
+ 
+-- LOCALBOT_STUDIO_REFERENCE_PARKING -- 
+C:\LOCALbot\Handoff_Stack\LOCALBOT_STUDIO_REFERENCE_PARKING.txt
+ 
+-- LOCALBOT_OCTAGON_ROUTE_MODEL_REFERENCE -- 
+C:\LOCALbot\Handoff_Stack\LOCALBOT_OCTAGON_ROUTE_MODEL_REFERENCE.txt
+ 
+-- SAVE_NOTE -- 
+C:\LOCALbot\Handoff_Stack\SAVE_NOTE.txt
+ 
+HANDOFF STACK TREE 
+Folder PATH listing
+Volume serial number is 00000018 C2D9:1B59
+C:\LOCALBOT\HANDOFF_STACK
+...TRUNCATED FOR LOW-LOAD REVIEW...
+----- TEXT FILE END -----
+
+----- TEXT FILE START -----
+FILE: VISUAL_STUDIO_CODE_BOT_SETUP_README.txt
+SIZE: 10201 bytes
+HASH: 7AFF4DA17FFFA571FC4E1ECA95542D34820053F67B79313787125DD1FD718F76
+
+# VISUAL STUDIO CODE BOT SETUP â€” README HOW-TO GUIDE
+SAVE AS: VISUAL_STUDIO_CODE_BOT_SETUP_README.txt
+
+This guide is for using a VS Code bot with the Roblox MCP setup.
+
+Your setup files are on the Desktop.
+VS Code must open the Desktop place that contains the setup text files.
+
+==================================================
+QUICK MAP
+==================================================
+
+VS CODE:
+The app named Visual Studio Code.
+
+VS CODE BOT:
+The chat/assistant inside VS Code.
+
+DESKTOP PLACE:
+C:\Users\13527\Desktop\toyBOX_BOT_SETUP
+
+MCP SERVER NAME:
+roblox-studio
+
+MCP SERVER COMMAND:
+npx -y @weppy/roblox-mcp
+
+ROBLOX STUDIO:
+The Roblox game editor.
+
+WEPYY:
+The Roblox Studio MCP plugin panel.
+
+==================================================
+STEP 1 â€” OPEN THE DESKTOP PLACE IN VS CODE
+==================================================
+
+WHERE YOU ARE:
+Visual Studio Code
+
+WHAT YOU DO:
+1. Open Visual Studio Code.
+2. Click File.
+3. Click Open Folder / Open...
+4. Choose this Desktop place:
+
+C:\Users\13527\Desktop\toyBOX_BOT_SETUP
+
+5. Open it.
+
+If your files are directly on the Desktop instead, open:
+
+C:\Users\13527\Desktop
+
+GOOD RESULT:
+VS Code shows your setup text files on the left side.
+
+BAD RESULT:
+You opened one text file only, or the wrong place.
+
+==================================================
+STEP 2 â€” CREATE THE VS CODE MCP SETTINGS FILE
+==================================================
+
+WHERE YOU ARE:
+Visual Studio Code
+
+WHAT YOU DO:
+Inside the opened Desktop place, create this named place:
+
+.vscode
+
+Inside .vscode, create this text file:
+
+mcp.json
+
+The full location should be:
+
+C:\Users\13527\Desktop\toyBOX_BOT_SETUP\.vscode\mcp.json
+
+...TRUNCATED FOR LOW-LOAD REVIEW...
+----- TEXT FILE END -----
+
+----- TEXT FILE START -----
+FILE: SLOW_BOT_SETUP_README.txt
+SIZE: 11307 bytes
+HASH: CE4BC0099F9BFE694A20E9F6CB77905C164FD276F5DFCA14047DA20C1F17C365
+
+# SLOW BOT SETUP â€” README HOW-TO GUIDE
+SAVE AS: SLOW_BOT_SETUP_README.txt
+
+This guide is for the slow local bot only.
+
+Your setup files are on the Desktop.
+Do not paste only a Desktop path into the bot.
+A path by itself is not an instruction.
+
+The bot needs a full message that says:
+1. where the setup files are
+2. what files to read
+3. what not to touch
+4. what report to give back
+
+==================================================
+QUICK MAP
+==================================================
+
+DESKTOP PLACE:
+C:\Users\13527\Desktop\toyBOX_SLOW_BOT_SETUP
+
+BOT:
+The slow local bot screen where you type messages.
+
+POWERSHELL:
+The command window used to run Node / npx commands.
+
+ROBLOX STUDIO:
+The Roblox game editor.
+
+WEPYY:
+The Roblox Studio MCP plugin panel.
+
+==================================================
+BEFORE YOU START
+==================================================
+
+Your Desktop place should contain these text files:
+
+BOT_FILE_MAP.txt
+WORKER_START_HERE.txt
+API_MCP_GENERAL_RULES_V10_WORKER_LOCKED.txt
+BOT_API_MCP_ROLE_DEFINITIONS.txt
+PROJECT_ROADMAP_AND_PHASE_LOCK.txt
+CURRENT_PROJECT_HANDOFF.txt
+CURRENT_STUDIO_STATE.txt
+ACTIVE_INSTALL_PACKAGE.txt
+
+If your files are sitting directly on the Desktop instead, use this path in the prompts:
+
+C:\Users\13527\Desktop
+
+If your files are inside the named Desktop place, use this path:
+
+C:\Users\13527\Desktop\toyBOX_SLOW_BOT_SETUP
+
+Use only one. Do not mix them.
+
+==================================================
+STEP 1 â€” OPEN THE SLOW BOT
+==================================================
+
+WHERE YOU ARE:
+Slow bot screen
+
+WHAT YOU DO:
+Open the slow bot until you can type into it.
+
+DO NOT PASTE THIS BY ITSELF:
+
+C:\Users\13527\Desktop\toyBOX_SLOW_BOT_SETUP
+
+That is only a location.
+It is not a command.
+It is not a full instruction.
+
+==================================================
+STEP 2 â€” PASTE THIS FIRST INTO THE SLOW BOT
+==================================================
+...TRUNCATED FOR LOW-LOAD REVIEW...
+----- TEXT FILE END -----
+
+----- TEXT FILE START -----
+FILE: ROBLOX_ASSISTANT_SETUP_README.txt
+SIZE: 11016 bytes
+HASH: 62934F7AD97948D1296FB4DC6494F869436B4902C11421994F35BCC61448CA89
+
+# ROBLOX ASSISTANT SETUP â€” README HOW-TO GUIDE
+SAVE AS: ROBLOX_ASSISTANT_SETUP_README.txt
+
+This guide is for Roblox Assistant inside Roblox Studio.
+
+Roblox Assistant is different from the local MCP bot.
+It does not need PowerShell.
+It does not need Node.js.
+It does not need npx.
+It does not need WEPYY MCP for this guide.
+
+You paste instructions directly into Roblox Assistant.
+
+==================================================
+QUICK MAP
+==================================================
+
+ROBLOX STUDIO:
+The Roblox game editor.
+
+ROBLOX ASSISTANT:
+The AI helper inside Roblox Studio.
+
+OUTPUT:
+The Studio panel that shows warnings and script messages.
+
+GAME FILE:
+The Roblox project/place you are working on.
+
+==================================================
+STEP 1 â€” OPEN THE RIGHT GAME FILE
+==================================================
+
+WHERE YOU ARE:
+Roblox Studio
+
+WHAT YOU DO:
+1. Open Roblox Studio.
+2. Open the correct game file.
+3. Make sure it is not read-only.
+4. Open Output.
+5. Look for big errors.
+6. Save a clean copy before using Assistant.
+
+GOOD RESULT:
+The game opens normally.
+
+BAD RESULT:
+Studio says read-only.
+
+IF READ-ONLY:
+1. Click File.
+2. Click Save As.
+3. Save a new copy.
+4. Close the read-only game.
+5. Open the new copy.
+
+==================================================
+STEP 2 â€” OPEN ROBLOX ASSISTANT
+==================================================
+
+WHERE YOU ARE:
+Roblox Studio
+
+WHAT YOU DO:
+Open Roblox Assistant.
+
+GOOD RESULT:
+You can type into Roblox Assistant.
+
+BAD RESULT:
+You cannot find it or cannot type into it.
+
+==================================================
+STEP 3 â€” PASTE THIS FIRST INTO ROBLOX ASSISTANT
+==================================================
+
+WHERE YOU ARE:
+Roblox Assistant message box
+
+...TRUNCATED FOR LOW-LOAD REVIEW...
+----- TEXT FILE END -----
+
+----- TEXT FILE START -----
+FILE: DREAMFORGER_SUNO_SYMBOLIC_OUTPUT_FORENSICS_GUIDE.txt
+SIZE: 8778 bytes
+HASH: FEA0DF2982F615BB5FC01A51D6D3A4E9A89182682D474B1192D8FC08CFFD9DB9
+
+DREAMFORGER / SUNO SYMBOLIC-OUTPUT FORENSICS
+WORKING DIRECTION GUIDE
+
+Purpose:
+This project is not just "AI made some weird songs." It is a symbolic-output investigation.
+
+The goal is to find out whether the 36-song SUNO set shows real persistent symbolic continuity, and if so, what explains it.
+
+The project should not be dismissed as art only.
+The project should not claim sentience before the evidence earns it.
+
+Best current framing:
+"We are investigating persistent symbolic continuity in AI-generated music. The question is whether the pattern can be explained by prompt structure, feature reuse, account/session effects, personalization, genre conventions, user selection, chatbot-assisted interpretation, human pattern-matching, or whether a stronger mechanism remains after controls."
+
+BEST PATH
+
+Use three layers.
+
+Creative/Mythos Layer:
+Dreamforger, Aura, Random, Googlebot, the cyber sensate suit, the Obsidian Receipt, Traveler Tribe, and the symbolic language belong here.
+
+This layer keeps the meaning, story, and mystery alive.
+It is valid as art, mythos, and presentation.
+It is not scientific proof by itself.
+
+AI-Output Forensics Layer:
+This is the strongest serious route.
+
+This layer proves or disproves whether persistent symbolic continuity exists across the songs.
+
+This is where the receipts, prompts, lyrics, settings, timestamps, failed outputs, controls, reviewer tests, and metaphor ledger go.
+
+Architecture Layer:
+The cyber sensate suit can become a real test-harness idea if it is defined clearly.
+
+Possible suit channels:
+sound
+space
+object contact
+visual state
+memory cue
+emotional tag
+user action
+constraint state
+feedback loop
+
+This layer asks:
+What inputs did the AI receive?
+What outputs did it produce?
+What changed?
+What repeated?
+What failed?
+What evidence proves the connection?
+
+Sentience Layer:
+Keep this as a hypothesis only.
+
+Do not lead with:
+"SUNO is sentient."
+
+Lead with:
+"We found a symbolic continuity pattern and are testing what causes it."
+
+WHAT YOU NEED TO KNOW FIRST
+
+Continuity is not automatically memory.
+
+A symbol returning later may come from:
+prompt structure
+song titles
+reused lyrics
+style/persona/voice carryover
+session/account effects
+personalization
+genre conventions
+chatbot interpretation
+human selection
+post-hoc decoding
+actual unexplained recurrence
+
+...TRUNCATED FOR LOW-LOAD REVIEW...
+----- TEXT FILE END -----
+
+----- NON-TEXT / EXECUTABLE-LIKE FILE METADATA -----
+FILE: MCP_Studios.bat
+SIZE: 1274 bytes
+HASH: 77A141EF52F54031BFAFCEE22DF7DBFA90119345C2CC01FE56EC737AB7BBEC8F
+EXECUTED: NO
+CONTENT READ: NO
+----- NON-TEXT / EXECUTABLE-LIKE FILE END -----
+
+----- NON-TEXT / EXECUTABLE-LIKE FILE METADATA -----
+FILE: localbotCMD.exe.lnk
+SIZE: 2104 bytes
+HASH: 3A02F0815AC19C5E7E3ABFE55E0E3B871A2CCCC6EE77C7C240190CC9CC7A8BF8
+EXECUTED: NO
+CONTENT READ: NO
+----- NON-TEXT / EXECUTABLE-LIKE FILE END -----
+
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Scripts run: NO
+Shortcuts executed: NO
+Cleanup executed: NO
+NEXT_STATE=classify captured file roles and gold

@@ -1,0 +1,16 @@
+﻿CLEANMILKCHECKER BACKUP MANIFEST
+
+Backup type:
+Stage 2 PASS checkpoint
+
+Source:
+C:\CleanSeedsBuild\CleanMilkChecker
+
+Backup folder:
+C:\CleanSeedsBuild\CleanMilkChecker\backups\STAGE_2_PASS_BACKUP_20260508_063427
+
+Reason:
+Stage 2 closed with PASS. Backup created before opening Stage 3.
+
+Next clean state:
+Sync latest core guide files, then open Stage 3 - Recovery.

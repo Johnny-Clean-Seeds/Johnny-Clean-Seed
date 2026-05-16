@@ -1,0 +1,107 @@
+PARKED RULE APPLICATION CHECKPOINT 20260511
+
+Status:
+Proof-history-only application checkpoint.
+Not active guide doctrine.
+Not current truth.
+Not cleanup authority.
+Not deletion approval.
+Not movement approval.
+Not promotion approval.
+Not final PASS.
+
+Reason:
+User corrected the workflow: when a batch of useful rules is parked, stop and apply the relevant rules cleanly before continuing.
+The rule must fire during the work, not merely be indexed.
+
+Active ball:
+Evidence-lane cleanup and sidecar evidence indexing.
+
+Current state:
+A group of parked or candidate-support rules has been indexed in SIDE_EVIDENCE_INDEX_20260511.
+Before continuing the sweep, the relevant rules must be applied to the current work.
+
+Rules applied now:
+
+1. Workflow Reliability Rule Stack
+Source:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\WORKFLOW_RELIABILITY_RULE_STACK_BALL_ATTACK_PILE_ORDER_20260511.txt
+SHA256:
+29FB423720F8CAE20912A23B9DB496089DD2649B6ACD7B37A38E639A47DA4A48
+
+Applied behavior:
+- Name the active ball before continuing.
+- Do not silently move to another proof cluster.
+- Use an attack plan before the next action.
+- Use pile placement when multiple evidence/rule items are active.
+- Batch only related evidence rows.
+- Separate anything with different authority, risk, proof, or destination.
+
+2. Capture / Collect Before Inventory Station Rule
+Source:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\CAPTURE_COLLECT_BEFORE_INVENTORY_STATION_RULE_20260511.txt
+SHA256:
+C0AA28D07806E0C853F64A93DF1A705549A8C057F875C1BE0FCD8BDEC22E94A2
+
+Applied behavior:
+- Freeze movement first.
+- Capture visible evidence before inventory or judgment.
+- Do not treat partial capture as full inventory.
+- No cleanup, deletion, movement, rename, overwrite, promotion, or active-guide edit during capture.
+
+3. Immediate Idea Capture / Apply Working Rule
+Source:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\IMMEDIATE_IDEA_CAPTURE_APPLY_WORKING_RULE_20260511.txt
+SHA256:
+C91EFE908AB61561FC49AC0A28637CAC193F171CC989274A837D3E5660DBC594
+
+Applied behavior:
+- User correction is captured now instead of left in chat.
+- Correction is applied to current session behavior inside approved scope.
+- Durable record is proof-history-only unless later active-guide review approves install.
+
+4. Incident Freeze / No-Killer / Civil Traffic Ticket Rule
+Source:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\INCIDENT_FREEZE_NO_KILLER_TRAFFIC_TICKET_RULE_20260511.txt
+SHA256:
+3F3970BADE648DE145DC9F1C0302434330386942E7ED3DB10E7FE9D24C7FB990
+
+Applied behavior:
+- No incident or blame claim is made here.
+- If a miss is suspected, first prove whether an incident happened.
+- This checkpoint treats the issue as a workflow correction, not a culprit hunt.
+- No delete, cleanup, overwrite, move, rename, or promotion authority is created.
+
+Clean application test:
+EVIDENCE: Active ball is named.
+EVIDENCE: Parked rules used now are named by path and hash.
+EVIDENCE: Applied behavior is stated.
+EVIDENCE: Blocked actions are preserved.
+EVIDENCE: No active-guide install is claimed.
+EVIDENCE: No final PASS is claimed.
+
+Current attack plan before continuing:
+1. Stop broad sweep.
+2. Capture this checkpoint and receipt.
+3. Add this checkpoint to the sidecar evidence index.
+4. Verify hashes.
+5. Continue only in small related batches where the applied rules are used before action.
+
+Blocked actions:
+No ACTIVE_GUIDES edit.
+No CURRENT_TRUTH_INDEX edit.
+No AGENTS edit.
+No deletion.
+No movement, except backup copies when editing a proof-history index.
+No rename.
+No overwrite.
+No folder creation.
+No cleanup.
+No script execution.
+No shortcut execution.
+No zip extraction.
+No proof-history promotion.
+No final PASS.
+
+Next clean state:
+Use this checkpoint as the current proof that the parked rules are being applied before the next evidence sweep.

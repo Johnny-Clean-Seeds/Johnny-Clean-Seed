@@ -1,0 +1,31 @@
+ITEM CHAIN OF CUSTODY
+Recovery item number: 
+57
+Original name: 
+README_START_HERE.txt
+Original path if available: 
+C:\Users\13527\Desktop\Clean Milk not
+Deleted date/time if available: 
+‎5/‎8/‎2026 ‏‎5:31 AM
+Size if available: 
+10.8 KB
+Type: 
+Text Document
+Recovery folder: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECYCLE_BIN_QUARANTINE_20260510\ITEM_0057__README_START_HERE.txt
+Recovery action taken: 
+Shell namespace CopyHere into quarantine item folder
+Recovered by: Codex local bridge via Windows Shell Recycle Bin metadata/copy operation
+Timestamp: 
+2026-05-10 14:25:41 -04:00
+Hash if file hash is available: 
+75AAA2B8BE949E5351AAB0FC6BE3E0FF53B1D52982DA23763F735CD30C293484
+Notes: Recovered as quarantine evidence only; not restored to original path; not installed into ACTIVE_GUIDES; not interpreted as active truth.
+Whether script-like: 
+NO
+Whether folder/container: 
+NO
+Whether recovery succeeded: 
+YES
+Failure reason if recovery failed: 
+NONE

@@ -1,0 +1,210 @@
+$Root = "C:\Users\13527\Documents\Mac Miller - Swimming\playlist"
+$GuideDir = Join-Path $Root "ACTIVE_GUIDES"
+$ProofDir = Join-Path $Root "PROOF_HISTORY"
+$Index = Join-Path $Root "CURRENT_TRUTH_INDEX.txt"
+
+$Readme = Join-Path $GuideDir "README_START_HERE.txt"
+$Wrap = Join-Path $GuideDir "CLEAN_SEED_WRAP_GUIDE.txt"
+$Align = Join-Path $GuideDir "CLEAN_SEED_ALIGNMENT_CHECK.txt"
+
+$Stamp = Get-Date -Format "yyyyMMdd_HHmmss"
+$PatchId = "PROMOTE_GOLD_INTAKE_PRIORITY_BOULDER_FIRST_BANK_LEAK_$Stamp"
+$RuleId = "CS-RULE-GOLD-INTAKE-PRIORITY-001"
+$BackupDir = Join-Path $ProofDir "BACKUP_ACTIVE_GUIDES_BEFORE_$PatchId"
+$Receipt = Join-Path $ProofDir "RECEIPT_$PatchId.txt"
+
+Write-Host "=========================================================="
+Write-Host "PROMOTE GOLD INTAKE PRIORITY - BOULDER FIRST / BANK LEAK"
+Write-Host "Patch ID: $PatchId"
+Write-Host "Rule ID: $RuleId"
+Write-Host "=========================================================="
+
+$Required = @($Root, $GuideDir, $ProofDir, $Index, $Readme, $Wrap, $Align)
+foreach ($Path in $Required) {
+    if (-not (Test-Path -LiteralPath $Path)) {
+        Write-Host "FAIL missing required path: $Path"
+        exit 1
+    }
+}
+
+New-Item -ItemType Directory -Path $BackupDir -Force | Out-Null
+Copy-Item -LiteralPath $Readme -Destination (Join-Path $BackupDir "README_START_HERE.txt") -Force
+Copy-Item -LiteralPath $Wrap -Destination (Join-Path $BackupDir "CLEAN_SEED_WRAP_GUIDE.txt") -Force
+Copy-Item -LiteralPath $Align -Destination (Join-Path $BackupDir "CLEAN_SEED_ALIGNMENT_CHECK.txt") -Force
+Copy-Item -LiteralPath $Index -Destination (Join-Path $BackupDir "CURRENT_TRUTH_INDEX.txt") -Force
+
+$ReadmeMarker = "PROMOTED CORRECTION: GOLD INTAKE PRIORITY / BOULDER FIRST / BANK LEAK CHECK"
+$WrapMarker = "PROMOTED CORRECTION ROUTE: GOLD INTAKE PRIORITY / BOULDER FIRST / BANK LEAK CHECK"
+$AlignMarker = "PROMOTED CORRECTION CHECK: GOLD INTAKE PRIORITY / BOULDER FIRST / BANK LEAK CHECK"
+
+$ReadmeBlock = @"
+$ReadmeMarker
+
+Rule ID:
+$RuleId
+
+When doing gold extraction, gold review, doctrine mining, or Anyma-style source harvesting, handle the largest active items first.
+
+Priority order:
+- boulders first,
+- then gold bars,
+- then regular gold nuggets.
+
+A boulder is a large interlocking idea that can change routing, rule behavior, evidence handling, proof flow, guide structure, or system trust.
+
+A gold bar is high-value material that belongs in the bank by default. It should not be carried loose in chat or working memory.
+
+Bank leak rule:
+If a gold bar is found outside the bank, outside the correct local map, outside the active guide route when it belongs there, or loose in chat after it should have been saved, treat that as a workflow leak signal.
+
+A leak signal must be caught, classified, saved or banked, and statused before normal gold extraction continues.
+"@
+
+$WrapBlock = @"
+$WrapMarker
+
+Rule ID:
+$RuleId
+
+Use this route during gold extraction, Anyma review, source mining, Deep Clean capture, or dense idea-bearing work.
+
+Required route:
+1. scan the active material for boulders,
+2. if a boulder exists, stop and carry it with both hands to the proper durable lane,
+3. if no boulder is active, scan for gold bars,
+4. bank any loose gold bar before continuing,
+5. then process normal gold nuggets under Hold-2 / capture-funnel rules,
+6. record the resume point before returning to the source.
+
+Do not keep extracting while a boulder or unbanked gold bar is loose.
+Do not treat a gold bar outside the bank as normal pending work.
+That condition is a leak signal.
+"@
+
+$AlignBlock = @"
+$AlignMarker
+
+Rule ID:
+$RuleId
+
+FAIL if:
+- a boulder is found but normal gold extraction continues,
+- a gold bar is found loose in chat, memory, or the wrong local lane and is not banked,
+- gold bars are treated as ordinary nuggets,
+- a leak signal is noticed but not saved, classified, or statused,
+- extraction continues without a resume point after banking.
+
+PASS only if:
+- boulders are handled before gold bars,
+- gold bars are banked before normal nuggets,
+- any gold bar outside the bank is treated as a workflow leak,
+- the leak is caught, saved or banked, and statused,
+- the next resume point is clear.
+"@
+
+function Add-Block-If-Missing($Path, $Marker, $Block, $Label) {
+    $Content = Get-Content -LiteralPath $Path -Raw
+    if ($Content -notlike "*$Marker*") {
+        Add-Content -LiteralPath $Path -Value "`r`n$Block" -Encoding UTF8
+        Write-Host "PASS $Label added"
+    } else {
+        Write-Host "PASS $Label already had marker"
+    }
+}
+
+Add-Block-If-Missing $Readme $ReadmeMarker $ReadmeBlock "README"
+Add-Block-If-Missing $Wrap $WrapMarker $WrapBlock "WRAP"
+Add-Block-If-Missing $Align $AlignMarker $AlignBlock "ALIGNMENT"
+
+$IndexBlock = @"
+
+============================================================
+ACTIVE GUIDE CORRECTION PROMOTED:
+$PatchId
+
+Rule ID:
+$RuleId
+
+Plain name:
+Gold Intake Priority / Boulder First / Bank Leak Check
+
+Classification:
+Refinement of Boulder / Two Hands / Gold Bar Bank and Capture Funnel.
+
+Status:
+ACTIVE_GUIDES UPDATED
+
+Rule:
+During gold extraction or review, handle boulders first, then gold bars, then normal nuggets. A gold bar outside the bank is a workflow leak signal and must be caught, saved/banked, and statused before extraction continues.
+
+Files intentionally updated:
+- ACTIVE_GUIDES\README_START_HERE.txt
+- ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt
+- ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt
+- CURRENT_TRUTH_INDEX.txt
+
+Files intentionally not moved/deleted/renamed:
+- all files
+
+Backup:
+$BackupDir
+============================================================
+"@
+
+if ((Get-Content -LiteralPath $Index -Raw) -notlike "*$RuleId*") {
+    Add-Content -LiteralPath $Index -Value $IndexBlock -Encoding UTF8
+    Write-Host "PASS index updated"
+} else {
+    Write-Host "PASS index already had rule id"
+}
+
+$ReadmeText = Get-Content -LiteralPath $Readme -Raw
+$WrapText = Get-Content -LiteralPath $Wrap -Raw
+$AlignText = Get-Content -LiteralPath $Align -Raw
+$IndexText = Get-Content -LiteralPath $Index -Raw
+
+function Count-Marker($Text, $Marker) {
+    return ([regex]::Matches($Text, [regex]::Escape($Marker))).Count
+}
+
+$ReadmeCount = Count-Marker $ReadmeText $ReadmeMarker
+$WrapCount = Count-Marker $WrapText $WrapMarker
+$AlignCount = Count-Marker $AlignText $AlignMarker
+
+if ($ReadmeCount -eq 1) { Write-Host "PASS README marker exactly once" } else { Write-Host "FAIL README marker count: $ReadmeCount"; exit 1 }
+if ($WrapCount -eq 1) { Write-Host "PASS WRAP marker exactly once" } else { Write-Host "FAIL WRAP marker count: $WrapCount"; exit 1 }
+if ($AlignCount -eq 1) { Write-Host "PASS ALIGNMENT marker exactly once" } else { Write-Host "FAIL ALIGNMENT marker count: $AlignCount"; exit 1 }
+
+if ($IndexText -like "*$PatchId*" -or $IndexText -like "*$RuleId*") {
+    Write-Host "PASS index pointer verified"
+} else {
+    Write-Host "FAIL index pointer missing"
+    exit 1
+}
+
+@"
+GOLD INTAKE PRIORITY / BOULDER FIRST / BANK LEAK CHECK RECEIPT
+Patch ID: $PatchId
+Rule ID: $RuleId
+Root: $Root
+Backup: $BackupDir
+README marker count: $ReadmeCount
+WRAP marker count: $WrapCount
+ALIGNMENT marker count: $AlignCount
+Active guides changed: YES - intended
+CURRENT_TRUTH_INDEX changed: YES - intended
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Verdict: PASS - gold intake priority and bank leak check installed
+"@ | Set-Content -LiteralPath $Receipt -Encoding UTF8
+
+Write-Host "PASS receipt: $Receipt"
+Write-Host "PASS backup: $BackupDir"
+Write-Host "Active guides changed: YES - intended"
+Write-Host "CURRENT_TRUTH_INDEX changed: YES - intended"
+Write-Host "Files deleted: NO"
+Write-Host "Files moved: NO"
+Write-Host "Files renamed: NO"
+Write-Host "NEXT STATE: return to Anyma gold extraction; boulders first, then gold bars, then nuggets"
+Write-Host "=========================================================="

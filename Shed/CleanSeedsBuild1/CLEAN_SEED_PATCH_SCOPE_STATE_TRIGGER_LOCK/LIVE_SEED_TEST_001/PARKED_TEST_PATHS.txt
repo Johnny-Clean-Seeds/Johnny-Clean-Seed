@@ -1,0 +1,13 @@
+PARKED TEST PATHS
+
+Timestamp:
+2026-05-09 5:09 PM America/New_York
+
+Parked path candidates:
+- File Load Path: user uploads a changed/suffix/extra file and assistant certifies role before obeying it.
+- Patch Path: user approves a small package edit and assistant backs up, patches, receipts, and reviews.
+- Failure Path: user gives ambiguous or dirty input and assistant blocks/yields without carrying dirty milk forward.
+- Recovery Path: user interrupts mid-review and assistant resumes from last verified checkpoint.
+
+Status:
+PARKED. Not active. These do not run until selected after Task 001 closes.

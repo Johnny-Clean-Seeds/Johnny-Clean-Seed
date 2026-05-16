@@ -1,0 +1,110 @@
+﻿SEED CLOSEOUT - CLEANMILKCHECKER
+
+Active seed:
+CleanMilkChecker
+
+Project home:
+C:\CleanSeedsBuild\CleanMilkChecker
+
+Final wrap status:
+CleanMilkChecker is wrapped as a small manual clean milk checker core.
+
+Mission proven:
+CleanMilkChecker checks one supplied clean-seed input for clean milk, dirty milk, bloat, missing proof, unclear authority, done/PASS confusion, missing failure or recovery path, save/backup/sync risk, order-of-operations issues, rule-implied follow-through, and unclear next clean state.
+
+Stages closed:
+
+Stage 0 - Seed Setup:
+PASS
+Seed card accepted by user.
+
+Stage 1 - Tiny Working Loop:
+PASS
+CleanMilkChecker produced verdict reports for clean-ish, dirty/bloated, missing-evidence, unclear-authority, and cut-off/invalid inputs.
+
+Stage 2 - Failure Handling:
+PASS
+A real bad-command result was captured before being treated as clean. The $Input variable failure proved that printed PASS text is not enough unless the expected evidence target is present.
+
+Stage 3 - Recovery:
+PASS
+CleanMilkChecker recovered from interruption/sync confusion by returning to the last actual verified checkpoint, backing up Stage 2, syncing latest core guide files, and continuing without redoing proven stages.
+
+Stage 4 - Practical Use:
+PASS
+CleanMilkChecker checked its own seed card and the project evidence stack.
+
+Core evidence:
+
+Seed card:
+C:\CleanSeedsBuild\CleanMilkChecker\SEED_BUILD_CARD.txt
+
+Stage closeouts:
+C:\CleanSeedsBuild\CleanMilkChecker\STAGE_1_CLOSEOUT.txt
+C:\CleanSeedsBuild\CleanMilkChecker\STAGE_2_CLOSEOUT.txt
+C:\CleanSeedsBuild\CleanMilkChecker\STAGE_3_CLOSEOUT.txt
+C:\CleanSeedsBuild\CleanMilkChecker\STAGE_4_CLOSEOUT.txt
+
+Main prompt:
+C:\CleanSeedsBuild\CleanMilkChecker\prompts\CLEAN_MILK_CHECKER_PROMPT.txt
+
+Failure capture:
+C:\CleanSeedsBuild\CleanMilkChecker\failures\STAGE_2_FAILURE_001_BAD_VARIABLE_CAPTURE.txt
+
+Practical reports:
+C:\CleanSeedsBuild\CleanMilkChecker\outputs\PRACTICAL_001_CLEANMILKCHECKER_SEED_CARD_VERDICT.txt
+C:\CleanSeedsBuild\CleanMilkChecker\outputs\PRACTICAL_002_PROJECT_EVIDENCE_STACK_VERDICT.txt
+
+What passed:
+The seed stayed narrow.
+The route stayed manual and inspectable.
+The checker produced verdict reports.
+The checker caught clean, dirty, partial, authority-risk, and invalid cases.
+The checker captured failure before repair.
+The checker recovered from interruption using a verified checkpoint.
+The checker was used on real project material.
+Done and PASS were separated.
+File-save PASS, checked-input verdict, stage verdict, and seed verdict were separated.
+
+What failed:
+Nothing blocks this seed wrap.
+
+Guardrails:
+CleanMilkChecker is manual.
+CleanMilkChecker is not automatic.
+CleanMilkChecker does not edit files by itself.
+CleanMilkChecker does not patch core guide files by itself.
+CleanMilkChecker does not scan arbitrary folders by itself.
+CleanMilkChecker does not run unattended.
+CleanMilkChecker is not the full Clean Seed Builder.
+
+Trusted use now:
+Use CleanMilkChecker as a manual verdict-report pattern for one supplied clean-seed input at a time.
+
+Not trusted yet:
+Automatic folder inspection.
+Automatic patching.
+Automatic rule sync.
+Automatic file editing.
+Full Clean Seed Builder behavior.
+Multi-agent behavior.
+Unattended execution.
+
+Parked future ideas:
+SeedCardHelper.
+CleanSeedBuilder.
+File intake automation.
+Patch checker.
+Wave group closer.
+Package Deep Clean reviewer.
+Automatic sync checker.
+Desktop shortcut expansion only when needed.
+
+Promotion rule:
+CleanMilkChecker may be promoted into the validation core of a future CleanSeedBuilder only if the next build deliberately opens that lane, names the parent, names authority, names allowed inputs/outputs, preserves the current manual checker boundary, and proves the bridge with evidence.
+
+Final seed verdict:
+PASS WITH GUARDRAILS
+
+Next clean state:
+Create final backup after this closeout is saved.

@@ -1,0 +1,71 @@
+CURRENT IDEA PLACEMENT MAP 20260510
+
+Update ID:
+CURRENT_IDEA_PLACEMENT_ACTIVE_GUIDE_UPDATE_20260510
+
+Protected active source:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+
+Active files touched:
+ACTIVE_GUIDES\README_START_HERE.txt
+ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt
+ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt
+CURRENT_TRUTH_INDEX.txt
+
+Backup folder:
+PROOF_HISTORY\BACKUP_ACTIVE_GUIDES_BEFORE_CURRENT_IDEA_PLACEMENT_20260510
+
+Source proof files read if present:
+PROOF_HISTORY\SORTING_RULES_FAMILY_TREE_20260510.txt
+PROOF_HISTORY\FIXING_LANGUAGE_AND_OLD_REPAIR_JARGON_RULE_20260510.txt
+PROOF_HISTORY\EVIDENCE_CRIME_SCENE_RULE_SET_20260510.txt
+PROOF_HISTORY\ONE_HAND_GOLD_HANDLING_RULE_20260510.txt
+PROOF_HISTORY\GOLD_RECOVERY_RULE_STACK_AND_CHAT_CHECKPOINT_20260510.txt
+PROOF_HISTORY\GOLD_PAN_INDEX_REPAIRED_20260510.txt
+PROOF_HISTORY\SCOPE_STATE_TRIGGER_LOCK_REVIEW_PACKET_20260510.txt
+
+README placements:
+- Capstone working doctrine
+- Grand law: The cure is not more intelligence. The cure is clean placement of intelligence.
+- Core pillars in short operator form
+- Working cycle in short form
+- Real files / source of truth
+- Unknown ideas get parked, not guessed
+- Short Sorting Rules explanation
+- LocalBot/Codex proof anchor status
+
+WRAP placements:
+- Full working cycle behavior
+- Sorting Rules operating order
+- Pile-First Recovery workflow
+- Evidence handling and evidence dump behavior
+- Gold Pan / One-Hand Gold Handling
+- No Invisible Gold
+- Guardrails are not walls
+- Old repair-jargon bubble rule
+- Pile-making is not judging. Judging is not fixing. Fixing is not deleting.
+- CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK parked as proof-history reference only
+
+ALIGNMENT placements:
+- Sorting / judging / fixing / deleting separation check
+- No guessing placement check
+- Change-Pressure Review check
+- Promotion and bridge check
+- Old repair-jargon check
+- Misc / Junk Drawer / Unplaced Ideas check
+
+CURRENT_TRUTH_INDEX placement:
+- Installed update entry for CURRENT_IDEA_PLACEMENT_ACTIVE_GUIDE_UPDATE_20260510
+- Active guide files touched
+- Backup folder, placement map, misc pile, and receipt references
+- Statement that no recovered file was promoted as current truth by identity
+- Statement that recovered marker CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK remains parked as proof-history reference only
+
+Not copied:
+- No recovered README copied over active README.
+- No recovered WRAP copied over active WRAP.
+- No recovered ALIGNMENT copied over active ALIGNMENT.
+- No source proof file installed verbatim.
+
+Next clean state:
+Use active guides as the current package truth. Use this placement map and receipt as proof of the update route.

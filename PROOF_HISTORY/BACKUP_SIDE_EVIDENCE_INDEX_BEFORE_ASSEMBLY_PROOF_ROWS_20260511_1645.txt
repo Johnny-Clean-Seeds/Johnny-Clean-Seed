@@ -1,0 +1,108 @@
+SIDE EVIDENCE INDEX 20260511
+
+Status:
+Proof-history-only sidecar evidence index.
+Not active guide doctrine.
+Not current truth.
+Not cleanup authority.
+Not deletion approval.
+Not promotion approval.
+Not a fourth active guide.
+
+Purpose:
+Start the evidence lane cleanly so useful proof, receipts, hashes, manifests, ledgers, and candidate evidence are recorded as they are found.
+This prevents evidence from becoming loose clutter, forgotten proof, duplicate truth, or accidental doctrine.
+
+Authority boundary:
+CURRENT_TRUTH_INDEX.txt remains the package truth map.
+ACTIVE_GUIDES remains the active doctrine folder.
+AGENTS.md remains local bridge guidance.
+PROOF_HISTORY remains support proof/history.
+LIVE_SEED_TEST_001 remains test evidence only for named test scope.
+
+Patch/state IDs visible at creation:
+CLEAN_SEED_PATCH_COMMAND_MAP_HOUSEKEEPING_LOCK
+CURRENT_IDEA_PLACEMENT_ACTIVE_GUIDE_UPDATE_20260510
+
+Evidence placement rule:
+When a useful evidence item is found during approved work, add or update a compact row here or in the current evidence receipt.
+Do not promote the item by adding it here.
+Do not delete, move, overwrite, run, extract, or install anything because it appears here.
+
+Compact row shape:
+ITEM ID | SOURCE | CLAIM / JOB | STATUS | EVIDENCE | HASH / RECEIPT | NEXT GATE
+
+Status words:
+ACTIVE MAP = current package map or active-file evidence.
+LOCAL BRIDGE = Codex-local guidance evidence.
+ACTIVE GUIDE = active doctrine file evidence.
+HISTORICAL PROOF = proof-history artifact for an older or completed patch.
+CANDIDATE SUPPORT = useful proof-history candidate, not installed.
+ARCHIVE PROOF = preserved archive or intake evidence.
+STALE / NOT CURRENT = useful history but not current file state.
+UNKNOWN = needs bounded inspection.
+
+Rows:
+
+SEI-001 | C:\Users\13527\Desktop\Clean Milk not-BLOAT\CURRENT_TRUTH_INDEX.txt | Names current source-of-truth folder, active guides, support proof/history, live-test role, blocked defaults, and current patch/state references. | ACTIVE MAP | Read first and hashed at side-evidence index creation. | SHA256 6CDD8E83AE95AE76F4658188452B799633B8CE76B4AEB93346E2E1C3FC715408 | Use before active guide, proof-history, cleanup, or candidate review.
+
+SEI-002 | C:\Users\13527\Desktop\Clean Milk not-BLOAT\AGENTS.md | Names Codex local bridge role, file boundary, hard limits, and report requirements. | LOCAL BRIDGE | Read and hashed at side-evidence index creation. | SHA256 6766D1A52B02F8489448017928D794A08CB281FDE728A4BFAAEB1311A990AD5E | Use for local file-lane work inside the approved project root.
+
+SEI-003 | C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES\README_START_HERE.txt | Active startup/on-ramp guide. | ACTIVE GUIDE | Current active guide hash known. | SHA256 EFF0CE517F5647016E04715761F505DBB3D5B0023E51256EBB8750AFABDDEFF1 | Do not edit without explicit active-guide edit scope, backup, and receipt.
+
+SEI-004 | C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt | Active assistant behavior guide. | ACTIVE GUIDE | Current active guide hash known. | SHA256 94A6D202315247B69D3DA49A9F26B2DC3BB7A8DCC9BFAECB005B9E42B16D468C | Do not edit without explicit active-guide edit scope, backup, and receipt.
+
+SEI-005 | C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt | Active drift, dirty-milk, intake, and verdict alignment guide. | ACTIVE GUIDE | Current active guide hash known. | SHA256 168E475F1D62B31143E6104E617220E603712D0ADB6695F01863238247381962 | Do not edit without explicit active-guide edit scope, backup, and receipt.
+
+SEI-006 | C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PATCH_RECEIPT_PROOF_LEDGER_LOCK.txt | Proves the historical Proof Ledger Lock patch and rule ID CS-RULE-PROOF-LEDGER-001. | HISTORICAL PROOF | Receipt says a rule existing is not proof it fired, and PASS claims need visible row-by-row proof. | SHA256 B76957C06F2B7A4BC2D680DD2A9B44D663EC8BAF18E62E7D5DC1CF8A619368E6 | Use as support for sidecar evidence row practice; do not treat old patch hashes as current active hashes.
+
+SEI-007 | C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\EVIDENCE_ARCHIVE_MANIFEST.txt | Older evidence archive manifest for CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK. | STALE / NOT CURRENT | Contains older active guide hashes and older patch context. | SHA256 2F72D856475B9AF46665648F118A3A45FE2EEA43C88A05BC7AF28857D0EAE8A8 | Preserve as history; do not use as current evidence index.
+
+SEI-008 | C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\EVIDENCE_ARCHIVE_MANIFEST_COMMAND_MAP_HOUSEKEEPING_LOCK.txt | Historical evidence archive manifest for CLEAN_SEED_PATCH_COMMAND_MAP_HOUSEKEEPING_LOCK. | STALE / NOT CURRENT | Contains older active guide hashes than current files. | SHA256 52AAC869DAF1F9316B53C62B3D0AA06D30FDE98BDA4B0F9DFC87C7B5AB3C7BFD | Preserve as history; do not use as current evidence index.
+
+SEI-009 | C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\FLOW_ARCHITECTURE_MISSING_PARTS_CONCEPT_STACK_20260510.txt | Captures sidecar evidence / no hand-space theft, file-count-is-not-bloat, stop/dream/grow, clean bridge concepts. | CANDIDATE SUPPORT | It explicitly says proof-history concept stack only and not active doctrine. | SHA256 EF4720A05EB08D8461463A5501435992A389D6502D78ECBC02C6B1AFCF009A3A | Use as candidate support for evidence lane design; active-guide install requires separate review.
+
+SEI-010 | C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PROJECT_KNOWLEDGE_STACK_DRAFT_1B_REFINED_MODEL_20260510.txt | Refines project stack as process flow and defines 03_SIDE_EVIDENCE. | CANDIDATE SUPPORT | It states review draft only, not folder creation or active doctrine. | SHA256 16ADC89EE2FD0BA4FA55FF94BDF3C85CF23FA9F04FE28992BE5549DAEEE84ECA | Use for lane/job wording; do not create physical structure from this alone.
+
+SEI-011 | C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PROJECT_KNOWLEDGE_STACK_DRAFT_1C_FOLDER_FILE_SPLIT_PROPOSAL_20260510.txt | Proposes SIDE_EVIDENCE as likely future folder if indexed. | CANDIDATE SUPPORT | It states review proposal only and says folder creation remains blocked. | SHA256 3245DBDEAB24695308D54326D64A54FCB2D9937AEA770F857210274EEDE04C46 | Prefer index-first; folder only after explicit approval and volume proof.
+
+SEI-012 | C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\INTAKE_ASSESSMENT_DESKTOP_DROP_FOLDERS_20260511.txt | Inventories and classifies the two loose root drop folders before archive movement. | ARCHIVE PROOF | Names hashes, mismatches, stale guide copies, duplicate proof-history originals, and next cleanup gate. | SHA256 961A4E83BC28B52112EBB6C3DC240115B039300D0E41E1012812BF56CF1B61D9 | Use when proving why the drop folders were archived into the shed.
+
+SEI-013 | C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_DESKTOP_DROP_FOLDER_INTAKE_ARCHIVE_20260511.txt | Receipt for moving two root drop folders into PROOF_HISTORY\DESKTOP_DROP_FOLDER_INTAKE_ARCHIVE_20260511. | ARCHIVE PROOF | Proves root cleanup by archive, not delete, and active file hashes after move. | SHA256 6C2E0C3092AA69CCF8DE8FD7049B4878D6DBA40ED3C236B64243057C5918A2AA | Use when verifying current root shape and preserved archive path.
+
+SEI-014 | C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\CURRENT_IDEA_PLACEMENT_MAP_20260510.txt | Maps where the CURRENT_IDEA_PLACEMENT_ACTIVE_GUIDE_UPDATE_20260510 material was placed. | HISTORICAL PROOF | Names active files touched, backup folder, source proof files, README/Wrap/Alignment placements, current-truth entry, and not-copied boundaries. | SHA256 AAB331890FDD540B83362338C87C7011EECE8F72A660A364D118B19DA16E2F27 | Use as route proof for that installed update; do not treat it as active doctrine by itself.
+
+SEI-015 | C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\MISC_UNPLACED_IDEA_PILE_20260510.txt | Holds unclear, broad, duplicate, historical, or unsafe-to-place ideas from the current idea placement update. | HISTORICAL PROOF | Shows recovered marker and other items were parked or not promoted; states no delete action approved and no wholesale active-guide import. | SHA256 24509F874A99867C897006AB2A4522813812BA4D13FA176C8A35F02D7B477AF3 | Use when checking whether an idea was parked instead of installed.
+
+SEI-016 | C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_CURRENT_IDEA_PLACEMENT_ACTIVE_GUIDE_UPDATE_20260510.txt | Receipt for the current idea placement active-guide update. | HISTORICAL PROOF | Names backups, files updated, proof files created, and no recovered files copied over active guides. | SHA256 4CFD879A21DCC4652B1B316924577992CF3E679BF8A5A5CCA2F1A8F2F3193090 | Use with SEI-014 and SEI-015 to prove what was installed versus parked.
+
+SEI-017 | C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DEEP_CLEAN_SUPPORT_PROOF_CHECKPOINT_20260510_010947.txt | Deep Clean support-proof checkpoint for cleanup/project state at its timestamp. | STALE / NOT CURRENT | Shows root and active-guide hashes from an older state; says support-proof ideas were not installed into ACTIVE_GUIDES and cleanup was not fully complete. | SHA256 BB2CB7A2CE8D57BDE7763AE8BF1B25D102E572A5F594C5F1FC09EEEADCEDF327 | Preserve as historical checkpoint; do not use its hashes as current active hashes.
+
+SEI-018 | C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DEEP_CLEAN_SESSION_REVIEW_AND_SAVE_20260511.txt | Saved audit report for Codex shed/interlock/deep-clean session review. | HISTORICAL PROOF | Receipt says report was created as support proof/history, not active doctrine or final PASS. | SHA256 516FDE08D4A6DA3FC6D98D907A8E1C85B8F2FDE284FD8CDED5301CD28F40489E; receipt SHA256 45F97F6638BD018419803207147FA4E9487182B16F051995C7F0515A2C014206 | Use as session audit support; check current hashes separately before current-state claims.
+
+SEI-019 | C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\TARGETED_SYSTEM_COVERAGE_CHECK_20260511.txt | Targeted coverage checkpoint for current Clean Seed behavior coverage. | HISTORICAL PROOF | Finds system direction right but completeness not proven; parks broad architecture, folder structure, and master index until targeted failure proves need. | SHA256 6FE1609331C8BBC3061D0587B527B7944C81D9951097571BB3A1BBFD88D0EFED; receipt SHA256 B8BA9F342482126AF766ADD2705E48D24F708E90E0DF6EDE27A6E45049D2E53F | Use for deciding targeted real-use repair over broad architecture.
+
+SEI-020 | C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\TARGETED_SYSTEM_COVERAGE_ADDENDUM_AFTER_LIVE_TEST_009_20260511.txt | Addendum after Live Test 009 for capture/collect incomplete-pile risk. | HISTORICAL PROOF | Updates coverage judgment to covered with controlled live-test evidence for that route; no active-guide edit needed. | SHA256 635760DCA8A315C4912C1D268A150AD02F4E1EB08771D6361910D1E9E9AC0FB4; receipt SHA256 50772B092837DCCC2DA111E558B6D68CA49DF22793D3103EDC4CE05160B66664 | Use when working incomplete-pile evidence; still watch real-use cases.
+
+Current placement decision:
+Start with this index file only.
+Do not create a SIDE_EVIDENCE folder yet.
+Do not edit ACTIVE_GUIDES yet.
+Do not update CURRENT_TRUTH_INDEX.txt yet.
+Do not merge proof-history candidates into doctrine from this index alone.
+
+Respectful apply rule:
+When evidence or a useful candidate appears during future work, classify it gently and precisely:
+- already active
+- active-file evidence
+- historical proof
+- candidate support
+- archive proof
+- stale / not current
+- unknown
+- blocked
+
+Then name the next gate instead of forcing promotion.
+
+Next clean action:
+Use this index as the first sidecar evidence landing spot while continuing candidate-pressure review.

@@ -1,0 +1,48 @@
+﻿DESKTOP NEEDS-REVIEW FOLDER CLASSIFICATION
+Timestamp: 2026-05-10 00:42:47
+Root: C:\Users\13527\Desktop\Clean Milk not-BLOAT
+Proof folder: C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY
+
+Classification source:
+Based on DESKTOP_NEEDS_REVIEW_FOLDER_TOP_CONTENTS_20260510_004142.txt.
+
+1. PHASE_RUN_022_RULE_TOUCH_MAP
+Role: Clean Seed phase proof/run folder.
+Classification: proof/history, keep/capture before any cleanup.
+Gold: rule touch map, result, receipt, no-detective-hunt navigation map, final routing touch map.
+Cleanup status: not deletion candidate; possible archive/move candidate only after folder capture and user approval.
+
+2. PHASE_RUN_016_TO_020
+Role: Clean Seed phase proof/run folder group.
+Classification: proof/history, keep/capture before any cleanup.
+Gold: live-test folders 016-020 and close summary.
+Cleanup status: not deletion candidate; possible archive/move candidate only after folder capture and user approval.
+
+3. PHASE_RUN_011_TO_014
+Role: Clean Seed phase proof/run folder group.
+Classification: proof/history, keep/capture before any cleanup.
+Gold: live-test folders 011-015 and close summary.
+Cleanup status: not deletion candidate; possible archive/move candidate only after folder capture and user approval.
+
+4. PHASE_RUN_007_TO_010
+Role: Clean Seed phase proof/run folder group.
+Classification: proof/history, keep/capture before any cleanup.
+Gold: live-test folders 007-010 and close summary.
+Cleanup status: not deletion candidate; possible archive/move candidate only after folder capture and user approval.
+
+5. LIVE_TEST_006_REPAIR_AND_REPLAY
+Role: Clean Seed live-test proof folder.
+Classification: proof/history, keep/capture before any cleanup.
+Gold: simulated added files, repair pass, replay pass, close summary.
+Cleanup status: not deletion candidate; possible archive/move candidate only after folder capture and user approval.
+
+Hard boundary:
+These folders are proof/history material, not trash.
+Captured names/roles do not mean disposable.
+Before any movement or deletion, create a whole-folder capture/archive or exact move plan and stop at a checkpoint.
+
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Cleanup executed: NO
+NEXT_STATE=checkpoint before any folder archive/move decision

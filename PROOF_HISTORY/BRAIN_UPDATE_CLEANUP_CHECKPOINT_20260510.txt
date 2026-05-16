@@ -1,0 +1,160 @@
+Title:
+BRAIN UPDATE + CLEANUP CHECKPOINT 20260510
+
+Status:
+Proof-history checkpoint only.
+Not active guide doctrine.
+Not installed into ACTIVE_GUIDES.
+Not a cleanup action.
+
+Current cleanup checkpoint:
+PROJECT CLEANUP DRAFT 2B CORRECTION NOTE completed PASS.
+
+Correction note:
+PROOF_HISTORY\PROJECT_CLEANUP_DRAFT_2B_CORRECTION_NOTE_20260510.txt
+
+Known cleanup state:
+Draft 1 sorting plan exists.
+Draft 2A cleanup rule structure exists.
+Draft 2B metadata-only rescan exists.
+Draft 2B correction note exists.
+No real cleanup has been performed.
+
+Safety state:
+ACTIVE_GUIDES edited by this checkpoint: NO
+CURRENT_TRUTH_INDEX.txt edited by this checkpoint: NO
+OldSchool changed by this checkpoint: NO
+OldSchool deeper content inspected by this checkpoint: NO
+Files deleted by this checkpoint: NO
+Files moved by this checkpoint: NO
+Files renamed by this checkpoint: NO
+Existing files overwritten by this checkpoint: NO
+Files archived by this checkpoint: NO
+Files parked by this checkpoint: NO
+Files promoted by this checkpoint: NO
+Scripts run by this checkpoint: NO
+Zip files extracted by this checkpoint: NO
+Shortcuts executed by this checkpoint: NO
+Real cleanup performed by this checkpoint: NO
+
+Captured rule/design candidates:
+
+1. NEAR-RIGHT IS NOT PROOF / TARGET-LOCK BEFORE TRUST
+
+Meaning:
+A close guess is not proof.
+A plausible inference is not target precision.
+A near-right answer may be useful, but it must not be treated as a proven target hit.
+
+Rule candidate:
+If ChatGPT gives an answer from pattern, memory, vibe, or plausible structure, it must label that as inference unless exact evidence proves it hit the target.
+
+Trust boundary:
+Near-right inference cannot drive cleanup, deletion, file edits, guide installation, promotion, final PASS, or active truth.
+
+Clean role split:
+Codex/local evidence defines what exists.
+User intent defines what matters.
+Clean Seed doctrine defines what is allowed.
+ChatGPT judges the relation between those three.
+
+If one of those is missing, ChatGPT can propose, but cannot claim precision.
+
+2. GUESSES HAVE PARKING SPOTS
+
+Meaning:
+Guesses are allowed only when labeled and parked.
+
+A guess may go into:
+- inference lane
+- hypothesis lane
+- suspect candidate
+- parking lane
+- unknown-needs-review
+- draft idea
+- recommendation with guardrails
+
+A guess may not become:
+- active truth
+- file truth
+- target lock
+- PASS
+- delete authority
+- guide install
+- cleanup action
+- promotion
+
+3. ALL LANES HAVE PARKING
+
+Meaning:
+Parking is not only for ideas or guesses.
+Every lane needs a safe non-action holding state for material that belongs near that lane but is not ready to act, promote, delete, archive, compare, install, or forget.
+
+Each lane's parking must preserve:
+- role
+- boundary
+- evidence needed
+- blocked action
+- reopen condition
+- next review gate
+
+4. LANE ARCHITECTURE: HOME / JOB / KEY / PARKING / REST STOP / NEXT GATE
+
+Each lane should define:
+
+HOME:
+Where that type of material belongs.
+
+JOB:
+What the lane does and does not do.
+
+KEY:
+What permission, evidence, scope, or proof allows action.
+
+PARKING:
+Safe non-action holding state for material not ready to act.
+
+REST STOP:
+Short-term holding for clean accepted material waiting for the next proper batch.
+
+NEXT GATE:
+What must happen before movement.
+
+Applies to:
+rules, files, proofs, receipts, drafts, guesses, unknowns, source-ore, backups, blocked items, cleanup candidates, and future design ideas.
+
+5. CITY / TOWN METAPHOR DESIGN CANDIDATE
+
+Status:
+Parked design candidate only.
+
+Meaning:
+The project may be easier to explain as a town or city system.
+
+Possible service metaphors:
+- banks: protected value, proof, gold, receipts, custody
+- library/archive: reference material, history, maps, old reports
+- police: conflict, dirty milk, unsafe authority, rule-breaking
+- fire department: emergency stop, recovery, incident response
+- water company: flow, clean/dirty supply, contamination control
+- electric company: power, routing, enablement, what turns systems on
+- stores/mall: organized access to useful tools, files, guides, or ideas by category
+- roads: approved movement routes between lanes
+- keys: permission to enter or act
+- parking lots: safe holding before movement
+- homes: where each thing belongs
+- jobs: what each building/lane does
+
+Bloat warning:
+The city/town metaphor may help human understanding, but it must not become active doctrine unless it reduces complexity. It should be reviewed for clarity, scope, and bloat risk before installation.
+
+Current status of these candidates:
+Memory-captured and now locally saved as proof-history checkpoint.
+Not active doctrine.
+Not installed into ACTIVE_GUIDES.
+Not CURRENT_TRUTH_INDEX truth.
+Not cleanup authority.
+Requires later review before active-guide installation.
+
+Recommended next clean route:
+After this checkpoint is saved, review whether these candidates should remain proof-history guidance, become a Draft 2C cleanup-control refinement, or wait until cleanup is farther along.

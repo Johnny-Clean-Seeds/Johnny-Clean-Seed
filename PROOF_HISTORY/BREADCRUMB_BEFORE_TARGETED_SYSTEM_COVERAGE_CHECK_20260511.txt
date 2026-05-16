@@ -1,0 +1,28 @@
+BREADCRUMB BEFORE TARGETED SYSTEM COVERAGE CHECK 20260511
+
+Timestamp:
+2026-05-11 07:15:02 -04:00
+
+Active ball:
+Targeted system coverage check.
+
+Purpose:
+Hold a return point before checking whether the active system covers the current behaviors we rely on.
+
+Scope:
+Targeted coverage check only.
+Compare known current behaviors against installed active rules and live-test evidence.
+
+Drift watch:
+- Do not browse the whole PROOF_HISTORY shed.
+- Do not browse Desktop, Downloads, whole PC, OldSchool, or source-ore.
+- Do not install new doctrine during the check.
+- Do not create folders.
+- Do not cleanup, delete, move, rename, overwrite, or promote proof-history.
+- Stop only if user judgment is needed or a broad-risk decision appears.
+
+Return condition:
+Come back to this breadcrumb if the check starts expanding beyond active behaviors, installed rules, and known live-test evidence.
+
+Next gate:
+Run targeted coverage check and decide: covered, needs live test, needs install, park, or block.

@@ -1,0 +1,82 @@
+Patch receipt: Point Check repair and method-evidence closure
+Timestamp source: system UTC clock from container
+Timestamp: 2026-05-08T17:54:08.417058+00:00
+Active patch ID: CLEAN_SEED_PATCH_2026_05_08_POINT_CHECK_REPAIR_AND_METHOD_EVIDENCE
+
+Active claim:
+The prior Point Check / Decision Validation Loop receipt was bad evidence because the active guide files did not contain the claimed markers and the patch IDs did not match. Repair required installing the missing accepted controls into the three active guide files and retiring the bad receipt as proof.
+
+Risk level: HIGH
+Reason: patch/save/receipt proof was conflicting, and a bad receipt can create false package trust.
+
+Files reviewed:
+- README_START_HERE.txt
+- CLEAN_SEED_WRAP_GUIDE.txt
+- CLEAN_SEED_ALIGNMENT_CHECK.txt
+- PATCH_RECEIPT_POINT_CHECK_DECISION_LOOP.txt
+
+Files changed:
+- README_START_HERE.txt: sha256 3017fa07e8ef0464acf88f72ecae7e3243b5c876057ef2d8528f0257a0b6141c
+- CLEAN_SEED_WRAP_GUIDE.txt: sha256 bd237793c23afd173f6a3967573f83bee648440e8bc3bb3a43f90f868393916a
+- CLEAN_SEED_ALIGNMENT_CHECK.txt: sha256 1f8e0a0b6b0489af17d0ed3e847cf5a3e5a49c89712749167eb446f0c9661f7e
+- PATCH_RECEIPT_POINT_CHECK_DECISION_LOOP.txt: marked RETIRED / INVALID RECEIPT
+
+Backup folder:
+- /mnt/data/clean_seed_backups_2026_05_08_point_check_repair_method_evidence
+
+Prior-state hashes:
+- README_START_HERE.txt: sha256 1327ae29ae9e5f79205c25dff46a5f0f457970fb0866aa39c5c0bd1882925855
+- CLEAN_SEED_WRAP_GUIDE.txt: sha256 3c76da6dc5f30abdfe8911125f133187ffb456f6da26438c120581b35c24f4a7
+- CLEAN_SEED_ALIGNMENT_CHECK.txt: sha256 0c29131846ebfb11f4f55a0fedd1c80b53c120779fb953402de05dd975376589
+
+What changed:
+- Updated package patch ID across the three active guide files.
+- Added Point Check / Decision Validation Loop into README, Wrap Guide, and Alignment Check.
+- Added Patch Method Evidence / Direction Check into README, Wrap Guide, and Alignment Check.
+- Added Point check command route into README and Wrap Guide, and matching command-route check into Alignment Check.
+- Expanded Patch Receipt and Issue Status Footer expectations to include method, placement, affected scope, locked/saved status, proof, and direction check.
+- Retired the bad prior Point Check receipt as invalid proof.
+
+How it was applied:
+- README_START_HERE.txt received user-facing key terms, command wording, point-check explanation, patch-method explanation, and footer fields.
+- CLEAN_SEED_WRAP_GUIDE.txt received operating rules, command routing, master-rule routing, patch receipt requirements, and footer requirements.
+- CLEAN_SEED_ALIGNMENT_CHECK.txt received matching checks, master-rule prompts, command-route verification, and footer verification.
+
+Why placement is correct:
+- README explains the concept to the user before operation.
+- Wrap Guide controls assistant behavior.
+- Alignment Check verifies whether the behavior was followed.
+- The old bad receipt was evidence/history only, so it was retired as proof instead of treated as a fourth guide file.
+
+Affected-area map:
+- README: changed, because user-facing key terms, command, and footer proof needed to be visible.
+- Wrap Guide: changed, because assistant operating behavior needed to route point checks and method evidence.
+- Alignment Check: changed, because the judge/check file needed matching verification rules.
+- Startup package file count: unchanged/not affected; active startup guide files remain three only.
+- Receipt/proof lane: changed; bad receipt retired and corrected receipt created.
+- Backup lane: changed; prior state preserved in backup folder.
+- Deep Clean: unchanged/not run; this was a targeted repair, not final lock/public handoff.
+
+Evidence used:
+- Active guide files existed in /mnt/data.
+- Prior active guide patch IDs did not match the claimed Point Check receipt.
+- Prior active guide files did not contain Point Check / Decision Validation markers.
+- New marker checks and hashes were generated after save.
+
+Post-save verification:
+- Patch ID synced across all three active guide files.
+- Required markers present: Point Check / Decision Validation Loop, Patch Method Evidence / Direction Check, Point check command route, What I did footer field, How I applied it footer field, Direction check footer field.
+- Bad prior receipt now begins with RETIRED / INVALID RECEIPT.
+
+Direction verdict: PASS
+Reason: the repair directly closes the bad-receipt / missing-marker seam, adds method evidence instead of summary-only evidence, and validates one point before moving to the next path.
+
+Remaining unknowns:
+- No full Deep Clean was run after this targeted repair.
+
+Final verdict:
+PASS for targeted repair.
+PASS WITH GUARDRAILS for full package trust until a Deep Clean is run if final lock/shared handoff/promotion becomes the target.
+
+Next clean state:
+Use the three repaired guide files as the active startup pack. Keep this receipt separately as proof/history. Do not use the retired Point Check receipt as proof.

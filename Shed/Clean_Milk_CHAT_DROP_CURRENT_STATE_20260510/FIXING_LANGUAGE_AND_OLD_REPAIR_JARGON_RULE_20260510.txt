@@ -1,0 +1,66 @@
+FIXING LANGUAGE + OLD REPAIR-JARGON BUBBLE RULE
+
+Status:
+Local durable save.
+Not installed into ACTIVE_GUIDES yet.
+Created during Gold Pan / trash-digging recovery work.
+Purpose: stop rough repair jargon from making Clean Seed workflow sound sloppy, unsafe, or automatic.
+
+Core gold rule:
+Pile-making is not judging.
+Judging is not fixing.
+Fixing is not deleting.
+
+Meaning:
+Pile-making means sorting a messy evidence pile into visible groups by family, role, source, path, type, risk, or status.
+Judging means deciding value, trust, status, risk, route, or next action.
+Fixing means changing or improving the correct active file, rule, guide, wording, or workflow.
+Deleting means a separate proof-and-approval gate.
+
+Control rule:
+Do not let pile-making become judgment.
+Do not let judgment become fixing.
+Do not let fixing become deletion.
+
+Trash Dig / Pile-First Recovery:
+When working through Recycle Bin material, lost folders, duplicate guides, proof-history clutter, recovered quarantine files, or messy evidence piles, do not inspect/fix/delete item-by-item in the raw mess.
+First freeze the scene.
+Then inventory.
+Then make piles of like things.
+Then review one pile at a time.
+Then route each pile to active truth, proof history, archive, parked reference, blocked evidence, duplicate/no-new-value, or delete gate.
+
+Preferred wording:
+Use fixing, repair, correction, guide update, active-file change, install, or refinement depending on the exact action.
+
+Old repair-jargon bubble rule:
+Do not casually use the word “patch” in normal Clean Seed workflow language.
+If the word “patch” appears because it is inside an old filename, old ID, recovered marker, tool output, or exact quote, place it inside a clear warning/definition bubble and define it as old historical repair/update jargon.
+
+Required bubble:
+
+==================== OLD REPAIR-JARGON MARKER ====================
+"PATCH" here means: an old/historical repair or update label found in a file name,
+ID, recovered note, tool output, or exact quote.
+
+It does NOT mean:
+- quick hackjob
+- sloppy fix
+- automatic install
+- active guide truth
+- permission to change files
+- permission to delete anything
+==================================================================
+
+Connection to current evidence:
+The recovered README review found the old marker:
+CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK
+
+That marker is recovered quarantine evidence.
+It is not active guide truth by itself.
+The active README already partially represents the behavior through Scope-State Trigger Lock / triggerlockcheck language.
+The marker should remain proof-history/reference material unless a later guide review proves a real missing behavior.
+
+Current routing decision:
+CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK is parked as proof-history reference for now.
+No README update is approved from that marker at this time.

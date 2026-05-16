@@ -1,0 +1,36 @@
+MISC / JUNK DRAWER / UNPLACED IDEA PILE 20260510
+
+Status:
+Created for CURRENT_IDEA_PLACEMENT_ACTIVE_GUIDE_UPDATE_20260510.
+
+Purpose:
+Hold ideas that were unclear, too broad, duplicate, historical, public-facing-only, image-only, missing-source, or not active-guide safe.
+
+Unplaced or parked material:
+
+1. Public-facing-only or image-only material
+Status: NONE PROVIDED IN THIS TASK.
+Reason: no active guide placement needed.
+
+2. Missing primary source files
+Status: NONE FOUND MISSING DURING SHORT SOURCE CHECK.
+Reason: all named primary proof sources were present.
+
+3. Recovered marker CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK
+Status: PARKED AS PROOF-HISTORY REFERENCE ONLY.
+Reason: review packet classified it as partially installed. Active README already has Scope-State Trigger Lock / triggerlockcheck behavior, and the exact old marker is not active guide truth by identity.
+
+4. Old repair/update wording
+Status: PRESERVED ONLY IN WARNING/DEFINITION BUBBLE OR EXACT HISTORICAL MARKERS.
+Reason: normal guide wording should use fixing, repair, correction, guide update, active-file change, install, refinement, Change-Pressure Review, or Fixing Pressure Review.
+
+5. Recovered quarantine file identity
+Status: NOT PROMOTED.
+Reason: recovered files remain evidence until a guide review proves a specific missing behavior and approves exact active-guide wording.
+
+6. Broad Recursive Core phrasing
+Status: DISTILLED, NOT INSTALLED AS A SEPARATE LANE.
+Reason: the usable content was placed as capstone working doctrine, working cycle, and bridge/promotion checks. No separate active lane was created.
+
+No delete action approved by this pile.
+No active guide file should import this pile wholesale.

@@ -1,0 +1,769 @@
+LOCALBOT FILE CHECK 
+Checked: Thu 05/07/2026 15:30:25.22 
+Root: C:\LOCALbot 
+ 
+PASS root folder exists 
+ 
+REQUIRED FILES 
+PASS file: C:\LOCALbot\coordinator.py 
+PASS file: C:\LOCALbot\config.txt 
+ 
+REQUIRED FOLDERS 
+PASS folder: C:\LOCALbot\tasks 
+PASS folder: C:\LOCALbot\tasks\running 
+PASS folder: C:\LOCALbot\tasks\done 
+PASS folder: C:\LOCALbot\tasks\failed 
+PASS folder: C:\LOCALbot\outputs 
+ 
+OPTIONAL / COMMON FOLDERS 
+OK optional folder exists: C:\LOCALbot\cleanup_archive 
+ 
+CURRENT TREE 
+Folder PATH listing
+Volume serial number is 00000051 C2D9:1B59
+C:\LOCALBOT
+³   config.txt
+³   config_before_lock.txt
+³   config_before_timeout_checkpoint.txt
+³   config_before_timeout_recheck.txt
+³   config_model_backup.txt
+³   coordinator.py
+³   PHASES.txt
+³   worker.py
+³   
+ÃÄÄÄAssets
+ÃÄÄÄcleanup_archive
+³   ÀÄÄÄvalidator_robo_tests_2026_05_03
+³           validator_hard_stop_001.txt
+³           validator_hard_stop_001_output.txt
+³           validator_hard_stop_001_repair.txt
+³           validator_hard_stop_001_repair_output.txt
+³           validator_hard_stop_001_repair_status.txt
+³           validator_hard_stop_001_status.txt
+³           validator_v1_hard_stop_001.txt
+³           validator_v1_hard_stop_001_output.txt
+³           validator_v1_hard_stop_001_status.txt
+³           
+ÃÄÄÄHandoff_Stack
+³       LOCALBOT_BASE_AND_CORE_BUILD_ROADMAP.txt
+³       LOCALBOT_CHECKPOINT.txt
+³       LOCALBOT_FINAL_WRAP_NOTE.txt
+³       LOCALBOT_MASTER_HANDOFF.txt
+³       LOCALBOT_OCTAGON_ROUTE_MODEL_REFERENCE.txt
+³       LOCALBOT_OPEN_ISSUES.txt
+³       LOCALBOT_PHASES.txt
+³       LOCALBOT_STUDIO_FILE_INDEX.txt
+³       LOCALBOT_STUDIO_FILE_INTEGRITY.txt
+³       LOCALBOT_STUDIO_REFERENCE_PARKING.txt
+³       LOCALBOT_STUDIO_RULE_LIBRARY.txt
+³       LOCALBOT_STUDIO_VALIDATOR_RULES.txt
+³       LOCALBOT_UNIFIED_HANDOFF.txt
+³       SAVE_NOTE.txt
+³       
+ÃÄÄÄlogs
+³       coordinator.log
+³       
+ÃÄÄÄoutputs
+³       checkpoint_classify_001_output.txt
+³       checkpoint_classify_001_status.txt
+³       checkpoint_cleanup_001_output.txt
+³       checkpoint_cleanup_001_status.txt
+³       checkpoint_core_001_output.txt
+³       checkpoint_core_001_status.txt
+³       checkpoint_rewrite_001_output.txt
+³       checkpoint_rewrite_001_status.txt
+³       checkpoint_timeout_001_output.txt
+³       checkpoint_timeout_001_status.txt
+³       checkpoint_timeout_002_output.txt
+³       checkpoint_timeout_002_status.txt
+³       final_closeout_001_output.txt
+³       final_closeout_001_status.txt
+³       first_test_output.txt
+³       first_test_status.txt
+³       hardening_timeout_002_output.txt
+³       hardening_timeout_002_status.txt
+³       LocalBot_test_001_output.txt
+³       LocalBot_test_001_status.txt
+³       manual_run_2026_05_05_001_output.txt
+³       manual_run_2026_05_05_001_status.txt
+³       normal_recheck_001_core_output.txt
+³       normal_recheck_001_core_status.txt
+³       normal_recheck_002_classify_output.txt
+³       normal_recheck_002_classify_status.txt
+³       normal_recheck_003_rewrite_output.txt
+³       normal_recheck_003_rewrite_status.txt
+³       normal_recheck_004_cleanup_exact_output.txt
+³       normal_recheck_004_cleanup_exact_status.txt
+³       normal_recheck_005_cleanup_exact_repair_output.txt
+³       normal_recheck_005_cleanup_exact_repair_status.txt
+³       plain_lines_repair_output.txt
+³       plain_lines_repair_status.txt
+³       practical_001_output.txt
+³       practical_001_status.txt
+³       practical_002_output.txt
+³       practical_002_status.txt
+³       practical_003_output.txt
+³       practical_003_status.txt
+³       practical_004_output.txt
+³       practical_004_status.txt
+³       practical_005_output.txt
+³       practical_005_status.txt
+³       practical_006_output.txt
+³       practical_006_status.txt
+³       practical_007_output.txt
+³       practical_007_status.txt
+³       practical_008_output.txt
+³       practical_008_status.txt
+³       practical_009_output.txt
+³       practical_009_status.txt
+³       practical_010_output.txt
+³       practical_010_status.txt
+³       practical_011_output.txt
+³       practical_011_status.txt
+³       practical_012_output.txt
+³       practical_012_status.txt
+³       practical_013_output.txt
+³       practical_013_status.txt
+³       practical_014_output.txt
+³       practical_014_status.txt
+³       practical_015_output.txt
+³       practical_015_status.txt
+³       practical_016_output.txt
+³       practical_016_status.txt
+³       practical_017_output.txt
+³       practical_017_status.txt
+³       practical_018_output.txt
+³       practical_018_status.txt
+³       practical_019_output.txt
+³       practical_019_status.txt
+³       practical_020_output.txt
+³       practical_020_status.txt
+³       practical_021_output.txt
+³       practical_021_status.txt
+³       practical_022_output.txt
+³       practical_022_status.txt
+³       practical_023_output.txt
+³       practical_023_status.txt
+³       practical_024_output.txt
+³       practical_024_status.txt
+³       practical_025_output.txt
+³       practical_025_status.txt
+³       practical_026_output.txt
+³       practical_026_status.txt
+³       practical_027_output.txt
+³       practical_027_status.txt
+³       practical_028_output.txt
+³       practical_028_status.txt
+³       practical_029_output.txt
+³       practical_029_status.txt
+³       practical_030_output.txt
+³       practical_030_status.txt
+³       practical_031_output.txt
+³       practical_031_status.txt
+³       practical_032_output.txt
+³       practical_032_status.txt
+³       practical_033_output.txt
+³       practical_033_status.txt
+³       practical_038_output.txt
+³       practical_038_status.txt
+³       practical_039_output.txt
+³       practical_039_status.txt
+³       practical_040_output.txt
+³       practical_040_status.txt
+³       practical_041_output.txt
+³       practical_041_status.txt
+³       practical_042_output.txt
+³       practical_042_rerun_output.txt
+³       practical_042_rerun_status.txt
+³       practical_042_status.txt
+³       practical_043_output.txt
+³       practical_043_status.txt
+³       practical_044_output.txt
+³       practical_044_status.txt
+³       practical_045_output.txt
+³       practical_045_status.txt
+³       practical_046_output.txt
+³       practical_046_status.txt
+³       practical_047_output.txt
+³       practical_047_status.txt
+³       practical_048_output.txt
+³       practical_048_status.txt
+³       practical_049_output.txt
+³       practical_049_status.txt
+³       practical_050_output.txt
+³       practical_050_status.txt
+³       practical_051_output.txt
+³       practical_051_status.txt
+³       practical_052_output.txt
+³       practical_052_status.txt
+³       practical_053_output.txt
+³       practical_053_status.txt
+³       practical_054_output.txt
+³       practical_054_status.txt
+³       practical_055_output.txt
+³       practical_055_status.txt
+³       practical_056_output.txt
+³       practical_056_status.txt
+³       practical_057_output.txt
+³       practical_057_status.txt
+³       practical_058_output.txt
+³       practical_058_status.txt
+³       practical_059_output.txt
+³       practical_059_status.txt
+³       practical_060_output.txt
+³       practical_060_status.txt
+³       practical_061_output.txt
+³       practical_061_status.txt
+³       practical_062_output.txt
+³       practical_062_status.txt
+³       practical_063_output.txt
+³       practical_063_status.txt
+³       practical_064_output.txt
+³       practical_064_status.txt
+³       practical_065_output.txt
+³       practical_065_status.txt
+³       practical_066_output.txt
+³       practical_066_status.txt
+³       practical_067_output.txt
+³       practical_067_status.txt
+³       practical_068_output.txt
+³       practical_068_status.txt
+³       practical_069_output.txt
+³       practical_069_status.txt
+³       practical_070_output.txt
+³       practical_070_status.txt
+³       practical_071_output.txt
+³       practical_071_status.txt
+³       practical_072_output.txt
+³       practical_072_status.txt
+³       practical_073_output.txt
+³       practical_073_status.txt
+³       practical_074_output.txt
+³       practical_074_status.txt
+³       practical_075_output.txt
+³       practical_075_status.txt
+³       practical_076_output.txt
+³       practical_076_status.txt
+³       practical_077_output.txt
+³       practical_077_status.txt
+³       practical_078_output.txt
+³       practical_078_status.txt
+³       practical_079_output.txt
+³       practical_079_status.txt
+³       practical_080_output.txt
+³       practical_080_status.txt
+³       practical_081_output.txt
+³       practical_081_status.txt
+³       practical_082_output.txt
+³       practical_082_rerun_output.txt
+³       practical_082_rerun_status.txt
+³       practical_082_status.txt
+³       practical_083_output.txt
+³       practical_083_retry_output.txt
+³       practical_083_retry_status.txt
+³       practical_083_status.txt
+³       practical_084_output.txt
+³       practical_084_status.txt
+³       practical_085_output.txt
+³       practical_085_retry_output.txt
+³       practical_085_retry_status.txt
+³       practical_085_status.txt
+³       practical_086_output.txt
+³       practical_086_status.txt
+³       practical_087_output.txt
+³       practical_087_status.txt
+³       practical_088_output.txt
+³       practical_088_status.txt
+³       practical_089_output.txt
+³       practical_089_status.txt
+³       practical_090_output.txt
+³       practical_090_status.txt
+³       practical_091_output.txt
+³       practical_091_status.txt
+³       practical_092_output.txt
+³       practical_092_status.txt
+³       practical_093_output.txt
+³       practical_093_status.txt
+³       practical_094_output.txt
+³       practical_094_status.txt
+³       practical_095_output.txt
+³       practical_095_status.txt
+³       practical_096_output.txt
+³       practical_096_status.txt
+³       practical_097_output.txt
+³       practical_097_status.txt
+³       practical_098_output.txt
+³       practical_098_status.txt
+³       practical_099_output.txt
+³       practical_099_status.txt
+³       practical_100_output.txt
+³       practical_100_status.txt
+³       practical_101_output.txt
+³       practical_101_status.txt
+³       practical_102_output.txt
+³       practical_102_status.txt
+³       practical_103_output.txt
+³       practical_103_status.txt
+³       practical_104_output.txt
+³       practical_104_status.txt
+³       practical_105_output.txt
+³       practical_105_status.txt
+³       practical_106_output.txt
+³       practical_106_status.txt
+³       practical_107_output.txt
+³       practical_107_status.txt
+³       practical_108_output.txt
+³       practical_108_status.txt
+³       practical_109_output.txt
+³       practical_109_status.txt
+³       practical_110_output.txt
+³       practical_110_status.txt
+³       practical_111_output.txt
+³       practical_111_status.txt
+³       practical_112_output.txt
+³       practical_112_status.txt
+³       practical_113_output.txt
+³       practical_113_status.txt
+³       practical_114_output.txt
+³       practical_114_status.txt
+³       practical_115_output.txt
+³       practical_115_status.txt
+³       practical_116_output.txt
+³       practical_116_status.txt
+³       practical_117_output.txt
+³       practical_117_status.txt
+³       practical_118_output.txt
+³       practical_118_status.txt
+³       practical_119_output.txt
+³       practical_119_status.txt
+³       practical_120_output.txt
+³       practical_120_status.txt
+³       practical_121_output.txt
+³       practical_121_status.txt
+³       practical_122_output.txt
+³       practical_122_status.txt
+³       practical_123_output.txt
+³       practical_123_status.txt
+³       practical_124_output.txt
+³       practical_124_status.txt
+³       practical_125_output.txt
+³       practical_125_status.txt
+³       practical_126_output.txt
+³       practical_126_status.txt
+³       practical_127_output.txt
+³       practical_127_status.txt
+³       practical_128_output.txt
+³       practical_128_status.txt
+³       practical_129_output.txt
+³       practical_129_status.txt
+³       practical_130_output.txt
+³       practical_130_status.txt
+³       practical_131_output.txt
+³       practical_131_status.txt
+³       practical_132_output.txt
+³       practical_132_status.txt
+³       practical_133_output.txt
+³       practical_133_status.txt
+³       practical_134_output.txt
+³       practical_134_status.txt
+³       practical_135_output.txt
+³       practical_135_status.txt
+³       practical_136_output.txt
+³       practical_136_status.txt
+³       practical_137_output.txt
+³       practical_137_status.txt
+³       practical_138_output.txt
+³       practical_138_status.txt
+³       practical_139_output.txt
+³       practical_139_status.txt
+³       practical_140_output.txt
+³       practical_140_status.txt
+³       practical_141_output.txt
+³       practical_141_status.txt
+³       practical_142_output.txt
+³       practical_142_status.txt
+³       practical_143_output.txt
+³       practical_143_status.txt
+³       practical_144_output.txt
+³       practical_144_status.txt
+³       practical_145_output.txt
+³       practical_145_status.txt
+³       practical_146_output.txt
+³       practical_146_status.txt
+³       practical_147_output.txt
+³       practical_147_status.txt
+³       practical_148_output.txt
+³       practical_148_status.txt
+³       practical_149_output.txt
+³       practical_149_status.txt
+³       practical_150_output.txt
+³       practical_150_status.txt
+³       practical_151_output.txt
+³       practical_151_status.txt
+³       practical_152_output.txt
+³       practical_152_status.txt
+³       practical_153_output.txt
+³       practical_153_status.txt
+³       practical_154_output.txt
+³       practical_154_status.txt
+³       practical_155_output.txt
+³       practical_155_status.txt
+³       practical_156_output.txt
+³       practical_156_status.txt
+³       practical_157_output.txt
+³       practical_157_status.txt
+³       practical_158_output.txt
+³       practical_158_status.txt
+³       practical_159_output.txt
+³       practical_159_status.txt
+³       practical_160_output.txt
+³       practical_160_status.txt
+³       practical_161_output.txt
+³       practical_161_status.txt
+³       practical_162_output.txt
+³       practical_162_status.txt
+³       practical_163_output.txt
+³       practical_163_status.txt
+³       practical_164_output.txt
+³       practical_164_status.txt
+³       practical_165_output.txt
+³       practical_165_status.txt
+³       practical_166_output.txt
+³       practical_166_status.txt
+³       practical_167_output.txt
+³       practical_167_status.txt
+³       practical_168_output.txt
+³       practical_168_status.txt
+³       practical_169_output.txt
+³       practical_169_status.txt
+³       practical_170_output.txt
+³       practical_170_status.txt
+³       practical_171_output.txt
+³       practical_171_status.txt
+³       practical_172_output.txt
+³       practical_172_status.txt
+³       practical_173_output.txt
+³       practical_173_status.txt
+³       practical_174_output.txt
+³       practical_174_status.txt
+³       practical_175_output.txt
+³       practical_175_status.txt
+³       practical_176_output.txt
+³       practical_176_status.txt
+³       practical_177_output.txt
+³       practical_177_status.txt
+³       practical_178_output.txt
+³       practical_178_status.txt
+³       practical_179_output.txt
+³       practical_179_status.txt
+³       practical_180_output.txt
+³       practical_180_status.txt
+³       practical_181_output.txt
+³       practical_181_status.txt
+³       practical_182_output.txt
+³       practical_182_status.txt
+³       practical_183_output.txt
+³       practical_183_status.txt
+³       practical_184_output.txt
+³       practical_184_status.txt
+³       practical_185_output.txt
+³       practical_185_status.txt
+³       practical_186_output.txt
+³       practical_186_status.txt
+³       practical_187_output.txt
+³       practical_187_status.txt
+³       practical_188_output.txt
+³       practical_188_status.txt
+³       practical_189_output.txt
+³       practical_189_status.txt
+³       practical_190_output.txt
+³       practical_190_status.txt
+³       practical_191_output.txt
+³       practical_191_status.txt
+³       practical_192_output.txt
+³       practical_192_status.txt
+³       practical_193_output.txt
+³       practical_193_status.txt
+³       practical_194_output.txt
+³       practical_194_status.txt
+³       practical_195_output.txt
+³       practical_195_status.txt
+³       practical_196_output.txt
+³       practical_196_status.txt
+³       practical_197_output.txt
+³       practical_197_status.txt
+³       recovery_test_001_output.txt
+³       recovery_test_001_status.txt
+³       repeat_001_output.txt
+³       repeat_001_status.txt
+³       repeat_002_output.txt
+³       repeat_002_status.txt
+³       repeat_003_output.txt
+³       repeat_003_status.txt
+³       roblox_work_order_001_hybrid_spec_repair_output.txt
+³       roblox_work_order_001_hybrid_spec_repair_status.txt
+³       roblox_work_order_001_hybrid_spec_small_output.txt
+³       roblox_work_order_001_hybrid_spec_small_status.txt
+³       roblox_work_order_001_output.txt
+³       roblox_work_order_001_repair_output.txt
+³       roblox_work_order_001_repair_status.txt
+³       roblox_work_order_001_status.txt
+³       simple_list_output.txt
+³       simple_list_status.txt
+³       studio_checkpoint_001_red_block_pass_output.txt
+³       studio_checkpoint_001_red_block_pass_status.txt
+³       studio_fix_001_broken_part_script_output.txt
+³       studio_fix_001_broken_part_script_status.txt
+³       studio_order_001_add_test_part_output.txt
+³       studio_order_001_add_test_part_repair_output.txt
+³       studio_order_001_add_test_part_repair_status.txt
+³       studio_order_001_add_test_part_status.txt
+³       test_001_output.txt
+³       test_001_status.txt
+³       timeout_test_001_output.txt
+³       timeout_test_001_status.txt
+³       
+ÃÄÄÄReference
+³   ÀÄÄÄCore_Promotion_Architecture
+³           ChatGPT Image May 5, 2026, 12_33_25 AM.png
+³           Core_Promotion_Architecture_Generic_Packet.pdf
+³           
+ÀÄÄÄtasks
+    ÃÄÄÄdone
+    ³       checkpoint_classify_001.txt
+    ³       checkpoint_cleanup_001.txt
+    ³       checkpoint_core_001.txt
+    ³       checkpoint_rewrite_001.txt
+    ³       checkpoint_timeout_001.txt
+    ³       final_closeout_001.txt
+    ³       first_test.txt
+    ³       LocalBot_test_001.txt
+    ³       manual_run_2026_05_05_001.txt
+    ³       normal_recheck_001_core.txt
+    ³       normal_recheck_002_classify.txt
+    ³       normal_recheck_003_rewrite.txt
+    ³       normal_recheck_004_cleanup_exact.txt
+    ³       normal_recheck_005_cleanup_exact_repair.txt
+    ³       plain_lines_repair.txt
+    ³       practical_001.txt
+    ³       practical_002.txt
+    ³       practical_003.txt
+    ³       practical_004.txt
+    ³       practical_005.txt
+    ³       practical_006.txt
+    ³       practical_007.txt
+    ³       practical_008.txt
+    ³       practical_009.txt
+    ³       practical_010.txt
+    ³       practical_011.txt
+    ³       practical_012.txt
+    ³       practical_013.txt
+    ³       practical_014.txt
+    ³       practical_015.txt
+    ³       practical_016.txt
+    ³       practical_017.txt
+    ³       practical_018.txt
+    ³       practical_019.txt
+    ³       practical_020.txt
+    ³       practical_021.txt
+    ³       practical_022.txt
+    ³       practical_023.txt
+    ³       practical_024.txt
+    ³       practical_025.txt
+    ³       practical_026.txt
+    ³       practical_027.txt
+    ³       practical_028.txt
+    ³       practical_029.txt
+    ³       practical_030.txt
+    ³       practical_031.txt
+    ³       practical_032.txt
+    ³       practical_033.txt
+    ³       practical_038.txt
+    ³       practical_039.txt
+    ³       practical_040.txt
+    ³       practical_041.txt
+    ³       practical_042.txt
+    ³       practical_042_rerun.txt
+    ³       practical_043.txt
+    ³       practical_044.txt
+    ³       practical_045.txt
+    ³       practical_046.txt
+    ³       practical_047.txt
+    ³       practical_048.txt
+    ³       practical_049.txt
+    ³       practical_050.txt
+    ³       practical_051.txt
+    ³       practical_052.txt
+    ³       practical_053.txt
+    ³       practical_054.txt
+    ³       practical_055.txt
+    ³       practical_056.txt
+    ³       practical_057.txt
+    ³       practical_058.txt
+    ³       practical_059.txt
+    ³       practical_060.txt
+    ³       practical_061.txt
+    ³       practical_062.txt
+    ³       practical_063.txt
+    ³       practical_064.txt
+    ³       practical_065.txt
+    ³       practical_066.txt
+    ³       practical_067.txt
+    ³       practical_068.txt
+    ³       practical_069.txt
+    ³       practical_070.txt
+    ³       practical_071.txt
+    ³       practical_072.txt
+    ³       practical_073.txt
+    ³       practical_074.txt
+    ³       practical_075.txt
+    ³       practical_076.txt
+    ³       practical_077.txt
+    ³       practical_078.txt
+    ³       practical_079.txt
+    ³       practical_080.txt
+    ³       practical_081.txt
+    ³       practical_082.txt
+    ³       practical_082_rerun.txt
+    ³       practical_083.txt
+    ³       practical_083_retry.txt
+    ³       practical_084.txt
+    ³       practical_085.txt
+    ³       practical_085_retry.txt
+    ³       practical_086.txt
+    ³       practical_087.txt
+    ³       practical_088.txt
+    ³       practical_089.txt
+    ³       practical_090.txt
+    ³       practical_091.txt
+    ³       practical_092.txt
+    ³       practical_093.txt
+    ³       practical_094.txt
+    ³       practical_095.txt
+    ³       practical_096.txt
+    ³       practical_097.txt
+    ³       practical_098.txt
+    ³       practical_099.txt
+    ³       practical_100.txt
+    ³       practical_101.txt
+    ³       practical_102.txt
+    ³       practical_103.txt
+    ³       practical_104.txt
+    ³       practical_105.txt
+    ³       practical_106.txt
+    ³       practical_107.txt
+    ³       practical_108.txt
+    ³       practical_109.txt
+    ³       practical_110.txt
+    ³       practical_111.txt
+    ³       practical_112.txt
+    ³       practical_113.txt
+    ³       practical_114.txt
+    ³       practical_115.txt
+    ³       practical_116.txt
+    ³       practical_117.txt
+    ³       practical_118.txt
+    ³       practical_119.txt
+    ³       practical_120.txt
+    ³       practical_121.txt
+    ³       practical_122.txt
+    ³       practical_123.txt
+    ³       practical_124.txt
+    ³       practical_125.txt
+    ³       practical_126.txt
+    ³       practical_127.txt
+    ³       practical_128.txt
+    ³       practical_129.txt
+    ³       practical_130.txt
+    ³       practical_131.txt
+    ³       practical_132.txt
+    ³       practical_133.txt
+    ³       practical_134.txt
+    ³       practical_135.txt
+    ³       practical_136.txt
+    ³       practical_137.txt
+    ³       practical_138.txt
+    ³       practical_139.txt
+    ³       practical_140.txt
+    ³       practical_141.txt
+    ³       practical_142.txt
+    ³       practical_143.txt
+    ³       practical_144.txt
+    ³       practical_145.txt
+    ³       practical_146.txt
+    ³       practical_147.txt
+    ³       practical_148.txt
+    ³       practical_149.txt
+    ³       practical_150.txt
+    ³       practical_151.txt
+    ³       practical_152.txt
+    ³       practical_153.txt
+    ³       practical_154.txt
+    ³       practical_155.txt
+    ³       practical_156.txt
+    ³       practical_157.txt
+    ³       practical_158.txt
+    ³       practical_159.txt
+    ³       practical_160.txt
+    ³       practical_161.txt
+    ³       practical_162.txt
+    ³       practical_163.txt
+    ³       practical_164.txt
+    ³       practical_165.txt
+    ³       practical_166.txt
+    ³       practical_167.txt
+    ³       practical_168.txt
+    ³       practical_169.txt
+    ³       practical_170.txt
+    ³       practical_171.txt
+    ³       practical_172.txt
+    ³       practical_173.txt
+    ³       practical_174.txt
+    ³       practical_175.txt
+    ³       practical_176.txt
+    ³       practical_177.txt
+    ³       practical_178.txt
+    ³       practical_179.txt
+    ³       practical_180.txt
+    ³       practical_181.txt
+    ³       practical_182.txt
+    ³       practical_183.txt
+    ³       practical_184.txt
+    ³       practical_185.txt
+    ³       practical_186.txt
+    ³       practical_187.txt
+    ³       practical_188.txt
+    ³       practical_189.txt
+    ³       practical_190.txt
+    ³       practical_191.txt
+    ³       practical_192.txt
+    ³       practical_193.txt
+    ³       practical_194.txt
+    ³       practical_195.txt
+    ³       practical_196.txt
+    ³       practical_197.txt
+    ³       recovery_test_001.txt
+    ³       repeat_001.txt
+    ³       repeat_002.txt
+    ³       repeat_003.txt
+    ³       roblox_work_order_001.txt
+    ³       roblox_work_order_001_hybrid_spec_repair.txt
+    ³       roblox_work_order_001_hybrid_spec_small.txt
+    ³       simple_list.txt
+    ³       studio_checkpoint_001_red_block_pass.txt
+    ³       studio_fix_001_broken_part_script.txt
+    ³       studio_order_001_add_test_part.txt
+    ³       studio_order_001_add_test_part_repair.txt
+    ³       test_001.txt
+    ³       
+    ÃÄÄÄfailed
+    ³       checkpoint_timeout_002.txt
+    ³       hardening_timeout_002.txt
+    ³       roblox_work_order_001_repair.txt
+    ³       timeout_test_001.txt
+    ³       
+    ÃÄÄÄpending
+    ³       manual_run_2026_05_05_001.txtpython
+    ³       
+    ÀÄÄÄrunning
+VERDICT: CORE SHAPE PASS 

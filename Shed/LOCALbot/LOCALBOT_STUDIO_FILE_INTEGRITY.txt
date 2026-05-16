@@ -1,0 +1,166 @@
+LOCALBOT_STUDIO_FILE_INTEGRITY
+
+FILE INTEGRITY AND VERSION HYGIENE FILE
+
+Date:
+2026-05-03
+
+Purpose:
+Keep files clean, organized, and in their proper place.
+
+CORE PRINCIPLE
+
+Everything has a place for a reason.
+Everything should stay in its place.
+
+Keep the project orderly like a human would:
+- clear names
+- clear order
+- one file role at a time
+- no clutter
+- no robotic process piles
+- no unnecessary duplicate rule dumps
+
+DO NOT OVERWRITE OLD FILES CASUALLY
+
+The old LocalBot files are preserved history/reference.
+Do not overwrite them unless the user explicitly asks.
+
+For this overhaul:
+- create/update Studio V1 files
+- keep old files intact
+- avoid pretending one file fixes all files
+
+ROOT NAME RULE
+
+Use clean root filenames for active project files.
+
+Good:
+LOCALBOT_MASTER_HANDOFF.txt
+LOCALBOT_UNIFIED_HANDOFF.txt
+LOCALBOT_OPEN_ISSUES.txt
+LOCALBOT_STUDIO_RULE_LIBRARY.txt
+
+Bad:
+LOCALBOT_MASTER_HANDOFF_numbered_copy.txt
+LOCALBOT_UNIFIED_HANDOFF_numbered_copy.txt
+LOCALBOT_MASTER_HANDOFF (1).txt
+LOCALBOT_STUDIO_WORK_HELPER_MASTER_HANDOFF_FINAL_FIXED_NEW.txt
+
+ACTIVE FILE NAME RULE
+
+When updating an existing active file:
+- keep the clean root filename
+- do not auto-bump a version suffix
+- do not add duplicate-download suffixes such as "(1)" or "(2)"
+- change only the file whose role actually needs the change
+- treat old versioned copies as history/reference only
+- if filename intent is unclear, ask before creating or sending files
+
+NEW FILE RULE
+
+Do not create a new file unless it adds clarity.
+
+A new file is justified when:
+- an important rule area needs its own home
+- keeping it inside another file would create clutter
+- splitting it prevents rule collisions
+- AI needs one clear place to read a rule family
+
+A new file is not justified when:
+- the material already has a proper home
+- it is only a temporary thought
+- it duplicates another file
+- it exists only to look complete
+
+FILE ROLE RULE
+
+Master handoff:
+- active identity, scope, top authority
+
+Rule library:
+- hierarchy, command chain, octagon/symbol ledger, checkpoint command, collision rules
+
+Phases:
+- lifecycle status only
+
+Checkpoint:
+- fast current-state read and checkpoint procedure
+
+Validator:
+- helper AI checks only
+
+Reference parking:
+- parked old/future ideas only
+
+File integrity:
+- naming, versioning, placement, cleanup
+
+COPY BOX RULE
+
+Use copy boxes only when the user needs to copy something:
+- commands
+- Notepad/task paste text
+- code/file content requested for copying
+
+Do not use copy boxes for:
+- normal explanation
+- reports
+- examples
+- expected output
+- status reads
+
+If giving commands outside a wave packet:
+- label them clearly as CMD before the box
+
+If giving task text outside a wave packet:
+- label it clearly as NOTEPAD before the box
+
+Wave packet exception:
+Run Wave Packet Screens are stricter than the general copy-box rule.
+
+During wave packets:
+- every fenced code block is treated as a copy/paste command box
+- every copy/paste command box must contain exactly one runnable Windows CMD operation
+- after the Current Wave field, the packet should show command boxes only
+- do not place per-command labels or headings above wave command boxes
+- do not use headings such as CMD 1, CMD 2, Command 3, Step 4, Wave Step A, Create Task, Run, Done Check, Failed Check, Output Read, or Log Tail above boxes
+- do not bundle create, run, readback, and log checks into one box
+- wave goals, expected output, verdict rules, evidence templates, labels, explanations, and debug history belong outside the command packet or in the later verdict report
+
+NO IMAGE RULE
+
+Do not generate images or photos in this chat.
+For diagrams, use ASCII text only.
+
+CLEANUP RULE
+
+When cleaning old test artifacts:
+- archive before deleting when possible
+- do not touch runtime files unless needed
+- do not move unrelated outputs
+- do not confuse cleanup with redesign
+
+ORDERLY PROJECT RULE
+
+The project should feel designed, not piled up.
+
+Good order:
+- index first
+- master second
+- rule library third
+- phases/checkpoint next
+- validator after active control
+- reference parking near the end
+- file integrity last
+
+If a rule is high-level, place it high.
+If a rule is support-only, place it in its support file.
+If a rule belongs nowhere, pause and ask before adding clutter.
+
+
+Unified handoff file rule:
+- unified handoff is allowed because it has a distinct job
+- it summarizes current context and run evidence
+- it does not replace master authority or rule library
+- it should be updated when real project context changes enough that a future AI needs the clean read

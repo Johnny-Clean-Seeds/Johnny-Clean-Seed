@@ -1,0 +1,19 @@
+Patch receipt: Rule Checker Failure Prevention Loop
+Timestamp source: system UTC clock from container
+Timestamp: 2026-05-08T12:54:56.913033+00:00
+Active patch ID: CLEAN_SEED_PATCH_2026_05_08_RULE_CHECKER_PREVENTION_LOOP
+Changed files:
+- README_START_HERE.txt: sha256 80fd4a41e97a5d511f9924bd1e06f454836e23524337673c0c2132876578abf3
+- CLEAN_SEED_WRAP_GUIDE.txt: sha256 9311e78228e02be703870ec1ac0d2f86dd87f52400b3eb15a9a2a87dfd33f417
+- CLEAN_SEED_ALIGNMENT_CHECK.txt: sha256 d84d705492f79c6139c21a938d3f7a0ff440dbf95bb1c3c741e9bce520814e83
+Backup folder:
+- /mnt/data/clean_seed_backups_2026_05_08_rule_checker_prevention_loop
+What changed:
+- Added Prevent repeat miss command route.
+- Added Rule Checker Failure Prevention Rule to the Wrap Guide.
+- Added Rule Checker Failure Prevention Check to the Alignment Check.
+- Added a short README explanation for preventing repeat rule-checker misses.
+Post-save verification:
+- Patch ID synced across all three files.
+- Required rule/check/command text present in the expected files.
+Verdict: PASS WITH GUARDRAILS for targeted patch; full Deep Clean is required only if final lock/shared handoff is the active target.

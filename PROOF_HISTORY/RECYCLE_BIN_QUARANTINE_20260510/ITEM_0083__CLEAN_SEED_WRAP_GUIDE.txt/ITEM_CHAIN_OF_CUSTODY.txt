@@ -1,0 +1,31 @@
+ITEM CHAIN OF CUSTODY
+Recovery item number: 
+83
+Original name: 
+CLEAN_SEED_WRAP_GUIDE.txt
+Original path if available: 
+C:\Users\13527\Desktop\Clean Milk not
+Deleted date/time if available: 
+‎5/‎8/‎2026 ‏‎5:31 AM
+Size if available: 
+56.1 KB
+Type: 
+Text Document
+Recovery folder: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECYCLE_BIN_QUARANTINE_20260510\ITEM_0083__CLEAN_SEED_WRAP_GUIDE.txt
+Recovery action taken: 
+Shell namespace CopyHere into quarantine item folder
+Recovered by: Codex local bridge via Windows Shell Recycle Bin metadata/copy operation
+Timestamp: 
+2026-05-10 14:25:57 -04:00
+Hash if file hash is available: 
+6BC10F1B6A5207D844851395E801C44FEBD61EAB70D05622B40B9FFB4E9F6CDF
+Notes: Recovered as quarantine evidence only; not restored to original path; not installed into ACTIVE_GUIDES; not interpreted as active truth.
+Whether script-like: 
+NO
+Whether folder/container: 
+NO
+Whether recovery succeeded: 
+YES
+Failure reason if recovery failed: 
+NONE

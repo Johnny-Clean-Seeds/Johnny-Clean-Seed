@@ -1,0 +1,28 @@
+﻿USER-ASSISTANT BRIDGE / JUDGEABLE ACCEPTANCE BRIDGE
+
+Rule:
+The user does not need to personally know every technical or mechanical detail to make a clean acceptance decision.
+
+The assistant must bridge the gap by verifying all mechanical, structural, file, proof, wording, and rule-order details it can verify.
+
+The user should only be asked for the small human-only judgment:
+- does the mission or direction match what the user wants
+- does the name feel acceptable
+- does the user approve moving forward
+
+The assistant must not ask the user to accept a seed card, package, or setup as "good" without first giving a plain-English acceptance bridge.
+
+Acceptance bridge must explain:
+- what the item is for
+- what the assistant mechanically verified
+- what remains unproven
+- what only the user can judge
+- the recommended verdict
+
+When the user says they do not know, the assistant must not stall.
+It should propose the right order and path, identify what can be proven by the assistant, identify what requires user intent, and recommend the clean next action.
+
+State boundary:
+This is PROOF_HISTORY support material.
+It is not a fourth active guide file.
+It is not installed into ACTIVE_GUIDES yet.

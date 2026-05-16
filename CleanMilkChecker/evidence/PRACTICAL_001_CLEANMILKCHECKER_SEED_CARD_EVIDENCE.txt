@@ -1,0 +1,42 @@
+﻿PRACTICAL USE EVIDENCE - PRACTICAL 001
+
+Active target:
+CleanMilkChecker
+
+Current stage:
+Stage 4 - Practical Use
+
+Action taken:
+Checked the real CleanMilkChecker seed card using the CleanMilkChecker verdict-report pattern.
+
+Input:
+C:\CleanSeedsBuild\CleanMilkChecker\SEED_BUILD_CARD.txt
+
+Prompt:
+C:\CleanSeedsBuild\CleanMilkChecker\prompts\CLEAN_MILK_CHECKER_PROMPT.txt
+
+Output:
+C:\CleanSeedsBuild\CleanMilkChecker\outputs\PRACTICAL_001_CLEANMILKCHECKER_SEED_CARD_VERDICT.txt
+
+Expected result:
+Checker produces a practical verdict report against real project material.
+
+Actual result:
+Checker produced a PASS WITH GUARDRAILS verdict for the CleanMilkChecker seed card.
+
+What this proves:
+CleanMilkChecker can be used on real clean-seed project material, not only artificial test cards.
+
+Guardrail:
+This is still a manual checker pattern. It is not automatic, not self-editing, and not the full Clean Seed Builder.
+
+Pass judge:
+User review.
+
+Verdict scope:
+File-save action passed.
+Practical 001 checked-input verdict was PASS WITH GUARDRAILS.
+Stage 4 remains PARTIAL until enough practical-use evidence exists and closeout is saved.
+
+Next clean state:
+Run one more practical check against current project closeout/evidence, then decide whether Stage 4 can close.

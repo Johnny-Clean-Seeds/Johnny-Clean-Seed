@@ -1,0 +1,91 @@
+OLDSCHOOL INTAKE MAP
+
+Status:
+Read-only intake map. OldSchool is source-ore / relic material, not active guide truth.
+
+Location:
+C:\Users\13527\Desktop\OldSchool
+
+Folder exists:
+YES
+
+Top-level file count:
+17
+
+Top-level folder count:
+1
+
+Recursive file count:
+28
+
+Recursive folder count:
+2
+
+Top-level item names:
+[FILE] ChatGPT Image May 7, 2026, 03_18_04 AM (1).png
+[FILE] ChatGPT Image May 7, 2026, 03_18_05 AM (2).png
+[FILE] ChatGPT Image May 7, 2026, 03_18_05 AM (3).png
+[FILE] ChatGPT Image May 7, 2026, 03_18_05 AM (4).png
+[FILE] ChatGPT Image May 7, 2026, 03_18_05 AM (5).png
+[FILE] ChatGPT Image May 7, 2026, 03_18_06 AM (6).png
+[FILE] ChatGPT Image May 7, 2026, 03_18_06 AM (7).png
+[FILE] ChatGPT Image May 7, 2026, 03_18_06 AM (8).png
+[FILE] ChatGPT Image May 7, 2026, 03_18_06 AM (9).png
+[FILE] ChatGPT Image May 7, 2026, 12_10_29 AM.png
+[FILE] CLEAN_SEED_ALIGNMENT_CHECK.txt
+[FILE] CLEAN_SEED_WRAP_GUIDE.txt
+[FILE] localbot_machine_evidence.md
+[DIR] OLDBOT OVERBUILT
+[FILE] README_START_HERE.txt
+[FILE] recursive_core_architecture.md
+[FILE] Slow Bot.lnk
+[FILE] SLOW_BOT_SETUP_README.txt
+
+File extensions summary:
+.lnk=1
+.md=2
+.png=10
+.txt=15
+
+Names that look like Clean Seed / Clean Milk / LocalBot / Codex / proof / receipt / manifest / guide / map / rule / idea / old concept material:
+[FILE] C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_04 AM (1).png
+[FILE] C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_05 AM (2).png
+[FILE] C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_05 AM (3).png
+[FILE] C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_05 AM (4).png
+[FILE] C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_05 AM (5).png
+[FILE] C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_06 AM (6).png
+[FILE] C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_06 AM (7).png
+[FILE] C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_06 AM (8).png
+[FILE] C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_06 AM (9).png
+[FILE] C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 12_10_29 AM.png
+[FILE] C:\Users\13527\Desktop\OldSchool\CLEAN_SEED_ALIGNMENT_CHECK.txt
+[FILE] C:\Users\13527\Desktop\OldSchool\CLEAN_SEED_WRAP_GUIDE.txt
+[FILE] C:\Users\13527\Desktop\OldSchool\localbot_machine_evidence.md
+[DIR] C:\Users\13527\Desktop\OldSchool\OLDBOT OVERBUILT
+[DIR] C:\Users\13527\Desktop\OldSchool\OLDBOT OVERBUILT\Ai Assistant
+[FILE] C:\Users\13527\Desktop\OldSchool\OLDBOT OVERBUILT\Ai Assistant\LOCALBOT_AI_TONE_AND_PERSONA_POLISHED_V1.0.txt
+[FILE] C:\Users\13527\Desktop\OldSchool\OLDBOT OVERBUILT\Ai Assistant\LOCALBOT_HELPER_PROJECT_CONTEXT_V1.14.txt
+[FILE] C:\Users\13527\Desktop\OldSchool\OLDBOT OVERBUILT\Ai Assistant\LOCALBOT_SYSTEM_SPECS_SUB_V1.1.txt
+[FILE] C:\Users\13527\Desktop\OldSchool\OLDBOT OVERBUILT\LOCALBOT_BASE_AND_CORE_BUILD_ROADMAP_V1.5.txt
+[FILE] C:\Users\13527\Desktop\OldSchool\OLDBOT OVERBUILT\LOCALBOT_CHECKPOINT_V2.12.txt
+[FILE] C:\Users\13527\Desktop\OldSchool\OLDBOT OVERBUILT\LOCALBOT_MASTER_HANDOFF_V3.15.txt
+[FILE] C:\Users\13527\Desktop\OldSchool\OLDBOT OVERBUILT\LOCALBOT_PHASES_V1.12.txt
+[FILE] C:\Users\13527\Desktop\OldSchool\OLDBOT OVERBUILT\LOCALBOT_PROJECT_WHOLE_SUMMARY_V1.7.txt
+[FILE] C:\Users\13527\Desktop\OldSchool\OLDBOT OVERBUILT\LOCALBOT_SYSTEM_SPECS_MASTER_V1.4.txt
+[FILE] C:\Users\13527\Desktop\OldSchool\OLDBOT OVERBUILT\LOCALBOT_UNIFIED_HANDOFF_V3.6.txt
+[FILE] C:\Users\13527\Desktop\OldSchool\OLDBOT OVERBUILT\Notes_ConceptsV2.0.txt
+[FILE] C:\Users\13527\Desktop\OldSchool\README_START_HERE.txt
+[FILE] C:\Users\13527\Desktop\OldSchool\recursive_core_architecture.md
+[FILE] C:\Users\13527\Desktop\OldSchool\Slow Bot.lnk
+[FILE] C:\Users\13527\Desktop\OldSchool\SLOW_BOT_SETUP_README.txt
+
+Scripts, shortcuts, zips, or command-looking items that must stay blocked:
+[FILE] C:\Users\13527\Desktop\OldSchool\Slow Bot.lnk
+
+Whether deeper content scan is needed later:
+YES
+
+Notes:
+OldSchool was inventoried by metadata only.
+No OldSchool contents were edited, moved, renamed, deleted, extracted, executed, or promoted.
+OldSchool remains relic/source-ore only and is not active guide truth.

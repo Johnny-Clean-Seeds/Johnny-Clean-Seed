@@ -1,0 +1,23 @@
+﻿FUTURE CHAT RELOAD / THREE-FILE INTAKE RULE
+
+Rule:
+When starting a future Clean Seed chat from the Desktop mirror, upload the three files in ACTIVE_GUIDES first.
+
+Upload first:
+- README_START_HERE.txt
+- CLEAN_SEED_WRAP_GUIDE.txt
+- CLEAN_SEED_ALIGNMENT_CHECK.txt
+
+Do not upload PROOF_HISTORY as active doctrine.
+Do not upload LIVE_SEED_TEST_001 as active doctrine.
+Use PROOF_HISTORY only when the assistant needs receipts, hashes, Deep Clean reports, patch state, or local-save proof.
+Use LIVE_SEED_TEST_001 only when the assistant needs live-test evidence.
+
+Assistant intake requirement:
+The assistant must treat the three ACTIVE_GUIDES files as active guide material.
+The assistant must treat proof/history/live-test files as support evidence only unless the user explicitly promotes a file after review.
+The assistant must not create a fourth active guide file.
+
+State boundary:
+This is PROOF_HISTORY support material.
+It does not modify ACTIVE_GUIDES.

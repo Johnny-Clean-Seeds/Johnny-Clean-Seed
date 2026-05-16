@@ -1,0 +1,37 @@
+﻿PRACTICAL USE EVIDENCE - PRACTICAL 002
+
+Active target:
+CleanMilkChecker
+
+Current stage:
+Stage 4 - Practical Use
+
+Action taken:
+Checked the current project evidence stack for required files.
+
+Input:
+CleanMilkChecker project folder:
+C:\CleanSeedsBuild\CleanMilkChecker
+
+Output:
+C:\CleanSeedsBuild\CleanMilkChecker\outputs\PRACTICAL_002_PROJECT_EVIDENCE_STACK_VERDICT.txt
+
+Expected result:
+Required project evidence files are present.
+
+Actual result:
+PASS WITH GUARDRAILS
+
+Missing files:
+No required files missing.
+
+Pass judge:
+User review.
+
+Verdict scope:
+File-save action is separate from checked-input verdict.
+Practical 002 checked-input verdict is PASS WITH GUARDRAILS.
+Stage 4 remains PARTIAL until closeout is saved.
+
+Next clean state:
+If the printed output says PASS, save Stage 4 closeout.

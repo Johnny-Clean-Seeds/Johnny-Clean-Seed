@@ -1,0 +1,498 @@
+PROJECT KNOWLEDGE STACK DRAFT 1B — REFINED MODEL 20260510
+
+Status:
+Proof-history-only review draft.
+Not active guide doctrine.
+Not current truth.
+Not cleanup authority.
+Not folder-creation approval.
+Not deletion approval.
+Not promotion approval.
+
+Purpose:
+Refine the Project Knowledge Stack model by merging Draft 1 architecture with the missing flow-architecture concepts and the 123pickupsticks controlled-worker idea source.
+
+Source materials:
+1. PROJECT_KNOWLEDGE_STACK_DRAFT_1_ARCHITECTURE_20260510.txt
+   Source path:
+   C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PROJECT_KNOWLEDGE_STACK_DRAFT_1_ARCHITECTURE_20260510.txt
+   SHA256:
+   58936D8B9AB15913FFA69E277F87050C12E408346D3DBA3D0FBC920C972CD528
+
+2. FLOW_ARCHITECTURE_MISSING_PARTS_CONCEPT_STACK_20260510.txt
+   Source path:
+   C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\FLOW_ARCHITECTURE_MISSING_PARTS_CONCEPT_STACK_20260510.txt
+   SHA256:
+   EF4720A05EB08D8461463A5501435992A389D6502D78ECBC02C6B1AFCF009A3A
+
+3. 123pickupsticks.txt
+   Source path:
+   C:\Users\13527\Desktop\123pickupsticks.txt
+   SHA256:
+   B31EE773CFA0D01B6B57DF4BB522093F51613C8ED16DE7C32AEE46A901A7F1A7
+
+Checkpoint before this draft:
+C:\Users\13527\Desktop\CHECKPOINT_KNOWLEDGE_STACK_1B_REVIEW_HOLD_20260510.txt
+SHA256:
+7BB3E1305BDC86B8DD072EE206C64CBE4C7063F908F115B030EC4C8D690D4962
+
+
+CORE REFINEMENT
+
+Draft 1 was mostly a category structure.
+Draft 1B reframes the system as a process-flow assembly line.
+
+The clean model is not only “where files go.”
+The clean model is “what stage the material is in, what proof exists, what authority it has, what gate controls it, and what next action is allowed.”
+
+The system should prevent:
+- source-ore becoming active truth by identity
+- evidence becoming doctrine
+- candidates becoming current conduct
+- filing becoming deletion
+- drift becoming action
+- indexes becoming duplicate truth
+- many files becoming unindexed authority
+- cleanup work becoming uncontrolled folder movement
+
+
+SOURCE-OF-TRUTH BOUNDARY
+
+CURRENT_TRUTH_INDEX.txt remains the package truth map.
+ACTIVE_GUIDES remain active doctrine.
+AGENTS.md remains local bridge guidance.
+PROOF_HISTORY remains proof/history.
+OldSchool and origin material remain source-ore unless separately reviewed and promoted.
+This Draft 1B does not override any of those roles.
+
+Future PROJECT_MISSION_CONTROL_INDEX.txt, if approved later, should be a project-stack front door only.
+It must not replace CURRENT_TRUTH_INDEX.txt.
+
+Future 99_MASTER_INDEX, if approved later, should index knowledge-stack contents only.
+It must not become package truth by itself.
+
+
+LOAD ORDER
+
+1. CURRENT_TRUTH_INDEX.txt
+2. AGENTS.md
+3. ACTIVE_GUIDES as current doctrine
+4. PROJECT_MISSION_CONTROL_INDEX.txt only if later approved as project-stack front door
+5. Current conduct stack
+6. Evidence and receipt indexes as proof support only
+7. Source-ore maps for OldSchool/origin material, never source-ore by identity
+
+
+ASSEMBLY-LINE MODEL
+
+Clean work should move through stations in order:
+
+FRONT DOOR
+FREEZE
+INVENTORY
+SORT
+JUDGE
+FILE
+SEAL
+SEND / DO
+PARK / REST / BLOCK
+CONTROLLED DRIFT CAPTURE
+
+The station order matters.
+
+FREEZE:
+Stop movement before review.
+No move, delete, restore, overwrite, promote, run, extract, or shortcut execution.
+
+INVENTORY:
+Record name, path, type, role, source, status, size, modified time, and visible evidence.
+Inventory is not judgment.
+
+SORT:
+Make piles.
+Sorting is not judging.
+
+JUDGE:
+Classify value, risk, authority, and next gate.
+Judging is not filing.
+
+FILE:
+Route judged material into the correct lane.
+Filing is not deletion.
+
+SEAL:
+Verify exact scope with proof row, receipt, index row, hash when needed, and next clean state.
+
+SEND / DO:
+Output, create, move, archive, install, promote, or cleanup only after seal or explicit approval.
+
+PARK / REST / BLOCK:
+Hold material that is useful, accepted-but-not-ready, or unsafe to use.
+
+CONTROLLED DRIFT CAPTURE:
+Record drift as source material without letting it become active truth.
+
+
+GOLDEN SEPARATION
+
+Pile-making is not judging.
+Judging is not filing.
+Filing is not deleting.
+Deleting requires a separate proof-and-approval gate.
+
+
+PROPOSED LANE MODEL
+
+Important guardrail:
+These are proposed lanes for the refined model.
+They are not approved as physical folders yet.
+Some may later become sections inside an index instead of folders.
+
+00_FRONT_DOOR
+HOME:
+Load order, front route, master pointer, current package boundary.
+JOB:
+Tell the worker what to read first and what not to obey.
+KEY:
+CURRENT_TRUTH_INDEX remains package truth. Future PROJECT_MISSION_CONTROL_INDEX may be a front door only if approved.
+NEXT GATE:
+User approval before creating or changing any front-door file.
+DIRTY IF:
+This lane becomes a second source of truth.
+
+01_CURRENT_CONDUCT
+HOME:
+Current operating state, active task, active boundaries, current next clean action.
+JOB:
+Keep the worker oriented to what is happening now.
+KEY:
+Active target, scope, blocked actions, current mode.
+NEXT GATE:
+Conduct update review.
+DIRTY IF:
+It absorbs source-ore, candidates, or evidence as authority.
+
+02_ACTIVE_TARGETS
+HOME:
+One active job at a time.
+JOB:
+Prevent scattered work and spinning wheels.
+KEY:
+Target, scope, pass condition, close condition, next action.
+NEXT GATE:
+Close, park, yield, or proceed after proof.
+DIRTY IF:
+Multiple targets run without closure.
+
+03_SIDE_EVIDENCE
+HOME:
+Proof rows, hashes, receipts, source links, trace rows.
+JOB:
+Keep evidence beside the work without stealing hand-space.
+KEY:
+ITEM | SOURCE | PILE | STATUS | EVIDENCE | NEXT GATE
+NEXT GATE:
+Evidence index or receipt update.
+DIRTY IF:
+Evidence becomes loose report clutter or doctrine by identity.
+
+04_IDEA_POOL
+HOME:
+Dream material, guesses, candidates, metaphors, possible rules.
+JOB:
+Capture ideas without giving them authority.
+KEY:
+Idea label, source, status, reason, blocked action, reopen condition.
+NEXT GATE:
+Candidate review, bloat check, placement review.
+DIRTY IF:
+A good-sounding idea becomes active truth.
+
+05_SORTED_PILES
+HOME:
+Grouped material awaiting judgment.
+JOB:
+Make the mess visible before decisions are made.
+KEY:
+Pile name, source family, item count, role, risk, next gate.
+NEXT GATE:
+Pile judgment.
+DIRTY IF:
+Sorting becomes judgment or filing.
+
+06_CLEAN_MERGE_PLATE
+HOME:
+One-task full-cycle refinement.
+JOB:
+Merge the best reviewed improvements into one cleaner draft or plan.
+KEY:
+Original source, current draft, improvement pile, merged result, parked leftovers.
+NEXT GATE:
+Review draft seal or user approval.
+DIRTY IF:
+The plate merges unrelated jobs or installs unjudged ideas.
+
+07_BRIDGES
+HOME:
+Bridge tickets for controlled movement between lanes.
+JOB:
+Prevent loose movement.
+KEY:
+Source lane, destination lane, reason, evidence, authority, change, protected state, dirty risk, close condition.
+NEXT GATE:
+Bridge approval or rejection.
+DIRTY IF:
+Bridge becomes shortcut around proof or approval.
+
+08_REST_STOPS
+HOME:
+Accepted clean material waiting for next proper batch.
+JOB:
+Hold clean material without installing it.
+KEY:
+Item, source, reason accepted, target batch, not-active status.
+NEXT GATE:
+Batch review.
+DIRTY IF:
+Rest stop is treated as installed.
+
+09_PARKING
+HOME:
+Useful not-ready material with reopen conditions.
+JOB:
+Preserve future growth without hijacking current work.
+KEY:
+Parked item, source, reason, reopen condition, blocked actions.
+NEXT GATE:
+Reopen review.
+DIRTY IF:
+Parked material starts controlling the active task.
+
+10_BLOCKED_QUARANTINED
+HOME:
+Scripts, shortcuts, zips, no-key material, risky files, command-looking items.
+JOB:
+Keep risky or inert evidence visible but non-executing.
+KEY:
+Exact path, item type, blocked reason, quarantine state, approval needed.
+NEXT GATE:
+Blocked-item gate.
+DIRTY IF:
+Blocked material is run, extracted, renamed into use, deleted, or trusted without gate.
+
+11_SOURCE_ORE_INDEX
+HOME:
+OldSchool, origin concepts, recovered files, older guide-looking material.
+JOB:
+Preserve source lineage without promotion.
+KEY:
+Original path, source type, timestamp if available, intake status, future review scope.
+NEXT GATE:
+Source-ore content review or comparison.
+DIRTY IF:
+Source-ore overrides active guides because it looks familiar, older, newer, or large.
+
+99_MASTER_INDEX
+HOME:
+Index of the knowledge stack contents.
+JOB:
+Tell the worker where the stack material lives and what each item’s status is.
+KEY:
+Lane list, file list, status, evidence links, next gates.
+NEXT GATE:
+Index update receipt.
+DIRTY IF:
+It overrides CURRENT_TRUTH_INDEX or becomes stale duplicate truth.
+
+
+SIDECAR EVIDENCE RULE
+
+Evidence must sit beside the job, not take over the working hand.
+
+Use compact proof rows:
+
+ITEM | SOURCE | PILE | STATUS | EVIDENCE | NEXT GATE
+
+Clean evidence is bounded, indexed, tied to the active claim, and does not interrupt the one active task.
+
+Dirty evidence becomes loose clutter, duplicate truth, hoarding, or authority by identity.
+
+
+FILE COUNT IS NOT BLOAT RULE
+
+File count is not the enemy.
+Unindexed authority is the enemy.
+
+A file is clean only if it has:
+- home
+- job
+- key
+- source or parent
+- timestamp if available
+- role/status
+- evidence link
+- index row
+- next gate
+- active/reference/proof/parked/blocked state
+
+Many files can be clean if indexed.
+Few files can be dirty if their roles, authority, status, and paths are unclear.
+
+
+STOP / DREAM / GROW MODE SWITCH
+
+Before acting, the worker must know the mode.
+
+STOP:
+Close, hold, verify, yield, or stop expanding because the cycle needs proof, risk control, or user judgment.
+
+DREAM:
+Generate ideas only into idea-pool, parking, or rest-stop lanes.
+DREAM does not edit active guides.
+DREAM does not create folders.
+DREAM does not cleanup.
+DREAM does not promote.
+
+GROW:
+Build, promote, connect, or expand only after evidence, authority, bridge, approval, and verification gates pass.
+
+This Draft 1B is DREAM + STRUCTURE REVIEW only.
+It is not GROW.
+
+
+ONE-TASK FULL-CYCLE IDEA POOL / CLEAN MERGE
+
+The system may complete a full cycle for one active target.
+
+For one target, it may:
+- read source
+- produce work
+- compare against source
+- make an improvement pile
+- classify improvements
+- merge the best into a cleaner plate
+- park or reject the rest
+- leave sidecar evidence
+
+This is not multitasking.
+It is one closed loop.
+
+Dirty condition:
+The cycle starts multiple jobs, follows unrelated branches, or merges without classification.
+
+
+BRIDGE TICKET
+
+Any movement between lanes needs a bridge ticket.
+
+Bridge ticket fields:
+SOURCE LANE:
+DESTINATION LANE:
+REASON:
+EVIDENCE REQUIRED:
+AUTHORITY REQUIRED:
+WHAT CHANGES:
+WHAT STAYS PROTECTED:
+DIRTY IF:
+CLOSE CONDITION:
+
+No bridge ticket, no lane movement.
+
+
+CONTROLLED DRIFT CAPTURE
+
+Uncontrolled drift is dirty.
+Controlled drift is source fuel.
+
+Drift may include:
+- wandering idea
+- unexpected lead
+- repeated confusion
+- naming collision
+- source mismatch
+- near-right guess
+- old rule pressure
+- workflow friction
+
+For each drift item, record:
+DRIFT ITEM:
+WHERE FOUND:
+WHY IT MAY MATTER:
+LANE:
+STATUS:
+PROOF NEEDED:
+NEXT GATE:
+BLOCKED FROM:
+install / delete / promote / overwrite / execute
+
+Drift must not install rules, edit guides, delete files, promote source-ore, override CURRENT_TRUTH_INDEX, or become proof by sounding useful.
+
+
+NEIGHBOR RESPECT RULE
+
+Every lane must respect neighboring lanes and partner rules.
+
+Evidence cannot become doctrine.
+Source-ore cannot become active truth.
+Candidates cannot become current conduct.
+Blocked items cannot become usable because convenient.
+Filing cannot become deletion.
+A master index cannot override CURRENT_TRUTH_INDEX unless explicitly approved.
+A rule cannot fix one lane by damaging another.
+
+
+SEAL BEFORE SEND / DO
+
+No output, install, move, archive, delete, promote, cleanup action, folder creation, or guide update should happen until the item has:
+- lane
+- proof row
+- next gate
+- approval state
+- known blocked actions
+- scope-specific seal or explicit user approval
+
+
+GUARDRAILS
+
+1. Draft 1B is a review draft only.
+2. Proposed lanes are not approved physical folders yet.
+3. Final folder/file split is not approved.
+4. ACTIVE_GUIDES remain active doctrine.
+5. CURRENT_TRUTH_INDEX remains package truth.
+6. PROJECT_MISSION_CONTROL_INDEX, if approved later, is only a future project-stack front door.
+7. 99_MASTER_INDEX indexes the knowledge stack only and must not replace CURRENT_TRUTH_INDEX.
+8. No cleanup, movement, deletion, extraction, execution, guide update, or current-truth update is approved by this draft.
+
+
+RECOMMENDED NEXT ACTION
+
+Review Draft 1B.
+
+If accepted, the next clean action would be one of these:
+
+A. Hold Draft 1B as proof-history reference only.
+B. Create a smaller PROJECT_MISSION_CONTROL_INDEX draft, proof-history only.
+C. Create a physical folder/file split proposal, not the folders.
+D. Revise Draft 1B to reduce lane count before any structure is created.
+
+Recommended:
+A first, then C if the structure still feels useful after review.
+
+
+SAFETY CONFIRMATION FOR THIS DRAFT
+
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+Folders created: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Existing files overwritten: NO, unless an earlier Draft 1B existed and was backed up first
+Scripts run: NO
+Shortcuts executed: NO
+Zip files extracted: NO
+Cleanup performed: NO
+Promotion performed: NO
+
+Verdict:
+REVIEW DRAFT ONLY.

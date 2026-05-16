@@ -1,0 +1,309 @@
+SHED-TO-ASSEMBLY REFINEMENT METHOD STACK
+
+Status:
+Proof-history-only refinement method stack.
+Not active guide doctrine.
+Not current truth.
+Not cleanup authority.
+Not deletion approval.
+Not folder-creation approval.
+Not promotion approval.
+Not technician final authority.
+
+Purpose:
+Capture the new thinking layer that emerged from the Shed-to-Assembly Interlock work:
+drafts should feed new judgment, variants should open controlled doors, metaphors should be tested for fit, and names must preserve their original path.
+
+Core law:
+Drafts are not paperwork.
+Drafts are judgment fuel.
+
+Second law:
+Refinement must improve the next decision, not become the next prison.
+
+SECTION 1 — DRAFTS FEED NEW JUDGMENT / BOUNDED REFINEMENT
+
+Use drafts, reports, and concept notes as live judgment fuel before major decisions.
+
+Trigger:
+Use before decisions about:
+- structure
+- authority
+- storage
+- technician role
+- folder creation
+- cleanup
+- deletion
+- active-guide installation
+- CURRENT_TRUTH_INDEX update
+- promotion
+- final trust
+
+Required refinement pass:
+1. Name the active judgment call.
+2. Pull forward the relevant drafts, reports, receipts, and concept notes.
+3. Compare how the model evolved from A to B to C.
+4. Name the words or ideas that caused each shift.
+5. Name what each draft solved.
+6. Name what each draft broke or risked.
+7. Name the tradeoff.
+8. Choose the best fit for situation, load, risk, context, and failure mode.
+9. Close with promote, park, block, save, handoff, continue, or yield.
+
+Dirty state:
+Drafts pile up as dead paperwork, or refinement loops forever without an active decision.
+
+Clean state:
+Drafts feed the next decision and then close into a next clean action.
+
+Stop condition:
+Stop when the refinement produces a bounded next action, or when it yields because evidence, authority, or scope is missing.
+
+
+SECTION 2 — EVOLUTION / TRADEOFF THINKING
+
+Core law:
+Fit beats universal best.
+
+There is no universal best structure.
+There is only better fit for the situation, load, risk, context, and failure mode.
+
+Use this before adding:
+- rules
+- folders
+- proof files
+- technician autonomy
+- names
+- preservation
+- deletion
+- gates
+- indexes
+- authority routes
+
+Tradeoff question:
+What does this improve?
+What does this cost?
+What new failure mode does it create?
+What situation is it best for?
+What situation makes it bad?
+
+Gun-capacity analogy:
+A gun with more bullets may give more capacity, but it may also add weight, complexity, different malfunction modes, slower handling, or harder maintenance.
+
+Clean Seed examples:
+- more rules can reduce drift but increase bloat
+- more folders can improve storage but create folder mess
+- more technician autonomy can improve local judgment but increase review risk
+- more proof can increase trust but create proof-history overload
+- more naming can reveal structure but create false authority
+- more preservation can save gold but create hoarding pressure
+- more deletion can clean space but destroy evidence
+
+Dirty state:
+The assistant treats one model, metaphor, structure, or rule as universally best.
+
+Clean state:
+The assistant chooses the fit that matches the active situation and names the cost.
+
+
+SECTION 3 — PRISM-TO-FUNNEL / CONTROLLED VARIATION
+
+Core law:
+Variants are not clutter if they are generated with a comparison purpose and closed through convergence.
+
+Purpose:
+Generate many related variants from one topic that are close enough to compare but different enough to open new doors. Then recombine the best pieces into a stronger model, rule, cycle, or plan.
+
+This is not random brainstorming.
+This is not endless analysis.
+This is not authority creation.
+
+Working pattern:
+1. Active topic
+2. Prism split
+3. Variant list
+4. Tradeoff comparison
+5. Failure-mode check
+6. Recombination
+7. Cycle update
+8. Park unused branches
+
+Example:
+Topic = hair.
+
+Possible lenses:
+- biology
+- identity
+- style
+- protection
+- culture
+- material / fiber
+- maintenance
+- health evidence
+- tools
+- failure modes
+- growth / trimming metaphor
+- contamination / mess risk
+
+Each lens is still about hair, but each opens a different door.
+
+Apply to Clean Seed:
+When judging a major model, rule, structure, metaphor, technician role, folder plan, cleanup plan, or promotion path, generate controlled variants.
+
+For each variant, ask:
+- what it solves
+- what it hides
+- what failure mode it creates
+- where it fits
+- where it does not fit
+- what should be preserved
+- what should be parked
+- what should feed the next cycle
+
+Guardrails:
+- no endless branching
+- no fake novelty
+- no metaphor worship
+- no variant becomes authority by sounding useful
+- every variant must feed the active judgment, park cleanly, or be rejected with reason
+
+
+SECTION 4 — ANALOGY / METAPHOR REASONING
+
+Core law:
+Analogies are comparison tools, not doctrine.
+
+Use analogies to compare systems and expose hidden structure.
+
+Examples:
+- shed
+- house
+- workbench
+- lockbox
+- label maker
+- trash can
+- caution tape
+- assembly line
+- gun tradeoffs
+- city map
+- roads / bridges / gates
+
+Every analogy must be checked for:
+1. What it explains well.
+2. What it hides.
+3. What wrong behavior it may encourage.
+4. Where it stops applying.
+
+Dirty state:
+A metaphor becomes authority or hides a real boundary.
+
+Clean state:
+A metaphor helps judgment and stays below evidence, authority, and current truth.
+
+
+SECTION 5 — NAME WRAP PROVENANCE / ALIAS-NOT-REPLACEMENT
+
+Core law:
+A better label must not cut the wire to the original key.
+
+Words are paths and keys.
+Names can route authority, action, evidence, verdicts, and next state.
+A clean-sounding wrapper can become dangerous later if it hides the original path.
+
+A new name is an alias first, not a replacement.
+
+Use before:
+- renaming
+- wrapping
+- branding
+- simplifying
+- metaphor-labeling
+- creating a new system term
+
+Required fields:
+1. Original word / name
+2. Proposed new name
+3. Why a new name is needed
+4. What the new name improves
+5. What the new name might hide
+6. What meaning stays unchanged
+7. What meaning changes
+8. Source path / evidence path
+9. Authority boundary
+10. Collision risk
+11. Old name visibility: kept, parked, retired, or blocked
+12. Review gate before replacement
+
+Dirty state:
+A new name sounds cleaner but severs lineage, hides source meaning, or creates false authority.
+
+Clean state:
+The new name improves routing while keeping the original path visible until replacement is reviewed and approved.
+
+Short rule:
+New names are aliases with provenance until proven safe as replacements.
+
+
+SECTION 6 — HOW THIS FEEDS SHED-TO-ASSEMBLY
+
+The Shed-to-Assembly Interlock Plan should use this stack as a refinement method, not as active doctrine.
+
+This stack helps the plan decide:
+- what changed from one model to the next
+- which words drove the shift
+- what each model solves
+- what each model risks
+- what tradeoff is being accepted
+- which analogy fits the current decision
+- which name should stay as alias only
+- when enough review is enough
+
+Recommended cycle addition:
+Add a small Tradeoff / Evolution Check before technician handoff when the plan changes:
+- structure
+- authority
+- storage
+- technician role
+- folder count
+- naming
+- deletion
+- proof burden
+
+The check must be small:
+What improves?
+What costs more?
+What new failure mode appears?
+Does it feed the active decision?
+If yes, continue.
+If no, park it.
+
+
+SECTION 7 — PARKED / BLOCKED
+
+Parked:
+- City Map as naming support
+- Word-Key City Map as future explanation layer
+- physical folder expansion
+- technician autonomy beyond provisional review
+- active-guide installation
+- CURRENT_TRUTH_INDEX update
+- cleanup / delete plan
+
+Blocked:
+- treating this stack as active doctrine by identity
+- using metaphor as authority
+- replacing old names without provenance
+- endless variant generation
+- folder creation without approval
+- deletion without exact path, proof, approval, and post-delete verification
+- promotion without partner sync and active-guide review
+
+
+CURRENT STATUS
+
+This file is proof-history-only.
+It may be used as review fuel for the rough Shed-to-Assembly Interlock Plan.
+It does not authorize file changes, folder creation, cleanup, deletion, promotion, or active-guide installation.
+
+Next clean action:
+Use this as an input when reviewing or creating the rough Shed-to-Assembly Interlock Plan.

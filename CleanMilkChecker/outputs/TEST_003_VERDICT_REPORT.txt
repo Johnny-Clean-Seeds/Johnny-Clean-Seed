@@ -1,0 +1,43 @@
+﻿CLEAN MILK CHECK REPORT
+
+Input checked:
+C:\CleanSeedsBuild\CleanMilkChecker\inputs\TEST_003_MISSING_EVIDENCE_SEED_CARD.txt
+
+Verdict:
+PARTIAL
+
+What passed:
+The seed has a clear name, narrow mission, home, input/output route, failure path, recovery path, authority boundary, out-of-bounds list, parking lane, promotion rule, and close condition.
+
+What failed:
+The Evidence Path / Proof Path is too vague.
+The PASS rule is too vague.
+The pass judge is missing.
+
+Dirty milk:
+"The output should show the result" does not name what evidence must be captured.
+"PASS means the sorter worked" does not define what proves success.
+
+Bloat:
+No active bloat found. The seed is narrow.
+
+Missing evidence:
+No required evidence fields are named.
+No evidence location is named.
+No pass judge is named.
+The output does not require the original reminder, chosen label, reason, or verdict.
+
+Authority issues:
+No active authority leak found.
+
+Done/PASS issues:
+Done is named, but PASS is weak because it says "worked" without evidence.
+
+Failure/recovery issues:
+Failure and recovery are basic but usable for this tiny seed.
+
+Next clean state:
+Repair the evidence path and PASS rule before calling this seed card clean.
+
+Smallest clean next action:
+Change the evidence path to require original reminder, chosen label, short reason, verdict, and user review as pass judge.

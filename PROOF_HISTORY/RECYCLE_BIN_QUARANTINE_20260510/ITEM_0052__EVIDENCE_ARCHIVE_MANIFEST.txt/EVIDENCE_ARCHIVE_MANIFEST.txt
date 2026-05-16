@@ -1,0 +1,24 @@
+EVIDENCE ARCHIVE MANIFEST
+
+Package:
+Clean Seed Model Build Guide
+
+Active patch ID:
+CLEAN_SEED_PATCH_2026_05_08_RULE_ID_PARTNER_SYNC
+
+Timestamp UTC:
+2026-05-09T15:37:06.269778+00:00
+
+Active guide files:
+- README_START_HERE.txt — sha256 304d7e2fdec43830f964d0cf85b238f352c48e1f165c9cdc185a407080663dca
+- CLEAN_SEED_WRAP_GUIDE.txt — sha256 9502634f2cbb4c11df1bc95fcced842c3fc9647a101884bd93d6af81f47ad20d
+- CLEAN_SEED_ALIGNMENT_CHECK.txt — sha256 2c0c4c62b2e4d454357333289e430541b968428a0bcaca2cd8e2bd2537443194
+
+Optional proof/history:
+- PATCH_RECEIPT_RULE_ID_PARTNER_SYNC.txt — sha256 f2dce98ce6909ceaceb14b24223d7efa8ca5d416cbdea42c28de3b6a6c62f643
+
+Active startup pack count:
+Three guide files only.
+
+Verdict:
+PASS for targeted manifest.

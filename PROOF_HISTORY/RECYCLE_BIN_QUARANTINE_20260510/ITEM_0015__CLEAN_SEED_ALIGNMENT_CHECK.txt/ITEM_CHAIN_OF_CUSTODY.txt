@@ -1,0 +1,31 @@
+ITEM CHAIN OF CUSTODY
+Recovery item number: 
+15
+Original name: 
+CLEAN_SEED_ALIGNMENT_CHECK.txt
+Original path if available: 
+C:\Users\13527\Downloads
+Deleted date/time if available: 
+‎5/‎8/‎2026 ‏‎7:42 AM
+Size if available: 
+127 KB
+Type: 
+Text Document
+Recovery folder: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECYCLE_BIN_QUARANTINE_20260510\ITEM_0015__CLEAN_SEED_ALIGNMENT_CHECK.txt
+Recovery action taken: 
+Shell namespace CopyHere into quarantine item folder
+Recovered by: Codex local bridge via Windows Shell Recycle Bin metadata/copy operation
+Timestamp: 
+2026-05-10 14:25:17 -04:00
+Hash if file hash is available: 
+BBDBD84B9B3965F51D30E1AE9E123AA1344DC16F67A540267AF7F376E7574C70
+Notes: Recovered as quarantine evidence only; not restored to original path; not installed into ACTIVE_GUIDES; not interpreted as active truth.
+Whether script-like: 
+NO
+Whether folder/container: 
+NO
+Whether recovery succeeded: 
+YES
+Failure reason if recovery failed: 
+NONE

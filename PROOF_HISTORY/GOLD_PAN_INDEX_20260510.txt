@@ -1,0 +1,196 @@
+GOLD PAN INDEX 20260510
+Status: First metadata-only index from completed Recycle Bin quarantine recovery.
+Classification rule: Used only global custody ledger, ITEM_CHAIN_OF_CUSTODY.txt files, filenames, paths, types, sizes, and custody metadata. Recovered file contents were not inspected.
+
+1. Purpose
+Build a visible Gold Pan index of recovered ore so later extraction can proceed without relying on memory or promoting any recovered item as current truth.
+
+2. Source quarantine root
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECYCLE_BIN_QUARANTINE_20260510
+
+3. Ledger path
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECYCLE_BIN_QUARANTINE_20260510\RECYCLE_BIN_QUARANTINE_LEDGER_20260510.txt
+
+4. Total recovered items from ledger
+127
+
+5. Total custody notes found
+127
+
+6. Boulder candidates
+BOULDER-001 | Full recovered Recycle Bin quarantine set | Evidence: 127 attempted/recovered items in ledger | Reason: large version-history cluster with duplicate active-guide families and proof material.
+BOULDER-002 | Duplicate active-guide families | Evidence: README_START_HERE / CLEAN_SEED_WRAP_GUIDE / CLEAN_SEED_ALIGNMENT_CHECK duplicate groups | Reason: possible timeline drift and lost rule recovery.
+BOULDER-003 | Folder/container evidence | Evidence: folder/container custody metadata | Reason: may contain nested recovery material; handle separately.
+
+7. Gold bar candidates
+GOLD-BAR-CANDIDATE-001 | Evidence Crime-Scene / recovery discipline files by name/path metadata only | Requires content review before bar status.
+GOLD-BAR-CANDIDATE-002 | Patch receipt/proof files by name/path metadata only | Requires receipt-family review before bar status.
+GOLD-BAR-CANDIDATE-003 | Manifest/audit/verification files by name/path metadata only | Requires proof-family review before bar status.
+
+8. Nugget candidates
+NONE FOUND
+
+9. Dirty milk risks
+RISK-001 | Duplicate same-name guide files can collide or mislead if treated as current truth.
+RISK-002 | Clean-looking names and newer timestamps do not prove active truth.
+RISK-003 | Script-like evidence must not be run or renamed into executable form.
+RISK-004 | Folder/container items may hide many files and need separate review.
+RISK-005 | Recovered files are ore only until source, hash, role, and guide status are separately proven.
+
+10. Duplicate active-guide families
+
+11. Proof/report/manifest families
+NO SINGLETON PROOF/REPORT/MANIFEST ITEMS
+
+12. Script-like blocked evidence
+NONE FOUND
+
+13. Folder/container evidence
+NONE FOUND
+
+14. Unknown ore
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+ITEM_0000 |  | original= | type= | size=
+
+15. First recommended extraction target
+FIRST TARGET: Duplicate active-guide family timeline ledger, starting with README_START_HERE.txt because it is the startup guide family. Use metadata first, then content review only after a separate approval. Do not promote any item as current truth during extraction.
+
+16. Explicit no-promotion statement
+No recovered item is active truth from this index. This index does not install checkpoint rules, recovered guides, receipts, manifests, or reports into ACTIVE_GUIDES or CURRENT_TRUTH_INDEX.txt.
+
+17. Explicit no-change statement
+Recovered file contents inspected: NO
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX edited: NO
+Files deleted: NO
+Files moved: NO, except creating Gold Pan index
+Files renamed: NO
+Scripts run: NO
+Shortcuts executed: NO
+Zip files extracted: NO
+Recycle Bin emptied: NO

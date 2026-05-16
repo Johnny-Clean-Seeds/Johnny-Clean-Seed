@@ -1,0 +1,1399 @@
+LOCALBOT_UNIFIED_HANDOFF
+
+UNIFIED CONTEXT FILE
+
+This file is context and history.
+It does not override the master handoff.
+
+Read LOCALBOT_MASTER_HANDOFF first for current control rules, decisions, and operating instructions.
+
+AUTHORITY RELATIONSHIP
+
+If anything conflicts:
+1. Live machine state now
+2. The user’s direct request now
+3. LOCALBOT_MASTER_HANDOFF
+4. This unified context file
+5. Older notes and concept files
+
+PROJECT IDENTITY
+
+Project:
+LocalBot
+
+Type:
+A tiny local AI task loop on one Windows PC using Python and Ollama.
+
+Active path:
+C:\LocalBot\
+
+Mission:
+Protect what works.
+Keep LocalBot small, local, stable, and practical.
+Move Phase 4 forward without architecture drift.
+
+PHASE CONTEXT
+
+PHASE 1:
+Complete.
+Tiny one-task loop built.
+
+PHASE 2:
+Complete.
+Timeout, logging, and failure path hardened.
+
+PHASE 3:
+Complete.
+Recovery from stale running tasks proved.
+
+PHASE 4:
+Active.
+The live work is prompt/task fit, output behavior, and safe documentation cleanup.
+
+CURRENT OPERATIONAL CONTEXT
+
+Expected config:
+MODEL_NAME=qwen2.5-coder:3b
+WORKER_TIMEOUT_SECONDS=120
+RECOVER_RUNNING_TO_PENDING=1
+
+Daily default model:
+qwen2.5-coder:3b
+
+Do not reopen model, config, code, or architecture unless live evidence forces it.
+
+
+RECENT GOVERNANCE CLEANUP CONTEXT
+
+The user identified that several cleanup/rule items were solved in chat and should be placed cleanly instead of kept as open issues.
+
+Solved cleanup items:
+- Governance Placement: guardrail rules are consolidated under Rule Governance / Decision Guardrails.
+- Save Report Summary Behavior: save replies should stay plain and normal unless the user asks for a report.
+- Search for Loose Ends Before Save: pre-save loose-end checks stay inside governance.
+- Evidence-Based Percent Behavior: percentages must be backed by real counts or clear estimate logic.
+
+Additional governance additions:
+- No Images / Text-Only Rule: text only for LocalBot rule/report/issue/save/live-run/screen/handoff work. Use text diagrams when needed.
+- Placement-Uncertainty Yield Rule: if the assistant is unsure what something is or where it belongs, it must stop and ask instead of assuming.
+
+This was documentation/governance cleanup only.
+No code, config, model, or architecture changes were made.
+
+RECENT PRACTICAL BASELINES
+
+Rewrite:
+- practical_154
+- PASS
+- clean 5-line rewrite
+
+Classification:
+- practical_155
+- PASS
+- exact output: done
+
+Cleanup:
+- practical_163
+- PASS
+- all cleanup checks hit together
+
+Cleanup target output:
+Check pending tasks now.
+Review done tasks.
+Inspect failed tasks.
+Read new outputs now.
+Watch coordinator.log.
+
+Cleanup wave chain:
+- practical_156 / Wave 1A: Failure 9, merged lines
+- practical_157 / Wave 1B: partial, 5 lines held but coordinator.log changed
+- practical_158 / Wave 2A: partial, coordinator.log held but comma missed
+- practical_159 / Wave 2B: partial, comma removed but now dropped
+- practical_160 / Wave 3A: partial, comma/now/log held but punctuation missed
+- practical_161 / Wave 3B: partial, shape/now/log held but exclamations stayed
+- practical_162 / Wave 4A: partial, punctuation/log held but comma stayed
+- practical_163 / Wave 4B: PASS, all cleanup checks hit together
+
+The cleanup wave branch is closed.
+Do not extend it by momentum.
+
+FULL 6-TEST CHECKPOINT SUITE
+
+Checkpoint suite:
+full_checkpoint_suite
+
+Real phase:
+Phase 4 active
+
+Overall result:
+PASS
+
+All six required checkpoint tests passed.
+
+Test 1 — Core loop:
+- file: checkpoint_core_001.txt
+- expected output: LOCALBOT_CORE_OK
+- actual output: LOCALBOT_CORE_OK
+- final state: found in tasks\done
+- verdict: PASS
+- finding: core pending-to-done output path worked
+
+Test 2 — Timeout / failure path:
+- first attempt: checkpoint_timeout_001.txt
+- first attempt result: not valid timeout proof
+- reason: the model shortcut the giant list output with ellipsis and completed
+- controlled proof file: checkpoint_timeout_002.txt
+- temporary config change: WORKER_TIMEOUT_SECONDS=1
+- expected state: tasks\failed
+- actual state: checkpoint_timeout_002.txt found in tasks\failed
+- config restored afterward:
+  MODEL_NAME=qwen2.5-coder:3b
+  WORKER_TIMEOUT_SECONDS=120
+  RECOVER_RUNNING_TO_PENDING=1
+- verdict: PASS
+- finding: timeout/failure path worked and config was restored safely
+
+Test 3 — Recovery:
+- recovery signal observed:
+  RECOVERY checkpoint_timeout_001.txt -> pending
+- final state: checkpoint_timeout_001.txt found in tasks\done
+- verdict: PASS
+- finding: recovery restored a running task to pending and the recovered task later completed cleanly
+
+Test 4 — Rewrite baseline:
+- file: checkpoint_rewrite_001.txt
+- final state: found in tasks\done
+- output:
+  Check pending task files.
+  Review completed task files.
+  Inspect failed task files.
+  Read the newest output files.
+  Watch the coordinator log.
+- verdict: PASS
+- finding: rewrite baseline held
+
+Test 5 — Classification baseline:
+- file: checkpoint_classify_001.txt
+- expected output: done
+- actual output: done
+- final state: found in tasks\done
+- verdict: PASS
+- finding: exact-label classification held
+
+Test 6 — Cleanup baseline:
+- file: checkpoint_cleanup_001.txt
+- expected output:
+  Check pending tasks now.
+  Review done tasks.
+  Inspect failed tasks.
+  Read new outputs now.
+  Watch coordinator.log.
+- actual output:
+  Check pending tasks now.
+  Review done tasks.
+  Inspect failed tasks.
+  Read new outputs now.
+  Watch coordinator.log.
+- final state: found in tasks\done
+- verdict: PASS
+- finding: cleanup baseline held with all required checks together
+
+Post-checkpoint read:
+LocalBot has a full six-test checkpoint pass.
+The system is healthy.
+The current strongest baselines are:
+- core loop: checkpoint_core_001
+- timeout: checkpoint_timeout_002
+- recovery: checkpoint_timeout_001 recovery path
+- rewrite: checkpoint_rewrite_001 and practical_154
+- classification: checkpoint_classify_001 and practical_155
+- cleanup: checkpoint_cleanup_001 and practical_163
+
+No lasting code/config/model/architecture changes were made.
+
+WHOLE-PROJECT JUDGMENT — PROOF-SAFE CONTEXT
+
+As a completed version of the current intended core, LocalBot is a strong personal local-AI task loop.
+
+Its strength is control, not unlimited autonomy.
+It is better than many hobby AI bot projects because it stays small, inspectable, recoverable, and machine-fit instead of chasing a large autonomous agent design too early.
+
+Proven live:
+- one-task loop works
+- done path works
+- failed path works
+- timeout/failure handling works
+- recovery works
+- rewrite baseline works
+- classification baseline works
+- cleanup baseline works
+
+Not proven as a checkpoint:
+- large unattended backlog / long task-list clearing
+- broader multi-step autonomous work
+- larger future expansion paths
+
+Known weaker or parked:
+- summary lane, especially stricter summary around practical_058 to practical_060
+- broad open-ended tasks
+- long reasoning tasks without human review
+
+Accuracy read:
+LocalBot is most trustworthy for constrained source-tied work:
+- rewrite
+- cleanup
+- classification
+- light transforms
+
+It should not be treated as fully autonomous.
+A completed task is not automatically a pass.
+A true PASS means the loop completed cleanly and all required output checks hit together.
+
+Crash/safety read:
+LocalBot is unlikely to crash the PC in normal use because it uses a small local one-worker pattern, timeout handling, and a file-based task lifecycle.
+The bigger practical risk is wrong or shape-broken model output, not system survival.
+
+Long task-list read:
+The folder model should support backlog storage in theory, but long backlog clearing has not been checkpoint-tested.
+This should not be called a current problem.
+It is optional future proof if the user wants that capability verified.
+
+GOVERNANCE / DOCUMENTATION CLEANUP HISTORY
+
+The user and assistant tightened the documentation and rule system after the six-test checkpoint.
+
+Locked or accepted cleanup decisions:
+- Detailed Report Rule locked
+- Proof Symbol Rule locked
+- Symbol Integrity locked
+- Direction Mismatch Yield Rule locked
+- Cleanup Auto-Roll Rule locked
+- Rule-Fix Auto-Roll Rule locked
+- Open Issues File shape locked
+- Save Roadmap / Legend decision cleaned: no new file now
+- Whole-project judgment cleanup locked: keep useful content, use proof-safe wording, place in Unified
+- Save Behavior Normal-Talk Rule locked
+- Default-When-Unsure Rule locked
+
+Important cleanup pause:
+The user noticed the governance rule list was growing and paused to prevent drift.
+The correct direction is consolidation, not more scattered rules.
+
+Current documentation direction:
+- put guardrail rules in one Master section: Rule Governance / Decision Guardrails
+- use Open Issues only for unresolved items
+- do not create a Save Roadmap file now
+- do not add future expansion notes unless active
+- do not add random clutter to files
+- save/update responses should be plain unless a report is requested
+
+CURRENT SAVE STATE
+
+This unified context section records:
+- practical_163 cleanup pass
+- full six-test checkpoint pass
+- proof-safe whole-project judgment
+- governance cleanup context
+- current documentation direction
+
+Recommended action:
+Copy/save the full C:\LocalBot folder before starting the next new part.
+
+
+FINAL CLEANUP SAVE CONTEXT
+
+The user completed the current cleanup set and asked to save.
+
+Final locked items from the earlier cleanup pass:
+- Save screen style: save replies stay plain, then show yielded/open issues before file links when relevant.
+- Fix-Issues Screen Behavior: issue screens show system health first, then project/documentation issues; fixed items are not mixed with open items.
+- Whole-Project Judgment Report: cleaned into proof-safe wording and placed here as context.
+
+PROOF-SAFE WHOLE-PROJECT JUDGMENT
+
+LocalBot is a strong completed core for a small local AI task-loop system.
+
+Proven live by the six-test checkpoint:
+- core loop passed
+- timeout / failure path passed
+- recovery passed
+- rewrite baseline passed
+- classification baseline passed
+- cleanup baseline passed
+
+Important distinction:
+System completion and output correctness are not the same thing.
+A completed task is only a true pass when the loop completes cleanly and all required output checks hit together.
+Completed-but-wrong outputs remain Failure 9, partial, failed, or invalid proof.
+
+Project comparison:
+Compared to many hobby AI bots, LocalBot is stronger because it is narrow, inspectable, recoverable, and not overbuilt.
+It is not a production fleet, cloud service, or autonomous multi-agent system.
+Its strength is controlled local execution on one Windows PC.
+
+Design judgment:
+LocalBot is stable as a personal local AI core.
+It is safe to build from as long as the clean architecture is protected.
+Human review is still required for model output quality.
+Prompt/task fit remains the main practical limitation, not loop survival.
+
+Future claims:
+Long task-list / backlog behavior should not be called proven until checkpoint-tested.
+Summary remains a parked/weaker lane unless deliberately reopened.
+
+
+RECENT DECISION REPORT — STARTUP MENU AND PLACEMENT GUARDRAIL
+
+Project position:
+LocalBot remains Phase 4 active.
+This was a governance and startup-menu cleanup, not a code, model, config, or architecture change.
+
+Progress just made:
+The fresh-chat startup menu was expanded with valid options and the redundant fresh-start save/checkpoint options were removed.
+The menu now keeps related actions grouped instead of turning every related detail into a separate option.
+
+Result pattern:
+The user confirmed that redundant options and redundant rules create clutter.
+The correct behavior is to check whether a proposed item deserves a new menu option, belongs under an existing option, conflicts with an existing rule, or should be rejected before it is treated as locked.
+
+Decision reached:
+A Menu / Rule / File Placement Guardrail was added to LOCALBOT_MASTER_HANDOFF under Rule Governance / Decision Guardrails.
+The guardrail says not to assume new menu/rule/file changes are locked, to check architecture fit and placement first, to avoid redundancy and contradiction, and to stop/check the user when the user's proposed move looks wrong, redundant, misplaced, or risky.
+
+Next planned move:
+Use the expanded startup menu for future fresh-chat openings.
+When the user proposes rules, menu changes, file changes, or project-control changes, validate the move first and place accepted changes only where they belong.
+
+
+DECISION REPORT — SAVED-STACK RULE CLEANUP
+
+Project position:
+LocalBot remains Phase 4 active. This was a handoff/rule cleanup, not code, config, model, checkpoint, or runtime architecture work.
+
+Progress made:
+The master handoff was updated with a top Action Safety Gates section so project-changing work must pass rule, file, screen/list, placement, and save gates before action.
+The startup screen menu remains expanded and save/checkpoint choices are not startup items.
+A Screens and Lists Registry was added to the master handoff so loading, status, report, fix-issues, save, open-issues, checkpoint hard-stop, validator, live-run, fix-summary, and approval-gate screens have clear triggers and close conditions.
+Save wording was tightened so lock/locked, cooked/baked aliases, add it, fix it, or make it a rule do not automatically authorize file saves.
+No-images wording was tightened for LocalBot work: text only, with text diagrams when needed.
+Root-reference hygiene was improved in the newly saved handoff files by using root roles in body text instead of exact active version references.
+
+Result pattern:
+The main issue was not LocalBot runtime health. The issue was saved-stack wording that could let old save/update behavior, scattered screen formats, and unclear rule-lock wording fight newer locked decisions.
+
+Decision reached:
+The correct saved-stack fix is to keep the control rules in the master handoff, not spread them across new clutter files.
+The support/history file records this decision but does not override the master handoff.
+
+Next planned move:
+Use LOCALBOT_MASTER_HANDOFF as the active control reference.
+Use this unified handoff only for context and decision history.
+Only update support files later if a real unresolved item remains after the master cleanup.
+
+
+DECISION REPORT — SAVED-STACK CLEANUP RETRY
+
+Project position:
+LocalBot remains Phase 4 active.
+This was a saved-stack rule cleanup, not runtime work.
+
+Progress made:
+The master handoff was cleaned again after the paused run.
+Official wording now uses lock / locked.
+Older alias terms are treated only as user aliases for lock / locked and do not authorize file save.
+The Action Safety Gates, Screens and Lists Registry, earlier save/file gate, no-images/text-only rule, no-loose-ends rule, repeated-issue closure rule, and future-binding resolver remain placed in the master handoff.
+
+Result pattern:
+The issue was wording and routing clarity, not LocalBot runtime health.
+The clean fix was to keep control rules in the master handoff and record history here.
+
+Decision reached:
+Use LOCALBOT_MASTER_HANDOFF as the active control source.
+Use this unified handoff for decision history only.
+No checkpoint, code, config, model, or architecture change was made.
+
+Next planned move:
+Use the updated loading screen and issue screens from the master handoff.
+Only update support files later if a real unresolved item appears.
+
+DECISION REPORT — LOOSE-END CLEANUP PASS
+
+Project position:
+LocalBot remains Phase 4 active.
+This was a saved-stack wording cleanup, not code, config, model, checkpoint, or runtime architecture work.
+
+Progress made:
+The stray undefined review-screen wording was removed from LOCALBOT_MASTER_HANDOFF because the named screen is not defined in the Screens and Lists Registry.
+The stale internal version wording in LOCALBOT_UNIFIED_HANDOFF was changed to root/history wording.
+LOCALBOT_STUDIO_RULE_LIBRARY received a short pointer that LOCALBOT_MASTER_HANDOFF owns the active Action Safety Gates and Screens and Lists Registry.
+No new checkpoint-maintenance rule was added because checkpoints are snapshots, not living fast-read control files.
+
+Result pattern:
+The cleanup issue was small wording drift after several save/rule passes.
+The correct fix was to remove or clarify the loose wording instead of adding a new rule family.
+
+Decision reached:
+Do not create a new fast-read checkpoint just to mirror routine saves.
+Do not add a new checkpoint-maintenance rule unless the same confusion returns.
+Keep Master as active control, Unified as history/context, Open Issues as unresolved-only, Phases as lifecycle-only, and Checkpoint as snapshot/proof only.
+
+Next planned move:
+Use the updated stack for future LocalBot work.
+Only create a new checkpoint at a real checkpoint hard stop, proof event, phase gate, or major save point.
+DECISION REPORT — FINAL LOOSE-END VALIDATION PASS
+
+Project position:
+LocalBot remains Phase 4 active.
+This was a documentation wording validation pass only, not runtime work.
+
+Progress made:
+The updated saved-stack files were reviewed for stale references, undefined screens, checkpoint wording, save/file behavior, yield behavior, and open-end handling.
+The Master handoff checkpoint wording was tightened to say "checkpoint snapshot save" so checkpoints do not sound like living fast-read control files.
+
+Result pattern:
+The stack was already mostly clean.
+The only meaningful loose wording found was checkpoint wording that could confuse snapshot behavior later.
+
+Decision reached:
+Use LOCALBOT_MASTER_HANDOFF as the active control source.
+Use LOCALBOT_UNIFIED_HANDOFF for decision history.
+Use checkpoint files only as proof/save snapshots, not living control files.
+No new checkpoint rule was added because the existing snapshot role is enough.
+
+Next planned move:
+Use the updated saved stack for future LocalBot work.
+Only create or update files whose roles actually change.
+
+DECISION REPORT — CONTROL LAYER / GOVERNANCE SUPPORT CLEANUP PATTERN
+
+Project position:
+LocalBot remains Phase 4 active.
+This was a saved-stack documentation cleanup, not code, config, model, checkpoint, or runtime architecture work.
+
+Progress made:
+LOCALBOT_MASTER_HANDOFF now records the control-layer/support-layer cleanup pattern.
+Action Safety Gates stay as the front-door operating gates.
+Rule Governance / Decision Guardrails stays as the supporting principle layer.
+The cleanup pattern says not to create a new issue or new rule just because some wording looks related.
+
+Result pattern:
+The user clarified that suggestion text should not be treated as a command.
+The useful decision was a future cleanup pattern, not a new active issue by itself.
+The correct saved-stack move was to place one short clarification in Master, not to create a new file or expand support files.
+
+Decision reached:
+Keep full operating rules in Action Safety Gates.
+Keep short supporting principles in Rule Governance / Decision Guardrails.
+Do not remove protective repetition around high-risk behavior.
+If future cleanup finds a governance paragraph repeating an Action Safety Gate too closely and causing control-flow confusion, shorten it to:
+Controlled by Action Safety Gates above; this section only adds the supporting principle.
+
+Next planned move:
+Use LOCALBOT_MASTER_HANDOFF as the active control source.
+Do not clean further unless a real duplicate, conflict, or loose end appears.
+
+DECISION REPORT — FILE OUTPUT AND SEQUENTIAL RULE LOCK CLEANUP
+
+Project position:
+LocalBot remains Phase 4 active.
+This was a saved-stack rule wording cleanup, not code, config, model, checkpoint, or runtime architecture work.
+
+Progress made:
+The earlier save/file gate wording was clarified as the Save/File Output Gate so the protected behavior is file output or file modification, not ordinary discussion about files.
+The rule now says that talking about file names, reviewing names, or giving cleanup guidance does not authorize creating, changing, packaging, attaching, exporting, or sending files.
+The Sequential Rule Lock Rule was added so multiple proposed rules are locked one at a time, applied immediately, and checked for conflict before moving to the next rule.
+The Rule Wording Normalization Rule was added so user-proposed rules are rewritten into clean LocalBot wording before lock, without changing intent or adding capability by wording drift.
+
+Result pattern:
+The issue was not missing governance.
+The issue was wording that let "clean the names" be misread as permission to output a file package.
+The correct fix was to sharpen the existing gate and add small-step protection for future rule locks.
+
+Decision reached:
+Use Save/File Output Gate as the active wording.
+Do not treat clean, fix, lock, add, make it a rule, cook it, bake it, or clean the names as file-output permission.
+File output requires clear wording such as create the file, update the file, save this into the file, package the files, send/download the files, make me a clean copy, or write this to the stack.
+When multiple rules are proposed, lock one rule at a time and re-check the active rule set before the next lock.
+When the user proposes rules, normalize wording before lock so the saved text is clear, neutral, direct, and AI-readable.
+
+Next planned move:
+Use LOCALBOT_MASTER_HANDOFF as the active control source.
+Use LOCALBOT_UNIFIED_HANDOFF for decision history.
+Do not create, change, package, attach, export, or send files unless file output or file modification is clearly requested.
+
+DECISION REPORT — SCREEN STYLE AND NEXT-ON-PLATE CLEANUP
+
+Project position:
+LocalBot remains Phase 4 active.
+This was a saved-stack screen-style cleanup, not code, config, model, checkpoint, or runtime architecture work.
+
+Progress made:
+LOCALBOT_MASTER_HANDOFF now records the Global Screen Style Rule so all LocalBot screens use the same clean visual style without forcing every screen into the same layout.
+The Status Screen now requires a Header Progress group, a progress line, and a progress meter near the top.
+The progress meter uses 10 text blocks, filled square blocks for completed progress, hollow square blocks for remaining progress, and inline-code formatting so the meter stays visually even.
+The Status Screen now includes Next on the Plate with short Decision Areas / Watch Items when useful.
+The divider style was simplified to plain underscore dividers only, used sparingly around major screen zones instead of between every section.
+
+Result pattern:
+The issue was screen-format drift, not project runtime health.
+Earlier divider and meter experiments showed that HTML/color styling and uneven symbols could make the screens messy or broken.
+The clean fix was to keep screens plain-text, minimal, readable, and tied to the Screens and Lists Registry.
+
+Decision reached:
+Use LOCALBOT_MASTER_HANDOFF as the active source for screen behavior.
+Use clean headings, balanced spacing, minimal underscore dividers, and no HTML, CSS, color tags, background blocks, images, or decorative graphics.
+Use inline-code square-block progress meters for Status Screens.
+Keep Next on the Plate practical and short; include larger decision/watch items only when they matter now or soon.
+Screen-specific required order still wins over shared style.
+
+Next planned move:
+Use the updated Status Screen and global screen style for future LocalBot work.
+Do not keep adjusting screen style unless a real readability, conflict, or loose-end issue appears.
+
+
+DECISION REPORT — PHASE 4 PRACTICAL RETURN BATCH AND REPAIR EVIDENCE RULE
+
+Project position:
+LocalBot remains Phase 4 active.
+This was practical Phase 4 run work plus one run-validation rule save, not code, config, model, checkpoint, phase, or runtime architecture work.
+
+Progress made:
+A return-to-work batch was run after the handoff/screen cleanup.
+Classification practical_164 passed cleanly with exact output "done."
+Cleanup reached a pass at practical_170 after repair waves; the final output held five lines, correct words, correct order, periods, no numbering, no bullets, no blank lines, and no paragraph collapse.
+Rewrite reached a pass at practical_175 as a reset-baseline / exact-output control; it held the target five-line output exactly.
+
+Result pattern:
+LocalBot runtime stayed healthy across the batch.
+The coordinator claimed tasks, worker ran, outputs were written, tasks landed in done, and failed checks did not show failed task files.
+Classification remained stable.
+Cleanup required repair but closed cleanly.
+Free rewrite remained fragile: recent free-rewrite attempts showed numbering, wrapping, synonym drift, noun drift, and one encoding/punctuation issue.
+Rewrite is strongest when source-tied tightly or target-locked.
+
+Decision reached:
+Lock the current practical batch progress:
+- classification: practical_164 PASS
+- cleanup: practical_170 PASS after repair
+- rewrite: practical_175 PASS as reset-baseline / exact-output control
+Keep the distinction that reset-baseline rewrite pass does not prove broad free-rewrite stability.
+The Repair Evidence Check Rule was added to the master handoff so future failed/partial repair waves must consider prior evidence before the next repair.
+
+Next planned move:
+Use LOCALBOT_MASTER_HANDOFF as active control.
+Use this unified handoff for decision history.
+Continue Phase 4 practical work only from clear lanes and avoid opening summary, Studio, automation, memory, brain, planner, or backlog testing unless deliberately chosen.
+No checkpoint snapshot is required unless the user asks for a formal checkpoint save point.
+
+
+DECISION REPORT — LOCK VS SAVE TERMINOLOGY CLARIFICATION
+
+Project position:
+LocalBot remains Phase 4 active.
+This was a saved-stack wording clarification, not code, config, model, checkpoint, phase, or runtime architecture work.
+
+Progress made:
+LOCALBOT_MASTER_HANDOFF now records the Lock vs Save Terminology Rule.
+The wording separates approval from file insertion:
+- lock means approved and active in the current chat
+- save/write/update/insert into the stack means written into project files
+The assistant must say "Locked in chat only. Not written to files yet." when a rule or decision is locked but not saved.
+
+Result pattern:
+The issue was a terminology mismatch.
+The user expected lock to mean insertion into files, while the current stack treated lock as chat-level approval only.
+The clean fix was to make the distinction explicit and to define the exact phrases that authorize file updates.
+
+Decision reached:
+Use lock / locked for approval only.
+Use save, write, update, insert into the stack, or similar clear wording for file insertion.
+If the user says "save it," treat that as file-output permission for the already-approved item and update only the role-appropriate files.
+Do not create packages, attachments, or extra files unless requested.
+
+Next planned move:
+Use LOCALBOT_MASTER_HANDOFF as the active control source.
+Use this unified handoff for decision history.
+Continue Phase 4 work with the corrected lock/save wording.
+
+DECISION REPORT — ACTIVE FILENAME STYLE CLARIFICATION
+
+Project position:
+LocalBot remains Phase 4 active.
+This was a saved-stack naming cleanup, not code, config, model, checkpoint, phase, or runtime architecture work.
+
+Progress made:
+The old automatic version-bump behavior was retired.
+Active project files now use clean root filenames as kept on the user's machine.
+The stack should not auto-add version-number suffixes or similar labels to active saved files.
+Duplicate-download suffixes such as "(1)" or "(2)" remain cleanup noise, not project versions.
+
+Result pattern:
+The issue was not project content.
+The issue was file naming behavior: version suffixes were being treated as required because of older file-integrity wording.
+The clean fix is to use root filenames for active files and treat old versioned copies as history/reference only.
+
+Decision reached:
+Use clean root filenames for active saves.
+Do not auto-bump versions.
+Do not obey the retired version-bump rule.
+Use root names in file content and save only role-appropriate files when file output is clearly authorized.
+
+Next planned move:
+Continue with the root-named active handoff stack.
+Only rename, duplicate, package, or send files when the user clearly asks for file output.
+
+DECISION REPORT — CHAT-LOCKED RULES PERSISTED
+
+Project position:
+LocalBot remains Phase 4 active.
+This was a handoff/control wording save, not code, config, model, checkpoint, or runtime architecture work.
+
+Progress made:
+The latest chat-locked rules were written into the active root-name stack.
+The saved rules include:
+- Free-Rewrite Lane Caution Rule
+- Command Paste Discipline Rule
+- Rule Lock Impact Review Rule with Real Negative Impact Only behavior
+- Unsaved Locked-Changes Reminder Rule
+
+Result pattern:
+The user clarified that useful chat-locked rules should be saved when they should survive future chats, but routine locking alone still does not write files.
+The correct fix was to persist only the role-appropriate control rules and keep the save/checkpoint distinction intact.
+
+Decision reached:
+Use source-tied or target-locked rewrite prompts when accuracy matters.
+Keep expected output text out of CMD during live terminal work.
+Show real impact review after locking rules without inventing fake negatives.
+Mention unsaved locked changes only at natural stop points, not every message.
+Checkpoint remains a breather / hard-stop evaluation point, not a required save after every small rule.
+
+Next planned move:
+Continue Phase 4 practical work unless a real issue appears.
+Do not add more rules by momentum.
+
+
+DECISION REPORT — PHASE 4 CLEANUP LANE CONFIRMATION
+
+Project position:
+LocalBot remains Phase 4 active.
+This was practical task work, not code, config, model, checkpoint, or runtime architecture work.
+
+Progress made:
+The Phase 4 return batch was closed with usable practical results.
+Classification passed at practical_164.
+Cleanup passed after repair at practical_170.
+Rewrite passed as reset-baseline / exact-output control at practical_175.
+A fresh cleanup confirmation was then run at practical_176 and passed cleanly.
+
+Result pattern:
+The runtime loop stayed healthy.
+The coordinator claimed tasks, ran the worker, wrote outputs, and moved tasks to done.
+The cleanup lane is now confirmed clean after the repair branch.
+Free rewrite remains more fragile than classification and cleanup unless it is constrained, source-tied, or target-locked.
+
+Fresh cleanup confirmation evidence:
+- task: practical_176
+- final state: found in tasks\done
+- failed state: not found in tasks\failed
+- exact output:
+  Check pending tasks now.
+  Review done tasks.
+  Inspect failed tasks.
+  Read new outputs now.
+  Watch coordinator.log.
+- verdict: PASS
+
+Decision reached:
+Classification and cleanup are clean practical lanes.
+Rewrite is usable as a constrained or target-locked lane.
+Do not treat free rewrite as a stable default.
+No checkpoint snapshot was created because this was a practical progress save, not a checkpoint hard stop.
+
+Next planned move:
+Continue Phase 4 practical work from the clean lanes.
+Prefer classification or cleanup for ordinary confidence runs.
+Use rewrite only with source-tied, constrained, or target-locked prompts when accuracy matters.
+
+DECISION REPORT — STACKED WAVE EVIDENCE REVIEW RULE
+
+Project position:
+LocalBot remains Phase 4 active.
+This was a repair/wave governance cleanup, not code, config, model, checkpoint, or runtime architecture work.
+
+Progress made:
+The Stacked Wave Evidence Review Rule was locked and saved into LOCALBOT_MASTER_HANDOFF.
+It strengthens the repair-wave behavior so failed-run chains and drift-control branches use the full collected branch evidence before choosing the next move.
+It also requires a final walkthrough before ending a branch or making a major next move.
+
+Result pattern:
+The need appeared during rewrite and cleanup repair work.
+The assistant was using prior evidence, but the user needed the behavior made explicit so repair decisions do not drift from the full branch history.
+
+Decision reached:
+During repair waves, failed-run chains, drift-control branches, and special phase reviews, use the whole branch history from start to current point.
+Do not make the next repair from only the latest output.
+Do not carry forward worse results.
+Do not keep running by momentum when the full evidence says to reset, park, or stop.
+
+Next planned move:
+Use this rule for future repair/comparison waves.
+Keep normal passing runs short; use the full walkthrough only for repair branches, drift phases, or major branch decisions.
+
+DECISION REPORT — PHASE 4 PRACTICAL PROTECTION RULES
+
+Project position:
+LocalBot remains Phase 4 active.
+This was a saved rule/control update and practical-lane guidance save, not code, config, model, checkpoint, or runtime architecture work.
+
+Progress made:
+The three approved protection rules were saved into LOCALBOT_MASTER_HANDOFF:
+- Practical Momentum Protection Rule
+- Rewrite Accuracy Protection Rule
+- Repair Quality Protection Rule
+
+Result pattern:
+Recent live evidence showed cleanup and classification are the strongest practical lanes, target-locked rewrite can hold cleanly, and light/free rewrite remains fragile.
+The correct forward direction is small fresh practical runs before bigger lanes, constrained rewrite when correctness matters, and full stacked evidence review when repair branches start.
+
+Decision reached:
+Continue Phase 4 through small practical proof first.
+Use target-locked or tightly source-tied rewrite when correctness matters.
+Use full stacked branch evidence for repair quality decisions.
+
+Next planned move:
+Continue practical Phase 4 work unless a real issue appears.
+Do not reopen larger lanes such as summary, Studio, automation, memory, brain, planner, or backlog testing unless the user deliberately chooses them.
+
+DECISION REPORT — REWRITE CONSTRAINT AND OVER-CLEANING PROTECTION SAVE
+
+Project position:
+LocalBot remains Phase 4 active.
+This was a rule/control cleanup save, not code, config, model, checkpoint, phase, or runtime architecture work.
+
+Progress made:
+The approved rewrite-accuracy and over-cleaning guidance was saved into the active stack.
+Rewrite accuracy remains protected by target-locked or tightly source-tied prompts when correctness matters.
+Over-cleaning is now explicitly stopped unless a real workflow issue, conflict, loose end, repeated mistake, or user-approved project need appears.
+
+Result pattern:
+Recent practical evidence showed cleanup and classification are stable practical lanes, target-locked rewrite passes, and light/free rewrite can drift.
+The correct direction is to protect practical momentum instead of adding more rules by momentum.
+
+Decision reached:
+Keep rewrite constrained when correctness matters.
+Do not add, rewrite, or expand rules unless a real issue or approved need requires it.
+Return to practical Phase 4 work when the stack is clean enough.
+
+Next planned move:
+Continue small practical Phase 4 runs unless the user deliberately chooses a larger lane or a real issue appears.
+
+
+DECISION REPORT — CLEANUP PROMPT-SHAPE WAVE practical_177 to practical_187
+
+Project position:
+LocalBot remains Phase 4 active. This was practical prompt/output testing, not code, config, model, checkpoint, or architecture work.
+
+Progress made:
+A cleanup confirmation wave tested loose cleanup prompts, exact target-lock prompts, strict source-tied prompts, and copy-block target-lock prompts.
+
+Result pattern:
+Loose or constrained cleanup prompts could hold five-line shape but still drift in wording, plural nouns, punctuation, or completeness.
+Exact target-lock held.
+Copy-block target-lock held twice in a row.
+
+Best current finding:
+Copy-block target-lock is the strongest confirmed cleanup prompt shape from this run chain.
+
+Winning prompt shape:
+Tell the model to output only the lines inside a COPY BLOCK, exclude the COPY BLOCK markers, do not explain, do not rewrite, and return every required line.
+
+Evidence:
+- practical_177 / Wave 1A: Failure 9
+- practical_178 / Wave 1B: PASS
+- practical_179 / Wave 2A: partial success
+- practical_180 / Wave 2B: workflow mistake / invalid proof
+- practical_181 / Wave 2B Retry: PASS
+- practical_182 / Wave 3A: PASS
+- practical_183 / Wave 3B: partial success
+- practical_184 / Wave 4A: partial success
+- practical_185 / Wave 4B: partial success / incomplete output
+- practical_186 / Wave 5A: PASS
+- practical_187 / Wave 5B: PASS
+
+Decision:
+Use copy-block target-lock when exact cleanup output matters.
+Do not treat this as a reason to change code, config, model, or architecture.
+Pause the wave chain here.
+
+DECISION REPORT — STARTUP LOAD AND WAVE RUN TRIGGER SAVE
+
+Project position:
+LocalBot remains Phase 4 active.
+This was a rule/save cleanup, not code, config, model, checkpoint, or runtime architecture work.
+
+Progress made:
+Four chat-locked rules were saved into LOCALBOT_MASTER_HANDOFF:
+- Startup Load Screen Rule
+- Active Wave Resume Rule
+- Full Wave Command Output Rule
+- Wave Verdict Label and Evidence Rule
+
+Decision reached:
+The correct fix was to strengthen the existing startup, live-run, and wave control rules instead of creating a new file or changing the LocalBot runtime.
+The assistant must show the startup screen after loading the active handoff stack, resume truly open/next/paused wave routes, provide the full command/task sequence for each wave, and label verdict reports with the exact wave label and comparison evidence.
+
+Save/file impact:
+LOCALBOT_MASTER_HANDOFF was updated as the active control home.
+LOCALBOT_UNIFIED_HANDOFF records this decision history.
+No open issue was added because the rule cleanup was saved.
+No code, config, model, checkpoint, or runtime architecture files were changed.
+
+Next read:
+Use the startup screen after loading the handoff stack.
+For wave runs, show the exact wave label, full run commands/task text, and then a normal verdict report before moving to the next wave.
+
+DECISION REPORT — POST-SAVE RISK CHECK RULE
+
+Project position:
+LocalBot remains Phase 4 active.
+This was a rule/save cleanup, not code, config, model, checkpoint, or runtime architecture work.
+
+Progress made:
+The Post-Save Risk Check Rule was added to LOCALBOT_MASTER_HANDOFF under the save/action safety gate area.
+
+Decision reached:
+After LocalBot rule files, handoff files, screen rules, menu rules, process rules, or other project-control files are saved, the assistant must run a short post-save risk check before calling the save clean.
+The check looks for conflict, redundancy, mis-trigger risk, placement drift, file-state mismatch, architecture drift, clutter, and unsaved/active-copy mismatch.
+
+Save/file impact:
+LOCALBOT_MASTER_HANDOFF was updated as the active control home.
+LOCALBOT_UNIFIED_HANDOFF records this decision history.
+No open issue was added because the rule cleanup was saved.
+No code, config, model, checkpoint, or runtime architecture files were changed.
+
+Next read:
+After future saves, report whether the save is clean or mixed-clean with watch items.
+If an issue is found, report it before continuing and ask whether to fix, park, or leave it.
+
+DECISION REPORT — HIGH-RISK ROUTE CONTRACT AND OCTAGON REFERENCE SAVE
+
+Project position:
+LocalBot remains Phase 4 active.
+This was a documentation/control-model save, not code, config, model, checkpoint, runtime architecture, or phase work.
+
+Progress made:
+A focused support file was added for the high-risk route contract experiment.
+A separate visible reference file was added for the octagon / 8-gate / sector route-model theory.
+The file index was updated so the stack knows both files exist and what their roles are.
+The rebuild roadmap was updated with a parked / experimental control-model reference note.
+
+Decision reached:
+Use tiny route contracts only as a test-first safety tool for high-risk routes such as /save and possibly /audit.
+Screens may present context or choices, but routes own behavior.
+Routes may use only their named check set and must yield instead of expanding mid-action.
+Route results stay limited to close/reset, dispatch, or yield.
+
+Octagon reference decision:
+The full octagon theory, 8-gate lifecycle, sector language, broad command contracts, and backdoor/escalation theory were not promoted into active operating logic.
+They were preserved in LOCALBOT_OCTAGON_ROUTE_MODEL_REFERENCE as visible reference only.
+The backdoor idea is explicitly rejected as an active mechanism: no hidden path, no active pathway, and no bypass of user control.
+
+Save/file impact:
+New support/reference files:
+- LOCALBOT_HIGH_RISK_ROUTE_CONTRACTS
+- LOCALBOT_OCTAGON_ROUTE_MODEL_REFERENCE
+
+Updated support files:
+- LOCALBOT_STUDIO_FILE_INDEX
+- LOCALBOT_BASE_AND_CORE_BUILD_ROADMAP
+- LOCALBOT_UNIFIED_HANDOFF
+
+Not changed:
+- LOCALBOT_MASTER_HANDOFF
+- LOCALBOT_PHASES
+- LOCALBOT_CHECKPOINT
+- LOCALBOT_OPEN_ISSUES
+- code
+- config
+- model
+- runtime architecture
+
+Next read:
+Treat the route-contract model as experimental until /save and later /audit testing prove it helps.
+Treat the octagon model as parked visible reference only.
+Do not expand either one by momentum.
+
+
+DECISION REPORT — OCTAGON DETAIL PRESERVATION PASS
+
+Project position:
+LocalBot remains Phase 4 active.
+This was a documentation/reference preservation pass, not code, config, model, checkpoint, runtime architecture, or phase work.
+
+User direction:
+The user clarified that the octagon-related material should not be reduced to a placeholder.
+They want the good ideas, names, details, explanations, and future LocalBot concepts preserved.
+
+Progress made:
+LOCALBOT_OCTAGON_ROUTE_MODEL_REFERENCE was expanded into a detailed parked reference file.
+It now preserves the octagon control-shape idea, possible 8-gate map, sector language, full-theory explanation, shape/narrowing principle, bridge idea, save point idea, route-result model, named-check-set brake, route-contract shape, selective-use rule, test plan, roadmap idea, save-worthy minimum, rejected broad-contract expansion, and rejected backdoor/escalation mechanism.
+
+Decision reached:
+The good octagon ideas should be saved visibly as future LocalBot reference.
+They should not be buried.
+They should also not become active command behavior or hidden control.
+
+Conflict check:
+No master-handoff promotion was made.
+No phase, checkpoint, code, config, model, or runtime architecture was changed.
+The detailed octagon material remains reference only.
+The main watch item is that the file is intentionally detailed, so future assistants must not treat detail as activation.
+
+Next read:
+Use LOCALBOT_OCTAGON_ROUTE_MODEL_REFERENCE only as parked future-design memory unless the user deliberately reopens it.
+Use LOCALBOT_HIGH_RISK_ROUTE_CONTRACTS for the tiny testable high-risk route experiment.
+
+
+DECISION REPORT — PHASE-RULE NOISE GUARDRAIL SAVE
+
+Project position:
+LocalBot remains Phase 4 active.
+This was a rule/documentation guardrail save, not code, config, model, checkpoint, runtime architecture, or phase work.
+
+User direction:
+The user recognized that rules may slant or change when a real new phase, stage, or lane begins, but that building a future phase-rule structure now would become above-noise or future-noise.
+
+Progress made:
+A minimal Phase-Rule Noise Guardrail was saved.
+The guardrail says not to pre-build rule structures for future phases or stages.
+At a true phase or stage change, pause, review which active rules still fit, adjust only what the new phase actually needs, keep parked/reference ideas separate from active control, and then continue.
+
+Decision reached:
+Do not solve future rule problems early.
+Keep current Phase 4 rules active until a real phase or stage change happens.
+When that change happens, build or adjust the rule structure then, using live need instead of prediction.
+
+Conflict check:
+No phase change was made.
+No master rewrite was made beyond adding the narrow guardrail.
+No code, config, model, checkpoint, runtime architecture, or new file was changed.
+The guardrail reduces future noise and supports returning to practical work.
+
+Next read:
+Move back to Phase 4 practical output work.
+Use this guardrail only when a real phase/stage/lane transition is reached or proposed.
+
+
+DECISION REPORT — TRUTH-BOUND EDITING RULE
+
+Project position:
+LocalBot remains Phase 4 active.
+This was an editing-process guardrail save, not code, config, model, checkpoint, phase, or runtime architecture work.
+
+Progress made:
+The Truth-Bound Editing Rule was locked and saved.
+The rule says project-file edits must treat every added sentence as future instruction material.
+Statements must be supported by live evidence, user-approved decisions, the master handoff, proven checkpoints, active project files, or clearly labeled parked/optional/future/reference status.
+Unproven ideas must not be written as active truth.
+Lower-authority files must not gain false authority through confident wording.
+
+Placement:
+LOCALBOT_MASTER_HANDOFF owns the active editing gate.
+LOCALBOT_BASE_AND_CORE_BUILD_ROADMAP records the editing-process version near the documentation/editing roadmap rules.
+
+Decision reached:
+Future file edits must be truth-bound before they are called clean.
+The assistant must check whether edited wording could cause drift, false authority, contradiction, or accidental promotion of parked ideas.
+
+Post-save read:
+No code/config/model/runtime/phase/checkpoint change was made.
+No new project lane was opened.
+
+
+
+DECISION REPORT — FULL WAVE RUN PACKET CLARIFICATION
+
+Project position:
+LocalBot remains Phase 4 active.
+This was a live-run instruction cleanup, not code, config, model, checkpoint, phase, or runtime architecture work.
+
+Progress made:
+The Full Wave Command Output Rule was tightened so a wave, batch, or planned run chain is not reduced to one isolated task.
+When the user asks to run a wave or continue a planned chain, the assistant must give the full wave packet: wave goal, planned task files, copyable commands or task text, coordinator run count, readback instructions, and evidence to send back.
+
+Decision reached:
+A wave route continues until a real stop point or verdict point.
+The assistant should not stop after one task when the active request is a wave, batch, or planned chain.
+
+Stop points include:
+- user says stop
+- task failed
+- output missing
+- system/log problem
+- task stuck in running
+- partial, Failure 9, fail, or workflow mistake
+- planned wave finished and needs verdict
+- checkpoint, lane switch, or user decision required
+
+Next planned move:
+Return to Phase 4 practical wave work.
+Use full wave packets when running planned cleanup, rewrite, classification, or comparison-wave chains.
+
+
+DECISION REPORT — FULL WAVE CONTINUATION AND SCREEN CALLOUT SAVE
+
+Project position:
+LocalBot remains Phase 4 active. This was a rule/documentation save only, not code, config, model, checkpoint, runtime architecture, or real phase work.
+
+User direction:
+When the active route is a wave, batch, or planned run chain, the assistant must show the whole wave packet, not only the first few commands.
+After the user sends PASS, FAIL, partial, Failure 9, or workflow-verdict evidence, the assistant must judge it and immediately provide the next planned wave or repair wave unless a real stop point is reached.
+
+Clarification saved:
+Model-output failure by itself is not a pause when the next repair wave is already implied by the active wave chain.
+
+Real stop points preserved:
+- user says stop
+- checkpoint hard stop
+- yield
+- save point
+- phase gate, lane switch, capability expansion, or documentation/update checkpoint
+- user decision required
+- missing, unclear, incomplete, or invalid evidence
+- task file lands in tasks\failed
+- task is stuck in running
+- coordinator log shows a system problem
+- no defined next planned wave or repair wave exists
+
+Screen behavior saved:
+When the user calls out a registered LocalBot screen by name or clearly asks to see a specific screen, the assistant must show that screen in the registered clean style and required order instead of substituting a generic summary, partial list, or different screen.
+
+Files updated in this save:
+- LOCALBOT_MASTER_HANDOFF
+- LOCALBOT_STUDIO_RULE_LIBRARY
+- LOCALBOT_UNIFIED_HANDOFF
+- SAVE_NOTE
+
+Save read:
+The change tightens live wave behavior while preserving checkpoint, yield, save, system-problem, and decision gates.
+
+
+DECISION REPORT — RUN WAVE COPY BOX PURITY AND 137 COMMAND TRIGGER
+
+Project position:
+LocalBot remains Phase 4 active.
+This was documentation/control-rule cleanup only.
+No code, config, model, checkpoint, runtime architecture, or real phase change was made.
+
+Issue found:
+The Run Wave Packet Screen was too cluttered because copy/paste boxes were used for more than runnable commands.
+The user clarified that wave copy boxes should contain only commands.
+
+Decision reached:
+The Run Wave Copy Box Purity Rule was added to LOCALBOT_MASTER_HANDOFF.
+The Full Wave Command Output Rule was tightened so wave packets must keep labels, goals, expected output, evidence requests, verdict rules, and explanations outside copy boxes.
+The Planned Wave Packet Rule in LOCALBOT_STUDIO_RULE_LIBRARY was updated to support the same behavior.
+
+Command trigger decision:
+The standalone code 137 is now the active command-list trigger.
+When the user sends 137 by itself, show the LocalBot command list / startup menu in the registered clean style.
+The old /HELP trigger is retired unless deliberately reopened.
+
+Save/file impact:
+LOCALBOT_MASTER_HANDOFF was updated as the active control home.
+LOCALBOT_STUDIO_RULE_LIBRARY was updated as supporting wave-rule guidance.
+LOCALBOT_UNIFIED_HANDOFF records this decision history.
+SAVE_NOTE records the current saved-stack state.
+No open issue was added because the rule cleanup was saved.
+
+DECISION REPORT — REPEATED WAVE COPY-BOX CONFUSION FIX
+
+Project position:
+LocalBot remains Phase 4 active.
+This was documentation/control-rule cleanup only.
+No code, config, model, checkpoint, runtime architecture, or real phase change was made.
+
+Repeated issue:
+The assistant kept using copy boxes for non-command wave material such as evidence templates or screen text.
+This created confusion because the user expects wave copy/paste boxes to contain only commands.
+
+Root cause:
+The prior rule was directionally correct but still allowed future AI to treat fenced code blocks as useful formatting for evidence templates or task text.
+The wording did not say clearly enough that every fenced block in a Run Wave Packet Screen is a copy/paste box and therefore must be runnable CMD.
+
+Decision reached:
+The Run Wave Copy Box Purity Rule was tightened in LOCALBOT_MASTER_HANDOFF.
+The Full Wave Command Output Rule was tightened in LOCALBOT_MASTER_HANDOFF.
+The Planned Wave Packet Rule was tightened in LOCALBOT_STUDIO_RULE_LIBRARY.
+The general copy-box rule in LOCALBOT_STUDIO_FILE_INTEGRITY now states that Run Wave Packet Screens are stricter than the normal copy-box rule.
+
+Locked behavior:
+During Run Wave Packet Screens, every fenced copy/paste box must contain only runnable Windows CMD command text.
+Wave goals, labels, expected output, verdict rules, evidence requests, explanations, and paste-back templates stay outside copy boxes as normal screen text.
+If task text is needed, it belongs inside the runnable CMD command that writes the task file.
+Before sending a wave packet, the assistant must self-check every fenced block and remove or rewrite any block that is not runnable CMD.
+
+Save/file impact:
+LOCALBOT_MASTER_HANDOFF was updated as the active control home.
+LOCALBOT_STUDIO_RULE_LIBRARY was updated as supporting wave-rule guidance.
+LOCALBOT_STUDIO_FILE_INTEGRITY was updated to remove copy-box ambiguity.
+LOCALBOT_UNIFIED_HANDOFF records this decision history.
+SAVE_NOTE records the current saved-stack state.
+No open issue was added because the repeated issue was resolved by rule tightening.
+
+DECISION REPORT — RUN WAVE ONE-COMMAND HEADING FORMAT FIX
+
+Project position:
+LocalBot remains Phase 4 active. This was documentation/control-rule cleanup only. No code, config, model, checkpoint, runtime architecture, or real phase change was made.
+
+Issue found:
+The wave-screen rules were still leaving room for confusing output. The assistant kept bundling create, run, readback, and log checks into large copy boxes and used command-count headings such as CMD 1 / CMD 2. That made the wave harder to run and harder to debug from history.
+
+User correction at that time:
+Run Wave Packet Screens must show the full wave and each command must get its own copy/paste box.
+This older pass still allowed purpose headings, which was later corrected and superseded.
+
+Decision reached at that time:
+A Run Wave Screen Format Rule was added to LOCALBOT_MASTER_HANDOFF for one-command copy boxes.
+Later correction supersedes the purpose-heading/debug-detail-before-commands wording for Run Wave Packet Screens.
+
+Supporting cleanup:
+LOCALBOT_STUDIO_RULE_LIBRARY now mirrors the planned-wave support rule with the same one-command copy-box boundary and required detailed verdict report. LOCALBOT_STUDIO_FILE_INTEGRITY now clarifies the wave-packet exception under the copy-box rule.
+
+Verdict report behavior:
+After wave results come back, the assistant must give a full detailed verdict report with Current Wave, what was tested, expected output, actual output, done/failed/running state, coordinator/log evidence, verdict, why, suggested fix if needed, why the fix should work, and next wave direction.
+
+Next read:
+This older read is superseded for command packet display. Current wave packets show Current Wave, then command boxes only. After the user sends results, report the verdict in detail and immediately continue to the next wave or fix unless a real stop point is reached.
+
+DECISION REPORT — WAVE JUDGMENT LOG REQUIREMENT
+
+Project position:
+LocalBot remains Phase 4 active. This was documentation/control-rule cleanup only. No code, config, model, checkpoint, runtime architecture, or real phase change was made.
+
+Issue found:
+The Run Wave Verdict Report Rule required a detailed verdict report, but it did not force a reusable judgment-log section that future review could scan cleanly. That left room for a future assistant to give a loose pass/fail explanation without preserving the wave evidence, judgment reason, fix choice, and next-wave direction in one reliable place.
+
+User correction:
+The verdict report, its headings, and the assistant judgment must be recorded and logged clearly because wave history is needed for debugging what happened, where it happened, when it happened, how it was judged, and why the next action was chosen.
+
+Decision reached:
+A Wave Judgment Log Rule was added to LOCALBOT_MASTER_HANDOFF and supported in LOCALBOT_STUDIO_RULE_LIBRARY. Every wave verdict report must now include a clearly headed Wave Judgment Log section.
+
+Required log content:
+The log must record Current Wave, task file or files, output file or files, expected result, actual result, done/failed/running state, coordinator/log evidence, verdict, judgment reason, fix chosen if any, why that fix should work, next wave direction, and stop reason if stopped.
+
+Boundary:
+The Wave Judgment Log is recorded in the chat verdict report every time. It is written into project files only when the user asks to save or update the stack.
+
+Next read:
+For wave work, after the user sends results, give the full verdict report with the Wave Judgment Log before giving the next wave or repair wave. Do not continue until the judgment log is present and complete enough to debug later.
+
+DECISION REPORT — RUN WAVE PACKET COMMAND-ONLY DISPLAY OVERRIDE
+
+Project position:
+LocalBot remains Phase 4 active. This was documentation/control-rule cleanup only.
+No code, config, model, checkpoint, runtime architecture, or real phase change was made.
+
+Repeated issue:
+The Run Wave Packet Screen kept being too verbose or over-labeled.
+Earlier wording allowed purpose headings, wave details, and send-back/evidence text inside or near the command packet, which made the wave harder to run and easier for future AI to misread.
+
+Decision reached:
+The active wave packet display is now:
+- Run Wave Packet Screen heading
+- Current Wave field
+- command boxes only after Current Wave
+
+The packet must show one current wave only and the whole command sequence for that current wave.
+Each copy/paste box must contain exactly one runnable Windows CMD operation.
+Do not add individual command labels above boxes.
+Do not add CMD 1, CMD 2, Command 3, Step 4, Wave Step A, Create Task, Run, Done Check, Failed Check, Output Read, Log Tail, or similar labels above boxes.
+Do not add explanations, expected output, verdict rules, evidence templates, or send-back instructions inside the wave packet.
+Do not place normal text between command boxes.
+
+Superseded wording:
+Earlier references to purpose-headed command boxes, command headings, or debug details before commands are superseded for Run Wave Packet Screens.
+Debug history belongs in the detailed verdict report and the Wave Judgment Log after the user sends results.
+
+Current operating read:
+During the wave packet, the only debugging identity shown outside boxes is Current Wave.
+Inside commands, clear task filenames, output filenames, and log targets carry debugging identity.
+After results, the assistant must produce the detailed verdict report and Wave Judgment Log before giving the next wave or fix.
+
+DECISION REPORT — PHASE 4 MINI-RUN AND LOG EVIDENCE PATH SAVE
+
+Project position:
+LocalBot remains Phase 4 active.
+This was practical output-control evidence and a live evidence-route correction, not code, config, model, checkpoint-suite, runtime architecture, or phase work.
+
+Progress made:
+The active Phase 4 mini-run repaired the practical_192 blank-line failure, reconfirmed classification, reconfirmed rewrite, exposed freeform cleanup fragility, repaired cleanup with copy-block target-lock, and corrected the coordinator log evidence path.
+
+Evidence:
+- practical_192: completed but failed exact shape because the output had blank lines between the five correct lines.
+- practical_193: PASS; repair removed blank lines and copied the exact five required lines.
+- practical_194: PASS; classification returned exactly done.
+- practical_195: PASS; rewrite returned five clean command-style lines with correct punctuation and no blank lines.
+- practical_196: FAIL; freeform cleanup returned five lines but kept lowercase sentence starts and kept the comma in review done tasks, now.
+- practical_197: PASS; copy-block target-lock returned the approved cleaned five-line output exactly.
+- Log route check: PASS after correction; the coordinator log exists at C:\LocalBot\logs\coordinator.log, not C:\LocalBot\coordinator.log.
+
+Result pattern:
+Classification remains clean.
+Rewrite remains clean.
+Freeform cleanup remains fragile when exact capitalization and punctuation are required.
+Copy-block target-lock remains the strongest cleanup prompt shape when exact output matters.
+The missing coordinator.log readback was an evidence-path mistake, not a LocalBot system failure.
+
+Decision reached:
+Use copy-block target-lock for exact cleanup output.
+Do not treat freeform cleanup as a trusted exact-output lane unless it is deliberately reopened and retested.
+Use logs\coordinator.log for future coordinator log evidence from C:\LocalBot unless live machine state proves the path changed.
+Do not change code, config, model, architecture, or real phase state from this result.
+
+Next planned move:
+Stop this mini-run branch as closed.
+Use the updated evidence path in future wave packets.
+Continue practical Phase 4 work only after choosing the next lane intentionally.
+FINAL LOCALBOT WRAP / CLOSEOUT STATE
+
+Date:
+2026-05-04
+
+Status:
+LocalBot Phase 4 is wrapped as a completed practical local AI task-loop core.
+
+Final closeout verification:
+final_closeout_001 returned exactly:
+LOCALBOT_PHASE4_CLOSEOUT_OK
+
+Final working identity:
+LocalBot is a controlled local task runner for one Windows PC using Python, Ollama, pending/running/done/failed folders, output files, timeout handling, recovery, and human judgment.
+
+Final proven strengths:
+- core loop
+- failure path
+- recovery
+- classification
+- source-tied rewrite
+- exact cleanup by copy-block target-lock
+- final closeout verification
+
+Final parked / non-blocking items:
+- freeform cleanup is weak
+- summary lane is parked
+- long backlog behavior is unproven future work
+- Roblox / Studio expansion is a separate future lane
+- zero-byte junk files are cleanup-only, not system blockers
+
+Hard judgment:
+LocalBot is done enough to stop building the core.
+More testing now is drift unless a new project lane is deliberately opened.
+
+Final order:
+1. wrap LocalBot
+2. save the final project state
+3. clean folder/file clutter last
+
+No code, config, model, runtime architecture, checkpoint-suite proof, or real machine behavior was changed by this save.
+
+LOCKED RUN / WAVE CLEAN REVIEW
+
+Date:
+2026-05-04
+
+Locked judgment:
+The run and wave record is clean only when written with the repair sequence included.
+
+Do not record the normal response suite as a first-try full pass.
+
+Correct final truth:
+- Core response passed directly.
+- Classification passed directly.
+- Rewrite passed directly.
+- Exact cleanup failed once because the output merged physical lines.
+- Exact cleanup repair passed with stricter physical-line wording.
+- Final normal response test verdict: PASS after repair.
+
+Task record:
+- normal_recheck_001_core: PASS
+- normal_recheck_002_classify: PASS
+- normal_recheck_003_rewrite: PASS
+- normal_recheck_004_cleanup_exact: FAIL, line merge / physical-line loss
+- normal_recheck_005_cleanup_exact_repair: PASS
+
+Carry-forward rule:
+For exact cleanup or exact multi-line output, require physical lines explicitly.
+Use wording such as:
+- Return exactly five physical output lines.
+- Each approved line must be on its own separate line.
+- Do not merge lines together.
+- Do not wrap one approved line across two lines.
+- Do not add blank lines.
+
+Run evidence handling:
+- Read each output file separately.
+- Do not smash multiple output files together without separators.
+- Check done state and failed state separately.
+- Use logs\coordinator.log for log evidence.
+- Do not treat tasks\done as automatic PASS.
+
+Closed result:
+LocalBot is responding correctly.
+No further run testing is needed unless a new lane is deliberately opened.
+
+LOCKED FINAL PLACEMENT / CLEANUP RESULT
+
+Date:
+2026-05-04
+
+Locked final state:
+LocalBot is wrapped, saved, placed, tested, and cleaned.
+
+Final real folder structure:
+Runtime root:
+C:\LocalBot
+
+Runtime root contains:
+- coordinator.py
+- worker.py
+- config.txt
+- tasks
+- outputs
+- logs
+- Handoff_Stack
+
+Final handoff stack location:
+C:\LocalBot\Handoff_Stack
+
+Handoff_Stack contains the final project record files and support/reference files.
+
+Final cleanup performed:
+The following zero-byte junk command-name files were confirmed as zero bytes and removed from C:\LocalBot:
+- dir
+- powershell
+- py
+- python
+- start
+- type
+
+Final verification after cleanup:
+- coordinator.py: PASS
+- worker.py: PASS
+- config.txt: PASS
+- tasks: PASS
+- outputs: PASS
+- logs: PASS
+- Handoff_Stack: PASS
+
+Final judgment:
+LocalBot runtime root is correct.
+The handoff stack is placed.
+The normal response test passed after repair.
+Final closeout passed.
+Root junk files are removed.
+No further testing is needed unless a new lane is deliberately opened.
+
+Do not continue building the LocalBot core by momentum.
+The core is complete.

@@ -1,0 +1,67 @@
+CLEAN SEED FILE HOUSEKEEPING MAP
+Created: 2026-05-09 19:30 -04:00 (checkpoint derived from user sort report and current chat state)
+Purpose: reduce local clutter without deleting evidence before proof.
+Authority: reference/savepoint. Do not use this as a delete order until the current active guide set verifies clean.
+
+SOURCE OF TRUTH TARGET
+C:\CleanSeedsBuild\MASTER_CURRENT
+
+Inside it, use:
+C:\CleanSeedsBuild\MASTER_CURRENT\ACTIVE_GUIDES
+C:\CleanSeedsBuild\MASTER_CURRENT\SAVEPOINT
+C:\CleanSeedsBuild\MASTER_CURRENT\PROOF_HISTORY
+C:\CleanSeedsBuild\MASTER_CURRENT\ARCHIVE
+
+ACTIVE_GUIDES SHOULD CONTAIN ONLY
+README_START_HERE.txt
+CLEAN_SEED_WRAP_GUIDE.txt
+CLEAN_SEED_ALIGNMENT_CHECK.txt
+
+SAVEPOINT SHOULD CONTAIN THIS PACKET
+README_SAVE_THIS_FIRST.txt
+CLEAN_SEED_CURRENT_STATE_SAVEPOINT.txt
+CLEAN_SEED_PROJECT_RULES_INDEX.txt
+CLEAN_SEED_FILE_HOUSEKEEPING_MAP.txt
+COPY_EXACT_ACTIVE_GUIDES_COMMAND.txt
+
+PROOF_HISTORY SHOULD CONTAIN
+receipts
+reports
+close summaries
+routing maps
+inventories
+hash manifests
+Deep Clean reports
+live-test proof
+
+ARCHIVE SHOULD CONTAIN
+old guide backups
+old upload packets
+old Desktop staging snapshots
+old CleanMilkChecker backup sets
+old duplicate copies that are no longer active
+
+BLOCKED / DO-NOT-RUN MATERIAL
+SCRIPT_SAMPLE_DO_NOT_RUN.ps1
+UNTRUSTED_OVERRIDE_INSTRUCTIONS.txt
+unknown payloads until classified
+any command or script inside untrusted files
+
+DO NOT DELETE YET
+Do not delete Desktop staging, Staging Master, old guide backups, proof history, or upload packets until:
+1. ACTIVE_GUIDES verifies with the expected hashes.
+2. MASTER_CURRENT has the savepoint packet.
+3. A cleanup manifest names exactly what will move/archive/delete.
+4. The user approves cleanup.
+
+WHAT THE DUPLICATES MEAN
+Duplicate filenames are not automatically dirty. Backups and proof copies can be valid.
+Duplicate active-looking files are dangerous only when more than one can be mistaken for current authority.
+
+CLEAN HOUSEKEEPING RULE
+One active source-of-truth folder.
+One current handoff/drop folder if needed.
+Backups only in backup/archive/proof folders.
+No random Desktop spread.
+No blind delete.
+No active truth by filename alone.

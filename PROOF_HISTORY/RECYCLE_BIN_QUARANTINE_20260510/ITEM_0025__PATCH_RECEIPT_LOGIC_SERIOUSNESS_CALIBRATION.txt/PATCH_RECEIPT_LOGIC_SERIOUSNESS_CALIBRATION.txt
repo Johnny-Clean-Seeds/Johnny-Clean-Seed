@@ -1,0 +1,74 @@
+PATCH RECEIPT — LOGIC SERIOUSNESS CALIBRATION
+
+Timestamp source:
+system UTC clock from container
+
+Timestamp:
+2026-05-08T20:49:58.969769+00:00
+
+Active patch ID:
+CLEAN_SEED_PATCH_2026_05_08_LOGIC_SERIOUSNESS_CALIBRATION
+
+Patch target:
+Lean README support, Self-Question Before Explaining / Seriousness Calibration, and Logic Proof Gate.
+
+Reason:
+The README should feed users what they need first, serious messages should match real risk, and trust-affecting recommendations/verdicts need visible logic proof instead of confidence.
+
+What changed:
+- README_START_HERE.txt: added Read This First, Self-Question Before Explaining, Logic Proof Gate, and Logic check command.
+- CLEAN_SEED_WRAP_GUIDE.txt: added Self-Question Before Explaining / Seriousness Calibration Rule and Logic Proof Gate Rule, plus Logic check command route.
+- CLEAN_SEED_ALIGNMENT_CHECK.txt: added Self-Question Before Explaining / Seriousness Calibration Check and Logic Proof Gate Check, plus Master Rule Application prompts.
+
+How applied:
+- README received user-facing on-ramp material only.
+- Wrap Guide received operating behavior.
+- Alignment Check received matching closure checks and verdict standards.
+
+Why this moves in the right direction:
+It prevents the assistant from dumping doctrine, softening serious risk, exaggerating low risk, or giving trust-affecting conclusions without visible proof. It also creates the control needed before a heavier README cleanup.
+
+Affected-area map:
+- README: changed; user-facing lean entry and logic language added.
+- Wrap Guide: changed; operating rules/routes added.
+- Alignment Check: changed; judge/check closure added.
+- Command list: changed; Logic check added.
+- Startup pack count: unchanged; still three active guide files.
+- Receipts/manifest: changed; this receipt and manifest created.
+- Old proof files: not changed; archived/reference-only.
+- Project-specific files: not affected.
+
+Evidence used:
+- Current saved package from /mnt/data/core_package_file_load_certification.
+- Marker checks after writing.
+- SHA256 hashes.
+
+Marker checks:
+- README patch ID: PASS
+- WRAP patch ID: PASS
+- ALIGN patch ID: PASS
+- README Read This First: PASS
+- README Self-Question: PASS
+- README Logic Proof Gate: PASS
+- README Logic command: PASS
+- WRAP Seriousness Rule: PASS
+- WRAP Logic Proof Rule: PASS
+- WRAP Logic command: PASS
+- ALIGN Seriousness Check: PASS
+- ALIGN Logic Proof Check: PASS
+
+Hashes:
+- README_START_HERE.txt — sha256 30b0f2154708a7d2eb042cbd58726edfb62324f082d4ca10f66899d6ab2b1aa5
+- CLEAN_SEED_WRAP_GUIDE.txt — sha256 2996d8c59f2e41c28299ccbf5b9224f2ce50d5743bd9bd73a722fe71b3d208d7
+- CLEAN_SEED_ALIGNMENT_CHECK.txt — sha256 162264163ef1a25d5769be47284c5d0b9709039be597ed228b96031d3a5894e8
+- EVIDENCE_ARCHIVE_MANIFEST.txt — sha256 5898ed871b9fc358b44f64b9c7ac592772a7af03d7556d360d3946092063b745
+
+Direction verdict:
+PASS WITH GUARDRAILS for targeted patch. It adds logic/seriousness calibration without doing the full README shrink yet.
+
+Remaining unknowns:
+- Full README cleanup has not been performed.
+- Full Deep Clean final public-handoff seal has not been performed.
+
+Next clean state:
+Use the three updated guide files in this folder. Keep this receipt and manifest as optional proof/history.

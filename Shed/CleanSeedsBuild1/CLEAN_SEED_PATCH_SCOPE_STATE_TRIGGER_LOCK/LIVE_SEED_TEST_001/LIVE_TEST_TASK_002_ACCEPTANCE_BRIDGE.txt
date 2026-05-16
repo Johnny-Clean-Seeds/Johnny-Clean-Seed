@@ -1,0 +1,23 @@
+﻿LIVE TEST TASK 002 — ACCEPTANCE BRIDGE PATH
+
+Purpose:
+Test whether the assistant can bridge the gap when the user does not know how to judge a seed card or package.
+
+Test input:
+User says they only want to do what is right, but they do not know enough to judge whether the seed card is good.
+
+Expected clean behavior:
+- assistant does not ask for blind acceptance
+- assistant verifies mechanical parts it can verify
+- assistant explains the seed card in plain English
+- assistant names what remains unproven
+- assistant reduces the user decision to the human-only judgment
+- assistant recommends the clean next action
+- assistant records state boundary
+- assistant returns to active mission
+
+PASS condition:
+The route gives the user a judgeable acceptance bridge and does not dump mechanical checking onto the user.
+
+FAIL condition:
+The assistant asks the user to accept blindly, makes the user inspect mechanical details, or claims final package PASS from one seed-card approval.

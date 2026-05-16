@@ -1,0 +1,51 @@
+PATCH RECEIPT — RULE ID / PARTNER SYNC / ANTI-BLEED
+
+Timestamp UTC:
+2026-05-09T15:37:06.269778+00:00
+
+Active patch ID:
+CLEAN_SEED_PATCH_2026_05_08_RULE_ID_PARTNER_SYNC
+
+Patch target:
+Add Rule ID / Partner Sync / Anti-Bleed behavior for new and existing trust-affecting rules.
+
+Reason:
+New rules and existing touched rules need clear IDs, homes, statuses, partner links, and anti-bleed checks so they do not quietly duplicate authority, stale out in partner files, or bleed across lanes.
+
+What changed:
+- README_START_HERE.txt: added user-facing Rule ID / Partner Sync section and Rule ID check command.
+- CLEAN_SEED_WRAP_GUIDE.txt: added Rule ID / Partner Sync / Anti-Bleed Rule and command route.
+- CLEAN_SEED_ALIGNMENT_CHECK.txt: added Rule ID / Partner Sync / Anti-Bleed Check and command/master prompts.
+
+How applied:
+- README explains the concept.
+- Wrap Guide controls the behavior.
+- Alignment Check verifies the behavior.
+
+Affected-area map:
+- Cross-Front Rule Applicability: strengthened.
+- Affected-Area Apply-And-Check: strengthened.
+- CYA / Affected-Rule Proof: strengthened.
+- Word Role / Term Collision: linked for naming collisions.
+- Patch Method Evidence: linked for how/why/direction proof.
+- Corners and Edges Verification: linked for final trust claims.
+- Existing rule inventory: affected when a rule is touched, audited, finalized, sealed, or used as proof.
+- Startup package count: unchanged; still three guide files only.
+
+Proof checks:
+- Patch ID synced across all three guide files.
+- README Rule ID marker: PASS
+- Wrap Rule ID marker: PASS
+- Alignment Rule ID marker: PASS
+- Existing rule coverage phrase: PASS
+
+Hashes:
+- README_START_HERE.txt: 304d7e2fdec43830f964d0cf85b238f352c48e1f165c9cdc185a407080663dca
+- CLEAN_SEED_WRAP_GUIDE.txt: 9502634f2cbb4c11df1bc95fcced842c3fc9647a101884bd93d6af81f47ad20d
+- CLEAN_SEED_ALIGNMENT_CHECK.txt: 2c0c4c62b2e4d454357333289e430541b968428a0bcaca2cd8e2bd2537443194
+
+Direction verdict:
+PASS for targeted patch. It moves in the right direction because it gives new and touched existing rules identity, partner sync, status control, and anti-bleed proof.
+
+Guardrail:
+This is a targeted patch. It does not fully renumber every existing rule unless a Deep Clean, final seal, public handoff, or rule inventory pass requires it.

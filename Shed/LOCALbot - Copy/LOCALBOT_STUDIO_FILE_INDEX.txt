@@ -1,0 +1,206 @@
+LOCALBOT_STUDIO_FILE_INDEX
+
+READ FIRST
+
+Date:
+2026-05-03
+
+Purpose:
+This file is the filing map and read order for the cleaned LocalBot / LocalBot Studio support stack.
+
+Use root references inside project files.
+Do not refer to exact version filenames inside the file content because version filenames change over time.
+
+RULE KEY LEGEND
+
+Use these short keys when they make a rule table or audit cleaner.
+
+[AUTH] authority / what wins
+[FILE] file names, root lookup, save rules, and folder cleanup
+[RUN] live run flow
+[READ] output readback and result checking
+[JUDGE] pass, fail, partial, or issue classification
+[REPAIR] repair, reset, comparison waves, and truth-finding
+[STOP] hard stops, checkpoint decisions, and pause points
+[DOC] documentation, editing, and note placement
+[EXPAND] automation, Roblox, brain, planner, or architecture expansion
+[REMIND] checkpoint reminders and pending items
+[HINDER] rules that block safe progress
+
+Use keys only when they make the file easier to scan.
+Do not force keys into every line.
+
+ROUTE SYMBOL LEGEND
+
+Use these plain-text route symbols only when they make maps or audits easier to scan.
+
+[OPEN] = a route, task, lane, or issue is open
+[NEXT] = the next action is defined
+[LOOP] = repeat using evidence from prior attempts
+[PASS] = close this item as working
+[PARK] = intentionally paused for later, not forgotten
+[STOP] = hard stop / decision point
+[REMIND] = mention only at checkpoint or hard stop unless it affects the current task
+
+Do not decorate normal run instructions with symbols.
+Use symbols for route maps, audits, checkpoints, and status-style reports only.
+
+
+ROOT REFERENCE, LOOKUP, AND SAVE RULES
+
+[FILE] Root reference rule:
+Inside project files, refer to project files by root role/name, not by exact version filename.
+
+Use stable roots such as:
+- LOCALBOT_MASTER_HANDOFF
+- LOCALBOT_BASE_AND_CORE_BUILD_ROADMAP
+- LOCALBOT_STUDIO_RULE_LIBRARY
+- LOCALBOT_UNIFIED_HANDOFF
+- LOCALBOT_CHECKPOINT
+- LOCALBOT_STUDIO_FILE_INDEX
+- LOCALBOT_STUDIO_FILE_INTEGRITY
+- LOCALBOT_STUDIO_VALIDATOR_RULES
+- LOCALBOT_STUDIO_REFERENCE_PARKING
+- LOCALBOT_PHASES / LOCALBOT_STUDIO_PHASES
+
+[FILE] Root lookup rule:
+When checking whether a project file exists, belongs in the active stack, or needs cleanup, search by root name first.
+Treat the newest clean version of that root as the active file.
+Ignore old versions unless reviewing history.
+Treat duplicate download suffixes such as "(1)" or "(2)" as cleanup issues.
+
+[FILE] File save rule:
+Active project files on disk should use clean root filenames unless the user explicitly asks for another naming style.
+Do not auto-add version-number suffixes or similar labels to active saved files.
+Do not create duplicate-download suffixes such as "(1)" or "(2)".
+Internal file text should use root names only.
+Checkpoint files are snapshots and may preserve their snapshot identity in content, but they do not control active file naming.
+
+Reason:
+- root filenames match the user's active project folder
+- root roles stay stable
+- root references prevent stale internal links
+- root lookup prevents false "missing file" errors when filenames are cleaned
+- old versioned copies are history/reference only
+
+
+MAIN CLEANUP DECISION
+
+Old LocalBot:
+- preserved as reference/history
+- working core loop remains respected
+- advanced Roblox builder/manifest ideas are parked unless deliberately reopened
+
+LocalBot current operating stack:
+- small local AI task loop
+- Windows PC
+- Python + Ollama
+- one task at a time
+- file-based task folders
+- practical Phase 4 work with planned batches, comparison waves, and checkpoint hard stops
+
+Studio support material:
+- useful when the user deliberately opens Studio or Roblox work
+- does not override the active LocalBot master handoff or current project rules
+- does not become autonomous Studio control, Workspace agent behavior, or a giant builder system
+
+READ ORDER
+
+1. 00_LOCALBOT_STUDIO_FILE_INDEX
+   Role:
+   Filing map and read order.
+
+2. LOCALBOT_MASTER_HANDOFF
+   Role:
+   Primary active authority, current control truth, and live operating rules.
+
+3. LOCALBOT_STUDIO_RULE_LIBRARY
+   Role:
+   Compact rule tree, run rules, checkpoint rules, edit rules, comparison-wave rules, and collision-prevention rules.
+
+4. LOCALBOT_BASE_AND_CORE_BUILD_ROADMAP
+   Role:
+   Closed-loop roadmap, build order, milestone order, and expansion order.
+
+5. LOCALBOT_UNIFIED_HANDOFF
+   Role:
+   Context and history.
+   This is where milestone and decision reports live.
+
+6. LOCALBOT_CHECKPOINT
+   Role:
+   Snapshot save point for current state.
+   Old checkpoints are not edited in place.
+
+7. LOCALBOT_PHASES / LOCALBOT_STUDIO_PHASES
+   Role:
+   Phase status support.
+
+8. LOCALBOT_STUDIO_VALIDATOR_RULES
+   Role:
+   Validator/helper AI rules only.
+   Validator checks only and does not build.
+
+9. LOCALBOT_STUDIO_REFERENCE_PARKING
+   Role:
+   Parked ideas and old overbuilt material.
+   Useful history, not active control.
+
+10. LOCALBOT_STUDIO_FILE_INTEGRITY
+    Role:
+    File order, naming, version, and no-clutter support.
+
+BOTTOM-TO-TOP ROUTE MAP
+
+Use this route order when checking the project as a whole:
+
+1. [FILE] File roots, versions, folder names, and duplicates are clean enough to trust.
+2. [RUN] One task runs through the coordinator and reads the exact output.
+3. [JUDGE] The result is judged as pass, shape fail, meaning drift, classification miss, system fail, or workflow mistake.
+4. [REPAIR] If needed, use comparison waves and build from the best evidence.
+5. [STOP] At a hard stop, run a total evaluation before continuing.
+6. [DOC] Record milestone decisions in the unified handoff and create new checkpoint snapshots only when a real save point is needed.
+7. [EXPAND] Only after the smaller route is stable, open automation, Studio, Roblox, memory, brain, planner, or architecture.
+
+Do not jump upward in this map before the lower route is stable enough.
+Do not let caution become drift; cautions must point to a route, stop, reminder, or parked item.
+
+
+SUPPORT-FILE PARKING RULE
+
+Studio-named support files can remain in the stack for later Studio/Luau helper use.
+They are not an active blocker for core LocalBot Phase 4 text runs unless the user deliberately opens the Studio lane.
+
+When the Studio lane is opened, define:
+- goal
+- allowed actions
+- forbidden actions
+- acceptance test
+- stop point
+
+Until then, treat Studio support files as parked support material, not current run control.
+
+ORDER RULE
+
+Read the files top-down.
+Do not let later files override earlier authority files.
+If a later file appears to conflict with the master handoff or rule library, use the higher-authority file unless live user direction or live machine evidence says otherwise.
+
+CHECKPOINT HARD-STOP REMINDER
+
+[STOP] Checkpoint hard stops are total evaluation points, not ordinary status updates.
+At a checkpoint hard stop, check whether anything should be organized, moved, renamed, cleaned, or discussed before continuing.
+Mention active reminders only when they matter now.
+If there are no active reminders, say nothing about reminders.
+
+[REMIND] If a support file named in the stack has not been reviewed yet, mention that as an active reminder at a hard stop.
+Do not let reminders interrupt normal run flow unless they affect the current decision.
+
+CORE DESIGN PRINCIPLE
+
+Keep the project orderly like a human-made shop:
+- every file has one job
+- every rule has a home
+- every task follows a sensible path
+- every proven result becomes history or a new checkpoint only when it changes project truth
+- parked ideas stay parked until deliberately reopened

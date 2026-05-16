@@ -1,0 +1,81 @@
+﻿BALANCED ASSEMBLY-LINE INTERLOCK PLAN — REFINED 20260511
+
+STATUS:
+Proof-history-only rough plan.
+Not active doctrine.
+Not current truth.
+Not a fourth guide.
+Not promotion.
+Not final PASS.
+
+PURPOSE:
+Create the smallest working interlock model for current Clean Seed work without creating folders, dashboards, doctrine bloat, or cleanup pressure.
+
+CORE ORDER:
+FREEZE -> CAPTURE / COLLECT -> INVENTORY -> SORT -> JUDGE -> PLACE / FILE -> SAVE -> SEAL -> REVIEW / HANDOFF -> PROMOTE / PARK / BLOCK -> CONTINUE
+
+PLAN:
+1. AUTHORITY
+Load CURRENT_TRUTH_INDEX first.
+Load AGENTS second.
+Load ACTIVE_GUIDES as active doctrine.
+Treat PROOF_HISTORY as support proof only.
+
+2. ACTIVE BALL
+Name the current plate or batch before work starts.
+Do not switch balls until current ball is closed, saved, parked, blocked, yielded, or carried forward.
+
+3. FREEZE / CAPTURE
+Stop movement.
+Preserve visible evidence before structuring it.
+
+4. INVENTORY / SORT
+List what exists.
+Group by role, value, risk, and status.
+Sorting is not judging.
+
+5. JUDGE / PLACE
+Decide value, authority, and next gate.
+Placement is not promotion.
+
+6. SAVE / SEAL
+Only with approval.
+Record path, size, hash, boundary, and next state.
+File-save PASS is not content PASS.
+
+7. REVIEW / HANDOFF
+Technician may review and recommend only.
+Technician cannot final PASS, promote, edit active guides, edit current truth, delete, move, rename, overwrite, create folders, run scripts, or perform cleanup.
+
+8. PROMOTE / PARK / BLOCK
+Promotion requires later approval.
+Parking preserves value without making it active.
+Blocking protects unsafe or unready action.
+
+9. CONTINUE
+Continue only after the active ball has a clear state.
+
+COBWEB RESOLUTION:
+Older wording:
+Intake -> Freeze -> Inventory
+
+Refined reading:
+Treat Intake as pre-entry/context, not the first shed station.
+Preferred station order starts at:
+FREEZE -> CAPTURE / COLLECT -> INVENTORY -> SORT
+
+FILE LIMIT RULE:
+This file is self-receipted to avoid extra receipt clutter.
+
+SELF-RECEIPT:
+Created as one proof-history-only file.
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX edited: NO
+AGENTS edited: NO
+Folders created: NO
+Files moved: NO
+Files deleted: NO
+Files renamed: NO
+Cleanup performed: NO
+Promotion performed: NO
+Final PASS claimed: NO

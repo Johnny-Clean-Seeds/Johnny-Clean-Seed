@@ -1,0 +1,31 @@
+ITEM CHAIN OF CUSTODY
+Recovery item number: 
+22
+Original name: 
+RUN_VERIFY_GOLD_INTAKE_PRIORITY_FULL.ps1.txt
+Original path if available: 
+C:\Users\13527\Desktop\lost
+Deleted date/time if available: 
+‎5/‎10/‎2026 ‏‎1:25 PM
+Size if available: 
+8.91 KB
+Type: 
+Text Document
+Recovery folder: 
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECYCLE_BIN_QUARANTINE_20260510\ITEM_0022__RUN_VERIFY_GOLD_INTAKE_PRIORITY_FULL.ps1.txt
+Recovery action taken: 
+Shell namespace CopyHere into quarantine item folder
+Recovered by: Codex local bridge via Windows Shell Recycle Bin metadata/copy operation
+Timestamp: 
+2026-05-10 14:25:21 -04:00
+Hash if file hash is available: 
+EC15FCB9A4882B478D3E4A4EB9133DB3C7634051358E2AAC6D8392DD5DF682A2
+Notes: Recovered as quarantine evidence only; not restored to original path; not installed into ACTIVE_GUIDES; not interpreted as active truth.
+Whether script-like: 
+YES
+Whether folder/container: 
+NO
+Whether recovery succeeded: 
+YES
+Failure reason if recovery failed: 
+NONE

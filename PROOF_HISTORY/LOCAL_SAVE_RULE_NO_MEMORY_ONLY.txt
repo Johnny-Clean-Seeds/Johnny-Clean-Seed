@@ -1,0 +1,23 @@
+﻿LOCAL SAVE RULE / NO MEMORY-ONLY TRUST
+
+Status:
+Local-file-saved support rule.
+
+Rule:
+"Saved in memory" does not mean saved in a user-owned local file.
+Memory, chat, and summaries are reference-only convenience, not durable package proof.
+They can compress, lose detail, distort wording, or fail to transfer later.
+
+Clean rule:
+Any clean rule, patch candidate, proof report, package update, live-test result, or trust-affecting saved item that matters long term must be saved to the user's PC or another user-controlled durable location when practical.
+
+Preferred method:
+Use installer/file-packet save method.
+Use stable filenames.
+Avoid browser duplicate names like (1), (2), or final_final copies.
+Separate ACTIVE_GUIDES, PROOF_HISTORY, and live-test/build folders.
+Print PASS/FAIL lines.
+Ask the user to return only PASS/FAIL or error lines.
+
+Reason:
+Local save prevents important clean milk from being trapped only in chat or memory where it may be lost or compressed.

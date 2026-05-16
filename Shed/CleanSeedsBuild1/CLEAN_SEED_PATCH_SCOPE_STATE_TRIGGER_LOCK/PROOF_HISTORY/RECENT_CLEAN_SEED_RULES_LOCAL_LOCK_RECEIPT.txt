@@ -1,0 +1,24 @@
+﻿RECENT CLEAN SEED RULES LOCAL LOCK RECEIPT
+
+Timestamp:
+2026-05-09 17:20:28 -04:00
+
+Package folder:
+C:\CleanSeedsBuild\CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK
+
+Proof/history folder:
+C:\CleanSeedsBuild\CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK\PROOF_HISTORY
+
+Saved file:
+C:\CleanSeedsBuild\CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK\PROOF_HISTORY\RECENT_CLEAN_SEED_RULES_LOCAL_LOCK.txt
+
+SHA256:
+00C4737AD7695375EFEBADFAC00652F35B958BC5AAFFE173045830A3B753E8F0
+
+State boundary:
+PROOF_HISTORY support file only.
+No ACTIVE_GUIDES files changed.
+No fourth active guide file created.
+
+Verdict:
+PASS if the lock file exists, receipt exists, and required markers are present.

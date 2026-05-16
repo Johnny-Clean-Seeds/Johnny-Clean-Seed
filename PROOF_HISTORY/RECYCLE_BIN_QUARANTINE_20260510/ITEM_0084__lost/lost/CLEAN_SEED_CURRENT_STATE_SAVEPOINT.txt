@@ -1,0 +1,57 @@
+CLEAN SEED CURRENT STATE SAVEPOINT
+Created: 2026-05-09 19:30 -04:00 (checkpoint derived from user sort report and current chat state)
+Scope: current Clean Seed / Recursive Core Architecture project state.
+Authority: savepoint/reference. This file preserves progress and routing; it does not replace the three active guide files.
+
+ACTIVE PROJECT CLAIM
+We are not drifting by doctrine. We are in a new chat and the local PC file layout became messy.
+The active problem is housekeeping: too many duplicate-looking files, backups, staged folders, and Desktop copies.
+
+CURRENT USER INTENT
+The user wants:
+- one durable source-of-truth folder
+- one current shortcut/link or drop folder, not many scattered items
+- current project progress saved outside chat
+- proof of which three guide files are right
+- no blind delete/move until the current active set is verified
+- household file hygiene: overwrite stable current items when safe, archive backups only in designated backup/archive locations, and avoid Desktop clutter
+
+BEST CURRENT ACTIVE GUIDE CANDIDATE FROM USER SORT REPORT
+Path:
+C:\CleanSeedsBuild\CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK\ACTIVE_GUIDES
+
+Required active guide hashes:
+README_START_HERE.txt = 313914B8942656A637260056387D99BB3D89DFDDD5886AB9422AEA92E42D3D89
+CLEAN_SEED_WRAP_GUIDE.txt = 1FA19A2BD7DEA94F1A0DFB226CB68FDC4E7423088741F8EFEE750E590EF66FD7
+CLEAN_SEED_ALIGNMENT_CHECK.txt = 943C7B21FF61EAC91908C4DAFDC282835B8D487EE0206EAA3D3F89CC09BAF610
+
+CURRENT MAIN PROJECT FILE ROLES
+README_START_HERE.txt:
+User-facing startup/on-ramp. It explains the seed model and starts the user.
+
+CLEAN_SEED_WRAP_GUIDE.txt:
+Assistant-facing operating guide. It controls the assistant walk-through and clean build behavior.
+
+CLEAN_SEED_ALIGNMENT_CHECK.txt:
+Guardrail/check file. It catches drift, dirty milk, skipped proof, unclear authority, bad package state, verdict misuse, and related failure modes.
+
+CURRENT PROJECT STATE
+- Active package should remain three-guide-file only.
+- Extra proof/test/report files are evidence, not active doctrine.
+- Desktop staging and Staging Master are staging lanes, not final active truth.
+- DROP_TO_CHAT is a handoff lane, not the source of truth.
+- Local memory/chat is not durable project proof.
+- User-owned local files must hold the durable current state.
+
+CLEAN DEFAULT ROUTE
+1. Verify the three active-guide hashes from the active candidate path.
+2. Copy only those three files into C:\CleanSeedsBuild\MASTER_CURRENT\ACTIVE_GUIDES.
+3. Save this packet beside them in C:\CleanSeedsBuild\MASTER_CURRENT\SAVEPOINT.
+4. Keep proof/history in C:\CleanSeedsBuild\MASTER_CURRENT\PROOF_HISTORY or archive.
+5. Keep only one Desktop drop folder if needed for future chats.
+6. Do not delete old folders until the master current folder verifies clean.
+
+HOUSEKEEPING VERDICT
+The mess is not project failure.
+It is a file-state failure risk.
+Fix it by proving the active set first, then archiving/removing duplicates only after verification.

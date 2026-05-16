@@ -1,0 +1,632 @@
+LOCALBOT_STUDIO_RULE_LIBRARY
+
+PURPOSE
+
+This file is the clean rule sheet for the LocalBot / Studio support stack.
+
+It exists to keep the operating rules easy to find without forcing the assistant to hunt through long handoffs during live work.
+
+This file should not expand the project.
+It should keep the editor, assistant, and operator in line.
+
+AUTHORITY
+
+Use this order when deciding what is true:
+
+1. Live machine state now
+2. User's direct request now
+3. LOCALBOT_MASTER_HANDOFF
+4. LOCALBOT_CHECKPOINT
+5. LOCALBOT_BASE_AND_CORE_BUILD_ROADMAP
+6. Studio support files
+7. Concept/background notes
+
+If this rule sheet conflicts with the master handoff, use the master handoff.
+
+CURRENT MASTER POINTER
+
+LOCALBOT_MASTER_HANDOFF owns the active Action Safety Gates and Screens and Lists Registry.
+This rule library supports those controls but does not mirror or override them.
+
+RULE KEY LEGEND
+
+Use these short keys when they make a rule table or audit cleaner.
+
+[AUTH] authority / what wins
+[FILE] file names, root lookup, save rules, and folder cleanup
+[RUN] live run flow
+[READ] output readback and result checking
+[JUDGE] pass, fail, partial, or issue classification
+[REPAIR] repair, reset, comparison waves, and truth-finding
+[STOP] hard stops, checkpoint decisions, and pause points
+[DOC] documentation, editing, and note placement
+[EXPAND] automation, Roblox, brain, planner, or architecture expansion
+[REMIND] checkpoint reminders and pending items
+[HINDER] rules that block safe progress
+
+Use keys only when they make the file easier to scan.
+Do not force keys into every line.
+
+ROUTE SYMBOL LEGEND
+
+Use these plain-text route symbols only when they make maps or audits easier to scan.
+
+[OPEN] = a route, task, lane, or issue is open
+[NEXT] = the next action is defined
+[LOOP] = repeat using evidence from prior attempts
+[PASS] = close this item as working
+[PARK] = intentionally paused for later, not forgotten
+[STOP] = hard stop / decision point
+[REMIND] = mention only at checkpoint or hard stop unless it affects the current task
+
+Do not decorate normal run instructions with symbols.
+Use symbols for route maps, audits, checkpoints, and status-style reports only.
+
+
+ROOT REFERENCE, LOOKUP, AND SAVE RULES
+
+[FILE] Root reference rule:
+Inside project files, refer to project files by root role/name, not by exact version filename.
+
+Use stable roots such as:
+- LOCALBOT_MASTER_HANDOFF
+- LOCALBOT_BASE_AND_CORE_BUILD_ROADMAP
+- LOCALBOT_STUDIO_RULE_LIBRARY
+- LOCALBOT_UNIFIED_HANDOFF
+- LOCALBOT_CHECKPOINT
+- LOCALBOT_STUDIO_FILE_INDEX
+- LOCALBOT_STUDIO_FILE_INTEGRITY
+- LOCALBOT_STUDIO_VALIDATOR_RULES
+- LOCALBOT_STUDIO_REFERENCE_PARKING
+- LOCALBOT_PHASES / LOCALBOT_STUDIO_PHASES
+
+[FILE] Root lookup rule:
+When checking whether a project file exists, belongs in the active stack, or needs cleanup, search by root name first.
+Treat the newest clean version of that root as the active file.
+Ignore old versions unless reviewing history.
+Treat duplicate download suffixes such as "(1)" or "(2)" as cleanup issues.
+
+[FILE] File save rule:
+Active project files on disk should use clean root filenames unless the user explicitly asks for another naming style.
+Do not auto-add version-number suffixes or similar labels to active saved files.
+Do not create duplicate-download suffixes such as "(1)" or "(2)".
+Internal file text should use root names only.
+Checkpoint files are snapshots and may preserve their snapshot identity in content, but they do not control active file naming.
+
+Reason:
+- root filenames match the user's active project folder
+- root roles stay stable
+- root references prevent stale internal links
+- root lookup prevents false "missing file" errors when filenames are cleaned
+- old versioned copies are history/reference only
+
+
+RULE CLOSURE AUDIT RULE
+
+[DOC] When reviewing rules, inspect every available instruction-bearing project file as background.
+Do not let background files override the authority order or distract from the current task.
+
+A rule is clean only if it answers:
+- trigger: when does this rule apply?
+- action: what should happen?
+- owner/location: where does the rule belong?
+- stop/next: when do we stop, continue, record, or ask the user?
+
+If a rule has no stop/next condition, close the loop or flag it.
+If two rules conflict, follow authority order and repair the lower-authority wording.
+If a named support file is not available for review, report it as unchecked instead of pretending it was verified.
+
+WHOLE-SYSTEM ROUTE CLOSURE RULE
+
+Every project route should have a clear path:
+
+[OPEN] trigger or reason
+[NEXT] immediate action
+[LOOP] repair/check/retry path if needed
+[PASS] close condition
+[STOP] hard-stop condition
+[PARK] parking condition if the route is not active
+[DOC] where the result belongs if it changes project truth
+
+If a rule, file, lane, or task has no close condition, fix the wording before expanding the system.
+If two rules fight each other and block safe progress, use the hinder rule and pause for the user.
+
+
+BOTTOM-TO-TOP ROUTE MAP
+
+Use this route order when checking the project as a whole:
+
+1. [FILE] File roots, versions, folder names, and duplicates are clean enough to trust.
+2. [RUN] One task runs through the coordinator and reads the exact output.
+3. [JUDGE] The result is judged as pass, shape fail, meaning drift, classification miss, system fail, or workflow mistake.
+4. [REPAIR] If needed, use comparison waves and build from the best evidence.
+5. [STOP] At a hard stop, run a total evaluation before continuing.
+6. [DOC] Record milestone decisions in the unified handoff and create new checkpoint snapshots only when a real save point is needed.
+7. [EXPAND] Only after the smaller route is stable, open automation, Studio, Roblox, memory, brain, planner, or architecture.
+
+Do not jump upward in this map before the lower route is stable enough.
+Do not let caution become drift; cautions must point to a route, stop, reminder, or parked item.
+
+
+HARD-STOP TOTAL EVALUATION LOOP
+
+At a checkpoint hard stop or major decision gate, use this closed loop:
+
+1. [OPEN] State why the stop was reached.
+2. [JUDGE] List what passed, what failed, and what pattern appeared.
+3. [REPAIR] Identify the best current baseline and why it is best.
+4. [FILE] Check whether anything should be organized, renamed, moved, replaced, or root-cleaned.
+5. [REMIND] Mention only active reminders that affect the next route or future hard-stop cleanup.
+6. [DOC] Record the decision in the unified handoff if it changes project truth.
+7. [NEXT] Choose the next route, wave, lane, or pause.
+8. [PASS] Close the hard stop only after the next route is clear.
+
+
+SUPPORT-FILE PARKING RULE
+
+Studio-named support files can remain in the stack for later Studio/Luau helper use.
+They are not an active blocker for core LocalBot Phase 4 text runs unless the user deliberately opens the Studio lane.
+
+When the Studio lane is opened, define:
+- goal
+- allowed actions
+- forbidden actions
+- acceptance test
+- stop point
+
+Until then, treat Studio support files as parked support material, not current run control.
+
+PROJECT BOUNDARY RULES
+
+LocalBot is:
+- a small local AI task loop
+- one Windows PC
+- Python + Ollama
+- one task at a time
+- file-based tasks and outputs
+- practical Phase 4 work unless the user deliberately opens a design/update pass
+
+LocalBot is not, by default:
+- a cloud system
+- a server fleet
+- a multi-bot system
+- a large autonomous agent
+- a Roblox-only project
+- a memory/brain/planner project before the task order is proven
+
+LIVE RUN RULES
+
+Normal run shape:
+1. open or create the pending task file
+2. paste the task text
+3. run coordinator.py
+4. check exact done/failed state
+5. read exact output file
+6. judge the result
+
+One command per copy box during live terminal work.
+
+Use the exact output file for the current task:
+type "C:\LocalBot\outputs\practical_###_output.txt"
+
+Do not use broad newest-output dumps during normal runs.
+Use broad listings only if the exact output file is missing.
+
+STATUS UPDATE RULE
+
+When the user says "status", "update", "status update", or "where are we", give a dashboard-style project status.
+
+Use:
+- roadmap position with "you are here"
+- overall progress percent as text
+- optional plain-text progress bar, not an image
+- component status with short percentages or state labels
+- current focus
+- bottom progress summary
+
+Plain-text progress bar example:
+Overall: 82% [########--]
+
+The bottom progress summary should include:
+- what was just accomplished
+- how it went
+- where the project is now
+- what comes next
+
+Do not edit files from a status request unless the user explicitly asks for file changes.
+Do not use image wheels or image progress graphics.
+
+DECISION REPORT RULE
+
+At a meaningful decision gate or roadmap milestone, add a short decision report to the unified handoff.
+The unified handoff keeps milestone and decision history.
+Checkpoint files stay snapshots and are not updated in place.
+
+Decision reports should include:
+- project position
+- progress just made
+- result pattern
+- decision reached
+- next planned move
+
+CHECKPOINT SNAPSHOT RULE
+
+Checkpoints are save points, not living files.
+Do not update an old checkpoint in place.
+When the user asks to save a checkpoint, create a new checkpoint version.
+
+CHECKPOINT HARD-STOP EVALUATION RULE
+
+[STOP] A checkpoint hard stop is a full evaluation point, not just a status update.
+
+At a checkpoint hard stop, review:
+- what passed
+- what failed
+- what pattern appeared
+- best current baseline
+- what should be organized, renamed, moved, or cleaned
+- prior issues and what solved them
+- remaining risks
+- next route
+
+Organization check:
+- check whether project files, folders, names, versions, or references look messy
+- if something looks off, pause and talk about it before continuing
+- do not silently rename or reorganize unless the user approves
+
+Reminder check:
+- at checkpoint hard stops, mention only active reminders that matter now
+- examples: a file the user promised to send, a pending replacement, a needed rename, or a decision that was left open
+- if there are no active reminders, say nothing about reminders
+- do not let reminders distract from the current task
+
+Evaluation closure:
+- if the hard stop changes project truth, record the decision report in LOCALBOT_UNIFIED_HANDOFF
+- if the project needs a save point, create a new LOCALBOT_CHECKPOINT snapshot
+- if no file change is needed, say so and continue only after the next route is clear
+
+Status update = quick dashboard.
+Checkpoint hard stop = total evaluation and cleanup decision point.
+
+
+BACK-TO-BACK BATCH RULE
+
+During a planned Phase 4 run batch:
+- a pass continues directly to the next planned run
+- a model-output fail, partial, or Failure 9 continues directly into the next planned repair wave when that next wave is already clear
+- do not stop after every pass or model-output miss to ask what to do
+- stop only at a real stop point
+
+Real stop points:
+- user says stop
+- checkpoint hard stop
+- yield
+- save point
+- lane switch
+- phase gate
+- capability expansion
+- documentation/update checkpoint
+- missing, unclear, or incomplete evidence
+- task file lands in tasks\failed
+- task is stuck in running
+- coordinator log shows a system problem
+- workflow evidence is invalid and cannot support the next wave
+- no defined next planned wave or repair wave exists
+
+Planned Wave Packet Rule:
+When a wave or planned batch is the active route, give the full runnable command packet for the current wave, not a single isolated task and not multiple waves at once unless the current wave itself is explicitly defined as a comparison wave.
+
+Run Wave Packet Screen display:
+- show the Run Wave Packet Screen heading
+- show Current Wave as the first visible wave field
+- after Current Wave, show only the copy/paste command boxes for that current wave
+- do not add per-command headings or labels
+- do not add CMD 1, CMD 2, Command 3, Step 4, Wave Step A, Create Task, Run, Done Check, Failed Check, Output Read, Log Tail, or similar command labels above boxes
+- do not add wave goals, expected output, verdict rules, evidence templates, explanations, or "send this back" forms inside the packet
+- do not put normal text between command boxes
+
+Wave copy-box hard boundary:
+Treat every fenced code block in a Run Wave Packet Screen as a copy/paste command box.
+Each wave command box must contain exactly one runnable Windows CMD operation.
+Do not bundle create, run, readback, and log checks into one box.
+
+Allowed command identities for debugging:
+- Current Wave field
+- task filenames inside commands
+- output filenames inside commands
+- log targets inside commands
+
+Detailed labels, expected-vs-actual comparisons, verdict reasoning, fixes, and historical debug notes belong in the verdict report after the user sends results, not in the command packet.
+
+Before sending a wave packet, check every fenced block:
+- if it is exactly one runnable CMD operation, keep it
+- if it is not runnable CMD, remove it from the packet
+- if it bundles more than one wave job, split it into separate one-command boxes
+- if there is text between command boxes after Current Wave, remove it unless the user explicitly asked for extra screen text
+
+Do not stop after one task when the request is to run a wave, batch, or planned chain.
+A verdict point is not a stop by itself when the next planned wave or repair wave is clear.
+Continue until a real stop point is reached.
+
+Run Wave Verdict Report Rule:
+After the user sends wave results, give a full detailed verdict report before the next wave or fix.
+
+The verdict report must include:
+- Current Wave
+- what was tested
+- expected output
+- actual output
+- done, failed, or running state
+- coordinator/log evidence
+- verdict: PASS, partial, FAIL, workflow mistake, or system issue
+- why that verdict was chosen
+- suggested fix if needed
+- why that fix should work
+- next wave direction
+
+
+Wave Judgment Log Rule:
+Every wave verdict report must include a clearly headed section named:
+Wave Judgment Log
+
+The Wave Judgment Log must record:
+- Current Wave
+- task file or files
+- output file or files
+- expected result
+- actual result
+- done, failed, or running state
+- coordinator/log evidence
+- verdict
+- judgment reason
+- fix chosen, if any
+- why that fix should work
+- next wave direction
+- stop reason, if stopped
+
+Do not treat a wave verdict as complete until this log section is present.
+The log is recorded in the chat verdict report every time.
+It is written into project files only when the user asks to save or update the stack.
+
+LANE RULES
+
+Name the active lane before a batch starts.
+
+Core practical lanes:
+- rewrite
+- cleanup
+- classification
+- summary
+
+Expansion/design lanes:
+- Roblox
+- automation
+- architecture
+- memory / brain / planner
+
+Stay in the active lane during the batch.
+Do not switch lanes mid-batch unless a stop point is hit.
+
+RESULT JUDGMENT RULES
+
+Use the smallest useful result label.
+
+Pass:
+- output satisfies the task rules well enough to close the run
+
+Failure 9:
+- loop worked
+- output stayed source-tied enough
+- main problem is shape
+- examples: numbering, bullets, wrapper text, blank lines, line collapse, wrong line count
+
+Cleanup miss:
+- shape mostly held
+- meaning/order mostly held
+- cleanup rule leaked
+
+Classification miss:
+- output shape held
+- wrong allowed label was selected
+
+Meaning drift:
+- output added, changed, or generalized beyond the source
+
+System fail:
+- coordinator, worker, timeout, file movement, or recovery path failed
+
+Workflow mistake:
+- command was pasted wrong
+- task text went into Command Prompt instead of Notepad
+- commands were mashed together
+- wrong output was read
+
+FAILURE RESPONSE RULES
+
+Failure 9:
+- repair prompt only
+- do not change code, config, or model
+
+Cleanup miss:
+- make the smallest cleanup repair
+- do not keep piling on rules if the branch worsens
+
+Classification miss:
+- strengthen exact-label or allowed-label rule
+- do not treat it as a system failure
+
+Meaning drift:
+- stop and review the branch
+- do not keep running as if it were only a shape problem
+
+System fail:
+- diagnose the system
+- do not treat it as a prompt-only issue
+
+Workflow mistake:
+- correct the workflow
+- do not treat it as LocalBot breaking
+
+REPAIR / RESET / COMPARISON-WAVE RULES
+
+First bad result:
+- classify the failure
+- make one targeted repair if appropriate
+
+Second bad repair:
+- stop tightening blindly
+- compare the run chain
+- identify the strongest candidate so far
+- build from that candidate, not from the latest result by momentum
+
+If the reset-style run still fails:
+- do not automatically switch lanes
+- compare all available attempts
+- choose the best data point
+- ask why it was better
+- start the next comparison wave from that best data point
+
+Comparison-wave pattern:
+- Wave 1: run 1A and 1B, then compare
+- Wave 2: build 2A and 2B from the best prior evidence
+- Wave 3: continue only after comparing all prior data points
+- keep each new variation small and deliberate
+
+The run process is also note capture:
+- preserve what each run proved
+- preserve what each run broke
+- preserve why the next run exists
+
+Pause only when:
+- the user says stop
+- no best candidate can be chosen
+- the branch becomes too tangled to reason about
+- the rules hinder progress instead of clarifying it
+- a real system failure appears
+
+Do not carry forward a worse revision.
+Do not abandon a useful branch before comparing the evidence.
+
+CLOSED-LOOP ROADMAP RULE
+
+Use this cycle for Phase 4 work:
+
+choose lane
+run batch
+judge result
+repair/reset or comparison-wave if needed
+stop at gate
+record decision
+choose next lane or pause
+show a short status summary at milestone gates
+
+The run process is also issue-note capture.
+Each meaningful run should preserve:
+- task label
+- lane
+- result label
+- main issue if any
+- decision made
+- best candidate and why it was best when a comparison wave is active
+
+Do not turn notes into a redesign unless a design gate is deliberately opened.
+
+CAPABILITY EXPANSION RULES
+
+Do not build larger capability until the smaller control layer under it is stable.
+
+Required order:
+1. stable manual loop
+2. stable task lanes
+3. planned run batches
+4. clear stop points
+5. checkpoint documentation
+6. helper automation only if it reduces manual mistakes
+7. memory / brain / planner only after order, allowed actions, and acceptance tests are defined
+
+No brain before order.
+No planner before task flow.
+No memory before deciding what memory is allowed to keep.
+No automation that hides the working loop before the manual loop is stable.
+
+EDITING RULES
+
+Editing is allowed only to make the project clearer, more accurate, and easier to operate.
+
+Edits should:
+- preserve the working system
+- add only needed rules or corrections
+- remove stale, duplicate, or misleading text when it improves accuracy
+- keep rules in their natural section
+- keep wording short and operational
+- keep external filenames tidy, but use root references inside file content
+- leave code/system design unchanged unless the user explicitly opens that work
+
+Edits should not:
+- redesign the project during a documentation cleanup
+- add large theory sections to control files
+- create new rules that fight existing working rules
+- move active control truth into concept notes
+- duplicate the same rule in many places
+- make the editor keep editing just because editing started
+- turn cleanup into scope expansion
+
+Hinder rule:
+If a rule starts blocking safe progress or making the task worse, flag it.
+Count hinders only inside the current task.
+If the same task hits two rule hinders, pause and ask the user whether to keep, relax, rewrite, or remove the blocking rule.
+Do not use this rule to avoid normal work or distract from the current task.
+
+Editing stop rule:
+After a needed cleanup is complete, stop.
+Review for clarity, conflict, and stale references.
+Then wait for the user's next direction.
+
+FILE ROLE RULES
+
+Master handoff:
+- active control truth and live operating rules
+
+Checkpoint:
+- snapshot save point for current state and latest practical results
+- never update old checkpoint files in place
+
+Roadmap:
+- build order, operating cycle, and expansion order
+
+Rule library:
+- compact rule sheet for quick reference
+
+Unified handoff:
+- history and context
+
+Concept notes:
+- reusable technical background only
+
+Whole-project summary:
+- descriptive background only
+
+Studio support files:
+- Studio-specific reference, validation, parking, and file-integrity support
+
+Do not let support files override the master handoff.
+Do not let concept notes control live decisions.
+
+CURRENT PRACTICAL READ
+
+Stable core:
+- rewrite
+- classification
+
+Useful but currently not lockable from the latest strict batch:
+- strict cleanup
+
+Weak/separate:
+- summary on the earlier troubled source family
+
+Current direction:
+- protect the working loop
+- run planned Phase 4 batches
+- use exact output reads
+- record meaningful issues
+- expand only after order and gates are clear

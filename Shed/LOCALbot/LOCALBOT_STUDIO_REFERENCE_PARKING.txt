@@ -1,0 +1,109 @@
+LOCALBOT_STUDIO_REFERENCE_PARKING_V1.5
+
+REFERENCE PARKING FILE
+
+Date:
+2026-05-03
+
+Purpose:
+Preserve old overbuilt/future ideas without letting them control V1.
+
+This is not a trash file.
+This is where useful but non-active ideas live.
+
+PARKED IDEAS
+
+1. Roblox work-order builder pipeline
+- structured work order
+- schema
+- deterministic manifest
+- manifest validator
+- builder generator
+- generated Luau builder script
+- local report file
+
+Current V1 status:
+Reference only.
+Not active.
+
+2. Manifest/compiler approach
+- useful later if simple helper is not enough
+- too much for current V1
+
+Current V1 status:
+Reference only.
+Do not use as default path.
+
+3. Autonomous Studio control
+- direct Studio control
+- plugin bridge
+- auto-apply
+- auto-playtest
+- Studio-to-LocalBot status bridge
+
+Current V1 status:
+Later-only.
+Not active.
+
+4. Workspace agent behavior
+- bot acts like an agent inside Workspace
+- bot decides what to inspect/change by itself
+- bot controls Studio actions without the user
+
+Current V1 status:
+Not active.
+Do not use for Studio V1.
+
+5. Multi-agent or large AI-helper systems
+- multiple AI builders
+- helper AI acting as second builder
+- validator becoming a project manager
+
+Current V1 status:
+Not active.
+
+6. Deep tree/editor-bot model
+- may be useful for a later in-game editor bot
+- can represent tool states, allowed/blocked paths, and gated areas
+
+Current V1 status:
+Future design inspiration only.
+Not active.
+
+HOW TO USE PARKED IDEAS
+
+Parked ideas may:
+- explain why a choice was made
+- provide future options
+- help recover old context
+- inspire later design after V1 proves useful
+
+Parked ideas must not:
+- override active Studio V1 rules
+- force manifest/generator work
+- restart large architecture
+- turn simple tasks into systems
+- contradict the user's current direction
+
+PROMOTION RULE
+
+A parked idea can become active only if:
+- the user explicitly asks to reopen it
+- the active master/rule library is updated
+- the checkpoint records why it was promoted
+- the change stays clear and intentional
+
+REFERENCE CHECK SYMBOL
+
+※ = reference/archive hub
+☷ = reference check gate
+
+Meaning:
+Reference may inform the work, but it does not control active V1.
+
+
+Tree/path model for later editor bot:
+- may be useful for a future in-game Studio/editor bot
+- can represent tool states, allowed paths, dead/blocked paths, special gated areas, and multi-key access
+- not active in LocalBot Studio V1
+- current V1 uses the octagon routing model instead

@@ -1,0 +1,43 @@
+RECEIPT — AGENTS WORKER ROLE FINAL AUTHORITY WORDING FIX 20260511
+
+Created:
+2026-05-11 00:11:04 -04:00
+
+Protected active source:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+
+Target file:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\AGENTS.md
+
+Backup file:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BACKUP_AGENTS_BEFORE_WORKER_ROLE_FINAL_AUTHORITY_WORDING_FIX_20260511_001104.md
+
+Change status:
+CHANGED
+
+Before SHA256:
+1F5565DDD2A55C035FF0A010480C51FE5E6E74BB2E27985E2B1BBB1004F17C49
+
+After SHA256:
+C8EAB85B490B91B54B0E4FAF3BF81B825B63C4A6401A5039A587F0B0034F77A9
+
+Old wording removed:
+True
+
+New wording present:
+True
+
+Boundary:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+Folders created: NO
+Files moved: NO
+Files deleted: NO
+Scripts run: NO
+Shortcuts executed: NO
+Zip files extracted: NO
+Cleanup performed: NO
+Promotion performed: NO
+
+Status:
+AGENTS.md wording refined so Codex/worker may give evidence-based review, advice, recommendations, and provisional judgments, while remaining not final authority.

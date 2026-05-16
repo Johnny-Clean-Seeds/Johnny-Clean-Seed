@@ -1,0 +1,71 @@
+BALANCED ASSEMBLY-LINE INTERLOCK PLAN — CONCEPT SEED
+
+Status:
+Proof-history-only concept seed.
+Not active guide doctrine.
+Not current truth.
+Not folder-creation approval.
+Not cleanup authority.
+Not deletion approval.
+Not promotion approval.
+Not technician final authority.
+
+Purpose:
+Capture the current direction before fresh-file assessment and technician handoff.
+
+Core correction:
+The goal is balance, not juggling.
+
+"Juggling" sounds like panic-handling too many items in the air.
+"Balance" means each item has the correct lane, weight, authority, evidence, and next gate.
+
+Target:
+Create a rough plan for how Clean Seed systems interlock and work together in a flowing assembly-line state.
+
+Why this matters:
+The work can feel like spinning wheels when rules, files, evidence, worker handoffs, proof-history saves, active truth, parked ideas, blocked items, and next actions are all being handled manually.
+The point is not to stay in that condition.
+The point is to build a balanced flow so the system eventually treats the work as regular work.
+
+Balanced flow:
+- intake
+- freeze
+- sort
+- judge
+- place
+- save
+- seal
+- hand off
+- review
+- promote / park / block
+- continue
+
+Key balance fronts:
+- system balance
+- load balance
+- lane balance
+- authority balance
+- evidence balance
+- worker balance
+- flow balance
+
+Important distinction:
+The Word-Key City Map is not the lead move yet.
+The assembly-line interlock plan should lead.
+City names can later help label parts of the flow, but names must not create authority by themselves.
+
+Planning order:
+1. Save this concept to proof history.
+2. Gather fresh current files.
+3. Make a rough Balanced Assembly-Line Interlock Plan from current evidence.
+4. Let the technician/Codex review and improve the rough plan inside strict boundaries.
+5. Review technician output before any promotion, active-guide edit, current-truth update, folder creation, cleanup, deletion, or final PASS.
+
+Technician role:
+The technician may provide evidence-based review, advice, recommendations, and provisional judgments.
+The technician may improve wording, grouping, placement, structure, and pattern-fit inside the approved scope.
+The technician is not final authority.
+The technician cannot promote material into active truth or override the user, ACTIVE_GUIDES, or CURRENT_TRUTH_INDEX.
+
+Current next state:
+Fresh-file assessment is required before a trusted rough plan.

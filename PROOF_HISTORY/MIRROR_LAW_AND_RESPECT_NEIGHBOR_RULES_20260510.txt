@@ -1,0 +1,169 @@
+MIRROR LAW + RESPECT NEIGHBOR RULES
+
+Status:
+Local durable save.
+Not installed into ACTIVE_GUIDES yet.
+Created after the current active guide update to hold capstone structure before more rule restructuring.
+
+Purpose:
+Define how the system handles rules, ideas, concepts, guide updates, access, and connected effects without guessing or damaging neighboring rules.
+
+MASTER KEY GUIDESTONE:
+No Key / No Access
+
+Rule:
+Wrong key = no access.
+
+Meaning:
+A thing being visible does not mean it is accessible.
+A path existing does not mean it is approved.
+A file being near the work does not mean it belongs to the active lane.
+A backup existing does not mean the assistant or Codex can touch it.
+A recovered item existing does not mean it is current truth.
+
+Key means:
+explicit permission,
+exact path,
+exact scope,
+correct role,
+correct action,
+and evidence need.
+
+No key means:
+no inspect,
+no edit,
+no move,
+no delete,
+no restore,
+no install,
+no run,
+no bridge,
+no promotion,
+no touch.
+
+Access classes:
+Working access: inside the active task scope and approved.
+Protected access: outside normal scope and requires explicit user key.
+Cold / no-key access: not available unless the user creates a new explicit access act.
+Blocked / no-access: visible or known, but not allowed.
+
+MIRROR LAW:
+Every level mirrors the core law.
+
+Rule:
+Every part of the system must repeat the same clean control skeleton at its own size.
+
+Skeleton:
+Name.
+Lane.
+Boundary.
+Authority / key.
+Evidence.
+Verdict.
+Failure path.
+Recovery or parking.
+Fixing gate.
+Delete gate.
+Bridge or promotion gate.
+Closure.
+
+Meaning:
+A child route cannot be looser than the parent law.
+A file must mirror the doctrine’s role, boundary, evidence, and closure logic.
+A bridge must mirror authority, evidence, verification, and failure capture.
+A cleanup pile must mirror sorting, judging, fixing, and deleting separation.
+A guide update must mirror source, target, permission, backup, proof, and closure.
+A deletion must mirror exact path, authority, redundancy proof, receipt, and post-delete verification.
+
+RESPECT NEIGHBOR RULES / PARTNER CHAIN REVIEW
+
+Rule:
+Do not treat a rule, idea, concept, file, or guide section as isolated when it clearly affects neighbors.
+
+Start from a defined anchor:
+Name the rule, idea, concept, file, or section being inspected.
+
+Then identify:
+Parent rule.
+Child rules.
+Immediate rule before it.
+Immediate rule after it.
+Partner rules it affects.
+Files it affects.
+Checks it affects.
+Verdicts it affects.
+Receipts or proof it affects.
+Commands or routes it affects.
+
+Neighbor-respect principle:
+Do unto other rules as you would have done unto this rule.
+Do not fix one rule by damaging its neighbor.
+Do not strengthen one rule by stealing another rule’s authority.
+Do not solve one gap by creating overlap.
+Do not close one issue while leaving the next linked issue inconsistent.
+Do not let a child rule contradict its parent.
+Do not let a parent rule crush a useful child rule.
+Do not let a sibling rule silently inherit authority it was not given.
+
+Partner chain process:
+1. Anchor
+Name the active item.
+
+2. Role
+Define what the item does and does not do.
+
+3. Key
+Define what permission, scope, path, and evidence allow action.
+
+4. Neighbor map
+List parent, children, left/right neighbors, and partner rules.
+
+5. Effect check
+For each neighbor, mark:
+changed,
+unchanged,
+affected but not changed,
+blocked,
+parked,
+unknown,
+or needs human decision.
+
+6. Respect check
+Ask whether the proposed change damages, duplicates, weakens, overrules, or silently expands any neighbor.
+
+7. Pile unknowns
+If a link is unclear, put it in the Misc / Unplaced pile.
+Do not guess it into active structure.
+
+8. Fix only proven links
+Change only what is proven connected and approved.
+
+9. Verify neighbors
+After fixing, verify the anchor and affected neighbors.
+
+10. Close
+State what changed, what stayed protected, what was parked, what remains unknown, and the next clean route.
+
+POLICY CANDIDATE:
+Respect Neighbors Policy
+
+Short form:
+Start at the anchor.
+Respect the parent.
+Respect the children.
+Respect the left and right neighbors.
+Respect partner rules.
+Unknowns go to the pile.
+No guessing.
+No silent authority transfer.
+No fixing one rule by breaking another.
+
+Connection to Sorting Rules:
+Sorting Rules make piles before judgment.
+Respect Neighbor Rules inspect connected rules before fixing.
+Mirror Law ensures every pile, rule, route, file, bridge, and closure repeats the same clean skeleton.
+
+Connection to current active-guide state:
+This file is saved as proof-history guidance only.
+It is not installed into ACTIVE_GUIDES yet.
+A later guide update must first inspect the current updated active guides and decide where this belongs.

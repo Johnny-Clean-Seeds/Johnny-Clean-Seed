@@ -1,0 +1,30 @@
+EVIDENCE ARCHIVE MANIFEST
+
+Package:
+Clean Seed Model Build Guide
+
+Active patch ID:
+CLEAN_SEED_PATCH_2026_05_08_LOGIC_SERIOUSNESS_CALIBRATION
+
+Timestamp source:
+system UTC clock from container
+
+Timestamp:
+2026-05-08T20:49:58.969769+00:00
+
+Active guide files:
+- README_START_HERE.txt — sha256 30b0f2154708a7d2eb042cbd58726edfb62324f082d4ca10f66899d6ab2b1aa5
+- CLEAN_SEED_WRAP_GUIDE.txt — sha256 2996d8c59f2e41c28299ccbf5b9224f2ce50d5743bd9bd73a722fe71b3d208d7
+- CLEAN_SEED_ALIGNMENT_CHECK.txt — sha256 162264163ef1a25d5769be47284c5d0b9709039be597ed228b96031d3a5894e8
+
+Optional proof/history:
+- PATCH_RECEIPT_LOGIC_SERIOUSNESS_CALIBRATION.txt
+
+Active startup pack count:
+Three guide files only.
+
+Compression boundary:
+This manifest is proof/history. Compressed chat memory is reference-only until checked against saved files/hashes.
+
+Verdict:
+PASS for targeted manifest.

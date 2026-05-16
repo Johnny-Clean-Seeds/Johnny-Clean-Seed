@@ -1,0 +1,93 @@
+RESIDUE + MANUAL LANE INVENTORY 20260510
+
+1. Purpose
+After targeted Recycle Bin clear, verify remaining related Recycle Bin metadata and inventory the manual partial output lane by metadata only.
+
+2. Quarantine root status
+Quarantine root exists: YES
+Path: C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECYCLE_BIN_QUARANTINE_20260510
+
+3. Targeted clear receipt status
+Targeted clear receipt exists: YES
+Path: C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_RECYCLE_BIN_TARGETED_CLEAR_20260510.txt
+
+4. Remaining related Recycle Bin items found
+Recycle Bin visible after targeted clear: YES
+Remaining related Recycle Bin items found: 0
+NONE FOUND
+
+5. Whether unrelated Recycle Bin items were inspected beyond metadata filter
+NO. Recycle Bin shell metadata was enumerated for filtering by visible item name and original path only; no contents were inspected and no items were removed.
+
+6. Manual partial output lane status
+Manual partial output folder exists: YES
+Path: C:\Users\13527\Desktop\where_da_fuk_arewe_tribe
+
+7. Manual lane top-level file count
+23
+
+8. Manual lane top-level folder count
+2
+
+9. Manual lane recursive file count
+32
+
+10. Manual lane recursive folder count
+3
+
+11. Nested lost folder exists: YES
+
+12. Manual lane item names by metadata only
+file | CLEAN_MILK_NOT_BLOAT_FOLDER_PROOF.txt | size=40661
+file | CLEAN_SEED_ALIGNMENT_CHECK (1).txt | size=222997
+file | CLEAN_SEED_ALIGNMENT_CHECK.txt | size=218482
+file | CLEAN_SEED_VISUAL_MAP.html | size=8145
+file | CLEAN_SEED_WRAP_GUIDE (1).txt | size=192594
+file | CLEAN_SEED_WRAP_GUIDE.txt | size=48447
+folder | CleanSeedBuilds
+file | CleanSeedBuilds\CLEAN_SEED_ALIGNMENT_CHECK.txt | size=65519
+file | CleanSeedBuilds\CLEAN_SEED_WRAP_GUIDE.txt | size=49379
+file | CleanSeedBuilds\README_START_HERE.txt | size=9145
+folder | CleanSeedBuilds\Starter_Guides
+file | CLOSED_LOOP_VERIFICATION_BOARD_SCOPE_STATE_TRIGGER_LOCK (1).txt | size=9891
+file | DOCTRINE_CLOSURE_AUDIT_CLEAN_JUDGMENT.txt | size=12122
+file | EVIDENCE_ARCHIVE_MANIFEST (1).txt | size=1462
+file | EVIDENCE_ARCHIVE_MANIFEST (2).txt | size=1462
+file | EVIDENCE_ARCHIVE_MANIFEST.txt | size=1226
+folder | lost
+file | lost\CLEAN_SEED_CURRENT_STATE_SAVEPOINT.txt | size=2976
+file | lost\CLEAN_SEED_FILE_HOUSEKEEPING_MAP.txt | size=2154
+file | lost\CLEAN_SEED_PROJECT_RULES_INDEX.txt | size=10212
+file | lost\CleanSeed_MAIN_PROJECT_SAVE_PACKET_MANIFEST_2026_05_09.txt | size=801
+file | lost\COPY_EXACT_ACTIVE_GUIDES_COMMAND.txt | size=2918
+file | lost\README_SAVE_THIS_FIRST.txt | size=2710
+file | PATCH_RECEIPT_LOCK_SAVE_SEND_REST_STOP_WORD_RULES.txt | size=2023
+file | PATCH_RECEIPT_LOGIC_SERIOUSNESS_CALIBRATION.txt | size=3243
+file | PATCH_RECEIPT_POINT_CHECK_DECISION_LOOP.txt | size=4340
+file | PATCH_RECEIPT_POINT_CHECK_REPAIR_AND_METHOD_EVIDENCE.txt | size=4943
+file | PATCH_RECEIPT_PROOF_LEDGER_LOCK.txt | size=3107
+file | PATCH_RECEIPT_RULE_CHECKER_PREVENTION_LOOP.txt | size=1160
+file | PATCH_RECEIPT_RULE_ID_PARTNER_SYNC.txt | size=2289
+file | PATCH_RECEIPT_SCOPE_STATE_TRIGGER_LOCK (1).txt | size=4273
+file | PROMOTE_GOLD_INTAKE_PRIORITY_BOULDER_FIRST_BANK_LEAK.ps1.txt | size=7823
+file | README_START_HERE (1).txt | size=69204
+file | README_START_HERE.txt | size=67183
+file | RUN_VERIFY_GOLD_INTAKE_PRIORITY_FULL.ps1.txt | size=9130
+
+13. Difference between Codex quarantine lane and manual lane
+Codex quarantine lane is the protected custody-proof recovery set under PROOF_HISTORY with numbered ITEM folders and custody notes. Manual partial output lane is a separate Desktop lane and is not treated as active truth or as a replacement for the quarantine ledger.
+
+14. Explicit no-promotion statement
+No Recycle Bin residue, quarantine item, or manual lane item is promoted as current truth by this report. ACTIVE_GUIDES and CURRENT_TRUTH_INDEX.txt are unchanged.
+
+15. Explicit no-change statement
+Recovered/manual file contents inspected: NO
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX edited: NO
+Files deleted: NO
+Files moved: NO, except creating inventory report
+Files renamed: NO
+Scripts run: NO
+Shortcuts executed: NO
+Zip files extracted: NO
+Recycle Bin emptied: NO

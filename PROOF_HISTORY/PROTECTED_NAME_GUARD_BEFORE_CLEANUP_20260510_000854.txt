@@ -1,0 +1,23 @@
+﻿PROTECTED NAME / NAME COLLISION STOP
+Timestamp: 2026-05-10 00:08:54
+Root cleanup scope: C:\Users\13527\Desktop\Clean Milk not-BLOAT
+
+Rule:
+Do not remove, move, rename, overwrite, or cleanup any file, folder, shortcut, or item merely because it appears disposable.
+If the name matches, resembles, or could collide with a protected project item, visible Desktop item, bot folder, shortcut, Roblox/Studio item, PowerShell/Codex/local bridge item, backup, receipt, or user-pointed item, STOP first.
+
+Required before action:
+- list exact path
+- verify role
+- verify capture/backup status
+- ask user before action
+
+Current boundary:
+Cleanup scope is only inside C:\Users\13527\Desktop\Clean Milk not-BLOAT.
+The rest of the Desktop is outside scope.
+
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Cleanup executed: NO
+NEXT_STATE=return to delete decision point with protected-name guard active

@@ -1,0 +1,677 @@
+LOCALBOT_PROJECT_WHOLE_SUMMARY_V1.7
+
+ROLE / AUTHORITY NOTICE
+
+This file is an archived whole-project summary from the pre-Roblox Work Order Builder phase.
+
+Use this file for:
+- historical context
+- lessons learned from the original LocalBot build
+- examples of prompt/output failures and repairs
+- understanding why the small local loop should be protected
+
+Do not use this file for:
+- current project direction
+- active task-lane selection
+- current Roblox Studio scope
+- live run instructions
+- model/config decisions
+- overriding newer handoff/checkpoint files
+
+Current active truth:
+Use the current master handoff and current checkpoint/unified files for active project direction.
+This archived summary is historical background only and should not be updated just to track handoff version numbers.
+
+Important merge correction:
+Any wording below that frames LocalBot mainly as a rewrite / cleanup / classification / summary text-task project is historical background only.
+The active direction is now:
+LocalBot remains a tiny local Python + Ollama task loop, but Phase 4 is now focused on proving the Roblox Work Order Builder lane.
+
+The current MVP target is:
+structured Roblox work order -> generated Roblox Studio Luau builder script -> user runs script in Roblox Studio -> generated objects/scripts are created and verified.
+
+Nothing in this archived summary should be read as blocking Roblox Studio support.
+
+
+Reference issue-phase treatment:
+This summary can participate in the issue-phase process only as historical/progress-trail reference.
+Use it to preserve how one problem led to another, what lessons were learned, and what patterns repeated.
+Do not use it for live commands, active run rules, or current control decisions.
+If a summary update is needed after an issue phase, record only the durable lesson and keep the active next step in the master/checkpoint files.
+
+--- ORIGINAL ARCHIVED SUMMARY BELOW ---
+
+LOCALBOT_PROJECT_WHOLE_SUMMARY_EARLIER_VERSION
+
+PURPOSE
+
+This file is a whole-project summary for LocalBot.
+It is meant to capture:
+- what the project became
+- what went wrong across the build and practical phases
+- what was fixed
+- what remained weak
+- what changed between the earlier project state and the current one
+- the most important practical lessons that should remain visible when later files are updated
+
+This file is descriptive and synthetic.
+Use this file as descriptive background only.
+Treat it as notes/background, not as a control file.
+Do not use it to override the master handoff, live machine state, or the user’s direct request.
+It does not override the authority order in the handoff stack.
+
+PROJECT IDENTITY
+
+Project name:
+LocalBot
+
+Project type:
+A tiny local AI task loop on one Windows PC using Python and Ollama.
+
+Active path:
+C:\LocalBot\
+
+Current real phase:
+Phase 4 active
+
+WHOLE-PROJECT ONE-LINE READ
+
+LocalBot moved from a "can this loop survive and recover at all?" project into a "which short prompt lanes are stable enough to trust?" project.
+
+That is the biggest project-wide change.
+
+TOP-LEVEL READ
+
+At the start, the main risks were:
+- can the coordinator claim and finish a task correctly
+- can the worker be timed out cleanly
+- can the system recover from stale running tasks
+- can the basic local machine fit hold
+
+Now, the main risks are different:
+- occasional prompt drift
+- exact output-shape misses
+- cleanup-rule collisions
+- classification-choice slips
+- operator copy/paste mistakes during live runs
+- the still-weaker summary branch on the earlier troubled source family
+
+The important meaning of that shift:
+the project is no longer mainly threatened by loop survival.
+It is mainly challenged by task fit and output control.
+
+PHASE-BY-PHASE SUMMARY
+
+PHASE 1
+Goal:
+- one tiny working loop
+- one pending task gets claimed
+- worker runs once
+- task ends in done or failed
+- clean exit
+
+Project read:
+- this established the basic loop shape
+- the project stopped being only a concept and became a runnable local system
+
+Status:
+- complete
+
+PHASE 2
+Goal:
+- keep what works
+- harden it
+- keep timeout behavior
+- keep logging
+- keep clean failure path
+
+Project read:
+- the key threat here was hanging forever or failing unclearly
+- simple timeout-based protection was the right project-fit solution
+- this matched the machine and kept the build small
+
+Status:
+- complete
+
+PHASE 3
+Goal:
+- recovery
+- if a task was left in running, move it back to pending on startup
+
+Project read:
+- this solved the "stale running state" class of failure
+- it made LocalBot safer to rerun after interruption or messy exits
+
+Status:
+- complete
+
+PHASE 4
+Goal:
+- practical real short tasks
+- stable use on source-tied text work
+- no architecture drift
+- keep the machine-fit build small and stable
+
+Project read:
+- this is where the main live work moved from system design to prompt and output behavior
+- the system itself was already mostly proved
+- what remained was deciding which practical task families actually held reliably
+
+Status:
+- active
+
+THE PROJECT AS A SYSTEM
+
+What LocalBot is now:
+- a small local single-task loop
+- one Windows PC
+- Python + Ollama
+- one task at a time
+- one worker call
+- file-based task folders
+- clean done/failed movement
+- practical enough for repeated short source-tied tasks
+
+What LocalBot is not:
+- not a cloud service
+- not a server fleet
+- not a multi-bot system
+- not a large orchestration layer
+- not a general autonomous agent system
+
+That boundary matters.
+A lot of later project strength came from not drifting away from the simple design that already fit the real machine.
+
+MACHINE-FIT READ
+
+The target machine is modest but workable:
+- Dell OptiPlex 5050
+- Intel i5-6500
+- 16 GB RAM
+- Windows 10
+- Ollama installed
+- Python installed
+
+The current practical fit remained CPU-first.
+The machine was good enough for this project shape when the scope stayed small, the model stayed modest, and the tasks stayed short.
+
+That machine-fit decision was important because it prevented fake optimization churn and kept attention on real practical bottlenecks.
+
+THE MOST IMPORTANT SUCCESSFUL DECISIONS
+
+1. KEEPING THE PROJECT SMALL
+
+This was one of the most important decisions in the whole project.
+LocalBot got stronger when it stayed:
+- local
+- single-PC
+- simple
+- file-driven
+- one task at a time
+
+Many possible project drifts were avoided.
+That saved a lot of time and prevented architectural overgrowth.
+
+2. SIMPLE TIMEOUT PROTECTION
+
+Using a simple worker timeout around the subprocess was the right fit.
+It did not try to become a large process-control system.
+It solved the real risk that mattered on this project.
+
+3. RECOVERY ON STARTUP
+
+Moving stale running tasks back to pending solved a real operational weakness cleanly.
+This increased confidence in repeated live use.
+
+4. TREATING PROMPT-SIDE MISSES AS PROMPT-SIDE MISSES
+
+This became one of the biggest practical lessons.
+Not every bad output meant:
+- bad code
+- bad config
+- bad model choice
+- broken loop
+
+Many misses were just output-shape or task-fit misses.
+Treating those correctly prevented unnecessary code churn.
+
+5. PROTECTING WHAT ALREADY WORKED
+
+Later project progress improved when stronger checkpoints were protected instead of casually replaced by "newer" but weaker revisions.
+
+WHAT WENT WRONG ACROSS THE PROJECT
+
+The project had three main problem classes.
+
+1. SYSTEM-SIDE PROBLEMS
+These were the serious foundational risks:
+- hangs
+- unclear failure path
+- stale running tasks
+- uncertainty about whether the loop itself was dependable
+
+These mattered early.
+They mattered less later because they were mostly solved.
+
+2. PROMPT-SIDE PROBLEMS
+These became the main live issue in Phase 4:
+- numbering leaks
+- bullets or wrapper text
+- blank lines
+- line collapse into one paragraph
+- summary drift beyond source meaning
+- cleanup rules improving one variable while breaking another
+- occasional wrong exact-label selection in classification
+
+This became the real center of Phase 4.
+
+3. OPERATOR-FLOW PROBLEMS
+These were not LocalBot itself breaking.
+They were live workflow problems such as:
+- task text pasted into Command Prompt instead of Notepad
+- two commands mashed together in one pasted line
+- reading the wrong output file or too many outputs at once
+- duplicated command fragments inside a single console line
+
+These caused confusion, but they were not core system failures.
+
+THE BIGGEST PROJECT-WIDE LESSON
+
+Earlier in the project, the most important question was:
+"Will the loop survive?"
+
+Later in the project, the most important question became:
+"Will this exact task family stay inside the shape and meaning rules we want?"
+
+That change is the clearest sign of project progress.
+
+PROMPT-SIDE FAILURE TYPES THAT MATTERED
+
+1. FAILURE 9 = SHAPE FAILURE
+
+Meaning:
+- the loop ran cleanly
+- the task completed
+- the result stayed close enough in meaning
+- but the output shape was wrong
+
+Examples:
+- numbering leaked
+- bullet-like prefixes appeared
+- blank lines appeared
+- all lines collapsed into one paragraph
+- wrapper text appeared
+- exact line count was wrong
+
+Correct response:
+- treat it as prompt adjustment only
+- do not change code
+- do not change config
+- do not change model
+- stay inside the same safe task family unless stronger evidence says otherwise
+
+This interpretation rule became critical.
+
+2. DRIFT / SUMMARY DRIFT
+
+Meaning:
+- the output moved beyond the source meaning
+- the model invented or generalized too much
+- the answer was not just wrongly shaped; it was semantically looser than allowed
+
+This was especially important in the troubled summary branch.
+
+3. CLEANUP MISS
+
+Meaning:
+- the structure held
+- the line count held
+- the general meaning held
+- but specific cleanup rules did not fully hold
+
+Examples:
+- punctuation not normalized fully
+- "now" collisions
+- comma cleanup weak
+- exclamation mark not replaced cleanly
+
+4. CLASSIFICATION MISS
+
+Meaning:
+- the system ran
+- the output shape held
+- but the chosen label was wrong
+
+This is different from Failure 9.
+It is not a shape error.
+It is a selection error.
+
+THE TROUBLED SUMMARY BRANCH
+
+The summary branch on the practical_058 to practical_060 source family was the clearest area that did not become lockable.
+
+Practical read:
+- practical_058 failed
+- practical_059 failed
+- practical_060 failed
+- the issue was summary drift rather than mere formatting
+
+What this taught:
+- short summary can be viable in general
+- but that specific source family did not become stable enough under the tested prompt forms
+- this branch remained weaker than rewrite / cleanup / classification
+
+This is still the clearest open weak area in the whole project.
+
+THE REWRITE AND CLEANUP STORY
+
+The rewrite and cleanup lanes became the strongest part of Phase 4 after recovery.
+
+Important checkpoints:
+- practical_056 proved clean 5-line rewrite shape
+- practical_062 restored rewrite baseline after one-line collapse
+- practical_066 made stricter cleanup lockable
+- practical_068 repaired blank-line regression and recovered stronger cleanup quality
+
+Later live runs deepened that read:
+- practical_069 = Failure 9 with compressed summary-style result
+- practical_070 = rewrite pass
+- practical_071 = Failure 9 with one-paragraph collapse
+- practical_072 = rewrite repair pass
+- practical_073 = cleanup partial success
+- practical_074 = worse cleanup regression
+- practical_075 = reset-baseline cleanup repair pass
+
+This arc matters a lot.
+It contains one of the strongest lessons in the whole project.
+
+WHY PRACTICAL_074 MATTERED
+
+practical_074 was important because it showed how over-tightening can make a branch worse.
+
+What improved:
+- one punctuation leak improved
+
+What got worse:
+- another punctuation requirement regressed
+- the overall result became worse than the stronger earlier cleanup checkpoint
+
+What that taught:
+- not every tighter prompt is better
+- once a revision is worse than the stronger earlier version, do not keep carrying it forward
+- reset to the stronger earlier baseline and make only the smallest needed repair
+
+WHY PRACTICAL_075 MATTERED
+
+practical_075 was one of the cleanest "repair" examples in the project.
+
+What changed:
+- the branch fell back from the over-tightened 074 version
+- it used the stronger older structure
+- it targeted only the actual remaining cleanup leaks:
+  - change ending exclamation to period
+  - remove comma directly before final period
+
+Result:
+- pass
+
+This is one of the best examples in the project of:
+- using the old stronger code/prompt shape
+- thinking about the failed new version
+- finding the true collision
+- repairing only the part that was actually broken
+
+THE REWRITE REPAIR STORY
+
+Later rewrite sequence:
+- practical_077 = Failure 9 with numbering and drift
+- practical_078 = pass after a more exact anti-numbering / anti-merge / no-added-words repair prompt
+
+What it taught:
+- rewrite can still wobble even after earlier strength
+- but it usually becomes repairable with a targeted prompt correction
+- the lane itself remained strong overall
+
+THE CLASSIFICATION STORY
+
+Classification was strong overall, but not perfectly immune to slips.
+
+Important checkpoints:
+- practical_057 = earlier classification pass
+- practical_076 = pass
+- practical_079 = pass
+- practical_080 = classification miss
+- practical_081 = repair pass
+
+Why practical_080 mattered:
+- source was exactly "failed"
+- output incorrectly came back as "output"
+- this was not Failure 9
+- this was not a system problem
+- it was a label-selection miss
+
+Why practical_081 mattered:
+- it added the exact rule:
+  "If the source is exactly one of the allowed labels, repeat it unchanged."
+- that fixed the weak point immediately
+
+What this taught:
+- even simple exact-label tasks can wobble on a small local model
+- a stronger exact-repeat rule can materially reduce that risk
+- this is a prompt-lock lesson, not a model-replacement lesson
+
+OPERATOR-FLOW MISTAKES AND WHY THEY MATTERED
+
+A surprising amount of confusion came from the human run flow rather than LocalBot itself.
+
+Examples:
+- task text got pasted into Command Prompt instead of Notepad
+- commands were pasted together
+- output-read commands were too broad or a label-based jump command was unreliable for live pasted use
+- one command line got duplicated into itself when pasted
+
+These issues mattered because they could make a good LocalBot run look messy or confusing.
+
+This led to important workflow rules:
+- use a normal run shape
+- open/create the task in Notepad
+- paste task text into Notepad, not Command Prompt
+- run the coordinator
+- check done/failed
+- read the output file
+- report back with just the result state and output text
+
+Later, another important rule was added:
+- if a run passes, that run closes
+- the next ordinary task starts as a fresh first run unless the user deliberately keeps a comparison branch open
+
+That improved mental clarity a lot.
+
+WHAT WAS FIXED BY RULES RATHER THAN CODE
+
+A lot of the project's later stability came from better operating rules, not code changes.
+
+Examples:
+- Failure 9 stays prompt-side
+- do not carry forward a worse revision
+- if both local passes are spent and the branch is still not good enough, reset to the stronger local baseline
+- keep one command per copy box
+- separate commands from paste text
+- if a run passes, close it and start the next run fresh
+- keep a short run label header during live multi-run revision loops when useful
+
+These rules reduced drift, confusion, and unnecessary code churn.
+
+WHAT DID NOT NEED TO CHANGE
+
+Several things did not need reopening once the evidence settled:
+- the daily model choice
+- core architecture
+- code/config changes for prompt-only misses
+- larger automation redesign
+- broader multi-system ideas
+
+This matters because later project quality came partly from refusing to reopen solved decisions without new live evidence.
+
+WHERE THE PROJECT STARTED VS WHERE IT IS NOW
+
+EARLIER PROJECT POSITION
+
+The earlier position was:
+- system proof still mattered
+- survival questions still dominated
+- hardening and recovery were still unfinished
+- practical trust in short-task lanes was not yet established
+
+CURRENT PROJECT POSITION
+
+The current position is:
+- the loop works
+- timeout handling is operationally good enough
+- recovery works
+- the machine fit is understood
+- rewrite holds
+- cleanup holds
+- classification holds again
+- summary remains the only meaningfully weaker optional area
+
+This is a large change.
+
+WHAT ACTUALLY GOT BETTER
+
+1. THE LOOP STOPPED BEING THE MAIN QUESTION
+Earlier:
+- "Can it run at all?"
+
+Now:
+- "Which prompt lanes are stable enough to trust?"
+
+2. FAILURES GOT SMALLER
+Earlier risks could have threatened the build itself.
+Now many failures are:
+- one bad shape miss
+- one bad punctuation miss
+- one wrong classification label
+- one operator paste mistake
+
+That is progress.
+
+3. REPAIRS GOT FASTER
+Later in the project, many misses were fixed in one targeted follow-up run instead of requiring broad redesign.
+
+4. CHECKPOINT THINKING GOT STRONGER
+The project improved when later runs were judged against the strongest earlier checkpoint rather than just the immediately previous result.
+
+WHAT COULD STILL GO WRONG
+
+The most realistic remaining risks are:
+- summary branch drift if reopened
+- an occasional local model wobble inside a normally strong lane
+- a future over-tight prompt revision that improves one variable and breaks another
+- live copy/paste mistakes in Command Prompt
+- casual reuse of weaker prompts after stronger baselines were already found
+
+These are real risks, but they are smaller than the earlier foundational system risks.
+
+THE CURRENT PRACTICAL LANES
+
+Rewrite:
+- holding
+
+Cleanup:
+- holding again
+
+Classification:
+- holding again
+
+Summary:
+- weaker
+- optional unless deliberately reopened
+
+CURRENT WHOLE-PROJECT JUDGMENT
+
+LocalBot as a system is effectively built.
+
+The remaining project work is not mainly about:
+- architecture
+- recovery
+- timeout survival
+- machine fit
+- code or config redesign
+
+The remaining work is mostly about:
+- preserving the strongest prompt baselines
+- avoiding weaker revisions
+- optionally deciding whether the summary lane must also be made stronger before calling the project "done enough"
+
+HONEST PERCENTAGE READ
+
+If summary stays out of scope for now:
+- the project is in the approximately 90% to 95% zone overall
+
+If summary must also become strong on the troubled source family:
+- that is still the biggest remaining practical uncertainty
+
+THE MOST IMPORTANT LESSONS TO KEEP
+
+1. Protect what already works.
+2. Treat shape-only misses as prompt-side.
+3. Do not carry forward a worse revision.
+4. Reset to the stronger earlier baseline when a branch gets worse.
+5. Operator workflow clarity matters almost as much as prompt clarity in live use.
+6. The real project moved from loop-survival problems to output-control problems.
+7. Summary is the one lane that still has the clearest unresolved weakness.
+8. Small local model variance is real, but careful prompt locking can still make the important lanes practically reliable.
+
+MOVING FORWARD JUDGMENT
+
+The current strongest forward read is:
+- treat rewrite, cleanup, and classification as the current finished core of Phase 4 practical work
+- do only a very small number of fresh confirmation runs
+- then save and lock the stronger prompt baselines again
+- keep summary as a separate optional later branch unless it is deliberately reopened
+
+Why this route is preferred:
+- it protects the strongest stable lanes
+- it adds confidence without reopening broad churn
+- it matches the real project state, where the loop is working and the main remaining risk is prompt/output variance
+- it avoids reopening code/config/model questions that do not match the current evidence
+
+ALTERNATIVE ROUTES AND WHY THEY WERE NOT CHOSEN AS THE DEFAULT
+
+Stop now and lock everything:
+- defensible
+- lowest drift risk
+- but slightly less confidence than a tiny confirmation finish
+
+Reopen summary now:
+- directly attacks the weakest remaining lane
+- but has the highest risk of reopening messy experimentation on the same troubled source family
+
+Reopen code/config/model questions:
+- only appropriate if fresh machine evidence shows a deeper system problem
+- not appropriate as the default because the recent misses were prompt-side rather than system-side
+
+This leads to the practical recommendation:
+- keep the current gameplan
+- refine it slightly by making the stopping point explicit
+- finish through the stable rewrite / cleanup / classification path
+- treat summary as separate optional work rather than as a blocker
+
+FINAL WHOLE-PROJECT BOTTOM LINE
+
+LocalBot is no longer a fragile experiment trying to prove that a local loop can exist.
+
+It is now a mostly stable small local tool with:
+- a working loop
+- timeout protection
+- recovery
+- strong rewrite behavior
+- recovered cleanup behavior
+- recovered classification behavior
+- one still-weaker optional summary area
+- improved run discipline and handoff discipline
+
+The project is in a much stronger, more realistic, and more usable place than it was at the beginning.
+
+END OF FILE

@@ -1,0 +1,137 @@
+INCIDENT FREEZE / NO-KILLER / CIVIL TRAFFIC TICKET RULE
+
+Rule/control candidate ID:
+CS-CANDIDATE-INCIDENT-FREEZE-NO-KILLER-TRAFFIC-TICKET-20260511
+
+Status:
+Proof-history-only rule candidate.
+Not active guide doctrine.
+Not current truth.
+Not cleanup authority.
+Not deletion approval.
+Not promotion approval.
+
+Purpose:
+Keep incident handling calm, evidence-based, and separated from fixing, cleanup, old-file cleanout, and deletion.
+
+Pattern-fit review:
+The proposed idea fits the existing system only if it is kept as an incident-handling and cleanup-boundary rule, not as a blame rule and not as cleanup permission.
+
+Pattern problem found:
+The raw idea could collapse several separate lanes into one:
+- incident detection
+- cause or killer proof
+- fixing
+- old-file status
+- house cleaning
+- deletion
+
+Clean structure used:
+This rule separates those lanes into an operating order:
+freeze, incident question, cause question, small record, status before cleanup, house-cleaning lane, delete gate.
+
+Core rule:
+Freeze before blame, fixing, cleanup, deletion, overwrite, move, rename, promotion, or old-file cleanout.
+
+Operating order:
+1. Freeze first.
+2. Ask whether an incident happened.
+3. If an incident happened, ask whether a proven killer or cause exists.
+4. If no serious cause is proven, keep a small civil-traffic-ticket-style incident record.
+5. Status old or replaced files before deletion is even considered.
+6. Keep house cleaning separate from normal save and receipt work.
+7. Use a deletion gate only after exact path, proof, approval, and post-delete verification are named.
+
+Incident question:
+Before blame, fixing, cleanup, deletion, overwrite, move, rename, promotion, or old-file cleanout, ask:
+Did an incident actually happen?
+
+Minimum incident evidence:
+- what changed, failed, went missing, conflicted, or became unclear
+- where it happened
+- when it was noticed, if known
+- what file, folder, rule, receipt, or workflow was affected
+- what is currently frozen
+- what has not been changed
+
+No-killer question:
+If an incident happened, ask:
+Is there a proven killer or cause?
+
+A proven killer or cause needs evidence, not suspicion.
+Not every incident has a killer.
+Not every incident proves a bad file, bad worker, bad rule, or bad user action.
+Not every incident needs a fix.
+Not every incident needs cleanup.
+Not every replaced file should be deleted.
+
+Civil traffic ticket record:
+If an incident is real but no serious cause is proven, preserve a small record instead of escalating blame or cleanup.
+
+Civil ticket fields:
+- Incident ID:
+- Date/time:
+- Short description:
+- Affected path or lane:
+- Evidence seen:
+- Proven cause or killer: YES/NO/UNKNOWN
+- Severity: LOW/MEDIUM/HIGH
+- Action taken:
+- What was not changed:
+- Follow-up needed:
+- Delete authority created: NO
+
+Replaced does not mean delete:
+A replaced, older, duplicate-looking, superseded, or no-longer-active file is not automatically trash.
+It must be statused first.
+
+Old-file status options:
+- active
+- proof-history reference
+- backup
+- archive candidate
+- parked
+- blocked
+- duplicate/no-new-value candidate
+- unknown-needs-review
+- delete candidate
+
+House cleaning lane:
+House cleaning is separate from normal save and receipt work.
+Saving a rule, receipt, checkpoint, report, or proof file does not authorize old-file cleanup.
+Old-file cleanup requires its own cleanup scope, inventory, proof, approval, and closure verify.
+
+Deletion gate:
+Deletion requires:
+- exact path
+- reason
+- proof that the target is redundant, unsafe to keep, or approved for removal
+- proof it is not active truth, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, protected proof, or needed backup
+- user approval
+- receipt
+- post-delete verification
+
+Clean state:
+The assistant freezes first, proves whether the incident exists, avoids invented blame, keeps a small record when no serious cause is proven, statuses old files before cleanup, and treats deletion as a separate gate.
+
+Dirty state:
+The assistant blames before proof, treats an incident as having a killer without evidence, cleans old files during normal save/receipt work, treats replaced as delete-ready, or deletes/moves/renames/overwrites/promotes without exact path, proof, approval, and verification.
+
+Verdict route:
+PASS when the incident, cause status, old-file status, cleanup boundary, and deletion gate are all named for the approved scope.
+PASS WITH GUARDRAILS when the incident is bounded but one follow-up remains watch-listed.
+PARTIAL when the incident record exists but cause, severity, or old-file status is weak.
+INVALID when available evidence cannot prove that an incident happened.
+YIELD when user judgment, authority, or scope is needed before status, cleanup, or deletion.
+BLOCKED when the action would require deletion, movement, overwrite, rename, active-guide edit, current-truth edit, script execution, shortcut execution, zip extraction, or cleanup without explicit approval.
+
+Next clean state:
+Use this rule as proof-history guidance only.
+If later considered for active guide installation, run active-guide placement, partner sync, alignment-check closure, and current-truth mapping review first.
+
+Parked / yielded items:
+- active guide installation is parked
+- CURRENT_TRUTH_INDEX update is parked
+- real house cleaning is parked
+- old-file deletion is blocked until a separate delete gate is approved
+- any claim of a proven killer is yielded unless evidence proves it

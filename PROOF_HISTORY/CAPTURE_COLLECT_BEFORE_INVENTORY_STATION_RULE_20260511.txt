@@ -1,0 +1,67 @@
+CAPTURE / COLLECT BEFORE INVENTORY STATION RULE CANDIDATE 20260511
+
+Rule/control candidate ID:
+CS-CANDIDATE-CAPTURE-COLLECT-BEFORE-INVENTORY-STATION-20260511
+
+Status:
+Proof-history-only working guidance.
+Not active guide doctrine.
+Not current truth.
+Not cleanup authority.
+Not deletion approval.
+Not movement approval.
+Not folder-creation approval.
+Not promotion approval.
+
+Reason:
+The current assembly-line wording names FREEZE then INVENTORY, but the capture action belongs between them.
+
+Correct working order:
+FREEZE
+CAPTURE / COLLECT
+INVENTORY
+SORT
+JUDGE
+PLACE / FILE
+SAVE
+SEAL
+HAND OFF / REVIEW
+PROMOTE / PARK / BLOCK
+CONTINUE
+
+Definitions:
+
+FREEZE means stop movement and prevent state change.
+
+CAPTURE / COLLECT means preserve the visible evidence while it is still untouched: paths, names, timestamps, hashes when needed, file lists, command output, visible status, receipts, logs, and current state.
+
+INVENTORY means turn captured evidence into a structured list.
+
+SORT means group like with like.
+
+JUDGE means decide value, risk, authority, and next gate.
+
+Clean state:
+Capture/collect happens after freeze and before inventory.
+No cleanup, deletion, movement, rename, overwrite, promotion, or active-guide edit happens during capture.
+
+Dirty state:
+Inventory, sorting, judgment, cleanup, deletion, or movement begins before evidence is captured.
+
+Boundary:
+Do not edit ACTIVE_GUIDES.
+Do not edit CURRENT_TRUTH_INDEX.txt.
+Do not edit AGENTS.md.
+Do not move files.
+Do not delete files.
+Do not rename files.
+Do not overwrite files.
+Do not create folders.
+Do not run scripts.
+Do not perform cleanup.
+Do not promote this rule.
+
+Next clean state:
+Hold this as proof-history-only working guidance before shed review begins.
+Pause after saving and receipt verification.
+Do not start shed inventory until user/assistant confirms the save.

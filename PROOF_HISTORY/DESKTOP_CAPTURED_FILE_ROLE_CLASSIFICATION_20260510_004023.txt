@@ -1,0 +1,69 @@
+﻿DESKTOP CAPTURED FILE ROLE CLASSIFICATION
+Timestamp: 2026-05-10 00:40:23
+Root: C:\Users\13527\Desktop\Clean Milk not-BLOAT
+Proof folder: C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY
+Capture folder: C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DESKTOP_TOP_FILE_GOLD_CAPTURE_20260510_003819
+
+Classification source:
+Based on DESKTOP_CAPTURED_FILE_ROLE_REVIEW_20260510_003910.txt and copied file hashes.
+
+1. LOCALbot_FILE_CHECK_REPORT.txt
+Role: LocalBot proof / runtime structure evidence.
+Classification: proof/history, keep captured.
+Gold: Confirms C:\LOCALbot structure, required files/folders, outputs, cleanup_archive, and handoff-related evidence.
+Cleanup status: not deletion candidate until LocalBot state is separately verified.
+
+2. LOCALbot_HANDOFF_STACK_CHECK_REPORT.txt
+Role: LocalBot handoff stack proof.
+Classification: proof/history, keep captured.
+Gold: Confirms C:\LOCALbot\Handoff_Stack expected files and runtime core files.
+Cleanup status: not deletion candidate until LocalBot handoff state is separately verified.
+
+3. VISUAL_STUDIO_CODE_BOT_SETUP_README.txt
+Role: VS Code / Roblox MCP setup guide.
+Classification: reference/setup guide, keep captured.
+Gold: Contains setup route for VS Code bot, Roblox MCP server, and Weppy plugin context.
+Cleanup status: possible Desktop cleanup candidate later only because whole file is captured, not because content is useless.
+
+4. SLOW_BOT_SETUP_README.txt
+Role: slow local bot setup guide.
+Classification: reference/setup guide, keep captured.
+Gold: Contains prompt/path discipline: a path alone is not a command or full instruction.
+Cleanup status: possible Desktop cleanup candidate later only after user approval.
+
+5. ROBLOX_ASSISTANT_SETUP_README.txt
+Role: Roblox Assistant setup guide.
+Classification: reference/setup guide, keep captured.
+Gold: Separates Roblox Assistant from MCP/local bot workflows and stresses saving a clean copy before using Assistant.
+Cleanup status: possible Desktop cleanup candidate later only after user approval.
+
+6. DREAMFORGER_SUNO_SYMBOLIC_OUTPUT_FORENSICS_GUIDE.txt
+Role: symbolic-output forensics reference.
+Classification: parked/reference, outside-field candidate, keep captured.
+Gold: Strong framing: investigate persistent symbolic continuity without claiming sentience before evidence earns it.
+Cleanup status: not active Clean Seed doctrine; do not delete unless separately approved after reference value is acknowledged.
+
+7. MCP_Studios.bat
+Role: executable-like batch file.
+Classification: blocked executable-like item, metadata captured only.
+Gold status: unknown until content is safely reviewed.
+Execution status: NOT RUN.
+Cleanup status: not deletion candidate until content/role is reviewed or user explicitly parks/removes it.
+
+8. localbotCMD.exe.lnk
+Role: shortcut/executable-like link.
+Classification: blocked shortcut item, metadata captured only.
+Gold status: unknown until target/role is safely reviewed.
+Execution status: NOT RUN.
+Cleanup status: not deletion candidate until target/role is reviewed or user explicitly parks/removes it.
+
+Pre-delete rule:
+Unknown is not trash. Captured does not automatically mean disposable.
+
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Scripts run: NO
+Shortcuts executed: NO
+Cleanup executed: NO
+NEXT_STATE=review folder groups or decide whether captured top-level files should stay on Desktop

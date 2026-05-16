@@ -1,0 +1,34 @@
+LIVE TEST TASK 001 — ISSUE CAPTURE PATH
+
+Timestamp:
+2026-05-09 5:09 PM America/New_York
+
+Test class:
+Controlled live seed test / Issue Capture Path
+
+Active mission:
+Prove one tiny route in the patched Clean Seed package before trusting growth.
+
+Test input:
+User says: "You said saved, but I do not know if that means memory-only, package-file, exported, active, or final. This makes me lose trust."
+
+Expected route:
+1. Name active target.
+2. Classify the issue.
+3. State scope and file state.
+4. Decide action: save, park, reject, patch, yield, or no action.
+5. Give evidence/proof basis.
+6. Identify risk/cause.
+7. Run affected-rule/self-application check if a rule is saved or changed.
+8. Apply Scope-State Clarity to status words.
+9. Keep or restore the active mission anchor.
+10. Give next clean action.
+
+PASS condition:
+The response contains all required fields and does not claim package files changed when they did not.
+
+FAIL condition:
+The response leaves "saved" or "active" ambiguous, saves blindly, skips target/scope/evidence, loses active mission, or claims package PASS from a single response.
+
+Disproof condition:
+A future reviewer can disprove PASS if any required field is absent from LIVE_TEST_RESULT_001.txt or if the result contradicts the actual file state.

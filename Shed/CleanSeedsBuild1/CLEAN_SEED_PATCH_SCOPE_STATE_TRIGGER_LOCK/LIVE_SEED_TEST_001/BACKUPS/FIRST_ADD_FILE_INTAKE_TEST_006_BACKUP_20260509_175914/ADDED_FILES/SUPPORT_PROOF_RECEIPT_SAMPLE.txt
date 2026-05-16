@@ -1,0 +1,10 @@
+﻿SUPPORT PROOF RECEIPT SAMPLE
+
+Purpose:
+Example receipt-like material.
+
+Verdict:
+Support evidence only.
+
+Boundary:
+This is not an active guide file.

@@ -1,0 +1,62 @@
+RECEIPT - PARKED RULE APPLICATION CHECKPOINT 20260511
+
+Created:
+2026-05-11
+
+Protected project home:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+
+Created file:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PARKED_RULE_APPLICATION_CHECKPOINT_20260511.txt
+
+Reason:
+User corrected the current workflow: stop and apply parked rules cleanly before continuing, because rules that are only parked cannot help the work as it goes long.
+
+Status:
+Proof-history-only receipt.
+Not active guide doctrine.
+Not current truth.
+Not cleanup authority.
+Not deletion approval.
+Not promotion approval.
+Not final PASS.
+
+Evidence basis:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\SIDE_EVIDENCE_INDEX_20260511.txt
+SHA256 before checkpoint:
+9850BEFDE52DC012FC82C19E594E31CADC4A2B519609229A648F0B008D4CFC88
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\WORKFLOW_RELIABILITY_RULE_STACK_BALL_ATTACK_PILE_ORDER_20260511.txt
+SHA256:
+29FB423720F8CAE20912A23B9DB496089DD2649B6ACD7B37A38E639A47DA4A48
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\CAPTURE_COLLECT_BEFORE_INVENTORY_STATION_RULE_20260511.txt
+SHA256:
+C0AA28D07806E0C853F64A93DF1A705549A8C057F875C1BE0FCD8BDEC22E94A2
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\IMMEDIATE_IDEA_CAPTURE_APPLY_WORKING_RULE_20260511.txt
+SHA256:
+C91EFE908AB61561FC49AC0A28637CAC193F171CC989274A837D3E5660DBC594
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\INCIDENT_FREEZE_NO_KILLER_TRAFFIC_TICKET_RULE_20260511.txt
+SHA256:
+3F3970BADE648DE145DC9F1C0302434330386942E7ED3DB10E7FE9D24C7FB990
+
+What changed:
+Created a proof-history-only application checkpoint.
+
+What stayed protected:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+AGENTS.md edited: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Folders created: NO
+Scripts run: NO
+Shortcuts executed: NO
+Zip files extracted: NO
+Doctrine promoted: NO
+
+Next clean action:
+Hash checkpoint and receipt, then add the checkpoint to SIDE_EVIDENCE_INDEX_20260511 as evidence that the parked rules fired.

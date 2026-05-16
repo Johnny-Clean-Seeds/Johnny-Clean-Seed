@@ -1,0 +1,706 @@
+CLEAN SEED ALIGNMENT CHECK
+
+Purpose
+
+This file checks whether a clean seed bot build is staying small, clear, proven, bounded, and
+easy to follow.
+
+This file is not the start guide.
+This file is not the assistant walk-through guide.
+This file is not runtime proof.
+This file is a guardrail and alignment check.
+It does not add a separate test phase.
+It checks proof only to prevent dirty milk.
+
+Use this file with:
+
+README_START_HERE.txt
+CLEAN_SEED_WRAP_GUIDE.txt
+
+The README starts the user.
+The guide controls the assistant walk-through.
+This alignment check catches drift and runs the Security / Clean Milk Review.
+
+
+Hard Verdict Standard
+
+Use PASS only when every required check passed together.
+
+Use PASS WITH GUARDRAILS when the build is clean but needs an active watch item.
+
+Use PARTIAL when some required checks pass and some are missing or weak.
+
+Use FAIL when usable evidence proves a required check failed.
+
+Use INVALID when the evidence cannot prove what happened.
+
+Use PARKED when the idea is useful but not active.
+
+Done is not PASS.
+Movement is not proof.
+Confidence is not proof.
+Screenshots are not runtime proof unless the specific check is visual.
+
+
+Clean Seed Target
+
+A clean seed has:
+
+one clear name
+one home
+one active job
+one visible input/output route
+one evidence path
+one pass judge
+one failure path
+one recovery path
+one authority boundary that names what can be touched and what cannot be touched
+one parking lane
+one promotion rule
+one close condition
+
+If any of these are missing, the seed setup is not clean yet.
+
+
+Build Direction And Naming Check
+
+Use this check during startup and whenever project-specific names are being chosen.
+
+Check:
+
+Has the user defined the build direction, provided current build state, or asked for help
+shaping the first build idea?
+If only the guide files are loaded and no build content exists, did the assistant ask what the
+user is starting from before doing build work?
+Did the assistant use the same clean start screen with no more than 3 options when a menu was
+needed?
+Did the assistant recommend one clean option instead of dumping a pile?
+Do the seed name, project folder name, existing project home path if present, and first build
+files fit the build direction or current build state?
+Are the names plain, role-based, and tied to the active seed instead of future scale?
+Did the three guide filenames stay fixed?
+Did the assistant avoid forcing a starter name onto a real build without approval?
+Did the assistant avoid creating project-specific files before the starting situation and names
+were accepted?
+
+Clean milk appears when:
+
+the build direction or current build state is known before names lock in
+the user provides the real build idea or current build state
+the assistant chooses the smallest clean seed structure needed to prove it
+current build context is recognized before any duplicate blank seed is created
+the assistant asks for direction when direction is missing
+the assistant helps name the seed around the build direction or current build state without old
+prototype names, mocking labels, insulting labels, or future-scale names
+the core guide filenames stay unchanged
+old starter names are used only when the user deliberately accepts them as real names
+build-specific names serve active file roles
+
+Dirty milk appears when:
+
+project-specific names lock in before the build direction or current build state is known
+the assistant makes the user choose internal seed type, brain part, architecture lane, route
+lane, proof system, workflow category, worker type, or core build method
+current build context is ignored and the assistant starts a duplicate blank seed
+the assistant assumes a starter name is the real build without approval
+old prototype names leak into the new build
+core guide files are renamed to match the project
+file names claim future architecture too early
+option menus become a pile
+naming creates unclear file roles or multiple active truths
+
+Verdict:
+
+PASS only when the build direction or current build state is known, names fit that situation,
+and core guide filenames remain fixed.
+
+PARTIAL when the direction is known but one or more names are weak, vague, or too future-facing.
+
+FAIL when names are locked, files are created, or project work begins from an assumed direction
+the user did not give or accept.
+
+YIELD when the starting situation is missing and the next step would create project-specific
+names, folders, or files.
+
+
+Build Alignment Check
+
+Check every active stage against these questions:
+
+Build Direction:
+Is the build direction or current build state known before project-specific names lock in?
+If current build files, folders, code, notes, logs, or project state were provided, did the
+assistant recognize the current build instead of starting a duplicate blank seed?
+Did the assistant avoid asking the user to choose internal seed type, brain part, architecture
+lane, route lane, proof system, workflow category, worker type, or core build method?
+If the starting situation was missing, did the assistant ask what the user is starting from
+before doing build work?
+Did the assistant give only the clean start-screen options, with one recommended option, when
+the user needed help naming the starting situation?
+
+Name:
+Is the seed name plain, honest, and tied to what is being built now?
+Does the name avoid claiming future scale too early?
+
+Mission:
+Is the mission short and active?
+Does it say what is being built now?
+Does it leave future features parked?
+
+Home:
+Does the seed have one project folder?
+Are tasks, outputs, evidence, support files, and closeout files placed clearly?
+
+Route:
+Is the input/output route visible?
+Can the user say what enters, what happens, what exits, and where evidence is stored?
+
+Done / Pass:
+Is done separated from PASS?
+Does PASS require evidence?
+Is the judge clear?
+
+Failure:
+Can failure happen visibly?
+Is failure evidence protected before repair?
+
+Recovery:
+Can interrupted, stale, or incomplete work be recovered or safely failed?
+Is recovery evidenced?
+
+Authority:
+Does the user own direction and approval?
+Does the authority boundary name what can be touched, what cannot be touched, and what needs
+approval?
+Does the assistant stay inside the active mission and approved boundary?
+
+Parking:
+Are useful future ideas preserved without controlling the active build?
+Does every parked idea have a reopen condition?
+
+Promotion:
+Is the promotion rule named before the seed grows, adds a new lane, adds a helper, connects a
+bridge, or moves to the next stage?
+
+Close:
+Does the current stage have a clear close condition?
+Is the stage wrapped before scaling?
+
+
+Easy Build Check
+
+The build should be as easy as possible without hiding proof.
+
+Safe means inside the active mission, inside the approved boundary, non-destructive,
+inspectable, and not hiding or erasing evidence.
+
+The assistant should use safe tools, commands, generated files, file packets, or the running bot
+when those actions are inside the active mission and approved boundary.
+
+The assistant should not make the user manually create, move, rename, inspect, or edit files
+when a safe command or file packet can do it.
+
+The assistant must still explain risky commands in plain terms before use.
+
+The assistant should give one clean default when the next action is obvious.
+The assistant should give 2 or 3 clean options when the user must choose, the path is confusing,
+or more than one safe route exists.
+Options are dirty when they become a pile, hide the recommended path, or make the user carry
+work the assistant should simplify.
+
+Ease is dirty when it:
+
+skips evidence
+hides errors
+overwrites useful state
+bypasses user approval
+expands the seed too early
+treats convenience as proof
+uses options to avoid judgment
+
+
+Mechanical Clarity Check
+
+Check whether the assistant told the user exactly what to open, where to go, what to paste or
+run, what to save, what result to send back, and what evidence will be judged.
+
+Dirty milk appears when the user has to guess the app, folder, file, command target, paste
+target, save location, return report, or proof result.
+
+
+Stage Alignment Check
+
+Stage 0 — Seed Setup
+PASS only when the build direction or current build state is known, the seed card names the
+seed, mission, home, route, done/pass rule, pass judge, failure path, recovery path, authority
+boundary, parking lane, promotion rule, and close condition, and the user accepts it.
+
+Stage 1 — Tiny Working Loop
+PASS only when one small task route works from input to output and evidence proves the result.
+
+Stage 2 — Failure Handling
+PASS only when failure is visible, captured, and not erased before repair.
+
+Stage 3 — Recovery
+PASS only when stale or interrupted work can be recovered or safely failed with evidence, or
+recovery is explicitly parked with a reason.
+
+Stage 4 — Practical Use
+PASS only when real small tasks fit the proven route and produce judged evidence.
+
+Final Wrap
+PASS only when closeout records what passed, what failed, what was repaired, what remains
+parked, what evidence exists, what the seed can be trusted to do, and what it should not be
+trusted to do yet.
+
+
+
+Wave Group Close Check
+
+Use this check only when a wave group needs formal close review.
+
+A formal Wave Group Close Check is needed when:
+
+more than one wave was used
+a wave returned FAIL, PARTIAL, or INVALID
+files, commands, rules, routes, or authority changed
+repairs repeated or split into branches
+the active wave attempt limit was reached
+the user asks to close or judge the wave group
+the next step depends on older wave-group items
+
+It is not required for one simple clean proof check that already has evidence, verdict, open
+items if any, parked items if any, and next clean state.
+Forcing it there is bloat.
+
+Check:
+
+Does the wave need formal close review?
+Does each wave in the group belong to a named wave group?
+Does the group close with Wave Group Close Check?
+Does Wave Group Close Check review every wave-group item that affected the result, repair,
+verdict, open item, parked item, changed file, changed command, user decision, or next action?
+Does Wave Group Close Check separate done from PASS?
+Does Wave Group Close Check name what passed, failed, is partial, is invalid, remains open, is
+parked, and what comes next?
+If Wave Group Close Check fails, is partial, or is invalid, does the next repair start a new
+wave group at Wave Group 2 — Wave 1A or the next numbered group?
+Does the new Wave 1A carry forward the previous wave group evidence instead of overwriting it?
+Does the new group name why the prior Wave Group Close Check did not close cleanly?
+
+Dirty milk appears when:
+
+a wave group that needs formal close review ends without Wave Group Close Check
+Wave Group Close Check reviews only the last wave and ignores older wave-group items
+that affected the result, repair, verdict, open item, parked item, changed file,
+changed command, user decision, or next action
+a failed Wave Group Close Check is treated as PASS
+a failed Wave Group Close Check restarts work without carrying forward prior evidence
+a new Wave 1A hides or replaces the old Wave 1A instead of starting a new wave group
+old wave reports are deleted, renamed away, overwritten, or ignored before closeout
+the wave group ends without a verdict, open items if any, parked items if any, and next clean
+state
+Wave Group Close Check is forced onto a simple single-wave proof that already closed cleanly
+
+Clean milk requires:
+
+named wave group when a group is needed
+named normal waves when more than one wave is used
+Wave Group Close Check when formal close review is needed
+every wave-group item that affected the result, repair, verdict, open item, parked item, changed
+file, changed command, user decision, or next action reviewed
+done separated from PASS
+failed, partial, and invalid results preserved
+old wave groups kept as evidence
+new recovery groups started clearly when needed
+final wave-group verdict named
+next clean state named
+
+High-Risk Drift Check
+
+Warn and yield when the user or assistant tries to:
+
+skip setup
+wrap without proof
+ignore failed, partial, or invalid evidence
+delete or overwrite before evidence is captured
+activate parked ideas too early
+create extra agents too early
+create launchers before the run path is stable
+create visuals without a direct request
+treat done as PASS
+treat story, screenshot, or confidence as runtime proof
+change direction without naming the new target
+scale before the current stage is wrapped
+
+The assistant cannot physically stop the user, but it must not call the risky action clean.
+
+
+Word Seam Check
+
+Check whether any important word creates more than one possible meaning.
+
+Look for vague pointer words, soft requirement words, overloaded seed words, and words placed
+too close to the wrong object.
+
+Dirty word seams include wording that could let the assistant:
+
+rename fixed guide files
+lock names before build direction is known
+treat done as PASS
+treat convenience as proof
+skip evidence
+hide failure
+blur user authority
+promote parked ideas early
+create file-role confusion
+turn an optional action into an assumed action
+
+A word seam is clean only when the active object, file, route, authority, proof, verdict, or
+next action is named clearly enough that a weak assistant cannot reasonably drift.
+
+Verdict:
+
+PASS only when no active word seam can change behavior.
+PARTIAL when wording is understandable but still soft.
+FAIL when wording allows dirty milk.
+YIELD when the wording needs user judgment before it can be safely fixed.
+
+
+Security / Clean Milk Review
+
+Use this review whenever a stage, file, command, rule, shortcut, assistant action, package, or
+promotion is being judged.
+
+This review looks for clean milk and dirty milk.
+
+Clean milk means the action protects the seed, keeps proof visible, respects authority, and
+leaves the next state clear.
+
+Dirty milk means the action may damage the seed, hide proof, bypass authority, confuse file
+roles, create unsafe shortcuts, or make the build harder to inspect.
+
+Check for dirty milk:
+
+Does this lock project-specific names before the build direction is known or accepted?
+Does this force a starter name onto a real build without approval?
+Does this make the user choose internal seed type, brain part, architecture lane, route lane,
+proof system, workflow category, worker type, or core build method?
+Does this ignore a current build and start a duplicate blank seed?
+Does this rename core guide files instead of keeping their roles fixed?
+Does this skip evidence?
+Does this hide an error, failure, warning, or unknown?
+Does this overwrite, delete, rename, move, or clean files before evidence is captured?
+Does this bypass user approval?
+Does this give the assistant control it should not have?
+Does this promote a parked idea too early?
+Does this grow the seed, add a new lane, add a helper, connect a bridge, or move to the next
+stage before the promotion rule is named and satisfied?
+Does this create extra agents, launchers, automation, visuals, or architecture before the
+current stage is wrapped?
+Does this treat done as PASS?
+Does this make screenshots, confidence, story, or vibes act like proof?
+Does this make the folder, file role, route, verdict, or next state less clear?
+Does this introduce secrets, credentials, private data, downloads, outside links, unknown code,
+or internet access without naming the risk?
+Does this remove the user's ability to inspect, stop, roll back, or understand the build?
+Does this remove good milk, keep bad milk, or add control that does not protect the route?
+Does this skip review of the finished fix before handoff?
+Does this skip needed risk analysis before a risky move?
+Does this send unchanged, unneeded, or unrequested files?
+Does this change rules, file roles, authority, route, stage order, project direction, packaging,
+promotion, or security behavior without a change-impact prompt?
+Does this apply a change without running a clean milk / dirty milk review after the change?
+Does this move on before the changed result is judged, reported, and left in a clear next state?
+Does this skip Wave Group Close Check before treating a wave group that needs formal close
+review as closed?
+Does this restart Wave 1A after failed Wave Group Close Check without naming a new wave group
+and preserving prior evidence?
+
+Check for clean milk:
+
+The build direction or current build state is known before project-specific names lock in.
+The user provides the real build idea or current build state.
+The assistant translates it into the smallest clean seed structure needed to prove it.
+Current build context is recognized before new project structure is proposed.
+The active target is named.
+The action stays inside the current mission.
+The user keeps approval.
+The file role is clear.
+The route is visible.
+The evidence path is clear.
+The failure path is protected.
+The recovery path is named.
+The next state is known.
+Future ideas are parked unless deliberately promoted.
+The promotion rule is named before growth, new lanes, helpers, bridges, or next-stage movement.
+Risky commands are explained before use.
+No hidden boss, hidden route, hidden proof, or hidden cleanup is created.
+Good milk is preserved.
+Bad milk is removed, repaired, or parked.
+The finished fix is reviewed before handoff.
+Needed risk analysis is completed before risky action.
+Only fixed, changed, new, or needed files are handed off.
+Change-impact review is run before rule, direction, authority, route, stage, package, promotion,
+or security changes.
+After a change is applied, the result is checked again for clean milk and dirty milk before
+handoff.
+The change result is reported with what changed, why it changed, what stayed protected, and the
+next clean state.
+Wave groups that need formal close review close through Wave Group Close Check.
+Failed, partial, or invalid Wave Group Close Checks open a new named wave group when another
+repair run is needed and preserve all prior wave data.
+
+Verdict:
+
+PASS only when no dirty milk is active and the clean milk checks are satisfied.
+
+PASS WITH GUARDRAILS when the action is usable but needs an active watch item.
+
+PARTIAL when some clean milk exists but a required safety or clarity check is weak.
+
+FAIL when dirty milk is proven.
+
+INVALID when there is not enough evidence to judge.
+
+PARKED when the idea may be useful later but should not control the active build.
+
+If dirty milk is found, do not bless the action.
+Name the dirty milk.
+Explain why it is risky.
+Recommend the smallest clean move.
+Park, block, repair, or wrap as needed.
+
+
+Risk Analysis / Pre-Mistake Review
+
+Use this when the user or assistant is about to take an action that could cause damage,
+confusion, hidden proof, unsafe access, bad file movement, bad downloads, bad commands, dirty
+promotion, lost recovery state, or a user mistake.
+
+This review asks what could go wrong before the move happens.
+
+Check:
+
+What action is being considered?
+What could break, disappear, move, overwrite, leak, or become unclear?
+What proof could be lost?
+What authority or approval is required?
+What file, folder, route, verdict, recovery path, or close condition could be affected?
+Is the action reversible?
+What is unknown?
+What must be checked, inspected, proven, or looked up first?
+What is the smallest safe alternative?
+What is the recommended clean move?
+
+Run lookup or verification when the risk depends on current outside information, tool behavior,
+software version, download source, internet access, unknown code, private data, credentials,
+laws, rules, or security claims.
+
+Do not turn every simple step into a research project.
+Use this when risk is real or uncertainty could damage the seed.
+
+Verdict:
+
+PASS only when the risk is named, checked, and controlled.
+PASS WITH GUARDRAILS when the move is usable but has a named watch item.
+YIELD when user judgment, approval, lookup, inspection, or verification is needed.
+BLOCKED when the risk cannot be safely checked and the move could damage the build.
+
+If the user is about to make a mistake, do not quietly follow the mistake.
+Name the risk.
+Keep the clean route visible.
+Recommend the smallest safe alternative.
+
+
+Change Impact Prompt / Clean Milk Loop
+
+Use this before changing any rule, file role, authority boundary, route, stage order, project
+direction, package shape, promotion gate, bridge behavior, security behavior, verdict meaning,
+or anything that could hurt a clean seed.
+
+This is the pre-change prompt.
+
+Check:
+
+What change is being considered?
+What active target does it affect?
+Why is the change needed?
+What good milk must be preserved?
+What dirty milk is being removed, repaired, or parked?
+Could this change alter project direction?
+Could this change weaken evidence, authority, failure, recovery, parking, closeout, or user
+control?
+Could this create bloat, overstep, hidden control, or a new loose end?
+What is the smallest clean change?
+What should not be changed?
+
+If the change could redirect the project, weaken the seed, or alter authority, yield before
+applying it unless the user has already clearly approved that exact change.
+
+After any change is applied, pause and run the clean milk / dirty milk loop.
+
+Loop:
+
+Review the changed result.
+Ask: is this clean milk or dirty milk?
+If clean, report why it is clean.
+If dirty, adjust the smallest dirty part and review again.
+Repeat until the result is clean, parked, blocked, or yielded for user judgment.
+
+Do not move on after applying a change until the changed result has been reviewed.
+Do not send a changed file until the post-change review is complete.
+Do not remove good milk just to make the file shorter.
+Do not keep bad milk just because the wording sounds smart.
+
+Change report must name:
+
+what changed
+why it changed
+what good milk was preserved
+what dirty milk was removed, repaired, parked, blocked, or yielded
+what risk remains, if any
+what files changed
+what files were checked but not changed
+what is still open
+suggested next move / what is next on the plate
+next clean state
+
+Keep useful change data visible.
+Do not hide reports, evidence, failures, rejected edits, parked ideas, or unresolved risks.
+
+
+Package Alignment Check
+
+Final package filenames must be clean.
+
+Active clean filenames:
+
+README_START_HERE.txt
+CLEAN_SEED_WRAP_GUIDE.txt
+CLEAN_SEED_ALIGNMENT_CHECK.txt
+
+Do not treat suffix copies as active package truth:
+
+README_START_HERE (1).txt
+CLEAN_SEED_WRAP_GUIDE (1).txt
+CLEAN_SEED_ALIGNMENT_CHECK (1).txt
+any numbered suffix copy such as (2), (7), or (72)
+final_final_README.txt
+newest_fixed_copy.txt
+
+Final package rule:
+
+one file name
+one file role
+one active copy
+one place
+one reason
+
+
+Needed File Handoff Check
+
+Only send files when they are fixed, changed, new, requested, or needed for the active handoff.
+
+Check:
+
+Did the user ask for files?
+Was the file actually changed?
+Is the file new and required?
+Is the file needed to complete the active step?
+Would sending every package file create confusion or dirty packaging?
+Would a verdict, critique, or patch instruction be enough?
+
+Clean handoff means:
+
+unchanged files are not resent
+unneeded files are not bundled
+ZIP files are not sent unless requested or packaging is the active target
+changed files are named clearly
+only fixed or needed files are handed off
+
+If only one file changed, send only that file.
+If two files changed, send only those two files.
+If no file changed, do not send a file.
+
+
+Rule Pressure Check
+
+Rules are useful only when they protect the route.
+
+Minor polish notes are watch items, not patch orders.
+A watch item becomes a patch only when it exposes an active dirty-milk path, missing lane, contradiction, authority leak, proof gap, packaging error, or live-use blocker.
+
+A rule is dirty when it:
+
+repeats an existing rule without improving clarity
+slows the work without protecting evidence
+turns a simple action into ceremony
+makes the guide heavier than the build
+confuses who owns direction
+makes the assistant focus on rules instead of the next clean action
+
+If a rule is useful but not active, park it.
+Do not let the rule pile become the build.
+
+
+Post-Fix / Milk Preservation Check
+
+Use this after any file, rule, command packet, verdict, or assistant instruction is changed.
+
+Check:
+
+Did the fix correct the actual issue?
+Did it stay inside the active target?
+Did it add only necessary control?
+Did it avoid overstepping?
+Did it avoid bloat?
+Did it preserve good milk?
+Did it remove, repair, or park bad milk?
+Did it avoid deleting useful proof, authority, failure, recovery, parking, or closeout control?
+Did verdict labels remain synced across files?
+Did the assistant review the finished result before handing it back?
+Did the fix create new rule pressure?
+
+If the fix creates new pressure, do not call it clean yet.
+Revise it, park it, yield for judgment, or block it.
+
+A clean fix should leave the file smaller in risk, not heavier in confusion.
+
+
+Final Alignment Verdict
+
+A clean seed build is aligned when:
+
+the user can tell what is being built
+the build direction or current build state is known before project-specific names lock in
+the user provides the real build idea or current build state
+the assistant does not make the user choose internal seed architecture
+current build context is recognized before duplicate structure is proposed
+the authority boundary names allowed touch, forbidden touch, and approval
+the assistant can guide one step at a time
+the assistant gives clean defaults or limited options when that helps the user
+the route is visible
+evidence is captured before repair
+done is separated from PASS
+failures are allowed to be visible
+recovery is named
+future ideas are parked
+promotion rule is named before growth, new lanes, helpers, bridges, or next-stage movement
+security / clean milk review has no active dirty milk
+mechanical clarity has no open guess point
+word seam check has no active behavior-changing seam
+needed risk analysis is complete before risky moves
+change-impact review is complete before rule, direction, authority, route, stage, package,
+promotion, or security changes
+post-change clean milk / dirty milk review is complete before handoff
+progress, open items, and suggested next move are visible after changes or checkpoints
+wave groups that need formal close review close through Wave Group Close Check
+failed, partial, or invalid Wave Group Close Checks open a new wave group when needed with prior
+evidence preserved
+the current stage has a close condition
+only clean filenames are packaged
+post-fix review is complete after any changed file
+the stage wraps before scaling
+
+Clean stop means there is no loose active state.

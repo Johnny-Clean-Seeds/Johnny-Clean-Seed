@@ -1,0 +1,81 @@
+RECEIPT - SIDE EVIDENCE INDEX 20260511
+
+Created:
+2026-05-11
+
+Protected project home:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+
+User direction:
+Start applying evidence placement respectfully as useful evidence is found, so the work becomes more precise over long runs.
+
+Target created:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\SIDE_EVIDENCE_INDEX_20260511.txt
+
+Status:
+Created as proof-history-only sidecar evidence index.
+Not active guide doctrine.
+Not current truth.
+Not cleanup authority.
+Not deletion approval.
+Not promotion approval.
+Not a fourth active guide.
+
+Patch/state IDs visible at creation:
+CLEAN_SEED_PATCH_COMMAND_MAP_HOUSEKEEPING_LOCK
+CURRENT_IDEA_PLACEMENT_ACTIVE_GUIDE_UPDATE_20260510
+
+Evidence basis:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\CURRENT_TRUTH_INDEX.txt
+SHA256: 6CDD8E83AE95AE76F4658188452B799633B8CE76B4AEB93346E2E1C3FC715408
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\AGENTS.md
+SHA256: 6766D1A52B02F8489448017928D794A08CB281FDE728A4BFAAEB1311A990AD5E
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PATCH_RECEIPT_PROOF_LEDGER_LOCK.txt
+SHA256: B76957C06F2B7A4BC2D680DD2A9B44D663EC8BAF18E62E7D5DC1CF8A619368E6
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\FLOW_ARCHITECTURE_MISSING_PARTS_CONCEPT_STACK_20260510.txt
+SHA256: EF4720A05EB08D8461463A5501435992A389D6502D78ECBC02C6B1AFCF009A3A
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PROJECT_KNOWLEDGE_STACK_DRAFT_1B_REFINED_MODEL_20260510.txt
+SHA256: 16ADC89EE2FD0BA4FA55FF94BDF3C85CF23FA9F04FE28992BE5549DAEEE84ECA
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PROJECT_KNOWLEDGE_STACK_DRAFT_1C_FOLDER_FILE_SPLIT_PROPOSAL_20260510.txt
+SHA256: 3245DBDEAB24695308D54326D64A54FCB2D9937AEA770F857210274EEDE04C46
+
+What changed:
+Created SIDE_EVIDENCE_INDEX_20260511.txt in PROOF_HISTORY.
+Created this receipt in PROOF_HISTORY.
+
+What stayed protected:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+AGENTS.md edited: NO
+LIVE_SEED_TEST_001 edited: NO
+Existing PROOF_HISTORY files edited: NO
+
+What was not done:
+No files deleted.
+No files moved.
+No files renamed.
+No files overwritten.
+No folder created for SIDE_EVIDENCE.
+No active-guide install.
+No current-truth update.
+No scripts run.
+No shortcuts executed.
+No zip extraction.
+No doctrine promotion.
+
+EVIDENCE:
+The new sidecar index records current active map evidence, active guide hashes, local bridge hash, historical evidence manifest status, proof-ledger receipt status, and candidate support files for sidecar evidence placement.
+
+INFERENCE:
+This is the clean first apply step because it gives evidence a findable lane without making proof-history a fourth active guide.
+
+UNKNOWN:
+Whether a physical SIDE_EVIDENCE folder will be needed later. Current evidence supports index-first only.
+
+Next clean action:
+Hash the new index and receipt, then continue candidate-pressure review using the index row pattern.

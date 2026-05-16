@@ -1,0 +1,312 @@
+JOB ASSEMBLY LINE + OLD/NEW JUDGMENT METHOD
+
+Status:
+Local durable save.
+Not installed into ACTIVE_GUIDES.
+Not active guide truth by itself.
+Created after current guide/file inspection and cycle-pairing work.
+
+Purpose:
+Define the working method for judging, comparing, routing, fixing, and closing Clean Seed material without drift.
+Give every item a job.
+Make all jobs work together in one clean assembly line.
+Keep the old/current source in the background when judging a new file, rule, wording, map, receipt, or idea.
+Prevent new material from winning just because it sounds better.
+Prevent old material from winning just because it is already there.
+
+Core rule:
+Everything gets a job.
+Every job has a lane.
+Every lane has a key.
+Every key needs evidence.
+Every action gets a verdict.
+Every verdict names the next state.
+The next state must return to the active target.
+
+Assembly line:
+1. TARGET
+Name the exact active thing being judged or built.
+
+2. SOURCE LOAD
+Identify the current/old source, the new/candidate source, and the proof source.
+Do not trust memory as source truth.
+
+3. ROLE CLASSIFICATION
+Classify every item by role:
+active guide,
+current truth index,
+proof-history guidance,
+receipt,
+manifest,
+backup,
+test evidence,
+candidate,
+parked idea,
+blocked item,
+duplicate,
+dirty milk,
+needs human decision,
+or unknown.
+
+4. PILE-MAKING
+Sort before judging.
+Pile-making is not judging.
+Use piles such as:
+active truth,
+proof-history guidance,
+parking lane,
+misc/unplaced,
+dirty/blocked,
+duplicate/no-new-value,
+needs human decision,
+delete gate,
+future idea.
+
+5. OLD/NEW COMPARISON
+Keep the old/current item in view while judging the new/candidate item.
+Ask:
+What job does the old item do?
+What job does the new item claim to do?
+Are they doing the same job?
+Does the new item do the job cleaner?
+Does the old item protect something the new item misses?
+Does the new item add bloat, duplicate authority, hidden risk, or wording drift?
+Does a merge/distill route beat replacement?
+Should the new item be installed, saved as proof-history guidance, parked, rejected, blocked, yielded, or used to refine later?
+
+6. NEIGHBOR MAP
+Find affected neighbors before fixing:
+parent rule,
+child rules,
+left/right neighboring rules,
+partner rules,
+files affected,
+checks affected,
+verdicts affected,
+receipts affected,
+commands/routes affected.
+
+7. JUDGE
+Judge by job fit, not excitement.
+Criteria:
+target fit,
+authority/key clarity,
+evidence strength,
+role clarity,
+old/new improvement,
+neighbor safety,
+bloat risk,
+user clarity,
+failure/recovery handling,
+promotion/closure safety,
+cycle closure.
+
+8. ROUTE
+Route the item to one lane:
+keep old unchanged,
+replace old,
+merge/distill,
+save to PROOF_HISTORY,
+install into ACTIVE_GUIDES,
+update CURRENT_TRUTH_INDEX,
+park,
+block,
+yield,
+retire,
+delete gate,
+or no action.
+
+9. FIXING GATE
+Fixing means changing the correct active file, rule, guide, wording, or workflow.
+A judgment does not authorize fixing by itself.
+Fixing requires target, scope, reason, key, backup when needed, and verification.
+
+10. VERIFY
+Check the result against the old/current source and affected neighbors.
+If the new route made a neighbor worse, the fix is not clean.
+If the route no longer returns to the active target, the cycle is not closed.
+
+11. RECEIPT
+Record what changed, what stayed protected, what was parked, what was blocked, what proof exists, and what comes next.
+
+12. NEXT STATE
+Close, continue, park, block, yield, promote, or return to the real issue.
+Do not leave loose “maybe” material floating.
+
+OLD/NEW JUDGMENT RULE
+
+New is not better by default.
+Old is not better by default.
+Better means the item performs the active job with more proof, clearer authority, less drift, less bloat, safer neighbors, and cleaner next state.
+
+Possible verdicts:
+KEEP OLD
+Use when the old/current item already does the job better or safely enough.
+
+USE NEW
+Use when the new item does the same job cleaner and does not damage partners.
+
+MERGE / DISTILL
+Use when old protects structure and new adds cleaner wording, missing evidence, or better routing.
+
+SAVE AS PROOF-HISTORY GUIDANCE
+Use when the idea is clean and useful but not ready for active guide truth.
+
+PARK
+Use when useful but not needed now.
+
+BLOCK
+Use when unsafe, authority-leaking, executable, dirty, or misleading.
+
+YIELD
+Use when user judgment, access, approval, or source proof is missing.
+
+REJECT
+Use when it is dirty milk, duplicate bloat, or wrong lane.
+
+NO ACTION
+Use when the item is already covered and no improvement is needed.
+
+JOBS
+
+User:
+Owner, direction, approval, final judgment when human choice is required.
+
+Assistant:
+Guide, sorter, comparator, drafter, verifier, and route recommender inside approved boundary.
+
+Codex:
+Local evidence collector and controlled file worker.
+Not doctrine judge.
+Not final PASS judge.
+
+CURRENT_TRUTH_INDEX:
+Map of active package truth and support lanes.
+
+README:
+User start and high-level on-ramp.
+
+WRAP GUIDE:
+Assistant operating behavior.
+
+ALIGNMENT CHECK:
+Enforcement, drift check, verdict check, dirty-milk check.
+
+PROOF_HISTORY:
+Receipts, maps, backups, rule candidates, recovery proof, and local durable guidance.
+Not a fourth active guide.
+
+MISC / UNPLACED:
+Safe holding pile for unclear, duplicate, broad, emotional, historical, weird, or not-active-safe material.
+
+PARKING LANE:
+Useful future ideas that should not control the active route.
+
+REST STOP:
+Accepted clean material waiting for a proper later batch.
+Not active truth.
+
+BLOCKED:
+Known but not allowed to act.
+
+DELETE GATE:
+Separate exact-path proof and approval route.
+Never reached by sorting or judgment alone.
+
+ASSEMBLY-LINE QUALITY CHECK
+
+A clean item must answer:
+What is the target?
+What is the job?
+What lane owns it?
+What key allows action?
+What old/current item is it compared against?
+What evidence supports it?
+What neighbors does it affect?
+What verdict applies?
+What changes, if anything?
+What stays protected?
+What proves the route improved the system?
+What would disprove it?
+What is the next state?
+
+Dirty milk appears when:
+a new idea skips old/current comparison,
+a rule has no job,
+a file has no lane,
+a lane has no key,
+a key has no evidence,
+a judgment becomes fixing,
+fixing becomes deletion,
+proof-history guidance is treated as active guide truth,
+a neighbor is damaged,
+a rule duplicates authority,
+a verdict lacks a next state,
+or the route does not return to the active target.
+
+Clean milk appears when:
+each job is named,
+old and new are compared,
+the better route is chosen with reason,
+unknowns go to a pile,
+only proven links are fixed,
+neighbors are checked,
+proof is recorded,
+and the next state is clear.
+
+COMPARISON AGAINST EXISTING STRUCTURE
+
+Old/current structure already has:
+Cycle Law / Recursive Flow.
+Mirror Law.
+No Key / No Access.
+Respect Neighbor Rules.
+Sorting Rules.
+Fixing-language rule.
+Current Truth Index.
+Codex bridge limits.
+Misc / Unplaced pile.
+
+This method is not meant to replace those.
+This method gives them an execution order.
+
+Why this method is needed:
+Cycle Law gives the route.
+Mirror Law gives the repeated skeleton.
+No Key / No Access gives permission.
+Respect Neighbor Rules gives partner safety.
+Sorting Rules gives pile discipline.
+Fixing-language rule separates pile-making, judging, fixing, and deleting.
+Current Truth Index gives active source truth.
+Codex bridge rules keep local work bounded.
+
+But the missing job was the assembly-line method:
+how to take a messy new item, compare it against the old/current item, assign a job, route it, verify it, and close without turning every thought into an active guide update.
+
+Verdict:
+This method is better than leaving the concept loose in chat because it gives the work an execution line.
+It is not better than the active guides as active doctrine yet.
+It belongs in PROOF_HISTORY first.
+A later guide review can distill it into README, Wrap Guide, and Alignment Check only if a real active-guide gap is proven.
+
+Placement candidate for later:
+README:
+Short idea only: “Every item gets a job; new material is compared against current truth before it can change the package.”
+
+Wrap Guide:
+Operating behavior: use the assembly line when judging new rule/material pressure.
+
+Alignment Check:
+Enforcement check: no new material may install unless job, lane, key, old/new comparison, neighbor map, verdict, and next state are clear.
+
+CURRENT_TRUTH_INDEX:
+Update only if a later active-guide installation occurs.
+
+NEXT CLEAN ROUTE
+
+Use this as proof-history guidance.
+Do not install it blindly.
+Use it while reviewing future rule/material pressure.
+Return to the real issue/sorting work unless a real active-guide gap appears.
+
+END JOB ASSEMBLY LINE + OLD/NEW JUDGMENT METHOD

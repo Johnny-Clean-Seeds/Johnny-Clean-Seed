@@ -1,0 +1,74 @@
+RETIRED / INVALID RECEIPT
+Reason: Active guide files did not contain the claimed Point Check / Decision Validation Loop markers, and package patch IDs did not match this receipt. Do not use this receipt as proof of installed active guide files. See PATCH_RECEIPT_POINT_CHECK_REPAIR_AND_METHOD_EVIDENCE.txt.
+
+--- Original receipt below ---
+
+Patch receipt: Point Check / Decision Validation Loop
+Timestamp source: system UTC clock from container
+Timestamp UTC: 2026-05-08T14:01:09.394089+00:00
+Active patch ID: CLEAN_SEED_PATCH_2026_05_08_POINT_CHECK_DECISION_LOOP
+
+Active claim:
+- The package needed a point-check / decision-validation loop so trust-affecting thoughts, ideas, patches, verdicts, recommendations, and next actions do not move forward from "seems verified" without what/when/where/why/how, action, effect, evidence, verdict, and next-point proof.
+
+Risk severity:
+- HIGH, because this patch affects evidence, verdicts, operations/order-of-operations, patch trust, CYA, and future decision flow.
+
+Placement / how applied:
+- README_START_HERE.txt: added a user-facing Point Check definition, command, explanation, and footer field so a user can see how decisions move point-by-point.
+- CLEAN_SEED_WRAP_GUIDE.txt: added the operating Point Check / Decision Validation Loop Rule, command route, master-route reference, and patch-receipt field so the assistant must run the loop during work.
+- CLEAN_SEED_ALIGNMENT_CHECK.txt: added the matching Point Check / Decision Validation Loop Check, master-rule prompt, command-map check, and footer/check prompt so the judge can verify the loop.
+
+Affected-area map:
+- README key terms: changed, added Point check definition.
+- README commands: changed, added Point check command.
+- README proof/footer behavior: changed, added point-check reporting field.
+- Wrap Guide operating rules: changed, added Point Check / Decision Validation Loop Rule.
+- Wrap Guide command routing: changed, added Point check route.
+- Wrap Guide patch receipt: changed, added point-check reporting field.
+- Alignment Check master-rule routing: changed, added Point Check prompt.
+- Alignment Check command mapping: changed, added point-check route validation.
+- Alignment Check verification: changed, added matching check.
+- Active startup pack count: unchanged/not affected; still three guide files only.
+- Receipt/proof artifact role: unchanged/not affected; receipt remains proof/history, not active guide file.
+
+What changed:
+- Installed Point Check / Decision Validation Loop across README, Wrap Guide, and Alignment Check.
+- Updated package patch ID across all three active files.
+
+What good milk stayed protected:
+- Three-file package boundary.
+- Done is not PASS.
+- Evidence before repair.
+- User approval/authority boundary.
+- Patch receipt and CYA proof path.
+
+Dirty milk removed / blocked:
+- Moving forward because something "seems" verified.
+- Reporting what changed without point-by-point validation.
+- Letting later decisions depend on earlier unclosed points.
+
+Post-save verification:
+- Patch ID synced across all three active files.
+- Required Point Check markers found in README, Wrap Guide, and Alignment Check.
+- SHA256 hashes recorded below.
+
+Hashes:
+- README_START_HERE.txt: 0c02d99209c9886ed88890788fcedf929efce629a746cb1d190475d53354009b
+- CLEAN_SEED_WRAP_GUIDE.txt: 430868710ca8b5bb3bdb071753363a92a6e3a377cc8fca2dba8b258b31a8d37e
+- CLEAN_SEED_ALIGNMENT_CHECK.txt: 78095f122ee451195a006227c8f08aa8322e82e810ed03e7a21df17e736a3357
+
+Backup folder:
+- /mnt/data/clean_seed_backups_2026_05_08_point_check_decision_loop
+
+Direction verdict:
+- PASS. The patch moves in the correct direction because it closes the exact method gap named by the user: decisions must move through checked points with what/when/where/why/how, available action, taken action, effect, evidence, verdict, and next path before later conclusions depend on them.
+
+Remaining unknowns:
+- Full Deep Clean has not been run after this patch. It is needed only if final lock, public handoff, shared package update, promotion, or full package trust is the active target.
+
+Final verdict:
+- PASS WITH GUARDRAILS for targeted patch. Guardrail: run affected-scope review / Deep Clean before final distribution.
+
+Next clean state:
+- Use the three updated guide files as the active package; keep this receipt separately as proof/history.

@@ -1,0 +1,104 @@
+PROJECT KNOWLEDGE STACK DRAFT 1D — EXISTING FOLDER DECISION NOTE 20260510
+
+Status:
+Proof-history-only decision evidence.
+Not active guide doctrine.
+Not current truth.
+Not cleanup authority.
+Not folder-creation approval.
+Not deletion approval.
+Not promotion approval.
+Not Project Source.
+
+Purpose:
+Preserve the independent review decision about how to move forward with the Project Knowledge Stack without creating new folder mess.
+
+Evidence basis:
+1. PROJECT_KNOWLEDGE_STACK_DRAFT_1B_REFINED_MODEL_20260510.txt
+2. PROJECT_KNOWLEDGE_STACK_DRAFT_1C_FOLDER_FILE_SPLIT_PROPOSAL_20260510.txt
+3. Controlled worker review: EXISTING FOLDER STRUCTURE DECISION — REVIEW ONLY
+4. User correction: there is already a designated folder for this work; do not create more folder mess.
+
+Independent worker finding:
+Draft 1B is stronger for process.
+Draft 1C is stronger for file/folder restraint.
+Best route is a blend:
+- use Draft 1B for process behavior
+- use Draft 1C for physical-structure restraint
+- use the existing designated folder
+- do not create a new project root by default
+
+Existing-folder decision:
+The existing designated folder must be identified and used before any grow/build action.
+New folder creation is blocked by default.
+Any future folder creation requires explicit user approval, proven volume, and clean route evidence.
+
+Structure decision:
+Start with files, sections, indexes, and templates first.
+Folders come later only if real volume proves they are needed.
+
+Possible future folders only after approval:
+SIDE_EVIDENCE
+IDEAS_PARKING_REST
+BLOCKED_QUARANTINED
+SOURCE_ORE
+SORTED_PILES only later if temporary piles become too large for sections
+
+Must remain files, sections, or templates at first:
+00_FRONT_DOOR
+01_CURRENT_CONDUCT
+02_ACTIVE_TARGETS
+06_CLEAN_MERGE_PLATE
+07_BRIDGES
+08_REST_STOPS
+09_PARKING
+99_MASTER_INDEX
+Controlled drift records unless volume proves otherwise
+
+Not active truth by identity:
+Draft 1B
+Draft 1C
+Draft 1D
+the existing designated folder
+future mission-control files
+master indexes
+bridge tickets
+controlled drift notes
+sidecar evidence
+OldSchool/source-ore
+proof-history files
+
+Duplicate-truth boundary:
+CURRENT_TRUTH_INDEX.txt remains package truth.
+PROJECT_MISSION_CONTROL_INDEX.txt, if later approved, may be a project-stack front door only.
+PROJECT_KNOWLEDGE_STACK_MASTER_INDEX.txt, if later approved, may index stack contents only.
+Neither may replace CURRENT_TRUTH_INDEX.txt.
+
+Private copy boundary:
+A separate private copy may exist as a vault/reference backup only.
+It is not active truth.
+It is not Project Source.
+It is not CURRENT_TRUTH_INDEX.
+It is not worker input unless explicitly approved later.
+
+Blocked by this decision:
+Creating a new project root.
+Creating folders by default.
+Editing ACTIVE_GUIDES.
+Editing CURRENT_TRUTH_INDEX.
+Moving files.
+Deleting files.
+Renaming files.
+Overwriting files.
+Running scripts.
+Executing shortcuts.
+Extracting zips.
+Promoting proof-history material into active truth.
+
+Verdict:
+PASS — independent review agrees with blended direction and existing-folder restraint.
+
+Next clean action:
+Identify/confirm the existing designated folder path before any grow/build plan.
+Then make any future plan fit that existing folder.
+Do not create physical structure until explicitly approved.

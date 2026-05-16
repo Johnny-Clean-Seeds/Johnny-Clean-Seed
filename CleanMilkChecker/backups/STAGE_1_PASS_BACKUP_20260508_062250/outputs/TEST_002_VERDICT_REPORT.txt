@@ -1,0 +1,60 @@
+﻿CLEAN MILK CHECK REPORT
+
+Input checked:
+C:\CleanSeedsBuild\CleanMilkChecker\inputs\TEST_002_DIRTY_BLOATED_SEED_CARD.txt
+
+Verdict:
+FAIL
+
+What passed:
+The input has a name and attempts to describe a mission.
+
+What failed:
+The mission is too broad.
+The home is not named.
+The route is vague.
+The evidence path is fake.
+Done and PASS are blurred.
+The failure path is too weak.
+The recovery path is too weak.
+The authority boundary leaks control.
+The Does-Not-Do / Out-of-Bounds field is missing.
+The parking lane is rejected.
+The promotion rule allows uncontrolled growth.
+The close condition is subjective.
+
+Dirty milk:
+The bot is allowed to do anything useful without a clear boundary.
+The input says the assistant will know if it worked instead of naming evidence.
+The input lets growth happen whenever features seem useful.
+The input treats feeling complete as a close condition.
+
+Bloat:
+The mission tries to build every kind of AI helper at once.
+It includes file management, decision-making, project fixing, code running, agent creation, folder inspection, and general judgment in one seed.
+
+Missing evidence:
+No real evidence path.
+No output location.
+No pass judge.
+No proof requirement.
+No failure evidence capture.
+
+Authority issues:
+The bot can change files, run commands, create helpers, and make decisions without named approval boundaries.
+
+Done/PASS issues:
+Done means finished.
+PASS means seems good.
+That is dirty because PASS requires evidence, not vibes.
+
+Failure/recovery issues:
+Failure says try again.
+Recovery says start over.
+Neither preserves evidence or names a safe next state.
+
+Next clean state:
+Reject this as a starter seed. Reduce it to one bounded checker route before any building, file editing, command running, helper creation, or promotion.
+
+Smallest clean next action:
+Rewrite the mission as a narrow checker that judges one supplied input and outputs one verdict report.
