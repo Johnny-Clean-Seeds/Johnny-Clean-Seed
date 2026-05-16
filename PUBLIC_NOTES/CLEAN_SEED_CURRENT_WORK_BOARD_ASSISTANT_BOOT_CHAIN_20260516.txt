@@ -1,0 +1,106 @@
+CLEAN SEED — CURRENT WORK BOARD
+Assistant Boot Chain Current State Pointer
+Created: 2026-05-16
+Status: current work board / assistant entry pointer
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+CURRENT PRIORITY
+Use the proven assistant boot chain as the current work entry.
+
+This board is for assistant work routing, not public marketing.
+
+FIRST OPEN
+1. CLEAN_SEED_ASSISTANT_BOOT_COMMAND_CURRENT_WORK_POINTER_20260516.txt
+2. CLEAN_SEED_ASSISTANT_BOOT_POINTER_FRESH_USE_TEST_VERDICT_20260516.txt
+3. CLEAN_SEED_ASSISTANT_READ_WORK_ENTRY_CARD_20260516.txt only if more entry boundary is needed
+
+CURRENT PROVEN STATE
+Run 021:
+Assistant Entry Card fresh work test passed with boundary.
+
+Run 024:
+Assistant Boot Pointer fresh use test passed with boundary.
+
+Meaning:
+A fresh assistant can be pointed to the doorway/boot chain and identify:
+- active gate
+- first open
+- allowed next action
+- blocked actions
+- pause conditions
+- proof needed before PASS
+- local/public boundary
+- public-codename boundary
+- clean continuation boundary
+- failure conditions
+
+CURRENT BLOCKED LANES
+Do not start cleanup.
+Do not delete files.
+Do not move files.
+Do not overwrite files.
+Do not install doctrine.
+Do not rewrite active guides.
+Do not publish superseded drafts.
+Do not treat public files as local truth.
+Do not treat public names as command keys.
+
+PUBLIC CODENAME BOUNDARY
+Names guide thinking.
+Names cannot modify the system.
+
+LOCAL VS PUBLIC BOUNDARY
+Public GitHub files show public state and public proof trail.
+They do not prove current local machine truth.
+
+Local truth still needs:
+- exact path
+- file hash
+- PowerShell output
+- local receipt
+- user approval where needed
+- remote check when publishing
+
+WHAT THE ASSISTANT MAY DO NEXT
+The assistant may create bounded proof-history/review material when:
+- active target is clear
+- scope is bounded
+- no cleanup/deletion/move/overwrite is involved
+- no active-guide install is involved
+- no doctrine promotion is involved
+- no local truth is claimed without proof
+
+The assistant may prepare publish scripts after files are created and hashes are known.
+
+WHEN THE ASSISTANT MUST PAUSE
+Pause for:
+- cleanup
+- deletion
+- moving files
+- overwriting files
+- doctrine install
+- active-guide rewrite
+- local truth uncertainty
+- user judgment fork
+- publishing through local Git
+- insufficient evidence
+- report-treadmill risk
+
+CURRENT NEXT GATE
+Run 027:
+Next Real Work Gate After Board Refresh.
+
+Purpose:
+Choose the next real work lane using the now-current assistant boot-chain board.
+
+Candidate lanes:
+- practical local project work packet
+- parking-system operating surface
+- assistant-use packet for daily work
+- stop/seal milestone
+- other candidate if proven stronger
+
+CLEAN LINE
+The boot chain works.
+This board points to the proven route.
+Next choose the real work lane, not another entry test by momentum.

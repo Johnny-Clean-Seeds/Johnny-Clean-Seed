@@ -1,0 +1,60 @@
+CLEAN SEED — CURRENT WORK SELECTION AFTER BOOT CHAIN PASS
+Created: 2026-05-16
+Status: current-work selection / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+ACTIVE QUESTION
+After the assistant entry/boot chain passed, what is the next real work item?
+
+VERDICT
+Create a tiny Current Work Board Refresh / Assistant Boot Chain Current State Pointer.
+
+STATUS
+PASS WITH BOUNDARY.
+
+WHY THIS ROUTE WON
+The assistant entry/boot chain now works with boundary.
+
+The newest proof is:
+- Run 021 passed the Assistant Entry Card fresh work test.
+- Run 024 passed the Assistant Boot Pointer fresh use test.
+
+But the current public work surface can become stale if it does not point at the newest proven route.
+
+The next real bottleneck is current-state synchronization, not more theory.
+
+WHAT TO CREATE NEXT
+Run 026 should create one small current-state file that says:
+
+- Current assistant entry route
+- Current proven boot chain
+- Current blocked lanes
+- Current next gate
+- What the assistant may do next
+- When the assistant must pause
+
+WHAT NOT TO CREATE
+Do not create a giant recap.
+Do not rewrite active guides.
+Do not install doctrine.
+Do not start cleanup.
+Do not claim local truth from public notes.
+Do not make fighter names command keys.
+
+WHY NOT LOCAL BUILDOUT YET
+Local buildout is important, but starting it before the public/current work surface is synchronized risks future assistant confusion.
+
+WHY NOT MORE ENTRY TESTS
+The entry/boot chain has enough prompted fresh-use proof.
+More entry tests now risk test treadmill.
+
+WHY NOT STOP
+Stopping is safe, but it leaves the current work surface behind the proven boot chain.
+
+NEXT CLEAN GATE
+Run 026:
+Current Work Board Refresh / Assistant Boot Chain Current State Pointer.
+
+CLEAN LINE
+The boot chain works.
+Now update the current work surface so future assistants enter through the proven route, not stale state.

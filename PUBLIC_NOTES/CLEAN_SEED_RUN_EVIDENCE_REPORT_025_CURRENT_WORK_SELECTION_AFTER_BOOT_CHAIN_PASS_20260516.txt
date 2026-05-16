@@ -1,0 +1,139 @@
+CLEAN SEED — RUN EVIDENCE REPORT 025
+Current Work Selection After Boot Chain PASS
+Created: 2026-05-16
+Status: current-work selection / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+RUN NAME
+RUN_025_CURRENT_WORK_SELECTION_AFTER_BOOT_CHAIN_PASS
+
+WHY THIS RUN EXISTS
+Runs 019 through 024 created and tested the assistant entry/boot chain.
+
+The chain now has:
+- Assistant Read-and-Work Entry Card
+- Assistant Entry Card Fresh Work Test Packet
+- Assistant Entry Card Fresh Work Test Verdict
+- Assistant Boot Command / Current Work Pointer
+- Assistant Boot Pointer Fresh Use Test Packet
+- Assistant Boot Pointer Fresh Use Test Verdict
+
+Run 024 passed with boundary.
+That means the assistant can enter, route, preserve blocked lanes, and identify what proof is needed before PASS.
+
+The next move should not be another entry test by momentum.
+The next move should choose the next real work item.
+
+ACTIVE QUESTION
+After the assistant entry/boot chain passed, what is the next real work item?
+
+ANSWER
+Refresh the current public work pointer / board so the assistant has one current state file that points to the proven boot chain and says what to do next.
+
+BEST NEXT WORK ITEM
+Create a current work board refresh that points to:
+1. Assistant Boot Command / Current Work Pointer
+2. Assistant Boot Pointer Fresh Use Test Verdict
+3. Current next work choice
+
+WHY THIS WINS
+The boot chain works, but the public board/front-desk state is now behind the newest proof.
+
+If a fresh assistant enters from older public files, it may not immediately know that the boot chain has passed through Run 024.
+
+The current bottleneck is not more theory.
+The current bottleneck is current-state synchronization.
+
+ORDERED SELECTION
+
+CENTRAL PARKING
+Claim:
+The field has many proof files. The current state needs one updated board/current-work pointer so the newest state is not buried.
+
+Preferred route:
+Board/current-work refresh.
+
+WEAKEST-LINK
+Claim:
+The weakest link is stale route surface. Runs 019-024 are proven, but older board/front-desk files do not yet point at the new assistant boot chain as the current working entry.
+
+Preferred route:
+Refresh the current work board.
+
+JOKER
+Outside challenger:
+Skip public board refresh and return to local project buildout immediately.
+
+Value:
+Local work is the deeper purpose.
+
+Risk:
+Without current-state sync, future assistants may start from old doorway files and miss the current boot chain.
+
+STING
+Attack:
+A board refresh can become paperwork.
+It is only justified if it reduces route confusion and does not expand into a giant recap.
+
+STING condition:
+Make it tiny. Current state only. No full proof-stack retelling.
+
+SHADOW VICTOR
+Outside truth:
+The next real move could be to stop and let the chain rest, but the state surface would remain stale.
+
+Shadow finding:
+A tiny current-work board refresh beats both more theory and immediate local buildout.
+
+JUDGE VERDICT
+Winner:
+Current Work Board Refresh / Assistant Boot Chain Current State Pointer.
+
+Status:
+PASS WITH BOUNDARY.
+
+BOUNDARY
+The refresh must:
+- be small
+- point to current entry files
+- name Run 024 PASS WITH BOUNDARY
+- name current next gate
+- avoid retelling the proof stack
+- not install doctrine
+- not approve cleanup
+- not claim local truth
+- not make public names command authority
+
+WHAT THIS RUN PROVES
+Run 025 proves the next real work item after boot-chain PASS is not another fresh entry test.
+It is a current-state board refresh that makes the boot chain findable as the active assistant work entry.
+
+WHAT THIS RUN DOES NOT PROVE
+It does not create the refreshed board yet.
+It does not publish anything.
+It does not install doctrine.
+It does not approve cleanup.
+It does not start local project cleanup or buildout.
+
+OUTPUT CREATED
+CLEAN_SEED_CURRENT_WORK_SELECTION_AFTER_BOOT_CHAIN_PASS_20260516.txt
+
+NEXT CLEAN ACTION
+Run 026:
+Create the tiny Current Work Board Refresh / Assistant Boot Chain Current State Pointer.
+
+Hard boundaries:
+- one small current-state file
+- no giant recap
+- no cleanup
+- no active-guide install
+- no doctrine promotion
+- names are labels, not command keys
+- public files are not local truth
+
+CLOSE VERDICT
+PASS WITH BOUNDARY.
+
+Clean line:
+The boot chain works.
+Now update the current work surface so future assistants enter through the proven route, not stale state.
