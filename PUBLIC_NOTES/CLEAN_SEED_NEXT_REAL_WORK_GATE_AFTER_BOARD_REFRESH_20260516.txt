@@ -1,0 +1,54 @@
+CLEAN SEED — NEXT REAL WORK GATE AFTER BOARD REFRESH
+Created: 2026-05-16
+Status: next-real-work selection / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+ACTIVE QUESTION
+After the current work board refresh, what is the next real work lane?
+
+VERDICT
+Run 028 should create a Practical Local Work Re-entry Packet.
+
+STATUS
+PASS WITH BOUNDARY.
+
+WHY THIS IS NEXT
+The public assistant doorway works.
+The boot pointer works.
+The current board now points to the proven boot chain.
+
+The next bottleneck is the bridge back into practical local work.
+
+The assistant needs one small packet that says how to re-enter local project work without confusing public proof with local truth.
+
+WHAT RUN 028 SHOULD CREATE
+A small Practical Local Work Re-entry Packet that tells the assistant:
+
+- public GitHub files are access/proof trail only
+- local truth needs local proof
+- do not start cleanup
+- do not delete, move, or overwrite
+- do not rewrite active guides
+- do not install doctrine
+- ask for the smallest local proof needed
+- work one practical target at a time
+- before publishing, state Publish intent: X files and list exact filenames
+
+WHY NOT ANOTHER ENTRY TEST
+Runs 021 and 024 already passed prompted fresh-use tests with boundary.
+Another entry test now risks test treadmill.
+
+WHY NOT CLEANUP
+Cleanup remains blocked unless separately approved with exact scope and proof.
+
+WHY NOT ACTIVE-GUIDE INSTALL
+The current work is proof-history and public routing.
+Active-guide install is a separate authority decision.
+
+NEXT CLEAN GATE
+Run 028:
+Practical Local Work Re-entry Packet.
+
+CLEAN LINE
+The public doorway is synchronized.
+Now build the small bridge back to practical local work.

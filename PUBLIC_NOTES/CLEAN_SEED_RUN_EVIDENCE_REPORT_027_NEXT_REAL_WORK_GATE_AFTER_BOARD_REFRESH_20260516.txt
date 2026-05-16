@@ -1,0 +1,142 @@
+CLEAN SEED — RUN EVIDENCE REPORT 027
+Next Real Work Gate After Board Refresh
+Created: 2026-05-16
+Status: next-real-work selection / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+RUN NAME
+RUN_027_NEXT_REAL_WORK_GATE_AFTER_BOARD_REFRESH
+
+WHY THIS RUN EXISTS
+Runs 025 and 026 selected and published a current work board refresh.
+
+The assistant entry/boot chain now has a current public work surface.
+The next move should not be another doorway test or another public-board refresh by momentum.
+
+ACTIVE QUESTION
+After the board refresh, what is the next real work lane?
+
+ANSWER
+Create a small Practical Local Work Re-entry Packet.
+
+BEST NEXT WORK ITEM
+Run 028:
+Practical Local Work Re-entry Packet.
+
+Purpose:
+Give the assistant a clean way to move from public doorway/proof state back into actual local project work without treating public files as local truth.
+
+WHY THIS WINS
+The public assistant doorway now works.
+The current board now points to the proven boot chain.
+The next real bottleneck is not discovery; it is safe transition back into practical work.
+
+A local work re-entry packet should tell the assistant:
+- public files are only access/proof trail
+- local truth must be proven by user-returned path/hash/output
+- do not start cleanup
+- do not edit active guides
+- do not create doctrine
+- ask for or use the smallest local proof needed
+- choose one practical target at a time
+
+CANDIDATE LANES REVIEWED
+
+1. PRACTICAL LOCAL PROJECT WORK PACKET
+Verdict:
+BEST NEXT.
+
+Reason:
+It connects the public assistant doorway to real project work while preserving local/public boundary.
+
+Risk:
+Could accidentally become cleanup/buildout authority.
+
+Control:
+Make it re-entry guidance only. No cleanup approval. No file operations.
+
+2. PARKING-SYSTEM OPERATING SURFACE
+Verdict:
+Useful but second.
+
+Reason:
+Important for idea management, but not the immediate bottleneck after boot-chain publication.
+
+3. ASSISTANT-USE PACKET FOR DAILY WORK
+Verdict:
+Overlaps with Practical Local Work Re-entry Packet.
+
+Reason:
+Can be folded into the local re-entry packet without making a separate lane yet.
+
+4. STOP/SEAL MILESTONE
+Verdict:
+Safe but premature.
+
+Reason:
+The public doorway is synchronized, but the practical bridge back to local work is still missing.
+
+5. MORE ENTRY TESTS
+Verdict:
+Blocked by risk of test treadmill.
+
+Reason:
+Runs 021 and 024 already provide prompted fresh-use proof.
+
+STING CHECK
+Possible flaw:
+A local re-entry packet could become too broad and start pretending to control the local machine.
+
+Correction:
+It must be short and boundary-based. It can tell the assistant how to ask for local proof, not claim local proof.
+
+SHADOW VICTOR CHECK
+Possible outside truth:
+The real missing piece may be not a file, but a habit:
+Before every local action, state publish/action intent and exact file count or target count.
+
+Finding:
+That belongs in the re-entry packet as an operating instruction.
+
+JUDGE VERDICT
+Winner:
+Run 028 — Practical Local Work Re-entry Packet.
+
+Status:
+PASS WITH BOUNDARY.
+
+BOUNDARY
+Run 028 must:
+- be small
+- not start local work
+- not approve cleanup
+- not install doctrine
+- not rewrite active guides
+- not claim local truth
+- preserve publish-intent file count rule
+- name proof needed before local PASS
+- route the assistant to one practical target at a time
+
+WHAT THIS RUN PROVES
+Run 027 proves the next real lane after board refresh is practical local re-entry, not another entry test.
+
+WHAT THIS RUN DOES NOT PROVE
+It does not create the packet yet.
+It does not start local project work.
+It does not approve cleanup.
+It does not install doctrine.
+It does not prove local file truth.
+
+OUTPUT CREATED
+CLEAN_SEED_NEXT_REAL_WORK_GATE_AFTER_BOARD_REFRESH_20260516.txt
+
+NEXT CLEAN ACTION
+Run 028:
+Create the Practical Local Work Re-entry Packet.
+
+CLOSE VERDICT
+PASS WITH BOUNDARY.
+
+Clean line:
+The public doorway is synchronized.
+Now build the small bridge back to practical local work.

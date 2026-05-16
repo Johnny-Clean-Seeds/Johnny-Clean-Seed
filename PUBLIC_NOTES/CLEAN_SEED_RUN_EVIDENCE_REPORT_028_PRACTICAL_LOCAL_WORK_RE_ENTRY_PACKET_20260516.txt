@@ -1,0 +1,91 @@
+CLEAN SEED — RUN EVIDENCE REPORT 028
+Practical Local Work Re-entry Packet
+Created: 2026-05-16
+Status: local-work re-entry guidance / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+RUN NAME
+RUN_028_PRACTICAL_LOCAL_WORK_RE_ENTRY_PACKET
+
+WHY THIS RUN EXISTS
+Run 027 selected the next real work lane after the public assistant doorway and current board were synchronized.
+
+Verdict from Run 027:
+Create a Practical Local Work Re-entry Packet.
+
+The purpose is to let the assistant move from public proof/doorway state back toward practical local project work without confusing public files with local truth.
+
+ACTIVE QUESTION
+Can we create a small local-work re-entry packet that preserves boundaries and avoids starting cleanup or claiming local truth?
+
+ANSWER
+Yes.
+
+This run creates:
+CLEAN_SEED_PRACTICAL_LOCAL_WORK_RE_ENTRY_PACKET_20260516.txt
+
+SCOPE
+Allowed:
+- create one small practical local-work re-entry packet
+- state local/public boundary
+- state proof needed before local PASS
+- state blocked actions
+- state one-target-at-a-time local work behavior
+- state publish-intent file count rule
+
+Blocked:
+- cleanup
+- deletion
+- move/overwrite
+- active-guide install
+- doctrine promotion
+- local truth claim from public files
+- public name as command key
+- starting local work without a local proof return
+- broad local scan without need
+
+WHY THIS PACKET IS NEEDED
+The public assistant doorway now works.
+The current public board points to the proven boot chain.
+The next risk is an assistant treating public proof as authority to act locally.
+
+This packet says:
+Public files can guide the route.
+Local truth must be proven locally.
+
+WHAT THIS RUN PROVES
+Run 028 proves a small Practical Local Work Re-entry Packet exists.
+
+WHAT THIS RUN DOES NOT PROVE
+It does not start local project work.
+It does not approve cleanup.
+It does not install doctrine.
+It does not rewrite active guides.
+It does not prove current local file truth.
+It does not publish itself.
+
+OUTPUT CREATED
+CLEAN_SEED_PRACTICAL_LOCAL_WORK_RE_ENTRY_PACKET_20260516.txt
+
+BATCH PUBLISH PLAN
+Publish intent after Run 028:
+4 files total.
+
+1. CLEAN_SEED_RUN_EVIDENCE_REPORT_027_NEXT_REAL_WORK_GATE_AFTER_BOARD_REFRESH_20260516.txt
+2. CLEAN_SEED_NEXT_REAL_WORK_GATE_AFTER_BOARD_REFRESH_20260516.txt
+3. CLEAN_SEED_RUN_EVIDENCE_REPORT_028_PRACTICAL_LOCAL_WORK_RE_ENTRY_PACKET_20260516.txt
+4. CLEAN_SEED_PRACTICAL_LOCAL_WORK_RE_ENTRY_PACKET_20260516.txt
+
+NEXT CLEAN ACTION
+Publish Runs 027 and 028 together as a 4-file batch.
+
+After publishing:
+Use the Practical Local Work Re-entry Packet to choose one small local target only after local proof is returned.
+
+CLOSE VERDICT
+PASS WITH BOUNDARY.
+
+Clean line:
+Public proof can guide the route.
+Local work needs local proof.
+One target at a time.

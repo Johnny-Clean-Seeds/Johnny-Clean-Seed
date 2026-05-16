@@ -1,0 +1,92 @@
+CLEAN SEED — PRACTICAL LOCAL WORK RE-ENTRY PACKET
+Created: 2026-05-16
+Status: local-work re-entry guidance
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+PURPOSE
+Use this packet when moving from public assistant doorway/proof state back toward practical local project work.
+
+PUBLIC VS LOCAL RULE
+Public GitHub files are access, route, and proof trail.
+They are not current local machine truth.
+
+Local truth needs local evidence:
+- exact path
+- file hash when relevant
+- PowerShell output
+- local receipt when relevant
+- user approval where required
+- remote check when publishing
+
+CURRENT ASSISTANT ENTRY ROUTE
+Use the public doorway/boot chain as the assistant route:
+
+1. CLEAN_SEED_CURRENT_WORK_BOARD_ASSISTANT_BOOT_CHAIN_20260516.txt
+2. CLEAN_SEED_ASSISTANT_BOOT_COMMAND_CURRENT_WORK_POINTER_20260516.txt
+3. CLEAN_SEED_ASSISTANT_BOOT_POINTER_FRESH_USE_TEST_VERDICT_20260516.txt
+4. This re-entry packet when local work is being considered
+
+WHAT THE ASSISTANT MAY DO
+The assistant may help choose one practical local target when:
+- active target is clear
+- scope is bounded
+- local proof is returned or requested
+- no cleanup/deletion/move/overwrite is involved
+- no active-guide install is involved
+- no doctrine promotion is involved
+
+The assistant may prepare one small PowerShell check when proof is needed.
+
+WHAT THE ASSISTANT MUST NOT DO
+Do not start cleanup.
+Do not delete files.
+Do not move files.
+Do not overwrite files.
+Do not install doctrine.
+Do not rewrite active guides.
+Do not claim local truth from public notes.
+Do not run broad scans by default.
+Do not treat public names as command keys.
+Do not work several local targets at once unless the user explicitly approves the batch.
+
+ONE-TARGET RULE
+Pick one practical local target.
+Name the target.
+Name the proof needed.
+Run or ask for the smallest proof command.
+Judge the returned proof.
+Then choose the next target.
+
+PUBLISH INTENT RULE
+Before every publish script, state:
+
+Publish intent: X files
+
+Then list the exact filenames.
+
+If the count or filenames do not match the user’s expectation, stop and correct before Git touches anything.
+
+PAUSE CONDITIONS
+Pause for:
+- cleanup
+- deletion
+- moving files
+- overwriting files
+- doctrine install
+- active-guide rewrite
+- local truth uncertainty
+- user judgment fork
+- publishing through local Git
+- insufficient evidence
+- report treadmill risk
+- mismatch between intended publish count and actual file list
+
+NEXT CLEAN MOVE
+After this packet is published, choose one practical local target.
+
+Do not start with cleanup unless the user explicitly approves exact cleanup scope.
+
+CLEAN LINE
+Public proof can guide the route.
+Local work needs local proof.
+One target at a time.
