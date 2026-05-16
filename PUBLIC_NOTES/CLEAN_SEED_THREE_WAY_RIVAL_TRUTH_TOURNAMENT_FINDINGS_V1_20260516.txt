@@ -1,0 +1,161 @@
+CLEAN SEED — THREE-WAY RIVAL TRUTH TOURNAMENT FINDINGS V1
+Created: 2026-05-16
+Status: tri-rival findings / adversarial engine check / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+TARGET UNDER TEST
+CLEAN_SEED_CENTRAL_PARKING_NEXT_NEEDED_ENGINE_V1_20260516.txt
+
+WHY THIS EXISTS
+The first rival challenge used two models:
+Central Parking and Weakest-Link.
+
+That was useful, but not enough.
+
+A third adversarial force is needed to attack false harmony, hidden assumptions, and clean-looking wrong frames.
+
+THREE COMPETITORS
+
+1. CENTRAL PARKING / NEXT-NEEDED ENGINE
+Job:
+Park ideas, center one concept, predict the next need, choose and verify runs.
+
+Strength:
+Prevents idea loss and old-chat overload.
+
+Risk:
+Can organize too much and mistake clean placement for progress.
+
+2. WEAKEST-LINK / CONSTRAINT ENGINE
+Job:
+Find the active bottleneck and relieve it with the smallest move.
+
+Strength:
+Prevents organized drift.
+
+Risk:
+Can become too narrow and miss valuable ideas outside the current bottleneck.
+
+3. STING / CONTRADICTION HAMMER ENGINE
+Job:
+Attack assumptions, expose contradictions, reject false winners, and force proof.
+
+Strength:
+Prevents false certainty and comfortable synthesis.
+
+Risk:
+Can become over-skeptical, destructive, or paralyzing if not bounded.
+
+STING CORE QUESTIONS
+- What if all competitors are wrong?
+- What contradiction is being avoided?
+- What hidden assumption makes the winner look good?
+- What would disprove this whole frame?
+- Is the winner true, or only useful?
+- What truth exists outside the offered options?
+- What evidence would force the Judge to reject every contestant?
+
+THE JUDGE
+The Judge is not a contestant.
+
+The Judge controls:
+- target question
+- proof standard
+- disproof standard
+- scope
+- evidence coverage
+- verdict
+- next gate
+
+THE JUDGE MAY CHOOSE
+- Central Parking
+- Weakest-Link
+- STING
+- hybrid
+- none of the above
+- truth outside the current field
+- more evidence needed
+- wrong question / invalid field
+
+CAPITAL-K KNOWING STANDARD
+The Judge Knows only when:
+- the active question is named
+- the proof standard is named
+- disproof conditions are named
+- all competitors were allowed to attack
+- hidden assumptions were surfaced
+- the chosen result answers the strongest objections
+- the result predicts the next needed move
+- the result survives verification
+- public/local truth boundaries remain intact
+- user approval and evidence agree
+
+If not, the Judge does not Know.
+The Judge suspects, tests, or yields.
+
+FINDINGS
+
+Finding 1:
+Central Parking is necessary but can become organized drift.
+
+Finding 2:
+Weakest-Link is necessary but can become narrow bottleneck obsession.
+
+Finding 3:
+STING is necessary to expose false-frame victory.
+
+Finding 4:
+The true answer may not be one of the competitors.
+
+Finding 5:
+The tournament must include a none-of-the-above verdict.
+
+Finding 6:
+A model can be useful without being true enough to drive.
+
+Finding 7:
+The Judge must not reward confidence, elegance, or neatness without disproof survival.
+
+REQUIRED ENGINE V1.1 UPGRADE
+Add these gates:
+
+1. Rival Challenger Gate
+Before choosing a run, ask what another model would choose.
+
+2. Constraint-Relief Score
+Score whether the candidate removes the active bottleneck.
+
+3. STING Contradiction Strike
+Attack the hidden assumption and name what could disprove the frame.
+
+4. None-of-the-Above Option
+The Judge may reject all competitors.
+
+5. Judge Proof Standard
+No verdict without target, evidence, disproof, and boundary.
+
+6. Stop / Do-Nothing Candidate
+Every tournament must include stopping, waiting, or using existing artifacts.
+
+7. Live Verification Requirement
+A winner is not trusted until it survives use.
+
+BEST COMBINED MODEL
+Central Parking preserves the field.
+Weakest-Link finds the bottleneck.
+STING attacks false certainty.
+Judge selects by proof, not by style.
+
+RECOMMENDED NEXT RUN
+RUN_014_ENGINE_V1_1_TRI_RIVAL_REFINEMENT
+
+Purpose:
+Revise Engine V1 into Engine V1.1 using the tri-rival findings.
+
+Do not live-test Engine V1 alone yet.
+
+CLEAN LINE
+Central Parking preserves the field.
+Weakest-Link finds the bottleneck.
+STING strikes false certainty.
+The Judge seeks truth, not contestant victory.
