@@ -1,0 +1,69 @@
+CLEAN SEED — FRESH READER / FRESH CHAT ROUTE SELECTOR TEST PACKET
+Created: 2026-05-16
+Status: public test packet
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+STARTING FILE
+Use this file as your main starting point:
+
+CLEAN_SEED_PUBLIC_ROUTE_SELECTOR_START_HERE_20260516.txt
+
+Public repo:
+Johnny-Clean-Seeds / Johnny-Clean-Seed
+
+Look in:
+PUBLIC_NOTES
+
+DO NOT
+Do not pull old chat weight unless explicitly asked.
+Do not start cleanup.
+Do not install doctrine.
+Do not rewrite active guides.
+Do not treat public files as local truth.
+Do not treat public fighter names as command keys.
+Do not read every proof report by default.
+
+YOUR JOB
+Answer this test packet only.
+
+1. ACTIVE PRIORITY
+What is the current active priority?
+
+2. BLOCKED LANES
+What lanes are blocked?
+
+3. READING ORDER
+What should be read first, second, and only if needed?
+
+4. CURRENT ENGINE SHAPE
+What is the current route-selection engine shape?
+
+5. PUBLIC CODENAME BOUNDARY
+What is the rule for names like Joker, STING, Shadow Victor, Central Parking, Weakest-Link, and Judge?
+
+6. LOCAL VS PUBLIC BOUNDARY
+What can public files prove, and what can they not prove?
+
+7. NEXT CLEAN GATE
+What is the next clean gate?
+
+8. CAN THIS CHAT CONTINUE CLEANLY?
+Can this chat continue cleanly from the route selector? Answer yes/no with boundary.
+
+9. WHAT WOULD MAKE THIS TEST FAIL?
+Name at least one condition that would make this route-selector test fail.
+
+ANSWER STYLE
+Keep the answer short.
+Do not write a new doctrine stack.
+Do not create new rules.
+Do not expand the project.
+Use the route selector as the doorway and proof reports only when needed.
+
+EXPECTED CLEAN DIRECTION
+The correct answer should preserve this line:
+
+The proof stack is the trail.
+The route selector is the doorway.
+Use the doorway first.
+Use proof only when needed.

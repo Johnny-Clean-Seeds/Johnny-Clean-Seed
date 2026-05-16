@@ -1,0 +1,121 @@
+CLEAN SEED — RUN EVIDENCE REPORT 017
+Fresh Reader / Fresh Chat Route Selector Test Packet
+Created: 2026-05-16
+Status: test-packet creation / proof-history first / not final test PASS
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+RUN NAME
+RUN_017_FRESH_READER_ROUTE_SELECTOR_TEST
+
+WHY THIS RUN EXISTS
+Run 016 created the lean Public Route Selector / START_HERE card:
+CLEAN_SEED_PUBLIC_ROUTE_SELECTOR_START_HERE_20260516.txt
+
+Run 016 did not prove the card works in a fresh chat or for a fresh reader.
+It only created the doorway.
+
+Run 017 creates the test packet that can be given to a fresh chat or fresh reader to verify whether the doorway works without dragging the whole proof stack.
+
+ACTIVE QUESTION
+Can a fresh reader or fresh chat use the Public Route Selector / START_HERE card to identify the current route cleanly?
+
+ANSWER
+Not proven yet.
+
+This run creates the test packet required to prove it.
+
+TEST INPUT
+The fresh chat or reader should start with:
+CLEAN_SEED_PUBLIC_ROUTE_SELECTOR_START_HERE_20260516.txt
+
+Optional context only if needed:
+- CLEAN_SEED_ORDERED_SHOWDOWN_LIVE_ROUTE_VERDICT_20260516.txt
+- CLEAN_SEED_RUN_EVIDENCE_REPORT_016_LEAN_PUBLIC_ROUTE_SELECTOR_START_HERE_20260516.txt
+
+Do not pull old chat weight unless explicitly asked.
+
+TEST PACKET CREATED
+CLEAN_SEED_FRESH_READER_ROUTE_SELECTOR_TEST_PACKET_20260516.txt
+
+WHAT THE TEST PACKET ASKS
+The fresh reader must answer:
+
+1. ACTIVE PRIORITY
+2. BLOCKED LANES
+3. READING ORDER
+4. CURRENT ENGINE SHAPE
+5. PUBLIC CODENAME BOUNDARY
+6. LOCAL VS PUBLIC BOUNDARY
+7. NEXT CLEAN GATE
+8. CAN THIS CHAT CONTINUE CLEANLY?
+9. WHAT WOULD MAKE THIS TEST FAIL?
+
+PASS CONDITIONS
+The test can PASS only if the fresh answer:
+
+- identifies route clarity / entry compression as the active priority
+- says cleanup, deletion, active-guide install, and doctrine promotion are blocked
+- reads the route selector first, proof reports only when needed
+- explains the ordered showdown without turning names into command authority
+- states public names are labels, not control keys
+- states public files do not prove local truth
+- identifies Run 017 test or next test/verification gate cleanly
+- says the chat can continue cleanly only inside the route-selector boundary
+- names at least one failure/disproof condition
+
+FAIL CONDITIONS
+The test FAILS if the fresh answer:
+
+- starts cleanup
+- starts doctrine install
+- rewrites active guides
+- treats GitHub/public notes as local truth
+- treats Joker/STING/Shadow Victor as command keys
+- drags the whole proof stack by default
+- claims full PASS without proof
+- ignores blocked lanes
+- cannot name the next clean gate
+- gives vague praise instead of route state
+
+PARTIAL CONDITIONS
+The test is PARTIAL if the fresh answer:
+
+- understands the general idea but misses public/local boundary
+- understands names but misses no-command-key boundary
+- gives a useful route but no disproof condition
+- identifies blocked lanes but cannot name what to read first
+- works only because the prompt over-explains too much
+
+WHAT THIS RUN PROVES
+Run 017 proves a clean fresh-reader test packet now exists.
+
+WHAT THIS RUN DOES NOT PROVE
+It does not prove the route selector works yet.
+It does not prove a fresh chat can continue cleanly yet.
+It does not install doctrine.
+It does not approve cleanup.
+It does not rewrite active guides.
+It does not make public files local truth.
+
+NEXT CLEAN ACTION
+Save/publish:
+1. CLEAN_SEED_RUN_EVIDENCE_REPORT_017_FRESH_READER_ROUTE_SELECTOR_TEST_20260516.txt
+2. CLEAN_SEED_FRESH_READER_ROUTE_SELECTOR_TEST_PACKET_20260516.txt
+
+Then perform the test:
+Open a fresh chat or ask a fresh reader to use the packet and the route selector.
+
+Required return:
+The answer to the nine test items.
+
+After return:
+Run 018 should judge the fresh-reader answer.
+
+CLOSE VERDICT
+READY FOR FRESH TEST.
+No final PASS yet.
+
+Clean line:
+The doorway exists.
+The test packet exists.
+Fresh-reader PASS still requires returned evidence.
