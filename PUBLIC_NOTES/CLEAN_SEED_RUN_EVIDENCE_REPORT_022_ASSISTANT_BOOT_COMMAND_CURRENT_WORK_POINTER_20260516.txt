@@ -1,0 +1,96 @@
+CLEAN SEED — RUN EVIDENCE REPORT 022
+Assistant Boot Command / Current Work Pointer
+Created: 2026-05-16
+Status: assistant boot pointer / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+RUN NAME
+RUN_022_ASSISTANT_BOOT_COMMAND_CURRENT_WORK_POINTER
+
+WHY THIS RUN EXISTS
+Run 019 created the Assistant Read-and-Work Entry Card.
+Run 020 created the fresh assistant work-entry test packet.
+Run 021 judged the fresh assistant result as PASS WITH BOUNDARY.
+
+Run 021 showed the assistant can enter through the card and preserve boundaries.
+
+The remaining gap:
+After the assistant enters cleanly, it needs one tiny current-work pointer that says what to open first and what to do next.
+
+ACTIVE QUESTION
+Can we create a compact assistant boot command that tells a fresh assistant how to start work without pulling the whole proof stack?
+
+ANSWER
+Yes.
+
+Create:
+CLEAN_SEED_ASSISTANT_BOOT_COMMAND_CURRENT_WORK_POINTER_20260516.txt
+
+SCOPE
+Allowed:
+- create one compact assistant boot pointer
+- state current entry order
+- state current active gate
+- state blocked lanes
+- state allowed work behavior
+- state when to pause
+
+Blocked:
+- cleanup
+- deletion
+- moving/overwriting files
+- active-guide install
+- doctrine promotion
+- public-site redesign
+- claiming local truth from public files
+- treating names as command keys
+
+DESIGN REQUIREMENT
+This file must be shorter than the proof stack and useful as a first open file.
+
+It should answer:
+- What am I?
+- Where do I start?
+- What is the current active gate?
+- What can I do without asking?
+- When must I pause?
+- What proof do I need?
+- What is the clean line?
+
+CURRENT STATE
+Runs 001 through 021 are published.
+Run 021 passed the fresh assistant entry-card test with boundary.
+The current task is no longer proving the doorway exists.
+The current task is giving the assistant a small boot pointer for what to do after entry.
+
+BOOT POINTER CREATED
+CLEAN_SEED_ASSISTANT_BOOT_COMMAND_CURRENT_WORK_POINTER_20260516.txt
+
+WHAT THIS RUN PROVES
+Run 022 proves a compact assistant boot/current-work pointer exists.
+
+WHAT THIS RUN DOES NOT PROVE
+It does not prove a fresh assistant can use it yet.
+It does not install doctrine.
+It does not approve cleanup.
+It does not rewrite active guides.
+It does not make public files local truth.
+
+NEXT CLEAN ACTION
+Save/publish:
+1. CLEAN_SEED_RUN_EVIDENCE_REPORT_022_ASSISTANT_BOOT_COMMAND_CURRENT_WORK_POINTER_20260516.txt
+2. CLEAN_SEED_ASSISTANT_BOOT_COMMAND_CURRENT_WORK_POINTER_20260516.txt
+
+Then run:
+RUN_023_ASSISTANT_BOOT_POINTER_FRESH_USE_TEST
+
+Purpose:
+Give a fresh assistant the boot pointer and test whether it can choose the next clean work action without old-chat weight.
+
+CLOSE VERDICT
+PASS WITH BOUNDARY.
+
+Clean line:
+Entry card gets the assistant in.
+Boot pointer tells the assistant what to do next.
+Proof still decides PASS.
