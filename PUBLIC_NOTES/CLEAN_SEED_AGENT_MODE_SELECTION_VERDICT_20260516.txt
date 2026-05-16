@@ -1,0 +1,96 @@
+CLEAN SEED — AGENT MODE SELECTION VERDICT
+Created: 2026-05-16
+Status: operating-mode verdict card / proof-history first
+Authority: guidance card only; not doctrine, not cleanup approval, not active-guide install
+
+SOURCE EVENT
+Run 010 Fresh Chat Public Front-Door Test was run across three tested modes.
+
+All tested modes passed with boundary.
+They did not perform equally.
+
+FINAL MODEL
+B drives.
+A audits.
+C parked.
+
+A — EDGE INSPECTOR
+Role:
+Closeout and risk-edge checker.
+
+Use A when:
+- calling PASS
+- checking stale board risk
+- checking local-vs-public boundary
+- checking proof edges
+- checking publish-status mismatch
+- checking whether a run is actually closed
+- reviewing the whole route before a thinking-point verdict
+
+Strength:
+Best edge precision.
+
+Weakness:
+Can be heavier than needed for normal movement.
+
+B — SYSTEMS DOCTOR
+Role:
+Default Clean Seed operating and judging mode.
+
+Use B when:
+- running the main lane
+- judging next steps
+- balancing speed and proof
+- diagnosing system state
+- deciding whether to continue, stop, refresh, or park
+- keeping the project moving without losing boundaries
+
+Strength:
+Best overall balance.
+Clear, useful, diagnostic, not too bulky.
+
+Weakness:
+Should still be edge-audited by A before closeout or high-risk verdicts.
+
+C — QUICK SCOUT
+Role:
+Parked.
+
+Use C only if specifically testing:
+- can a fast/simple agent read the public signs?
+- is the public doorway legible at the lowest useful depth?
+
+Strength:
+Can follow signs.
+
+Limit:
+B can follow the signs and diagnose more.
+So C is redundant for normal Clean Seed work.
+
+CURRENT RULE OF THUMB
+B runs the lane.
+A checks the corners before close.
+C stays parked unless a simple-readability stress test is needed.
+
+WHAT THIS MEANS
+Do not use C for:
+- structure decisions
+- cleanup decisions
+- doctrine decisions
+- staleness calls
+- publish closeout
+- local-vs-public truth calls
+- thinking-point verdicts
+
+Use B for normal work.
+Use A before final PASS or risky transition.
+
+BOUNDARY
+This is not active doctrine.
+This is an operating verdict from the Run 010 test results.
+It can be revised if future evidence shows a better split.
+
+CLEAN LINE
+B drives.
+A audits.
+C parked.
