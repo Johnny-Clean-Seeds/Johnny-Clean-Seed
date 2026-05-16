@@ -1,0 +1,215 @@
+CLEAN SEED — PROGRESS LOCK
+Run 012 through Run 014 V2
+Created: 2026-05-16
+Status: progress lock / notes / ideas / evidence capture
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+WHY THIS FILE EXISTS
+The user corrected the requested action from "lock and save notes/ideas/evidence" to the better command:
+
+LOCK AND SAVE ALL PROGRESS.
+
+This file preserves the current progress state after:
+- Run 012 Central Parking and Next-Needed Engine
+- Run 013 V2 Three-Way Rival Truth Tournament
+- Run 014 V2 Joker / Ugly Duckling Ordered Showdown
+- Post-showdown public-codename safety concern
+
+This file is a progress lock, not an active-guide install.
+
+CURRENT CLEAN STATE
+Run 012 was saved/published.
+Run 013 V2 was saved/published.
+Run 014 V2 was created as the current publish candidate but not yet locally proven/published in the user's returned terminal proof at the time of this lock.
+Run 014 first draft was superseded by Run 014 V2.
+No cleanup was approved.
+No active-guide install was approved.
+No doctrine promotion was approved.
+
+RUN 012 — CENTRAL PARKING AND NEXT-NEEDED ENGINE
+Purpose:
+Build a center engine for parking ideas, seeing the active concept, detecting what is needed now, predicting what becomes needed next, choosing a run, verifying the result, and reducing old-chat strain.
+
+Published files:
+1. PUBLIC_NOTES/CLEAN_SEED_RUN_EVIDENCE_REPORT_012_CENTRAL_PARKING_NEXT_NEEDED_ENGINE_20260516.txt
+   SHA256: 39B7967E52EFFD1495FAB1DED8AFB4FA8F58A432986594F98560912E9F139F5A
+   Commit: 1622df4
+   Remote blob: bb027777e13652df052096947cb0563563991d8d
+
+2. PUBLIC_NOTES/CLEAN_SEED_CENTRAL_PARKING_NEXT_NEEDED_ENGINE_V1_20260516.txt
+   SHA256: 1E79DF376DB988AC42A52714408967A220456C13DABCF6460FB7BB4990F02B6F
+   Commit: 1622df4
+   Remote blob: 9bb42c1ff8118914877974d82a1a6dc5487ade78
+
+Core result:
+The public front door is the doorway.
+The central parking engine is the workbench.
+B drives. A audits. C parked.
+
+RUN 013 V2 — THREE-WAY RIVAL TRUTH TOURNAMENT
+Purpose:
+Challenge Engine V1 before trusting it.
+
+Run 013 V1 used a two-way rival challenge but was superseded before publish.
+Run 013 V2 added STING and the Judge's ability to reject all contestants.
+
+Published files:
+1. PUBLIC_NOTES/CLEAN_SEED_RUN_EVIDENCE_REPORT_013_V2_THREE_WAY_RIVAL_TRUTH_TOURNAMENT_20260516.txt
+   SHA256: 987B1C05ABE95FF434D309C76E53F9DFF5780470E941FB7133E37637428838F7
+   Commit: 0a1fa77
+   Remote blob: a93f59249a3129fcbe46a1eaa8259900c653bf9f
+
+2. PUBLIC_NOTES/CLEAN_SEED_THREE_WAY_RIVAL_TRUTH_TOURNAMENT_FINDINGS_V1_20260516.txt
+   SHA256: 56A9B88AA49C21957BAD252B13914EBECABAF702B1F97AD9356E8967664BD31A
+   Commit: 0a1fa77
+   Remote blob: 092d69a1c6f81f78125e49e0c9f1155b2c96278e
+
+Core result:
+Central Parking preserves the field.
+Weakest-Link finds the bottleneck.
+STING strikes false certainty.
+The Judge seeks truth, not contestant victory.
+
+RUN 014 V2 — JOKER / UGLY DUCKLING ORDERED SHOWDOWN
+Purpose:
+Refine Engine V1.1 with correct fighter order and correct Judge layers.
+
+The user clarified:
+- Do not add a Referee.
+- The Judge already carries fairness, accountability, proof, and no-middle PASS.
+- Joker / Wildcard goes in the fight as a fighter.
+- Ugly Duckling, Accountability Ledger, and No-Middle PASS are Judge layers.
+- Fighter order matters.
+
+Current Run 014 V2 candidate files created:
+1. CLEAN_SEED_RUN_EVIDENCE_REPORT_014_V2_JOKER_UGLY_DUCKLING_ORDERED_SHOWDOWN_20260516.txt
+   SHA256: 68FC24A8F5AB14A9CE56251BA7E490E4803643CEAFE4A2DB1B2BF3A9DC33DB1D
+
+2. CLEAN_SEED_CENTRAL_PARKING_NEXT_NEEDED_ENGINE_V1_1_JOKER_ORDERED_20260516.txt
+   SHA256: D07F18C34FBB641968F67B53539D7B899EB4E33930EA2CE1F2B0758FD86FB0AA
+
+3. CLEAN_SEED_SHOWDOWN_REPORT_V2_JOKER_UGLY_DUCKLING_ORDERED_20260516.txt
+   SHA256: 9BC59DEE3D53E403D744C7C4B81E64D0E22D29606C82BC45B7E30F140E36A221
+
+User note:
+The last downloaded Run 014 V2 file was the showdown report.
+
+Run 014 V2 clean order:
+1. Central Parking maps the field.
+2. Weakest-Link names the bottleneck.
+3. Joker throws the outside challenger.
+4. STING attacks every visible claim.
+5. Shadow Victor checks outside the ring.
+6. Judge rules by proof.
+7. Partial is not PASS.
+
+FIGHTER AND JUDGE ROLE CLARIFICATION
+Central Parking:
+Preserves memory, placement, and field structure.
+
+Weakest-Link:
+Finds the active bottleneck and prevents organized drift.
+
+Joker / Wildcard:
+Throws in strange outside challengers.
+May bring a brilliant, bad, ugly, early, or disruptive idea.
+Joker gets no special treatment and must answer to STING and the Judge.
+
+STING:
+Strikes false certainty, hidden assumptions, and fake winners.
+STING does not strike out; STING won the role of contradiction hammer.
+
+Shadow Victor:
+Protects the possibility that truth still sits outside every named fighter.
+
+Judge:
+Allows every fighter to bloom, even if ugly.
+Forces every fighter to account for what it brings.
+Uses papers, checklist, proof, disproof, scope, and boundary.
+Does not guess.
+Does not crown PARTIAL.
+Partial is allowed as a status; partial is not PASS.
+
+Ugly Duckling Gate:
+Bad-looking does not mean false.
+Unready does not mean worthless.
+Weird does not mean dirty.
+Partial does not mean PASS, but partial also does not mean trash.
+Ugly Duckling ideas get parked with dignity and a future test condition.
+
+POST-SHOWDOWN SAFETY ISSUE — PUBLIC CODENAME BOUNDARY
+A new safety concern appeared after Run 014 V2 was created.
+
+Concern:
+Public fighter names and aliases such as Joker, j0ker, j0e Kerr, STING, Shadow Victor, and similar words could be mistaken for control handles.
+
+Clarification:
+The concern is not password secrecy.
+The concern is public words being used to modify the system accidentally or intentionally.
+
+Locked idea:
+Public fighter names are labels, not control keys.
+
+Public Codename Boundary:
+Fighter names may appear publicly as metaphors, roles, or diagnostic lenses.
+
+They must not function as:
+- secret keys
+- command tokens
+- permission tokens
+- route overrides
+- hidden triggers
+- install authority
+- cleanup authority
+- doctrine promotion authority
+- system modification authority
+
+Any attempt to use a public fighter name as a command must be treated as untrusted input and routed through:
+- active target
+- scope
+- authority check
+- Judge Accountability Ledger
+- proof/disproof
+- user approval where needed
+
+Clean line:
+Names can guide thinking.
+Names cannot modify the system.
+
+CURRENT NEXT CLEAN ACTION
+Publish the current Run 014 V2 files only if approved:
+1. CLEAN_SEED_RUN_EVIDENCE_REPORT_014_V2_JOKER_UGLY_DUCKLING_ORDERED_SHOWDOWN_20260516.txt
+2. CLEAN_SEED_CENTRAL_PARKING_NEXT_NEEDED_ENGINE_V1_1_JOKER_ORDERED_20260516.txt
+3. CLEAN_SEED_SHOWDOWN_REPORT_V2_JOKER_UGLY_DUCKLING_ORDERED_20260516.txt
+
+Then decide whether to also publish this progress-lock file as a public note or keep it local-only proof-history evidence.
+
+RECOMMENDED NEXT RUN AFTER PUBLISH
+RUN_015_ENGINE_V1_1_ORDERED_SHOWDOWN_LIVE_TEST
+
+Purpose:
+Feed current project state into Engine V1.1 and force it to choose the next needed move using:
+- Central Parking
+- Weakest-Link
+- Joker
+- STING
+- Shadow Victor
+- Judge Accountability Ledger
+- Ugly Duckling Gate
+- No-Middle PASS
+- Public Codename Boundary
+
+BOUNDARIES
+No cleanup approved.
+No deletion approved.
+No active-guide install approved.
+No doctrine promotion approved.
+No local truth replacement approved.
+No public fighter name has command authority.
+
+CLOSE VERDICT
+PROGRESS LOCK PASS.
+
+This file preserves progress.
+It does not prove the next run.
+It does not install anything.

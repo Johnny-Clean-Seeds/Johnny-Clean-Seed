@@ -1,0 +1,231 @@
+CLEAN SEED — CENTRAL PARKING AND NEXT-NEEDED ENGINE V1.1
+Joker / Ugly Duckling Ordered Showdown Edition
+Created: 2026-05-16
+Status: refined center-engine spec / proof-history first / candidate for live-use test
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+CORE PURPOSE
+This engine lets Clean Seed hold many ideas, find the bottleneck, allow strange outside challengers, attack false certainty, protect ugly future value, and still decide by proof.
+
+CORE LINE
+Map the field.
+Name the bottleneck.
+Throw in the Joker.
+Strike with STING.
+Check for Shadow Victor.
+Judge by proof.
+Partial is not PASS.
+
+ORDERED SHOWDOWN LOOP
+1. Intake the item.
+2. Central Parking maps the field.
+3. Weakest-Link names the active bottleneck.
+4. Joker / Wildcard introduces the outside challenger.
+5. STING attacks every visible claim.
+6. Shadow Victor Gate asks whether truth is still outside the ring.
+7. Judge completes the accountability ledger.
+8. Judge rules PASS, no PASS, park, yield, block, or test.
+9. Update board only if route state changed.
+10. Repeat or stop.
+
+WHY ORDER MATTERS
+If Joker enters after STING, Joker dodges attack.
+If STING enters before claims are visible, STING attacks fog.
+If Weakest-Link runs before the field is mapped, it may pick the wrong bottleneck.
+If Shadow Victor runs too early, it becomes vague mystery.
+If Judge rules before disproof, the verdict is not clean.
+
+FIGHTER 1 — CENTRAL PARKING
+Job:
+Preserve the field.
+
+It must produce:
+- active concept candidate
+- current support items
+- future/parked items
+- blocked/unknown items
+- what must not be lost
+
+It may not:
+- crown truth
+- over-organize forever
+- make parking equal progress
+
+FIGHTER 2 — WEAKEST-LINK
+Job:
+Name the active bottleneck.
+
+It must produce:
+- bottleneck claim
+- evidence for bottleneck
+- smallest relieving move
+- risk if skipped
+
+It may not:
+- ignore valuable parked material without reason
+- reduce every problem to one narrow constraint when evidence shows a paired constraint
+
+FIGHTER 3 — JOKER / WILDCARD
+Job:
+Bring the outside challenger.
+
+It must produce:
+- strange outside option
+- what it explains
+- what it disrupts
+- how it could grow
+- what would disprove it
+
+It may not:
+- win because it is exciting
+- create chaos without accountability
+- avoid STING attack
+- avoid Judge proof
+
+FIGHTER 4 — STING
+Job:
+Strike false certainty.
+
+It must produce:
+- hidden assumption
+- contradiction
+- strongest objection
+- disproof pressure
+- fake-winner warning
+
+It may not:
+- attack forever
+- paralyze all movement
+- replace the Judge
+- reject ugly ideas by appearance alone
+
+SHADOW VICTOR GATE
+Job:
+Protect truth outside all named fighters.
+
+Ask:
+- What answer is not in the ring?
+- What if every fighter is solving the wrong problem?
+- What option has not been named?
+- What would make the whole field invalid?
+- Should the Judge select none, wait, or seek more evidence?
+
+Bound:
+Shadow Victor cannot create endless delay.
+It must name a reason or yield.
+
+JUDGE
+Job:
+Rule by proof.
+
+The Judge has the new layers:
+- Accountability Ledger
+- Ugly Duckling Gate
+- No-Middle PASS Rule
+
+The Judge lets every fighter bloom, even if ugly.
+Then every fighter must answer for what it brings.
+
+JUDGE ACCOUNTABILITY LEDGER
+Required fields:
+- active question
+- scope
+- fighter order
+- Central Parking claim/evidence/risk/disproof
+- Weakest-Link claim/evidence/risk/disproof
+- Joker claim/evidence/risk/disproof
+- STING claim/evidence/risk/disproof
+- Shadow Victor outside-truth check
+- Ugly Duckling candidates
+- false items
+- partial items
+- PASS candidate
+- disproof condition
+- next gate
+
+UGLY DUCKLING GATE
+Bad-looking does not mean false.
+Unready does not mean worthless.
+Weird does not mean dirty.
+Partial does not mean PASS, but partial also does not mean trash.
+
+Classify:
+- false
+- unready
+- ugly duckling
+- partial
+- pass
+
+Ugly Duckling requires:
+- plausible growth path
+- future test condition
+- reason not to discard
+- parking location
+
+NO-MIDDLE PASS RULE
+No middle.
+No kinda PASS.
+No vibe PASS.
+No “looks good” PASS.
+
+PASS requires yes on proof checklist.
+Any missing required proof means no PASS.
+
+Allowed no-PASS states:
+- PARTIAL
+- PARKED
+- UGLY DUCKLING
+- YIELD
+- BLOCKED
+- UNKNOWN
+- FAIL
+
+RUN SELECTION
+Every candidate next run is scored by:
+- idea preservation
+- bottleneck relief
+- outside-challenger value
+- contradiction exposure
+- outside-truth risk
+- proof availability
+- disproof clarity
+- user strain
+- reversibility
+- run-treadmill risk
+- next-state clarity
+
+Required candidates:
+- new run
+- stop
+- wait
+- do nothing
+- use existing artifact
+
+BOARD UPDATE RULE
+Refresh board only when one changed:
+- active priority
+- blocked lanes
+- public/local boundary
+- next gate
+- stale ledger
+- proof status
+
+No board refresh just for movement.
+
+LIVE USE RULE
+Engine V1.1 is not trusted until tested.
+
+First live test:
+Use the current project state.
+Run the ordered showdown.
+Make the Judge choose the next needed move.
+Name what would disprove the choice.
+
+CLEAN LINE
+Map the field.
+Name the bottleneck.
+Throw in the Joker.
+Strike with STING.
+Check for Shadow Victor.
+Judge by proof.
+Partial is not PASS.
