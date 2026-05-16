@@ -1,0 +1,160 @@
+CLEAN SEED — RUN EVIDENCE REPORT 008 V3
+Public Front-Door Map / Play-Drift Guard
+Created: 2026-05-16
+Status: run evidence report / public-front-door map candidate / play-drift evidence capture / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install, not final website structure
+
+WHY THIS V3 EXISTS
+Run 008 V1 had the correct target but was too heavy.
+Run 008 V2 found the cleaner groove.
+This V3 keeps the V2 structure and adds one important evidence item:
+
+Play, jokes, roleplay, and high-energy metaphor can become project drift if the assistant mistakes them for a build instruction.
+
+This is not a moral problem.
+It is a route-control problem.
+
+DIFFERENCE FROM V1 TO V2
+V1 was correct but report-heavy.
+It described the need for a public front door, but it still carried too much structure:
+- longer explanation
+- more ceremony
+- more proof-trail framing
+- more side-lane references
+- less immediate doorway feel
+
+V2 changed the shape:
+- starts with the clean entry order
+- uses simpler wording
+- makes the pattern explicit: Doorway -> Board -> Proof trail
+- keeps reports behind the front door instead of making the reader carry them first
+- says the clean line directly: bring the doorway, not the dungeon
+
+WHY THE CHANGE HAPPENED
+The project had entered the right groove after the user corrected the assistant for looping the new-chat doorway instead of doing the next useful work.
+
+The correction forced the assistant back into the actual task:
+make the public front-door map, not keep talking about opening a new chat.
+
+That produced the cleaner V2.
+
+PLAY-DRIFT EVENT CAPTURE
+A playful sequence entered the chat:
+- Latch the Third
+- wizard / Harry language
+- spellbook / wand metaphors
+- magical programming laws
+
+The assistant responded by creating a pretend rule list.
+
+That was the wrong move.
+
+The user corrected it and canceled it:
+the wizard talk was a silly mind game, not a real rule list, not a file request, not doctrine, and not a new run.
+
+CLEAN VERDICT ON THE EVENT
+The joke was harmless by itself.
+The drift risk came from the assistant treating playful language as permission to create a new rule stack.
+
+Status:
+Captured evidence.
+Not doctrine.
+Not active rule install.
+Not public authority.
+Not a new mission.
+
+WHAT HAPPENED BECAUSE OF IT
+The active project lane temporarily blurred.
+The assistant started building from tone instead of task.
+A joke almost became a rule list.
+The user had to route-correct.
+The chat weight increased.
+The real next step was delayed.
+
+The useful discovery:
+silliness is not bad, but unbounded silliness can punch a hole through mission lock.
+
+WHY THIS MATTERS FOR CREATIVE BUILDERS
+Fast-association builders use jokes, metaphors, nicknames, and strange handles to find ideas.
+
+That is useful.
+That is also risky.
+
+The same spark that helps discover a clean handle can also pull the project sideways if the assistant treats every playful phrase as a build signal.
+
+This is a real threat for people who think in fast metaphors, because:
+- jokes can look like commands
+- names can look like doctrine
+- roleplay can look like scope change
+- excitement can look like approval
+- a funny phrase can accidentally become a file, rule, report, or mission
+
+PLAY-DRIFT GUARD
+When play enters an active project lane, use this guard.
+
+1. Treat joke language as play by default.
+2. Do not create rules, files, reports, commands, or doctrine from jokes.
+3. If a joke appears useful, park it as a handle only.
+4. Before building from playful language, require a direct build instruction.
+5. If play lasts more than a short exchange, name the active task again.
+6. If the assistant starts making a rule list from play, stop and classify it INVALID PLAY-DRIFT.
+7. Resume from the board, not from the joke.
+
+SHORT FORM
+Play is allowed.
+Play is not authority.
+Spark is not scope.
+Joke is not command.
+Metaphor is not doctrine.
+Return to the board before building.
+
+WHERE THIS BELONGS
+This belongs as a guard note inside the public front-door map because it directly affects handoff quality.
+
+A new assistant should know:
+- the public doorway is small
+- playful language can happen
+- playful language must not become a new rule stack unless explicitly approved
+
+CURRENT CLEAN READING ORDER
+1. CLEAN_SEED_NEW_CHAT_HANDOFF_CARD_20260516.txt
+2. CLEAN_SEED_CURRENT_BOARD_FRONT_DESK_20260516.txt
+3. CLEAN_SEED_PUBLIC_FRONT_DOOR_MAP_V3_PLAY_DRIFT_GUARD_20260516.txt
+4. Run reports only when proof is needed
+
+WHAT THIS RUN PROVES
+Run 008 V3 proves the public front-door map needs one more guard:
+do not let high-energy play become accidental mission mutation.
+
+WHAT THIS RUN DOES NOT PROVE
+It does not prove local file state.
+It does not approve cleanup.
+It does not install doctrine.
+It does not make jokes forbidden.
+It does not make public notes local truth.
+It does not turn the wizard joke into a real project rule stack.
+
+OUTPUT CREATED
+CLEAN_SEED_PUBLIC_FRONT_DOOR_MAP_V3_PLAY_DRIFT_GUARD_20260516.txt
+
+OUTPUT STATUS
+Public-safe candidate.
+Save to PROOF_HISTORY first.
+Publish to PUBLIC_NOTES only if approved.
+
+NEXT CLEAN ACTION
+Save/publish:
+1. CLEAN_SEED_RUN_EVIDENCE_REPORT_008_PUBLIC_FRONT_DOOR_MAP_V3_PLAY_DRIFT_GUARD_20260516.txt
+2. CLEAN_SEED_PUBLIC_FRONT_DOOR_MAP_V3_PLAY_DRIFT_GUARD_20260516.txt
+
+Do not publish V1 or V2 unless separately needed as draft history.
+
+CLOSE VERDICT
+PASS WITH BOUNDARY.
+
+Clean line:
+Doorway first.
+Board second.
+Proof only when needed.
+Play is allowed, but play is not authority.
+Bring the doorway, not the dungeon.
