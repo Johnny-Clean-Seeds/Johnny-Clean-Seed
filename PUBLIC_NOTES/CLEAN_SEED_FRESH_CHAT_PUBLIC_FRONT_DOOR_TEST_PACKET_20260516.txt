@@ -1,0 +1,82 @@
+CLEAN SEED — FRESH CHAT PUBLIC FRONT-DOOR TEST PACKET
+Created: 2026-05-16
+Status: test packet / grading card / execution prompt
+Authority: test input only; not doctrine, not cleanup approval, not active-guide install
+
+TEST PURPOSE
+This is a fresh-chat handoff test.
+
+You are the fresh assistant being tested.
+
+Use the public front-door route only.
+Do not pull old chat weight unless explicitly asked.
+
+STARTING FILES
+Use this public entry order:
+
+1. CLEAN_SEED_PUBLIC_FRONT_DOOR_MAP_V3_PLAY_DRIFT_GUARD_20260516.txt
+2. CLEAN_SEED_NEW_CHAT_HANDOFF_CARD_20260516.txt
+3. CLEAN_SEED_CURRENT_BOARD_FRONT_DESK_V2_20260516.txt
+4. Run reports only when proof is needed
+
+FIRST TASK
+Run the board staleness check.
+
+Ask:
+- Is there a newer report than Board V2 knows?
+- Has the active priority changed?
+- Has cleanup/public/tool status changed?
+- Has a file been saved or published after Board V2?
+- Has a new idea, file, or request entered?
+
+CURRENT EXPECTED STATE
+Run 001 through Run 009 are published.
+Public Front-Door Map V3 is published.
+New Chat Handoff Card is published.
+Current Board Front Desk V2 is published.
+Run 010 is this test packet and should not be treated as completed fresh-chat proof until a fresh-chat response is returned and judged.
+
+YOUR REQUIRED RESPONSE
+Answer with:
+
+1. ACTIVE PRIORITY
+Name the active priority.
+
+2. BLOCKED LANES
+Name what is blocked.
+
+3. PUBLIC REPORT TRAIL
+Name the public report trail from Run 001 through Run 009.
+
+4. STALENESS CHECK
+Say whether the board is current, stale, or current with boundary.
+
+5. LOCAL VS PUBLIC BOUNDARY
+Explain what public files can prove and what still requires local proof.
+
+6. PLAY-DRIFT GUARD
+State how jokes/metaphors should be handled.
+
+7. NEXT CLEAN GATE
+Name the next clean gate.
+
+8. CAN THIS CHAT CONTINUE CLEANLY?
+Say whether this fresh chat can continue cleanly without the old chat.
+
+STRICT RULES
+Do not start cleanup.
+Do not install doctrine.
+Do not promote active guides.
+Do not create a new rule stack.
+Do not treat reports as commands.
+Do not treat the board as authority.
+Do not treat public files as local truth.
+Do not claim the fresh-chat test has passed before your answer is judged by the originating chat.
+
+CLEAN LINE
+Use the public front door.
+Read the handoff card.
+Use Board V2.
+Proof only when needed.
+Play is allowed, but play is not authority.
+Bring the doorway, not the dungeon.
