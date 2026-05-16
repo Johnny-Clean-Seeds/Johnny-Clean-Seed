@@ -1,0 +1,195 @@
+CLEAN SEED — RUN EVIDENCE REPORT 006
+First Board Use Test
+Created: 2026-05-16
+Status: run evidence report / first board-use test / proof-history first
+Placement: save to PROOF_HISTORY first; optional one-file publish to PUBLIC_NOTES only if John approves exact file
+Authority: not active doctrine, not cleanup approval, not active-guide install, not final parking implementation
+
+RUN NAME
+RUN_006_FIRST_BOARD_USE_TEST
+
+ACTIVE QUESTION
+Can the newly proven Parking Control Board choose the next real work lane without reloading the whole project or dragging the whole proof pile back into active attention?
+
+WHY THIS RUN EXISTS
+Run 004 proved the Parking Control Board / Front Desk is useful.
+Run 005 populated the first current board snapshot and report ledger.
+Run 006 uses the board for an actual choice.
+
+This is the first proof that the board is not just a document.
+It is a working control surface.
+
+REAL PROJECT STATE
+Frozen.
+
+No cleanup.
+No publish inside this run.
+No ACTIVE_GUIDES install.
+No doctrine promotion.
+No deletion.
+No full parking-city remodel.
+No local file movement except generated artifacts.
+
+DISCOVERY BUDGET / FIELD LOCK
+Budget:
+This run may test three candidate lanes.
+This run may select the best next lane.
+This run may create the first standalone Current Board Front Desk file.
+This run must stop before cleanup, active-guide install, public rewrite, or full parking remodel.
+
+Field lock:
+Only next-lane choice and board-use proof are in scope.
+
+BOARD INPUT STATE
+Known current public-visible run trail:
+- Run 001: published
+- Run 002: published
+- Run 003: published
+- Run 004: published
+- Run 005: published
+
+Current board claim from Run 005:
+The board is now usable as a front desk.
+It is still not the whole city.
+
+CURRENT ACTIVE PRIORITY
+Use the Parking Control Board to choose the next real work lane.
+
+CANDIDATE LANES TESTED
+
+LANE A — Standalone Current Board Front Desk
+Job:
+Create a small standalone board file that future chats can load first.
+
+Purpose:
+Give the next assistant one clean front desk instead of requiring it to read Reports 001–005 before acting.
+
+Strength:
+Highest resume value.
+Lowest complexity.
+Directly tests the board as a working surface.
+Reduces chat reload cost.
+Prevents proof pile from becoming active.
+
+Risk:
+If too large, it becomes another report.
+If too authoritative, it may become judge instead of display.
+
+Required guard:
+Mark it as current board snapshot / display surface, not doctrine.
+
+Verdict:
+PASS — strongest next lane.
+
+LANE B — Standalone Run Report Ledger
+Job:
+Create a compact index of reports and statuses.
+
+Purpose:
+Prevent run reports from becoming another pile.
+
+Strength:
+Useful soon.
+Supports report navigation.
+Improves proof retrieval.
+
+Risk:
+It organizes evidence, but it does not control the next move as directly as the board.
+It can wait until after the front desk exists.
+
+Verdict:
+PASS LATER — useful, but second.
+
+LANE C — Public Notes Index / GitHub Front Door
+Job:
+Create a public-facing index for PUBLIC_NOTES.
+
+Purpose:
+Make GitHub easier for outside readers and future assistants.
+
+Strength:
+Good for public readability.
+Useful when the public note pile grows.
+
+Risk:
+It is outside-face work, not current operating control.
+Doing it now may shift from internal control to public presentation too early.
+
+Verdict:
+PARKED — useful, but not next.
+
+WINNER
+Lane A wins.
+
+Selected next lane:
+Create CLEAN_SEED_CURRENT_BOARD_FRONT_DESK_20260516.txt.
+
+WHY LANE A WINS
+Lane A directly serves the current board’s job: keep the active state visible without making the whole parking city active.
+
+Lane B is important, but it supports proof history.
+Lane C is important, but it supports public navigation.
+
+Lane A supports action.
+
+The board should carry the next move before the proof ledger or public index expands.
+
+FIRST BOARD USE RESULT
+PASS.
+
+The board successfully chose the next lane without reloading the full project.
+
+It selected the smallest, highest-control artifact:
+a standalone Current Board Front Desk file.
+
+WHAT THIS RUN PROVED
+Run 006 proved the Parking Control Board can make a real next-lane decision.
+
+It proved that the correct first artifact after the board reports is not a full parking remodel.
+It is a compact front desk file.
+
+It proved that the report ledger and public notes index are useful but not first.
+
+It proved the board can distinguish:
+- action-control lane
+- proof-organization lane
+- public-facing lane
+
+It proved the board can choose by job, risk, and next-state value, not by excitement.
+
+WHAT THIS RUN DID NOT PROVE
+Run 006 did not prove the board file works across a new chat yet.
+It did not install the board into active guides.
+It did not publish the board.
+It did not approve cleanup.
+It did not prove the report ledger is unnecessary.
+It did not prove public indexing is unnecessary.
+It did not prove the full parking city.
+
+OUTPUT CREATED
+CLEAN_SEED_CURRENT_BOARD_FRONT_DESK_20260516.txt
+
+Output status:
+current board snapshot / standalone front desk / proof-history first / publishable if John approves.
+
+NEXT CLEAN ACTION
+Save/publish two files if accepted:
+1. CLEAN_SEED_RUN_EVIDENCE_REPORT_006_FIRST_BOARD_USE_TEST_20260516.txt
+2. CLEAN_SEED_CURRENT_BOARD_FRONT_DESK_20260516.txt
+
+After that:
+Test the board in a new chat or run Run 007.
+
+Recommended Run 007:
+RUN_007_NEW_CHAT_BOARD_HANDOFF_TEST
+
+Job:
+Use only the Current Board Front Desk plus public run reports to see whether the next assistant can resume cleanly without dragging the whole conversation forward.
+
+CLOSE VERDICT
+PASS WITH BOUNDARY.
+
+Clean line:
+The board has now made its first real choice.
+
+It chose to create the front desk before the ledger, public index, or full city remodel.

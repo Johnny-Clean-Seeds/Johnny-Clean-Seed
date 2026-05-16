@@ -1,0 +1,265 @@
+CLEAN SEED — CURRENT BOARD FRONT DESK
+Created: 2026-05-16
+Status: current board snapshot / front desk / handoff surface / proof-history first
+Placement: save to PROOF_HISTORY first; optional publish to PUBLIC_NOTES if John approves
+Authority: display surface only; not doctrine, not cleanup approval, not active-guide install
+
+BOARD NAME
+Clean Seed Current Board Front Desk — 2026-05-16
+
+LAST REFRESH
+2026-05-16 / after Run 006 First Board Use Test
+
+BOARD PURPOSE
+This file is the front desk.
+
+It lets John and the assistant resume the current Clean Seed lane without holding the whole proof pile, parking city, or chat history in active attention.
+
+It is a display surface, not the judge.
+
+Truth comes from evidence reports, source files, cards, hashes, local proof, public verification, and John approval.
+
+CURRENT ACTIVE PRIORITY
+Use the front desk to carry the next move cleanly.
+
+Current selected next move:
+Save/publish this front desk file and Run Evidence Report 006 if accepted.
+
+NEXT RECOMMENDED TEST
+RUN_007_NEW_CHAT_BOARD_HANDOFF_TEST
+
+Job:
+Start from this front desk and the public run reports, then test whether a new chat can resume without reloading the whole conversation.
+
+CURRENT ACTIVE CORE
+Use only this small active core unless a task requires proof pull:
+
+1. Method spine:
+CALCULATED_PRECISION_TRIAGE_METHOD_V1_2.txt
+
+Core meaning:
+Do not read everything first.
+Map first.
+Use a small review edge.
+Quarantine risk.
+Pull only the proof needed.
+
+2. Housekeeping/control spine:
+CLEAN_SEED_COMPACTION_HOUSEKEEPING_CLOSURE_RULE_V1_1.txt
+
+Core meaning:
+Rule before file.
+Fit before make.
+Status after make.
+Reports are evidence, not authority.
+Cleanup candidate does not mean delete.
+Collapse the active plate.
+
+3. Parking spine:
+CLEAN_SEED_PARKING_CORE_OPERATING_PLAN_V1.txt
+
+Core meaning:
+Do not hold all balls in active hand.
+Use a center, priority front, support lots, bridges, capstones, and stop gates.
+Move the view, not the storage.
+
+4. Current run trail:
+RUN 001 through RUN 006.
+
+Core meaning:
+The board was proven by runs, then used once to choose the next lane.
+
+CURRENT PUBLIC-VISIBLE REPORT TRAIL
+Known public-visible before this file is saved/published:
+
+RUN 001
+CLEAN_SEED_RUN_EVIDENCE_REPORT_001_RULE_ORDER_AND_MISSING_IDEAS_20260516.txt
+Status: published
+Verdict: PASS WITH BOUNDARY
+Meaning: order justified; completeness not proven.
+
+RUN 002
+CLEAN_SEED_RUN_EVIDENCE_REPORT_002_TOURNAMENT_ALGORITHM_SPINE_20260516.txt
+Status: published
+Verdict: PASS WITH BOUNDARY
+Meaning: structure-first tournament spine wins after absorbing missing discoveries.
+
+RUN 003
+CLEAN_SEED_RUN_EVIDENCE_REPORT_003_CANDIDATE_FIELD_SWEEP_PARKING_IMPLEMENTATION_20260516.txt
+Status: published
+Verdict: PASS WITH BOUNDARY
+Meaning: do not build the whole city; build the front desk first.
+
+RUN 004
+CLEAN_SEED_RUN_EVIDENCE_REPORT_004_PARKING_CONTROL_BOARD_PROTOTYPE_20260516.txt
+Status: published
+Verdict: PASS WITH BOUNDARY
+Meaning: Parking Control Board prototype passed new-idea, publish, cleanup, and stale-state tests.
+
+RUN 005
+CLEAN_SEED_RUN_EVIDENCE_REPORT_005_CURRENT_BOARD_SNAPSHOT_AND_REPORT_LEDGER_20260516.txt
+Status: published
+Verdict: PASS WITH BOUNDARY
+Meaning: current board snapshot and report ledger format are useful enough to carry the next step.
+
+RUN 006
+CLEAN_SEED_RUN_EVIDENCE_REPORT_006_FIRST_BOARD_USE_TEST_20260516.txt
+Status: generated; not public-visible until saved/published
+Verdict: PASS WITH BOUNDARY
+Meaning: board made its first real lane choice and selected this front desk file before ledger/index/full remodel.
+
+CURRENT BOARD STATE
+Active priority:
+Save/publish Run 006 and this Current Board Front Desk if accepted.
+
+Visible support lots:
+- Proof / Source Lot
+- Run Report Ledger Lot
+- Later / Parked Lot
+- Risk / Quarantine Lot
+- Worker / Tool Lot
+- Public / OpenAI Lot
+
+Blocked lots:
+- cleanup
+- deletion
+- active-guide install
+- full parking-city remodel
+- public claim that parking system is final
+- treating board as doctrine
+- treating reports as doctrine
+- treating visible support as active authority
+- bulk proof-history publish
+
+Current proof source:
+Use the smallest proof item needed.
+Do not pull the whole proof pile.
+
+Current risk/quarantine:
+- tokens
+- secrets
+- credentials
+- huge bundles
+- risky/executable-like files
+- private proof-history bulk
+- fake PASS from scripts
+- stale board state
+- public/private bleed
+- cleanup temptation
+
+Current parked odd pieces:
+- Frequency Sensor / Translation Core
+- No fear boss / stay on guard / bring rope
+- Know/know word-key convention
+- general systems doctor / normal front door
+- under-hood/front-door translation
+- small-gold motto notes
+- puzzle-piece / unplaced value model
+- seed gravity / sensor-translator framing
+
+PUBLIC VISIBILITY STATUS
+Known public-visible:
+- Frequency Sensor / Guard / Rope notes
+- Run 001
+- Run 002
+- Run 003
+- Run 004
+- Run 005
+
+Not public-visible until saved/published:
+- Run 006
+- this Current Board Front Desk
+
+CLEANUP STATUS
+Blocked.
+
+No cleanup approved.
+
+Before cleanup:
+- exact path
+- reason
+- keeper/proof location
+- duplicate or obsolete proof
+- risk check
+- John approval
+- post-action verification
+
+WORKER / TOOL STATUS
+Preferred tool doorway:
+CleanSeed Git Publish Shell
+
+Known clean route:
+Download file.
+Find exact name.
+Check SHA256.
+Save to PROOF_HISTORY.
+Copy to GITHUB_PUBLISH_OUTBOX / PUBLIC_NOTES.
+git add.
+git commit.
+git push.
+remote check.
+Only then call public-visible PASS.
+
+Fake-PASS rule:
+If a script hits STOP/MISSING/FAIL, later DONE lines are dirty unless the script stopped cleanly and remote proof passed.
+
+BOARD STALENESS CHECK
+Before using this board, ask:
+
+Has a newer report been created?
+Has Run 006 been saved/published?
+Has this board been saved/published?
+Has active priority changed?
+Has cleanup/public/tool status changed?
+Has a new file been added?
+Has a new idea entered the field?
+
+If yes, refresh before acting.
+
+FIELD-LOCK EXCEPTION LANE
+If a new idea enters while another task is active:
+
+1. Does it affect the current active priority?
+2. Does it belong in proof/source, risk/quarantine, later/parked, public, worker/tool, or unplaced value?
+3. Does it need its own run?
+4. Is it out of field?
+
+Default:
+Park it cleanly.
+Do not let it hijack the active lane.
+
+BOARD IS DISPLAY, NOT JUDGE
+Yes.
+
+This board shows state.
+It does not decide truth.
+It does not promote rules.
+It does not approve cleanup.
+It does not publish files.
+It does not replace evidence.
+
+VIEW STATE VS STORAGE STATE
+This file changes attention, not physical storage.
+
+A visible lot is not active authority.
+A blocked lot is not deleted.
+A parked item is not lost.
+A support file is not active doctrine.
+A public note is not proof by itself.
+
+NEXT CLEAN ACTION
+Save/publish:
+1. CLEAN_SEED_RUN_EVIDENCE_REPORT_006_FIRST_BOARD_USE_TEST_20260516.txt
+2. CLEAN_SEED_CURRENT_BOARD_FRONT_DESK_20260516.txt
+
+Then run:
+RUN_007_NEW_CHAT_BOARD_HANDOFF_TEST
+
+Clean purpose:
+Test whether a new chat can resume from this front desk without dragging the whole conversation forward.
+
+CLOSE LINE
+The front desk is now the working surface.
+
+Do not build the whole city yet.
+Use the front desk.
