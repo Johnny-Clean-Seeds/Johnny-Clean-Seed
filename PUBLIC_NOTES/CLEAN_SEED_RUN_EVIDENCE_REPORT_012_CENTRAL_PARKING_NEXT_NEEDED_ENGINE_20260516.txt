@@ -1,0 +1,169 @@
+CLEAN SEED — RUN EVIDENCE REPORT 012
+Central Parking and Next-Needed Engine
+Created: 2026-05-16
+Status: run evidence report / center-engine design / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+RUN NAME
+RUN_012_CENTRAL_PARKING_NEXT_NEEDED_ENGINE
+
+WHY THIS RUN EXISTS
+The prior public-front-door work proved that handoff state can survive old-chat weight pressure.
+
+But the real project need is larger:
+build a clean operating center where ideas can enter, park, connect to the current concept, reveal what is needed next, and trigger the right verification run without making the user or assistant carry the whole pile.
+
+The user corrected the path:
+This is not mainly about making public notes look good.
+This is about discovering a better way to run big thought experiments on big machines.
+
+ACTIVE QUESTION
+How should Clean Seed park ideas, detect the active concept, identify what is needed now, predict what will be needed next as a result, choose the right run, and verify that the move actually worked?
+
+ANSWER
+Use a Central Parking and Next-Needed Engine.
+
+It has four main jobs:
+1. Park every idea cleanly.
+2. Keep one active concept in the center.
+3. Detect what is needed now and what becomes needed next.
+4. Choose and verify the next run through evidence, not confidence.
+
+SCOPE
+Allowed:
+- define the center engine
+- define parking lots
+- define concept-to-next-needed logic
+- define candidate-run selection
+- define verification gates
+- define B/A/C mode use
+- create one engine spec
+
+Blocked:
+- cleanup
+- deletion
+- active-guide install
+- doctrine promotion
+- public-site redesign
+- bulk proof-history publish
+- treating this engine as final authority
+- running a real local cleanup
+- replacing the board/front-door system
+
+CORE DISCOVERY
+The public front-door stack is not the whole machine.
+It is the doorway.
+
+The next machine is the center:
+a working table that can receive ideas, hold them without strain, and decide the next right run.
+
+ENGINE SHAPE
+Input:
+- new idea
+- file
+- question
+- error
+- proof output
+- public need
+- local need
+- user correction
+- joke/play signal
+- cleanup candidate
+- algorithm candidate
+
+Center:
+- active concept
+- current need
+- next-needed prediction
+- blocked lanes
+- proof required
+- candidate runs
+
+Output:
+- parked idea
+- current action
+- run packet
+- verification question
+- board refresh
+- closeout / thinking point
+- yield / block
+
+OPERATING LOOP
+1. Intake the item.
+2. Classify its type.
+3. Park it in the right lot.
+4. Ask whether it touches the active concept.
+5. If yes, pull it to the center.
+6. Ask what is needed now.
+7. Ask what becomes needed next because of that.
+8. Generate candidate runs.
+9. Compare candidate runs.
+10. Choose the smallest high-value run.
+11. Run it.
+12. Verify the result.
+13. Update board/parking state.
+14. Repeat or stop at thinking point.
+
+B / A / C MODE USE
+B — Systems Doctor:
+Default driver.
+Runs the lane, diagnoses system state, chooses next move, balances speed and proof.
+
+A — Edge Inspector:
+Audit mode.
+Checks corners before PASS, publish, promotion, cleanup, closeout, or thinking-point verdict.
+
+C — Quick Scout:
+Parked.
+Not used for normal Clean Seed work unless a lowest-bar readability test is specifically needed.
+
+VERIFICATION LAW
+The engine must not say “this looks good” as proof.
+
+It must ask:
+- Did this reduce fog?
+- Did this reveal a needed next move?
+- Did this preserve ideas without overloading the user?
+- Did this choose the right run for the active concept?
+- Did it verify the result with evidence?
+- Did it avoid cleanup/install/delete drift?
+- Did it keep public and local truth separated?
+- Did it expose a better algorithm?
+- Did the next move become lighter, clearer, safer, or larger?
+
+WHAT THIS RUN PROVES
+Run 012 proves the next necessary object is not another public report trail extension by default.
+The next necessary object is an operating center for parking, need detection, run selection, and verification.
+
+WHAT THIS RUN DOES NOT PROVE
+It does not prove the engine works in live use yet.
+It does not install the engine as doctrine.
+It does not update active guides.
+It does not approve cleanup.
+It does not replace the public front door.
+It does not prove the best algorithm has been found.
+
+OUTPUT CREATED
+CLEAN_SEED_CENTRAL_PARKING_NEXT_NEEDED_ENGINE_V1_20260516.txt
+
+OUTPUT STATUS
+Engine spec / proof-history first / candidate for later test.
+
+NEXT CLEAN ACTION
+Save/publish:
+1. CLEAN_SEED_RUN_EVIDENCE_REPORT_012_CENTRAL_PARKING_NEXT_NEEDED_ENGINE_20260516.txt
+2. CLEAN_SEED_CENTRAL_PARKING_NEXT_NEEDED_ENGINE_V1_20260516.txt
+
+Then run:
+RUN_013_ENGINE_LIVE_USE_TEST
+
+Purpose:
+Feed the engine the current project state and ask it to choose the next needed run without old-chat strain.
+
+CLOSE VERDICT
+PASS WITH BOUNDARY.
+
+Clean line:
+The public front door is the doorway.
+The central parking engine is the workbench.
+B drives. A audits. C parked.
