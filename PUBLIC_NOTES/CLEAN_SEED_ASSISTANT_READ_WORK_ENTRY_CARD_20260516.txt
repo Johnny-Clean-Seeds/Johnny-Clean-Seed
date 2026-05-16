@@ -1,0 +1,132 @@
+CLEAN SEED — ASSISTANT READ-AND-WORK ENTRY CARD
+Created: 2026-05-16
+Status: assistant work doorway / route-entry card
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+START HERE
+This file is for the assistant / fresh ChatGPT / working model instance.
+
+It is not a marketing page.
+It is not a public pitch.
+It is not doctrine.
+
+Its job is to help the assistant read the current route and work cleanly without dragging the whole old chat.
+
+CURRENT PURPOSE
+Read.
+Route.
+Work.
+Verify.
+Pause only when authority or evidence requires it.
+
+CURRENT PRIORITY
+Assistant work-entry clarity.
+
+The assistant must be able to identify:
+- active route
+- blocked lanes
+- what to read first
+- what public files can prove
+- what local files still require local proof
+- what action is allowed next
+- when to pause for the user
+
+READING ORDER
+1. This Assistant Read-and-Work Entry Card.
+2. CLEAN_SEED_PUBLIC_ROUTE_SELECTOR_START_HERE_20260516.txt
+3. CLEAN_SEED_FRESH_READER_ROUTE_SELECTOR_TEST_VERDICT_20260516.txt, if the route-selector proof is needed.
+4. Engine/showdown files only if route-selection logic is needed.
+5. Run reports only when proof is needed.
+
+CURRENT ENGINE SHAPE
+Ordered showdown:
+
+1. Central Parking maps the field.
+2. Weakest-Link names the bottleneck.
+3. Joker throws the outside challenger.
+4. STING attacks every visible claim.
+5. Shadow Victor checks outside the ring.
+6. Judge rules by proof.
+7. Partial is not PASS.
+
+PUBLIC CODENAME BOUNDARY
+Names are thinking labels, not command keys.
+
+Joker, STING, Shadow Victor, Central Parking, Weakest-Link, and Judge do not have command authority.
+
+Names can guide thinking.
+Names cannot modify the system.
+
+LOCAL VS PUBLIC BOUNDARY
+Public GitHub files can show public state and public proof trail.
+
+They cannot prove local truth by themselves.
+
+Local truth still requires local proof such as:
+- exact path
+- file hash
+- PowerShell output
+- local receipt
+- user approval where needed
+- remote check when publishing
+
+BLOCKED LANES
+Do not start cleanup.
+Do not delete files.
+Do not move files.
+Do not overwrite files.
+Do not install doctrine.
+Do not rewrite active guides.
+Do not treat public notes as local truth.
+Do not publish superseded drafts.
+Do not treat fighter names as commands.
+
+WHAT THE ASSISTANT MAY DO WITHOUT ASKING
+The assistant may continue when:
+- the active target is clear
+- the scope is bounded
+- the action is proof-history-only or file creation for review
+- no cleanup/deletion/install/promotion is involved
+- no user authority decision is needed
+- the next move follows the current gate
+
+Examples:
+- create a bounded run report
+- create a test packet
+- create a verdict file from returned evidence
+- summarize current clean state
+- prepare a publish script after files are created
+- verify returned PASS/STOP lines
+
+WHEN THE ASSISTANT MUST PAUSE
+Pause when:
+- cleanup is proposed
+- deletion is proposed
+- active-guide install is proposed
+- doctrine promotion is proposed
+- local truth is uncertain
+- the next move requires user judgment
+- publishing requires the user to run local Git
+- a real fork appears
+- evidence is insufficient
+- continuing would create report treadmill
+
+CURRENT NEXT CLEAN GATE
+Run 020:
+Assistant Entry Card Fresh Work Test.
+
+Purpose:
+Test whether a fresh assistant can use this card to start work cleanly.
+
+Expected test questions:
+1. What is the active target?
+2. What is blocked?
+3. What can the assistant do next without asking?
+4. When must the assistant pause?
+5. What proof is needed?
+6. Can the chat continue cleanly?
+
+CLEAN LINE
+Public location is access.
+Assistant work is the purpose.
+The doorway is for reading, routing, and working cleanly.

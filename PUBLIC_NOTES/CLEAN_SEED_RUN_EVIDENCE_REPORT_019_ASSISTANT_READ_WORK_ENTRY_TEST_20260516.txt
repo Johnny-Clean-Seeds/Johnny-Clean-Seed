@@ -1,0 +1,137 @@
+CLEAN SEED — RUN EVIDENCE REPORT 019
+Assistant Read-and-Work Entry Correction/Test
+Created: 2026-05-16
+Status: route correction / assistant work-entry test / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+RUN NAME
+RUN_019_ASSISTANT_READ_WORK_ENTRY_TEST
+
+WHY THIS RUN EXISTS
+Run 018 closed the prompted fresh-chat route-selector test as PASS WITH BOUNDARY.
+
+After that, the next likely route was described as a public doorway / repo landing recommendation.
+
+The user corrected the framing:
+This is not for people as an audience.
+This is for the assistant / fresh ChatGPT / working model to read and work from.
+
+That correction changes the purpose of the doorway.
+
+Correct purpose:
+A public-accessible work doorway that lets an assistant find the current route, blocked lanes, proof boundaries, and next gate without dragging the whole old chat.
+
+Incorrect purpose:
+Marketing page, visitor brochure, public presentation, or people-facing pitch.
+
+ACTIVE QUESTION
+Can the current route-selector stack be reframed as an assistant read-and-work entry system rather than a public audience page?
+
+ANSWER
+Yes.
+
+The route-selector doorway is useful because it gives the assistant a small current route surface:
+- active priority
+- blocked lanes
+- reading order
+- engine shape
+- public codename boundary
+- local/public boundary
+- next gate
+- failure conditions
+
+This is exactly what a working assistant needs before acting.
+
+SCOPE
+Allowed:
+- correct the framing
+- create an assistant work-entry card
+- state how an assistant should read and work
+- define what the assistant may do next without waiting
+- define pause/yield points
+
+Blocked:
+- cleanup
+- deletion
+- active-guide install
+- doctrine promotion
+- public-site redesign
+- human marketing rewrite
+- treating public files as local truth
+- treating fighter names as command keys
+
+CORRECTION
+Old phrase:
+Public doorway.
+
+Correct operational meaning:
+Assistant-accessible work doorway.
+
+Public location means the assistant can reach it.
+It does not mean the primary audience is ordinary visitors.
+
+PRIMARY USER
+Assistant / fresh ChatGPT / working model instance.
+
+JOB
+Read the doorway, identify current route, avoid blocked lanes, choose the next clean move, create proof when needed, and pause only when user authority is required.
+
+LEASH RULE
+The assistant should not ask the user to steer every small next move.
+
+The assistant may continue when:
+- active target is clear
+- scope is bounded
+- action is reversible or proof-history-only
+- no cleanup/deletion/install/promotion is involved
+- no user preference or authority decision is required
+
+The assistant must pause when:
+- cleanup/deletion/move/overwrite is proposed
+- active-guide install or doctrine promotion appears
+- public/local truth could blur
+- a file must be published by the user through local Git
+- a real fork requires user judgment
+- the next action could spend significant user time/tokens
+- evidence is insufficient for PASS
+
+ASSISTANT WORK-ENTRY CARD CREATED
+CLEAN_SEED_ASSISTANT_READ_WORK_ENTRY_CARD_20260516.txt
+
+WHAT THIS RUN PROVES
+Run 019 proves the current route-selector concept should be treated as an assistant work-entry system, not audience polish.
+
+It also creates a compact assistant read-and-work card.
+
+WHAT THIS RUN DOES NOT PROVE
+It does not prove a brand-new assistant will always use the card correctly unaided.
+It does not install doctrine.
+It does not approve cleanup.
+It does not rewrite active guides.
+It does not publish anything by itself.
+It does not make public files local truth.
+
+NEXT CLEAN ACTION
+Save/publish:
+1. CLEAN_SEED_RUN_EVIDENCE_REPORT_019_ASSISTANT_READ_WORK_ENTRY_TEST_20260516.txt
+2. CLEAN_SEED_ASSISTANT_READ_WORK_ENTRY_CARD_20260516.txt
+
+Then run:
+RUN_020_ASSISTANT_ENTRY_CARD_FRESH_WORK_TEST
+
+Purpose:
+Give a fresh assistant the Assistant Read-and-Work Entry Card and test whether it can name:
+- active target
+- blocked lanes
+- next allowed action
+- pause conditions
+- proof needed
+- whether it can continue cleanly
+
+CLOSE VERDICT
+PASS WITH BOUNDARY.
+
+Clean line:
+Public location is access.
+Assistant work is the purpose.
+The doorway is for reading, routing, and working cleanly.
