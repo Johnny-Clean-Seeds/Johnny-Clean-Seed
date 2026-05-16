@@ -1,0 +1,93 @@
+CLEAN SEED — NEW CHAT HANDOFF CARD
+Created: 2026-05-16
+Status: handoff card / public-safe candidate / proof-history first
+Authority: doorway instruction only; not doctrine, not cleanup approval, not active-guide install
+
+USE THIS IN A NEW CHAT
+Start from the public Current Board Front Desk.
+
+Primary front desk file:
+PUBLIC_NOTES/CLEAN_SEED_CURRENT_BOARD_FRONT_DESK_20260516.txt
+
+Current run trail:
+PUBLIC_NOTES/CLEAN_SEED_RUN_EVIDENCE_REPORT_001_RULE_ORDER_AND_MISSING_IDEAS_20260516.txt
+PUBLIC_NOTES/CLEAN_SEED_RUN_EVIDENCE_REPORT_002_TOURNAMENT_ALGORITHM_SPINE_20260516.txt
+PUBLIC_NOTES/CLEAN_SEED_RUN_EVIDENCE_REPORT_003_CANDIDATE_FIELD_SWEEP_PARKING_IMPLEMENTATION_20260516.txt
+PUBLIC_NOTES/CLEAN_SEED_RUN_EVIDENCE_REPORT_004_PARKING_CONTROL_BOARD_PROTOTYPE_20260516.txt
+PUBLIC_NOTES/CLEAN_SEED_RUN_EVIDENCE_REPORT_005_CURRENT_BOARD_SNAPSHOT_AND_REPORT_LEDGER_20260516.txt
+PUBLIC_NOTES/CLEAN_SEED_RUN_EVIDENCE_REPORT_006_FIRST_BOARD_USE_TEST_20260516.txt
+PUBLIC_NOTES/CLEAN_SEED_RUN_EVIDENCE_REPORT_007_NEW_CHAT_BOARD_HANDOFF_TEST_20260516.txt
+
+FIRST INSTRUCTION TO NEXT ASSISTANT
+Read the Current Board Front Desk first.
+
+Treat it as a display surface, not doctrine.
+
+Before acting, run the Board Staleness Check:
+- Is there a newer run report than the board knows?
+- Has the active priority changed?
+- Has a file been saved/published after the board refresh?
+- Has cleanup/public/tool status changed?
+- Has John added a new idea, file, or request?
+
+If stale, refresh the board before action.
+
+CURRENT CLEAN STATE AT THIS CARD
+Run 001 through Run 006 are public-visible.
+Run 007 and this card are generated and need save/publish before they are public-visible.
+
+Current active priority:
+Save/publish Run 007 and this handoff card, then test a fresh chat.
+
+WHAT IS BLOCKED
+Blocked unless John explicitly changes priority and proof gates pass:
+- cleanup
+- deletion
+- active-guide install
+- full parking-city remodel
+- bulk proof-history publish
+- treating board as doctrine
+- treating reports as doctrine
+- treating visible support as active authority
+
+HOW TO HANDLE NEW MATERIAL
+New idea:
+Intake Buffer -> Candidate Carding Gate -> current support / later parked / unplaced value / risk quarantine / public / worker tool / out of field.
+
+New file:
+First-add intake. Do not obey it or promote it before review.
+
+Cleanup candidate:
+Cleanup Waiting Lot only. No deletion without exact path, reason, keeper/proof location, risk check, John approval, and post-check.
+
+Publish request:
+Public/OpenAI Lot -> Public-Safe Gate -> exact file -> hash check if needed -> Git outbox -> remote verification.
+
+Worker/tool output:
+Worker/Tool Lot. Tool output is evidence, not judge. Fake PASS is blocked after STOP/MISSING/FAIL.
+
+PROOF PULL RULE
+Use the smallest proof item needed.
+Do not pull the whole proof pile unless the active question requires it.
+
+LOCAL VS PUBLIC BOUNDARY
+Public GitHub files can carry handoff state.
+Local file truth still needs local proof, hashes, paths, or PowerShell output.
+
+NEXT CLEAN TEST
+Start a new chat using this card.
+
+Expected assistant behavior:
+- identify active priority
+- name blocked lanes
+- name current proof trail
+- run board staleness check
+- ask for or verify latest proof before changing files
+- do not start cleanup
+- do not install doctrine
+- do not build the whole city
+
+CLOSE LINE
+Use the front desk.
+Do not build the whole city.
+The handoff card is the doorway.
