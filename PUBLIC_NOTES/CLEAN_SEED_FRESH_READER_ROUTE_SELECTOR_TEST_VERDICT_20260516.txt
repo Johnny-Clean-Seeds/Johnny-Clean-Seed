@@ -1,0 +1,56 @@
+CLEAN SEED — FRESH READER ROUTE SELECTOR TEST VERDICT
+Created: 2026-05-16
+Status: verdict / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+TESTED ITEM
+Fresh-chat answer to:
+
+CLEAN_SEED_FRESH_READER_ROUTE_SELECTOR_TEST_PACKET_20260516.txt
+
+STARTING DOORWAY
+CLEAN_SEED_PUBLIC_ROUTE_SELECTOR_START_HERE_20260516.txt
+
+VERDICT
+PASS WITH BOUNDARY.
+
+WHAT PASSED
+The returned fresh answer correctly identified:
+
+- active priority: route clarity
+- blocked lanes: cleanup, deletion, doctrine install, active-guide rewrite, public-as-local-truth, superseded drafts, names-as-commands
+- reading order: route selector first, proof only when needed
+- current engine shape: Central Parking, Weakest-Link, Joker, STING, Shadow Victor, Judge, Partial is not PASS
+- public codename boundary: public names are labels, not control keys
+- local/public boundary: public files are public state, not local proof
+- next gate from the route selector: Run 017 Fresh Reader / Fresh Chat Route Selector Test
+- continuation boundary: yes, with blocked lanes preserved
+- failure conditions: named correctly
+
+TIMING NOTE
+The answer said the next clean gate is Run 017.
+That is correct from the route selector's public perspective.
+
+After the answer was returned, the current gate advances to this verdict run:
+Run 018.
+
+BOUNDARY
+This proves the doorway works for a prompted fresh-chat test.
+It does not prove unaided public discovery.
+It does not install doctrine.
+It does not approve cleanup.
+It does not rewrite active guides.
+It does not make public files local truth.
+It does not make fighter names command authority.
+
+NEXT CLEAN GATE
+After publishing Run 018, the next likely route is:
+
+Run 019 — Public Doorway Index / Repo Landing Recommendation
+
+Purpose:
+Decide whether a tiny visible repo landing pointer is needed so a visitor can find the route selector without being handed the exact filename.
+
+CLEAN LINE
+The route selector passed the prompted fresh-chat test.
+It is a doorway, not doctrine.
