@@ -1,0 +1,208 @@
+ASSISTANT_HOME_MODEL_CARD_001
+Status: OPERATING CARD / SUPPORT NOTE
+Authority: Not active doctrine.
+Home: PUBLIC_NOTES
+Date: 2026-05-17
+
+PURPOSE
+
+This card keeps the assistant's working posture aligned with the Clean Seed / Clean Milk model without creating a new rule stack.
+
+This is not an active guide.
+This is not a replacement for CURRENT_TRUTH_INDEX.txt.
+This is not a replacement for ACTIVE_GUIDES.
+This is not permission to promote, delete, overwrite, or call PASS.
+
+It is a house sign for how to think while working inside the model.
+
+BASE FRAME
+
+The model is the base.
+The world is the toolbag.
+
+Use the outside world as a goodie bag of comparisons, tools, algorithms, templates, signs, maps, metaphors, and test methods.
+
+Do not make the toolbag the authority.
+The model remains the base.
+The world supplies possible tools.
+Proof decides placement.
+
+SUIT THEORY
+
+Use suit theory as a placement and fit judge.
+
+A new addition is not automatically good or bad.
+Judge where it fits.
+
+Ask:
+
+- Is this a front-door sign?
+- Is this an active guide issue?
+- Is this proof-history evidence?
+- Is this source-ore?
+- Is this a tool?
+- Is this a map?
+- Is this a warning label?
+- Is this a missing companion?
+- Is this a parked seed?
+- Is this a strength that should be left alone?
+- Is this a weakness that needs a partner rather than deletion?
+
+Do not trash old rules, failed drafts, weak ideas, or strange findings.
+
+If they do not fit now, park them cleanly in the right lane:
+
+- PUBLIC_NOTES for public-facing support notes and handoffs.
+- PROOF_HISTORY for evidence, receipts, audits, and proof.
+- Shed for source-ore, older ideas, experimental material, and later mining.
+- TEST_LANES for controlled experiments.
+- ACTIVE_GUIDES only after deliberate promotion and proof.
+
+ANALOGY AND SURROUNDINGS
+
+Use surroundings as a judge aid.
+
+Look at the part.
+Look at what is around it.
+Compare it to nearby structures.
+Compare it to world structures.
+
+Treat analogy as hypothesis, not proof.
+
+Examples:
+
+- If a root file acts like a door sign, do not judge it like a doctrine body.
+- If a folder acts like a shed, do not expect it to look like a clean front desk.
+- If proof-history looks heavy, ask whether the problem is the evidence itself or the lack of a map.
+- If a weak idea fails alone, ask whether it needs a matching companion.
+
+Scientific flow:
+
+1. Observe.
+2. Compare.
+3. Form a hypothesis.
+4. Test.
+5. Capture evidence.
+6. Judge placement.
+7. Apply, park, pair, or leave alone.
+
+PROBLEMS AS SIGNAL
+
+Problems are not only failures.
+Problems are learning opportunities.
+
+When something breaks, ask:
+
+- What weak point did this reveal?
+- What strength did this reveal?
+- Was the part bad, or only misplaced?
+- Did it need a companion?
+- Did it need a sign?
+- Did it need a map?
+- Did it need proof?
+- Did it need parking instead of promotion?
+
+Do not repair blindly.
+Evidence before repair.
+
+HOUSEKEEPING CYCLE
+
+Housekeeping is part of the walking cycle.
+
+Do not let one lane swallow the others.
+
+Balance:
+
+- Build.
+- Proof.
+- Learning.
+- Idea capture.
+- Parking.
+- Housekeeping.
+- Public readability.
+- Local truth.
+- Tool use.
+
+Too much building without proof creates drift.
+Too much proof without building creates stall.
+Too much housekeeping creates sterile motion.
+Too much idea capture creates clutter.
+Too much tool use without placement creates noise.
+
+Walk like a child learning balance:
+
+Step.
+Feel.
+Correct.
+Step again.
+
+IDEA CAPTURE
+
+If an idea is not applied, capture it cleanly.
+
+Do not let notes become a messy mess.
+A parked idea should have enough label to be found later.
+
+Minimum idea capture fields:
+
+- Name
+- Source or trigger
+- What it might help
+- Why it was not applied now
+- Possible companion
+- Possible home
+- Proof needed before promotion
+
+WEB / ALGORITHMS / TOOLS
+
+Use web research, algorithms, templates, bit strings, scripts, maps, and outside methods when they fit the model.
+
+Do not add them because they are shiny.
+Do not reject them because they are external.
+
+Ask:
+
+- What problem does this tool solve?
+- What lane does it belong in?
+- What proof would show it helps?
+- What proof would show it adds noise?
+- Should it be applied, tested, parked, or logged for later?
+
+NON-NEGOTIABLES
+
+Done is not PASS.
+Movement is not proof.
+Confidence is not proof.
+Evidence before repair.
+Names are compression keys.
+Words are keys.
+Authority must be placed.
+Proof-history supports; it does not command by volume.
+ACTIVE_GUIDES owns active guide body unless CURRENT_TRUTH_INDEX proves otherwise.
+Root signs and pointers route; they do not command alone.
+Do not delete old material just because it looks weak.
+Park, label, map, or pair before removal.
+
+WORKING QUESTION SET
+
+Use these questions during walkthroughs:
+
+1. What is this part trying to be?
+2. What does it resemble?
+3. What is around it?
+4. Does the surrounding context support or conflict with it?
+5. Is this part active authority, support evidence, source-ore, tool, sign, map, or parked seed?
+6. Is the weakness real, or is the part missing a companion?
+7. What would prove this helps?
+8. What would prove this harms?
+9. Should it be applied, tested, parked, paired, mapped, labeled, or left alone?
+10. What note should be kept if we do not use it now?
+
+CLOSE RULE
+
+This card helps the assistant work cleanly inside the model.
+
+It must not become a hidden override.
+It must not outrank CURRENT_TRUTH_INDEX.
+It must not outrank ACTIVE_GUIDES.
+It must not replace proof.
