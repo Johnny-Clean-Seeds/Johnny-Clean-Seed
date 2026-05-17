@@ -1,0 +1,60 @@
+MOCK WORLD SYMBOL SPINE PATTERN GATE EVIDENCE REPORT
+STAMP: 20260517_082559
+INSTALL_ID: CS_INSTALL_20260517_MOCK_WORLD_SYMBOL_SPINE_PATTERN_GATE
+
+WHY THIS MATTERS
+This was a major suit-growth step. The assistant explored outside the saved algorithm list in a mock world, tested boundary movement, noticed repeated signs and symbols, kept a rope/return anchor, stopped at a save-worthy point, and did not drift into unbounded exploration.
+
+ACTIVE CLAIM
+The mock-world test produced usable active behavior:
+- Symbol Spine Compression
+- No Loose Gear Rule
+- Pattern Signal Gate
+- Owner / Backup / Specialist states
+- Replacement Rule
+- Feedback Loop Stop Gates
+- Clean Gut Calibration
+- Rope-held mock-world exploration
+
+MOCK WORLD BOUNDARY HELD
+REAL REPO ACTION DURING MOCK RUN: NO
+REAL FILE ACTION DURING MOCK RUN: NO
+ACTIVE GUIDE EDIT DURING MOCK RUN: NO
+CURRENT_TRUTH_INDEX EDIT DURING MOCK RUN: NO
+CLEANUP DURING MOCK RUN: NO
+DELETE/MOVE/RENAME DURING MOCK RUN: NO
+DOCTRINE REWRITE DURING MOCK RUN: NO
+
+SYMBOL SPINE
+GATE -> MAP -> QUEUE -> LEDGER -> LOOP -> STATE -> SHIELD -> ROPE -> FILTER -> BRIDGE
+
+MEANING
+GATE: stop bad movement before it enters.
+MAP: show structure before action.
+QUEUE: order work without panic.
+LEDGER: preserve what happened.
+LOOP: improve by feedback.
+STATE: name where the thing is.
+SHIELD: prevent harm.
+ROPE: return without getting lost.
+FILTER: reduce the pile cleanly.
+BRIDGE: controlled connection between lanes/tools/workers.
+
+PATTERN SIGNAL GATE
+A repeated sign matters only if it repeats across tasks, predicts failure, reduces load, explains a prior miss, improves routing, protects authority, or creates a better next action.
+
+NO LOOSE GEAR RULE
+Every found tool, sign, symbol, pattern, or oddity must be assigned a home:
+BODY, RACK, PALLET, REFERENCE, QUARANTINE, INSTALLED, or PROOF-HISTORY ONLY.
+
+EVIDENCE VERDICT
+MOCK RUN: PASS
+ACTIVE INSTALL APPROVED BY USER: YES
+ACTIVE INSTALL SCOPE: COMPACT BEHAVIOR ONLY
+FULL FRAMEWORK IMPORT: NO
+CLEANUP: NO
+DELETE/MOVE/RENAME: NO
+
+NEXT CLEAN DIRECTION
+Use the installed symbol spine and mock-world rope behavior on future boundary tests.
+Return to weakest-link work after this install.

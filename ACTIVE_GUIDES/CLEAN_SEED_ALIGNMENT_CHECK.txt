@@ -5125,3 +5125,45 @@ Do not use yet.
 Do not install yet.
 Save/lock the list first.
 Then test algorithms one by one with the ledger.
+
+===============================================================================
+CHECK: MOCK WORLD / SYMBOL SPINE / PATTERN GATE / ROPE HELD
+ID: CS_INSTALL_20260517_MOCK_WORLD_SYMBOL_SPINE_PATTERN_GATE
+===============================================================================
+
+Run this check when:
+- The user tells the assistant to explore, go further, use gut, test boundaries, or move in its own world.
+- The assistant notices repeating signs, symbols, oddities, or pattern echoes.
+- A new tool cluster appears.
+- The assistant might be growing faster than the house can carry.
+- The assistant needs to test a move without touching real files or doctrine.
+- The assistant feels a save point forming.
+
+PASS if:
+- Return anchor is named.
+- Mock boundary is named.
+- No real file/action/install happens during mock exploration.
+- Repeating signs pass Pattern Signal Gate before they matter.
+- Every new tool/pattern gets a home.
+- Tool Trial Ledger records helped/hurt/partial, tradeoff, decision, and next direction.
+- Rope is held.
+- Exploration stops at a save-worthy point before drift.
+- Real install happens only after explicit approval.
+
+FAIL if:
+- Mock world changes real files.
+- The assistant loses the return anchor.
+- The assistant follows symbols as vibes instead of evidence.
+- The assistant keeps exploring after the save point.
+- Good findings remain loose in chat.
+- The assistant installs broad exploration output without compacting it.
+- The assistant treats mock PASS as final real-world PASS.
+
+Required route:
+ANCHOR -> MOCK WORLD -> BOUNDARY -> SIGNAL WATCH -> LEDGER -> HOME ASSIGNMENT -> SAVE/INSTALL DECISION -> RETURN
+
+Required symbol spine:
+GATE -> MAP -> QUEUE -> LEDGER -> LOOP -> STATE -> SHIELD -> ROPE -> FILTER -> BRIDGE
+
+Required home states:
+BODY -> RACK -> PALLET -> REFERENCE -> QUARANTINE -> INSTALLED -> PROOF-HISTORY ONLY

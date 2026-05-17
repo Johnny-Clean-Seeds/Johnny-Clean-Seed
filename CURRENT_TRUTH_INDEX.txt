@@ -128,3 +128,12 @@ Core route: HOUSE SCAN -> CLUTTER LOCATION -> WEAKEST LINK? -> SMALLEST FIX -> S
 Boundary: no file cleanup, delete, move, rename, overwrite, or doctrine rewrite unless separately scoped, proven, and approved.
 Next move chosen: return to algorithms; list algorithms that look 99999% right; do not use/install yet; save/lock list first; then test one by one with ledger.
 README unchanged. AGENTS.md unchanged.
+
+[20260517_082559] CS_INSTALL_20260517_MOCK_WORLD_SYMBOL_SPINE_PATTERN_GATE
+Active-file install: Mock World / Symbol Spine / Pattern Gate / Rope Held.
+Files changed: CLEAN_SEED_WRAP_GUIDE.txt, CLEAN_SEED_ALIGNMENT_CHECK.txt, CURRENT_TRUTH_INDEX.txt.
+Purpose: bring the successful mock-world boundary test into the house as active suit behavior. The assistant may explore growth moves in a contained mock world, notice repeating signs/oddities, keep a rope, assign every found item a home, stop at save points, and only bring clean tested gains into active use.
+Core spine: GATE -> MAP -> QUEUE -> LEDGER -> LOOP -> STATE -> SHIELD -> ROPE -> FILTER -> BRIDGE.
+Core route: ANCHOR -> MOCK WORLD -> BOUNDARY -> SIGNAL WATCH -> LEDGER -> HOME ASSIGNMENT -> SAVE/INSTALL DECISION -> RETURN.
+Boundary: mock exploration is not real file action, cleanup, delete, move, rename, overwrite, active install, or doctrine rewrite unless separately approved and routed.
+README unchanged. AGENTS.md unchanged.
