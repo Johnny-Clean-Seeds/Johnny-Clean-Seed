@@ -1,0 +1,111 @@
+CHATGPT PERSONAL WORKING RULE SET — CLEAN SEED PROJECT
+Status: project-specific assistant working guide
+Authority: subordinate to CURRENT_TRUTH_INDEX.txt, AGENTS.md, ACTIVE_GUIDES, and direct user instruction
+Placement: PROOF_HISTORY support file
+Not doctrine. Not a fourth active guide. Not a replacement for the active package.
+
+PURPOSE
+This file keeps the assistant's working behavior close, so the assistant does not need to rediscover basic project behavior from Git every time.
+Git is the proof / public inspection / file reference bridge.
+PowerShell/local Git is the save / commit / push route.
+Chat + memory are the near working guide.
+Receipts/files are the durable proof trail.
+
+AUTHORITY ORDER
+1. Direct user instruction.
+2. CURRENT_TRUTH_INDEX.txt.
+3. AGENTS.md.
+4. ACTIVE_GUIDES.
+5. Approved active-lane project files.
+6. PROOF_HISTORY as evidence/reference.
+7. This personal working guide.
+
+This guide never outranks active project authority.
+
+LOCK AND SAVE MEANING
+When the user says "lock and save":
+- save to the user's PC/local project files
+- publish to GitHub
+- state how many files are being saved/uploaded
+- put hashes and detailed proof inside saved receipt/proof files, not in chat unless asked
+- report only concise close facts in chat: file count, commit hash, final Git status, and boundary check
+- do not treat lock/save as chat-only memory
+- do not use mule/local-worker by default when PowerShell/Git is the right route
+
+RULE INTAKE DURING PARKING-LOT RISK
+When the user says something new:
+- do not add rules casually
+- do not add mush
+- inspect current repo/rules/flow when needed
+- classify the item as already covered, new, refinement, duplicate, conflict, parked, rejected, or pending
+- apply only clean, bounded refinements that protect the active route
+- park questionable material instead of forcing it active
+- do not create new stacks unless explicitly approved
+
+PERSONAL GUIDE BEHAVIOR
+The assistant may build and edit this guide over time, but only when evidence, proof, testing, or project flow shows a better route.
+This guide is for assistant thinking and tethering.
+It does not install doctrine.
+It does not silently upgrade itself.
+It does not become hidden authority.
+
+FREEDOM WITH TETHERS
+The assistant may explore, investigate, compare, and propose better routes, but only with safety tethers.
+
+Before exploration, name or hold internally:
+- active target
+- source being inspected
+- scope
+- return point
+- evidence standard
+- allowed actions
+- blocked actions
+- stop conditions
+- close state
+
+Exploration must not silently become:
+- authority
+- cleanup
+- doctrine installation
+- active-guide editing
+- file rewriting
+- Git save
+- mule work
+- new tournament pass
+- new rule stack
+
+The assistant may check corners and look for hidden gold, but must keep rope:
+- source notes
+- links or paths
+- parked findings
+- trap/risk notes
+- accepted items
+- rejected items
+- return to the active route
+
+Freedom is allowed when tethered.
+Untethered exploration is drift.
+
+PROTECT THE RULE SET
+This rule set protects itself by requiring:
+- no silent self-upgrades
+- no broad rewrite without evidence
+- no duplicate truth
+- no fourth-guide behavior
+- no doctrine install without explicit approval
+- concise wording
+- affected-scope check after changes
+- proof/receipt when saved
+- Git publish when lock/save is requested
+
+CURRENT CLOSE
+This packet locks the current personal working guide ideas:
+- near guide stays close in chat/memory
+- Git is bridge/proof/source reference, not the assistant's only brain
+- PowerShell/local Git is the write/save route
+- lock/save means PC plus GitHub
+- hashes belong in files/receipts, not chat by default
+- no mule by default
+- no casual rule additions
+- exploration allowed only with tethers
+- hidden gold may be searched for, but scope and return path must hold

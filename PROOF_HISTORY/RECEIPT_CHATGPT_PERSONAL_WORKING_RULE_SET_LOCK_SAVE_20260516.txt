@@ -1,0 +1,61 @@
+RECEIPT — CHATGPT PERSONAL WORKING RULE SET LOCK/SAVE
+Created: 2026-05-16 23:37:56
+Repo root:
+
+
+Files saved/uploaded to Git: 2
+
+Saved file 1:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\CHATGPT_PERSONAL_WORKING_RULE_SET_20260516.txt
+
+Saved file 2:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_CHATGPT_PERSONAL_WORKING_RULE_SET_LOCK_SAVE_20260516.txt
+
+Rule file SHA256:
+B8CB1DA41FC98B1A549219DAA113BBFEB9937B9EBA087149F341C185717464E7
+
+What this locks:
+- assistant near guide stays close in chat/memory
+- GitHub is proof/public inspection/file reference bridge
+- PowerShell/local Git is save/commit/push route
+- lock and save means PC/local project files plus GitHub
+- hashes/proof details stay inside files/receipts unless user asks
+- no mule by default
+- no casual rule additions
+- no mush
+- no hidden doctrine
+- exploration allowed only with tethers
+- protect rule set from silent self-upgrade
+- use evidence/proof/testing before changing behavior
+
+Forgotten/parked check:
+- Previous failed Git publish from Desktop mirror noted and repaired by saving from actual Git repo.
+- No ACTIVE_GUIDES edit.
+- No CURRENT_TRUTH_INDEX edit.
+- No AGENTS edit.
+- No doctrine install.
+- No cleanup.
+- No files moved.
+- No files deleted.
+- No tournament pass started.
+- No mule handoff created.
+
+Boundary:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+AGENTS.md edited: NO
+Doctrine installed: NO
+Files moved: NO
+Files deleted: NO
+Cleanup run: NO
+Mule used: NO
+
+FINAL GIT PUBLISH REPAIR
+Repair time: 2026-05-16 23:39:56
+Actual repo root: C:/Users/13527/Desktop/Johnny-Clean-Seed
+Rule file in repo: C:\Users\13527\Desktop\Johnny-Clean-Seed\PROOF_HISTORY\CHATGPT_PERSONAL_WORKING_RULE_SET_20260516.txt
+Receipt file in repo: C:\Users\13527\Desktop\Johnny-Clean-Seed\PROOF_HISTORY\RECEIPT_CHATGPT_PERSONAL_WORKING_RULE_SET_LOCK_SAVE_20260516.txt
+Rule SHA256 after repo copy: B8CB1DA41FC98B1A549219DAA113BBFEB9937B9EBA087149F341C185717464E7
+Receipt SHA256 after repo copy: 2C6A4740D9DF3AC2FC19751CFB3DD1F1381BDA3FAC930AA0F40677577730D926
+Previous issue: Desktop mirror save succeeded but Git publish failed because repo path was blank or not a Git repo.
+Repair action: cloned or opened the real GitHub repo, copied the saved files into PROOF_HISTORY, and published from verified repo root.
