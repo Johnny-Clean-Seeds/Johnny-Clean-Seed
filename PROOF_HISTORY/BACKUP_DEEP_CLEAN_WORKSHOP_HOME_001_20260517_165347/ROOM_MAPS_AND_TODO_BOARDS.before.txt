@@ -463,25 +463,3 @@ Heartbeat: loaded, correctly not fired; conditional.
 Capped Retry: helped lightly; live-used as cap discipline.
 Circuit Breaker: armed, not fired; still needs real repeated-failure proof.
 Dead-Letter Queue: helped; live-used on mule overclaim.
-
-BOARD UPDATE: WORKSHOP_HOME_DEEP_CLEAN
-ROOM:
-Front Door + Tool Shed + Tool Crib + Map Wall + Evidence Ledger.
-
-PURPOSE:
-Keep the workshop home clean, expandable, findable, and not bloated.
-
-CHECKLIST:
-- repo path current
-- old path not present in current authority/workshop files
-- shed index points to crib and room maps
-- crib has job boxes
-- room map has boards and placement rules
-- six-tool live-use box remains job-specific, not daily carry
-- active guides untouched
-- truth index untouched unless path authority requires it
-- AGENTS.md untouched unless bridge authority requires it
-- no delete/move/rename during home deep clean
-
-RETURN CONDITION:
-Home is clean if required files exist, pointers are present, duplicate markers are not silently acted on, boundaries are preserved, report/receipt are saved, push succeeds, and final git status is clean.
