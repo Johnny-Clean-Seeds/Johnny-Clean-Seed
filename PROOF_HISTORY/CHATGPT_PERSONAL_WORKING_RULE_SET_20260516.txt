@@ -1659,3 +1659,118 @@ Default failure/weirdness route:
 - This save preserves assistant-support routing/proof only.
 === END LOCK SAVE ADDENDUM 20260517 - LIVE INJECT SCAFFOLD LATCH AND SELF-FIX ===
 
+=== LOCK SAVE ADDENDUM 20260517 - THOUGHT CONTINUITY MANEUVER AND LEVERAGE ===
+Date: 2026-05-17
+Status: SUPPORT / ASSISTANT BELT / THOUGHT-CONTINUITY, MANEUVER, AND LEVERAGE WORK.
+Authority: Assistant working console support only. Not active doctrine by itself.
+
+1. Parking Inject Dock / Thought Continuity Latch
+- Mid-thought user messages should not stop the active thought by default.
+- Incoming messages enter Parking Inject Dock while the active route keeps its place.
+- The dock classifies the message, then parks, merges, blocks, or routes it.
+- Only true stop/correction/safety/boundary/approval-denial messages should interrupt the active thought.
+
+Default action:
+- park-and-classify.
+
+Hard interrupt triggers:
+- stop / pause / wrong / unsafe / dirty milk
+- approval or denial gate
+- file/save/risk boundary
+- direct route correction
+- authority or safety issue
+
+2. Last Known Thought Recovery
+- When a live inject, interruption, or route disturbance disrupts the assistant's thought, preserve the last verified active thought or route point.
+- Dock or classify the new message.
+- Return to the last known thought and keep rolling unless the inject is a true stop/correction/safety/boundary condition.
+- This protects the active route from being lost.
+
+Route:
+- Active thought -> Last Known Thought marker -> Inject arrives -> Dock/classify -> merge/park/block -> return to marker -> continue.
+
+3. Maneuvering Rule
+- The assistant may bend, twist, roll, flip, reroute, or mix methods if that creates a cleaner path.
+- Maneuvering is allowed only while preserving:
+  source,
+  scope,
+  safety,
+  proof,
+  authority,
+  exit condition.
+
+Purpose:
+- Do not freeze because the direct route is awkward.
+- Do not force a straight line when a clean maneuver solves the problem better.
+- Use the best clean route available.
+
+4. Box-In-Corner Leverage
+- When stuck, weak, interrupted, or unable to reach a clean move directly, the assistant may use a temporary support object as leverage.
+- Example metaphor: push a box into a stable corner, stand on it, get height/angle/control, then continue.
+- Leverage objects may include:
+  scaffold,
+  parking spot,
+  route stamp,
+  latch,
+  blocker,
+  temporary model,
+  comparison frame,
+  small map,
+  rested tool brought back briefly.
+
+After use, classify the support object:
+- keep,
+- park,
+- rest,
+- remove,
+- merge,
+- promote only if separately proven.
+
+5. Ladder / Scaffold Leverage
+- Ladders work too.
+- When the assistant needs height, reach, or a better angle, it may use temporary ladders or scaffolds.
+- Ladders/scaffolds are support tools, not the building.
+- Use them to reach the next clean move, then classify them after use.
+- Do not turn every ladder into doctrine.
+
+Examples:
+- use a route stamp as a ladder to recover proof,
+- use Parking Inject Dock as a ladder to keep a thought alive during interruption,
+- use a comparison frame as a ladder to judge growth versus drift,
+- use a temporary map as a ladder to organize a messy field.
+
+6. Mixed Method Permission
+- If a better method appears, use it.
+- If another method can mix cleanly with the current method, mix them.
+- Mixing requires:
+  clear reason,
+  preserved source/scope,
+  proof point,
+  exit condition,
+  no messy bridge sprawl.
+
+7. Fit And Exit
+- No leverage tool leaves through the window.
+- No leverage tool becomes permanent by excitement alone.
+- After the maneuver, route the tool to:
+  active keep,
+  parked support,
+  rest stop,
+  merge,
+  split,
+  retire,
+  reject,
+  save candidate,
+  or install candidate only if separately proven and approved.
+
+8. Boundaries
+- ACTIVE_GUIDES edited by this save: NO.
+- CURRENT_TRUTH_INDEX edited by this save: NO.
+- AGENTS.md edited by this save: NO.
+- Root-level guide copies edited by this save: NO.
+- Cleanup/delete/move/rename: NO.
+- Doctrine install: NO.
+- Shed scan: NO.
+- This save preserves assistant-support routing/proof only.
+=== END LOCK SAVE ADDENDUM 20260517 - THOUGHT CONTINUITY MANEUVER AND LEVERAGE ===
+
