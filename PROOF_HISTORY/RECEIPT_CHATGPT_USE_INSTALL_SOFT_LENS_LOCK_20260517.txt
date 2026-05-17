@@ -1,0 +1,35 @@
+RECEIPT: CHATGPT USE-INSTALL DISTINCTION + SOFT-LENS STATE LOCK SAVE
+Date: 2026-05-17
+
+Saved/uploaded file count intended: 2
+
+Files:
+1. PROOF_HISTORY/CHATGPT_PERSONAL_WORKING_RULE_SET_20260516.txt
+2. PROOF_HISTORY/RECEIPT_CHATGPT_USE_INSTALL_SOFT_LENS_LOCK_20260517.txt
+
+What changed:
+- Updated existing assistant working console with a bounded addendum:
+  - Use Does Not Equal Install Rule.
+  - Promotion path for good idea -> soft use -> soft-lock -> install candidate.
+  - Current soft-lens state for main-file scans.
+  - Deep scan verdict: PASS WITH GUARDRAILS / no active-file edit needed from that scan.
+  - Correction that vague "no install now" language must be replaced with exact status labels.
+
+What did not change:
+- ACTIVE_GUIDES edited: NO
+- CURRENT_TRUTH_INDEX.txt edited: NO
+- AGENTS.md edited: NO
+- Root-level guide copies edited: NO
+- Cleanup/delete/move/rename: NO
+- Doctrine install: NO
+- Shed scan: NO
+
+Reason:
+User challenged why a good rule would not be installed if it works.
+Clean resolution: use and install are different jobs. The assistant may use good logic from the belt, but active-file install requires proof that the files need it written.
+
+Console SHA256 after write:
+6BFD4CEEF92DF78E3B706392BCB99BC6DB51437933FDED053A00A54D5BC5ACD8
+
+Boundary verdict:
+PASS - support-only lock/save. No active package expansion.

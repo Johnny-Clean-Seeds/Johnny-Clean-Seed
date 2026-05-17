@@ -1040,4 +1040,53 @@ Authority: Assistant working console support only. Not active doctrine by itself
 - This save preserves assistant-support routing/proof only.
 === END LOCK SAVE ADDENDUM 20260517 - MATCH METHOD AND ROOT GUIDE WATCH ===
 
+=== LOCK SAVE ADDENDUM 20260517 - USE INSTALL AND SOFT LENS STATE ===
+Date: 2026-05-17
+Status: SUPPORT / ASSISTANT BELT / SOFT-LENS STATE.
+Authority: Assistant working console support only. Not active doctrine by itself.
+
+1. Use Does Not Equal Install Rule
+- Good logic can be used without being installed into active guide files.
+- Apply useful logic when it helps behavior.
+- Install wording into active files only when the files themselves need that wording to prevent future failure, close a real gap, clarify authority, or support future users/workers.
+- A good rule does not automatically need active-guide installation.
+- If a good idea is already covered by active files or already working cleanly from the assistant belt, keep using it without duplicating doctrine.
+- Active-file install requires proof that the files need it written, not merely that the assistant benefits from using it.
+
+2. Promotion Path
+- Good idea -> soft use.
+- Repeated useful idea -> soft-lock in assistant belt.
+- Gap-filling or system-shaping idea -> candidate for active-file install after proof, neighbor check, and user approval.
+- Already-covered idea -> keep using, do not duplicate.
+- Risky or unclear idea -> park, test, or reject.
+
+3. Current Soft-Lens State For Main-File Scans
+- Respect thy Neighbor: standing soft-lock judge/lens, not a normal fighter unless user reopens it.
+- File Count Is Not Bloat / Unindexed Authority Is Bloat: active soft scan lens.
+- Signal Card / Anti-Glow: active soft scan lens.
+- Public Doorway / Reader Route: active soft scan lens.
+- Match Method Transfer Rule: parked support / hanging note, not part of the current four-lens scan set.
+
+4. Deep Scan Verdict Preserved
+- Main files scanned with the current soft lenses.
+- Verdict: PASS WITH GUARDRAILS / no active-file edit needed from that scan.
+- Reason: the main files already cover enough of the substance through authority routing, affected-area checks, role/home/status checks, and active-guide boundaries.
+- Root-level guide-copy seam remains CLEARED FOR NOW / WATCH ITEM, not install target, unless real public-entry confusion, stale-root-copy use, failed fresh-use test, or authority-routing problem appears.
+
+5. Correction From User Challenge
+- The assistant should have identified the Use Does Not Equal Install distinction without requiring the user to force it.
+- Future install/no-install language must classify the actual state:
+  install now, soft-use, soft-lock, covered/no edit needed, watch item, parked support, or reject.
+- Do not say "no install now" as a vague status when the real status is "use now, but no active-file edit because the file does not need it written."
+
+6. Boundaries
+- ACTIVE_GUIDES edited by this save: NO.
+- CURRENT_TRUTH_INDEX edited by this save: NO.
+- AGENTS.md edited by this save: NO.
+- Root-level guide copies edited by this save: NO.
+- Cleanup/delete/move/rename: NO.
+- Doctrine install: NO.
+- Shed scan: NO.
+- This save preserves assistant-support routing/proof only.
+=== END LOCK SAVE ADDENDUM 20260517 - USE INSTALL AND SOFT LENS STATE ===
 
