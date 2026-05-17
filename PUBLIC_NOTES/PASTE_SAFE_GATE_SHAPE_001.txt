@@ -1,0 +1,91 @@
+PASTE_SAFE_GATE_SHAPE_001
+Status: ACTIVE SUPPORT NOTE / LOCAL COMMAND HYGIENE POWER PLAY
+Authority: Not active doctrine.
+Home: PUBLIC_NOTES
+Date: 2026-05-17
+
+PURPOSE
+
+This note captures the repeated local PowerShell paste-shape leak.
+
+The issue was not the repo home.
+
+The issue was command hygiene.
+
+Terminal transcript output was pasted back into PowerShell as if it were code.
+
+ROOT CAUSE
+
+PowerShell commands, prompt text, checker output, git output, and error output became visually mixed.
+
+PowerShell then tried to execute non-command lines such as:
+
+- PS C:\...>
+- PASS - ...
+- VERDICT: PASS
+- git commit output
+- git push output
+- error messages
+- previous transcript text
+
+This caused noise and false errors.
+
+POWER PLAY
+
+Local PowerShell code must be clearly separated from explanation and output.
+
+The assistant must label local code:
+
+THIS CODE IS FOR LOCAL
+
+The user should paste only the clean code block.
+
+Do not paste:
+
+- terminal prompts,
+- PASS/FAIL output,
+- VERDICT lines,
+- git output,
+- prior transcript,
+- error output,
+- assistant explanation text.
+
+SAFE SHAPE
+
+Use smaller local code blocks.
+
+Separate build/proof from commit/push when paste safety is uncertain.
+
+Expected output belongs outside the code block.
+
+If transcript contamination happens:
+
+1. FREEZE.
+2. Stop pasting.
+3. Run git status.
+4. Prove whether the repo is clean.
+5. Capture the lesson.
+6. Continue only after the room is proven safe.
+
+MODEL FIT
+
+This is a tool-lane and command-lane support note.
+
+It does not change active doctrine.
+
+It supports the assistant suit operating system.
+
+It protects proof containment, lock/save discipline, neighbor policy, and source-truth clarity.
+
+CLOSE RULE
+
+It must not outrank CURRENT_TRUTH_INDEX.txt.
+
+This note must not outrank ACTIVE_GUIDES.
+
+Keep it visible while useful.
+
+When stale, move or archive it to the correct proof or parking lane.
+
+Do not delete it.
+
