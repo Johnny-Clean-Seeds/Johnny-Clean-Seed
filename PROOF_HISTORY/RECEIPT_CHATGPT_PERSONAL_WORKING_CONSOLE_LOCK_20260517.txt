@@ -1,0 +1,49 @@
+RECEIPT — CHATGPT PERSONAL WORKING CONSOLE LOCK
+Created: 2026-05-17 00:01:06
+Repo root:
+C:/Users/13527/Desktop/Johnny-Clean-Seed
+
+Files saved/uploaded to Git: 2
+
+Saved file 1:
+C:\Users\13527\Desktop\Johnny-Clean-Seed\PROOF_HISTORY\CHATGPT_PERSONAL_WORKING_RULE_SET_20260516.txt
+
+Saved file 2:
+C:\Users\13527\Desktop\Johnny-Clean-Seed\PROOF_HISTORY\RECEIPT_CHATGPT_PERSONAL_WORKING_CONSOLE_LOCK_20260517.txt
+
+Rule file SHA256:
+0CE645F4129901085A98350268C9AAF49924B01CB195EFE14B415644140C4089
+
+What this locks:
+- assistant working guide converted from compressed rule essay into working console
+- near guide / file truth split
+- authority split between user direction, file truth, operating route, proof trail, and assistant tether
+- operator panel
+- bridge bar
+- assistant modes
+- danger gates
+- lock/save gate
+- problem/crime-scene gate
+- soft apply/test run rule
+- trap wall
+- readability/bridge shape rule
+- close state
+
+Boundary:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+AGENTS.md edited: NO
+Doctrine installed: NO
+Tournament state changed: NO
+Mule used: NO
+Cleanup run: NO
+Files moved: NO
+Files deleted: NO
+
+Notes:
+This is a PROOF_HISTORY support file and assistant behavior tether only.
+It is not a fourth active guide.
+It does not replace CURRENT_TRUTH_INDEX.txt, AGENTS.md, or ACTIVE_GUIDES.
+
+Receipt file SHA256:
+2D10EC0EEB8DF7D78AECDE946F07B471670503303A7B18DD4F5ECE07B4219337

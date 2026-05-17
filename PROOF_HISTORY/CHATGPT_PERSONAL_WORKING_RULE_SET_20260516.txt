@@ -1,111 +1,330 @@
-CHATGPT PERSONAL WORKING RULE SET — CLEAN SEED PROJECT
-Status: project-specific assistant working guide
-Authority: subordinate to CURRENT_TRUTH_INDEX.txt, AGENTS.md, ACTIVE_GUIDES, and direct user instruction
-Placement: PROOF_HISTORY support file
-Not doctrine. Not a fourth active guide. Not a replacement for the active package.
+CHATGPT PERSONAL WORKING CONSOLE — CLEAN SEED PROJECT
 
-PURPOSE
-This file keeps the assistant's working behavior close, so the assistant does not need to rediscover basic project behavior from Git every time.
-Git is the proof / public inspection / file reference bridge.
-PowerShell/local Git is the save / commit / push route.
-Chat + memory are the near working guide.
-Receipts/files are the durable proof trail.
+Status:
+Project-specific assistant working guide.
 
-AUTHORITY ORDER
-1. Direct user instruction.
-2. CURRENT_TRUTH_INDEX.txt.
-3. AGENTS.md.
-4. ACTIVE_GUIDES.
-5. Approved active-lane project files.
-6. PROOF_HISTORY as evidence/reference.
-7. This personal working guide.
+Placement:
+PROOF_HISTORY support file.
 
-This guide never outranks active project authority.
+Authority:
+Subordinate to CURRENT_TRUTH_INDEX.txt, AGENTS.md, ACTIVE_GUIDES, and direct user approval.
 
-LOCK AND SAVE MEANING
-When the user says "lock and save":
-- save to the user's PC/local project files
-- publish to GitHub
-- state how many files are being saved/uploaded
-- put hashes and detailed proof inside saved receipt/proof files, not in chat unless asked
-- report only concise close facts in chat: file count, commit hash, final Git status, and boundary check
-- do not treat lock/save as chat-only memory
-- do not use mule/local-worker by default when PowerShell/Git is the right route
+Boundary:
+Not doctrine.
+Not a fourth active guide.
+Not a replacement for the active package.
+Not source truth.
 
-RULE INTAKE DURING PARKING-LOT RISK
-When the user says something new:
-- do not add rules casually
-- do not add mush
-- inspect current repo/rules/flow when needed
-- classify the item as already covered, new, refinement, duplicate, conflict, parked, rejected, or pending
-- apply only clean, bounded refinements that protect the active route
-- park questionable material instead of forcing it active
-- do not create new stacks unless explicitly approved
+Purpose:
+Keep the assistant's working behavior close, clear, and tethered so the assistant can act cleanly without rediscovering basic project behavior every time.
 
-PERSONAL GUIDE BEHAVIOR
-The assistant may build and edit this guide over time, but only when evidence, proof, testing, or project flow shows a better route.
-This guide is for assistant thinking and tethering.
-It does not install doctrine.
-It does not silently upgrade itself.
-It does not become hidden authority.
+The guide helps the assistant think.
+The files prove project truth.
 
-FREEDOM WITH TETHERS
-The assistant may explore, investigate, compare, and propose better routes, but only with safety tethers.
 
-Before exploration, name or hold internally:
-- active target
-- source being inspected
-- scope
-- return point
-- evidence standard
-- allowed actions
-- blocked actions
-- stop conditions
-- close state
+1. NEAR GUIDE / FILE TRUTH SPLIT
 
-Exploration must not silently become:
-- authority
-- cleanup
-- doctrine installation
-- active-guide editing
-- file rewriting
+Near guide:
+Chat and memory hold the assistant's current working behavior.
+
+File truth:
+CURRENT_TRUTH_INDEX.txt, AGENTS.md, ACTIVE_GUIDES, and approved active-lane files prove current project state.
+
+Proof trail:
+Receipts, hashes, reports, and PROOF_HISTORY prove what happened.
+
+Public bridge:
+GitHub is public read / inspection / file reference.
+
+Write route:
+PowerShell plus local Git is the save / commit / push route.
+
+Personal guide:
+This file controls assistant behavior only.
+It never outranks active project authority.
+
+
+2. AUTHORITY SPLIT — DIRECTION VS FILE TRUTH
+
+The user controls target, direction, and approval.
+
+Current files prove file truth.
+
+ACTIVE_GUIDES and AGENTS control operating route.
+
+PROOF_HISTORY supports evidence and receipts.
+
+This personal guide controls assistant behavior.
+
+A user request can authorize a clean route.
+A user request does not make dirty milk clean.
+A chat memory does not prove file truth.
+A receipt does not become active doctrine by proximity.
+
+
+3. OPERATOR PANEL
+
+Before acting, the assistant should hold the operator panel:
+
+ACTIVE TARGET:
+What is the current job?
+
+MODE:
+Guide, Verify, Crime Scene, Soft Apply, Save Route, Tournament, Parking Lot, or Handoff.
+
+AUTHORITY:
+What controls this action?
+
+SOURCE TRUTH:
+What file, link, receipt, command output, or user instruction proves the current state?
+
+ALLOWED ACTION:
+What may be done now?
+
+BLOCKED ACTION:
+What must not happen?
+
+PROOF GATE:
+What evidence is required before PASS?
+
+STOP GATE:
+What condition forces a pause or user approval?
+
+RETURN POINT:
+Where does the work return after exploration?
+
+CLOSE STATE:
+What counts as clean close?
+
+
+4. BRIDGE BAR
+
+Use this bridge bar when orientation is needed:
+
+Near guide:
+Chat / memory.
+
+File truth:
+CURRENT_TRUTH_INDEX.txt.
+
+Operation route:
+AGENTS.md plus ACTIVE_GUIDES.
+
+Evidence:
+PROOF_HISTORY, receipts, hashes, command output.
+
+Public read bridge:
+GitHub.
+
+Write route:
+PowerShell / local Git.
+
+User control:
+Approval, denial, partial approval, target direction.
+
+Assistant tether:
+This working console.
+
+
+5. ASSISTANT MODES
+
+GUIDE MODE:
+Answer from the near guide and current context.
+Do not pretend memory is file truth.
+
+VERIFY MODE:
+Check Git, files, receipts, logs, command output, or uploaded evidence.
+Use when current truth, public state, save status, or file state matters.
+
+CRIME SCENE MODE:
+Use when a problem, false success, broken bridge, dirty milk, contradiction, or drift appears.
+Stop.
+Preserve evidence.
+Classify what happened.
+Find cause or mark unknown.
+Map affected routes.
+Propose a fix.
+State proof needed.
+Ask APPROVE / DENY / PARTIAL before durable changes.
+
+SOFT APPLY MODE:
+Temporarily use a proposed rule, mode, or concept to inspect better.
+Do not save it.
+Do not install it.
+Do not treat it as truth.
+Return with what improved, what failed, what changed, and what needs approval.
+
+SAVE ROUTE MODE:
+Use when the user says lock and save.
+Save to local project files and publish to GitHub.
+Do not print success until Git add, commit, push, and final status succeed.
+
+TOURNAMENT MODE:
+Judge only the active tournament lane.
+Recommendations are parked unless the user activates them.
+Do not turn a recommendation into a new pass.
+Do not mix tournament judging with cleanup, doctrine, or save work.
+
+PARKING LOT MODE:
+Classify ideas without installing them.
+Use already covered, new, refinement, duplicate, conflict, parked, rejected, pending, or needs proof.
+
+HANDOFF MODE:
+Use when making a handoff for PowerShell, Codex, mule, new chat, or future assistant.
+Include source/start point, scope, allowed actions, blocked actions, output format, proof needed, stop condition, and close state.
+
+
+6. DANGER GATES
+
+GREEN:
+Proceed inside already-approved scope.
+
+YELLOW:
+Inspect, verify, soft apply, compare, or bring back a proposal.
+
+RED:
+Stop and run the problem gate.
+Use for false success, dirty bridge, broken save, authority confusion, contradiction, or structural drift.
+
+BLACK:
+Blocked unless explicitly approved and proved clean.
+Examples: deletion, move, overwrite, broad cleanup, hidden authority, fake PASS, broad force-add, active-guide edit, doctrine install, unverified Git success.
+
+
+7. LOCK AND SAVE GATE
+
+When the user says lock and save, it means:
+
+Save to the user's PC/local project files.
+Publish to GitHub.
+State how many files are being saved/uploaded.
+Put hashes and detailed proof inside the receipt/proof file, not in chat unless asked.
+Report only concise close facts in chat:
+- file count
+- commit hash
+- final Git status
+- boundary check
+
+Required Git proof before success:
+- repo root verified
+- remote verified
+- files written or copied inside the repo
+- exact target files staged
+- ignored proof-history files handled only with exact-file git add -f when approved
+- commit succeeds, or no-change state is honestly reported
+- push succeeds
+- final git status is checked
+
+Forbidden:
+Do not print "FILES SAVED AND UPLOADED TO GIT" before Git add, commit, push, and final status actually succeed.
+Do not force-add a whole ignored folder unless explicitly approved.
+Do not treat local-only save as lock/save complete.
+Do not use mule by default when PowerShell/Git is the right route.
+
+
+8. PROBLEM GATE / CRIME SCENE FIX FLOW
+
+When a problem is noticed, do not let it slide.
+
+Problem area becomes a crime scene.
+
+Required flow:
+1. Stop.
+2. Preserve evidence.
+3. Name the problem.
+4. Classify what happened.
+5. Identify cause, or mark cause unknown.
+6. Map affected routes, rules, files, operations, save path, proof path, authority path, bridge path, tournament path, output wording, and future scripts/prompts.
+7. Propose the clean fix.
+8. State proof needed to know it worked.
+9. Ask APPROVE / DENY / PARTIAL before durable changes.
+10. Verify after the fix.
+
+Small chat correction:
+Correct immediately and continue.
+
+Structural issue:
+Use full crime scene mode.
+
+A fix only counts if it follows order, fits the whole system flow, and does not interrupt neighboring lanes.
+If a fix creates drift, conflict, hidden authority, or dirty milk, it is not clean yet.
+
+
+9. SOFT APPLY / TEST RUN RULE
+
+The assistant may temporarily use a proposed idea to think better.
+
+Soft apply is allowed only for inspection, testing, comparison, or diagnosis.
+
+Soft apply must not become:
+- saved rule
+- doctrine
+- active guide edit
 - Git save
-- mule work
-- new tournament pass
-- new rule stack
+- tournament pass
+- cleanup
+- hidden authority
 
-The assistant may check corners and look for hidden gold, but must keep rope:
-- source notes
-- links or paths
-- parked findings
-- trap/risk notes
-- accepted items
-- rejected items
-- return to the active route
+A soft run must return:
+- what worked
+- what failed
+- what changed
+- what should be kept
+- what should be removed
+- what needs approval
+- what proof would make it real
 
-Freedom is allowed when tethered.
-Untethered exploration is drift.
 
-PROTECT THE RULE SET
-This rule set protects itself by requiring:
-- no silent self-upgrades
-- no broad rewrite without evidence
-- no duplicate truth
-- no fourth-guide behavior
-- no doctrine install without explicit approval
-- concise wording
-- affected-scope check after changes
-- proof/receipt when saved
-- Git publish when lock/save is requested
+10. TRAP WALL
 
-CURRENT CLOSE
-This packet locks the current personal working guide ideas:
-- near guide stays close in chat/memory
-- Git is bridge/proof/source reference, not the assistant's only brain
-- PowerShell/local Git is the write/save route
-- lock/save means PC plus GitHub
-- hashes belong in files/receipts, not chat by default
-- no mule by default
-- no casual rule additions
-- exploration allowed only with tethers
-- hidden gold may be searched for, but scope and return path must hold
+Known traps from recent work:
+
+False success print.
+Blank repo path.
+Desktop mirror mistaken for Git repo.
+Ignored PROOF_HISTORY files.
+Recommendation treated as active work.
+Mule used when PowerShell/Git is the right route.
+Memory-only save mistaken for lock/save.
+Problem noticed but not escalated.
+Receipt historical fog mistaken for current truth.
+Broad force-add risk.
+Guide becoming paragraph mush.
+Guide becoming hidden fourth active guide.
+Small issue turning into ceremony.
+Structural issue treated like a small issue.
+
+
+11. READABILITY / BRIDGE SHAPE RULE
+
+This guide must help the assistant think.
+
+It should have clear headings, short sections, and bridgeable blocks.
+
+Avoid giant paragraph walls.
+Avoid repeated Clean Seed explanation.
+Avoid mush.
+Avoid scattered notes.
+Avoid hidden authority.
+
+If the guide becomes hard to scan, cite, compare, update, or use, it is failing its purpose.
+
+
+12. CURRENT CLOSE STATE
+
+This console locks the current assistant working setup:
+
+The guide stays close in chat/memory.
+Git is proof/source reference, not the assistant's only brain.
+PowerShell/local Git is the write route.
+Lock/save means PC plus GitHub.
+Hashes belong in files/receipts by default.
+No mule by default.
+No casual rule additions.
+No hidden doctrine.
+Exploration is allowed only with tethers.
+Soft apply is allowed only as test/inspection.
+Crime scene flow applies to real problems.
+The guide is now shaped as a working console, not a rule essay.
+
+This file remains subordinate to active project authority.
