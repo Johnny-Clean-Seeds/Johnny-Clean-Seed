@@ -456,3 +456,8 @@ NEXT CLEAN ACTION:
 Use the shed on one real task.
 Do not treat the shed as doctrine.
 Do not carry the whole shed.
+
+TOOL WORKSHOP SYSTEM POINTER:
+See TOOL_SHED\TOOL_CRIB_AND_BOXES.txt for the tool crib, job boxes, checkout rules, return rules, and tool logistics.
+See TOOL_SHED\ROOM_MAPS_AND_TODO_BOARDS.txt for room maps, hanging boards, to-do boards, design plans, backup rope, experiment bay, placement rules, and expansion gates.
+This pointer does not install doctrine. It links the shed inventory to the working logistics/design layer.

@@ -1,0 +1,255 @@
+CLEAN SEED TOOL CRIB AND JOB BOXES
+
+SAVE ID:
+BUILD_TOOL_WORKSHOP_SYSTEM_001
+
+DATE:
+20260517_163433
+
+STATUS:
+Working tool logistics layer.
+Not active doctrine.
+Not ACTIVE_GUIDES.
+Not CURRENT_TRUTH_INDEX.
+Not AGENTS.md.
+Not an install proposal.
+
+PURPOSE:
+Keep many tools available without carrying all tools at once.
+
+SHOP STRUCTURE:
+TOOL SHED = full inventory.
+TOOL CRIB = checkout desk.
+TOOLBOX WALL = job-specific kits.
+SHADOW BOARD = visible missing-tool detector.
+WORKBENCH = current active task.
+CLIPBOARD = short job card.
+RED TAG BIN = clutter, duplicate, risky, or unproven items.
+REPAIR BENCH = failed tools needing sharpening.
+CHARGING STATION = useful tools that need rest, evidence, or cooldown.
+PARTS BINS = child tools under larger spines.
+HOSE REEL = bridges/connectors pulled only as far as needed.
+LOCKOUT TAG = stop unsafe use until cleared.
+TORQUE WRENCH = minimal patch pressure.
+IMPACT DRIVER = high-force repair, requires checkpoint.
+BROOM / SHOP VAC = cleanup only after evidence capture.
+WATCH = load/time/stall monitor.
+STICKY NOTE = tiny temporary reminder; must be used, parked, or discarded before close.
+
+DAILY CARRY:
+Daily carry is not a belt full of tools.
+Daily carry is reflex only:
+1. readiness before stateful action
+2. evidence before verdict
+3. movement is not proof
+4. do not carry the whole shed
+5. return tools after task
+
+CHECKOUT RULE:
+A tool may leave the shed only when all are named:
+- job
+- reason
+- trigger
+- expected benefit
+- risk
+- return condition
+
+RETURN RULE:
+After use, return status must be one of:
+- helped
+- hurt
+- partial
+- unnecessary
+- missing
+- wrong tool
+- needs repair
+- merge
+- park
+- shed
+- promote candidate only with evidence
+
+TOOLBOX: GIT_WRITE_BOX
+JOB: Safe file/Git write.
+TOOLS:
+- Readiness Probe
+- Transaction / Two-Phase Commit
+- Checkpoint / Restore
+- Authority Chain Check
+- Timestamped Helpful Evidence Receipt
+- Movement Is Not Proof
+- Done Does Not Equal PASS
+SHADOW BOARD:
+- repo path confirmed
+- working tree checked
+- targets named
+- backup/receipt plan present
+- post-write hash/status returned
+
+TOOLBOX: READ_ONLY_VERIFY_BOX
+JOB: Inspect without changing.
+TOOLS:
+- Readiness Probe
+- Available Helpful Evidence Check
+- Proof Before Reality
+- Confidence Is Not Proof
+- Movement Is Not Proof
+- Cache Invalidation
+SHADOW BOARD:
+- source named
+- no write commands
+- no commit
+- no active guide edit
+- verdict separated from inference
+
+TOOLBOX: FAILURE_LOOP_BOX
+JOB: Prevent repeated same-class failure.
+TOOLS:
+- Capped Retry
+- Circuit Breaker
+- Failure Path
+- Recovery Path
+- Dead-Letter Queue
+- Evidence Before Repair
+SHADOW BOARD:
+- failure class named
+- attempt count known
+- changed method required for retry
+- failed output preserved
+
+TOOLBOX: FAILED_MATERIAL_BOX
+JOB: Preserve failed or blocked items without promotion.
+TOOLS:
+- Dead-Letter Queue
+- Parking Lane
+- Dirty Milk Quarantine
+- Reject / Block verdict
+- Timestamped Helpful Evidence Receipt
+SHADOW BOARD:
+- item named
+- reason for failure/block named
+- not active truth
+- return trigger named
+
+TOOLBOX: CLEANUP_SAFETY_BOX
+JOB: Clean without destroying truth.
+TOOLS:
+- Duplicate-Is-Evidence Gate
+- Available Helpful Evidence Check
+- Cache Invalidation
+- Dirty Milk Quarantine
+- Garbage Collection locked behind proof
+- Movement Is Not Proof
+SHADOW BOARD:
+- authority known
+- duplicate role known
+- hash/count checked
+- backup or quarantine plan present
+- no blind delete
+
+TOOLBOX: MULE_REPORT_BOX
+JOB: Judge outside-agent report.
+TOOLS:
+- Proof Before Reality
+- Confidence Is Not Proof
+- Available Helpful Evidence Check
+- Affected-Area Review
+- Tool Trial Ledger
+- Cache Invalidation
+SHADOW BOARD:
+- evidence vs inference separated
+- overclaims marked
+- missed issues marked
+- exact files verified when needed
+
+TOOLBOX: GOLD_INTAKE_BOX
+JOB: Capture useful ideas without flooding doctrine.
+TOOLS:
+- Protective Gold Cycle Gate
+- Gold Tray
+- Parking Lane
+- Rest Stop
+- Backpressure / Queue Throttling
+- Premature Crystallization Check
+- Apply Now Only If It Closes Current Active Gap
+SHADOW BOARD:
+- idea named
+- lane chosen
+- active gap connection stated
+- not installed by excitement
+
+TOOLBOX: PUBLIC_SHARE_BOX
+JOB: Prepare public-safe material.
+TOOLS:
+- Local vs Public Boundary
+- Public Codename Boundary
+- Words Are Keys
+- Source Doorway Check
+- Authority Chain Check
+- Controlled Promotion
+SHADOW BOARD:
+- local/private facts checked
+- public codename not command key
+- no sensitive local paths unless intended
+- source authority named
+
+TOOLBOX: COMMAND_GATE_BOX
+JOB: Handle formal commands and trigger safety.
+TOOLS:
+- Command Trigger Hygiene
+- Regex / Trigger Gate
+- Unknown Command / Did You Mean Gate
+- Words Are Keys
+- Source Doorway Check
+SHADOW BOARD:
+- command ID exact
+- command name matches
+- target named
+- near-match does not execute
+
+TOOLBOX: HOUSE_EXPANSION_BOX
+JOB: Add rooms/tools/maps without making bloat.
+TOOLS:
+- One Home / One Route / One Proof Path
+- Affected-Area Review
+- Dependency Graph / Topological Order
+- Backpressure / Queue Throttling
+- Tool Drift Check
+- Controlled Promotion
+SHADOW BOARD:
+- new home named
+- parent/child relation named
+- existing structure not duplicated
+- active doctrine untouched unless approved
+
+TOOLBOX: EXPERIMENT_BOX
+JOB: Try models/inventions safely.
+TOOLS:
+- Checkpoint / Restore
+- Protective Gold Cycle Gate
+- Evidence Before Repair
+- Tool Trial Ledger
+- Failure Path
+- Recovery Path
+- Dead-Letter Queue
+- Close Condition
+SHADOW BOARD:
+- backup made before experiment
+- hypothesis named
+- success/fail criteria named
+- result written down
+- failed ideas preserved, not erased
+
+TOOLBOX: FINAL_CLOSE_BOX
+JOB: Close a major packet.
+TOOLS:
+- Close Condition
+- Wave Group Close Check
+- Final Wrap Manifest / Manifest Audit
+- Authority Chain Check
+- Movement Is Not Proof
+- Done Does Not Equal PASS
+SHADOW BOARD:
+- open issues checked
+- file authority checked
+- proof location checked
+- next state named

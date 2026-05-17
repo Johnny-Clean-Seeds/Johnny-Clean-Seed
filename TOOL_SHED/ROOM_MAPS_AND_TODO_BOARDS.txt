@@ -1,0 +1,441 @@
+CLEAN SEED ROOM MAPS AND TODO BOARDS
+
+SAVE ID:
+BUILD_TOOL_WORKSHOP_SYSTEM_001
+
+DATE:
+20260517_163433
+
+STATUS:
+Working placement/design layer.
+Not active doctrine.
+Not ACTIVE_GUIDES.
+Not CURRENT_TRUTH_INDEX.
+Not AGENTS.md.
+Not an install proposal.
+
+PURPOSE:
+Place helpful things where they actually help.
+Use room maps, hanging boards, to-do lists, design plans, movable rails, and expansion rules so the workshop stays clean, free, and ready to grow without becoming bloat.
+
+CORE RULE:
+A helpful thing must be placed where it helps the job.
+A map belongs in the room that needs orientation.
+A checklist belongs where the miss happens.
+A to-do board belongs where decisions get parked.
+A warning belongs before the danger, not after it.
+A tool belongs in the box for the job, not scattered across the floor.
+
+ROOM MAPS:
+
+ROOM: FRONT DOOR / START HERE
+JOB:
+Orient the worker before touching anything.
+HANG HERE:
+- current repo path
+- current anchor / last known commit
+- authority chain reminder
+- active-ball reminder
+- do-not-touch list
+- next clean action
+MAP:
+Start -> readiness -> choose room/toolbox -> workbench -> receipt/verdict -> return tools.
+WARNING:
+Do not enter old paths by habit.
+
+ROOM: TOOL SHED
+JOB:
+Hold inventory.
+HANG HERE:
+- full tool list
+- status words
+- shed vs crib vs toolbox vs workbench distinction
+- red-tag list
+MAP:
+Inventory only. Nothing active by existence.
+
+ROOM: TOOL CRIB
+JOB:
+Checkout and return.
+HANG HERE:
+- checkout rule
+- return rule
+- tool condition states
+- current checked-out toolbox
+MAP:
+Need -> choose box -> fill clipboard -> use -> return with status.
+
+ROOM: TOOLBOX WALL
+JOB:
+Pick job-specific kits.
+HANG HERE:
+- list of boxes
+- pull triggers
+- shadow board for each box
+MAP:
+Do not build a custom box if an existing box fits.
+
+ROOM: WORKBENCH
+JOB:
+One active task.
+HANG HERE:
+- active target
+- selected toolbox
+- hand tool
+- close condition
+- blocked/not blocked
+- next action
+RULE:
+Only one workpiece on the bench.
+If a new thing appears, route it to sticky note, parking, red tag, or new job card.
+
+ROOM: MAP WALL
+JOB:
+Show how systems connect.
+HANG HERE:
+- room map
+- authority map
+- evidence map
+- tool logistics map
+- current route map
+- public/private boundary map
+RULE:
+Maps can slide, push, pull, and move when the house expands.
+Map changes must not silently rewrite authority.
+
+ROOM: TODO BOARD
+JOB:
+Hold visible next actions.
+COLUMNS:
+- NOW
+- NEXT
+- PARKED
+- WAITING ON USER
+- WAITING ON MULE / OUTSIDE REPORT
+- BLOCKED
+- DONE BUT NOT PASS
+- CLOSED / PASS
+RULE:
+A task on the board is not active unless it is in NOW.
+
+ROOM: DESIGN TABLE
+JOB:
+Try layouts before changing structure.
+HANG HERE:
+- design plan
+- affected rooms
+- expected benefit
+- risk
+- backup plan
+- rollback route
+- experiment close condition
+RULE:
+Big moves are planned here before workbench action.
+
+ROOM: BACKUP ROPE WALL
+JOB:
+Keep a way back.
+HANG HERE:
+- latest anchor
+- backup folder
+- receipt
+- restore route
+- what changed
+RULE:
+Before real structural change:
+1. backup
+2. save
+3. protect
+4. name rope back
+5. then experiment
+
+ROOM: EXPERIMENT BAY
+JOB:
+Try ideas, inventions, and models without contaminating active truth.
+HANG HERE:
+- hypothesis
+- trial target
+- pass/fail condition
+- what changed
+- what happened
+- what surprised us
+- what to keep
+- what to park
+- what to reject
+RULE:
+We learn by trying.
+Failure is valid evidence.
+Success is also evidence.
+Both require exact notes.
+
+ROOM: EVIDENCE LEDGER ROOM
+JOB:
+Write down what happened.
+HANG HERE:
+- source
+- action
+- result
+- hash when practical
+- boundary
+- verdict
+- next state
+RULE:
+Do not rely on memory when a result may matter later.
+
+ROOM: LOST AND FOUND
+JOB:
+Hold things we may need later.
+HANG HERE:
+- forgotten idea
+- partial note
+- failed route
+- unclear item
+- possible future value
+RULE:
+Not active truth. Not trash.
+
+ROOM: RED TAG ROOM
+JOB:
+Keep clutter/risky/duplicate tools out of the work lane.
+HANG HERE:
+- duplicate name
+- unclear tool
+- risky tool
+- overpowered tool
+- tool causing drag
+RULE:
+Red-tagged does not mean deleted.
+It means removed from active flow until judged.
+
+ROOM: CLEANUP CLOSET
+JOB:
+Clean safely.
+HANG HERE:
+- cleanup target
+- authority source
+- duplicate check
+- backup check
+- delete approval check
+RULE:
+No broom before evidence.
+No shop vac without explicit target.
+
+ROOM: PUBLIC WINDOW
+JOB:
+Prepare material safe for public view.
+HANG HERE:
+- public-safe names
+- local/private boundary
+- redaction checklist
+- source doorway
+RULE:
+Public codename is not command authority.
+
+ROOM: MULE DOCK
+JOB:
+Receive outside-agent output.
+HANG HERE:
+- report source
+- evidence vs inference
+- overclaims
+- missed issues
+- accepted items
+- rejected items
+- next verification target
+RULE:
+Mule output is partial evidence, not steering wheel.
+
+ROOM: QUIET WATCH CORNER
+JOB:
+Notice fatigue, overload, loops, and tool drift.
+HANG HERE:
+- overload signs
+- long-turn liveness rule
+- stop/pause/freeze handling
+- watch notes
+RULE:
+If the system starts serving the rack instead of the work, stop and simplify.
+
+TODO BOARDS:
+
+BOARD: CURRENT WORK BOARD
+NOW:
+- one active workpiece only
+NEXT:
+- next clean action
+PARKED:
+- good but not now
+BLOCKED:
+- exact blocker
+DONE BUT NOT PASS:
+- completed actions awaiting proof
+CLOSED / PASS:
+- verified close
+
+BOARD: TOOL TEST BOARD
+COLUMNS:
+- candidate
+- paper-fit
+- first-pass with limits
+- live-used
+- live-proven
+- carry
+- merge
+- park
+- shed
+RULE:
+No tool jumps to live-proven without real-use evidence.
+
+BOARD: EXPANSION BOARD
+COLUMNS:
+- need found
+- design sketched
+- affected rooms checked
+- backup rope ready
+- experiment running
+- result captured
+- keep/merge/park/shed
+RULE:
+Expansion is allowed when it improves flow and does not silently bloat the house.
+
+BOARD: FAILURE BOARD
+COLUMNS:
+- failure seen
+- evidence captured
+- failure class named
+- retry count
+- changed method
+- dead-letter/parking/quarantine
+- close result
+RULE:
+Failure is not shame. Failure is route data.
+
+BOARD: IDEA BOARD
+COLUMNS:
+- raw ore
+- gold tray
+- smelt
+- forge
+- wear
+- park
+- reject
+RULE:
+Good ideas do not become active just because they shine.
+
+DESIGN PLANS:
+
+PLAN: SLIDING WALLS
+Meaning:
+Rooms can be resized or moved when a real new need appears.
+Rule:
+Move structure only after affected-area review and backup rope.
+
+PLAN: ROLLING CARTS
+Meaning:
+Temporary tool kits for short jobs.
+Rule:
+Return cart after job. Do not let carts become permanent clutter.
+
+PLAN: PEGBOARD HOOKS
+Meaning:
+Each tool has a home.
+Rule:
+If a tool has no home, create a home, merge it, or red-tag it.
+
+PLAN: HANGING MAPS
+Meaning:
+Maps sit where the user/assistant needs them.
+Rule:
+A map that is not used becomes clutter and should move to reference.
+
+PLAN: CLIPBOARD STACK
+Meaning:
+Job cards are temporary.
+Rule:
+Open clipboard cards must close, park, or become receipt.
+
+PLAN: BACKUP ROPE
+Meaning:
+Before big change, tie a rope back to known-good state.
+Rule:
+No major structure change without backup, save, protection, and restore route.
+
+PLAN: TEST FLOOR
+Meaning:
+Try models safely before install.
+Rule:
+Experiment evidence must state what happened exactly, even if it worked.
+
+PLAN: EXPANDABLE HOUSE
+Meaning:
+The house may grow, but only by rooms, maps, and boxes that reduce friction or risk.
+Rule:
+Expansion must improve flow, not decorate confusion.
+
+PLACEMENT RULES:
+1. Put warnings before danger.
+2. Put maps where routing happens.
+3. Put to-do lists where waiting happens.
+4. Put toolboxes near the job they serve.
+5. Put evidence ledgers near pass/fail decisions.
+6. Put red tags near clutter sources.
+7. Put backup rope near expansion and write work.
+8. Put public boundary checks near public output.
+9. Put mule judgment board at the mule dock.
+10. Put cleanup checklist in cleanup closet, not at the front door.
+
+EXPERIMENT LOG RULE:
+Every experiment must capture:
+- what we tried
+- why we tried it
+- what was protected first
+- what changed
+- what happened
+- what failed
+- what worked
+- what surprised us
+- what to do next
+- what to save, park, merge, or shed
+
+GOOD RESULT NOTE:
+A good result still needs notes.
+A future bad note may need the old good-note details to repair, compare, or improve.
+Do not lose the recipe for what worked.
+
+FAIL RESULT NOTE:
+A fail result still helps.
+Capture exactly how it failed, because it may reveal the missing tool, wrong room, bad trigger, or better design.
+
+BIG MOVE GATE:
+Before any real structural change:
+1. Name the move.
+2. Name affected rooms/files/tools.
+3. Back up/save/protect.
+4. Name the rope back.
+5. Run smallest safe experiment.
+6. Capture exact result.
+7. Decide keep, merge, park, shed, or retry.
+8. Do not promote without proof.
+
+CLEAN FEEL STANDARD:
+The workshop should feel:
+- ready
+- open
+- findable
+- movable
+- protected
+- expandable
+- not crowded
+- not sacred
+- not messy
+- not brittle
+
+NEXT USE:
+Use this file when:
+- adding new tools
+- moving tool status
+- building to-do lists
+- judging mule reports
+- designing new workflow rooms
+- preparing experiments
+- preventing bloat while expanding
