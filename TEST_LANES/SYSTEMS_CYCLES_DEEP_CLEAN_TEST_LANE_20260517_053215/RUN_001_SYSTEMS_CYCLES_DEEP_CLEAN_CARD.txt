@@ -1,0 +1,88 @@
+RUN 001 - SYSTEMS-AND-CYCLES DEEP CLEAN
+STAMP: 20260517_053215
+
+GOAL:
+Use the new operating layer at home inside the model and see what it does.
+
+ROPE-BACK TRIGGER:
+Anything weird, contradictory, overbuilt, unclear, or trust-affecting freezes the run.
+
+STOP CONDITION:
+The plate has:
+- a clear current cycle
+- active phase
+- next move
+- parked notes
+- blocked actions
+- proof line
+
+PHASE 1 - SUIT UP
+Active gear:
+- Police Freeze
+- Big Boss / Minion Triage
+- Outcome Proof Gate
+- Exact Target Git Guard
+- Incident Concept Capture
+- Quiet Control Room
+- Analogy / Metaphor Key Discipline
+- Load Gauge
+
+Choice:
+Keep these as the active suit.
+Do not add more tools unless the active ball requires them.
+
+Proof line:
+This suit covers weirdness, multiple failures, proof, Git/save boundary, new-idea capture, narration bloat, metaphor discipline, and overload.
+
+Verdict:
+PASS.
+
+PHASE 2 - CHECK SUIT LOAD
+Finding:
+The suit is useful but heavy.
+If every internal station is narrated, the system becomes ceremony.
+
+Choice:
+Split into visible and silent layers.
+
+Visible when needed:
+- Freeze
+- Boss/minion triage
+- Outcome proof
+- Save/Git boundary
+- Metaphor fit-test
+
+Silent by default:
+- Control Room Status Card
+- Station Priority Ladder
+- Load Gauge
+- Return Trigger Ledger
+- Link Placement Test
+- Proof Stamp Mini-Standard
+
+Proof line:
+The suit works best when it improves choices without becoming proof fog.
+
+Verdict:
+PASS WITH GUARDRAILS.
+
+PHASE 3 - ACTIVE CYCLES
+Use Cycle A for incidents.
+Use Cycle B for normal adoption.
+Use Cycle C for lock/save.
+
+PHASE 4 - BOSS CHECK
+Known boss risks:
+- too much machinery
+- metaphors becoming commands too quickly
+- local/Git proof confusion
+- overusing crime-scene mode
+
+Containment:
+- Quiet Control Room
+- Analogy / Metaphor Key Discipline
+- Lock/Save Outcome Cycle
+- trigger-only Police Freeze
+
+Verdict:
+PASS WITH WATCH.

@@ -1,0 +1,40 @@
+NEXT TEST INSTRUCTIONS
+STAMP: 20260517_053215
+
+NEXT ACTIVE BALL:
+Systems-and-cycles adoption pass.
+
+TASK:
+Use Cycle B on the next model-side idea, map, layout, or system comparison.
+
+METHOD:
+1. Name the candidate system or idea.
+2. Fit-test it against the current model.
+3. Compare it to existing tools.
+4. Choose the smallest useful part.
+5. Soft-use it.
+6. Check neighbor effects.
+7. Produce one proof line.
+8. Decide: active soft-use, trigger-only, save-candidate, parked note, or rejected for active use.
+
+ROPE-BACK:
+If weirdness, contradiction, proof confusion, or repeated miss appears:
+Switch to Cycle A immediately.
+
+LOCK/SAVE:
+If the result needs durable storage:
+Switch to Cycle C.
+
+DO NOT:
+- edit ACTIVE_GUIDES
+- edit CURRENT_TRUTH_INDEX
+- edit AGENTS
+- clean up files
+- delete/move/rename
+- install doctrine
+- treat public/support files as authority
+- treat metaphor as proof
+
+VERDICT TARGET:
+PASS WITH GUARDRAILS is acceptable.
+Final PASS requires proof and clean next state.
