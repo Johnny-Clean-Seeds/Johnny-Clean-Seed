@@ -1,0 +1,75 @@
+CURRENT_HOME_TRUTH_CLARITY_LOCK_001
+Status: ACTIVE SUPPORT NOTE / CLARITY LOCK
+Authority: Not active doctrine.
+Home: PUBLIC_NOTES
+Date: 2026-05-17
+
+PURPOSE
+
+This note locks the current home-truth clarity rule.
+
+It exists because the assistant saw possible stale wording from another surface and needed a cleaner way to decide what is current.
+
+CURRENT HOME
+
+Current working home:
+
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+
+If this home is synced with origin/main and git status is clean, this home is the current room truth.
+
+STALE SURFACE RULE
+
+If another surface disagrees with the synced clean home, treat that surface as stale until proven current.
+
+Neighbor surfaces include:
+
+- old folders,
+- outbox folders,
+- raw views,
+- browser views,
+- old paths,
+- old chat memory,
+- assistant scan output.
+
+WHY THIS HELPS
+
+This prevents false repairs.
+
+This prevents the assistant from remodeling the room because one stale window looked wrong.
+
+This protects neighboring lanes.
+
+This keeps the assistant comfortable in the home.
+
+WHAT IT TEACHES
+
+The house can have windows.
+
+The window is not the room.
+
+The room is the synced clean local home.
+
+Use proof before repair.
+
+POWER PLAY
+
+The mismatch was turned into a source-truth rule:
+
+Stand in the home.
+Fetch origin.
+Confirm local HEAD equals origin/main.
+Confirm clean status.
+Then judge.
+
+Do not repair from stale view alone.
+
+CLOSE RULE
+
+This note supports clean entry and source-truth judgment.
+
+It must not outrank CURRENT_TRUTH_INDEX.txt.
+
+It must not outrank ACTIVE_GUIDES.
+
+It must not become hidden doctrine.

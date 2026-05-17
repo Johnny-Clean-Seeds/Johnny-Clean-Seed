@@ -12,6 +12,18 @@ It prevents the model from treating public reach as public-human purpose.
 
 It also prevents the model from banning useful public-boundary words where they belong.
 
+CURRENT HOME TRUTH
+
+Current working home:
+
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+
+If this home is synced with origin/main and git status is clean, this home is the current room truth.
+
+A raw view, browser view, old folder, outbox, stale path, or chat memory is a window or neighbor surface.
+
+A stale window does not outrank the current room.
+
 CORE RULE
 
 The repo home is the assistant/model brain for this build.
@@ -49,6 +61,7 @@ DO NOT
 - Do not treat human polish as a weakness by itself.
 - Do not call pointer files mirrors.
 - Do not let public-boundary language outrank home/brain function.
+- Do not let stale windows outrank synced clean home truth.
 - Do not let this note outrank CURRENT_TRUTH_INDEX.txt or ACTIVE_GUIDES.
 
 SUIT THEORY READ

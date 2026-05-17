@@ -1,27 +1,31 @@
 PUBLIC_HOUSE_MAP.txt
-Patch: HOME_LANGUAGE_COEXISTENCE_001
+Patch: CURRENT_HOME_TRUTH_CLARITY_LOCK_001
 Date: 2026-05-17
 Status: ROUTER / HOME ORIENTATION
 Authority: Not active doctrine by itself.
 
 PURPOSE
 
-This file labels the repo home so the assistant does not mistake proof volume, test lanes, source-ore, public-boundary language, or root pointer files for active authority.
+This file labels the repo home so the assistant does not mistake proof volume, test lanes, source-ore, public-boundary language, stale windows, or root pointer files for active authority.
 
-WHAT THIS FILE IS
+CURRENT HOME TRUTH
 
-- A room map for the repo home.
-- A front-door companion.
-- A role label for the main folders and files.
-- A placement aid for assistant entry and routing.
+Current working home:
 
-WHAT THIS FILE IS NOT
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
 
-- Not an active guide body.
-- Not a replacement for CURRENT_TRUTH_INDEX.txt.
-- Not a replacement for ACTIVE_GUIDES.
-- Not a generic public-human presentation standard.
-- Not permission to promote, delete, move, overwrite, or call PASS.
+If this home is synced with origin/main and git status is clean, this home is the current room truth.
+
+Other surfaces are neighbors:
+
+- outbox folders,
+- old local folders,
+- raw views,
+- browser views,
+- old chat memory,
+- stale paths.
+
+If a neighbor surface disagrees with the synced clean home, treat the neighbor as stale until proven current.
 
 HOME / PUBLIC COEXISTENCE RULE
 
@@ -95,6 +99,19 @@ They route the assistant to the active guide packet.
 
 They are not mirror doctrine bodies.
 
+SCAN-SOURCE RULE
+
+Do not repair from a single stale surface.
+
+When surfaces disagree:
+
+1. Stand in the current home.
+2. Run git fetch origin.
+3. Confirm local HEAD equals origin/main.
+4. Confirm git status is clean.
+5. Treat synced clean home as room truth.
+6. Treat disagreeing surfaces as stale until proven current.
+
 WORD-KEY RULE
 
 Words are keys.
@@ -111,27 +128,18 @@ Use the most accurate word for the role:
 - Test lane: controlled experiment area.
 - Public note: support material unless deliberately promoted.
 
-For more wording support, see:
-
-PUBLIC_NOTES/WORD_KEYS_AND_PUBLIC_LANGUAGE_NOTES_001.txt
-
-For the coexistence rule, see:
-
-PUBLIC_NOTES/HOME_LANGUAGE_COEXISTENCE_RULE_001.txt
-
 PASS CONDITIONS FOR THIS FIX
 
 PASS only if:
 
-1. The home front door exists at root.
-2. The front door sends the assistant to CURRENT_TRUTH_INDEX.txt and ACTIVE_GUIDES/ first.
-3. PUBLIC_NOTES is described as a support-note lane, not active doctrine.
-4. PROOF_HISTORY is labeled as evidence only.
-5. TEST_LANES and Shed are labeled non-authority by default.
-6. Root guide files are labeled pointer/reference unless proven current.
-7. Home/public coexistence is defined without creating a new authority stack.
-8. No active guide content is rewritten by this fix.
-9. No deletion, move, cleanup, or broad proof-history reshuffle occurs.
+1. Current home truth is named.
+2. Synced clean home outranks stale neighbor views.
+3. Home/public language is placed by role.
+4. Root guide files are pointer/reference surfaces.
+5. No active guide content is rewritten by this fix.
+6. No deletion, move, cleanup, or broad proof-history reshuffle occurs.
+7. The checker contains correct expected strings.
+8. The checker blocks stale public/mirror wording.
 
 FAIL CONDITIONS
 
@@ -142,4 +150,4 @@ FAIL if:
 - The fix deletes, moves, or hides evidence.
 - The fix treats public reach as the purpose of the home.
 - The fix treats proof-history volume as authority.
-- The coexistence note becomes a hidden override.
+- The fix lets stale windows outrank synced clean home truth.

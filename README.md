@@ -2,9 +2,19 @@
 
 This repo home is the assistant/model brain for this build.
 
-It may be publicly reachable, but public reach does not define its purpose or authority.
+Current working home:
+
+`C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz`
+
+If this home is synced with `origin/main` and the working tree is clean, this home is the current room truth.
+
+Any other folder, outbox, raw view, browser view, old path, or chat memory that disagrees is stale until proven current.
+
+## Purpose
 
 The purpose of this home is clean assistant entry, routing, memory, proof, and action.
+
+It may be publicly reachable, but public reach does not define its purpose or authority.
 
 ## Start here
 
@@ -29,11 +39,13 @@ Read in this order:
 
 ## Public/local boundary
 
-`CURRENT_TRUTH_INDEX.txt` may mention private/local paths because it tracks the working house.
-
 Publicly visible paths or notes are orientation facts unless the active authority chain says otherwise.
 
-Public readers must not treat local paths as commands for their own machine.
+Public reach is a window.
+
+The repo home is the room.
+
+A window does not outrank the room when the room is synced and clean.
 
 ## Home language rule
 
@@ -60,6 +72,10 @@ For wording notes and non-authority definitions, see:
 For the home/public coexistence rule, see:
 
 `PUBLIC_NOTES/HOME_LANGUAGE_COEXISTENCE_RULE_001.txt`
+
+For current home truth clarity, see:
+
+`PUBLIC_NOTES/CURRENT_HOME_TRUTH_CLARITY_LOCK_001.txt`
 
 Those notes help keep words clean without replacing the active guide packet.
 
