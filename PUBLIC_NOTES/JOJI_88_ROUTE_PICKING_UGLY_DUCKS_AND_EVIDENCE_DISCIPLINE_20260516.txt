@@ -1,0 +1,196 @@
+JOJI 88 ROUTE-PICKING UGLY DUCKS + EVIDENCE DISCIPLINE
+Created: 2026-05-16 20:19:47
+Status: PROOF-HISTORY ONLY
+Install status: NOT ACTIVE DOCTRINE
+Authority: decision fuel only
+
+SOURCE CONTEXT
+This file locks the recent chat-only ideas that appeared after publishing the Joji 88 reference intel batch.
+
+The already-published reference intel batch includes:
+- JOJI_88_UNIVERSAL_METHOD_TABLE_AND_MASTER_SEAT_DISCOVERY_DRAFT_20260516.txt
+- JOJI_88_DOMAIN_BRIDGE_AND_LINK_LEDGER_METHOD_20260516.txt
+- JOJI_88_PRISM_CONVERGENCE_METHOD_20260516.txt
+- JOJI_88_REFERENCE_INTEL_BOUNDARY_NOTE_20260516.txt
+
+This file captures the newer live ideas that were not yet saved in that batch.
+
+CORE LIVE CORRECTION
+The "ugly duckling" search should not be for general good ideas.
+For this lane, ugly ducks must be ideas for picking routes, plans, next moves, and algorithms.
+
+The target is:
+Find plain-looking route-picking methods that may secretly carry major planning value.
+
+UGLY DUCK DEFINITION
+An ugly duck is an idea that does not sound grand or master-level at first, but may become powerful when placed correctly.
+
+For route-picking work, an ugly duck should help answer:
+- Which route should we take next?
+- How much proof is needed before moving?
+- What should be tested first?
+- What route is safest?
+- What route has the best payoff?
+- What route avoids irreversible damage?
+- What route reduces confusion instead of adding work?
+- What route should be parked, cut, or delayed?
+
+FIRST ROUTE-PICKING UGLY DUCK CANDIDATES
+These are not final winners. They are candidate ducks.
+
+1. Reversibility Test / One-Way Door vs Two-Way Door
+Plain meaning:
+Ask whether a move can be undone cleanly.
+
+Route value:
+Sets the proof burden before action.
+
+Clean routing rule:
+- Two-way door: smallest useful test is allowed.
+- One-way door: stronger proof, backup, and approval required.
+- Unknown door: treat as one-way until reversibility is proven.
+
+Why it may be pretty:
+It acts as a speed control. It tells the system when to move fast and when to slow down.
+
+Risk if missing:
+The system treats all next moves as equal and may rush irreversible work.
+
+Risk if overused:
+The system becomes too cautious and avoids useful growth.
+
+2. Bottleneck-First Routing
+Plain meaning:
+Find the constraint that blocks the most future movement.
+
+Route value:
+Chooses the next move by asking what unlocks the most clean progress.
+
+Why it may be pretty:
+It prevents polishing side items while the real blocker remains.
+
+Risk if missing:
+The system does busy work instead of opening the blocked lane.
+
+Risk if overused:
+The system may focus only on constraints and miss creative growth opportunities.
+
+3. Cost-of-Delay / Regret Routing
+Plain meaning:
+Ask what gets worse if we wait, and what regret grows if we choose wrong.
+
+Route value:
+Helps choose between multiple viable next moves.
+
+Why it may be pretty:
+It adds time pressure without letting urgency become authority.
+
+Risk if missing:
+Important windows may be missed.
+
+Risk if overused:
+Urgency may distort judgment and make weak routes look necessary.
+
+IMPORTANT CORRECTION
+Do not pick route ducks from vibes.
+Do not choose the prettiest duck only because it sounds clever.
+Use evidence from the Joji 88 universal method table, mule report, bridge method, prism method, or targeted report pulls.
+
+EVIDENCE DISCIPLINE FOR ROUTE DUCKS
+Before choosing final route ducks, pull only the needed evidence from the 192-method report.
+
+Search for route/planning/algorithm language:
+- route
+- routing
+- plan
+- planning
+- choose
+- choice
+- decision
+- order
+- sequence
+- dependency
+- priority
+- bottleneck
+- constraint
+- critical path
+- reversible
+- reversibility
+- one-way
+- two-way
+- cost-benefit
+- opportunity cost
+- weighted scoring
+- decision matrix
+- OODA
+- scenario
+- war-gaming
+- pre-mortem
+- pilot
+- minimum viable
+- canary
+- feature flag
+- smoke test
+- backlog
+- parking
+- next action
+- placement
+- score
+- algorithm
+
+Do not read the full 192-method report unless a specific question requires it.
+
+TREE / LINK FAILURE RULE
+If a thread, lead, route, lens, or link fails:
+- cut the link
+- keep the evidence
+- name why it failed
+- park the idea if it remains useful elsewhere
+- do not delete the idea just because the first link failed
+
+BAD-LINK RECORD FORMAT
+Link tested:
+Claim:
+Evidence:
+Reason the link failed:
+Verdict:
+What happens to the idea now:
+
+ROUTE-DUCK TEST FORMAT
+Duck name:
+Plain meaning:
+What route question it answers:
+What it helps choose:
+What evidence supports it:
+What would disprove it:
+Best role:
+Risk if missing:
+Risk if overused:
+Verdict:
+
+CURRENT STATUS
+The route-picking ugly-duck lane is open.
+No final duck winner has been chosen.
+No duo or trio has been approved yet.
+Reversibility Test is the first promising candidate, but it has not won.
+
+NEXT CLEAN ACTION
+Use targeted evidence from the Joji 88 universal method table to identify the best route-picking ugly ducks.
+Then compare the ducks.
+Only after comparison decide:
+- single winner
+- duo
+- trio
+- parked candidates
+
+BOUNDARY
+This file does not install doctrine.
+This file does not edit ACTIVE_GUIDES.
+This file does not edit CURRENT_TRUTH_INDEX.
+This file does not authorize cleanup.
+This file does not authorize deletion, movement, rename, overwrite, promotion, or Git publish.
+
+VERDICT
+LOCKED AS PROOF-HISTORY CURRENT IDEA PACKET.
+NOT FINAL PASS.
+NOT ACTIVE DOCTRINE.
