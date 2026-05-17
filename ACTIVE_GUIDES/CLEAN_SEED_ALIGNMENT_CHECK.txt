@@ -4993,3 +4993,48 @@ chat or proof pile.
 Compact seal:
 BALL -> STATION -> LIVE ITEMS -> SHELVED/PARKED ITEMS -> LOAD -> VERDICT -> NEXT MOVE
 
+
+===============================================================================
+CHECK: TOOL TRIAL LEDGER / TESTED GEAR INTEGRATION / CLEAN PLATE
+ID: CS_INSTALL_20260517_TOOL_TRIAL_TESTED_GEAR_INTEGRATION
+===============================================================================
+
+Run this check when:
+- Using a borrowed tool, framework, method, algorithm, or suit spine.
+- Choosing what is good from a list.
+- Running a scan after new gear was added.
+- The assistant starts collecting ideas without judging effect.
+- The user asks whether the tools are actually helping.
+- A tested helpful idea is at risk of staying sidecar instead of joining the suit.
+
+PASS if:
+- The active tool, algorithm, or spine is named.
+- The target is named.
+- The effect is stamped as HELPED, HURT, or PARTIAL.
+- The tradeoff is named.
+- The decision is KEEP, MERGE, INSTALL, NARROW, PARK, REFERENCE, or REJECT AS ACTIVE.
+- The next direction is stated.
+- Tested helpful behavior is routed into the suit or merged into an existing suit spine.
+- Not-active material is retained unless deletion was explicitly approved.
+- The scan uses the suit to choose, not to admire itself.
+
+FAIL if:
+- Tools are listed without testing effect.
+- The assistant says something feels better without evidence.
+- A tested helpful idea is kept separate forever without reason.
+- The same tool-use defect repeats without a crime-scene stop.
+- A borrowed method becomes the boss.
+- A full framework is imported when a small move would do.
+- Parked/reference material is treated as deleted or lost.
+- The algorithm task is started by using algorithms before first listing and saving them.
+
+Compact required ledger:
+TOOL/ALGORITHM -> TARGET -> HELPED/HURT/PARTIAL -> TRADEOFF -> DECISION -> NEXT DIRECTION
+
+Next clean return:
+Algorithms list only.
+Pick/list all algorithms that look 99999% right.
+Do not use yet.
+Do not install yet.
+Save/lock the list first.
+Then test algorithms one by one with the ledger.

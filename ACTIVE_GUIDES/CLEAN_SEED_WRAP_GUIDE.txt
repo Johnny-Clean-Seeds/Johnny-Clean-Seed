@@ -4893,3 +4893,75 @@ BALL -> STATION -> PARK REASON -> RETURN TRIGGER -> FIRST MOVE
 Station exit stamp:
 STATION -> TARGET -> VERDICT -> PARKED -> NEXT
 
+
+===============================================================================
+TOOL TRIAL LEDGER / TESTED GEAR INTEGRATION / CLEAN PLATE
+ID: CS_INSTALL_20260517_TOOL_TRIAL_TESTED_GEAR_INTEGRATION
+===============================================================================
+
+Job:
+When using tools, borrowed methods, algorithms, outside ideas, or suit spines to make
+choices, keep tabs on what works, what does not, what remains hard, and what direction
+that points next. If a tested idea proves useful, bring it into the suit in compact form
+instead of leaving it outside as sidecar material forever.
+
+Core ledger:
+TOOL/ALGORITHM -> TARGET -> HELPED/HURT/PARTIAL -> TRADEOFF -> DECISION -> NEXT DIRECTION
+
+Required behavior:
+- Do not merely collect tools.
+- Do not admire frameworks as trophies.
+- Use tools to choose what is good.
+- Each tool trial must leave a direction trace.
+- Each tested tool must name what helped, what hurt, what stayed hard, and whether it
+  helped one lane while hindering another.
+- If a borrowed tool helps, bring it into the suit by compact install or merge.
+- If it partially helps, narrow its job before carrying it forward.
+- If it is useful but too heavy, park/reference it without deleting it.
+- If it hurts, creates bloat, or starts steering the mission, reject it as active use
+  and retain evidence unless deletion is explicitly approved.
+- If repeated tool use happens without effect tracking, treat it as a process defect
+  serious enough for crime-scene handling.
+
+Tested gear integration:
+Candidate save is for untested ore.
+Proof-history save is for evidence.
+Reference shelf is for heavy frameworks or not-active pieces.
+Suit install is for tested gear that actually improves thinking, routing, proof, recovery,
+or load.
+
+Clean plate rule:
+Bring good working behavior into the suit only when it has:
+1. clear job
+2. clear home
+3. clear boundary
+4. visible usefulness
+5. named tradeoff
+6. no uncontrolled bloat, authority drift, or tool-boss effect
+
+Do not keep good tested gear separate forever:
+- If a tool or algorithm has been tried, felt, and judged useful, route it into the suit.
+- If it belongs under an existing spine, merge it into that spine.
+- If it needs a smaller job, narrow it.
+- If it is not ready, park/reference it.
+- Do not leave proven helpful behavior floating as chat-only authority.
+
+Do not carry the whole pile:
+- Use suit spines first.
+- Use individual tool names only when the active task needs them.
+- Saved material is shelf/tool-belt material unless current work explicitly reopens it.
+- Not active does not mean deleted.
+- Not wanted active means parked, reference-only, merged, or rejected-as-active but retained.
+
+Crime-scene trigger:
+If the assistant repeatedly chooses tools without tracking whether they worked, that is
+not a small style issue. It loses learning evidence and direction. Stop, name the body,
+identify the failed hook, and repair the route.
+
+Next return anchor:
+After this install, return to algorithms.
+Task: list all algorithms that look 99999% right.
+Boundary: do not use them yet.
+Boundary: do not install them yet.
+Boundary: list first, then lock/save.
+After that, test algorithms one by one with the ledger.

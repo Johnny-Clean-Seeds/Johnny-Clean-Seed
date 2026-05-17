@@ -101,3 +101,13 @@ Active-file install: State Transfer Seal / Saved Means Shelved.
 Files changed: CLEAN_SEED_WRAP_GUIDE.txt, CLEAN_SEED_ALIGNMENT_CHECK.txt, CURRENT_TRUTH_INDEX.txt.
 Purpose: reduce chat drag by making saved/support material shelf/tool-belt material, not active carry.
 Boundary: README unchanged. AGENTS.md unchanged. No cleanup, delete, move, rename, or overwrite action authorized.
+
+[20260517_074931] CS_INSTALL_20260517_TOOL_TRIAL_TESTED_GEAR_INTEGRATION
+Active-file install: Tool Trial Ledger / Tested Gear Integration / Clean Plate.
+Files changed: CLEAN_SEED_WRAP_GUIDE.txt, CLEAN_SEED_ALIGNMENT_CHECK.txt, CURRENT_TRUTH_INDEX.txt.
+Purpose: bring good tested suit behavior into the active operating body; require effect tracking when tools/ideas/algorithms are used to choose what is good.
+Core ledger: TOOL/ALGORITHM -> TARGET -> HELPED/HURT/PARTIAL -> TRADEOFF -> DECISION -> NEXT DIRECTION.
+Key rule: tested useful gear should be compactly installed or merged into the suit; do not leave proven helpful behavior sidecar forever.
+Boundary: not-active material is retained as parked/reference/merged/rejected-as-active evidence unless deletion is explicitly approved.
+Next return anchor: go back to algorithms; list all algorithms that look 99999% right; do not use/install them yet; save/lock the list first; then test one by one with the ledger.
+README unchanged. AGENTS.md unchanged. No cleanup, delete, move, rename, or overwrite action authorized.
