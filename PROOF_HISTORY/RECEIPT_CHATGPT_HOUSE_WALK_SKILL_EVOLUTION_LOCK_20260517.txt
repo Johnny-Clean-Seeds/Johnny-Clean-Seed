@@ -35,7 +35,7 @@ new skills should be worn, tested, compared, and either kept, parked, rested, me
 Nothing enters through the window and nothing leaves through the window.
 
 Console SHA256 after write:
-76757F39897112C5B1AFC27C04E481898EA2439D706C0C3A5EBE4B34CA4D33B9
+48DD1D90F3B71A87E905B5CF37C298478319D64F5658F5520EBB74F83835AD22
 
 Boundary verdict:
 PASS - support-only lock/save. No active package expansion.
