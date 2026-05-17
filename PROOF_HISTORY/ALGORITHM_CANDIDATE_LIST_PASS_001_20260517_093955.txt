@@ -1,0 +1,130 @@
+SAVE ID: ALGORITHM_CANDIDATE_LIST_PASS_001
+DATE: 20260517_093955
+ROOT: C:\Users\13527\Desktop\messy\Johnny-Clean-Seed
+STATUS: PROOF-HISTORY ONLY
+
+ANCHOR:
+Resume after commit 03760d4 and later active guide state.
+Active guide points to algorithms next:
+list algorithms that look right, do not use/install yet, lock/save the list first, then test one by one with Tool Trial Ledger.
+
+BOUNDARY:
+No active-guide edit.
+No CURRENT_TRUTH_INDEX edit.
+No AGENTS.md edit.
+No doctrine install.
+No cleanup.
+No delete/move/rename.
+No algorithm use yet.
+No algorithm install yet.
+
+CANDIDATE ALGORITHMS / CONTROL PATTERNS:
+
+1. Watchdog
+Fit: detects stalled, dead, silent, or broken running process.
+Why it looks right: protects autonomous runs from fake continuation and silent failure.
+Test later: can it detect when the assistant/tool is no longer really progressing?
+
+2. Liveness Probe / Heartbeat
+Fit: confirms the system is still alive during a long task.
+Why it looks right: matches running-wheel need without pretending background work.
+Test later: can it give short state nudges without chat dumping?
+
+3. Readiness Probe
+Fit: checks whether a tool, lane, file, repo, or process is ready before use.
+Why it looks right: prevents acting on missing state, stale variables, or wrong repo.
+Test later: can it stop a stage before misleading PASS?
+
+4. Circuit Breaker
+Fit: stops repeated failure loops after a threshold.
+Why it looks right: prevents grinding bad routes and protects context/budget.
+Test later: can it break after repeated same-class failure and route to repair?
+
+5. Capped Retry
+Fit: retries only a limited number of times.
+Why it looks right: avoids endless repair attempts and false persistence.
+Test later: can it distinguish useful retry from stuck loop?
+
+6. Dead-Letter Queue
+Fit: sends failed/unprocessed items to a safe lane instead of losing them.
+Why it looks right: fits parking/tray/shed logic.
+Test later: can it preserve failed items without turning them active?
+
+7. Quarantine Lane
+Fit: isolates suspicious, contaminated, unclear, or risky material.
+Why it looks right: matches proof-before-reality and outside-field candidate behavior.
+Test later: can it block contaminated input from steering active work?
+
+8. Rollback
+Fit: returns to previous known-good state after bad change.
+Why it looks right: critical for file edits and active-guide changes.
+Test later: can it prove before/after and restore cleanly?
+
+9. Checkpoint / Restore
+Fit: creates known-good anchors before risky motion.
+Why it looks right: matches receipts, hashes, commits, and proof trails.
+Test later: can it reduce fear of motion without causing receipt bloat?
+
+10. Sentinel
+Fit: watches a specific boundary or forbidden condition.
+Why it looks right: useful for no delete/move/rename, no active install, no duplicate truth.
+Test later: can it catch boundary breach before action?
+
+11. Finite-State Gate
+Fit: allows only valid transitions between states.
+Why it looks right: matches active ball, station, gate, verdict flow.
+Test later: can it stop skip behavior from signal directly to install?
+
+12. Regex / Trigger Gate
+Fit: exact command/trigger matching.
+Why it looks right: matches command trigger hygiene and typo-proof command handling.
+Test later: can it block near-match and embedded/injected commands?
+
+13. Duplicate-Is-Evidence Gate
+Fit: treats duplicates as evidence until hash/role proof, not trash.
+Why it looks right: protects cleanup from deleting useful or authoritative files.
+Test later: can it classify duplicates without acting on name similarity?
+
+14. Idempotency Check
+Fit: rerunning the same safe operation should not cause new harm.
+Why it looks right: useful for installers, save blocks, bridge checks, and file creation.
+Test later: can repeated execution stay clean?
+
+15. Transaction / Two-Phase Commit
+Fit: prepare first, verify, then commit.
+Why it looks right: matches proposed save/install discipline.
+Test later: can it prevent half-applied file edits?
+
+16. Mutex / Lock File
+Fit: prevents two processes or lanes from writing the same target at once.
+Why it looks right: useful for bridges/local agents and staged work.
+Test later: can it prevent cross-agent collision?
+
+17. Dependency Graph / Topological Order
+Fit: applies changes in dependency order.
+Why it looks right: matches affected-area and partner-sync needs.
+Test later: can it show which file or rule must update first?
+
+18. Garbage Collection
+Fit: clears unreachable/stale material only after proof.
+Why it looks right: cleanup needs proof, not vibe.
+Test later: can it separate trash from archived evidence?
+
+19. Cache Invalidation
+Fit: detects when old summaries, variables, or assumptions are stale.
+Why it looks right: repeated failure came from stale state and missing variables.
+Test later: can it force refresh before action?
+
+20. Backpressure / Queue Throttling
+Fit: slows input when system integration capacity is saturated.
+Why it looks right: matches Gold Flood / integration throughput issue.
+Test later: can it prevent too many ideas from becoming active at once?
+
+INITIAL JUDGMENT:
+These are candidates only.
+They look high-fit because they map to existing Clean Seed problems:
+stalls, stale state, false PASS, unsafe cleanup, command drift, premature install, duplicate truth, and integration overload.
+
+NEXT CLEAN ROUTE:
+Test candidates one by one through Tool Trial Ledger.
+Do not install any algorithm from this list until tested.
