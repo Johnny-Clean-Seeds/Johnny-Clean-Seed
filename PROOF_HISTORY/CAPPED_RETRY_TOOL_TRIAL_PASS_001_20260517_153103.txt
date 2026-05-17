@@ -1,0 +1,125 @@
+SAVE ID: CAPPED_RETRY_TOOL_TRIAL_PASS_001
+DATE: 20260517_153103
+ROOT: C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+GIT TOPLEVEL: C:/Users/13527/Desktop/Jxhnny_Kleen_C3dz
+HEAD BEFORE SAVE: c7675fd
+REMOTE: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed.git
+STATUS: PROOF-HISTORY ONLY
+
+ACTIVE BALL:
+Test Capped Retry as the fifth algorithm candidate through Tool Trial Ledger.
+
+SOURCE ANCHOR:
+Current clean anchor before this save is expected to be c7675fd.
+
+Prior rack status:
+- Watchdog: PASS AS RACK TOOL.
+- Heartbeat: PASS AS RACK TOOL.
+- Readiness Probe: PASS AS RACK TOOL.
+- Circuit Breaker: PASS AS RACK TOOL.
+
+TOOL NAME:
+Capped Retry
+
+TOOL CLASS:
+Control-pattern candidate.
+
+PROBLEM IT TARGETS:
+A route may deserve more than one attempt, but not infinite attempts.
+Without a cap, repair turns into grinding.
+With too low a cap, useful persistence gets killed too early.
+
+CAPPED RETRY JOB:
+Allow a small fixed number of repair attempts, then force route change, Circuit Breaker, rollback, park, or user decision.
+
+FIT TEST:
+Capped Retry is useful in Clean Seed work if it can do all of these:
+1. Permit a limited retry count.
+2. Require each retry to change something real.
+3. Stop repeated identical attempts.
+4. Escalate after the cap is reached.
+5. Preserve failure evidence.
+6. Avoid fake persistence.
+7. Pair cleanly with Circuit Breaker.
+
+TRIAL AGAINST RECENT FAILURE TYPES:
+Recent relevant failures:
+- assistant attempted silent continuation before correction
+- staged work previously risked missing variables
+- repo path changed and required verification
+- repeated scan/name behavior could have continued without producing useful state
+
+Correct Capped Retry behavior:
+- First miss: repair normally.
+- Second miss: retry only with changed method or new evidence.
+- After cap: stop blind attempts and route to Circuit Breaker or user decision.
+
+PASS CONDITION:
+Capped Retry passes if it allows bounded persistence but prevents endless repeated attempts.
+
+FAIL CONDITION:
+Capped Retry fails if it either:
+- retries forever,
+- stops too early after one ordinary miss,
+- or retries without a changed method.
+
+OBSERVED RESULT:
+Capped Retry is a strong rack tool.
+It complements Circuit Breaker:
+- Capped Retry defines allowed attempt count.
+- Circuit Breaker trips when repeated same-class failure crosses the cap or shows no-progress loop.
+
+NEIGHBOR SCAN:
+Touches:
+- staged scripts
+- repair loops
+- attempt limits
+- Wave / proof pass behavior
+- Circuit Breaker
+- Watchdog
+- Readiness Probe
+- proof-before-PASS
+
+Does not require:
+- active guide edit
+- CURRENT_TRUTH_INDEX edit
+- AGENTS.md edit
+- doctrine install
+- cleanup
+- file move/delete/rename
+
+RISK:
+If the cap is too rigid, it can block legitimate debugging.
+Clean use should set cap by task risk:
+- Low risk: 1 retry.
+- Medium risk: 2 retries.
+- High risk/file-changing work: stop early and ask/route after 1 failed repair unless evidence clearly supports another attempt.
+
+COMPRESSED OPERATING SHAPE:
+When repair is needed:
+1. Attempt once.
+2. If fail, classify failure.
+3. Retry only if method/evidence changes.
+4. Stop at cap.
+5. Preserve failure evidence.
+6. Route to Circuit Breaker, rollback, park, or user decision.
+
+TRIAL VERDICT:
+PASS AS RACK TOOL.
+Capped Retry is useful as operating gear.
+It should not be installed into active doctrine yet.
+It should be tested once during a real failed local script or repair loop before active-guide proposal.
+
+BOUNDARY:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX edited: NO
+AGENTS.md edited: NO
+Doctrine install: NO
+Cleanup: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+
+NEXT:
+Test Dead-Letter Queue separately.
+Dead-Letter Queue preserves failed or unprocessed items without turning them active.
