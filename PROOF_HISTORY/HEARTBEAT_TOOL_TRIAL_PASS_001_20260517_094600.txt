@@ -1,0 +1,118 @@
+SAVE ID: HEARTBEAT_TOOL_TRIAL_PASS_001
+DATE: 20260517_094600
+ROOT: C:\Users\13527\Desktop\messy\Johnny-Clean-Seed
+HEAD BEFORE SAVE: bf558f8
+STATUS: PROOF-HISTORY ONLY
+
+ACTIVE BALL:
+Test Liveness Probe / Heartbeat as the second algorithm candidate through Tool Trial Ledger.
+
+SOURCE ANCHOR:
+Current clean anchor before this save is expected to be bf558f8.
+Watchdog already passed as rack tool.
+This trial separates Heartbeat from Watchdog:
+- Watchdog detects stall or fake continuation.
+- Heartbeat confirms alive/progress state during a long bounded task.
+
+TOOL NAME:
+Liveness Probe / Heartbeat
+
+TOOL CLASS:
+Control-pattern candidate.
+
+PROBLEM IT TARGETS:
+Long work can become unclear to the user.
+The assistant may be actively working, but the user sees silence or vague "running" language.
+The risk is either:
+- user thinks the assistant is broken
+- assistant over-talks and dumps working notes
+- assistant implies fake background work
+- assistant stops too early because the chat turn pressure nudges it
+
+HEARTBEAT JOB:
+Provide short, bounded progress signals during active work inside the current turn only.
+
+FIT TEST:
+Heartbeat is useful in Clean Seed work if it can do all of these:
+1. Confirm the task is still active inside the current response.
+2. Report only state, not long working notes.
+3. Avoid implying work continues after the response ends.
+4. Reduce user confusion during long checks.
+5. Avoid chat bloat.
+6. Keep the current boundary visible.
+7. Return a final state before the response ends.
+
+TRIAL AGAINST RECENT FAILURE:
+Recent issue:
+User asked for a running wheel / loading wheel so the chat would not appear broken.
+Assistant accepted the concept but had to avoid fake background-work claims.
+
+Correct Heartbeat behavior:
+- Use short nudges only during an active turn.
+- Example: "Still running — no state change yet."
+- If state changes, report the state.
+- End with a concrete final state, script, block, or decision.
+- Never imply hidden work continues after the final response.
+
+PASS CONDITION:
+Heartbeat passes if it keeps long-turn work visibly alive without pretending asynchronous work.
+
+FAIL CONDITION:
+Heartbeat fails if it becomes chatter, fake progress, or repeated noise with no state value.
+
+OBSERVED RESULT:
+Heartbeat is distinct from Watchdog.
+Heartbeat is not a stall detector by itself.
+Heartbeat is a visible liveness signal during bounded active work.
+It is useful only when paired with final state return.
+
+NEIGHBOR SCAN:
+Touches:
+- chat-output behavior
+- long-work behavior
+- user confidence during active runs
+- Watchdog boundary
+- autonomous fit-motion behavior
+
+Does not require:
+- active guide edit
+- CURRENT_TRUTH_INDEX edit
+- AGENTS.md edit
+- doctrine install
+- cleanup
+- file move/delete/rename
+
+RISK:
+If overused, Heartbeat becomes noise or a fake-work theater.
+Clean use should be limited to long-running work where silence creates confusion.
+It should not appear in normal short replies.
+
+COMPRESSED OPERATING SHAPE:
+During a long active turn:
+1. Start real work.
+2. If work continues with no state change, send a short heartbeat.
+3. If state changes, report the state.
+4. Finish with a real output, block, save report, or decision.
+5. Do not claim continuation after the response ends.
+
+TRIAL VERDICT:
+PASS AS RACK TOOL.
+Heartbeat is useful as operating gear.
+It should remain paired with Watchdog:
+- Heartbeat = still alive during active turn.
+- Watchdog = stop false continuation or stall.
+It should not be installed into active doctrine yet.
+
+BOUNDARY:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX edited: NO
+AGENTS.md edited: NO
+Doctrine install: NO
+Cleanup: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+
+NEXT:
+Test Readiness Probe separately.
+Readiness Probe checks whether repo/tool/state is ready before action.
