@@ -1,0 +1,162 @@
+DEEP SCAN REPORT: WEAR THE SUIT IDEA WAVES 181-360
+STAMP: 20260517_073711
+SAVE_ID: WEAR_THE_SUIT_IDEA_WAVES_181_360_COMPRESSED_DEEPSCAN_LOCKSAVE
+
+SCAN SCOPE
+This deep scan reviews the compressed candidate packet for:
+- fit
+- bloat
+- duplicate pressure
+- active doctrine boundary
+- proof boundary
+- tool-boss risk
+- weird-source risk
+- next test readiness
+
+SCOPE BOUNDARY
+This scan does not install doctrine.
+This scan does not edit active guides.
+This scan does not edit CURRENT_TRUTH_INDEX.
+This scan does not approve cleanup.
+This scan does not approve deletion, move, rename, overwrite, or public publish.
+
+DEEP SCAN QUESTIONS AND VERDICTS
+
+1. DOES THIS MATERIAL FIT CLEAN SEED?
+Verdict: PASS.
+Reason:
+The new material strengthens existing Clean Seed behavior:
+- proof before trust
+- controlled promotion
+- state transfer
+- risk before action
+- recovery before repair
+- authority boundaries
+- no false PASS
+- source-ore cleanup
+
+2. IS THIS JUST MORE RULE BLOAT?
+Verdict: PASS WITH GUARDRAILS.
+Reason:
+There are many candidate names, but the compression into ten spines prevents loose rule sprawl.
+Guardrail:
+Do not install the whole list as doctrine.
+Only promote compact behavior after repeated live usefulness.
+
+3. DOES IT CREATE METHOD-BOSS RISK?
+Verdict: PASS WITH GUARDRAILS.
+Reason:
+The packet explicitly says borrow moves, not whole frameworks.
+Guardrail:
+Do not let SRE, HAZOP, FMEA, Cynefin, TLA+, MITRE, or forum methods become new bosses.
+
+4. DOES IT RESPECT SAVED MEANS SHELVED?
+Verdict: PASS.
+Reason:
+The packet is saved as candidate/support material and does not remain active carry.
+It is a shelf/tool-belt packet unless a later task explicitly uses it.
+
+5. DOES IT RESPECT OPERATING GEAR VS DOCTRINE?
+Verdict: PASS.
+Reason:
+The packet names itself as support/candidate material, not active doctrine.
+
+6. DOES IT PROTECT AGAINST WRONG TARGET / WRONG TIME / WRONG AUTHORITY?
+Verdict: PASS.
+Reason:
+Those checks are explicitly included as high-fit keepers.
+
+7. DOES IT IMPROVE DEEP SCAN QUALITY?
+Verdict: PASS.
+Reason:
+The packet adds structured scanning weapons:
+- claim/evidence
+- invariants
+- illegal transitions
+- steady state
+- abort condition
+- coupling
+- evidence shape
+- weird-source filtering
+- operator load
+
+8. DOES IT HANDLE WEIRD SOURCES CLEANLY?
+Verdict: PASS.
+Reason:
+The packet classifies Reddit/HN/forum content as field signal, not proof.
+It requires conversion from rant/thread/anecdote into cleaned requirement before intake.
+
+9. DOES IT KNOW WHEN TO STOP HUNTING?
+Verdict: PASS.
+Reason:
+The packet reached Red load if hunting continues and directs pack/save before more search.
+
+10. IS IT READY FOR A FUTURE DEEP SUIT TEST?
+Verdict: PASS.
+Reason:
+The packet provides enough compressed structure to test whether the suit improves actual work.
+
+RISKS FOUND
+
+RISK 1: Name overload.
+Control:
+Use spines, not every individual name, during live work.
+
+RISK 2: Framework worship.
+Control:
+Borrow moves only; no full framework import without separate proof.
+
+RISK 3: Over-ceremony.
+Control:
+Minimum Viable Control and No Over-Test for Obvious Clean Fits stay active.
+
+RISK 4: Weird-source contamination.
+Control:
+Forum Signal Intake Gate + Folk Wisdom Label + Weird Source Gold Filter.
+
+RISK 5: Tool-boss inversion.
+Control:
+Tool Boss Inversion Check + Platform vs Worker Boundary + Enabling Tool Trial.
+
+RISK 6: Saved packet becomes active doctrine by accident.
+Control:
+Operating Gear vs Doctrine Split + proof-history/support boundary.
+
+RISK 7: Deep scan becomes endless hunting.
+Control:
+State says stop search, pack/save, then run a bounded test.
+
+BEST COMPRESSED TEST FORMULA
+Use this for future suit test:
+
+STATE:
+What is true now?
+
+CLAIM:
+What are we trying to prove or improve?
+
+CONTROL:
+What action is allowed, by whom, on what target, at what time?
+
+PROBE:
+What small bounded test will show useful evidence?
+
+ABORT:
+What output means stop?
+
+EVIDENCE:
+What returned proof counts?
+
+VERDICT:
+What is proven, what is not proven?
+
+NEXT:
+Keep, merge, park, discard, or promote?
+
+DEEP SCAN FINAL VERDICT
+PASS WITH GUARDRAILS.
+
+Meaning:
+The wave material is good enough to lock/save and use for a future deep suit test.
+It is not clean to install all of it as doctrine.
+The next clean move after Git save is a bounded deep suit test, not more hunting.
