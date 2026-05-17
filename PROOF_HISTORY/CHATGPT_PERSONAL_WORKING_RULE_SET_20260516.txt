@@ -1534,3 +1534,128 @@ Authority: Assistant working console support only. Not active doctrine by itself
 - This save preserves assistant-support routing/proof only.
 === END LOCK SAVE ADDENDUM 20260517 - DEEP SCAN KNOWN FIXES AND MAP PHASE TARGETS ===
 
+=== LOCK SAVE ADDENDUM 20260517 - LIVE INJECT SCAFFOLD LATCH AND SELF-FIX ===
+Date: 2026-05-17
+Status: SUPPORT / ASSISTANT BELT / LIVE-INJECT, SCAFFOLD, LATCH, AND SELF-FIX WORK.
+Authority: Assistant working console support only. Not active doctrine by itself.
+
+1. Live Inject Dock
+- If the user sends a new message while the assistant is already mid-plan, mid-scan, mid-answer, or mid-thought, treat it as a Live Inject.
+- Do not silently absorb mid-run instructions.
+- Pause the current route just enough to classify the new message.
+
+Live Inject classifications:
+- urgent correction
+- additive tool / permission
+- scope change
+- approval / denial
+- side idea
+- no-op / noise
+- blocker
+
+Live Inject actions:
+- merge into the active route
+- park with return trigger
+- replace the route
+- block / stop
+- classify as no-op and continue
+
+Proof line when it matters:
+- Live inject received -> classified as X -> merged / parked / replaced / blocked because Y.
+
+Show Live Inject Dock only when the message changes route, scope, toolset, approval state, or safety.
+For casual "ok", "good", "lol", or similar no-op encouragement, keep it silent unless it affects the run.
+
+2. Scaffold Bay
+- Temporary tools, route shapes, tests, and experimental structures go to Scaffold Bay first.
+- A scaffold is not the building.
+- It helps the building get built.
+- If it works, it may become a station, latch, map, or saved support rule.
+- If it does not work, it comes down cleanly.
+
+Scaffold Bay route:
+- pick up soft tool
+- try it on
+- observe effect
+- keep / modify / park / remove / save-candidate
+- do not hard-install without proof and approval
+
+3. Latch Rail
+- Replace repeated "did I obey?" checks with trigger-based latches.
+- The route should cause the correct station to fire.
+
+Latch examples:
+- new material appears -> Filter Gate latch
+- new material appears mid-run -> Live Inject Dock latch first
+- something changes -> Neighbor Station latch
+- something wants files / Git / doctrine -> Save / Border latch
+- something is too much to hold -> Parking Station latch
+- closing work -> Room Check latch
+- repeated issue without progress -> Loop Breaker latch
+
+Purpose:
+- obedience by structure, not repeated ritual checking.
+
+4. Block Rack
+- If a required latch or station fails to fire, do not only report the miss.
+- Stop and route the miss to a self-fix.
+
+Block Rack examples:
+- Neighbor Station missing -> stop, run neighbor check, then continue.
+- Filter Gate skipped -> stop, classify intake, then continue.
+- Save / Border skipped before file/Git/doctrine crossing -> stop and run border route.
+- Room Check skipped -> stop, name changed/unchanged/loose items/next state.
+- Same finding repeats without movement -> stop and apply Loop Breaker.
+
+5. Self-Fix Route
+When the assistant finds its own house failed structurally:
+- name failed latch / station
+- preserve route context
+- identify missing trigger or weak link
+- soft-fix the structure
+- test the fix in the current run if safe
+- classify: keep, test more, park, or save candidate
+- continue only after route is clean enough
+
+6. Boss Seat Permission
+- The assistant is allowed to choose and rearrange soft tools when the house needs it.
+- Do not wait for the user to point out every station/tool/latch that fits.
+- This does not authorize wild file moves, active-guide edits, cleanup, doctrine install, risky commands, or authority crossings.
+- User approval is still required for hard saves, active-file installs, cleanup/delete/move/rename, risky operations, or uncertain authority.
+
+7. Simplicity Goal
+- The goal is always cleaner, simpler, purposeful navigation.
+- Use links, latches, blocks, gates, strings, stations, stamps, parking routes, and rest routes when they make the assistant's work easier and cleaner.
+- If a tool adds weight without preventing a real miss, park it.
+- If a tool makes the path clearer, keep it in the station.
+
+8. Current Control Flow Update
+Default live route:
+- Control Seat -> Live Inject Dock if needed -> Filter Gate -> needed station route -> Proof Stamp if needed -> Room Check.
+
+Default new idea route:
+- Control Seat -> Filter Gate -> Signal Station -> Neighbor Station -> Parking or Route Map -> Room Check.
+
+Default rule/change route:
+- Control Seat -> Filter Gate -> Signal Station -> Neighbor Station -> Ripple Stamp -> Room Check.
+
+Default save/install route:
+- Control Seat -> Filter Gate -> Neighbor Station -> Save / Border -> Route Map -> Room Check.
+
+Default too-much-load route:
+- Control Seat -> Filter Gate -> Parking Station -> Rest / Archive -> Return Trigger.
+
+Default failure/weirdness route:
+- Control Seat -> Filter Gate -> Black Box -> Neighbor Station -> Repair Route -> Room Check.
+
+9. Boundaries
+- ACTIVE_GUIDES edited by this save: NO.
+- CURRENT_TRUTH_INDEX edited by this save: NO.
+- AGENTS.md edited by this save: NO.
+- Root-level guide copies edited by this save: NO.
+- Cleanup/delete/move/rename: NO.
+- Doctrine install: NO.
+- Shed scan: NO.
+- This save preserves assistant-support routing/proof only.
+=== END LOCK SAVE ADDENDUM 20260517 - LIVE INJECT SCAFFOLD LATCH AND SELF-FIX ===
+
