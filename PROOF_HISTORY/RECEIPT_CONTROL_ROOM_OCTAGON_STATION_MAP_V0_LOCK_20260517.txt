@@ -1,0 +1,47 @@
+RECEIPT: CONTROL ROOM / OCTAGON STATION MAP V0 LOCK SAVE
+Date: 2026-05-17
+
+Saved/uploaded file count intended: 2
+
+Files:
+1. PROOF_HISTORY/CONTROL_ROOM_OCTAGON_STATION_MAP_V0_20260517.txt
+2. PROOF_HISTORY/RECEIPT_CONTROL_ROOM_OCTAGON_STATION_MAP_V0_LOCK_20260517.txt
+
+What changed:
+- Created a standalone support map:
+  CONTROL ROOM / OCTAGON STATION MAP V0.
+- Created this receipt.
+
+What the map contains:
+- Center Control Seat.
+- Eight first-ring octagon stations:
+  Filter Gate,
+  Signal Station,
+  Neighbor Station,
+  Route Map Station,
+  Parking Station,
+  Save / Border Station,
+  House Walk Station,
+  Rest / Archive Station.
+- Child Map A: Proof Stamp Family.
+- Child Map B: Parking Station / Model Deck.
+- String / Switchboard Rules.
+- Default Routes.
+- V0 verdict and watch item.
+
+What did not change:
+- ACTIVE_GUIDES edited: NO
+- CURRENT_TRUTH_INDEX.txt edited: NO
+- AGENTS.md edited: NO
+- Root-level guide copies edited: NO
+- Assistant console edited: NO
+- Cleanup/delete/move/rename: NO
+- Doctrine install: NO
+- Shed scan: NO
+
+Reason:
+User approved the Control Room / Octagon Station Map V0 and asked to lock/save it.
+This map gives the assistant a center-seat navigation model so tools live at stations instead of being carried as a heavy flat list.
+
+Boundary verdict:
+PASS - support-only map save. No active package expansion.

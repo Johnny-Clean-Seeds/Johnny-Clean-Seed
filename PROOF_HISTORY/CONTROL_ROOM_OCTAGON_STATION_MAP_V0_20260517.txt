@@ -1,0 +1,452 @@
+CONTROL ROOM / OCTAGON STATION MAP V0
+Date: 2026-05-17
+Status: SUPPORT MAP / ASSISTANT NAVIGATION OBJECT.
+Authority: Support-only. Not active doctrine by itself. Not an ACTIVE_GUIDES file.
+
+CORE SHAPE
+- The assistant sits in the center control seat.
+- The stations sit around the center as octagons.
+- The assistant turns toward the station needed for the current job.
+- The assistant does not carry every tool in the belt.
+- Heavy systems live at stations.
+- The string connects stations only when the current route needs it.
+
+CENTER SEAT
+
+Name: Control Seat
+
+Job:
+- Hold the active ball.
+
+Carries:
+- current task
+- current scope
+- current source truth
+- current route
+- current verdict
+- current next state
+
+Use when:
+- Always. Every run starts and returns here.
+
+Proof it ran:
+- The assistant can say what the active ball is, what station it turned to, and what changed or did not change.
+
+Exit:
+- Close with room check.
+
+FIRST RING - MAIN OCTAGON STATIONS
+
+1. FILTER GATE
+
+Job:
+- Safe intake.
+
+Use when:
+- Anything new enters: idea, rule, file, command, tool, model, user correction, outside source.
+
+Checks:
+- source
+- safety
+- authority
+- home/job
+- proof need
+- risk
+- whether it enters, parks, blocks, or rejects
+
+Main law:
+- Nothing comes in through the window.
+
+Links to:
+- Signal Station
+- Parking Station
+- Save / Border Station
+- Quarantine / Impound under Parking
+
+Exit:
+- Item classified before it affects work.
+
+2. SIGNAL STATION
+
+Job:
+- Decide whether something is real signal or shiny glow.
+
+Tools:
+- Signal Card
+- Anti-Glow Check
+- Balanced Ripple Check
+
+Use when:
+- An idea lights up, feels important, repeats, or may affect future work.
+
+Checks:
+- Why did this light up?
+- What proof bite supports it?
+- What could be novelty only?
+- What improves?
+- What could go wrong?
+
+Links to:
+- Neighbor Station
+- Route Map Station
+- Parking Station
+- House Walk Station
+
+Exit:
+- Keep, soft-try, park, reject, watch, or install candidate.
+
+3. NEIGHBOR STATION
+
+Job:
+- Respect thy Neighbor.
+
+Use when:
+- Something changes, applies, moves, saves, links, or exits.
+
+Checks:
+- What does this touch?
+- What siblings, cousins, parents, moms, or neighbors are affected?
+- Does this improve them?
+- Does this hurt them?
+- Does this need a clean string?
+
+Links to:
+- Switchboard under Parking
+- Route Map Station
+- Save / Border Station
+- House Walk Station
+
+Exit:
+- Affected neighbors classified as changed, unchanged, parked, watch, blocked, or not affected.
+
+4. ROUTE MAP STATION
+
+Job:
+- Prove the path.
+
+Use when:
+- A run could drift, repeat, hide steps, or need proof that the assistant did the thing.
+
+Tools:
+- Route Stamp
+- Ripple Stamp
+- Run Stamp
+- Room Check
+- Deep Clean Ledger only when heavy proof is needed
+
+Links to:
+- Proof Stamp Family child map
+- House Walk Station
+- Save / Border Station
+- Neighbor Station
+
+Exit:
+- Route visible, proof point named, next state named.
+
+5. PARKING STATION
+
+Job:
+- Put things in the right holding shape.
+
+Use when:
+- Something cannot stay in the active hand but must not be thrown away.
+
+Contains:
+- Parking Model Deck
+- Valet
+- Garage
+- Impound
+- Quarantine
+- Loading Dock
+- Library / Archive
+- Greenhouse
+- Train Yard
+- City Zoning
+- Kanban
+- Courtroom
+- Laboratory
+- Control Tower
+- Passport / Customs
+- Switchboard
+- Black Box
+
+Main law:
+- Park for load, drop only for fit.
+
+Links to:
+- Rest / Archive Station
+- Signal Station
+- Save / Border Station
+- Neighbor Station
+
+Exit:
+- Parked item has model, reason, return trigger, and exit route.
+
+6. SAVE / BORDER STATION
+
+Job:
+- Control crossing into files, Git, doctrine, public, or local truth.
+
+Use when:
+- Something wants to be saved, installed, published, moved, exported, or treated as truth.
+
+Tools:
+- Use Does Not Equal Install
+- Passport / Customs
+- Git proof route
+- Receipt route
+- Active-file install gate
+
+Checks:
+- Does this need to be written?
+- Where does it belong?
+- What file count?
+- What proof?
+- What changed?
+- What did not change?
+
+Links to:
+- Route Map Station
+- Neighbor Station
+- Parking Station
+- Rest / Archive Station
+
+Exit:
+- Saved, blocked, parked, watch item, or no-edit decision.
+
+7. HOUSE WALK STATION
+
+Job:
+- Feel the house before and after.
+
+Use when:
+- Testing new skills, checking model health, judging drift, or preparing map work.
+
+Sequence:
+- first walk
+- deep scan
+- soft apply finds
+- second walk
+- compare
+- polish gate
+- loop breaker
+
+Checks:
+- Cleaner or dirtier?
+- More navigable or busier?
+- Growth or drift?
+- What changed from before?
+
+Links to:
+- Signal Station
+- Route Map Station
+- Neighbor Station
+- Rest / Archive Station
+
+Exit:
+- Keep skill, test more, park, reject, or save candidate.
+
+8. REST / ARCHIVE STATION
+
+Job:
+- Safe rest, not trash.
+
+Use when:
+- Tools, ideas, skills, or models are not needed in the active hand.
+
+Contains:
+- rest stop
+- library/archive
+- museum/proof display
+- retired tools
+- parked support
+- use-later methods
+
+Main law:
+- Nothing goes out the window.
+
+Links to:
+- Parking Station
+- Save / Border Station
+- House Walk Station
+
+Exit:
+- Kept active, rested, archived, retired, superseded, rejected, blocked, or safely saved.
+
+CHILD MAP A - PROOF STAMP FAMILY
+
+Lives under:
+- Route Map Station
+
+Job:
+- Prove that a soft behavior actually ran without making a giant receipt every time.
+
+ROUTE STAMP
+
+Use when:
+- The assistant needs to prove the path.
+
+Fields:
+- route used
+- why this route
+- proof point
+- exit condition
+- loose item
+
+RIPPLE STAMP
+
+Use when:
+- An idea, rule, model, or station may apply elsewhere.
+
+Fields:
+- ripple source
+- core logic
+- where else checked
+- applied / parked / rejected / already covered
+- proof point
+- next state
+
+RUN STAMP
+
+Use when:
+- The assistant tests a soft skill or model.
+
+Fields:
+- skill/model used
+- what it did
+- cleaner or dirtier
+- kept / parked / rejected
+- loose item
+
+ROOM CHECK
+
+Use when:
+- Closing a save, scan, walk, or important decision.
+
+Fields:
+- changed
+- unchanged
+- proof clean?
+- loose items
+- next state
+
+DEEP CLEAN LEDGER
+
+Use when:
+- Trust depends on heavy proof.
+
+Fields:
+- files checked
+- sections checked
+- evidence
+- verdict
+- what would disprove
+- next state
+
+PROOF STAMP RULE
+- Use the smallest proof stamp that fits the job.
+- Do not use Deep Clean Ledger when Route Stamp is enough.
+
+CHILD MAP B - PARKING STATION / MODEL DECK
+
+Lives under:
+- Parking Station
+
+Job:
+- Choose the correct holding shape.
+
+QUICK SELECTOR
+- Incoming mixed material -> Mailroom
+- Live side idea -> Valet
+- Many related ideas -> Garage
+- Unsafe or no-key -> Impound
+- Suspect or contaminated -> Quarantine
+- Almost ready -> Loading Dock
+- Stored support/proof -> Library / Archive
+- Immature idea -> Greenhouse
+- Needs sequence -> Train Yard
+- Touches many homes -> City Zoning
+- Needs visible status -> Kanban
+- Needs verdict -> Courtroom
+- Needs testing -> Laboratory
+- Many moving pieces -> Control Tower
+- Crosses authority boundary -> Passport / Customs
+- Needs clean connection -> Switchboard
+- Failure trace -> Black Box
+
+PARKING PROOF LINE
+- Parking model used:
+- Reason:
+- Ticket/status:
+- Return trigger:
+- Exit route:
+
+STRING / SWITCHBOARD RULES
+
+The string is the active connection between stations.
+
+A clean string needs:
+- from station
+- to station
+- trigger
+- reason
+- proof point
+- exit condition
+
+Bad string:
+- everything connected to everything
+- no trigger
+- no direction
+- no exit
+- permanent bridge without proof
+
+Good string example:
+- From: Parking Station
+- To: Signal Station
+- Trigger: parked idea starts glowing again
+- Reason: test whether it is real signal
+- Proof point: Signal Card
+- Exit: keep parked, move to Greenhouse, send to Loading Dock, or reject
+
+DEFAULT ROUTES
+
+New idea route:
+- Control Seat -> Filter Gate -> Signal Station -> Neighbor Station -> Parking or Route Map -> Room Check
+
+Save route:
+- Control Seat -> Filter Gate -> Neighbor Station -> Save / Border Station -> Route Map Station -> Room Check
+
+Skill test route:
+- Control Seat -> House Walk Station -> Signal Station -> Try-On -> Second Walk -> Route Map Station -> Rest / Archive
+
+Parking route:
+- Control Seat -> Filter Gate -> Parking Station -> selected model -> Route Map Station -> Room Check
+
+Failure route:
+- Control Seat -> Filter Gate -> Black Box / Parking Station -> Route Map Station -> Neighbor Station -> Repair route
+
+V0 VERDICT
+
+This map is cleaner than the belt-only model.
+
+Before:
+- Tools were carried in a heavy belt.
+
+After:
+- Tools live at stations, and the assistant turns toward them.
+
+What improved:
+- less hand-load
+- clearer orientation
+- parking has a real home
+- proof tools have a family
+- ripple has a station path
+- save/install stays at the border
+- old tools rest instead of being thrown away
+
+Watch item:
+- Do not overuse the metaphor in every answer.
+- For normal answers, use the station silently and only show the route when it matters.
+
+Current state:
+- Control Room / Octagon Station Map V0 built and usable.
