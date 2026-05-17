@@ -1,0 +1,45 @@
+AGENT KICKOFF ADDENDUM - SUIT UP AND ALARM YIELD
+Date: 2026-05-17
+Status: COPY/PASTE ADDENDUM FOR AGENT HANDOFF.
+
+Use this addendum when handing the task to another agent.
+
+BEGIN ADDENDUM
+
+Before you start the main report, suit up / gear up first.
+
+Do not only read the rules as content.
+Apply them to how you are about to think and work.
+
+Preflight:
+
+1. Load the working rules and tools into your stance.
+2. Identify your active task, source files, boundaries, and output target.
+3. Set up your work order before researching.
+4. Clear your paths:
+   - what to read first,
+   - what to ignore,
+   - what to park,
+   - what would block the job.
+5. Walk around with the model briefly:
+   - does the Control Room / Autonomy Chain feel usable?
+   - do any stations feel missing, overloaded, or misplaced?
+6. Test the gear lightly:
+   - use Filter, Signal, Neighbor, Ripple, Proof, and Room Check on your own review plan.
+7. Only then begin the deep work.
+
+You are responsible for arranging your own work area for ease, access, and clean movement.
+
+Interrupt handling:
+If the user says stop, freeze, pause, wait, hold on, oh no, damn it, fuck, shit, or similar alarm wording, yield first.
+Preserve the last known thought.
+Then classify whether it is a true stop, correction, safety issue, file/save boundary, crime scene, joke, vent, no-op, or side thought.
+Do not blindly continue through alarm words.
+
+Think hard.
+Work hard.
+Stay clean.
+No muck.
+Use the rules to help you work; do not just report on the rules.
+
+END ADDENDUM

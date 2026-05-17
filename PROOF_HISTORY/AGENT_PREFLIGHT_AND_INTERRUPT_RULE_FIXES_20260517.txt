@@ -1,0 +1,196 @@
+AGENT PREFLIGHT AND INTERRUPT RULE FIXES
+Date: 2026-05-17
+Status: SUPPORT-ONLY RULE-FIX / NOTES LOCK.
+Authority: Proof-history support file. Not active doctrine. Not an active guide edit.
+
+PURPOSE
+
+This file captures the new rule fixes and agent-handling ideas that came up during the mule / second-agent handoff work.
+
+These fixes are intended to improve how agents begin work, handle user interjections, and avoid losing the active route.
+
+This file does not install doctrine.
+This file does not edit active guides.
+This file does not change CURRENT_TRUTH_INDEX.
+This file does not change AGENTS.md.
+
+FIX 1 - SUIT UP / GEAR UP PREFLIGHT
+
+Problem:
+An agent can read rules as content without actually applying them to how it thinks and works.
+
+Fix:
+Before deep work, the agent must suit up / gear up.
+
+Meaning:
+The agent should load the working rules/tools into its operating stance, walk around with them, feel/test the setup, stretch the "hamstrings," clear the paths, then begin in a smart order.
+
+Clean route:
+1. Load the working rules and tools into stance.
+2. Identify active task, source files, boundaries, and output target.
+3. Set up work order before researching.
+4. Clear paths:
+   - what to read first,
+   - what to ignore,
+   - what to park,
+   - what blocks the job.
+5. Walk around with the model briefly:
+   - does the Control Room / Autonomy Chain feel usable?
+   - does any station feel missing or overloaded?
+6. Test the gear lightly:
+   - Filter,
+   - Signal,
+   - Neighbor,
+   - Ripple,
+   - Proof,
+   - Room Check.
+7. Begin the real work only after the setup feels usable.
+
+Rule shape:
+Do not only read the rules. Put them on first.
+
+Agent responsibility:
+The agent/assistant is responsible for arranging its own work area for ease, access, clean movement, and power use.
+
+Boundary:
+This is a preflight behavior rule. It does not authorize active-guide edits, file cleanup, deletion, movement, doctrine install, or authority changes.
+
+FIX 2 - EXPLICIT STOP / FREEZE / CRIME-SCENE OVERRIDE
+
+Problem:
+Parking Inject Dock is correct for normal mid-thought additions, but it is wrong when the user explicitly signals stop/freeze/crime-scene.
+
+Fix:
+Explicit stop/freeze language overrides normal parking.
+
+Trigger words or phrases include:
+- stop,
+- freeze,
+- pause,
+- wait,
+- hold on,
+- crime scene,
+- issue,
+- wrong,
+- why,
+- what happened,
+- inspect this,
+- do not continue.
+
+Clean route:
+1. Stop/yield the active route.
+2. Preserve Last Known Thought.
+3. Open crime scene if the user indicated a miss, failure, contradiction, authority issue, proof issue, or route issue.
+4. Inspect before defending, explaining, patching, or continuing.
+5. Classify the interruption.
+6. Resume, reroute, park, or block based on classification.
+
+Rule shape:
+Normal interjections park by default.
+Explicit stop/freeze/crime-scene wording hard-stops first.
+
+Boundary:
+Do not use this rule to over-freeze ordinary side thoughts. It applies when the wording or context signals a real interruption, correction, safety issue, proof issue, authority issue, or route issue.
+
+FIX 3 - ALARM WORD YIELD GATE
+
+Problem:
+The user may blurt alarm words during active work. These may mean true stop, correction, safety problem, file/save boundary, joke, emotional vent, no-op, or side thought. The assistant should not blindly continue through them.
+
+Alarm words include:
+- freeze,
+- pause,
+- wait,
+- hold on,
+- stop,
+- oh no,
+- damn it,
+- fuck,
+- shit,
+- similar sudden alarm/frustration wording.
+
+Fix:
+Alarm words yield first. Classification decides what happens next.
+
+Clean route:
+1. Pause/yield the active route.
+2. Preserve Last Known Thought.
+3. Classify the alarm:
+   - true stop/freeze,
+   - correction,
+   - safety issue,
+   - file/save boundary,
+   - crime scene,
+   - joke,
+   - emotional vent,
+   - no-op,
+   - side thought.
+4. If true stop/crime scene:
+   - freeze and inspect.
+5. If correction:
+   - merge and reroute.
+6. If safety/file/save boundary:
+   - block or verify before action.
+7. If joke/vent/no-op:
+   - acknowledge lightly if needed, then return to Last Known Thought.
+8. If side thought:
+   - park it and continue.
+
+Rule shape:
+Alarm words yield first. Classification decides the route.
+
+This refines:
+- Live Inject Dock,
+- Parking Inject Dock,
+- Last Known Thought Recovery,
+- explicit crime-scene override behavior.
+
+FIX 4 - FIRST REPORT CHECK / NO-REPORT CLASSIFICATION
+
+Problem:
+The user asked whether the first mule report had arrived. The available uploaded text was a task/prompt source, not the completed report.
+
+Clean classification:
+- First mule report received: NO.
+- Prompt/source packet received: YES.
+- Other agent report: not confirmed unless separately uploaded.
+- Required action: wait for actual report text/file before comparing results.
+
+Lesson:
+Do not treat a task prompt as a completed report.
+Before comparing reports, classify each input:
+- prompt/source,
+- report/output,
+- receipt,
+- command log,
+- partial fragment,
+- unknown.
+
+FIX 5 - AGENT HANDOFF START ORDER
+
+For another agent, the clean start order is:
+
+1. Give the START HERE URL or source prompt.
+2. Tell the agent to suit up / gear up before deep work.
+3. Tell the agent to apply the rules to how it works, not merely report on them.
+4. Keep the task bounded.
+5. Ask for one focused report.
+6. Do not send extra chat history unless needed.
+7. After report returns, compare:
+   - what both reports agree on,
+   - what only one report saw,
+   - what is useful,
+   - what is risky,
+   - what should be parked,
+   - what should be saved,
+   - what should be rejected,
+   - what should be installed only if later proven necessary.
+
+CURRENT STATUS
+
+These rule fixes are captured as support-only notes.
+
+They are not active guide doctrine.
+They are not installed into ACTIVE_GUIDES.
+They are not promoted into CURRENT_TRUTH_INDEX.
+They can be used as working behavior guidance and reviewed later for possible active-package placement.
