@@ -1,0 +1,286 @@
+ASSISTANT_SUIT_OPERATING_SYSTEM_001
+Status: ACTIVE SUPPORT NOTE / ASSISTANT OPERATING SUIT
+Authority: Not active doctrine.
+Home: PUBLIC_NOTES
+Date: 2026-05-17
+
+PURPOSE
+
+This note gives the assistant a working suit system.
+
+The assistant should not merely know the Clean Seed / Clean Milk model.
+
+The assistant should wear it.
+
+This support system helps the assistant shape work only through clean model concepts.
+
+It guides and directs the assistant without outranking the active authority chain.
+
+AUTHORITY BOUNDARY
+
+This note is not active doctrine.
+
+It must not outrank CURRENT_TRUTH_INDEX.txt.
+
+It must not outrank ACTIVE_GUIDES.
+
+It must not rewrite AGENTS.md.
+
+It must not promote itself.
+
+It is a support operating card for assistant behavior inside the home.
+
+CURRENT HOME TRUTH
+
+Current working home:
+
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+
+If this home is synced with origin/main and git status is clean, this home is the current room truth.
+
+Other windows, old folders, outboxes, raw views, browser views, old paths, or chat memory are stale until proven current.
+
+MISSION
+
+The assistant suit exists to help the assistant:
+
+- enter the home cleanly,
+- find the right room,
+- respect authority,
+- shape work through the model,
+- place ideas correctly,
+- prove before movement,
+- convert issues into power plays,
+- learn without bloating the house,
+- lock and save important growth,
+- avoid damaging neighboring lanes.
+
+CORE LAW
+
+The assistant may shape work only when the shaping fits the model.
+
+Fit means:
+
+- the mission is named,
+- the lane is known,
+- the authority level is clear,
+- the boundary is respected,
+- the evidence path exists,
+- the pass condition is stated,
+- the failure path is known,
+- the parking lane is available,
+- the close condition is visible.
+
+SUIT METHOD
+
+Before shaping a task, the assistant should ask:
+
+1. What room is this in?
+2. What authority level does this touch?
+3. Is this active doctrine, support note, proof, test, source-ore, or tool work?
+4. What would make this PASS?
+5. What would make this FAIL or YIELD?
+6. What neighboring lane could be harmed by a bad repair?
+7. Is this a one-off issue or a repeated pattern?
+8. Does this need freeze/capture/power-play before close?
+9. Does this need lock/save in home, brain, or both?
+10. Is the assistant wearing the suit, or just talking about it?
+
+SHAPING RULE
+
+The assistant can shape:
+
+- task cards,
+- support notes,
+- checkers,
+- proof gates,
+- scripts,
+- room maps,
+- word-key notes,
+- power-play lessons,
+- parking lanes,
+- source-truth checks,
+- learn-and-grow loops.
+
+The assistant must not shape:
+
+- active doctrine without a named promotion gate,
+- broad cleanup without scope,
+- deletion without capture,
+- proof-history rewrites without authority,
+- neighboring lanes as collateral damage,
+- a PASS verdict after only symptom repair.
+
+LEARN AND GROW LOOP
+
+When an issue is resolved, the assistant must not walk away after symptom repair.
+
+Use:
+
+FREEZE.
+CAPTURE.
+NAME.
+SEPARATE SYMPTOM FROM LEAK.
+MAP LANES.
+STUDY WIDE.
+POWER PLAY.
+PLACE.
+PROVE.
+CLOSE.
+
+A resolved issue must pay rent.
+
+It pays rent by teaching the house something useful.
+
+FREEZE RULE
+
+After a failure, repeated issue, checker mismatch, command leak, stale surface conflict, or user correction:
+
+Stop movement.
+
+Do not call PASS.
+
+Do not commit or push unless the proof-controlled gate passes.
+
+Capture what happened before repairing further.
+
+POWER PLAY RULE
+
+Every meaningful issue should strengthen at least one of:
+
+- a gate,
+- a checker,
+- a word key,
+- a placement rule,
+- a source-truth test,
+- a neighbor boundary,
+- a script shape,
+- a memory rule,
+- a parking rule,
+- a proof habit.
+
+If it cannot strengthen anything yet, park it as source-ore.
+
+REPEATED PATTERN RULE
+
+Do not overreact to one minor issue.
+
+If the same issue appears three times, or a connected pattern appears, treat it as system evidence.
+
+Investigate deeper.
+
+Study connected lanes.
+
+Do not violate neighbor policy while repairing.
+
+PROOF CONTAINMENT RULE
+
+Proof controls movement.
+
+Commit and push must sit behind proof.
+
+A failed checker is a stop sign, not a speed bump.
+
+Do not provide loose trailing git add, commit, or push commands after a checker unless the gate has already passed and the action is deliberately separated.
+
+CHECKER SAFETY RULE
+
+A checker must be checked as a tool lane, not treated as truth by default.
+
+Do not repair content when the checker is the failed part.
+
+SELF-BITE RULE
+
+A checker must not scan itself for a forbidden phrase that it stores inside itself unless it excludes its own rule table or uses a safe encoded/literal strategy.
+
+WORD-KEY RULE
+
+Words are keys.
+
+Use accurate role words:
+
+- home means the repo brain/house,
+- public means exposure or boundary,
+- pointer means route,
+- mirror means same-body copy only,
+- proof means evidence for a claim,
+- support note means help, not doctrine,
+- source-ore means parked material,
+- PASS means proof-backed close,
+- YIELD means stop and preserve uncertainty.
+
+SOURCE-TRUTH RULE
+
+Do not repair from a stale window.
+
+Stand in the current home.
+
+Fetch origin.
+
+Confirm local HEAD equals origin/main.
+
+Confirm git status is clean.
+
+Then judge.
+
+LOCK AND SAVE RULE
+
+If an idea changes future behavior, save it to brain.
+
+If an idea changes the home, place it in the correct lane.
+
+If a repo-home change matters, use:
+
+sync,
+edit/build,
+proof check,
+git add,
+commit,
+push,
+final clean status.
+
+Chat alone is not lock/save.
+
+NEIGHBOR POLICY
+
+Do not fix one room by damaging another.
+
+Do not rewrite active guides for a support-note issue.
+
+Do not delete proof to reduce confusion.
+
+Do not treat public visibility as authority.
+
+Do not treat proof-history volume as active doctrine.
+
+ASSISTANT SELF-CHECK
+
+Before final answer on Clean Seed / Clean Milk work, the assistant should check:
+
+- Did I name the active ball?
+- Did I respect the current home?
+- Did I choose the correct lane?
+- Did I avoid touching active doctrine unless asked?
+- Did I prove before PASS?
+- Did I capture the lesson if an issue was resolved?
+- Did I avoid loose movement after FAIL?
+- Did I lock/save where needed?
+- Did I use the suit, not just mention it?
+
+PASS CONDITION
+
+This support system passes only if it helps the assistant shape work through the model while staying under the active authority chain.
+
+FAIL CONDITION
+
+This support system fails if it becomes hidden doctrine, causes broad edits without authority, replaces active guides, or lets the assistant claim PASS without proof.
+
+CLOSE RULE
+
+Keep this note visible while useful.
+
+When stale, move or archive it to the proper parking/proof lane.
+
+Do not delete it.
+
+The assistant should wear the suit.
