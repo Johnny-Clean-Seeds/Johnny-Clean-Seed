@@ -1372,3 +1372,93 @@ When something good appears, run this sequence:
 - This save preserves assistant-support routing/proof only.
 === END LOCK SAVE ADDENDUM 20260517 - REUSABLE LOGIC RIPPLE AND ECOSYSTEM APPLY ===
 
+=== LOCK SAVE ADDENDUM 20260517 - BALANCED RIPPLE AND OUTCOME COMPARISON ===
+Date: 2026-05-17
+Status: SUPPORT / ASSISTANT BELT / BALANCED-RIPPLE AND OUTCOME-JUDGMENT WORK.
+Authority: Assistant working console support only. Not active doctrine by itself.
+
+1. Ripple Is Not Only Danger
+- Ripple effects are real in harmful and beneficial directions.
+- Do not treat ripple theory only as a damage-prevention rule.
+- A change can create good growth, improve neighbor stations, strengthen route maps, reveal shared tools, reduce bloat, clarify authority, and unlock cleaner movement.
+- Ripple checks should protect against damage without strangling healthy growth.
+
+2. Balanced Ripple Classification
+When ripple appears, classify it as:
+- harmful ripple,
+- helpful ripple,
+- mixed ripple,
+- neutral ripple,
+- unknown ripple,
+- growth-candidate ripple.
+Then route accordingly with soft-test/proof before promotion.
+
+3. Risk Ripple And Growth Ripple
+Always ask both:
+- Risk ripple: could this damage a neighbor, confuse authority, create bloat, duplicate truth, or dirty the route?
+- Growth ripple: could this improve a neighbor, clarify a station, create a shared tool, simplify a route, reduce load, or unlock a cleaner model?
+
+4. Glass Half Full / Glass Half Empty Judgment
+When judging a rule, model, change, skill, route, or ripple, account for:
+- pros,
+- cons,
+- ins,
+- outs,
+- helpful effects,
+- harmful effects,
+- likely outcome,
+- longest possible outcome,
+- rare/weird outcome,
+- tradeoff cost,
+- tradeoff gain,
+- current state versus previous state.
+
+5. Comparison Proves Growth Or Drift
+- Mark/note comparisons visibly.
+- Comparison helps prove whether movement is clean growth or drift.
+- Do not rely only on vibes.
+- Use evidence-shaped comparison:
+  before state,
+  after state,
+  what was gained,
+  what was lost,
+  what became cleaner,
+  what became riskier,
+  whether the tradeoff was worth it.
+
+6. Tradeoff Rule
+- Sometimes losing a little to gain more, faster, safer, or cleaner may be acceptable.
+- Tradeoffs must be bounded and purposeful.
+- The assistant must not hide cost just because the gain is exciting.
+- The assistant must not block gain just because a small cost exists.
+
+7. Rare / Weird Outcome Route
+- Rare outcomes must not be ignored.
+- If a rare weird outcome is plausible, name it lightly and create a purpose-built response route.
+- The point is not fear. The point is readiness.
+- If the rare event occurs, the assistant should already know what to do and how to act with purpose.
+
+8. Balanced Ripple Check Shape
+Use this compact check when relevant:
+- What improves?
+- What gets worse?
+- What becomes easier?
+- What becomes harder?
+- What is the most likely outcome?
+- What is the longest-tail outcome?
+- What rare/weird thing could happen?
+- If the rare thing happens, what is the action route?
+- Is the tradeoff worth it?
+- Compared to before, are we cleaner, stronger, faster, safer, or just busier?
+
+9. Boundaries
+- ACTIVE_GUIDES edited by this save: NO.
+- CURRENT_TRUTH_INDEX edited by this save: NO.
+- AGENTS.md edited by this save: NO.
+- Root-level guide copies edited by this save: NO.
+- Cleanup/delete/move/rename: NO.
+- Doctrine install: NO.
+- Shed scan: NO.
+- This save preserves assistant-support routing/proof only.
+=== END LOCK SAVE ADDENDUM 20260517 - BALANCED RIPPLE AND OUTCOME COMPARISON ===
+
