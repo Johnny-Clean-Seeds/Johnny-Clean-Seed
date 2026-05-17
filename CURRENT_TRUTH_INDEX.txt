@@ -137,3 +137,14 @@ Core spine: GATE -> MAP -> QUEUE -> LEDGER -> LOOP -> STATE -> SHIELD -> ROPE ->
 Core route: ANCHOR -> MOCK WORLD -> BOUNDARY -> SIGNAL WATCH -> LEDGER -> HOME ASSIGNMENT -> SAVE/INSTALL DECISION -> RETURN.
 Boundary: mock exploration is not real file action, cleanup, delete, move, rename, overwrite, active install, or doctrine rewrite unless separately approved and routed.
 README unchanged. AGENTS.md unchanged.
+
+[20260517_083147] CS_INSTALL_20260517_MOCK_WORLD_SHED_NOTES_INTAKE_STACK
+Active-file install: Mock World + Shed/Notes Intake Stack.
+Files changed: CLEAN_SEED_WRAP_GUIDE.txt, CLEAN_SEED_ALIGNMENT_CHECK.txt, CURRENT_TRUTH_INDEX.txt.
+Purpose: bring the rope-held mock-world behavior into the house and add compact controls for mining shed/notes/proof-history without losing child gold, over-importing, forgetting parked notes, hiding fog, or saving child symptoms before root diagnosis.
+Core spine: GATE -> MAP -> QUEUE -> LEDGER -> LOOP -> STATE -> SHIELD -> ROPE -> FILTER -> BRIDGE.
+Core routes:
+1. ANCHOR -> MOCK WORLD -> BOUNDARY -> SIGNAL WATCH -> LEDGER -> HOME ASSIGNMENT -> SAVE/INSTALL DECISION -> RETURN.
+2. SOURCE-ORE -> CHILD-GOLD SWEEP -> LINEAGE CHECK -> DIGEST -> RACK/PALLET/REFERENCE/QUARANTINE -> INSTALL ONLY IF APPROVED.
+Boundary: shed/notes/proof-history content is source-ore unless deliberately installed; no cleanup, delete, move, rename, overwrite, or broad import is authorized by this install.
+README unchanged. AGENTS.md unchanged.

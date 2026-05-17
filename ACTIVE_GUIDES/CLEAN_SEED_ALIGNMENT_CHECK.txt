@@ -5167,3 +5167,52 @@ GATE -> MAP -> QUEUE -> LEDGER -> LOOP -> STATE -> SHIELD -> ROPE -> FILTER -> B
 
 Required home states:
 BODY -> RACK -> PALLET -> REFERENCE -> QUARANTINE -> INSTALLED -> PROOF-HISTORY ONLY
+
+===============================================================================
+CHECK: MOCK WORLD + SHED/NOTES INTAKE STACK
+ID: CS_INSTALL_20260517_MOCK_WORLD_SHED_NOTES_INTAKE_STACK
+===============================================================================
+
+Run this check when:
+- The assistant explores beyond the current list.
+- The user gives short route commands, encouragement, approval, denial, or interrupts.
+- The assistant is about to save after user added new material.
+- Shed/notes/proof-history/source-ore is being mined.
+- A main idea creates child ideas.
+- A problem creates a secondary issue.
+- A final test or closeout is about to be called clean.
+- Fog is present.
+
+PASS if:
+- Return anchor is named.
+- Mock boundary is held when exploring.
+- New notes are either acted on, parked, or digested at checkpoint.
+- Save packets digest new user material before execution.
+- Problem lineage is checked before saving problem-derived fixes.
+- Child gold is swept before close.
+- Lingering items get home/status.
+- Shed/notes material is treated as source-ore, not authority by identity.
+- Model maps remain tools unless deliberately installed.
+- Final tests compare across affected routes.
+- Fog is named honestly.
+- Next clean action is clear.
+
+FAIL if:
+- The assistant loses the rope.
+- User interruptions scramble the active operation.
+- Non-urgent notes are forgotten instead of parked.
+- A save runs after new user material without digesting it.
+- A child symptom is saved while root cause is still active.
+- Child gold floats unnamed.
+- Support notes are promoted by identity.
+- Fog is hidden behind PASS.
+- The assistant installs broad shed/notes material without compacting it.
+
+Required spine:
+GATE -> MAP -> QUEUE -> LEDGER -> LOOP -> STATE -> SHIELD -> ROPE -> FILTER -> BRIDGE
+
+Required route:
+ANCHOR -> MOCK WORLD -> BOUNDARY -> SIGNAL WATCH -> LEDGER -> HOME ASSIGNMENT -> SAVE/INSTALL DECISION -> RETURN
+
+Required shed/notes route:
+SOURCE-ORE -> CHILD-GOLD SWEEP -> LINEAGE CHECK -> DIGEST -> RACK/PALLET/REFERENCE/QUARANTINE -> INSTALL ONLY IF APPROVED

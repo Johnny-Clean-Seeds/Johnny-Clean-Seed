@@ -1,0 +1,49 @@
+MOCK WORLD + SHED/NOTES INTAKE STACK EVIDENCE REPORT
+STAMP: 20260517_083147
+INSTALL_ID: CS_INSTALL_20260517_MOCK_WORLD_SHED_NOTES_INTAKE_STACK
+
+WHY THIS MATTERS
+This install combines two tested growth needs:
+1. The assistant successfully explored in a mock world without losing rope.
+2. The shed/notes/proof-history material contains working-console rules needed now for growth control.
+
+SELECTED SOURCE-ORE
+- Mock World / Rope Held
+- Symbol Spine Compression
+- No Loose Gear Rule
+- Pattern Signal Gate
+- Owner / Backup / Specialist states
+- Replacement Rule
+- Feedback Loop Stop Gates
+- Clean Gut Calibration
+- Short Line Classifier
+- Passive Note-Holding / Message Parking
+- Pre-Save Digest Gate
+- Problem Lineage / Infection Trace
+- Premature Save/Fix Control
+- Child-Gold / Lingering Implication Sweep
+- Rule-Dependency / Lingering Item Inspection
+- Forward-Looking Parking-Lot Watch
+- Assistant Office / Cabinet Model Maps
+- Final-Test Board Comparison
+- Fog-Honesty Rule
+
+EVIDENCE BASIS
+User approved bringing mock-world gains into the house.
+Public proof-history commits showed newer support-console material, including short-line classifier, problem lineage, premature save/fix control, child-gold sweep, passive note holding, message parking, office maps, final-test board comparison, and fog honesty.
+This install compacts those into active behavior instead of importing support files by identity.
+
+BOUNDARIES
+SOURCE NOTES PROMOTED BY IDENTITY: NO
+COMPACT BEHAVIOR INSTALLED: YES
+ACTIVE_GUIDES_EDITED: YES
+CURRENT_TRUTH_INDEX_EDITED: YES
+README_EDITED: NO
+AGENTS_EDITED: NO
+FULL_FRAMEWORK_IMPORT: NO
+CLEANUP: NO
+DELETE/MOVE/RENAME: NO
+
+NEXT CLEAN DIRECTION
+Use the new stack to mine shed/notes carefully:
+SOURCE-ORE -> CHILD-GOLD SWEEP -> LINEAGE CHECK -> DIGEST -> RACK/PALLET/REFERENCE/QUARANTINE -> INSTALL ONLY IF APPROVED.
