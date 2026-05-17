@@ -1,0 +1,299 @@
+JOJI 88 UGLY DUCKLING TOURNAMENT — PILE MAP PLAN
+Created: 2026-05-16 20:44:18
+Status: PROOF-HISTORY ONLY
+Install status: NOT ACTIVE DOCTRINE
+Authority: decision fuel only
+
+PURPOSE
+Create the first pile-map plan for the Ugly Duckling Tournament.
+
+This is not a final winner selection.
+This is not a doctrine install.
+This is not cleanup.
+This is not a full dig for more methods yet.
+
+The goal is to sort the current method shelf before digging deeper.
+
+CURRENT MATERIAL
+Known method shelf:
+- 88 recovered Joji source methods.
+- 104 mule-added methods.
+- 192 total methods in the universal method table.
+- Additional route-selection candidates surfaced in chat, including Value of Information, Information Gain, Explore/Exploit, Cynefin, Assumption Mapping, WSJF, RICE, Impact/Effort, PDCA, DMAIC, A3, Kepner-Tregoe, TRIZ, Morphological Analysis, Backcasting, Delphi, Boundary Critique, Invariant Checking, Metamorphic Testing, Property-Based Testing, and Model Checking.
+
+CORE CORRECTION
+Three ugly ducks is not enough.
+The correct route is an Ugly Duckling Tournament.
+
+Ugly duck means:
+A plain-looking method that may secretly carry major route, proof, recovery, growth, or control value once placed correctly.
+
+CURRENT STRATEGY
+Stop digging for a moment.
+Make piles.
+Link piles.
+Find thin shelves.
+Then dig again with better aim.
+
+PRIMARY PILES
+
+1. ROUTE PICKERS
+Job:
+Choose the next move.
+
+Examples:
+Value of Information
+Information Gain
+Reversibility / One-Way Door vs Two-Way Door
+Explore / Exploit Balance
+Cynefin
+Assumption Mapping
+Decision Matrix
+Weighted Scoring
+WSJF
+RICE / ICE
+Impact/Effort Matrix
+Cost-of-Delay / Regret Routing
+
+2. PROOF / EVIDENCE PROTECTORS
+Job:
+Preserve truth and make proof inspectable.
+
+Examples:
+Proof custody
+Provenance
+Chain of custody
+Burden of proof
+Hash verification
+Citation trail
+Admissibility
+Replication / reproducibility
+Data lineage
+Source triangulation
+
+3. FAILURE FINDERS
+Job:
+Find what broke and where the route failed.
+
+Examples:
+Root-cause analysis
+5 Whys
+Fishbone / Ishikawa
+Fault tree
+FMEA
+Differential diagnosis
+Route reconstruction
+Known-good / known-bad comparison
+Debugging
+Incident review
+
+4. RISK / STOP GATES
+Job:
+Stop unsafe movement.
+
+Examples:
+One-way door test
+Pre-mortem
+Red team
+Threat modeling
+Stop-the-line
+No hidden deletion
+No identity promotion
+Barrier analysis
+Safety case
+Assurance case
+
+5. OPTION GENERATORS
+Job:
+Create possible routes without random guessing.
+
+Examples:
+Morphological Analysis
+TRIZ
+Scenario Planning
+War-gaming
+Backcasting
+Design of Experiments
+Pilot Program
+Minimum Viable Test
+A/B Testing
+
+6. ORDER / DEPENDENCY BUILDERS
+Job:
+Decide sequence and dependency.
+
+Examples:
+Corrected station order
+Dependency graph
+Critical path
+Bottleneck-first routing
+OODA loop
+V-model
+Queueing analysis
+Theory of constraints
+Process map
+
+7. PUBLIC / TEACHING FRONT DOOR
+Job:
+Make the system understandable and usable.
+
+Examples:
+A3 Thinking
+Checklists
+Decision logs
+Route cards
+User journey mapping
+Service blueprinting
+FAQ extraction
+Knowledge base article
+
+8. PARKED SPECIAL LENSES
+Job:
+Hold powerful but situation-specific tools.
+
+Examples:
+Monte Carlo
+Model checking
+Formal verification
+Chaos engineering
+Delphi
+Meta-analysis
+Systematic review
+Metamorphic testing
+Property-based testing
+
+PILE LINK RULES
+Route Pickers must link to Proof, Risk, Order, and Option Generators.
+Proof Protectors feed Failure Finders and Risk / Stop Gates.
+Option Generators must not bypass Risk / Stop Gates.
+Order Builders sequence the route after the target and boundary are known.
+Public Front Door explains; it does not govern.
+Parked Special Lenses stay inactive unless the situation calls for them.
+
+TOURNAMENT ROUNDS
+
+ROUND 1 — PILE PLACEMENT
+Place each known method into one primary pile.
+Allow secondary pile links if needed.
+
+ROUND 2 — UGLY DUCK MARKING
+Inside each pile, mark plain-looking methods that may carry unusual value.
+
+ROUND 3 — ROLE TEST
+For each marked duck, decide:
+- route picker
+- proof protector
+- failure finder
+- risk gate
+- option generator
+- order builder
+- public/front-door helper
+- parked special lens
+
+ROUND 4 — BRIDGE LINK TEST
+For each duck, record:
+- depends-on
+- parent-of
+- child-of
+- supports
+- bridge-to
+- conflicts-with
+- duplicate-cousin
+- cut-link
+- parked-link
+
+ROUND 5 — PRISM TEST
+Test whether multiple fields point to the same value.
+Strong convergence beats one-field cleverness.
+
+ROUND 6 — SCORE
+Score only after placement.
+
+Suggested score fields:
+- route value
+- proof value
+- risk protection
+- recovery value
+- growth support
+- bloat resistance
+- clarity
+- reversibility
+- evidence burden
+- public usefulness
+
+ROUND 7 — DECISION
+Do not choose final doctrine.
+Choose:
+- current winners
+- duos/trios worth testing
+- parked candidates
+- thin piles needing more digging
+- bad links to cut
+
+INITIAL TOURNAMENT HYPOTHESIS
+The best route-picking ducks may be:
+
+1. Value of Information
+Reason:
+Chooses the move that removes the most important uncertainty.
+
+2. Reversibility / One-Way Door vs Two-Way Door
+Reason:
+Sets the proof burden and speed before action.
+
+3. Explore / Exploit Balance
+Reason:
+Decides whether to keep searching or use the best current route.
+
+4. Cynefin
+Reason:
+Classifies the situation before picking the route style.
+
+5. Assumption Mapping
+Reason:
+Finds the hidden assumption that should be tested first.
+
+This is only a starting hypothesis.
+It must be tested against the method table.
+
+CHaff HANDLING
+Chaff does not mean trash.
+Chaff means:
+- duplicate cousin
+- too broad
+- wrong pile
+- pretty but not load-bearing
+- useful only in rare conditions
+- public explanation only
+- parked special lens
+- not needed for current route
+
+Do not delete chaff.
+Place it honestly.
+
+BAD LINK HANDLING
+If a thread, lead, route, lens, or link fails:
+- cut the link
+- keep the evidence
+- name why it failed
+- park the idea if useful elsewhere
+- do not delete the idea because the first link failed
+
+NEXT CLEAN ACTION
+Use this pile map to run a targeted pass over the 192-method table.
+Do not read everything again unless needed.
+Pull route/planning/algorithm/evidence lines first.
+Then assign methods to piles.
+
+BOUNDARY
+This file does not install doctrine.
+This file does not edit ACTIVE_GUIDES.
+This file does not edit CURRENT_TRUTH_INDEX.
+This file does not edit AGENTS.md.
+This file does not authorize cleanup.
+This file does not authorize deletion, movement, rename, overwrite, promotion, Git add, Git commit, or Git push.
+
+VERDICT
+PILE MAP PLAN LOCKED.
+NOT FINAL PASS.
+NOT ACTIVE DOCTRINE.

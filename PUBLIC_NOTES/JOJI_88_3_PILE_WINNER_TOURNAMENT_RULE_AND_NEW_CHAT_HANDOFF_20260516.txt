@@ -1,0 +1,196 @@
+JOJI 88 — 3-PILE WINNER TOURNAMENT RULE + NEW CHAT HANDOFF
+Created: 2026-05-16 23:02:07
+Status: PROOF-HISTORY ONLY
+Install status: NOT ACTIVE DOCTRINE
+Authority: tournament-control / new-chat handoff only
+
+PURPOSE
+Lock the new tournament plan so work can continue cleanly in a new chat.
+
+This file captures:
+- current ugly-duck tournament state
+- why the mule grind should stop
+- the new 3-pile winner tournament pattern
+- how to continue without reloading old chat weight
+
+CURRENT STATE
+The mule completed Ugly Duckling Tournament Passes 001 through 004.
+
+Current accepted state:
+- Total methods considered: 215
+- Original 88 count: 88
+- Mule-added count: 104
+- Wildcard / later-live count: 23
+- Current survivor count after Pass 004: 194
+
+Latest report:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\JOJI_88_UGLY_DUCKLING_TOURNAMENT_PASS_004_3_6_9_SIEVE_20260516.txt
+
+Latest report SHA256:
+38CD815017A10F15E3857F3D0FE4C2D76F8EAD534B33DCD2E4CBE0E0803EC75A
+
+PASS 004 verdict:
+PASS — PASS 004 COMPLETE / SERIOUS FIELD SIEVE SAFE
+
+BOUNDARY FROM PASS 004
+Files changed: report only.
+Files moved: NO.
+Files deleted: NO.
+Files renamed: NO.
+Cleanup started: NO.
+ACTIVE_GUIDES edited: NO.
+CURRENT_TRUTH_INDEX edited: NO.
+AGENTS.md edited: NO.
+Doctrine installed: NO.
+Git add: NO.
+Git commit: NO.
+Git push: NO.
+
+WHY THE OLD GRIND STOPS
+The 3-cut mule rhythm worked, but it is too expensive to continue from 194 survivors down to finalists.
+
+The first four passes proved:
+- the tournament rules work
+- the mule followed boundaries
+- obvious weak-current-fit items can be parked safely
+- top route ducks stayed stable
+- no core route/proof/risk/order spine was cut
+
+But continuing one tiny pass at a time would waste data.
+
+CURRENT TOP ROUTE-PICKING UGLY DUCKS
+1. A077 Reversibility Test / One-Way Door vs Two-Way Door
+2. WL022 Bottleneck-First Routing
+3. WL023 Cost-of-Delay / Regret Routing
+4. A082 Dependency Graph
+5. S050 OODA Loop
+
+CURRENT TOP OVERALL UGLY DUCKS
+1. A077 Reversibility Test / One-Way Door vs Two-Way Door
+2. A019 Last-known-good checkpoint
+3. A084 Provenance
+
+NEW TOURNAMENT PATTERN
+Name:
+3-Pile Winner Tournament
+
+Core idea:
+Do not eliminate the whole list one tiny cut at a time.
+
+Instead:
+- split the field into 4 judging groups for fairness and manageability
+- run the field three times
+- set winners aside each time
+- then run Winner Group 1 vs Winner Group 2 vs Winner Group 3
+
+This creates a final showdown of:
+6 v 6 v 6
+
+FIELD GROUPING
+Use 4 judging groups to make the list easier to judge.
+
+Suggested groups:
+1. Route / Order / Decision
+2. Proof / Custody / Memory
+3. Risk / Failure / Recovery
+4. Growth / Option / Public / Special
+
+The exact groups can be adjusted if needed for balance, but do not let one group become all weak public tools or all strong proof tools.
+
+WAVE STRUCTURE
+
+WAVE 1
+Run the full current survivor field.
+Pick 6 winners.
+Set them aside as Winner Group 1.
+
+WAVE 2
+Run everything that did not make Winner Group 1.
+Pick 6 winners.
+Set them aside as Winner Group 2.
+
+WAVE 3
+Run everything that did not make Winner Group 1 or Winner Group 2.
+Pick 6 winners.
+Set them aside as Winner Group 3.
+
+FINAL SHOWDOWN
+Run:
+Winner Group 1 vs Winner Group 2 vs Winner Group 3
+
+That means:
+6 v 6 v 6 = 18 finalists
+
+FINAL RUNS
+Final Run 1:
+18 finalists -> 9 finalists
+
+Final Run 2:
+9 finalists -> 6 champions
+
+Optional Final Run 3:
+6 champions -> 3 kings
+
+Optional Final Run 3 requires explicit user approval. Default final output is 6 champions.
+
+PLACEMENT RULE
+Non-winners are not trash.
+
+Every non-winner must be placed as one of:
+- BENCH / STRONG ALTERNATE
+- CHILD TOOL
+- DUPLICATE COUSIN
+- PARKED SPECIAL LENS
+- PUBLIC FRONT-DOOR ONLY
+- NOT CURRENT
+- NEEDS MORE EVIDENCE
+- TOO BROAD RIGHT NOW
+- CUT LINK ONLY
+- OPEN LEAD
+
+REUSABLE RULE
+This same tournament shell can be used for other lists.
+
+For another list:
+- keep the 4 judging groups / 3 winner piles / 6 v 6 v 6 final structure
+- change the scoring criteria to match that list's mission
+- do not reuse ugly-duck criteria blindly if the other list has a different goal
+
+NEW CHAT STARTUP INSTRUCTION
+When opening a new chat, use this file as the handoff.
+
+Do not pull old chat weight unless the user explicitly asks.
+
+Start from:
+Current active ball:
+Continue the Joji 88 ugly-duck tournament from Pass 004 using the 3-Pile Winner Tournament pattern.
+
+Current survivor count:
+194
+
+Next clean action:
+Create the 4 judging groups from the 194 survivors, then run Wave 1 and pick 6 winners for Winner Group 1.
+
+Do not use mule unless the user explicitly asks. This phase is user + assistant.
+
+Do not restart the old 3-cut grind.
+
+HASH RULE
+Do not put a file's own hash inside that same file.
+That changes the file and invalidates the hash.
+
+Working file content stays in the file.
+Hash proof belongs outside the file, in terminal output, receipt file, manifest, or proof-history record.
+
+BOUNDARY
+This file does not install doctrine.
+This file does not edit ACTIVE_GUIDES.
+This file does not edit CURRENT_TRUTH_INDEX.
+This file does not edit AGENTS.md.
+This file does not authorize cleanup.
+This file does not authorize deletion, movement, rename, overwrite, promotion, Git add, Git commit, or Git push.
+
+VERDICT
+3-PILE WINNER TOURNAMENT RULE AND NEW CHAT HANDOFF LOCKED.
+NOT FINAL PASS.
+NOT ACTIVE DOCTRINE.

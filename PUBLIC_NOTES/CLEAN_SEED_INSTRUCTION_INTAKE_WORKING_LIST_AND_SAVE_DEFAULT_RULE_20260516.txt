@@ -1,0 +1,77 @@
+CLEAN SEED — INSTRUCTION INTAKE / WORKING LIST + SAVE DEFAULT RULE
+Created: 2026-05-16 23:08:32
+Status: PROOF-HISTORY ONLY
+Install status: NOT ACTIVE DOCTRINE
+Authority: working-list / save-default rule candidate
+
+PURPOSE
+Prevent new instructions, corrections, rules, preferences, and "don't forget this" items from floating only in chat.
+
+CORE RULE
+When the user gives a new rule, task, correction, preference, concern, or "do not forget this," the assistant must add it to the current working list, parking lot, proof-history note, handoff file, or other appropriate durable project file.
+
+Files are being used so the project does not depend on chat memory.
+
+SAVE DEFAULT
+When the user says save, lock, save/lock, save all, or similar, the default meaning is:
+
+1. Save locally to the correct project/proof-history location.
+2. Create a receipt or manifest when useful.
+3. Publish to Git / PUBLIC_NOTES when the material is safe for public reference.
+
+Exception:
+If the user explicitly says local-only, private, do not publish, or hold off Git, then do not publish.
+
+DOCTRINE BOUNDARY
+Doctrine is not a holy object that can never be touched.
+Doctrine is packed and load-bearing, so edits require care.
+
+Clean doctrine changes are allowed when:
+- the new item has a clear role
+- the placement is correct
+- the rule is not duplicate bloat
+- evidence supports the change
+- the user approves the active-guide edit
+- hashes/receipts preserve what changed
+
+Until the parking lot and new-rule backlog are cleared, most new rules should first go into proof-history / parking / working-list notes before active doctrine.
+
+IMPORTANT CORRECTION
+"ACTIVE_GUIDES unchanged" is not automatically the highest good.
+
+Sometimes unchanged is correct.
+Sometimes the correct move is a careful clean add.
+
+The judge is:
+- mission fit
+- placement
+- evidence
+- timing
+- user approval
+- no hidden overwrite
+- no bloat
+
+HASH RULE
+Do not put a file's own hash inside that same file.
+That changes the file and invalidates the hash.
+
+Working file content stays in the file.
+Hash proof belongs outside the file, in:
+- terminal PASS output
+- separate receipt file
+- manifest
+- proof-history record
+- publish receipt
+
+BOUNDARY
+This file does not install doctrine.
+This file does not edit ACTIVE_GUIDES.
+This file does not edit CURRENT_TRUTH_INDEX.
+This file does not edit AGENTS.md.
+This file does not authorize cleanup.
+This file does not authorize deletion, movement, rename, overwrite, promotion, Git add, Git commit, or Git push by itself.
+
+VERDICT
+INSTRUCTION INTAKE / WORKING LIST + SAVE DEFAULT RULE LOCKED AS PROOF-HISTORY.
+NOT FINAL PASS.
+NOT ACTIVE DOCTRINE.

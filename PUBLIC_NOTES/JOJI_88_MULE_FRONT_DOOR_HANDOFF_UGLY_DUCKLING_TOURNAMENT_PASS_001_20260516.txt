@@ -1,0 +1,69 @@
+JOJI 88 MULE FRONT-DOOR HANDOFF — UGLY DUCKLING TOURNAMENT PASS 001
+Created: 2026-05-16 21:00:54
+Status: PROOF-HISTORY ONLY
+Purpose: Give the mule one file to open so the user does not have to paste instructions in chat.
+
+MULE: START HERE
+
+WORK ROOT:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+
+OPEN THIS TASK FILE AND RUN IT EXACTLY:
+PROOF_HISTORY\JOJI_88_MULE_TASK_UGLY_DUCKLING_TOURNAMENT_PASS_001_3_6_9_SIEVE_20260516.txt
+
+DO NOT USE CHAT AS THE TASK SOURCE.
+DO NOT ASK THE USER TO PASTE V1, V2, OR V3.
+THE TASK FILE ALREADY POINTS TO THE NEEDED REFERENCE FILES.
+
+RETURN ONLY THE SHORT SUMMARY REQUESTED IN THE TASK FILE.
+
+DO NOT:
+- paste the full 192-method table
+- web-search
+- aggressively hunt for more methods
+- create helper files
+- edit ACTIVE_GUIDES
+- edit CURRENT_TRUTH_INDEX
+- edit AGENTS.md
+- install doctrine
+- cleanup
+- delete
+- move
+- rename
+- overwrite
+- Git add
+- Git commit
+- Git push
+
+EXPECTED OUTPUT FROM MULE:
+REPORT PATH:
+REPORT SHA256:
+TOTAL METHODS CONSIDERED:
+ORIGINAL 88 COUNT:
+MULE-ADDED COUNT:
+WILDCARD / LATER LIVE COUNT:
+BRACKET COUNT:
+ELIMINATION RUN:
+DROP SIZE USED:
+WHY THIS DROP SIZE WAS SAFE:
+ELIMINATED IDEAS:
+ELIMINATION LABELS:
+SURVIVOR COUNT:
+CURRENT TOP 5 ROUTE-PICKING UGLY DUCKS:
+CURRENT TOP 3 OVERALL UGLY DUCKS:
+THIN PILES NEEDING FUTURE DIGGING:
+DUPLICATE COUSINS FOUND:
+BAD / CUT LINKS:
+BLOCKED / UNCERTAIN ITEMS:
+FINAL BOUNDARY LINES:
+VERDICT:
+
+BOUNDARY:
+This handoff file does not install doctrine.
+This handoff file does not edit ACTIVE_GUIDES.
+This handoff file does not edit CURRENT_TRUTH_INDEX.
+This handoff file does not edit AGENTS.md.
+This handoff file does not authorize cleanup, deletion, movement, rename, overwrite, promotion, Git add, Git commit, or Git push.
+
+VERDICT:
+MULE FRONT-DOOR HANDOFF LOCKED.

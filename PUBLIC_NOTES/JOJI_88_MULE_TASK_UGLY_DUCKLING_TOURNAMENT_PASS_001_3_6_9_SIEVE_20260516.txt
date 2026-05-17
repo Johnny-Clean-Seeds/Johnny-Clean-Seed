@@ -1,0 +1,207 @@
+CLEAN SEED MULE TASK — UGLY DUCKLING TOURNAMENT PASS 001 — 3/6/9 SIEVE
+
+WORK ROOT
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+
+ACTIVE TARGET
+Start the Ugly Duckling Tournament safely.
+
+This is Tournament Pass 001 only.
+Do not try to finish the whole tournament in one run.
+
+MISSION
+Use the current Joji 88 / Universal Method Table shelf to begin a controlled 3/6/9 sieve tournament.
+
+Goal of this pass:
+- confirm usable source files
+- sort methods into tournament brackets
+- identify obvious clutter/duplicates/not-current items
+- run the first safe elimination only if the cuts are obvious
+- write a local report
+- return only a short summary
+
+REFERENCE FILES
+Use these as reference intelligence only:
+
+PROOF_HISTORY\JOJI_88_UNIVERSAL_METHOD_TABLE_AND_MASTER_SEAT_DISCOVERY_DRAFT_20260516.txt
+PROOF_HISTORY\JOJI_88_DOMAIN_BRIDGE_AND_LINK_LEDGER_METHOD_20260516.txt
+PROOF_HISTORY\JOJI_88_PRISM_CONVERGENCE_METHOD_20260516.txt
+PROOF_HISTORY\JOJI_88_ROUTE_PICKING_UGLY_DUCKS_AND_EVIDENCE_DISCIPLINE_20260516.txt
+PROOF_HISTORY\JOJI_88_UGLY_DUCKLING_TOURNAMENT_PILE_MAP_PLAN_20260516.txt
+PROOF_HISTORY\JOJI_88_UGLY_DUCKLING_TOURNAMENT_FAIR_BRACKET_RULES_V2_20260516.txt
+PROOF_HISTORY\JOJI_88_UGLY_DUCKLING_TOURNAMENT_3_6_9_SIEVE_RULES_V3_20260516.txt
+
+REFERENCE STATUS
+These files are proof-history / reference-intel material.
+They are not active doctrine.
+They are not current truth.
+They are not cleanup authority.
+They are not promotion authority.
+
+DO NOT DO
+Do not web-search.
+Do not hunt for large new method families.
+Do not expand the method shelf aggressively.
+Do not paste the full 192-method table back to chat.
+Do not create helper files.
+Do not edit ACTIVE_GUIDES.
+Do not edit CURRENT_TRUTH_INDEX.
+Do not edit AGENTS.md.
+Do not delete, move, rename, overwrite, cleanup, promote, Git add, Git commit, or Git push.
+
+DATA-SAVING RULE
+Write the full report locally.
+Return only the short summary requested below.
+
+If a section would become huge, summarize it in the report and mark where detail can be expanded later.
+
+REQUIRED OUTPUT FILE
+Create one report only:
+
+PROOF_HISTORY\JOJI_88_UGLY_DUCKLING_TOURNAMENT_PASS_001_3_6_9_SIEVE_20260516.txt
+
+If helper files seem necessary, stop and report BLOCKED with reason.
+
+TOURNAMENT BRACKETS
+Use these brackets:
+
+1. ROUTE PICKERS
+2. PROOF / EVIDENCE PROTECTORS
+3. FAILURE FINDERS
+4. RISK / STOP GATES
+5. OPTION GENERATORS
+6. ORDER / DEPENDENCY BUILDERS
+7. PUBLIC / TEACHING FRONT DOOR
+8. PARKED SPECIAL LENSES
+9. DUPLICATE COUSINS
+10. CHAFF / NOT NOW
+
+ELIGIBILITY BEFORE ELIMINATION
+No method may be eliminated until it has:
+
+- method name or ID
+- primary bracket
+- optional secondary bracket links
+- plain-language job
+- short reason it belongs there
+- source tag:
+  - original 88
+  - mule-added 104
+  - wildcard / later live candidate
+  - duplicate cousin
+  - uncertain
+- boundary note if risky or easy to misuse
+
+3/6/9 SIEVE RULE
+This is the elimination rhythm:
+
+Early field:
+Drop up to 9 only if cuts are obvious.
+
+Middle field:
+Drop up to 6 when the field gets stronger.
+
+Serious field:
+Drop up to 3 when most survivors are useful.
+
+Final field:
+Drop 1 or stop.
+
+For Pass 001, prefer:
+- drop 9 only if all 9 are obvious
+- otherwise drop 6
+- otherwise drop 3
+- otherwise drop 0 and report why
+
+Do not force a number just to satisfy the rhythm.
+
+ELIMINATION IS PLACEMENT
+Eliminated ideas are not deleted.
+
+Each eliminated idea must receive one of these labels:
+
+- BENCH / STRONG ALTERNATE
+- DUPLICATE COUSIN
+- CHILD TOOL
+- WRONG BRACKET
+- NOT CURRENT
+- PUBLIC FRONT-DOOR ONLY
+- PARKED SPECIAL LENS
+- NEEDS MORE EVIDENCE
+- TOO BROAD RIGHT NOW
+- CUT LINK ONLY
+- OPEN LEAD
+
+CHALLENGE RULE
+Before eliminating any non-obvious idea, ask:
+
+- Is it secretly useful?
+- Is it only in the wrong bracket?
+- Is it a child tool instead of a winner?
+- Is it a duplicate cousin?
+- Is it useful later but not now?
+- Would cutting it lose a possible route?
+
+If yes, bench or park it instead of cutting its value.
+
+PASS 001 WORK ORDER
+1. Confirm source files exist.
+2. Identify the working method count from the universal table.
+3. Separate original 88, mule-added 104, and later wildcards if possible.
+4. Place methods into brackets.
+5. Mark obvious duplicate cousins and not-current items.
+6. Run first safe elimination:
+   - up to 9 if obvious
+   - up to 6 if safer
+   - up to 3 if only a few are clean cuts
+   - 0 if no fair cut is available yet
+7. Record survivor count.
+8. Record current top route-picking ugly ducks.
+9. Record thin piles needing future digging.
+10. Write report locally.
+11. Return only the short summary.
+
+RETURN ONLY THIS SUMMARY TO USER
+REPORT PATH:
+REPORT SHA256:
+TOTAL METHODS CONSIDERED:
+ORIGINAL 88 COUNT:
+MULE-ADDED COUNT:
+WILDCARD / LATER LIVE COUNT:
+BRACKET COUNT:
+ELIMINATION RUN:
+DROP SIZE USED:
+WHY THIS DROP SIZE WAS SAFE:
+ELIMINATED IDEAS:
+ELIMINATION LABELS:
+SURVIVOR COUNT:
+CURRENT TOP 5 ROUTE-PICKING UGLY DUCKS:
+CURRENT TOP 3 OVERALL UGLY DUCKS:
+THIN PILES NEEDING FUTURE DIGGING:
+DUPLICATE COUSINS FOUND:
+BAD / CUT LINKS:
+BLOCKED / UNCERTAIN ITEMS:
+FINAL BOUNDARY LINES:
+VERDICT:
+
+FINAL BOUNDARY LINES MUST STATE
+Files changed: report only.
+Files moved: NO.
+Files deleted: NO.
+Files renamed: NO.
+Cleanup started: NO.
+ACTIVE_GUIDES edited: NO.
+CURRENT_TRUTH_INDEX edited: NO.
+AGENTS.md edited: NO.
+Doctrine installed: NO.
+Git add: NO.
+Git commit: NO.
+Git push: NO.
+
+VERDICT OPTIONS
+Use one:
+
+PASS — PASS 001 COMPLETE / FIRST SIEVE RUN SAFE
+PARTIAL — REPORT CREATED / NO ELIMINATION SAFE YET
+BLOCKED — SOURCE OR BOUNDARY ISSUE
+FAIL — BOUNDARY VIOLATION OR BAD OUTPUT

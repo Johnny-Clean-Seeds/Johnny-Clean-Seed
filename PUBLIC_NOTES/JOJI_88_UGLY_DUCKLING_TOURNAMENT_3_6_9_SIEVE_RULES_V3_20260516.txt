@@ -1,0 +1,124 @@
+JOJI 88 UGLY DUCKLING TOURNAMENT — 3/6/9 SIEVE RULES V3
+Created: 2026-05-16 20:56:05
+Status: PROOF-HISTORY ONLY
+Install status: NOT ACTIVE DOCTRINE
+Authority: tournament-control notes only
+Does not delete or overwrite V1 or V2.
+
+PURPOSE
+Lock the new tournament idea before running the mule.
+
+This V3 adds the 3/6/9 sieve rhythm:
+- Drop 9 when cuts are obvious.
+- Drop 6 when the field gets stronger.
+- Drop 3 when the field gets serious.
+- Drop 1 only near finals if needed.
+- Stop in the 9–12 victor zone when possible.
+- Keep a bench of strong alternates.
+
+CORE CORRECTION
+The tournament is not a fixed guillotine.
+
+Nine is not mandatory.
+Nine is the maximum normal early drop.
+
+The tournament should reduce clutter without losing hidden weapons.
+
+BEST RULE
+Use a sieve with a bench, not a forced elimination blade.
+
+Elimination means placement, not death.
+
+No eliminated idea is deleted.
+No eliminated idea is called worthless.
+Every eliminated idea gets a status.
+
+ELIMINATION STATUS LABELS
+Use these labels instead of trash:
+
+- BENCH / STRONG ALTERNATE
+- DUPLICATE COUSIN
+- CHILD TOOL
+- WRONG BRACKET
+- NOT CURRENT
+- PUBLIC FRONT-DOOR ONLY
+- PARKED SPECIAL LENS
+- NEEDS MORE EVIDENCE
+- TOO BROAD RIGHT NOW
+- CUT LINK ONLY
+- OPEN LEAD
+
+3/6/9 DROP RHYTHM
+
+EARLY FIELD — DROP UP TO 9
+Use only when cuts are obvious:
+- duplicate cousins
+- wrong bracket
+- too broad right now
+- public-only tools
+- not-current tools
+- clear parked special lenses
+
+MIDDLE FIELD — DROP UP TO 6
+Use when the remaining ideas are stronger.
+Cut only when the method has weaker current fit, weaker evidence, and weaker role clarity than nearby competitors.
+
+SERIOUS FIELD — DROP UP TO 3
+Use when most survivors are useful.
+No method leaves unless it loses after bracket placement, evidence check, and challenge.
+
+FINAL FIELD — DROP 1 OR STOP
+Once the field is near 18–24, slow down.
+Once the field is 9–12, stop unless the user approves another pass.
+
+VICTOR ZONE
+Goal:
+9–12 victors.
+
+Accept:
+More than 12 only if another cut would damage the field or drop below the safe zone.
+
+Never force the field under 9 victors.
+
+BENCH RULE
+The bench is not a graveyard.
+
+Bench items may later become:
+- child tools
+- support tools
+- alternate route tools
+- special-case weapons
+- public teaching tools
+- future dig targets
+
+NO AGGRESSIVE DIGGING
+This tournament starts with the current shelf.
+
+Do not hunt for large new method families during the first tournament pass.
+Do not web-search.
+Do not expand the method universe unless a tiny missing label is needed to place an existing item.
+If a new candidate appears, mark it OPEN LEAD or WILDCARD and keep moving.
+
+CURRENT SHELF
+Known shelf:
+- 88 recovered Joji source methods.
+- 104 mule-added methods.
+- 192 total methods in the universal method table.
+- Later live candidates and tournament-control ideas captured in proof-history notes.
+
+TOURNAMENT OUTPUT PRINCIPLE
+The tournament does not crown doctrine.
+It crowns candidate tools worth testing next.
+
+BOUNDARY
+This file does not install doctrine.
+This file does not edit ACTIVE_GUIDES.
+This file does not edit CURRENT_TRUTH_INDEX.
+This file does not edit AGENTS.md.
+This file does not authorize cleanup.
+This file does not authorize deletion, movement, rename, overwrite, promotion, Git add, Git commit, or Git push.
+
+VERDICT
+3/6/9 SIEVE RULES V3 LOCKED.
+NOT FINAL PASS.
+NOT ACTIVE DOCTRINE.
