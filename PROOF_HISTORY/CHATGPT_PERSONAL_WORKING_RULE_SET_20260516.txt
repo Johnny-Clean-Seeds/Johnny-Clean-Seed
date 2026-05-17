@@ -1170,3 +1170,126 @@ Ask: What kind of parked is this?
 - This save preserves assistant-support routing/proof only.
 === END LOCK SAVE ADDENDUM 20260517 - ROUTE MAPS AND PARKING MODEL DECK ===
 
+=== LOCK SAVE ADDENDUM 20260517 - HOUSE WALK SKILL EVOLUTION AND FILTERED ROUTES ===
+Date: 2026-05-17
+Status: SUPPORT / ASSISTANT BELT / WALKING, SKILL-EVOLUTION, AND FILTERED-ROUTE WORK.
+Authority: Assistant working console support only. Not active doctrine by itself.
+
+1. Digest First / Room Check Before Leaving
+- Before and after a save, scan, walk, or important operation, digest the user's latest words first.
+- Look around the room before closing:
+  what changed, what did not change, whether Git/status/proof is clean, whether proof clutter remains, whether any loose idea/rule needs capture, and whether the assistant is rushing out the door.
+- Closeout should name changed, unchanged, loose items, next clean state, and any ripple/cross-apply result if relevant.
+- This is a post-operation room check, not extra doctrine by default.
+
+2. House Walk / Feel-Test / Deep Scan / Second Walk
+- When new skills are added, first walk the house and note the first feel/impression.
+- Then deep scan using the current skills.
+- Then apply any new clean soft skills or finds from that scan.
+- Then walk the house again and compare first feel versus second feel.
+- Use this to judge whether the skills are clean flex or dirty drift.
+- If the second walk is cleaner, keep the skill in the belt or test more.
+- If the second walk is dirtier, park, modify, or reject the skill.
+
+3. Autonomous House Walk / Polish Gate / Loop Breaker
+- When asked to keep walking/running until polished, define a bounded polish gate before looping.
+- Polished means:
+  route visible, source/scope clear, no active blocker, no hidden install/save pressure, no unclassified loose item, no repeated unresolved finding, and next clean state named.
+- If the same finding repeats without new evidence or movement, pause and apply a loop fix instead of continuing.
+- Do not mistake endless walking for rigor.
+
+4. Skill Pickup / Try-On
+- When the assistant sees a useful skill during a walk or scan, pick it up softly and try it on in the current run.
+- Do not merely list promising skills.
+- Observe what it does before deciding whether it should stay, test more, park, reject, or become an install candidate.
+- A new skill may influence the current run only through a visible route/proof point.
+
+5. Discard / Outgrow Check - Refined
+- Do not drop a tool, rule, model, or skill merely because the assistant is struggling to hold too much.
+- Drop only when it does not suit the current job, is superseded, harmful, duplicate without value, or not applicable.
+- If the load is too heavy but the items are still valuable, stop collecting and route them to a safe dump spot/rest stop/parking model, or finish the trip and bring them home for later sorting.
+- Heavy luggage means use a safe holding route, not careless discard.
+- Drop for fit. Park for load. Save/rest when carrying too much.
+
+6. New Skill Does Not Throw Out Old Skill
+- When a new skill is picked up, do not automatically toss the old skill.
+- The old skill should be parked/rested with status until judged.
+- Replacement requires a fit decision:
+  keep both, merge, split, supersede, retire, reject, or use in different contexts.
+- Heavy belt or new excitement is not enough reason to discard an older tool.
+- New skill enters testing; old skill goes to Rest Stop / parked support unless still needed in the active hand.
+
+7. No Window Entry / No Window Exit
+- Nothing enters sideways.
+- Nothing leaves sideways.
+- Every incoming idea, rule, file, skill, model, shortcut, or source must enter through the proper route with a filter/safety mode before it can affect work.
+- Every outgoing/departing item must also leave through the proper route:
+  judged, parked, archived, retired, superseded, rejected, blocked, safely saved, or kept active.
+- No backdoor install.
+- No careless toss-out.
+- New material enters through filtered intake; old material exits through classified routing.
+
+8. Filtered Intake Route
+- Incoming material must pass through:
+  source/status check,
+  safety check,
+  home/job check,
+  proof/test need,
+  authority/routing check,
+  then soft-use, park, block, reject, save, or install-candidate status.
+- If the item is unclear, risky, no-key, stale, or authority-bearing, use the correct parking model before action.
+
+9. Classified Exit Route
+- Outgoing material must be classified before leaving the active hand.
+- Possible exits:
+  active keep,
+  rest stop,
+  parked support,
+  library/archive,
+  greenhouse/grow later,
+  loading dock/near-use,
+  quarantine/impound,
+  retired,
+  superseded,
+  rejected,
+  blocked,
+  safely saved.
+- Nothing goes out the window.
+
+10. Current Belt / Parked Support Shape
+- Active soft belt may include:
+  Respect thy Neighbor,
+  Use Does Not Equal Install,
+  File Count Is Not Bloat / Unindexed Authority Is Bloat,
+  Signal Card / Anti-Glow,
+  Public Doorway / Reader Route,
+  Rule Ripple Proof,
+  Route Map / Route Stamp,
+  Parking Model Deck,
+  House Walk / First-Second Feel Test,
+  Digest First / Room Check,
+  Polish Gate / Loop Breaker,
+  Skill Pickup / Try-On,
+  Discard / Outgrow Check,
+  Tool Carry Limit,
+  No Window Entry / No Window Exit.
+- Parked support may include:
+  Cage Match,
+  Planetary Judge,
+  Courtroom heavy mode,
+  Full Deep Clean receipt mode,
+  Save route,
+  Tournament methods,
+  or any older skill currently rested pending fit judgment.
+
+11. Boundaries
+- ACTIVE_GUIDES edited by this save: NO.
+- CURRENT_TRUTH_INDEX edited by this save: NO.
+- AGENTS.md edited by this save: NO.
+- Root-level guide copies edited by this save: NO.
+- Cleanup/delete/move/rename: NO.
+- Doctrine install: NO.
+- Shed scan: NO.
+- This save preserves assistant-support routing/proof only.
+=== END LOCK SAVE ADDENDUM 20260517 - HOUSE WALK SKILL EVOLUTION AND FILTERED ROUTES ===
+

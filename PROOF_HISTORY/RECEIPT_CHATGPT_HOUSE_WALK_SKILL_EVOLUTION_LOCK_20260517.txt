@@ -1,0 +1,41 @@
+RECEIPT: CHATGPT HOUSE WALK + SKILL EVOLUTION + FILTERED ROUTES LOCK SAVE
+Date: 2026-05-17
+
+Saved/uploaded file count intended: 2
+
+Files:
+1. PROOF_HISTORY/CHATGPT_PERSONAL_WORKING_RULE_SET_20260516.txt
+2. PROOF_HISTORY/RECEIPT_CHATGPT_HOUSE_WALK_SKILL_EVOLUTION_LOCK_20260517.txt
+
+What changed:
+- Updated existing assistant working console with a bounded addendum:
+  - Digest First / Room Check Before Leaving.
+  - House Walk / Feel-Test / Deep Scan / Second Walk.
+  - Autonomous House Walk / Polish Gate / Loop Breaker.
+  - Skill Pickup / Try-On.
+  - Discard / Outgrow Check refined.
+  - New skill does not throw out old skill.
+  - No Window Entry / No Window Exit.
+  - Filtered Intake Route.
+  - Classified Exit Route.
+  - Current belt / parked support shape.
+
+What did not change:
+- ACTIVE_GUIDES edited: NO
+- CURRENT_TRUTH_INDEX.txt edited: NO
+- AGENTS.md edited: NO
+- Root-level guide copies edited: NO
+- Cleanup/delete/move/rename: NO
+- Doctrine install: NO
+- Shed scan: NO
+
+Reason:
+User developed the assistant walking method into a soft-skill evolution route:
+new skills should be worn, tested, compared, and either kept, parked, rested, merged, superseded, retired, or rejected through the right route.
+Nothing enters through the window and nothing leaves through the window.
+
+Console SHA256 after write:
+76757F39897112C5B1AFC27C04E481898EA2439D706C0C3A5EBE4B34CA4D33B9
+
+Boundary verdict:
+PASS - support-only lock/save. No active package expansion.
