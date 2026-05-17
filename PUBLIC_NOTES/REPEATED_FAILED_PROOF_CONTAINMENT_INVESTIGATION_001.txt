@@ -1,0 +1,161 @@
+REPEATED_FAILED_PROOF_CONTAINMENT_INVESTIGATION_001
+Status: ACTIVE LESSON SIGN / SYSTEM INVESTIGATION
+Authority: Not active doctrine.
+Home: PUBLIC_NOTES
+Date: 2026-05-17
+
+PURPOSE
+
+This note captures a repeated failed-proof containment problem.
+
+This is not a one-off repair note.
+
+This is a pattern investigation.
+
+WHY THIS MATTERS
+
+A single mistake can be corrected.
+
+A repeated mistake becomes a system signal.
+
+When the same failure mode appears three or more times, the house should stop treating it as random friction and investigate the connected system.
+
+PATTERN FOUND
+
+The repeated failure mode:
+
+A checker returned FAIL or the gate was not fully passed, but movement continued afterward.
+
+Movement included one or more of:
+
+- git add
+- git commit
+- git push
+- calling the gate closed
+- moving into the next repair before preserving the failure path
+
+EVENT FAMILY
+
+Observed event family:
+
+1. Files were created and passed content checks, but untracked files remained loose.
+2. A pointer conversion checker failed first, then commit/push still happened and required a repair commit.
+3. A home/public coexistence checker failed because README did not update, then commit/push still happened.
+4. A README repair checker failed because the checker itself had a bad expected string, then commit/push still happened.
+
+This is enough to treat the issue as a repeated system problem.
+
+SURFACE CAUSES
+
+Surface causes included:
+
+- PowerShell parser trouble caused by Markdown backticks inside double-quoted arrays.
+- Checker expected strings contained a typo.
+- Commit commands were available after failed proof.
+- Manual paste flow allowed trailing commands to continue.
+- The assistant treated the event like a patch issue instead of a preserved scene.
+
+SYSTEM CAUSE
+
+The deeper cause:
+
+The proof gate and the movement gate were not physically bound together strongly enough.
+
+A checker failure did not always stop the whole lane.
+
+The house allowed movement after failed proof.
+
+MODEL VIOLATION
+
+This violates:
+
+- Done is not PASS.
+- Movement is not proof.
+- Evidence before repair.
+- A FAIL verdict is a stop sign, not a speed bump.
+
+SUIT THEORY READ
+
+The checker was not trash.
+
+The checker needed a companion.
+
+The companion is containment.
+
+Content check asks:
+Did the file contain the right words?
+
+Containment check asks:
+Can movement happen after FAIL?
+
+Full gate asks:
+Can edit, proof, add, commit, push, and close happen only in the right order?
+
+NEIGHBOR POLICY
+
+Do not overreact by rewriting active doctrine.
+
+Do not delete pushed commits.
+
+Do not punish normal friction.
+
+Do not make every small issue a crime scene.
+
+Do investigate repeated same-lane failure.
+
+Do preserve the scene when proof fails.
+
+Do prevent commit/push after failed proof.
+
+Do keep this visible while the lesson is active.
+
+POWER PLAY
+
+The repeated failure becomes a stronger gate.
+
+Required future full-gate shape:
+
+1. Sync check.
+2. Edit/build.
+3. Proof check.
+4. If proof fails, write failure note and exit before git add.
+5. If proof passes, git add.
+6. Verify staged changes.
+7. git commit.
+8. git push.
+9. Final clean status.
+10. Latest log proof.
+
+No separate trailing commit/push commands after a proof check.
+
+Commit and push must be inside the proof-controlled block.
+
+FAILURE PATH RULE
+
+If proof fails:
+
+- Stop.
+- Name the failure.
+- Capture why it happened.
+- Capture what it teaches.
+- Do not commit.
+- Do not push.
+- Do not continue repair until the scene is understood.
+
+STALENESS RULE
+
+Keep this note visible while failed-proof containment is still being learned and reinforced.
+
+When the lesson becomes stale, move or archive it into the proper parking/proof lane.
+
+Do not delete it.
+
+CLOSE RULE
+
+This investigation note supports the home.
+
+It must not outrank CURRENT_TRUTH_INDEX.txt.
+
+It must not outrank ACTIVE_GUIDES.
+
+It must not become hidden doctrine.

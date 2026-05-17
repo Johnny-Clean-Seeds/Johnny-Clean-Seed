@@ -1,0 +1,81 @@
+FULL_GATE_PATTERN_WITH_FAIL_CONTAINMENT_001
+Status: SUPPORT TEMPLATE / SAFE GATE PATTERN
+Authority: Not active doctrine.
+Home: PUBLIC_NOTES
+Date: 2026-05-17
+
+PURPOSE
+
+This template gives future repo-home changes a safer shape.
+
+It prevents the repeated failure where a checker says FAIL but commit/push still happens.
+
+CORE RULE
+
+Proof controls movement.
+
+Commit and push must sit behind proof.
+
+Do not put git add / git commit / git push as loose trailing commands after a checker unless the gate is explicitly local-only or manually overridden with a new named gate.
+
+SAFE FULL-GATE SHAPE
+
+Use this order:
+
+1. Sync check.
+2. Build/edit.
+3. Proof check.
+4. If proof FAILS:
+   - write failure note if appropriate,
+   - print YIELD,
+   - exit before git add.
+5. If proof PASSES:
+   - git add only named files,
+   - show git status --short,
+   - git commit,
+   - git push,
+   - final git status,
+   - git log proof.
+
+POWER PLAY RULE
+
+Every failed gate should teach the next gate.
+
+If a checker misses the problem, add a companion check.
+
+If a process allows movement after FAIL, add containment.
+
+If an idea fails alone, ask whether it needs a companion, map, label, or parking lane.
+
+NEIGHBOR POLICY
+
+Do not repair one lane by violating another.
+
+Examples:
+
+- Do not fix a support note by rewriting ACTIVE_GUIDES without a named authority gate.
+- Do not fix public/home language by deleting old proof.
+- Do not fix a checker by hiding the failure.
+- Do not fix one typo by broad cleanup.
+- Do not call a house polish issue a weakness unless it affects assistant entry, routing, proof, memory, authority, or word-key precision.
+
+TEMPLATE SKELETON
+
+$ErrorActionPreference = "Stop"
+
+# 1. Sync.
+# 2. Edit.
+# 3. Run checker.
+# 4. If checker fails, throw before git add.
+# 5. If checker passes, add/commit/push.
+# 6. Final clean status.
+
+CLOSE RULE
+
+This is a support template.
+
+It does not outrank CURRENT_TRUTH_INDEX.txt.
+
+It does not outrank ACTIVE_GUIDES.
+
+It exists to help the assistant walk the home cleanly.
