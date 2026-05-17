@@ -130,12 +130,3 @@ The spark works from active guide/evidence/algorithm review, not from buried com
 
 FINAL SPARK LINE:
 The agent acts on its own accord only inside the guide, using evidence and algorithms, proving safety, learning from the result, and returning cleanly.
-
-DEEP ALGORITHM DOORWAY RULE:
-Spark may use the deep algorithm/pattern layer only through an active need.
-
-Allowed:
-guide -> milk filter -> active need -> doorway -> deep mechanism review -> safe trial -> proof -> compact lesson -> return
-
-Blocked:
-dragging the deep layer into ordinary work, naming it constantly, or treating it as hidden authority.

@@ -472,10 +472,3 @@ See LEARNING_ROOT\BACKGROUND_COMPOUNDING_LAYER.txt and LEARNING_ROOT\INTEGRATION
 This fixes the old Learning Root by adding low-surface background compound and a safe integration route.
 Learning Root remains non-doctrine, non-authority, and not daily carry.
 Active guide changes still require explicit integration approval.
-
-DEEP UNDISTURBED ALGORITHM/PATTERN POINTER:
-Heavy algorithm discovery and pattern-recognition material lives at:
-LEARNING_ROOT\_DEEP_ROOT\DEEP_ALGORITHM_PATTERN_COMPOUND_LAYER.txt
-
-Surface files are doorway-only.
-Use only through guide + milk filter + active need.

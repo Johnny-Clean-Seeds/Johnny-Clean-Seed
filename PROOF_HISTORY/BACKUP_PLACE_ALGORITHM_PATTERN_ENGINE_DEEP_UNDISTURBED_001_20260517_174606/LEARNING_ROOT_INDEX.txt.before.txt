@@ -90,17 +90,3 @@ guide -> evidence -> algorithm -> safe action -> proof -> learning -> return.
 BRAIN MIRROR GYRO BALANCE POINTER:
 See LEARNING_ROOT\BRAIN_MIRROR_GYRO_BALANCE.txt.
 This keeps Learning Root growth matched to the Clean Seed brain/body model while balancing its own learning weight.
-
-DEEP UNDISTURBED ALGORITHM/PATTERN PLACEMENT POINTER:
-Heavy algorithm discovery, idea capture, and universal pattern recognition material lives deep at:
-LEARNING_ROOT\_DEEP_ROOT\DEEP_ALGORITHM_PATTERN_COMPOUND_LAYER.txt
-
-Surface files are doorway-only:
-LEARNING_ROOT\ALGORITHM_DISCOVERY_AND_GROWTH_ENGINE.txt
-LEARNING_ROOT\IDEA_CAPTURE_PATTERN_INTAKE.txt
-LEARNING_ROOT\UNIVERSAL_PATTERN_RECOGNITION_ALGORITHMS.txt
-
-Use the deep layer only when the guide and milk filter call for bounded algorithm discovery, pattern intake, or integration review.
-Do not carry it in normal chat.
-Do not make it active doctrine.
-Do not wake it.

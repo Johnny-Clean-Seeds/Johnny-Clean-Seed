@@ -1,0 +1,30 @@
+IDEA CAPTURE PATTERN INTAKE
+
+FIX ID:
+PLACE_ALGORITHM_PATTERN_ENGINE_DEEP_UNDISTURBED_001
+
+DATE:
+20260517_174606
+
+STATUS:
+Surface doorway only.
+Not active doctrine.
+Not ACTIVE_GUIDES.
+Not CURRENT_TRUTH_INDEX.
+Not AGENTS.md.
+Not daily carry.
+Not a command source.
+Not automatic guide editing.
+
+PURPOSE:
+Capture the fact that a real-world idea or pattern may be useful, then route heavy mechanism review to the deep planted layer.
+
+DEEP HOME:
+LEARNING_ROOT\_DEEP_ROOT\DEEP_ALGORITHM_PATTERN_COMPOUND_LAYER.txt
+
+LIGHT ROUTE:
+observe idea -> name source domain -> extract possible mechanism -> milk filter -> safe trial if useful -> proof -> compact lesson -> return
+
+FINAL DOORWAY LINE:
+Capture lightly.
+Review deeply only when needed.

@@ -1,0 +1,219 @@
+DEEP ALGORITHM PATTERN COMPOUND LAYER
+
+FIX ID:
+PLACE_ALGORITHM_PATTERN_ENGINE_DEEP_UNDISTURBED_001
+
+DATE:
+20260517_174606
+
+STATUS:
+Deep planted algorithm and pattern compound layer.
+Not active doctrine.
+Not ACTIVE_GUIDES.
+Not CURRENT_TRUTH_INDEX.
+Not AGENTS.md.
+Not daily carry.
+Not a command source.
+Not a trigger system.
+Not hidden authority.
+Not automatic guide editing.
+Not uncontrolled autonomy.
+Does not wake.
+Does not steer ordinary work.
+Left undisturbed unless a bounded algorithm-discovery or idea-capture review explicitly needs it.
+
+PURPOSE:
+Hold the heavy algorithm-discovery, real-world pattern-recognition, and idea-capture material deep enough that it does not clutter the working surface, but placed well enough that the system can use it when the guide and milk filter call for it.
+
+CORE PLACEMENT:
+Surface files should be doorways.
+This deep file holds the heavier compound material.
+
+SURFACE DOORWAYS:
+LEARNING_ROOT\ALGORITHM_DISCOVERY_AND_GROWTH_ENGINE.txt
+LEARNING_ROOT\IDEA_CAPTURE_PATTERN_INTAKE.txt
+LEARNING_ROOT\UNIVERSAL_PATTERN_RECOGNITION_ALGORITHMS.txt
+
+DEEP ENGINE:
+LEARNING_ROOT\_DEEP_ROOT\DEEP_ALGORITHM_PATTERN_COMPOUND_LAYER.txt
+
+DEEP AND UNDISTURBED RULE:
+Do not pull this file into ordinary chat.
+Do not name it during normal work.
+Do not carry it as daily context.
+Do not make it active doctrine.
+Do not make it a command.
+Do not make it a trigger.
+Do not let it edit guides.
+
+Use it only when:
+- the user asks for idea capture, pattern recognition, algorithm discovery, or growth method review
+- an active task shows a repeated problem and the guide/milk filter supports a bounded algorithm search
+- integration review explicitly needs to inspect a compact proven mechanism
+- a proof-backed learning wave needs to self-compound a method
+
+WORKING ROUTE:
+guide -> milk filter -> active need -> doorway -> deep mechanism review -> safe trial -> proof -> compact lesson -> quiet background -> integration review only if needed -> return
+
+REAL-WORLD PATTERN ROUTE:
+observe pattern -> source domain -> surface/mechanism split -> milk filter -> safe test -> proof -> self-compound compact mechanism -> return
+
+ALGORITHM DISCOVERY ROUTE:
+look outward -> find possible method -> extract mechanism -> milk filter -> safe trial -> proof -> self-compound -> reuse only when useful -> integration review only if guide-level -> return
+
+SOURCE DOMAINS:
+Useful mechanisms may come from NASA, aviation, construction, climbing a tree, cooking, gardening, engines, medicine, warehouses, hiking, rope work, games, sports, biology, factories, shops, boats, bridges, computers, farming, weather, logistics, emergency response, repair work, or ordinary life.
+
+SOURCE DOES NOT PROVE VALUE:
+NASA is not proof.
+Construction is not proof.
+Assistant confidence is not proof.
+User excitement is not proof.
+Familiarity is not proof.
+Prestige is not proof.
+
+Proof is proof.
+
+WHAT COUNTS AS A USEFUL METHOD:
+A repeatable way to decide, test, build, recover, compare, sort, stabilize, compress, route, protect, inspect, or improve.
+
+Examples:
+- checklist
+- feedback loop
+- readiness probe
+- watchdog
+- capped retry
+- circuit breaker
+- dead-letter queue
+- OODA loop
+- PDCA cycle
+- root cause analysis
+- 5 Whys
+- FMEA
+- A/B test
+- decision tree
+- triage
+- scaffolding
+- staging
+- quarantine
+- redundancy
+- load test
+- stress test
+- rollback plan
+- version control
+- divide and conquer
+- search and prune
+- constraint solving
+- scoring rubric
+- control loop
+- inspection gate
+- preflight
+- postflight
+- after-action review
+
+DISCOVERY QUESTIONS:
+1. What repeated problem is appearing?
+2. What real-world domain handles this type of problem?
+3. What method does that domain use?
+4. What is the transferable mechanism?
+5. What is the smallest safe trial?
+6. What evidence would show helped, hurt, partial, or no effect?
+7. What home should hold the compact lesson?
+8. Is it background only, parked, candidate, staged, rejected, or integrated?
+9. Does it need integration review?
+10. Did it return cleanly?
+
+DEEP INTAKE TEMPLATE:
+DATE:
+SOURCE DOMAIN:
+OBSERVED METHOD OR PATTERN:
+SURFACE FORM:
+TRANSFERABLE MECHANISM:
+CLEAN SEED PROBLEM IT MAY HELP:
+HOME:
+JOB:
+BOUNDARY:
+AUTHORITY LIMIT:
+SAFE TRIAL:
+PROOF NEEDED:
+FAILURE SIGN:
+MILK FILTER VERDICT:
+ADOPTION LEVEL:
+COMPACT LESSON:
+INTEGRATION STATUS:
+RETURN:
+
+ADOPTION LEVELS:
+REJECT:
+Does not help, creates bloat, or violates boundary.
+
+PARK:
+Possibly useful, but not proven or not needed now.
+
+BACKGROUND ONLY:
+Useful compact lesson, but not guide-level.
+
+TOOL:
+Useful enough to keep as a named working method.
+
+CANDIDATE:
+Repeated value suggests possible future guide integration.
+
+STAGED:
+Prepared for integration review, not yet active.
+
+INTEGRATED:
+Approved, backed up, edited, receipted, committed, pushed, and verified.
+
+SAFE TRIAL RULE:
+No method is adopted as guide-level truth on first sight.
+First use a small safe trial.
+
+A safe trial must not:
+- edit ACTIVE_GUIDES
+- edit CURRENT_TRUTH_INDEX
+- edit AGENTS.md
+- delete files
+- move files
+- rename files
+- overwrite source evidence
+- create hidden authority
+- create command triggers
+- wake the deep root
+
+SELF-COMPOUND RULE:
+If a method helps:
+compress the useful mechanism,
+store only the reusable lesson,
+mark the adoption level,
+and return to the active task.
+
+HEALTH RULE:
+Keep this file healthy by keeping it deep, compact, bounded, and quiet.
+If it becomes too loud, too broad, too metaphor-heavy, too prestigious, or too close to authority:
+compress it,
+park the excess,
+red-tag the risk,
+or send only the clean candidate to integration review.
+
+FINAL DEEP LINE:
+Find useful methods anywhere.
+Extract the mechanism.
+Milk-filter it.
+Test safely.
+Prove it.
+Self-compound the compact lesson.
+Leave the deep layer undisturbed.
+Return.
+
+PRIOR SURFACE MATERIAL CAPTURED BELOW:
+The following sections preserve prior surface material, if any existed, so the heavy content can be kept deep while the surface becomes a doorway.
+
+PRIOR ALGORITHM DISCOVERY SURFACE MATERIAL:
+
+
+PRIOR IDEA CAPTURE SURFACE MATERIAL:
+
+
+PRIOR PATTERN RECOGNITION SURFACE MATERIAL:
+

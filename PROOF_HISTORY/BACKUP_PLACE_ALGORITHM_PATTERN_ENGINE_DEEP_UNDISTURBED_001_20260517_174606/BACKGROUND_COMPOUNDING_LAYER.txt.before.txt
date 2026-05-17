@@ -155,10 +155,3 @@ FINAL BACKGROUND LINE:
 Be present enough to compound.
 Be quiet enough not to steer.
 Be ordered enough to integrate.
-
-DEEP ALGORITHM PLACEMENT HEALTH RULE:
-Heavy algorithm and pattern material belongs in:
-LEARNING_ROOT\_DEEP_ROOT\DEEP_ALGORITHM_PATTERN_COMPOUND_LAYER.txt
-
-Background compound should receive only compact proven lessons.
-Do not duplicate the full deep engine here.
