@@ -1,0 +1,160 @@
+POLICE FREEZE / BIG BOSS TRIAGE / LUGGAGE UNLOAD LOCKSAVE
+STAMP: 20260517_052233
+
+STATUS:
+Proof-history lock/save package.
+Local PC save intended.
+Git commit/push intended.
+Not active-guide doctrine.
+Not CURRENT_TRUTH_INDEX authority.
+Not AGENTS.md authority.
+Not cleanup authority.
+Not deletion/move/rename authority.
+
+WHY THIS EXISTS:
+After the Domino Crime Scene / System-Cycle Learning package was saved, more useful incident-handling luggage formed in chat:
+1. Police Freeze / Do Not Contaminate.
+2. Big Boss / Minion Triage.
+3. Outcome Proof Gate.
+4. Exact Target Git Guard.
+5. Incident Concept Capture.
+6. Quiet Control Room / Proof Fog guardrail.
+7. Current next-direction note: compare systems and cycles, not only isolated mechanics.
+
+CORE RULE 1:
+POLICE FREEZE / DO NOT CONTAMINATE
+
+When something weird happens, especially an unexpected failure, contradiction, skipped instruction, save/Git mismatch, repeated miss, or user says freeze/crime scene/stop/pause:
+- freeze first
+- stop movement
+- do not continue the command path
+- do not repair forward yet
+- do not rewrite status
+- do not explain away the miss
+- rope off the exact scene
+- preserve logs/output/order of events
+- list knowns and unknowns
+- identify bodies/failures
+- map the sequence
+- name the suspected deeper hook
+- only then choose the smallest clean investigation or repair route
+
+Plain proof line:
+Freeze before fix prevents contamination.
+
+CORE RULE 2:
+BIG BOSS / MINION TRIAGE
+
+When a crime scene has multiple bodies/failures, do not fight every ghost one by one first.
+Start by identifying the biggest/root failure, usually the boss.
+Other failures may be minions caused by that boss.
+If the boss is solved, some minions may die with it.
+If a minion is independently dangerous, rope it off separately.
+
+Required route:
+1. Freeze.
+2. List bodies in order.
+3. Group bodies by likely parent cause.
+4. Identify boss candidate.
+5. Test whether fixing/containing the boss would also resolve the minions.
+6. Repair the boss first if evidence supports it.
+7. Retest the original intended outcome.
+8. Continue down the chain only if smaller bosses remain.
+
+Purpose:
+Save effort and time.
+Avoid scattered repair.
+Avoid fighting symptoms while the root hook stays alive.
+
+CORE RULE 3:
+OUTCOME PROOF GATE
+
+For trust-affecting work, verify the intended target outcome, not comforting status text.
+
+Bad proof examples:
+- "nothing to commit"
+- "working tree clean"
+- "everything up-to-date"
+- "done"
+- "should be fine"
+
+Good proof examples:
+- exact file exists
+- hash verified
+- exact file staged or intentionally force-added
+- commit created or exact commit already contains the target file
+- push succeeded
+- final status clean after the intended files are confirmed handled
+
+Plain proof line:
+Prove the target, not the mood.
+
+CORE RULE 4:
+EXACT TARGET GIT GUARD
+
+If saving proof-history files to Git and PROOF_HISTORY is ignored:
+- do not broad-add the repo
+- do not assume git add worked
+- force-add only exact approved proof files
+- use git add -f <exact main file> <exact receipt file>
+- verify commit and push output
+- final clean status is only valid after target files entered Git
+
+Plain proof line:
+Ignored proof needs exact force-add, not blind Git comfort.
+
+CORE RULE 5:
+INCIDENT CONCEPT CAPTURE
+
+When an incident creates a new idea, rule, metaphor, pattern, or system insight:
+- capture it before repair continues
+- classify it as active repair rule, support-map candidate, parking note, rejected metaphor, or proof-history save candidate
+- do not let the new truth vanish while fixing the old miss
+
+Plain proof line:
+The footprint inside the scene is evidence too.
+
+CORE RULE 6:
+QUIET CONTROL ROOM / PROOF FOG GUARDRAIL
+
+The control-room machinery should run mostly silently by default.
+Narrating every internal station creates ceremony and bloat.
+Metaphors/support objects are useful only when they produce plain proof.
+
+Expose machinery when it:
+- prevents a mistake
+- explains a routing conflict
+- handles a boundary
+- teaches a needed concept
+- creates necessary proof
+- responds to a user asking how/why
+
+Keep it silent when:
+- the move is simple
+- narration would slow the task
+- the station names are not needed
+- the proof can be one plain line
+
+Plain proof line:
+Every metaphor/support object must produce a plain proof line or stay parked.
+
+CURRENT NEXT-DIRECTION NOTE:
+The model should increasingly think in systems and cycles, not only mechanics.
+When comparing ideas from other sides/maps/layouts of the model:
+- compare systems against systems
+- look for cycles that feed each other
+- adopt only what improves routing, proof, recovery, learning, or neighbor respect
+- park the rest with notes
+- do not throw away good material just because it is not active now
+
+CYCLE SHAPE:
+weird event -> freeze -> body list -> boss/minion grouping -> failed hook -> emergent idea -> classified rule/support map -> soft test -> proof -> lock/save or park -> future trigger
+
+BOUNDARY:
+This file records rule candidates and operating guidance.
+It does not edit ACTIVE_GUIDES.
+It does not edit CURRENT_TRUTH_INDEX.txt.
+It does not edit AGENTS.md.
+It does not install doctrine.
+It does not perform cleanup.
+It does not delete, move, or rename files.
