@@ -1,0 +1,53 @@
+CURRENT TASK BOARD - ROOM MAP LIVE USE TRIAL
+Stamp: 20260517_164022
+Repo: C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+Starting anchor: f52da6f
+
+SOURCE TOOL USED:
+TOOL_SHED\ROOM_MAPS_AND_TODO_BOARDS.txt
+
+WORKSHOP LIMIT:
+Use one room/box only.
+Do not carry the whole workshop.
+
+ACTIVE BALL:
+Test the room-map / todo-board system on the next real Clean Seed move.
+
+CURRENT ROOM / STATION:
+Operating surface / task board.
+
+ONE CHOSEN BOX / TOOL:
+Current-task board.
+
+IMMEDIATE NEXT ACTION:
+Create this proof-history-only board and verify it can hold the next move cleanly.
+
+BLOCKED ACTIONS:
+- Do not edit ACTIVE_GUIDES.
+- Do not edit CURRENT_TRUTH_INDEX.txt.
+- Do not edit AGENTS.md.
+- Do not install doctrine.
+- Do not delete files.
+- Do not move files.
+- Do not rename files.
+- Do not run cleanup.
+- Do not expand the tool workshop.
+- Do not create multiple boards.
+
+PROOF NEEDED BEFORE PASS:
+- Board file exists in PROOF_HISTORY.
+- Board file has SHA256 hash.
+- Receipt file exists in PROOF_HISTORY.
+- Git commit succeeds.
+- Push succeeds.
+- Final git status is clean.
+
+RETURN ANCHOR:
+After this trial, return to the next real Clean Seed task using only the board if it helps.
+
+STOP CONDITION:
+Stop after one proof-history board, one receipt, one commit, and one push.
+
+BOUNDARY VERDICT:
+Proof-history-only trial.
+No active doctrine change.
