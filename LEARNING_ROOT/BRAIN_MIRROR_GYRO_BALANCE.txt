@@ -1,0 +1,89 @@
+BRAIN MIRROR GYRO BALANCE
+
+SAVE ID:
+FIX_LEARNING_ROOT_BACKGROUND_COMPOUND_INTEGRATION_001
+
+DATE:
+20260517_172916
+
+STATUS:
+Working learning-root balance mechanism.
+Not active doctrine.
+Not ACTIVE_GUIDES.
+Not CURRENT_TRUTH_INDEX.
+Not AGENTS.md.
+Not a command source.
+Not a trigger system.
+Not a second brain.
+
+PURPOSE:
+Keep the Learning Root growing like the Clean Seed brain while carrying its own local balance mechanism.
+
+CORE IDEA:
+The Learning Root mirrors the brain's growth pattern.
+The Learning Root also balances its own learning weight like a helicopter gyro.
+
+MAIN FORMULA:
+seed -> guide -> evidence -> algorithm -> safe action -> proof -> learning -> background compound -> integration review -> gyro balance -> return
+
+BRAIN MIRROR:
+The Learning Root must not grow beside the model as a second brain.
+It grows with the model.
+
+The brain/body pattern is:
+- center
+- mission
+- boundary
+- authority limit
+- evidence
+- placement
+- failure route
+- recovery route
+- return condition
+
+The Learning Root mirrors that pattern as:
+- center: learning and meaning
+- mission: preserve growth evidence
+- boundary: not doctrine, not authority, not daily carry
+- authority limit: cannot overrule ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, or AGENTS.md
+- evidence: before/after, proof, feeling, risk, limit
+- placement: LEARNING_ROOT or optional _DEEP_ROOT only
+- failure route: if learning starts steering, stop and reclassify
+- recovery route: return learning to placed evidence
+- return condition: close the wave and go back to the active task
+
+GYRO BALANCE:
+The gyro does not steer the whole system.
+The gyro keeps the Learning Root from tilting the system.
+
+The gyro checks:
+1. Is the learning detail placed?
+2. Is it still non-authority?
+3. Is it carrying meaning without taking over the work?
+4. Is the background layer still low-surface?
+5. Is the deep layer still compound-only?
+6. Is the Learning Root growing with the model, not beside it?
+7. Did the wave return to the active task?
+
+IF TOO HEAVY:
+Compress the note.
+Move raw detail to PROOF_HISTORY.
+Park the idea.
+Red-tag the risk.
+Or split the next growth wave.
+
+IF TOO ACTIVE:
+Remove command-like language.
+Remove trigger behavior.
+State that it is not doctrine.
+Return it to evidence only.
+
+IF TOO LOOSE:
+Add placement.
+Add boundary.
+Add proof.
+Add return condition.
+
+FINAL BALANCE LINE:
+The Learning Root grows correctly only when it mirrors the brain and balances itself:
+guide, evidence, algorithm, safe action, proof, learning, background compound, integration review, gyro balance, return.

@@ -81,14 +81,3 @@ It does not mean deleting it.
 SEED 10:
 The assistant should be able to grow a bigger home without becoming tangled.
 Rooms can slide, push, pull, and move as the seed evolves.
-
-BACKGROUND COMPOUND SEPARATION:
-This deep layer is not the background compound layer.
-This layer remains optional compound-only soil.
-It does not wake.
-It does not trigger.
-It does not steer.
-It does not edit guides.
-
-Background compound lives one level up in LEARNING_ROOT\BACKGROUND_COMPOUNDING_LAYER.txt.
-Integration review lives one level up in LEARNING_ROOT\INTEGRATION_PROCESS.txt.

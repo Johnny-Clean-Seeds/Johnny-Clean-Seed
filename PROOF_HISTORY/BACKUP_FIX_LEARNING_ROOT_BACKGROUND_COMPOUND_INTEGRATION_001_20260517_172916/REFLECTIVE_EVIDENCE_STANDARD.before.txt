@@ -31,15 +31,3 @@ When saying fix, changed, or changes made, always say:
 MAIN RULE:
 These details are not clutter when they are placed.
 They are learning evidence.
-
-BACKGROUND COMPOUND REPORT ADDITION:
-For meaningful growth work, report:
-- guide or boundary used
-- evidence used
-- algorithm used
-- safe action taken
-- proof result
-- learning result
-- compact lesson for background compound, if any
-- whether integration review is needed
-- whether active guide change is blocked, staged, or approved

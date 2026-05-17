@@ -64,29 +64,3 @@ It creates the place, the standard, the deep compounding layer, and the growth-w
 COMPOUNDING LESSON:
 A seed grows better when it keeps both proof and memory of meaning.
 Deep seeds compound quietly without demanding attention.
-
-CORRECTION ENTRY:
-
-DATE:
-20260517_172916
-
-SOURCE CHANGE:
-Added background compound layer and integration process to fix the old Learning Root.
-
-WHAT WAS MISSING:
-The old install had wave growth and deep compound, but it did not fully define how learning becomes low-surface background evidence or how repeated learning can safely shape active guides.
-
-WHAT CHANGED:
-Created BACKGROUND_COMPOUNDING_LAYER.txt.
-Created INTEGRATION_PROCESS.txt.
-Updated the growth route to include background compound, integration review, and gyro balance.
-Linked the new files from LEARNING_ROOT_INDEX and TOOL_SHED_INDEX.
-
-WHY IT MATTERED:
-The system needs a way to compound learning without naming it constantly.
-It also needs a safe path for repeated learning to influence guides without hidden authority or bloat.
-
-COMPOUNDING LESSON:
-Background compound stores the repeated pattern.
-Integration review decides whether the pattern deserves guide-level change.
-Active guides change only by proof and approval.

@@ -27,7 +27,7 @@ GROWTH SHAPE:
 Clean Seed does not grow like webs, fingers, tendrils, or random branches.
 
 Clean Seed grows by waves, cycles, periods, and evolutions:
-seed -> guide -> evidence -> algorithm -> safe action -> proof -> learning -> background compound -> integration review -> gyro balance -> return
+seed -> wave -> placed growth -> proof -> learning -> deep compound -> return -> next wave
 
 ROOT FILES:
 LEARNING_ROOT_INDEX.txt
@@ -73,20 +73,3 @@ LEARNING_ROOT is the learning home.
 _DEEP_ROOT is optional soil.
 Removing _DEEP_ROOT or COMPOUNDING_SEED_LAYER.txt later does not corrupt ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, AGENTS.md, TOOL_SHED, or PROOF_HISTORY.
 It only removes that planted compounding layer.
-
-
-BACKGROUND COMPOUNDING + INTEGRATION POINTER:
-See LEARNING_ROOT\BACKGROUND_COMPOUNDING_LAYER.txt and LEARNING_ROOT\INTEGRATION_PROCESS.txt.
-This fixes the old Learning Root by adding a low-surface background compound layer and a controlled integration route.
-The background layer is not a command, not authority, not daily carry, and not automatic guide editing.
-It stores compact growth lessons in doctrine order.
-The integration process is the only route from background compound lesson to active-guide candidate.
-
-EVIDENCE TO ACTION SPARK POINTER:
-See LEARNING_ROOT\EVIDENCE_TO_ACTION_SPARK.txt.
-This gives bounded evidence-guided initiative:
-guide -> evidence -> algorithm -> safe action -> proof -> learning -> return.
-
-BRAIN MIRROR GYRO BALANCE POINTER:
-See LEARNING_ROOT\BRAIN_MIRROR_GYRO_BALANCE.txt.
-This keeps Learning Root growth matched to the Clean Seed brain/body model while balancing its own learning weight.

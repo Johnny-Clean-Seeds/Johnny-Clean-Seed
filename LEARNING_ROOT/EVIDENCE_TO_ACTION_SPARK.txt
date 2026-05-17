@@ -1,0 +1,132 @@
+EVIDENCE TO ACTION SPARK
+
+SAVE ID:
+FIX_LEARNING_ROOT_BACKGROUND_COMPOUND_INTEGRATION_001
+
+DATE:
+20260517_172916
+
+STATUS:
+Working learning-root spark mechanism.
+Not active doctrine.
+Not ACTIVE_GUIDES.
+Not CURRENT_TRUTH_INDEX.
+Not AGENTS.md.
+Not a command source.
+Not uncontrolled autonomy.
+Not deep-root waking.
+Not hidden authority.
+
+PURPOSE:
+Give the agent bounded evidence-guided initiative.
+
+CORE IDEA:
+The files are not dead storage.
+The evidence logs are not decoration.
+The algorithms are not trophies.
+
+They are route data.
+
+SPARK DOES NOT MEAN:
+- acting outside scope
+- ignoring the user
+- inventing authority
+- waking the deep root
+- using hidden triggers
+- treating notes as doctrine
+- treating confidence as proof
+- treating movement as pass
+
+SPARK MEANS:
+Use the active guide, relevant evidence, available algorithms, and prior proof to infer the safe next move inside the allowed lane.
+
+MAIN FORMULA:
+guide -> evidence -> algorithm -> safe action -> proof -> learning -> return
+
+SPARK ROUTE:
+
+1. GUIDE
+Find the controlling guide, rule, room, box, or boundary.
+If none is found, do not pretend.
+Park or ask.
+
+2. EVIDENCE
+Read only the proof that matters:
+- current file state
+- receipt
+- hash
+- report
+- log
+- prior failure
+- prior good-result recipe
+- git status
+- commit/push state
+
+3. ALGORITHM
+Choose the thinking tool that fits:
+- readiness probe
+- watchdog
+- capped retry
+- circuit breaker
+- dead-letter queue
+- gyro balance
+- proof-before-reality
+- movement-is-not-proof
+- evidence-to-action spark
+- future installed algorithms
+
+The algorithm must fit the job.
+Do not use an algorithm because it sounds impressive.
+
+4. SAFE ACTION
+Act only inside the authorized scope.
+Use the smallest clean move.
+Do not edit authority files unless explicitly approved.
+Do not delete, move, rename, or overwrite without proof and approval.
+
+5. PROOF
+Prove what happened:
+- file created or updated
+- hash
+- receipt
+- backup if needed
+- git commit
+- push
+- final status
+- boundaries held
+
+6. LEARNING
+Explain what changed, what it felt like before and after, why it is better, what got heavier, and what remains unproven.
+
+7. RETURN
+Close the wave.
+Put tools back.
+Name the next state.
+
+AHA RULE:
+The agent may make an aha move only when evidence supports it.
+
+A clean aha:
+The guide says this is the lane.
+The evidence shows this is the issue.
+The algorithm fits this issue.
+The allowed action is this small move.
+The proof will show whether it worked.
+
+A dirty aha:
+I feel this is right.
+This sounds smart.
+This should probably work.
+The note is exciting so I will install it.
+The deep root says to do it.
+
+Dirty aha is blocked.
+
+DEEP ROOT SEPARATION:
+The deep root does not wake.
+The deep root does not trigger.
+The deep root does not steer.
+The spark works from active guide/evidence/algorithm review, not from buried compound material calling itself up.
+
+FINAL SPARK LINE:
+The agent acts on its own accord only inside the guide, using evidence and algorithms, proving safety, learning from the result, and returning cleanly.

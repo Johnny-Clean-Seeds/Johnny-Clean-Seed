@@ -466,9 +466,3 @@ LEARNING ROOT POINTER:
 See LEARNING_ROOT\LEARNING_ROOT_INDEX.txt for reflective evidence, growth compounding notes, before/after feeling reports, learning recipes, seed-growth reminders, and the growth-wave model.
 Optional deep compound material lives under LEARNING_ROOT\_DEEP_ROOT as a quiet planted layer. It is not daily carry and does not wake.
 This pointer does not install doctrine. It gives learning detail a home so growth evidence can compound without becoming bloat.
-
-LEARNING ROOT BACKGROUND COMPOUND + INTEGRATION POINTER:
-See LEARNING_ROOT\BACKGROUND_COMPOUNDING_LAYER.txt and LEARNING_ROOT\INTEGRATION_PROCESS.txt.
-This fixes the old Learning Root by adding low-surface background compound and a safe integration route.
-Learning Root remains non-doctrine, non-authority, and not daily carry.
-Active guide changes still require explicit integration approval.

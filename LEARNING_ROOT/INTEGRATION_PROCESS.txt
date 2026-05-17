@@ -1,0 +1,151 @@
+INTEGRATION PROCESS
+
+SAVE ID:
+FIX_LEARNING_ROOT_BACKGROUND_COMPOUND_INTEGRATION_001
+
+DATE:
+20260517_172916
+
+STATUS:
+Working integration process.
+Not active doctrine.
+Not ACTIVE_GUIDES.
+Not CURRENT_TRUTH_INDEX.
+Not AGENTS.md.
+Not a command source.
+Not automatic promotion.
+
+PURPOSE:
+Define how background compound learning can eventually become guide-level improvement without bloat or hidden authority.
+
+CORE IDEA:
+Learning can shape the active guide only through controlled integration.
+
+The background layer stores compound lessons.
+The integration process judges whether repeated lessons deserve promotion.
+The active guide changes only after proof and approval.
+
+NO AUTOMATIC GUIDE SHAPING:
+BACKGROUND_COMPOUNDING_LAYER does not edit active guides.
+LEARNING_ROOT does not edit active guides.
+_DEEP_ROOT does not edit active guides.
+The assistant does not silently promote learning into doctrine.
+
+INTEGRATION ROUTE:
+
+1. COLLECT
+Gather repeated compound lessons from:
+- reports
+- receipts
+- failures
+- good-result recipes
+- tool trials
+- algorithm tests
+- user corrections
+- growth summaries
+
+2. CLASSIFY
+Mark each lesson as:
+- background only
+- duplicate
+- already covered
+- conflict
+- candidate
+- parked
+- rejected
+- needs proof
+- needs user judgment
+
+3. COMPRESS
+Pack the lesson tightly.
+Remove chat noise.
+Keep the core shape:
+name, mission, home, boundary, authority, evidence, algorithm, safe action, proof, learning, balance, return.
+
+4. MATCH ACTIVE GUIDE
+Ask:
+Does this already exist in ACTIVE_GUIDES?
+Does it belong in Tool Shed instead?
+Does it belong in Learning Root only?
+Does it belong in PROOF_HISTORY only?
+Does it belong nowhere?
+
+5. IMPACT MAP
+If guide-level candidate, name every touched area:
+- README_START_HERE
+- CLEAN_SEED_WRAP_GUIDE
+- CLEAN_SEED_ALIGNMENT_CHECK
+- CURRENT_TRUTH_INDEX
+- AGENTS.md
+- TOOL_SHED
+- LEARNING_ROOT
+- PROOF_HISTORY
+- public notes
+- commands
+- verdicts
+- receipts
+- user workflow
+
+6. BLOAT CHECK
+Ask:
+Is this a new rule or only a reminder?
+Can it be merged into an existing rule?
+Is it already covered?
+Will it make daily work heavier?
+Does it reduce more confusion than it adds?
+
+7. SAFETY CHECK
+No active guide edit unless:
+- user approves
+- scope is named
+- target files are named
+- backups are created
+- proof plan exists
+- rollback path exists
+- final status will be checked
+
+8. STAGE
+Write candidate text outside ACTIVE_GUIDES first.
+Use proof-history or a staged candidate file.
+
+9. APPROVE
+User approval is required before active guide integration.
+
+10. INTEGRATE
+Edit only approved files.
+Keep language tight.
+Do not create new ceremony unless needed.
+Do not install hidden authority.
+
+11. PROVE
+Create receipt.
+Hash files.
+Commit.
+Push.
+Check final status.
+
+12. RETURN
+Close integration wave.
+Return to active task.
+
+BALANCE TEST:
+A lesson may integrate only if it improves:
+- routing
+- proof
+- safety
+- recovery
+- clarity
+- growth
+- future action quality
+
+And does not create:
+- hidden authority
+- trigger creep
+- daily clutter
+- side brain
+- web sprawl
+- bloat
+- unowned files
+
+FINAL INTEGRATION LINE:
+Background compound may feed the guide, but only through proof, compression, impact map, user approval, and clean integration.

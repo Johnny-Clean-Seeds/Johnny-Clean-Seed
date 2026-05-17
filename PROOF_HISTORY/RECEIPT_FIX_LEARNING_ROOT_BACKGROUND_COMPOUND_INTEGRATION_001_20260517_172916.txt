@@ -1,0 +1,135 @@
+RECEIPT:
+FIX_LEARNING_ROOT_BACKGROUND_COMPOUND_INTEGRATION_001
+
+DATE:
+20260517_172916
+
+ROOT:
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+
+HEAD BEFORE:
+437a869
+
+FIXES OLD INSTALL:
+YES
+
+OLD INSTALL PROBLEM:
+The old Learning Root install had wave growth and compound-only deep soil, but it did not fully define low-surface background compounding or safe integration into active guide candidates.
+
+CREATED:
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\LEARNING_ROOT\BRAIN_MIRROR_GYRO_BALANCE.txt
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\LEARNING_ROOT\EVIDENCE_TO_ACTION_SPARK.txt
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\LEARNING_ROOT\BACKGROUND_COMPOUNDING_LAYER.txt
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\LEARNING_ROOT\INTEGRATION_PROCESS.txt
+
+UPDATED:
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\LEARNING_ROOT\LEARNING_ROOT_INDEX.txt
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\LEARNING_ROOT\REFLECTIVE_EVIDENCE_STANDARD.txt
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\LEARNING_ROOT\GROWTH_WAVE_MODEL.txt
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\LEARNING_ROOT\GROWTH_COMPOUNDING_LOG.txt
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\LEARNING_ROOT\SEED_GROWTH_NOTES.txt
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\LEARNING_ROOT\_DEEP_ROOT\COMPOUNDING_SEED_LAYER.txt
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\TOOL_SHED\TOOL_SHED_INDEX.txt
+
+BACKUP:
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\PROOF_HISTORY\BACKUP_FIX_LEARNING_ROOT_BACKGROUND_COMPOUND_INTEGRATION_001_20260517_172916
+
+SHA256:
+BRAIN_MIRROR_GYRO_BALANCE.txt = EC6A17A718034ED2018A579B59841F55C093D9580B3F97E64E1F8EFCD04A5664
+EVIDENCE_TO_ACTION_SPARK.txt = 892B01C651960FF8873A950A85AFBC6B48EE7F3E32E9EE42B04DFDD3A7174FC3
+BACKGROUND_COMPOUNDING_LAYER.txt = 28742EFC95124FBC267A254937431E9C5D2F29C16865092EC4EBBDBF84C80027
+INTEGRATION_PROCESS.txt = 4DA29E01A68B0FB28144F7AA758D2BFA01A0CBCC1F106543DA2BC046F9A0624B
+LEARNING_ROOT_INDEX.txt = 4DEE59C7193853DC0CBB95AF6EE57054645F1DAA848F499D30E7DF2E99F3EED1
+REFLECTIVE_EVIDENCE_STANDARD.txt = 9497278021817D4023516B46643E24A258F492EB7E3A81AB7B0649F84DE9BAD8
+GROWTH_WAVE_MODEL.txt = 423E9A664B7F6E36FEE2678170C67BCE53EE7D14AC4C14CC11CA44A6C6E378E2
+GROWTH_COMPOUNDING_LOG.txt = 85809C82E4560EAC2D85D90B7C18529065BC2C9E8598A9F21CA7B1637C57068D
+SEED_GROWTH_NOTES.txt = 46A506728860797D095528FF3EA0A5790E8AC2B9DE19F4ED4D30A20E7C922798
+COMPOUNDING_SEED_LAYER.txt = A58F196456D4C8ABB6AB3223931DF7EC5E6528A49C21A4234BCE821088D68E26
+TOOL_SHED_INDEX.txt = D1882775280E119E2BAB98AB9438BCB8633D19450E3E4D48823A9967A0B04AD6
+
+WHAT I THOUGHT IT WOULD BE LIKE:
+The old Learning Root had a planted garden, but the new concern was subtler.
+It needed to become low-surface background compound: present enough to grow, quiet enough not to become daily clutter.
+
+WHAT IT WAS LIKE BEFORE:
+The Learning Root had:
+- wave growth
+- reflective evidence
+- growth compounding
+- seed-growth notes
+- optional compound-only deep soil
+
+But it did not explicitly define:
+- background compound order
+- tight doctrine packing
+- low-surface learning
+- integration review
+- safe route from repeated lesson to active-guide candidate
+- no automatic active-guide shaping
+
+WHAT CHANGED:
+Created BRAIN_MIRROR_GYRO_BALANCE.txt.
+Created EVIDENCE_TO_ACTION_SPARK.txt.
+Created BACKGROUND_COMPOUNDING_LAYER.txt.
+Created INTEGRATION_PROCESS.txt.
+Updated the old growth formula to:
+guide, evidence, algorithm, safe action, proof, learning, background compound, integration review, gyro balance, return.
+Updated growth wave, growth log, seed notes, reflective standard, deep layer, and Tool Shed pointer.
+
+WHAT IT IS LIKE NOW:
+The Learning Root now has structure, spark, balance, background compound, and integration review.
+It can store compact growth lessons without naming them constantly.
+It can influence active-guide growth only through controlled integration, proof, and user approval.
+The deep layer remains compound-only and does not wake.
+
+WHY IT IS BETTER:
+This fixes the old install directly.
+It prevents the Learning Root from becoming passive storage, uncontrolled autonomy, hidden authority, or a loud note pile.
+It gives repeated learning a safe path toward guide improvement without bloat.
+
+RISK REDUCED:
+Reduces passive storage.
+Reduces hidden authority.
+Reduces automatic guide shaping.
+Reduces web/finger drift.
+Reduces bloat from repeated notes.
+Reduces deep-root waking.
+Reduces learning material becoming a second brain.
+Reduces guide edits without proof and approval.
+
+WHAT GOT HEAVIER:
+Four files were created or refreshed and several learning files were updated.
+That is weight, but it is placed: background compound, integration, spark, and gyro each have narrow jobs.
+
+LIMIT:
+This is not active doctrine.
+This does not edit ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, or AGENTS.md.
+It does not automatically shape active guides.
+It creates the process for safe future integration.
+
+SELF-CHECK:
+Corrected formula present in index: YES
+Corrected formula present in growth wave model: YES
+Spark formula present: YES
+Gyro no-steering rule present: YES
+Background compound order present: YES
+Core doctrine pack present: YES
+Background guide-shaping boundary present: YES
+No automatic guide shaping present: YES
+User approval before active guide integration present: YES
+Deep seed no-wake rule present: YES
+Forbidden WAKE TRIGGERS phrase absent from deep seed layer: YES
+
+BOUNDARIES:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX edited: NO
+AGENTS.md edited: NO
+Doctrine install: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+
+NEXT:
+Let background compound stay low-surface.
+Use integration review before any active guide growth.
+Deep compound remains compound-only and does not wake.

@@ -25,7 +25,7 @@ It grows like:
 - a garden bed expanded with paths still intact
 
 MAIN FORMULA:
-seed -> guide -> evidence -> algorithm -> safe action -> proof -> learning -> background compound -> integration review -> gyro balance -> return
+seed -> wave -> placed growth -> proof -> learning -> deep compound -> return -> next wave
 
 DEEP COMPOUND STEP:
 If the lesson should grow quietly:
@@ -47,27 +47,3 @@ GARDEN NOTE:
 Growth is welcome here.
 Growth must be planted, mapped, proven, learned from, and returned to the seed.
 Deep growth does not wake. It compounds.
-
-
-BACKGROUND COMPOUND + INTEGRATION CORRECTION:
-The old wave model had shape and deep compound.
-The corrected model adds evidence-to-action spark, background compound, integration review, and gyro balance.
-
-Corrected route:
-seed -> guide -> evidence -> algorithm -> safe action -> proof -> learning -> background compound -> integration review -> gyro balance -> return
-
-Background compound:
-Compress reusable lessons in doctrine order without making them active.
-
-Integration review:
-Decide whether repeated compound lessons should become staged guide candidates.
-No active guide changes happen without proof and user approval.
-
-Gyro balance:
-Keep learning weight level.
-
-Deep compound:
-Still compound-only.
-Does not wake.
-Does not trigger.
-Does not steer.

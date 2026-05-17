@@ -1,0 +1,157 @@
+BACKGROUND COMPOUNDING LAYER
+
+SAVE ID:
+FIX_LEARNING_ROOT_BACKGROUND_COMPOUND_INTEGRATION_001
+
+DATE:
+20260517_172916
+
+STATUS:
+Low-surface learning layer.
+Not active doctrine.
+Not ACTIVE_GUIDES.
+Not CURRENT_TRUTH_INDEX.
+Not AGENTS.md.
+Not a command source.
+Not a trigger system.
+Not a second brain.
+Not deep root waking.
+Not hidden authority.
+
+PURPOSE:
+Hold the compact background pattern that lets learning compound without becoming daily clutter.
+
+CORE IDEA:
+This layer should become background noise in the good sense:
+present, placed, quiet, and useful for compounding.
+
+It should not be constantly named.
+It should not be carried as daily talk.
+It should not become a command.
+It should not wake itself.
+It should not edit active guides.
+
+It is a low-surface growth pattern.
+
+WHAT IT DOES:
+- receives compact learning from reports
+- stores compressed growth lessons
+- keeps doctrine concepts in tight order
+- supports later integration review
+- helps prevent bloat by giving growth a place
+- keeps new learning aligned with active guide concepts
+
+WHAT IT DOES NOT DO:
+- does not wake
+- does not trigger
+- does not steer
+- does not secretly rewrite files
+- does not update ACTIVE_GUIDES
+- does not replace user approval
+- does not override CURRENT_TRUTH_INDEX or AGENTS.md
+- does not become a second brain
+
+BACKGROUND COMPOUND ORDER:
+When adding compact lessons here, preserve this order:
+
+1. NAME
+What is the thing?
+
+2. MISSION
+What job does it do?
+
+3. HOME
+Where does it belong?
+
+4. BOUNDARY
+What must it not do?
+
+5. AUTHORITY LIMIT
+What can it not overrule?
+
+6. EVIDENCE
+What proof supports it?
+
+7. ALGORITHM
+What method/tool applies?
+
+8. SAFE ACTION
+What action is allowed?
+
+9. PROOF RESULT
+What shows it worked or failed?
+
+10. LEARNING
+What changed in understanding?
+
+11. BALANCE
+What got heavier, looser, or too active?
+
+12. COMPOUND
+What small lesson should carry forward?
+
+13. INTEGRATION STATUS
+background only, parked, candidate, staged, approved, rejected, or integrated
+
+14. RETURN
+Where does the active task return?
+
+CORE DOCTRINE PACK:
+Use these as compression anchors, not as commands:
+
+Name before use.
+Mission lock.
+Home before movement.
+Boundary before authority.
+Evidence before repair.
+Done does not equal PASS.
+Movement is not proof.
+Confidence is not proof.
+Proof before reality.
+No delete before evidence.
+No promotion without route.
+Park before sprawl.
+Respect the neighbor.
+Use the house, do not carry the house.
+Good results need recipes.
+Failures need route data.
+Grow by waves, not webs.
+Deep compound does not wake.
+Learning root mirrors the brain.
+Gyro balances learning weight.
+Spark uses guide plus evidence plus algorithm.
+Integration changes active guide only by approval.
+
+COMPOUNDING METHOD:
+When a meaningful action happens:
+1. write full proof in PROOF_HISTORY
+2. write full meaning in LEARNING_ROOT if needed
+3. compress only the reusable lesson here
+4. keep the lesson in doctrine order
+5. do not make it active
+6. wait for integration review if it may affect guides
+
+HOW IT SHAPES ACTIVE GUIDES:
+This layer does not directly shape active guides.
+It shapes them only through integration review.
+
+Integration review may say:
+This repeated compound lesson belongs in ACTIVE_GUIDES.
+
+But the active guide changes only after:
+- candidate named
+- affected files named
+- bloat check
+- authority check
+- proof support
+- user approval
+- backup
+- edit
+- receipt
+- commit/push
+- final status
+
+FINAL BACKGROUND LINE:
+Be present enough to compound.
+Be quiet enough not to steer.
+Be ordered enough to integrate.
