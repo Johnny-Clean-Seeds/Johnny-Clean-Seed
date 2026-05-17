@@ -1,0 +1,57 @@
+JOJI 88 REFERENCE INTEL BOUNDARY NOTE
+Created: 2026-05-16 20:16:31
+Status: PUBLIC REFERENCE / INTELLIGENCE ONLY
+Install status: NOT ACTIVE DOCTRINE
+Authority: reference material only
+
+PURPOSE
+This note publishes the current Joji 88 method-discovery work as reference intelligence.
+
+This batch contains:
+1. JOJI_88_UNIVERSAL_METHOD_TABLE_AND_MASTER_SEAT_DISCOVERY_DRAFT_20260516.txt
+2. JOJI_88_DOMAIN_BRIDGE_AND_LINK_LEDGER_METHOD_20260516.txt
+3. JOJI_88_PRISM_CONVERGENCE_METHOD_20260516.txt
+
+BOUNDARY
+These files are not the active task.
+These files are not active guide doctrine.
+These files are not CURRENT_TRUTH_INDEX.
+These files are not cleanup authority.
+These files are not deletion, movement, rename, overwrite, or promotion authority.
+These files are not final PASS for the master rule set.
+
+WHAT THEY ARE
+They are reference intelligence for future master-seat discovery.
+
+They may be used later as:
+- method-source material
+- decision fuel
+- reference notes
+- comparison material
+- algorithm-tournament evidence
+- public proof that the idea was captured
+
+WHAT THEY DO NOT DO
+They do not install rules.
+They do not change ACTIVE_GUIDES.
+They do not change CURRENT_TRUTH_INDEX.
+They do not decide the final master seats.
+They do not decide master order.
+They do not authorize a cleanup or rewrite.
+
+CURRENT WORK STATUS
+The Joji 88 mule draft is discovery output.
+The Domain Bridge + Link Ledger Method is a proof-history method note.
+The Prism Convergence Method is a proof-history method note.
+
+All three are useful intelligence, not current command authority.
+
+NEXT CLEAN USE
+Use these files only when deliberately reviewing Joji 88 method placement, master-seat candidates, route-picking algorithms, ugly-duck ideas, or public explanation material.
+
+If a future assistant, mule, or worker reads these files, it must treat them as reference-only unless the user deliberately opens a review/promotion task.
+
+FINAL VERDICT
+PASS AS PUBLIC REFERENCE INTEL.
+NOT FINAL PASS AS DOCTRINE.
+NOT CURRENT ACTIVE WORK.

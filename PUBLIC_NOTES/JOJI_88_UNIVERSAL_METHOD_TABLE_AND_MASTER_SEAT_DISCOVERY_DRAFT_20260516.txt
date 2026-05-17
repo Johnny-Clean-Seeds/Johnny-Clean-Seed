@@ -1,0 +1,989 @@
+JOJI 88 UNIVERSAL METHOD TABLE AND MASTER SEAT DISCOVERY DRAFT
+Created: 2026-05-16
+Status: DISCOVERY / PLACEMENT DRAFT ONLY
+Authority status: NOT ACTIVE DOCTRINE; NOT CURRENT TRUTH; NOT FINAL PASS
+Work root: C:\Users\13527\Desktop\Clean Milk not-BLOAT
+Source digest: C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECOVERED_WHALE_88_METHOD_STACK_DIGEST_20260516_184010.txt
+Source digest SHA256: 5BA05CFC4B31FE72962DA47BDA97F8CF58D59088E1099D8219D60EFE6B377846
+Current truth index read first: C:\Users\13527\Desktop\Clean Milk not-BLOAT\CURRENT_TRUTH_INDEX.txt
+Current patch ID observed in CURRENT_TRUTH_INDEX.txt: CLEAN_SEED_PATCH_COMMAND_MAP_HOUSEKEEPING_LOCK
+
+READING KEY
+- EVIDENCE = directly stated in the named source file or directly observed in the inspected file lane.
+- INFERENCE = a provisional working judgment from the evidence, made for discovery only.
+- UNKNOWN = not established in this pass.
+- Row fields sourced directly from the digest are EVIDENCE when copied from the digest.
+- Row fields that classify, relate, score, or propose are INFERENCE unless explicitly marked UNKNOWN.
+
+============================================================
+SECTION 1 - SOURCE INTAKE
+
+EVIDENCE:
+- Source file exists: YES.
+- Source path: C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECOVERED_WHALE_88_METHOD_STACK_DIGEST_20260516_184010.txt
+- Source SHA256: 5BA05CFC4B31FE72962DA47BDA97F8CF58D59088E1099D8219D60EFE6B377846
+- Source says numbered heading count is 88: YES.
+- Group 1 present: Real-World Method Lenses, count 51.
+- Group 2 present: Corrected Station Order, count 13.
+- Group 3 present: Core Preservation / Control Concepts, count 10.
+- Group 4 present: Minimum Operating Anchors, count 8.
+- Group 5 present: Small Front-Door Pieces, count 6.
+- Source status is proof-history-only: YES.
+- Source install status is NOT ACTIVE DOCTRINE.
+- Source boundary says it does not edit ACTIVE_GUIDES or CURRENT_TRUTH_INDEX and does not authorize cleanup, deletion, movement, overwrite, folder creation, promotion, or final PASS.
+- ACTIVE_GUIDES edit during this task: NO.
+- CURRENT_TRUTH_INDEX edit during this task: NO.
+- Cleanup during this task: NO.
+- Git action during this task: NO.
+- SOURCE_PARSE_GAP: NO.
+
+INFERENCE:
+- The source digest is suitable as an ore body for discovery because it is bounded, counted, and self-declared as proof-history-only rather than active truth.
+
+UNKNOWN:
+- Whether the separate larger "180-item file" mentioned by the digest still exists was not inspected because it was not needed for the approved active target.
+
+============================================================
+SECTION 2 - SOURCE 88 METHOD TABLE
+
+FIELD ORDER FOR EVERY ROW
+ID | Source group | Source heading | Source line reference if available | Clean Seed use from source | Rule extracted from source | Plain meaning | Problem it helps solve | What it helps find | Likely station | Candidate role | Evidence needed | What it protects | Risk if missing | Risk if overused | Possible parent | Possible children | Possible cousins | Possible bridge links | Master-seat candidate? | Reason | Notes
+
+S001 | Group 1 Real-World Method Lenses | Intelligence cycle | L132 | AUTHORITY, CAPTURE, INVENTORY, JUDGE, REVIEW / HANDOFF, CONTINUE | Do not analyze before the collection requirement and proof boundary are known. | Decide the question and evidence boundary before reasoning. | Premature analysis. | Missing scope and proof requirement. | AUTHORITY | parent method | Requirement record plus evidence boundary. | Source discipline. | Wandering review. | Planning without acting. | S052 | S054,S055,S058,S063 | S051,S050 | A088,A090 | yes | It governs the whole route before downstream work begins. | INFERENCE: strong parent and possible master.
+S002 | Group 1 Real-World Method Lenses | Crime-scene preservation | L149 | FREEZE and CAPTURE / COLLECT | Freeze before inventory, sorting, judgment, cleanup, deletion, movement, overwrite, rename, or promotion. | Preserve the scene before touching it. | Evidence disturbance. | Original state. | FREEZE | evidence method | Before-state capture. | Untouched proof. | Lost evidence. | Paralysis if freezing never ends. | S004 | S055,S056 | S025 | S068,A019 | maybe | It protects truth early but depends on authority. | EVIDENCE for rule; INFERENCE for role.
+S003 | Group 1 Real-World Method Lenses | Chain of custody | L166 | CAPTURE, SAVE, SEAL, REVIEW | No proof, no authority jump. | Evidence must stay traceable through handling. | Hidden swaps and false proof. | Who handled what, when. | CAPTURE / SAVE / SEAL | evidence method | Custody record. | Evidence integrity. | False promotion. | Heavy ceremony for low-risk material. | S065 | S029,S032 | A084,A047 | S067,S071 | yes | It is prerequisite for trustworthy proof flow. | EVIDENCE for rule; INFERENCE for master fit.
+S004 | Group 1 Real-World Method Lenses | Forensic imaging | L184 | FREEZE and CAPTURE / COLLECT | Capture before structure; structure before judgment. | Make a faithful copy before reorganizing. | Review destroys source state. | Before-state image. | FREEZE / CAPTURE | child method | Hash or image proof. | Rollback and source state. | No reliable reconstruction. | Copying everything without need. | S002 | S029 | A019,A084 | S003 | no | Strong child, not route-level control. | INFERENCE.
+S005 | Group 1 Real-World Method Lenses | Digital forensics triage | L200 | Optional lens inside JUDGE, not mandatory station. | Triage is a risk lens, not a new boss. | Prioritize without promoting triage into authority. | Urgent work swallows the system. | Highest-risk evidence first. | JUDGE | optional special lens | Risk trigger record. | Route integrity. | Critical items buried. | Endless urgency theater. | S070 | S014 | A057 | S057 | no | Explicitly optional in source. | EVIDENCE.
+S006 | Group 1 Real-World Method Lenses | Lab accessioning | L216 | INVENTORY | Inventory turns captured evidence into structured identity. | Give each item a stable intake identity. | Anonymous objects. | What exists. | INVENTORY | evidence method | Item register. | Findability. | Lost items and duplicates. | Over-cataloging trivial items. | S055 | S035 | A080 | S067 | maybe | Identity is foundational but not sufficient alone. | INFERENCE.
+S007 | Group 1 Real-World Method Lenses | Lab notebook / electronic lab notebook | L235 | SAVE and SEAL | Observation is not judgment; judgment is not action. | Record what happened without smuggling verdict or action into the note. | Mixed notes. | Observation trail. | SAVE / SEAL | evidence method | Timestamped notes. | Separation of states. | Memory drift. | Note-taking becomes substitute for progress. | S065 | S029 | A088 | S067 | maybe | It preserves evidentiary clarity. | INFERENCE.
+S008 | Group 1 Real-World Method Lenses | Scientific method | L252 | JUDGE and CONTINUE | A good idea is a hypothesis until proof and gate acceptance exist. | Treat claims as testable until proven. | Vibe-based truth. | Testable claim. | JUDGE | parent method | Hypothesis, test, result. | Truth quality. | Premature belief. | Over-testing obvious low-risk matters. | S001 | A021,A025 | S009,S010 | S057 | maybe | Broad parent, but it does not by itself control authority. | INFERENCE.
+S009 | Group 1 Real-World Method Lenses | Experimental controls | L268 | Old/new comparison and REVIEW | Do not judge a new candidate without the current/old source in view. | Compare change against a baseline. | Confusing novelty with improvement. | Difference caused by change. | JUDGE / REVIEW | evidence method | Baseline and comparator. | Causal clarity. | False wins. | Blocks exploratory work if demanded too early. | S008 | A020,A026 | A028 | S057 | maybe | Needed for fair judgment. | INFERENCE.
+S010 | Group 1 Real-World Method Lenses | Replication and reproducibility | L285 | SEAL and REVIEW | If a review cannot be repeated from the evidence, it is weak. | Someone else should be able to rerun the proof. | One-off proof. | Repeatable result. | SEAL / REVIEW | evidence method | Re-runable procedure and inputs. | Trust. | Fragile claims. | Ceremony where repeatability is impossible or irrelevant. | S008 | A005,A006,A007 | A023,A024 | S061 | yes | It hardens proof against illusion. | INFERENCE.
+S011 | Group 1 Real-World Method Lenses | Peer review | L301 | REVIEW / HANDOFF | Review can recommend; it does not automatically promote. | Another set of eyes checks the work, but authority still stays separate. | Lone-review blind spots. | Weak reasoning. | REVIEW / HANDOFF | authority method | Reviewer record. | Anti-self-promotion. | Hidden error. | Endless committee drag. | S066 | S012 | A035 | S063 | maybe | Important guardrail, but derivative of authority separation. | INFERENCE.
+S012 | Group 1 Real-World Method Lenses | Red-team review | L318 | JUDGE and REVIEW | Attack the claim before installing the claim. | Deliberately seek failure paths. | Unchallenged optimism. | Exploit or weak claim. | JUDGE / REVIEW | risk method | Threat questions and findings. | False safety. | Brittle promotion. | Adversarial posture against trivial claims. | S047 | A067 | S042 | S057 | maybe | Strong risk lens, not universal first step. | INFERENCE.
+S013 | Group 1 Real-World Method Lenses | Differential diagnosis | L334 | JUDGE and incident handling | Suspect is not proven cause. | Keep multiple explanations alive. | First-cause fixation. | Competing causes. | JUDGE | parent method | Candidate causes and eliminators. | Diagnostic accuracy. | Wrong repair. | Analysis sprawl. | S047 | A040 | A072 | S057 | maybe | Masterful for diagnosis, narrower than whole system. | INFERENCE.
+S014 | Group 1 Real-World Method Lenses | Medical triage | L350 | Optional TRIAGE inside JUDGE | Urgency changes order of attention, not authority. | Handle the urgent first without changing who decides. | Crisis hijacks authority. | Highest immediate risk. | JUDGE | optional special lens | Urgency criteria. | Authority and life-safety priority. | Harm from delay. | Permanent emergency mode. | S070 | A057 | S005 | S069 | no | Explicitly optional in source. | EVIDENCE.
+S015 | Group 1 Real-World Method Lenses | Clinical pathway | L366 | Station order | Every standard route needs an exception gate. | Standard flow plus escape hatch. | Either chaos or rigid protocol. | Normal route and exception path. | MULTI-STATION | parent method | Route definition and exception trigger. | Safe flow. | Inconsistent handling. | Over-protocolization. | S052 | S064 | A017 | S069 | yes | It defines ordered action with exception handling. | INFERENCE.
+S016 | Group 1 Real-World Method Lenses | Incident command system | L382 | AUTHORITY, REVIEW / HANDOFF, BLOCK | No single surface should become the master brain. | Distribute roles while keeping command clear. | Hidden boss and overload. | Who decides, who executes, who reviews. | AUTHORITY | authority method | Role map. | Control boundaries. | Command bleed. | Bureaucracy in simple cases. | S066 | A087,A069 | A051 | S063 | yes | It directly addresses authority architecture. | INFERENCE.
+S017 | Group 1 Real-World Method Lenses | Aviation checklist discipline | L399 | Gates and stop conditions | Checklist gates are for high-risk transitions, not every breath. | Use checklists where mistakes are costly. | Missed critical steps. | Transition readiness. | REVIEW / HANDOFF | risk method | Checklist completion on risky moves. | Safe transition. | Omissions. | Ceremony bloat. | S074 | A048 | A017 | S069 | maybe | Useful as child of risk control. | INFERENCE.
+S018 | Group 1 Real-World Method Lenses | Systems engineering V-model | L415 | AUTHORITY, JUDGE, SEAL, REVIEW | Each promoted part must trace back to a requirement and verification. | Build and verify against declared needs. | Orphan features. | Requirement-to-proof link. | AUTHORITY / REVIEW | parent method | Requirement and verification trace. | Fit-for-purpose. | Feature drift. | Heavy design before discovery. | S019 | A091 | A054,A055 | S063 | maybe | Broad parent; good bridge from requirements to evidence. | INFERENCE.
+S019 | Group 1 Real-World Method Lenses | Requirements traceability | L432 | Authority and proof | No role without a reason; no gate without proof. | Every role and gate needs a justified source. | Ghost rules. | Why a control exists. | AUTHORITY / REVIEW | evidence method | Trace matrix. | Legitimate structure. | Arbitrary gates. | Paper trail obsession. | S018 | A083,A084 | A091 | S066 | yes | It ties authority to proof. | INFERENCE.
+S020 | Group 1 Real-World Method Lenses | FMEA | L449 | JUDGE and BLOCK | Judge not only value; judge how it can fail. | Examine failure modes before action. | Good ideas with bad failure paths. | Failure points. | JUDGE | risk method | Failure-mode table. | Prevention. | Blind risk. | Risk inflation. | S042 | A089 | A056 | S069 | maybe | Strong child of risk control. | INFERENCE.
+S021 | Group 1 Real-World Method Lenses | Fault tree analysis | L467 | Incident review and cobweb analysis | A bad outcome may have a chain, not one villain. | Map contributing causes. | Single-cause myth. | Cause chain. | JUDGE / REVIEW | risk method | Causal tree. | Accurate repair. | Wrong culprit. | Retrospective overfitting. | S047 | A073 | A067 | S057 | no | Diagnostic child, not master. | INFERENCE.
+S022 | Group 1 Real-World Method Lenses | HAZOP / deviation review | L483 | Flow check | Every station should be checked for missing, early, late, skipped, duplicated, and reversed behavior. | Test the route for deviations. | Bad station logic. | Route defects. | REVIEW | risk method | Deviation checklist. | Flow correctness. | Hidden route bugs. | Endless what-ifing. | S015 | A052,A053 | S023 | S064 | maybe | Valuable for station architecture. | INFERENCE.
+S023 | Group 1 Real-World Method Lenses | STPA / control-system safety | L499 | Gate design | A gate must know when action is unsafe, missing, late, early, or stale. | Design controls against unsafe timing and control loss. | Controls that exist but fail when needed. | Unsafe control actions. | BLOCK / REVIEW | risk method | Control-action analysis. | Safe gating. | Bad gates. | Complexity creep. | S069 | A056 | S022 | S064 | yes | Directly shapes safe action boundaries. | INFERENCE.
+S024 | Group 1 Real-World Method Lenses | Lean assembly line | L515 | Station model | Do not make one station do every job. | Split work into fit-for-purpose stations. | One giant brain station. | Role boundaries. | MULTI-STATION | parent method | Station definitions. | Clarity and throughput. | Blob workflow. | Fragmentation. | S051 | S052-S064 | A060 | S066 | maybe | Important architecture parent. | INFERENCE.
+S025 | Group 1 Real-World Method Lenses | Toyota-style jidoka / stop-the-line | L531 | FREEZE and BLOCK | If proof, authority, or context breaks, stop the line. | Halt when the process loses safety. | Continuing through contamination. | Break condition. | FREEZE / BLOCK | risk method | Stop trigger evidence. | Truth, authority, safety. | Cascading damage. | Over-triggering. | S069 | A057 | S002 | S064 | yes | Protects known failure modes early. | INFERENCE.
+S026 | Group 1 Real-World Method Lenses | Kanban and WIP limits | L547 | ACTIVE BALL | Too many active balls is a flow failure. | Limit concurrent work. | Attention scatter. | Current work. | ACTIVE BALL | station support method | WIP board or current-ball record. | Focus. | Lost threads. | Artificial underuse of capacity. | S053 | A102 | A103 | S074 | maybe | Important but not whole-system master. | INFERENCE.
+S027 | Group 1 Real-World Method Lenses | Quality control sampling | L563 | CAPTURE and REVIEW | Inspect to the risk, not to infinity. | Sample enough for confidence, not exhaustion. | Unbounded inspection. | Representative quality. | CAPTURE / REVIEW | evidence method | Sampling rule. | Efficiency and adequacy. | Missed defects or wasted effort. | Under-sampling if abused. | S008 | A062 | S040 | S074 | no | Useful child lens. | INFERENCE.
+S028 | Group 1 Real-World Method Lenses | Statistical process control | L579 | CONTINUE and drift checks | Drift is captured before it becomes action. | Watch process variation over time. | Slow degradation. | Drift. | CONTINUE | evidence method | Control series. | Stability. | Silent decay. | Metrics theater. | S073 | A062,A030 | S029 | S074 | maybe | Strong ongoing control child. | INFERENCE.
+S029 | Group 1 Real-World Method Lenses | Audit trail | L595 | SAVE and SEAL | If later review cannot tell what happened, the seal is weak. | Leave a reconstructable trail. | Invisible history. | What happened. | SAVE / SEAL | evidence method | Time-ordered log. | Accountability. | Unreviewable work. | Logging noise. | S065 | A088,A084 | S007 | S071 | yes | Central to proof visibility. | INFERENCE.
+S030 | Group 1 Real-World Method Lenses | Segregation of duties | L612 | Authority boundaries | The station that proposes should not silently promote. | Separate proposal from approval. | Self-approval. | Role conflict. | AUTHORITY / PROMOTE | authority method | Role separation record. | Clean authority. | Hidden promotion. | Slow handoffs. | S066 | A087,A093 | S011 | S063 | yes | Direct guardrail against false active truth. | INFERENCE.
+S031 | Group 1 Real-World Method Lenses | Legal discovery | L628 | CAPTURE, REVIEW, PROMOTE / PARK / BLOCK | Collected does not mean produced; reviewed does not mean promoted. | Intake, review, and release are separate states. | Intake mistaken for truth. | Evidence stage. | CAPTURE / REVIEW / PROMOTE | evidence method | Stage labels and production record. | State clarity. | Dirty promotion. | Legalistic drag. | S032 | A044,A045 | A042 | S071 | yes | It distinguishes capture from promotion. | INFERENCE.
+S032 | Group 1 Real-World Method Lenses | Evidence admissibility | L645 | JUDGE and REVIEW | Useful-sounding proof is not automatically admissible proof. | Some evidence is relevant but not fit for verdict. | Bad proof. | Evidence quality. | JUDGE / REVIEW | evidence method | Admissibility criteria. | Verdict integrity. | False confidence. | Excluding useful weak signals too soon. | A042 | A041 | S031 | S057 | yes | It controls what may support a verdict. | INFERENCE.
+S033 | Group 1 Real-World Method Lenses | Archival appraisal | L662 | PLACE / FILE and PARK | Not active is not trash. | Preserve value without forcing activity. | False binary active/trash. | Long-term value. | PLACE / FILE | bridge method | Appraisal basis. | Historical value. | Destructive sorting. | Accumulation without pruning. | S034 | A085,A095 | S035 | S074 | maybe | Strong placement parent, not first master. | INFERENCE.
+S034 | Group 1 Real-World Method Lenses | Records retention | L678 | SAVE, PARK, BLOCK, deletion boundaries | Deletion is its own gate, never a side effect of sorting. | Retention and deletion need rules. | Hidden deletion. | What must stay. | SAVE / PARK / BLOCK | authority method | Retention schedule. | Evidence continuity. | Lost proof. | Keeping everything forever. | S072 | A085,A095 | S033 | S069 | yes | It directly blocks destructive side effects. | INFERENCE.
+S035 | Group 1 Real-World Method Lenses | Library cataloging | L694 | INVENTORY and PLACE / FILE | An item should be findable without becoming active truth. | Findability and authority are separate. | Discoverability confusion. | Where an item is. | INVENTORY / PLACE | station support method | Catalog record. | Access without promotion. | Invisible holdings. | Catalog bureaucracy. | S006 | A080 | S036 | S071 | maybe | Key placement support. | INFERENCE.
+S036 | Group 1 Real-World Method Lenses | Faceted classification | L710 | SORT | One label is rarely enough for complex material. | Use multiple dimensions to classify. | Forced single-bucket sorting. | Relevant attributes. | SORT | child method | Facets and examples. | Nuance. | Misfiled items. | Taxonomy sprawl. | S037 | A080,A081 | S035 | S057 | no | Child lens. | INFERENCE.
+S037 | Group 1 Real-World Method Lenses | Ontology / relationship mapping | L729 | Machine structure | The system needs relationships, not just piles. | Model what things are and how they connect. | Piles without meaning. | Semantic structure. | SORT / PLACE | bridge method | Relationship map. | Coherence. | Context loss. | Premature formalism. | S038 | A082,A084 | A080 | S068 | yes | It bridges placement, meaning, and machine use. | INFERENCE.
+S038 | Group 1 Real-World Method Lenses | Knowledge graph / link analysis | L748 | Context preservation | Context travels with the item. | Preserve links around evidence. | Orphan facts. | Connected context. | PLACE / SAVE | bridge method | Link record. | Meaning over time. | Isolated scraps. | Link-chasing bloat. | S068 | A082,A084 | S037 | S073 | maybe | Strong bridge, likely child of context preservation. | INFERENCE.
+S039 | Group 1 Real-World Method Lenses | Archaeological stratigraphy | L765 | Source-ore handling | Old material should be layered before it is judged. | Respect time layers before verdict. | Presentism. | Historical sequence. | SORT / JUDGE | evidence method | Layer record. | Provenance. | Misread old material. | Treating every layer as equally active. | S068 | A083,A084 | S033 | S057 | maybe | Useful for recovery and old evidence. | INFERENCE.
+S040 | Group 1 Real-World Method Lenses | Field sampling | L781 | Large-batch review | Do not disturb the whole shed when a bounded sample answers the current question. | Sample boundedly. | Over-expansion of inspection. | Enough evidence. | CAPTURE / REVIEW | evidence method | Sampling frame. | Boundary discipline. | Missed anomalies if poor sample. | Overgeneralizing from sample. | S027 | A063 | S074 | S001 | no | Useful child. | INFERENCE.
+S041 | Group 1 Real-World Method Lenses | Zero trust | L797 | AUTHORITY and BLOCK | A file in the project folder is not active truth by location. | Location alone grants no trust. | Authority by proximity. | Trust boundary violations. | AUTHORITY / BLOCK | authority method | Verification rule. | Active truth. | Dirty promotion. | Friction everywhere. | S075 | A093,A094 | S030 | S071 | yes | Directly prevents known command bleed. | INFERENCE.
+S042 | Group 1 Real-World Method Lenses | Threat modeling | L814 | JUDGE and BLOCK | Judge both usefulness and abuse path. | Ask how something can be misused. | Naive safety. | Abuse path. | JUDGE / BLOCK | risk method | Threat model. | Integrity and safety. | Exploitable design. | Security overreach. | S020 | A067 | S012 | S069 | maybe | Strong risk parent. | INFERENCE.
+S043 | Group 1 Real-World Method Lenses | Quarantine / sandboxing | L830 | BLOCK | Unknown or executable material is visible but inert. | Keep uncertain things isolated. | Dangerous unknowns. | Risky payload. | BLOCK | risk method | Isolation record. | Safe inspection. | Execution damage. | Permanent parking without review. | S041 | A010 | A093 | S069 | yes | It enables safe visibility without false authority. | INFERENCE.
+S044 | Group 1 Real-World Method Lenses | Version control | L846 | SAVE and SEAL | Change without rollback proof is high risk. | Keep reversible history. | Irreversible change. | Prior state. | SAVE / SEAL | recovery method | Version history. | Rollback. | No recovery path. | Overbranching. | S029 | A019,A018 | A088 | S073 | maybe | Strong recovery child. | INFERENCE.
+S045 | Group 1 Real-World Method Lenses | Release management | L863 | PROMOTE | Promotion is a release, not a vibe. | Promote through explicit release control. | Casual activation. | Release readiness. | PROMOTE | authority method | Release record. | Active truth boundary. | Dirty promotion. | Ceremony for trivial artifacts. | S046 | A009,A010 | A077 | S063 | yes | It governs the transition into active state. | INFERENCE.
+S046 | Group 1 Real-World Method Lenses | Change control | L880 | Any active-guide/current-truth update | Judgment does not authorize change by itself. | Decision and modification are separate gates. | Judge-action collapse. | Authorized change. | PROMOTE / BLOCK | authority method | Change approval. | Controlled edits. | Unauthorized overwrite. | Frozen system. | S030 | A088,A091 | S045 | S066 | yes | It enforces action boundary. | INFERENCE.
+S047 | Group 1 Real-World Method Lenses | Root-cause analysis | L897 | Incident review | Freeze first, cause later. | Stabilize before explaining. | Repair before preservation. | Cause chain. | REVIEW | recovery method | Incident record. | Evidence and future repair. | Repeated failures. | Cause hunts after every wobble. | S013 | S021,S048 | A014 | S025 | maybe | Recovery parent, not earliest control. | INFERENCE.
+S048 | Group 1 Real-World Method Lenses | 5 Whys | L914 | JUDGE when simple cause is suspect | Use only when the issue needs cause depth; do not turn every review into a cause hunt. | Ask successive why questions selectively. | Shallow cause story. | Likely deeper cause. | JUDGE | optional special lens | Why chain. | Diagnosis. | Superficial repair. | Linear oversimplification. | S047 | none | A073 | S013 | no | Explicitly selective. | EVIDENCE.
+S049 | Group 1 Real-World Method Lenses | Lessons-learned register | L929 | CONTINUE | Feedback becomes future guardrail only after review. | Save reviewed learning for reuse. | Repeating avoidable mistakes. | Durable lesson. | CONTINUE | recovery method | Reviewed lesson entry. | Institutional memory. | Recurrence. | Graveyard of unread lessons. | S073 | A068,A104 | A088 | S082 | maybe | Supports memory, not primary boundary. | INFERENCE.
+S050 | Group 1 Real-World Method Lenses | OODA loop | L945 | Whole-system recursion | Continue means return to orientation, not drift into the next shiny item. | Observe, orient, decide, act, then loop. | Drift after action. | Next correct orientation. | CONTINUE | parent method | Loop trace. | Adaptive control. | Repeating blind action. | Hyper-iteration. | S001 | S064,S073 | A071 | S082 | maybe | Broad parent, but not enough alone for custody or authority. | INFERENCE.
+S051 | Group 1 Real-World Method Lenses | Human cognitive control | L963 | Whole architecture as distributed coordination | No part decides everything. Parts coordinate through gates. | Minds and stations should coordinate, not centralize all judgment. | Master-brain collapse. | Distributed control needs. | MULTI-STATION | parent method | Coordination design. | System resilience. | Hidden bottleneck. | Over-engineering simple work. | S024 | S066,S068 | A051 | S016 | yes | It is an architectural parent of separated roles and gates. | INFERENCE.
+S052 | Group 2 Corrected Station Order | AUTHORITY | L985 | UNKNOWN from source heading only | UNKNOWN from source heading only | Establish who or what may decide. | Hidden bosses. | Legitimate command boundary. | AUTHORITY | master seat candidate | Authority declaration. | Control boundary. | Command bleed. | Over-centralization. | S075 | S066,S030,S041 | S016 | S001 | yes | First station and dependency for safe downstream work. | INFERENCE from heading plus surrounding source.
+S053 | Group 2 Corrected Station Order | ACTIVE BALL | L1008 | UNKNOWN from source heading only | UNKNOWN from source heading only | Name the one active object of work. | Too many live threads. | Current scope. | ACTIVE BALL | station support method | Current-ball record. | Focus. | Scatter. | Artificial narrowing. | S076 | S026 | A102 | S001 | maybe | Critical to focus, not ultimate authority. | INFERENCE.
+S054 | Group 2 Corrected Station Order | FREEZE | L1031 | UNKNOWN from source heading only | UNKNOWN from source heading only | Stop alteration before examination. | Evidence contamination. | Before-state. | FREEZE | master seat candidate | Freeze trigger. | Source integrity. | Disturbed proof. | Stall. | S069 | S002,S004,S025 | A019 | S003 | yes | Early boundary needed before many safe actions. | INFERENCE.
+S055 | Group 2 Corrected Station Order | CAPTURE / COLLECT | L1054 | UNKNOWN from source heading only | UNKNOWN from source heading only | Gather bounded evidence. | Unsupported judgment. | Relevant source material. | CAPTURE / COLLECT | station support method | Capture manifest. | Evidence completeness. | Missing proof. | Hoovering clutter. | S077 | S003,S004,S027,S031,S040 | A045 | S056 | maybe | Necessary child station. | INFERENCE.
+S056 | Group 2 Corrected Station Order | INVENTORY | L1077 | UNKNOWN from source heading only | UNKNOWN from source heading only | Record what was captured. | Anonymous material. | Stable item identities. | INVENTORY | station support method | Inventory list. | Findability. | Lost items. | Over-cataloging. | S078 | S006,S035 | A080 | S057 | maybe | Necessary structure before sorting. | INFERENCE.
+S057 | Group 2 Corrected Station Order | SORT | L1100 | UNKNOWN from source heading only | UNKNOWN from source heading only | Group by relevant traits before verdict. | Mixed piles. | Lanes and relationships. | SORT | station support method | Sorting basis. | Placement clarity. | Misplaced evidence. | Taxonomy sprawl. | S079 | S036,S037,S039 | A080,A081 | S058 | maybe | Structural child. | INFERENCE.
+S058 | Group 2 Corrected Station Order | JUDGE | L1123 | UNKNOWN from source heading only | UNKNOWN from source heading only | Evaluate without yet acting. | Premature action. | Value, fit, risk, admissibility. | JUDGE | master seat candidate | Judgment criteria. | Verdict integrity. | Vibe decisions. | Endless deliberation. | S080 | S008,S013,S020,S032,S042 | A041,A071 | S059 | yes | It is a distinct verdict gate before placement and action. | INFERENCE.
+S059 | Group 2 Corrected Station Order | PLACE / FILE | L1146 | UNKNOWN from source heading only | UNKNOWN from source heading only | Put items where they belong without promoting by location. | Misplacement. | Proper lane. | PLACE / FILE | station support method | Placement rule. | Order. | Wrong homes. | Filing obsession. | S033 | S035,S037,S038 | A080,A082 | S060 | maybe | Placement is vital but downstream. | INFERENCE.
+S060 | Group 2 Corrected Station Order | SAVE | L1169 | UNKNOWN from source heading only | UNKNOWN from source heading only | Persist the result. | Ephemeral work. | Durable state. | SAVE | station support method | Save record. | Retention. | Lost work. | Saving noise. | S081 | S007,S029,S034,S044 | A084 | S061 | maybe | Necessary state boundary. | INFERENCE.
+S061 | Group 2 Corrected Station Order | SEAL | L1192 | UNKNOWN from source heading only | UNKNOWN from source heading only | Make the saved state reviewable and tamper-evident. | Mutable ambiguity. | Stable proof package. | SEAL | evidence method | Hash, receipt, or immutable marker. | Integrity. | Later dispute. | Over-sealing drafts. | S065 | S010,S029,S044 | A084 | S062 | yes | Makes proof visible and harder to fake. | INFERENCE.
+S062 | Group 2 Corrected Station Order | REVIEW / HANDOFF | L1215 | UNKNOWN from source heading only | UNKNOWN from source heading only | Recheck and pass forward cleanly. | Lone blind spots and weak transition. | Review readiness. | REVIEW / HANDOFF | authority method | Review note or handoff record. | Continuity. | Silent errors. | Review loops. | S011 | A034,A035,A050 | A087 | S063 | maybe | Crucial bridge but derivative. | INFERENCE.
+S063 | Group 2 Corrected Station Order | PROMOTE / PARK / BLOCK | L1238 | UNKNOWN from source heading only | UNKNOWN from source heading only | Resolve the verdict into an allowed state. | No action path. | Active, parked, or blocked fate. | PROMOTE / PARK / BLOCK | master seat candidate | Decision record. | Boundary clarity. | Dirty activation or orphaned items. | Binary rigidity. | S082 | S031,S045,S046 | A077,A088 | S064 | yes | It is the verdict-to-action gate. | INFERENCE.
+S064 | Group 2 Corrected Station Order | CONTINUE | L1261 | UNKNOWN from source heading only | UNKNOWN from source heading only | Return to the next bounded cycle. | Stagnation or drift. | Next clean step. | CONTINUE | parent method | Next-action note. | Forward motion. | Abandoned loops. | Motion without reflection. | S050 | S049,S073 | A068,A092 | S001 | maybe | Important loop closure. | INFERENCE.
+S065 | Group 3 Core Preservation / Control Concepts | Proof custody | L1336 | UNKNOWN from source heading only | UNKNOWN from source heading only | Keep evidence traceable and intact. | Weak provenance. | Custody state. | CAPTURE / SAVE / SEAL | master seat candidate | Custody chain. | Evidence integrity. | False proof. | Friction. | S003 | S007,S010,S029,S061 | A084 | S032 | yes | Foundational to truth-finding. | INFERENCE.
+S066 | Group 3 Core Preservation / Control Concepts | Authority separation | L1339 | UNKNOWN from source heading only | UNKNOWN from source heading only | Keep roles from silently becoming bosses. | Command bleed. | Who may decide what. | AUTHORITY | master seat candidate | Role matrix. | Legitimate control. | Hidden promotion. | Excessive handoff. | S052 | S030,S046 | A087,A093 | S063 | yes | Dependency for safe action boundaries. | INFERENCE.
+S067 | Group 3 Core Preservation / Control Concepts | Role separation | L1342 | UNKNOWN from source heading only | UNKNOWN from source heading only | Separate observation, judgment, action, and review roles. | State collapse. | Distinct responsibilities. | AUTHORITY / REVIEW | authority method | Role definitions. | Clean flow. | Confused accountability. | Fragmentation. | S066 | S007,S011,S030 | A087 | S062 | maybe | Strong child of authority separation. | INFERENCE.
+S068 | Group 3 Core Preservation / Control Concepts | Context preservation | L1345 | UNKNOWN from source heading only | UNKNOWN from source heading only | Keep surrounding meaning attached. | Orphan evidence. | Why an item matters. | PLACE / SAVE | master seat candidate | Provenance and link context. | Interpretability. | Misread artifacts. | Over-annotation. | S065 | S038,S039 | A083,A084 | S037 | yes | Protects meaning, not just bytes. | INFERENCE.
+S069 | Group 3 Core Preservation / Control Concepts | Stop-line authority | L1348 | UNKNOWN from source heading only | UNKNOWN from source heading only | Halt when conditions are unsafe. | Continued damage. | Break conditions. | FREEZE / BLOCK | master seat candidate | Stop criteria. | Safety. | Cascading failure. | False alarms. | S054 | S017,S023,S025 | A057 | S063 | yes | Directly blocks serious known failure modes. | INFERENCE.
+S070 | Group 3 Core Preservation / Control Concepts | Optional triage | L1351 | UNKNOWN from source heading only | UNKNOWN from source heading only | Prioritize when risk warrants, without making triage sovereign. | Emergency sprawl. | Urgency. | JUDGE | optional special lens | Triage rule. | Route clarity. | Buried urgent items. | Permanent crisis mode. | S014 | S005 | A057 | S058 | no | Explicitly optional. | INFERENCE.
+S071 | Group 3 Core Preservation / Control Concepts | No identity promotion | L1354 | UNKNOWN from source heading only | UNKNOWN from source heading only | Identity or location does not equal authority. | Promotion by label or proximity. | False active truth. | AUTHORITY / PROMOTE | master seat candidate | Promotion proof. | Truth boundary. | Dirty activation. | Suspicion of harmless context. | S041 | S031,S035,S045 | A041 | S066 | yes | Directly protects active truth. | INFERENCE.
+S072 | Group 3 Core Preservation / Control Concepts | No hidden deletion | L1357 | UNKNOWN from source heading only | UNKNOWN from source heading only | Deletion must be explicit, never incidental. | Silent loss. | Deletion attempt. | BLOCK | master seat candidate | Deletion gate. | Evidence survival. | Irrecoverable loss. | Keeping junk forever. | S034 | A085,A095 | S033 | S069 | yes | Known high-damage failure mode. | INFERENCE.
+S073 | Group 3 Core Preservation / Control Concepts | Feedback loop | L1360 | UNKNOWN from source heading only | UNKNOWN from source heading only | Reviewed outcomes feed the next cycle. | No learning. | Pattern change. | CONTINUE | parent method | Reviewed feedback. | Adaptation. | Repeated mistakes. | Churn. | S050 | S028,S049 | A068,A089 | S064 | maybe | Important parent, not earliest dependency. | INFERENCE.
+S074 | Group 3 Core Preservation / Control Concepts | Bloat control | L1363 | UNKNOWN from source heading only | UNKNOWN from source heading only | Control structure without rule accretion. | Ceremony creep. | Over-control. | MULTI-STATION | master seat candidate | Burden test. | Simplicity. | Tool becomes bureaucracy. | Under-control if fetishized. | S082 | S017,S027,S040 | A077 | S064 | yes | Prevents known failure mode of the project itself. | INFERENCE.
+S075 | Group 4 Minimum Operating Anchors | One authority boundary | L1397 | UNKNOWN from source heading only | UNKNOWN from source heading only | There must be at least one explicit authority edge. | No control root. | Legitimate decision edge. | AUTHORITY | master seat candidate | Boundary statement. | Command integrity. | Hidden bosses. | Too-rigid sovereignty. | S052 | S066,S041 | A087 | S001 | yes | Earliest dependency candidate. | INFERENCE.
+S076 | Group 4 Minimum Operating Anchors | One active ball | L1400 | UNKNOWN from source heading only | UNKNOWN from source heading only | Keep one bounded active object. | Scatter. | Current focus. | ACTIVE BALL | station support method | Ball record. | Attention. | Flow loss. | Queue starvation. | S053 | S026 | A102 | S001 | maybe | Supports execution, not root authority. | INFERENCE.
+S077 | Group 4 Minimum Operating Anchors | One corrected station order | L1403 | UNKNOWN from source heading only | UNKNOWN from source heading only | A minimum route must exist. | Chaotic sequencing. | Allowed flow. | MULTI-STATION | master seat candidate | Route map. | Safe order. | Step inversion. | Rigidity. | S015 | S052-S064 | A096 | S022 | yes | Defines how work moves. | INFERENCE.
+S078 | Group 4 Minimum Operating Anchors | One evidence rule | L1406 | UNKNOWN from source heading only | UNKNOWN from source heading only | At least one rule must distinguish proof from claim. | Vibe truth. | Evidence floor. | JUDGE | master seat candidate | Evidence criterion. | Verdict integrity. | False proof. | Dogmatism. | S032 | S003,S010,S029,S065 | A041 | S058 | yes | Needed before reliable judgment. | INFERENCE.
+S079 | Group 4 Minimum Operating Anchors | One inhibition rule | L1409 | UNKNOWN from source heading only | UNKNOWN from source heading only | At least one rule must stop unsafe action. | Unbounded acting. | Brake condition. | BLOCK | master seat candidate | Inhibition trigger. | Safety. | Cascading harm. | Overblocking. | S069 | S023,S025,S043 | A057 | S063 | yes | Prevents serious damage. | INFERENCE.
+S080 | Group 4 Minimum Operating Anchors | One action rule | L1412 | UNKNOWN from source heading only | UNKNOWN from source heading only | At least one rule governs what may happen after judgment. | Judgment-action blur. | Allowed next move. | PROMOTE / PARK / BLOCK | master seat candidate | Action criterion. | Boundary clarity. | Unauthorized action. | Decision drag. | S063 | S045,S046 | A077 | S058 | yes | Needed to resolve verdicts safely. | INFERENCE.
+S081 | Group 4 Minimum Operating Anchors | One memory rule | L1415 | UNKNOWN from source heading only | UNKNOWN from source heading only | Preserve enough state to recover and learn. | Amnesia. | Durable memory. | SAVE / SEAL | master seat candidate | Memory record. | Recovery. | Repeated rediscovery. | Hoarding. | S065 | S007,S029,S044 | A084,A088 | S073 | yes | Required for continuity and recovery. | INFERENCE.
+S082 | Group 4 Minimum Operating Anchors | One feedback rule | L1418 | UNKNOWN from source heading only | UNKNOWN from source heading only | Reviewed results must alter future handling. | Static process. | Learning loop. | CONTINUE | parent method | Feedback rule. | Adaptation. | Repeated mistakes. | Endless tweaking. | S073 | S049 | A068,A089 | S064 | maybe | Strong parent, downstream in dependency order. | INFERENCE.
+S083 | Group 5 Small Front-Door Pieces | A tiny front-door launcher | L1451 | UNKNOWN from source heading only | UNKNOWN from source heading only | Give users a simple way in. | System intimidation. | First action. | PUBLIC / FRONT DOOR | public/front-door method | Launcher test. | Adoption. | Users bounce. | Oversimplification. | none | S084-S088 | A097 | S074 | no | Public-facing aid, not doctrine core. | INFERENCE.
+S084 | Group 5 Small Front-Door Pieces | A one-file memory/update pack | L1454 | UNKNOWN from source heading only | UNKNOWN from source heading only | Compress the minimum state into a portable pack. | Startup friction. | Current memory. | PUBLIC / FRONT DOOR | public/front-door method | Pack content test. | Continuity. | Missing context. | Single-file overloading. | S081 | S085 | A104 | S068 | maybe | Front-door plus memory bridge. | INFERENCE.
+S085 | Group 5 Small Front-Door Pieces | A current-ball surface | L1457 | UNKNOWN from source heading only | UNKNOWN from source heading only | Show the current focus plainly. | Lost thread. | Active ball. | PUBLIC / FRONT DOOR | public/front-door method | Surface example. | Focus. | Drift. | Dashboard bloat. | S076 | S026 | A103 | S053 | no | User aid. | INFERENCE.
+S086 | Group 5 Small Front-Door Pieces | A station checklist | L1460 | UNKNOWN from source heading only | UNKNOWN from source heading only | Show the route in usable steps. | Route opacity. | Current step. | PUBLIC / FRONT DOOR | public/front-door method | Checklist test. | Comprehension. | Missed steps. | Ritualism. | S077 | S017 | A048 | S015 | no | Public support. | INFERENCE.
+S087 | Group 5 Small Front-Door Pieces | A proof row template | L1464 | UNKNOWN from source heading only | UNKNOWN from source heading only | Standardize evidence capture. | Inconsistent receipts. | Minimum proof fields. | PUBLIC / FRONT DOOR | public/front-door method | Template example. | Evidence quality. | Missing proof details. | Template worship. | S078 | S003,S029 | A104 | S065 | maybe | Public-facing child of evidence rule. | INFERENCE.
+S088 | Group 5 Small Front-Door Pieces | A blocked-action line | L1467 | UNKNOWN from source heading only | UNKNOWN from source heading only | State what may not happen. | Unsafe ambiguity. | Prohibited move. | PUBLIC / FRONT DOOR | public/front-door method | Blocked-action statement. | Safety. | Silent overreach. | Fearful inactivity. | S079 | S043 | A057 | S069 | maybe | Public-facing child of inhibition. | INFERENCE.
+
+============================================================
+SECTION 3 - OUTSIDE METHOD EXPANSION
+
+ADDED METHOD POLICY
+INFERENCE:
+- Added only when the method materially helps truth-finding, diagnosis, debugging, preservation, repair, recovery, decision-making, risk control, authority control, or safe action.
+- Near-duplicates were allowed when they answer a distinct operational question.
+- Added methods do not become doctrine by inclusion.
+
+FIELD ORDER FOR EVERY ROW
+ID | Source group | Source heading | Source line reference if available | Clean Seed use from source | Rule extracted from source | Plain meaning | Problem it helps solve | What it helps find | Likely station | Candidate role | Evidence needed | What it protects | Risk if missing | Risk if overused | Possible parent | Possible children | Possible cousins | Possible bridge links | Master-seat candidate? | Reason | Notes
+
+A001 | Software / systems debugging | Rubber-duck debugging | n/a | n/a | n/a | Explain the problem aloud to expose hidden assumptions. | Mental stuckness. | Missing step or contradiction. | JUDGE | optional special lens | Problem statement before/after. | Reasoning clarity. | Needless escalation. | Mistaking narration for proof. | S008 | none | A072 | A086 | no | Helpful local lens, not system control. | INFERENCE.
+A002 | Software / systems debugging | Binary search debugging | n/a | n/a | n/a | Repeatedly halve the search space. | Large ambiguous fault region. | Fault boundary. | JUDGE | child method | Known good/bad bounds. | Efficient diagnosis. | Slow wandering. | Bad if system is not monotonic. | A020 | A004 | A003 | S013 | no | Child debugging tactic. | INFERENCE.
+A003 | Software / systems debugging | Delta debugging | n/a | n/a | n/a | Minimize the change set that reproduces failure. | Many simultaneous changes. | Minimal failure-inducing difference. | JUDGE | child method | Repro case and change subsets. | Repair precision. | Guess repairs. | Expensive combinatorics. | A020 | none | A002 | A007 | no | Child of comparison. | INFERENCE.
+A004 | Software / systems debugging | Git bisect | n/a | n/a | n/a | Search version history for the first bad change. | Unknown regression origin. | First bad commit. | JUDGE | child method | Version history plus test oracle. | Repair targeting. | Random rollback. | False result if test is flaky. | A002 | none | S044 | A007 | no | Specialized child. | INFERENCE.
+A005 | Software / systems debugging | Unit testing | n/a | n/a | n/a | Test a small unit in isolation. | Local correctness uncertainty. | Function-level defect. | SEAL / REVIEW | evidence method | Test case and expected result. | Component reliability. | Hidden bugs. | Testing fragments while system still fails. | S010 | A006,A007 | A008 | S061 | no | Evidence child. | INFERENCE.
+A006 | Software / systems debugging | Integration testing | n/a | n/a | n/a | Test components together. | Interface failures. | Contract break. | REVIEW | evidence method | Integration scenario. | System behavior. | Green units, broken system. | Test matrix explosion. | S010 | none | A005 | S062 | maybe | Broad evidence value. | INFERENCE.
+A007 | Software / systems debugging | Regression testing | n/a | n/a | n/a | Re-test known behavior after change. | Repairs breaking old behavior. | Reintroduced defect. | REVIEW | evidence method | Baseline suite. | Stability. | Old failures return. | Slow release if unbounded. | S010 | none | A005,A006 | S045 | yes | Protects promotion from known regressions. | INFERENCE.
+A008 | Software / systems debugging | Smoke testing | n/a | n/a | n/a | Run a quick coarse check that the system basically works. | Shipping obviously broken states. | Gross failure. | REVIEW | child method | Small smoke suite. | Minimum operability. | Wasted deep review on dead build. | False reassurance. | A007 | none | A005 | S074 | no | Useful fast lens. | INFERENCE.
+A009 | Software / systems debugging | Canary release | n/a | n/a | n/a | Expose change to a small slice before full release. | Unknown field risk. | Early deployment failure. | PROMOTE | risk method | Canary metrics. | Rollout safety. | Full-blast defect. | Misreading tiny sample. | S045 | none | A079 | S020 | maybe | Strong release child. | INFERENCE.
+A010 | Software / systems debugging | Feature flags | n/a | n/a | n/a | Decouple deployment from activation. | Need to ship but not expose yet. | Safer control point. | PROMOTE / BLOCK | recovery method | Flag state record. | Reversibility. | Hard rollback. | Flag debt. | S045 | none | S043 | A077 | maybe | Good recovery bridge. | INFERENCE.
+A011 | Software / systems debugging | Observability | n/a | n/a | n/a | Instrument the system so internal state becomes visible. | Black-box failures. | What the system is doing. | CONTINUE / REVIEW | evidence method | Logs, metrics, traces. | Diagnosis. | Blind operation. | Data overload. | S029 | A012,A013 | A028 | S073 | yes | Enables repeatable inspection of live behavior. | INFERENCE.
+A012 | Software / systems debugging | Log correlation | n/a | n/a | n/a | Join events across sources by time, ID, or trace. | Fragmented logs. | Related event chain. | JUDGE | evidence method | Correlation key. | Cause tracing. | Misattribution. | False links. | A011 | none | A013 | S038 | no | Child evidence method. | INFERENCE.
+A013 | Software / systems debugging | Distributed tracing | n/a | n/a | n/a | Follow one request across services. | Cross-service opacity. | Path of one transaction. | JUDGE | evidence method | Trace IDs and spans. | System diagnosis. | Lost blame chain. | Tracing cost. | A011 | none | A012 | S038 | no | Child evidence method. | INFERENCE.
+A014 | Software / systems debugging | Postmortem analysis | n/a | n/a | n/a | Review an incident after stabilization to learn. | Repeated failures. | Causes, contributing factors, lessons. | REVIEW / CONTINUE | recovery method | Incident timeline. | Learning. | Recurrence. | Blame theater. | S047 | A068 | S049 | S073 | maybe | Strong recovery bridge. | INFERENCE.
+A015 | Software / systems debugging | Fault injection | n/a | n/a | n/a | Deliberately trigger known faults to test resilience. | Untested failure handling. | Weak recovery paths. | JUDGE / REVIEW | risk method | Controlled experiment. | Resilience. | Fragile design. | Breaking live systems. | S042 | A016 | A057 | S020 | no | Useful lens, not first principle. | INFERENCE.
+A016 | Software / systems debugging | Chaos engineering | n/a | n/a | n/a | Repeatedly test resilience under controlled disturbance. | Unknown systemic fragility. | Emergent failure. | REVIEW | risk method | Blast-radius control and experiments. | Reliability. | Surprise collapse. | Recklessness if uncontrolled. | A015 | none | A064 | S069 | no | Optional special lens in mature systems. | INFERENCE.
+A017 | Software / systems debugging | Runbooks | n/a | n/a | n/a | Pre-write the safe response path. | Panic improvisation. | Known action sequence. | REVIEW / HANDOFF | station support method | Validated runbook. | Consistency. | Harmful improvisation. | Stale docs. | S015 | none | S017 | A068 | maybe | Operational support. | INFERENCE.
+A018 | Software / systems debugging | Rollback drills | n/a | n/a | n/a | Practice returning to a safe prior state. | Rollback exists only on paper. | Recovery readiness. | REVIEW / CONTINUE | recovery method | Drill result. | Reversibility. | Failed recovery. | Excessive rollback bias. | S044 | none | A019 | S073 | maybe | Strong recovery child. | INFERENCE.
+A019 | Software / systems debugging | Last-known-good checkpoint | n/a | n/a | n/a | Mark a verified safe state before risky change. | No stable recovery anchor. | Rollback target. | FREEZE / SAVE / SEAL | master seat candidate | Verified checkpoint. | Recovery and evidence. | No clean return path. | Clinging to old states. | S081 | A018 | A020 | S054 | yes | Many later actions are safer only after a checkpoint exists. | INFERENCE.
+A020 | Software / systems debugging | Known-good versus known-bad comparison | n/a | n/a | n/a | Compare a working case with a failing one. | No discriminating contrast. | Difference likely tied to failure. | JUDGE | evidence method | Matched examples. | Causal clarity. | Guessing. | Over-trusting shallow diffs. | S009 | A002,A003 | A021 | S013 | maybe | Strong diagnostic parent. | INFERENCE.
+A021 | Science / research | Hypothesis testing | n/a | n/a | n/a | Test a proposed explanation against data. | Unfalsified stories. | Support or rejection of claim. | JUDGE | evidence method | Hypothesis, test, criterion. | Truth quality. | Belief by anecdote. | P-value ritualism. | S008 | none | A071 | S058 | maybe | Strong evidence child. | INFERENCE.
+A022 | Science / research | Literature review | n/a | n/a | n/a | Survey prior work before claiming novelty. | Reinventing settled lessons. | Existing knowledge. | CAPTURE / REVIEW | evidence method | Search trail. | Context. | Blind spots. | Citation collecting without synthesis. | A023 | none | A044 | S068 | no | Helpful intake lens. | INFERENCE.
+A023 | Science / research | Systematic review | n/a | n/a | n/a | Review prior studies using explicit criteria. | Cherry-picked references. | Body-of-evidence shape. | REVIEW | evidence method | Protocol and inclusion criteria. | Evidence fairness. | Selective support. | Slow formalism. | A022 | A024 | A042 | S032 | maybe | Strong evidence method. | INFERENCE.
+A024 | Science / research | Meta-analysis | n/a | n/a | n/a | Combine comparable studies quantitatively. | Conflicting small studies. | Aggregate effect. | REVIEW | evidence method | Compatible studies and model. | Estimate stability. | Overweighting noise. | False pooling. | A023 | none | A032 | S010 | no | Specialized lens. | INFERENCE.
+A025 | Science / research | Design of experiments | n/a | n/a | n/a | Vary factors systematically to learn efficiently. | Confounded trial-and-error. | Factor effects and interactions. | JUDGE | parent method | Factor plan. | Causal learning. | Wasted experiments. | Too much design before need. | S008 | A026 | A032 | S020 | maybe | Strong discovery parent. | INFERENCE.
+A026 | Science / research | A/B testing | n/a | n/a | n/a | Compare two variants under controlled exposure. | Product decisions by intuition. | Which variant performs better. | JUDGE | evidence method | Randomized comparison. | Decision quality. | Cosmetic opinions. | Local optimization. | A025 | none | A009 | S009 | no | Useful child. | INFERENCE.
+A027 | Science / research | Measurement-system analysis | n/a | n/a | n/a | Check whether the measuring process is trustworthy. | Bad instruments produce bad proof. | Measurement error. | REVIEW | evidence method | Repeatability/reproducibility study. | Evidence validity. | False conclusions. | Analysis overhead. | A028 | none | A029 | S032 | yes | Proof is unsafe if the measuring system lies. | INFERENCE.
+A028 | Science / research | Calibration | n/a | n/a | n/a | Align an instrument to a standard. | Drifted measurement. | Bias in instrument. | SAVE / REVIEW | evidence method | Calibration record. | Accuracy. | Wrong measurements. | Blind ritual without purpose. | A027 | none | A029 | S010 | maybe | Important child of measurement validity. | INFERENCE.
+A029 | Science / research | Instrument validation | n/a | n/a | n/a | Show a tool measures what it claims. | Misleading tools. | Tool fitness. | REVIEW | evidence method | Validation study. | Proof quality. | Invalid evidence. | Blocking novel tools indefinitely. | A027 | none | A028 | S032 | yes | Needed before trusting tool-produced proof. | INFERENCE.
+A030 | Science / research | Anomaly detection | n/a | n/a | n/a | Flag patterns that deviate from expected behavior. | Silent drift. | Unusual case. | CONTINUE | evidence method | Baseline and threshold. | Early warning. | Missed change. | Alert fatigue. | S028 | A031 | A062 | S073 | maybe | Valuable drift child. | INFERENCE.
+A031 | Science / research | Outlier review | n/a | n/a | n/a | Investigate unusual points before discarding them. | Real signals thrown away. | Error versus meaningful anomaly. | JUDGE | evidence method | Outlier explanation. | Truthfulness. | Lost discovery. | Obsessing over noise. | A030 | none | A032 | S058 | no | Child lens. | INFERENCE.
+A032 | Science / research | Sensitivity analysis | n/a | n/a | n/a | Test whether conclusions survive changed assumptions. | Brittle verdicts. | Robustness. | REVIEW | evidence method | Assumption variants. | Decision resilience. | False certainty. | Paralysis through endless scenarios. | A025 | none | A073 | A090 | maybe | Strong bridge from evidence to decision. | INFERENCE.
+A033 | Medicine / diagnosis | SOAP notes | n/a | n/a | n/a | Separate subjective, objective, assessment, and plan. | Mixed clinical notes. | Clean note states. | SAVE / REVIEW | station support method | Structured note. | Role separation. | Confused handoff. | Template rigidity. | S067 | none | S007 | A034 | no | Useful format child. | INFERENCE.
+A034 | Medicine / diagnosis | SBAR handoff | n/a | n/a | n/a | Transfer situation, background, assessment, recommendation. | Bad handoff. | Minimum shared context. | REVIEW / HANDOFF | bridge method | SBAR record. | Continuity. | Lost critical context. | Formula without thought. | S062 | none | A033 | S068 | maybe | Strong handoff bridge. | INFERENCE.
+A035 | Medicine / diagnosis | Morbidity and mortality review | n/a | n/a | n/a | Review serious outcomes to improve systems. | Repeated serious failure. | System contributors. | REVIEW / CONTINUE | recovery method | Case review. | Learning. | Recurrence. | Blame culture. | A014 | none | S049 | S073 | no | Specialized recovery lens. | INFERENCE.
+A036 | Medicine / diagnosis | Case conference | n/a | n/a | n/a | Bring multiple experts onto a difficult case. | Single-perspective diagnosis. | Competing interpretations. | REVIEW | optional special lens | Case summary and participants. | Judgment quality. | Missed expertise. | Committee drag. | S011 | none | A035 | S013 | no | Useful only on hard cases. | INFERENCE.
+A037 | Medicine / diagnosis | Medication reconciliation | n/a | n/a | n/a | Reconcile current and intended states before change. | State mismatch. | Conflicts and omissions. | INVENTORY / REVIEW | evidence method | Current list and intended list. | Safety. | Harmful inconsistency. | Excessive paperwork. | S009 | none | A020 | S056 | maybe | Good metaphor for config/state review. | INFERENCE.
+A038 | Medicine / diagnosis | Care plan | n/a | n/a | n/a | Translate diagnosis into coordinated next actions. | Good judgment with no execution plan. | Responsible action path. | PROMOTE / CONTINUE | station support method | Plan with owner and follow-up. | Continuity. | Drift. | Plan sprawl. | S063 | none | A017 | S064 | no | Downstream support. | INFERENCE.
+A039 | Medicine / diagnosis | Symptom timeline | n/a | n/a | n/a | Put observed events in order before diagnosing. | Cause confusion. | Sequence. | CAPTURE / JUDGE | evidence method | Timeline. | Diagnostic clarity. | Wrong causal story. | Mistaking chronology for cause. | S039 | none | A012 | S068 | maybe | Strong evidence bridge. | INFERENCE.
+A040 | Medicine / diagnosis | Differential elimination | n/a | n/a | n/a | Remove candidate causes as evidence rules them out. | Endless possibility list. | Surviving causes. | JUDGE | child method | Candidate list and discriminators. | Accurate diagnosis. | Premature conclusion. | Over-pruning. | S013 | none | A072 | A020 | no | Child of differential diagnosis. | INFERENCE.
+A041 | Law / investigation | Burden of proof | n/a | n/a | n/a | Decide who must prove what before acting. | Claims with hidden obligation. | Proof threshold. | AUTHORITY / JUDGE | master seat candidate | Burden statement. | Verdict fairness. | Unsupported action. | Impossible proof demands. | S078 | S032 | A042 | S058 | yes | It defines evidence duty before judgment. | INFERENCE.
+A042 | Law / investigation | Rules of evidence | n/a | n/a | n/a | Define what may support a verdict. | Dirty proof. | Admissible material. | JUDGE / REVIEW | evidence method | Evidence rule set. | Verdict integrity. | False proof. | Excluding useful exploratory signals. | S032 | none | A041 | S078 | yes | Strong parent to admissibility. | INFERENCE.
+A043 | Law / investigation | Cross-examination | n/a | n/a | n/a | Stress-test testimony by questioning it. | Unchallenged account. | Contradiction or weakness. | REVIEW | optional special lens | Question trail. | Claim robustness. | Gullibility. | Hostility. | S012 | none | A046 | S011 | no | Useful adversarial lens. | INFERENCE.
+A044 | Law / investigation | Citation trail review | n/a | n/a | n/a | Follow claims back to primary sources. | Citation laundering. | Original support. | CAPTURE / REVIEW | evidence method | Citation chain. | Source truth. | Repeated hearsay. | Deep chase bloat. | A022 | none | A045 | S068 | yes | Protects against borrowed authority. | INFERENCE.
+A045 | Law / investigation | Source triangulation | n/a | n/a | n/a | Compare independent sources. | Single-source fragility. | Convergent truth. | REVIEW | evidence method | Independent sources. | Confidence. | False confidence from one source. | Assuming many copies are independent. | S010 | none | A044 | S032 | yes | Improves proof against fabrication and error. | INFERENCE.
+A046 | Law / investigation | Witness credibility review | n/a | n/a | n/a | Evaluate reliability, incentive, and consistency of a source. | Treating all testimony alike. | Source reliability. | JUDGE | evidence method | Credibility factors. | Evidence quality. | Bad actor trusted. | Cynicism. | A045 | none | A043 | S032 | no | Child evidence lens. | INFERENCE.
+A047 | Law / investigation | Legal chain of title | n/a | n/a | n/a | Trace legitimate ownership or authority through transfers. | False ownership. | Valid title lineage. | AUTHORITY / REVIEW | authority method | Transfer chain. | Legitimate control. | Unauthorized claim. | Legalism where simple custody suffices. | S003 | none | A084 | S066 | maybe | Useful authority cousin to custody. | INFERENCE.
+A048 | Aviation / safety | Challenge-response checklist | n/a | n/a | n/a | One person calls, another confirms. | Silent missed step. | Shared transition readiness. | REVIEW / HANDOFF | risk method | Recorded call/response. | High-risk moves. | Omission. | Ceremony. | S017 | none | A049 | A050 | no | Child checklist method. | INFERENCE.
+A049 | Aviation / safety | Readback | n/a | n/a | n/a | Repeat critical instruction back to confirm. | Misheard command. | Shared understanding. | REVIEW / HANDOFF | bridge method | Readback confirmation. | Communication integrity. | Wrong action. | Slow routine chatter. | A050 | none | A048 | S062 | no | Communication child. | INFERENCE.
+A050 | Aviation / safety | Closed-loop communication | n/a | n/a | n/a | Send, acknowledge, complete, confirm. | Lost orders. | Completed handoff. | REVIEW / HANDOFF | bridge method | Loop completion record. | Continuity. | Silent drop. | Formalism. | S062 | A049 | A034 | S063 | maybe | Strong handoff bridge. | INFERENCE.
+A051 | Aviation / safety | Crew resource management | n/a | n/a | n/a | Use the whole team to surface risk and prevent authority traps. | Deference and tunnel vision. | Hidden concern. | REVIEW | authority method | Participation evidence. | Human safety. | Silent error. | Over-discussion. | S051 | none | S016 | A086 | maybe | Important human authority lens. | INFERENCE.
+A052 | Aviation / safety | Swiss cheese model | n/a | n/a | n/a | Harm passes through aligned holes in multiple defenses. | One-villain thinking. | Barrier gaps. | REVIEW | risk method | Barrier map. | System safety. | Repeated latent risk. | Vague storytelling. | A053 | none | S021 | S020 | no | Diagnostic risk lens. | INFERENCE.
+A053 | Aviation / safety | Barrier analysis | n/a | n/a | n/a | Identify what should prevent harm and whether it held. | Invisible control gaps. | Missing or failed barrier. | JUDGE / REVIEW | risk method | Barrier inventory. | Prevention. | Unsafe path. | Checklist explosion. | S023 | none | A052 | S069 | maybe | Good risk parent. | INFERENCE.
+A054 | Aviation / safety | Safety case | n/a | n/a | n/a | Argue that a system is acceptably safe using structured evidence. | Safety claims without proof. | Safety argument. | REVIEW / PROMOTE | evidence method | Claim-argument-evidence package. | Safe release. | Unsupported assurance. | Heavyweight bureaucracy. | S018 | none | A055 | S032 | maybe | Strong promotion evidence child. | INFERENCE.
+A055 | Aviation / safety | Assurance case | n/a | n/a | n/a | Argue that a system property is sufficiently supported by evidence. | Claims not tied to evidence. | Structured confidence. | REVIEW | evidence method | Claim-argument-evidence graph. | Trust. | Hand-wavy confidence. | Document theater. | S018 | none | A054 | S019 | maybe | Broad evidence bridge. | INFERENCE.
+A056 | Aviation / safety | Bow-tie risk analysis | n/a | n/a | n/a | Map threats, top event, consequences, and barriers. | Risk story without structure. | Prevention and mitigation gaps. | JUDGE | risk method | Bow-tie diagram. | Risk clarity. | Blind controls. | Simplistic diagrams. | S020 | none | A053 | S023 | no | Risk child. | INFERENCE.
+A057 | Aviation / safety | Pre-mortem | n/a | n/a | n/a | Imagine failure in advance and ask why it happened. | Optimism bias. | Plausible future failure. | JUDGE / BLOCK | risk method | Failure scenario list. | Prevention. | Preventable surprise. | Doom spirals. | S042 | none | S012 | S069 | maybe | Strong early-risk lens. | INFERENCE.
+A058 | Manufacturing / quality | Poka-yoke | n/a | n/a | n/a | Design so common mistakes are hard to make. | Reliance on vigilance. | Error-proofing opportunity. | PROMOTE / REVIEW | risk method | Error-proof control. | Safe operation. | Repeated slips. | Overconstraint. | S023 | none | A053 | S074 | maybe | Good design child. | INFERENCE.
+A059 | Manufacturing / quality | Kaizen | n/a | n/a | n/a | Improve continuously in small reviewed steps. | Stagnation. | Small improvement. | CONTINUE | parent method | Improvement log. | Adaptation. | Decay. | Endless tinkering. | S073 | none | A068 | S082 | no | Parent for growth, not authority. | INFERENCE.
+A060 | Manufacturing / quality | Value-stream mapping | n/a | n/a | n/a | Map work from input to outcome to see waste and delay. | Invisible flow waste. | Bottleneck. | SORT / REVIEW | bridge method | Flow map. | Throughput. | Slow process. | Lean theater. | S024 | none | A096 | S015 | maybe | Good bridge to station design. | INFERENCE.
+A061 | Manufacturing / quality | Gemba walk | n/a | n/a | n/a | Inspect the work where it actually happens. | Abstract process fantasy. | Real workflow. | CAPTURE / REVIEW | evidence method | Direct observation. | Ground truth. | Detached rules. | Anecdote bias. | S008 | none | A097 | S068 | no | Evidence lens. | INFERENCE.
+A062 | Manufacturing / quality | Control charts | n/a | n/a | n/a | Visualize process variation over time. | Unseen drift. | Special-cause variation. | CONTINUE | evidence method | Charted metric. | Stability. | Late detection. | Chart worship. | S028 | none | A030 | S073 | no | Child evidence method. | INFERENCE.
+A063 | Manufacturing / quality | Pareto analysis | n/a | n/a | n/a | Separate vital few causes from trivial many. | Diluted effort. | Highest-leverage contributors. | JUDGE | child method | Frequency or impact data. | Focus. | Low-value work. | Ignoring rare catastrophic issues. | S027 | none | A089 | S053 | no | Prioritization child. | INFERENCE.
+A064 | Military / strategy | War-gaming | n/a | n/a | n/a | Simulate adversarial interaction before action. | Naive plan. | Opponent response. | JUDGE | optional special lens | Scenario script. | Strategic robustness. | Surprise. | Fantasy planning. | A065 | none | S012 | S042 | no | Useful when adversary matters. | INFERENCE.
+A065 | Military / strategy | Scenario planning | n/a | n/a | n/a | Explore several plausible futures. | Single-future fixation. | Decision sensitivity. | JUDGE / REVIEW | optional special lens | Scenario set. | Preparedness. | Brittle plans. | Speculation bloat. | A032 | A064 | A073 | S074 | no | Optional future lens. | INFERENCE.
+A066 | Military / strategy | Kill-chain analysis | n/a | n/a | n/a | Break an attack or failure sequence into stages. | Blunt defense. | Interruptible stage. | JUDGE / BLOCK | risk method | Stage map. | Prevention. | Missed stop point. | Militarized framing everywhere. | S042 | none | A067 | S023 | no | Risk child. | INFERENCE.
+A067 | Military / strategy | Attack tree analysis | n/a | n/a | n/a | Map ways an attacker could achieve a goal. | Hidden abuse routes. | Attack paths. | JUDGE / BLOCK | risk method | Attack tree. | Threat coverage. | Exploit gap. | Overfitting to known attacks. | S042 | none | S021 | S012 | no | Risk child. | INFERENCE.
+A068 | Military / strategy | After-action review | n/a | n/a | n/a | Compare intended, actual, why, and next time. | Uncaptured learning. | Actionable lesson. | CONTINUE | recovery method | AAR note. | Learning. | Repeat errors. | Ritual without change. | S073 | none | S049 | S082 | maybe | Strong loop child. | INFERENCE.
+A069 | Military / strategy | Commander's intent | n/a | n/a | n/a | State the purpose and desired end state, not every move. | Agents obeying words but missing aim. | Mission logic. | AUTHORITY | authority method | Intent statement. | Coherent adaptation. | Local optimization. | Vague slogans. | S016 | none | A087 | S001 | maybe | Useful authority bridge. | INFERENCE.
+A070 | Military / strategy | Escalation ladder | n/a | n/a | n/a | Define graded responses before crisis. | Ad hoc overreaction. | Proper response tier. | BLOCK / PROMOTE | risk method | Ladder criteria. | Proportional action. | Either underreaction or overreaction. | Bureaucratic delay. | S069 | none | A057 | S063 | maybe | Good child of inhibition. | INFERENCE.
+A071 | Decision science / reasoning | Bayesian updating | n/a | n/a | n/a | Revise belief as evidence arrives. | Static beliefs. | Posterior confidence. | JUDGE / CONTINUE | parent method | Prior, likelihood, update. | Learning. | Ignoring new evidence. | False numerical precision. | S008 | none | A021 | S073 | maybe | Strong reasoning parent. | INFERENCE.
+A072 | Decision science / reasoning | Abductive reasoning | n/a | n/a | n/a | Infer the best available explanation. | Need to explain sparse clues. | Most plausible cause. | JUDGE | optional special lens | Competing explanation set. | Diagnosis. | No working hypothesis. | Confusing plausibility with proof. | S013 | none | A001 | S058 | no | Useful but must stay bounded by evidence. | INFERENCE.
+A073 | Decision science / reasoning | Counterfactual analysis | n/a | n/a | n/a | Ask what would differ if a factor changed. | Weak causal reasoning. | Causal leverage. | JUDGE / REVIEW | evidence method | Counterfactual scenario. | Cause clarity. | Bad repair. | Speculation. | A032 | none | S021 | S047 | no | Helpful child. | INFERENCE.
+A074 | Decision science / reasoning | Decision tree | n/a | n/a | n/a | Lay out choices, outcomes, and branches. | Hidden consequence chain. | Decision path. | JUDGE | bridge method | Branch map. | Transparency. | Ad hoc choice. | Oversimplified branches. | S058 | none | A075 | S063 | maybe | Good bridge from verdict to action. | INFERENCE.
+A075 | Decision science / reasoning | Decision matrix | n/a | n/a | n/a | Compare options against stated criteria. | Vague choice. | Best fit option. | JUDGE | bridge method | Criteria and scoring. | Decision clarity. | Politics by intuition. | False objectivity. | S058 | A076 | A074 | S063 | maybe | Useful bridge, not root control. | INFERENCE.
+A076 | Decision science / reasoning | Weighted scoring | n/a | n/a | n/a | Give criteria relative importance. | All factors treated equal. | Weighted tradeoff. | JUDGE | child method | Weights and ratings. | Decision transparency. | Misprioritized choice. | Gaming scores. | A075 | none | A089 | S074 | no | Child decision aid. | INFERENCE.
+A077 | Decision science / reasoning | Reversibility test | n/a | n/a | n/a | Prefer reversible moves when uncertainty is high. | Irreversible commitment too early. | Door type. | PROMOTE / BLOCK | master seat candidate | Reversibility assessment. | Safe action. | Unrecoverable harm. | Chronic hesitation. | S080 | none | A010,A019 | S069 | yes | Strong action-boundary rule under uncertainty. | INFERENCE.
+A078 | Decision science / reasoning | Minimum viable test | n/a | n/a | n/a | Use the smallest test that answers the question. | Oversized experiments. | Enough evidence. | JUDGE | child method | Minimal test design. | Efficiency. | Slow learning. | Under-testing. | S008 | none | A079 | S074 | no | Useful bloat-resistant child. | INFERENCE.
+A079 | Decision science / reasoning | Pilot program | n/a | n/a | n/a | Try a bounded live version before wide rollout. | Scaling unproven ideas. | Field behavior. | PROMOTE / REVIEW | risk method | Pilot plan and result. | Safe growth. | Broad failure. | Pilot purgatory. | A078 | none | A009 | S045 | maybe | Good growth child. | INFERENCE.
+A080 | Knowledge organization | Taxonomy building | n/a | n/a | n/a | Define categories so things can be consistently placed. | Ad hoc filing. | Stable categories. | SORT / PLACE | bridge method | Taxonomy with examples. | Findability. | Misfiled ideas. | Taxonomy bloat. | S036 | none | S037 | S059 | maybe | Placement bridge. | INFERENCE.
+A081 | Knowledge organization | Concept mapping | n/a | n/a | n/a | Show how ideas relate in a human-readable map. | Hidden conceptual structure. | Relationships. | SORT | bridge method | Concept map. | Understanding. | Lost links. | Pretty diagrams without use. | S037 | none | A082 | S068 | no | Helpful bridge. | INFERENCE.
+A082 | Knowledge organization | Dependency graph | n/a | n/a | n/a | Show what must come before what. | Wrong order. | Precedence. | REVIEW / CONTINUE | bridge method | Dependency graph. | Safe sequencing. | Step inversion. | Graph overengineering. | S077 | none | A096 | S015 | yes | Directly answers master-order problem. | INFERENCE.
+A083 | Knowledge organization | Data lineage | n/a | n/a | n/a | Trace how data changed across steps. | Unknown transformation history. | Origin-to-output path. | SAVE / REVIEW | evidence method | Lineage record. | Provenance. | Untrusted derived data. | Heavy metadata. | S068 | none | A084 | S029 | maybe | Strong evidence child. | INFERENCE.
+A084 | Knowledge organization | Provenance | n/a | n/a | n/a | Record origin, derivation, and custody of an item. | Contextless artifacts. | Where it came from. | CAPTURE / SAVE / SEAL | master seat candidate | Provenance record. | Source truth. | False authority. | Metadata overhead. | S065 | A083 | S003 | S068 | yes | Foundational bridge between custody and context. | INFERENCE.
+A085 | Knowledge organization | Tombstone register | n/a | n/a | n/a | Record that an item existed and what happened to it without erasing memory. | Vanishing history. | Removed-item trace. | SAVE / PARK | evidence method | Tombstone entry. | Historical integrity. | Invisible deletion. | Accumulated dead records. | S034 | none | A095 | S072 | maybe | Useful child of no hidden deletion. | INFERENCE.
+A086 | Human factors / cognition | Cognitive bias checklist | n/a | n/a | n/a | Check for common thinking traps before verdict. | Human blind spots. | Bias pressure. | JUDGE / REVIEW | optional special lens | Checklist use. | Judgment quality. | Preventable error. | Performative self-doubt. | S051 | none | A001 | S058 | no | Optional lens. | INFERENCE.
+A087 | Project / workflow control | RACI matrix | n/a | n/a | n/a | Clarify responsible, accountable, consulted, informed roles. | Role ambiguity. | Ownership. | AUTHORITY / REVIEW | authority method | RACI chart. | Clean handoff. | Hidden gaps. | Bureaucratic sprawl. | S066 | none | A069 | S067 | maybe | Strong role-clarity child. | INFERENCE.
+A088 | Project / workflow control | Decision log | n/a | n/a | n/a | Record what was decided, why, and by whom. | Re-litigated or hidden decisions. | Verdict history. | SAVE / SEAL | evidence method | Decision entry. | Accountability. | Memory drift. | Log without action. | S029 | none | A091 | S063 | yes | Makes verdict flow visible and inspectable. | INFERENCE.
+A089 | Project / workflow control | Risk register | n/a | n/a | n/a | Track known risks, owners, and treatments over time. | Risks vanish after discussion. | Open risk state. | REVIEW / CONTINUE | risk method | Register entries. | Ongoing control. | Repeated surprise. | Register rot. | S020 | none | A063 | S073 | maybe | Strong ongoing child. | INFERENCE.
+A090 | Project / workflow control | Assumption log | n/a | n/a | n/a | Record assumptions so they can be tested or retired. | Hidden premises. | What is only assumed. | JUDGE / REVIEW | evidence method | Assumption entries. | Reasoning clarity. | False certainty. | Logging every trivial premise. | S001 | none | A032 | S058 | maybe | Good bridge from reasoning to review. | INFERENCE.
+A091 | Project / workflow control | Architecture decision record | n/a | n/a | n/a | Capture durable design decisions and rationale. | Lost design memory. | Why structure exists. | SAVE / SEAL | evidence method | ADR entry. | Continuity. | Repeating old debates. | Stale records. | S018 | none | A088 | S019 | maybe | Good evidence child. | INFERENCE.
+A092 | Project / workflow control | Parking lot review | n/a | n/a | n/a | Revisit deferred items deliberately. | Parking becomes forgetting. | Still-relevant parked work. | CONTINUE | station support method | Parking review cadence. | Attention hygiene. | Valuable items rot. | Reviving dead ideas too often. | S064 | none | A089 | S074 | no | Helpful downstream support. | INFERENCE.
+A093 | Project / workflow control | Least privilege | n/a | n/a | n/a | Give only the access needed for the task. | Broad authority blast radius. | Excess permissions. | AUTHORITY / BLOCK | authority method | Permission map. | Boundary safety. | Overreach. | Workflow friction. | S041 | none | A094 | S066 | yes | Strong authority-control primitive. | INFERENCE.
+A094 | Project / workflow control | Access-control review | n/a | n/a | n/a | Recheck who can do what. | Stale permissions. | Unauthorized capability. | REVIEW | authority method | Access review. | Boundary integrity. | Hidden bosses. | Audit fatigue. | A093 | none | S030 | S073 | maybe | Important child. | INFERENCE.
+A095 | Knowledge organization | Retired-item register | n/a | n/a | n/a | Record intentionally retired items and why. | Old items resurface without context. | Retired state. | PARK / SAVE | evidence method | Retirement entry. | Memory and clarity. | Zombie ideas. | Too much paperwork. | S034 | none | A085 | S072 | maybe | Useful child. | INFERENCE.
+A096 | Knowledge organization | Process map | n/a | n/a | n/a | Show the workflow steps and decision points. | Invisible process. | Actual route. | SORT / REVIEW | bridge method | Process diagram. | Shared understanding. | Mis-sequencing. | Diagram drift. | S015 | none | A082 | S077 | maybe | Strong station bridge. | INFERENCE.
+A097 | Human factors / product | User journey mapping | n/a | n/a | n/a | See the system from the user's path. | Builder-centric design. | User friction. | PUBLIC / FRONT DOOR | public/front-door method | Journey map. | Adoption. | Good system, poor entry. | Overfitting to one persona. | S083 | none | A098 | S074 | no | Public support. | INFERENCE.
+A098 | Human factors / product | Service blueprinting | n/a | n/a | n/a | Connect user-facing steps to backstage operations. | Front-door promises disconnected from backend reality. | Handoff gaps. | PUBLIC / FRONT DOOR | bridge method | Blueprint. | Product coherence. | Broken experience. | Over-documentation. | A097 | none | A096 | S083 | no | Helpful bridge to product clarity. | INFERENCE.
+A099 | Human factors / cognition | Fatigue check | n/a | n/a | n/a | Recognize degraded performance under exhaustion. | Human error. | Fatigue risk. | JUDGE / BLOCK | risk method | Fatigue signal. | Safety. | Preventable mistakes. | Overblocking by self-report. | S051 | none | A086 | S069 | no | Situational lens. | INFERENCE.
+A100 | Human factors / cognition | Operator error analysis | n/a | n/a | n/a | Examine how system design invites mistakes. | Blaming people for bad systems. | Error pathway. | REVIEW | risk method | Error analysis. | Better design. | Repeated human failure. | Excusing misconduct. | S051 | none | A058 | S020 | no | Recovery/risk child. | INFERENCE.
+A101 | Human factors / cognition | Training gap analysis | n/a | n/a | n/a | Compare needed skill to actual preparation. | Failures caused by missing skill. | Training deficit. | REVIEW | risk method | Skill matrix. | Safe execution. | Repeated misuse. | Training-as-default explanation. | A100 | none | A087 | S073 | no | Situational child. | INFERENCE.
+A102 | Human factors / cognition | Context-switch cost check | n/a | n/a | n/a | Notice the penalty of too many active threads. | Attention fragmentation. | Cost of switching. | ACTIVE BALL | station support method | WIP evidence. | Focus. | Slowdowns. | Underestimating parallel capacity. | S026 | none | S076 | S074 | no | Supports active-ball discipline. | INFERENCE.
+A103 | Project / workflow control | Issue tracker | n/a | n/a | n/a | Keep open work visible and stateful. | Lost tasks. | Work status. | ACTIVE BALL / CONTINUE | station support method | Issue records. | Continuity. | Dropped work. | Tracker as graveyard. | S053 | none | S085 | S073 | no | Operational support. | INFERENCE.
+A104 | Project / workflow control | Knowledge base article | n/a | n/a | n/a | Turn reviewed learning into reusable guidance. | Lessons stay trapped in one incident. | Transferable guidance. | PUBLIC / CONTINUE | public/front-door method | Reviewed article. | Memory and onboarding. | Repeated confusion. | Premature codification. | S049 | none | S084 | S082 | no | Useful only after review. | INFERENCE.
+
+============================================================
+SECTION 4 - PILE BUILDING
+
+MASTER SEAT CANDIDATES
+IDs and names:
+S001 Intelligence cycle; S003 Chain of custody; S010 Replication and reproducibility; S015 Clinical pathway; S016 Incident command system; S019 Requirements traceability; S023 STPA / control-system safety; S025 Toyota-style jidoka / stop-the-line; S029 Audit trail; S030 Segregation of duties; S031 Legal discovery; S032 Evidence admissibility; S034 Records retention; S037 Ontology / relationship mapping; S041 Zero trust; S043 Quarantine / sandboxing; S045 Release management; S046 Change control; S051 Human cognitive control; S052 AUTHORITY; S054 FREEZE; S058 JUDGE; S061 SEAL; S063 PROMOTE / PARK / BLOCK; S065 Proof custody; S066 Authority separation; S068 Context preservation; S069 Stop-line authority; S071 No identity promotion; S072 No hidden deletion; S074 Bloat control; S075 One authority boundary; S077 One corrected station order; S078 One evidence rule; S079 One inhibition rule; S080 One action rule; S081 One memory rule; A007 Regression testing; A011 Observability; A019 Last-known-good checkpoint; A027 Measurement-system analysis; A029 Instrument validation; A041 Burden of proof; A042 Rules of evidence; A044 Citation trail review; A045 Source triangulation; A077 Reversibility test; A082 Dependency graph; A084 Provenance; A088 Decision log; A093 Least privilege.
+Why they belong:
+INFERENCE: each either wins across several algorithms, creates a prerequisite boundary, protects source truth/evidence/authority/action, defines route or verdict flow, or prevents a known high-damage failure mode.
+Uncertainty notes:
+- S001, S015, S037, S051, A011, and A082 may be better framed as high-level parents rather than seats.
+- A007 and A027 are strong in technical contexts but may be domain children if the final system stays more philosophical than operational.
+Conflicts or overlaps:
+- S003/S065/A084 overlap around custody and provenance.
+- S052/S066/S075/A093 overlap around authority.
+- S023/S025/S069/S079/A077 overlap around inhibition and safe action.
+
+PARENT METHODS
+IDs and names:
+S008 Scientific method; S013 Differential diagnosis; S018 Systems engineering V-model; S024 Lean assembly line; S047 Root-cause analysis; S050 OODA loop; S064 CONTINUE; S073 Feedback loop; S082 One feedback rule; A025 Design of experiments; A059 Kaizen; A071 Bayesian updating.
+Why:
+INFERENCE: they organize families of methods without necessarily being the first irreducible boundary.
+Uncertainty:
+- S008 and A071 could become reasoning parents only, not whole-system masters.
+Overlaps:
+- S047 with S013 and A014; S050 with S073/S082/A059.
+
+CHILD METHODS
+IDs and names:
+S004 Forensic imaging; S021 Fault tree analysis; S036 Faceted classification; S048 5 Whys; A002 Binary search debugging; A003 Delta debugging; A004 Git bisect; A005 Unit testing; A008 Smoke testing; A040 Differential elimination; A063 Pareto analysis; A076 Weighted scoring; A078 Minimum viable test.
+Why:
+INFERENCE: each is useful after a parent question already exists.
+Uncertainty:
+- Some may graduate into local standard tools inside a future station, but not into system masters.
+Overlaps:
+- A002/A003/A004 form a debugging family; S021/S048/A040 form a cause-finding family.
+
+BRIDGE METHODS
+IDs and names:
+S038 Knowledge graph / link analysis; A034 SBAR handoff; A050 Closed-loop communication; A060 Value-stream mapping; A074 Decision tree; A075 Decision matrix; A080 Taxonomy building; A081 Concept mapping; A096 Process map; A098 Service blueprinting.
+Why:
+INFERENCE: they connect stages, people, or representations rather than stand alone.
+Uncertainty:
+- A080 and A096 could become station-support tools if final architecture privileges placement more heavily.
+Overlaps:
+- S037/S038/A080/A081/A082/A096 are one knowledge-structure cluster.
+
+STATION SUPPORT METHODS
+IDs and names:
+S026 Kanban and WIP limits; S053 ACTIVE BALL; S055 CAPTURE / COLLECT; S056 INVENTORY; S057 SORT; S059 PLACE / FILE; S060 SAVE; S062 REVIEW / HANDOFF; S067 Role separation; S076 One active ball; A017 Runbooks; A033 SOAP notes; A038 Care plan; A092 Parking lot review; A102 Context-switch cost check; A103 Issue tracker.
+Why:
+INFERENCE: they make stations usable without themselves deciding the architecture.
+Uncertainty:
+- S067 may move upward if role purity proves more central than expected.
+Overlaps:
+- S053/S076/A102/A103 all support focus and current work.
+
+EVIDENCE METHODS
+IDs and names:
+S002 Crime-scene preservation; S006 Lab accessioning; S007 Lab notebook / electronic lab notebook; S009 Experimental controls; S027 Quality control sampling; S028 Statistical process control; S035 Library cataloging; S039 Archaeological stratigraphy; S040 Field sampling; A006 Integration testing; A012 Log correlation; A013 Distributed tracing; A020 Known-good versus known-bad comparison; A021 Hypothesis testing; A022 Literature review; A023 Systematic review; A024 Meta-analysis; A028 Calibration; A030 Anomaly detection; A031 Outlier review; A032 Sensitivity analysis; A037 Medication reconciliation; A039 Symptom timeline; A046 Witness credibility review; A054 Safety case; A055 Assurance case; A061 Gemba walk; A062 Control charts; A073 Counterfactual analysis; A083 Data lineage; A085 Tombstone register; A088 Decision log; A090 Assumption log; A091 Architecture decision record; A095 Retired-item register.
+Why:
+INFERENCE: they improve visibility, repeatability, comparability, provenance, or auditability.
+Uncertainty:
+- Some evidence methods double as authority supports when evidence is used to authorize action.
+Overlaps:
+- Strong overlap among S003/S029/S065/A083/A084/A088.
+
+AUTHORITY METHODS
+IDs and names:
+S011 Peer review; S030 Segregation of duties; S041 Zero trust; S045 Release management; S046 Change control; S066 Authority separation; A047 Legal chain of title; A051 Crew resource management; A069 Commander's intent; A087 RACI matrix; A093 Least privilege; A094 Access-control review.
+Why:
+INFERENCE: they constrain who may decide, review, release, or act.
+Uncertainty:
+- A051 may stay optional if the system is mostly single-operator.
+Overlaps:
+- S016/S030/S041/S066/A087/A093/A094 are one authority cluster.
+
+RISK METHODS
+IDs and names:
+S012 Red-team review; S017 Aviation checklist discipline; S020 FMEA; S022 HAZOP / deviation review; S023 STPA / control-system safety; S025 Toyota-style jidoka / stop-the-line; S042 Threat modeling; S043 Quarantine / sandboxing; A009 Canary release; A015 Fault injection; A016 Chaos engineering; A048 Challenge-response checklist; A052 Swiss cheese model; A053 Barrier analysis; A056 Bow-tie risk analysis; A057 Pre-mortem; A058 Poka-yoke; A066 Kill-chain analysis; A067 Attack tree analysis; A070 Escalation ladder; A079 Pilot program; A089 Risk register; A099 Fatigue check; A100 Operator error analysis; A101 Training gap analysis.
+Why:
+INFERENCE: they expose, reduce, or contain failure.
+Uncertainty:
+- Several are domain-specific lenses that should not all become universal obligations.
+Overlaps:
+- S020/S022/S023/A053/A056 are one barrier/control family.
+
+RECOVERY METHODS
+IDs and names:
+S044 Version control; S047 Root-cause analysis; S049 Lessons-learned register; A010 Feature flags; A014 Postmortem analysis; A018 Rollback drills; A019 Last-known-good checkpoint; A035 Morbidity and mortality review; A068 After-action review.
+Why:
+INFERENCE: they help restore function or learn after failure without erasing evidence.
+Uncertainty:
+- Root-cause work must stay after preservation, never before it.
+Overlaps:
+- S047/A014/A035/A068/S049 form a recovery-learning chain.
+
+PUBLIC / FRONT-DOOR METHODS
+IDs and names:
+S083 A tiny front-door launcher; S084 A one-file memory/update pack; S085 A current-ball surface; S086 A station checklist; S087 A proof row template; S088 A blocked-action line; A097 User journey mapping; A104 Knowledge base article.
+Why:
+INFERENCE: they help ordinary users enter or understand the system.
+Uncertainty:
+- S084 bridges product and memory; future evidence may move it upward.
+Overlaps:
+- S083-S088 are one explicit product family.
+
+OPTIONAL SPECIAL LENSES
+IDs and names:
+S005 Digital forensics triage; S014 Medical triage; S070 Optional triage; A001 Rubber-duck debugging; A036 Case conference; A043 Cross-examination; A064 War-gaming; A065 Scenario planning; A072 Abductive reasoning; A086 Cognitive bias checklist.
+Why:
+INFERENCE: each is useful in the right context but should not become pressure on every case.
+Uncertainty:
+- A086 could migrate toward standard review if human-error evidence later proves dominant.
+Overlaps:
+- S005/S014/S070 are one explicit triage family.
+
+DUPLICATE COUSINS
+IDs and names:
+S003 Chain of custody <-> S065 Proof custody <-> A084 Provenance; S032 Evidence admissibility <-> A041 Burden of proof <-> A042 Rules of evidence; S047 Root-cause analysis <-> S048 5 Whys <-> A014 Postmortem analysis; S033 Archival appraisal <-> S034 Records retention <-> A085 Tombstone register <-> A095 Retired-item register; S017 Aviation checklist discipline <-> A048 Challenge-response checklist; A054 Safety case <-> A055 Assurance case; S037 Ontology / relationship mapping <-> S038 Knowledge graph / link analysis <-> A080 Taxonomy building <-> A081 Concept mapping <-> A082 Dependency graph.
+Why:
+INFERENCE: these are close enough that a future install pass should deliberately choose hierarchy and naming rather than silently duplicating them.
+Uncertainty:
+- Some cousins may be complementary, not redundant, once the master set is tested.
+Conflicts:
+- Highest duplication pressure sits in evidence/custody and knowledge-organization clusters.
+
+PARKED / GOOD BUT NOT NOW
+IDs and names:
+A016 Chaos engineering; A024 Meta-analysis; A035 Morbidity and mortality review; A036 Case conference; A064 War-gaming; A065 Scenario planning; A098 Service blueprinting; A099 Fatigue check; A100 Operator error analysis; A101 Training gap analysis.
+Why:
+INFERENCE: useful, but likely situational or maturity-dependent for the present Clean Seed lane.
+Uncertainty:
+- A098 may rise if productization becomes the next active frontier.
+Overlaps:
+- Several become valuable only after more ordinary controls exist.
+
+REJECTED / DOES NOT FIT CLEAN SEED
+IDs and names:
+None rejected in this pass.
+Why:
+INFERENCE: every added method was pre-filtered for mission fit; weak or distant ideas were instead placed under OPEN LEADS or PARKED.
+Uncertainty:
+- "No rejection" here means "no obvious mission mismatch found," not universal approval.
+Conflicts:
+- Future evidence may still demote methods that add more pressure than value.
+
+OPEN LEADS
+IDs and names:
+OL001 FRAM; OL002 High Reliability Organization principles; OL003 Event sourcing; OL004 Causal loop diagrams; OL005 Delphi method; OL006 Grounded theory; OL007 Confounder analysis; OL008 Blast-radius mapping; OL009 Source graph diffing; OL010 Sensemaking framework; OL011 Tabletop exercises; OL012 Model cards / data sheets for artifacts.
+Why:
+INFERENCE: each appears adjacent and potentially valuable, but was not processed fully enough to table safely in this pass.
+Uncertainty:
+- Several may become bridges rather than masters.
+Conflicts:
+- Many overlap with already captured risk, provenance, or review families.
+
+============================================================
+SECTION 5 - ALGORITHM TOURNAMENT
+
+SCORING NOTE
+INFERENCE:
+- 5 = unusually strong fit for the algorithm and repeated support across the table.
+- 4 = strong fit.
+- 3 = useful but not decisive.
+- 2 = limited or situational.
+- 1 = weak for that algorithm.
+
+ALGORITHM A - STATION ORDER SCORE
+1 S077 5 | one corrected station order | Evidence: source anchor plus direct sequencing role | Disprove if route can stay safe without fixed order.
+2 S015 5 | clinical pathway | Evidence: standard route plus exception gate | Disprove if exceptions dominate normal flow.
+3 S052 5 | AUTHORITY | Evidence: first station in source order | Disprove if later station can safely establish authority.
+4 S054 5 | FREEZE | Evidence: must precede disturbance | Disprove if capture can be guaranteed without freeze.
+5 S055 5 | CAPTURE / COLLECT | Evidence: early station | Disprove if later capture is equally safe.
+6 S056 5 | INVENTORY | Evidence: identity before sorting | Disprove if sorting without identity is reliable.
+7 S057 5 | SORT | Evidence: route step before judgment | Disprove if judgment before sort does not distort output.
+8 S058 5 | JUDGE | Evidence: verdict step | Disprove if verdict can be safely merged with action.
+9 S059 5 | PLACE / FILE | Evidence: placement after judgment | Disprove if pre-judgment placement is harmless.
+10 S060 5 | SAVE | Evidence: persistence before seal | Disprove if transient judgment is sufficient.
+11 S061 5 | SEAL | Evidence: reviewable state after save | Disprove if mutable state can still support review.
+12 S062 5 | REVIEW / HANDOFF | Evidence: explicit transition step | Disprove if handoff adds no safety.
+13 S063 5 | PROMOTE / PARK / BLOCK | Evidence: resolved action state | Disprove if no distinct action gate is needed.
+14 S064 4 | CONTINUE | Evidence: loop close | Disprove if terminal workflows are dominant.
+15 A082 4 | dependency graph | Evidence: directly models precedence | Disprove if precedence is obvious enough to need no graph.
+16 A096 4 | process map | Evidence: visualizes route | Disprove if map creates no additional clarity.
+17 S022 4 | HAZOP / deviation review | Evidence: tests station order failure modes | Disprove if deviations are already impossible.
+18 A060 4 | value-stream mapping | Evidence: shows flow and bottlenecks | Disprove if throughput is irrelevant.
+19 A034 3 | SBAR handoff | Evidence: clarifies transition state | Disprove if handoffs are not meaningful.
+20 A050 3 | closed-loop communication | Evidence: verifies transfer completion | Disprove if there is no handoff risk.
+
+ALGORITHM B - DEPENDENCY SCORE
+1 S075 5 | one authority boundary | Evidence: explicit minimum anchor | Disprove if downstream controls work without authority.
+2 S065 5 | proof custody | Evidence: truth needs traceability | Disprove if judgments remain trustworthy without custody.
+3 S078 5 | one evidence rule | Evidence: verdicts need proof floor | Disprove if claims can be judged safely without evidence criteria.
+4 S079 5 | one inhibition rule | Evidence: unsafe action must be stoppable | Disprove if no serious harm can occur.
+5 S077 5 | one corrected station order | Evidence: downstream steps depend on route | Disprove if route order never matters.
+6 S081 5 | one memory rule | Evidence: recovery and review need persistence | Disprove if stateless handling is safe.
+7 S052 5 | AUTHORITY | Evidence: first station | Disprove if authority can be implied.
+8 S066 5 | authority separation | Evidence: prevents hidden bosses | Disprove if role collapse causes no risk.
+9 S071 5 | no identity promotion | Evidence: protects active truth | Disprove if identity never carries authority.
+10 S072 5 | no hidden deletion | Evidence: irreversible loss guardrail | Disprove if deletion cannot occur.
+11 A041 5 | burden of proof | Evidence: defines who must prove | Disprove if proof duty is always self-evident.
+12 A084 5 | provenance | Evidence: meaning and origin | Disprove if items remain trustworthy without origin.
+13 A019 4 | last-known-good checkpoint | Evidence: safe risky change needs recovery anchor | Disprove if no rollback is needed.
+14 S061 4 | SEAL | Evidence: review depends on stable state | Disprove if mutable proof is still inspectable.
+15 S063 4 | PROMOTE / PARK / BLOCK | Evidence: verdict requires legal next state | Disprove if all judged items share one action.
+16 S023 4 | STPA / control-system safety | Evidence: safe gates need control logic | Disprove if timing/control failure is impossible.
+17 S029 4 | audit trail | Evidence: later review needs history | Disprove if no retrospective review matters.
+18 A093 4 | least privilege | Evidence: permissions shape possible harm | Disprove if all actors are equally trusted.
+19 A082 4 | dependency graph | Evidence: models precedence | Disprove if dependencies never become ambiguous.
+20 S074 3 | bloat control | Evidence: over-control can distort system | Disprove if ceremony never accumulates.
+
+ALGORITHM C - RISK PROTECTION SCORE
+1 S069 5 | stop-line authority | Evidence: direct halt on unsafe condition | Disprove if unsafe continuation is impossible.
+2 S072 5 | no hidden deletion | Evidence: blocks irreversible loss | Disprove if deletion never occurs.
+3 S071 5 | no identity promotion | Evidence: blocks dirty activation | Disprove if location/identity cannot confer authority.
+4 S041 5 | zero trust | Evidence: rejects proximity-based trust | Disprove if all inputs are already verified.
+5 S043 5 | quarantine / sandboxing | Evidence: inert handling of unknowns | Disprove if unknowns are never risky.
+6 S025 5 | stop-the-line | Evidence: halts when proof/authority/context breaks | Disprove if breaks can be tolerated safely.
+7 S023 5 | STPA | Evidence: unsafe timing/control analysis | Disprove if gates cannot fail by timing.
+8 A077 5 | reversibility test | Evidence: prefers recoverable action under uncertainty | Disprove if all actions are reversible.
+9 A093 5 | least privilege | Evidence: reduces blast radius | Disprove if permissions do not matter.
+10 S020 4 | FMEA | Evidence: anticipates failure modes | Disprove if failure modes are already known and trivial.
+11 S022 4 | HAZOP / deviation review | Evidence: checks missing/early/late/skipped/duplicated/reversed behavior | Disprove if deviations cannot occur.
+12 S042 4 | threat modeling | Evidence: abuse path review | Disprove if no adversarial use exists.
+13 A057 4 | pre-mortem | Evidence: catches future failure imagination | Disprove if it adds no new risks.
+14 A053 4 | barrier analysis | Evidence: exposes missing controls | Disprove if controls are already complete.
+15 A056 4 | bow-tie risk analysis | Evidence: links threats and mitigations | Disprove if risk path is already obvious.
+16 A058 4 | poka-yoke | Evidence: makes common mistakes harder | Disprove if errors are not design-sensitive.
+17 A070 4 | escalation ladder | Evidence: proportional response | Disprove if response tiers are unnecessary.
+18 A089 4 | risk register | Evidence: keeps known risks live | Disprove if risks never persist.
+19 A009 3 | canary release | Evidence: limits rollout exposure | Disprove if rollout has no field uncertainty.
+20 A099 3 | fatigue check | Evidence: human risk signal | Disprove if operator state is irrelevant.
+
+ALGORITHM D - EVIDENCE FLOW SCORE
+1 S003 5 | chain of custody | Evidence: traceable handling | Disprove if evidence remains trustworthy without custody.
+2 S065 5 | proof custody | Evidence: same family, broader framing | Disprove if custody adds no confidence.
+3 A084 5 | provenance | Evidence: origin and derivation | Disprove if origin never matters.
+4 S029 5 | audit trail | Evidence: reconstructable history | Disprove if review never needs history.
+5 S061 5 | SEAL | Evidence: stable proof package | Disprove if mutable proof is acceptable.
+6 S010 5 | replication and reproducibility | Evidence: repeatable review | Disprove if one-off review is enough.
+7 A044 5 | citation trail review | Evidence: claim to primary source | Disprove if secondary claims are always trustworthy.
+8 A045 5 | source triangulation | Evidence: independent support | Disprove if one source is sufficient.
+9 A027 5 | measurement-system analysis | Evidence: validates measuring process | Disprove if measurement can be assumed sound.
+10 A029 5 | instrument validation | Evidence: validates tools | Disprove if tools cannot mislead.
+11 S032 4 | evidence admissibility | Evidence: screens proof quality | Disprove if all evidence is equally usable.
+12 A042 4 | rules of evidence | Evidence: admission criteria | Disprove if criteria add no discrimination.
+13 S009 4 | experimental controls | Evidence: comparator baseline | Disprove if causal contrast is unnecessary.
+14 A020 4 | known-good versus known-bad comparison | Evidence: discriminating contrast | Disprove if examples are incomparable.
+15 A021 4 | hypothesis testing | Evidence: falsifiable claim | Disprove if tests cannot change belief.
+16 A023 4 | systematic review | Evidence: reduces cherry-picking | Disprove if one study is enough.
+17 A088 4 | decision log | Evidence: verdict trace | Disprove if decisions are self-evident.
+18 A083 4 | data lineage | Evidence: transformation trace | Disprove if derived data never matters.
+19 S007 3 | lab notebook | Evidence: observation record | Disprove if notes do not affect proof.
+20 A090 3 | assumption log | Evidence: explicit premises | Disprove if assumptions are always visible.
+
+ALGORITHM E - AUTHORITY CONTROL SCORE
+1 S075 5 | one authority boundary | Evidence: minimum anchor | Disprove if no actor can overreach.
+2 S052 5 | AUTHORITY | Evidence: first station | Disprove if explicit authority is unnecessary.
+3 S066 5 | authority separation | Evidence: prevents role bleed | Disprove if blended roles cause no harm.
+4 S030 5 | segregation of duties | Evidence: proposal and promotion separated | Disprove if self-promotion is harmless.
+5 S071 5 | no identity promotion | Evidence: blocks false active truth | Disprove if identity never confers authority.
+6 S041 5 | zero trust | Evidence: no trust by location | Disprove if all proximity already equals authority.
+7 S046 5 | change control | Evidence: judgment alone does not authorize change | Disprove if all judged work may auto-edit.
+8 S045 5 | release management | Evidence: promotion is a release | Disprove if promotion never needs gating.
+9 A093 5 | least privilege | Evidence: limits capabilities | Disprove if all permissions are safe.
+10 A041 4 | burden of proof | Evidence: controls who must justify action | Disprove if proof duty never matters.
+11 A047 4 | legal chain of title | Evidence: authority lineage | Disprove if claims of control are always obvious.
+12 A087 4 | RACI matrix | Evidence: role ownership | Disprove if roles are already unambiguous.
+13 A094 4 | access-control review | Evidence: detects stale powers | Disprove if permissions never drift.
+14 S016 4 | incident command system | Evidence: distributes authority | Disprove if one surface can safely own all roles.
+15 A069 4 | commander's intent | Evidence: aligns action with purpose | Disprove if local actors need no adaptation.
+16 S011 3 | peer review | Evidence: review without promotion | Disprove if all reviews are already independent.
+17 A051 3 | crew resource management | Evidence: surfaces hidden concern | Disprove if human hierarchy never distorts judgment.
+18 S067 3 | role separation | Evidence: observation/judgment/action split | Disprove if role distinctions are unnecessary.
+19 A034 3 | SBAR handoff | Evidence: clean transfer of context | Disprove if handoff cannot distort authority.
+20 S019 3 | requirements traceability | Evidence: no gate without proof | Disprove if all authority is self-justifying.
+
+ALGORITHM F - RECOVERY VALUE SCORE
+1 A019 5 | last-known-good checkpoint | Evidence: safe rollback anchor | Disprove if failures never need return.
+2 S044 5 | version control | Evidence: reversible history | Disprove if no changes ever need undo.
+3 A018 5 | rollback drills | Evidence: tests actual recovery | Disprove if rollback paths are trivially reliable.
+4 A010 5 | feature flags | Evidence: reversible activation | Disprove if activation and deployment never need decoupling.
+5 S081 5 | one memory rule | Evidence: persistence supports recovery | Disprove if stateless systems recover equally.
+6 S072 5 | no hidden deletion | Evidence: preserves evidence for recovery | Disprove if deletion cannot harm repair.
+7 S029 4 | audit trail | Evidence: reconstructs what happened | Disprove if history never helps repair.
+8 A014 4 | postmortem analysis | Evidence: learns after incident | Disprove if incidents do not recur.
+9 S047 4 | root-cause analysis | Evidence: cause before durable fix | Disprove if repairs need no diagnosis.
+10 S049 4 | lessons-learned register | Evidence: converts learning into guardrail | Disprove if learning never needs persistence.
+11 A068 4 | after-action review | Evidence: structured reflection | Disprove if action review adds nothing.
+12 A035 3 | morbidity and mortality review | Evidence: serious-outcome learning | Disprove if severe cases are absent.
+13 S073 3 | feedback loop | Evidence: reviewed outcomes influence future work | Disprove if recovery lessons never change process.
+14 S061 3 | SEAL | Evidence: stable state for rollback comparison | Disprove if rollback can ignore proof state.
+15 S003 3 | chain of custody | Evidence: preserves repair evidence | Disprove if cause can be known without custody.
+16 A088 3 | decision log | Evidence: records why a move happened | Disprove if rationale never aids recovery.
+17 A089 3 | risk register | Evidence: tracks recurring exposure | Disprove if risk never persists post-fix.
+18 S034 3 | records retention | Evidence: keeps recovery-relevant material | Disprove if old records never help repair.
+19 A091 3 | architecture decision record | Evidence: preserves design rationale | Disprove if design history never matters.
+20 A104 2 | knowledge base article | Evidence: reuses reviewed fixes | Disprove if each incident is unique.
+
+ALGORITHM G - PRODUCT / FRONT-DOOR SCORE
+1 S083 5 | tiny front-door launcher | Evidence: explicit front door | Disprove if entry friction is irrelevant.
+2 S084 5 | one-file memory/update pack | Evidence: portable onboarding state | Disprove if memory can stay distributed.
+3 S085 5 | current-ball surface | Evidence: shows immediate focus | Disprove if users never lose track.
+4 S086 5 | station checklist | Evidence: visible route | Disprove if users already know route.
+5 S087 5 | proof row template | Evidence: lowers evidence friction | Disprove if proof capture is already intuitive.
+6 S088 5 | blocked-action line | Evidence: makes boundaries plain | Disprove if users never overstep.
+7 A097 4 | user journey mapping | Evidence: reveals entry friction | Disprove if user path is obvious.
+8 A098 4 | service blueprinting | Evidence: aligns front/back stages | Disprove if no backstage complexity matters.
+9 A104 4 | knowledge base article | Evidence: reusable explanation | Disprove if users need no guidance.
+10 S074 4 | bloat control | Evidence: simpler surface | Disprove if users prefer richer ceremony.
+11 S015 3 | clinical pathway | Evidence: route clarity | Disprove if pathway language confuses.
+12 S017 3 | checklist discipline | Evidence: transition help | Disprove if checklist adds friction.
+13 A034 3 | SBAR handoff | Evidence: concise transfer | Disprove if handoff is not user-facing.
+14 A038 3 | care plan | Evidence: next-step clarity | Disprove if users do not need plan view.
+15 A050 3 | closed-loop communication | Evidence: completion signal | Disprove if user never waits on handoff.
+16 A060 3 | value-stream mapping | Evidence: process transparency | Disprove if internal flow need not be exposed.
+17 A080 3 | taxonomy building | Evidence: findability | Disprove if users navigate by search only.
+18 A096 3 | process map | Evidence: understandable flow | Disprove if map overwhelms.
+19 S035 3 | library cataloging | Evidence: findable without promotion | Disprove if users never browse stored items.
+20 A081 2 | concept mapping | Evidence: learning aid | Disprove if visual maps add no clarity.
+
+ALGORITHM H - BLOAT RESISTANCE SCORE
+1 S074 5 | bloat control | Evidence: direct concept | Disprove if more structure always helps.
+2 S027 5 | quality control sampling | Evidence: inspect to risk, not infinity | Disprove if all cases require exhaustive review.
+3 S040 5 | field sampling | Evidence: bounded sample | Disprove if sample cannot answer safely.
+4 A078 5 | minimum viable test | Evidence: smallest test that answers | Disprove if small tests mislead.
+5 S017 4 | checklist discipline | Evidence: only high-risk transitions | Disprove if every step truly needs checklist.
+6 S026 4 | WIP limits | Evidence: fewer active balls | Disprove if concurrency has no cost.
+7 A077 4 | reversibility test | Evidence: avoids giant commitment | Disprove if all moves are low-cost.
+8 A063 4 | Pareto analysis | Evidence: focus on vital few | Disprove if tail risk dominates.
+9 A102 4 | context-switch cost check | Evidence: hidden work cost | Disprove if switching is cheap.
+10 A092 3 | parking lot review | Evidence: keeps deferment intentional | Disprove if parking reviews add noise.
+11 A059 3 | kaizen | Evidence: small steps | Disprove if incrementalism stalls needed redesign.
+12 S005 3 | digital forensics triage | Evidence: optional lens | Disprove if triage becomes a permanent boss.
+13 S014 3 | medical triage | Evidence: urgency not authority | Disprove if urgency is never real.
+14 S070 3 | optional triage | Evidence: explicitly optional | Disprove if every case requires same depth.
+15 A008 3 | smoke testing | Evidence: quick coarse signal | Disprove if coarse checks are misleading.
+16 A079 3 | pilot program | Evidence: bounded rollout | Disprove if pilot never predicts scale.
+17 A057 3 | pre-mortem | Evidence: compact forward risk lens | Disprove if it adds speculation only.
+18 A097 3 | user journey mapping | Evidence: removes friction | Disprove if user path is irrelevant.
+19 S083 2 | tiny launcher | Evidence: small entrance | Disprove if small front door hides too much.
+20 S084 2 | one-file pack | Evidence: compression | Disprove if compression causes overload.
+
+ALGORITHM I - GROWTH SUPPORT SCORE
+1 S037 5 | ontology / relationship mapping | Evidence: relationships, not just piles | Disprove if future system remains flat.
+2 S038 5 | knowledge graph / link analysis | Evidence: context travels with item | Disprove if links never matter.
+3 A082 5 | dependency graph | Evidence: supports stronger structure | Disprove if ordering remains trivial.
+4 A080 5 | taxonomy building | Evidence: consistent placement | Disprove if categories never multiply.
+5 S073 5 | feedback loop | Evidence: reviewed outcomes shape future rules | Disprove if learning adds no benefit.
+6 S082 5 | one feedback rule | Evidence: minimum growth anchor | Disprove if static system suffices.
+7 A059 4 | kaizen | Evidence: small cumulative improvement | Disprove if improvement must be discontinuous.
+8 A089 4 | risk register | Evidence: manages accumulating risks | Disprove if risks do not compound.
+9 A091 4 | architecture decision record | Evidence: preserves design rationale | Disprove if structure stays tiny.
+10 A104 4 | knowledge base article | Evidence: scales memory to new users | Disprove if knowledge transfer never needed.
+11 S019 4 | requirements traceability | Evidence: prevents orphan growth | Disprove if no requirement drift appears.
+12 S024 4 | lean assembly line | Evidence: station specialization | Disprove if work never diversifies.
+13 S050 4 | OODA loop | Evidence: repeated orientation | Disprove if environment never changes.
+14 A096 4 | process map | Evidence: makes route explicit | Disprove if process stays obvious.
+15 A097 3 | user journey mapping | Evidence: scales adoption | Disprove if there are no users.
+16 A098 3 | service blueprinting | Evidence: scales front/back coherence | Disprove if service layer stays simple.
+17 A023 3 | systematic review | Evidence: accumulates evidence cleanly | Disprove if evidence body stays small.
+18 A024 3 | meta-analysis | Evidence: aggregates repeated studies | Disprove if studies are incomparable.
+19 A060 3 | value-stream mapping | Evidence: growth reveals bottlenecks | Disprove if no throughput pressure.
+20 S074 3 | bloat control | Evidence: growth needs pruning pressure | Disprove if added structure never bloats.
+
+ALGORITHM J - PLACEMENT SCORE
+1 S059 5 | PLACE / FILE | Evidence: explicit placement station | Disprove if location never matters.
+2 S033 5 | archival appraisal | Evidence: not active is not trash | Disprove if all inactive items are equivalent.
+3 S035 5 | library cataloging | Evidence: findable without promotion | Disprove if browseability never matters.
+4 S036 5 | faceted classification | Evidence: many labels for complex material | Disprove if single labels suffice.
+5 S037 5 | ontology / relationship mapping | Evidence: relationships, not piles | Disprove if relationships are irrelevant.
+6 A080 5 | taxonomy building | Evidence: stable categories | Disprove if categories never help.
+7 A082 5 | dependency graph | Evidence: where a thing belongs in sequence | Disprove if order is obvious.
+8 A084 5 | provenance | Evidence: where a thing came from | Disprove if origin never affects placement.
+9 S038 4 | knowledge graph / link analysis | Evidence: contextual placement | Disprove if links add no placement value.
+10 S039 4 | archaeological stratigraphy | Evidence: time-layer placement | Disprove if age never matters.
+11 A081 4 | concept mapping | Evidence: conceptual neighborhood | Disprove if maps add no useful distinction.
+12 A083 4 | data lineage | Evidence: derived-state placement | Disprove if derivation never matters.
+13 A085 4 | tombstone register | Evidence: removed-but-remembered state | Disprove if old states need no marker.
+14 A095 4 | retired-item register | Evidence: retired lane | Disprove if retirement is obvious.
+15 S057 4 | SORT | Evidence: pre-placement grouping | Disprove if placement can safely precede sort.
+16 S031 4 | legal discovery | Evidence: collected/reviewed/promoted distinction | Disprove if stage never affects placement.
+17 A096 3 | process map | Evidence: location in workflow | Disprove if workflow position is irrelevant.
+18 A090 3 | assumption log | Evidence: separates assumed from proven | Disprove if assumptions need no lane.
+19 S068 3 | context preservation | Evidence: keeps interpretive neighborhood | Disprove if context never changes placement.
+20 S074 3 | bloat control | Evidence: resists pointless categories | Disprove if complexity never hurts placement.
+
+============================================================
+SECTION 6 - CROSS-ALGORITHM WINNERS
+
+1. S075 - One authority boundary
+Algorithms high: B, E
+Likely role: master
+Why: INFERENCE - earliest explicit control edge; later authority methods depend on it.
+Risk if promoted too early: becomes slogan without operational children.
+Evidence still needed: examples showing boundary behavior under conflict.
+
+2. S065 - Proof custody
+Algorithms high: B, D
+Likely role: master
+Why: INFERENCE - truth work collapses if evidence cannot be trusted across handling.
+Risk if promoted too early: duplicate tension with chain of custody and provenance.
+Evidence still needed: minimal custody schema that is strong without bloat.
+
+3. S077 - One corrected station order
+Algorithms high: A, B
+Likely role: master
+Why: INFERENCE - many safe methods depend on order, not just presence.
+Risk if promoted too early: route freezes before exception evidence is gathered.
+Evidence still needed: deviation tests across ordinary and exceptional cases.
+
+4. S079 - One inhibition rule
+Algorithms high: B, C
+Likely role: master
+Why: INFERENCE - action without a brake can destroy evidence or authority.
+Risk if promoted too early: overblocking.
+Evidence still needed: exact stop triggers that catch serious harm without flooding.
+
+5. S071 - No identity promotion
+Algorithms high: B, C, E
+Likely role: master
+Why: INFERENCE - directly blocks a known project failure mode: false active truth by proximity or label.
+Risk if promoted too early: healthy reuse becomes suspicious.
+Evidence still needed: edge-case tests on parked, proof, and test materials.
+
+6. S072 - No hidden deletion
+Algorithms high: B, C, F
+Likely role: master
+Why: INFERENCE - preserves evidence and recovery options against irreversible loss.
+Risk if promoted too early: retention bloat.
+Evidence still needed: deletion-gate examples and tombstone/retired-item sufficiency.
+
+7. S061 - SEAL
+Algorithms high: A, B, D
+Likely role: master or high parent
+Why: INFERENCE - converts work into stable reviewable state.
+Risk if promoted too early: sealing every draft.
+Evidence still needed: minimum seal standard by risk tier.
+
+8. A019 - Last-known-good checkpoint
+Algorithms high: B, F, C
+Likely role: master candidate / recovery bridge
+Why: INFERENCE - risky action is safer when return state exists first.
+Risk if promoted too early: fetishizing rollback over progress.
+Evidence still needed: checkpoint rules for files versus ideas versus live systems.
+
+9. A084 - Provenance
+Algorithms high: B, D, J
+Likely role: master or bridge
+Why: INFERENCE - joins origin, custody, and context; strong across truth, placement, and review.
+Risk if promoted too early: metadata overload.
+Evidence still needed: smallest provenance record that still answers future disputes.
+
+10. A082 - Dependency graph
+Algorithms high: A, B, I, J
+Likely role: bridge / possible parent
+Why: INFERENCE - exceptionally strong at exposing what must exist first and where each thing belongs.
+Risk if promoted too early: diagrams replace judgment.
+Evidence still needed: whether simple dependency lists suffice in Clean Seed scale.
+
+11. A041 - Burden of proof
+Algorithms high: B, D, E
+Likely role: master candidate
+Why: INFERENCE - clarifies who owes evidence before action.
+Risk if promoted too early: legalistic friction.
+Evidence still needed: proof burdens for promote, park, block, and delete.
+
+12. S074 - Bloat control
+Algorithms high: C, G, H, I, J
+Likely role: master candidate
+Why: INFERENCE - unusually cross-cutting; protects the system from becoming its own failure mode.
+Risk if promoted too early: premature minimalism.
+Evidence still needed: measurable test for useful control versus ceremony.
+
+TOP 10 CROSS-ALGORITHM MASTER CANDIDATES
+1. S075 One authority boundary
+2. S065 Proof custody
+3. S077 One corrected station order
+4. S079 One inhibition rule
+5. S071 No identity promotion
+6. S072 No hidden deletion
+7. S061 SEAL
+8. A019 Last-known-good checkpoint
+9. A084 Provenance
+10. A041 Burden of proof
+
+============================================================
+SECTION 7 - MASTER SEAT DRAFT
+
+1. One authority boundary
+Plain meaning: there is an explicit edge between what may command and what may not.
+Why master: INFERENCE - no downstream rule can safely resolve conflicts if authority is undefined.
+Controls: command legitimacy, source-of-truth entry point.
+Does not control: evidence sufficiency by itself.
+Required children: authority separation, zero trust, least privilege, RACI/role map.
+Required evidence: observed boundary examples, role conflict tests.
+Failure if missing: hidden bosses and command bleed.
+Failure if overused: rigid sovereignty and slow handoff.
+Likely order position: 1.
+Uncertainty: low.
+
+2. Proof custody
+Plain meaning: evidence keeps a traceable, reviewable identity through handling.
+Why master: INFERENCE - truth claims need evidence that stays itself.
+Controls: custody, auditability, source integrity.
+Does not control: what verdict should be reached.
+Required children: chain of custody, provenance, audit trail, seal.
+Required evidence: minimal custody fields, before/after examples.
+Failure if missing: false proof and unreconstructable reviews.
+Failure if overused: ceremony bloat.
+Likely order position: 2.
+Uncertainty: low.
+
+3. One corrected station order
+Plain meaning: work has a safe route from authority through continue.
+Why master: INFERENCE - several controls work only because they happen before or after one another.
+Controls: sequencing, route, handoff.
+Does not control: the truth of any claim.
+Required children: process map, deviation review, dependency graph.
+Required evidence: ordinary route tests and exception-gate tests.
+Failure if missing: inverted steps and state confusion.
+Failure if overused: brittle protocol.
+Likely order position: 3.
+Uncertainty: low.
+
+4. One evidence rule
+Plain meaning: there is a declared floor for what counts as proof.
+Why master: INFERENCE - judgment without evidence criteria becomes vibe.
+Controls: admissibility, burden, comparison, measurement validity.
+Does not control: action authorization.
+Required children: burden of proof, rules of evidence, admissibility, triangulation.
+Required evidence: verdict examples with accepted and rejected evidence.
+Failure if missing: weak claims become truth.
+Failure if overused: impossible proof demands.
+Likely order position: 4.
+Uncertainty: low.
+
+5. One inhibition rule
+Plain meaning: the system can stop unsafe action.
+Why master: INFERENCE - evidence and authority can still be harmed by acting at the wrong time.
+Controls: freeze, block, stop-line, quarantine, reversibility.
+Does not control: final verdict content.
+Required children: stop-line authority, sandboxing, reversibility test, escalation ladder.
+Required evidence: concrete stop triggers and false-positive review.
+Failure if missing: cascading damage.
+Failure if overused: paralysis.
+Likely order position: 5.
+Uncertainty: low.
+
+6. No identity promotion
+Plain meaning: a thing does not become active truth just because it has a name, location, or resemblance.
+Why master: INFERENCE - directly prevents a known Clean Seed contamination mode.
+Controls: active-truth boundary.
+Does not control: whether a thing is useful.
+Required children: zero trust, release management, legal discovery separation.
+Required evidence: routing tests on parked, proof-history, and live-test material.
+Failure if missing: dirty promotion.
+Failure if overused: needless distrust of benign material.
+Likely order position: 6.
+Uncertainty: low.
+
+7. No hidden deletion
+Plain meaning: removal is explicit, justified, and reviewable.
+Why master: INFERENCE - deletion can erase both truth and recovery.
+Controls: retention, tombstones, retired-item records.
+Does not control: what should eventually remain active.
+Required children: records retention, tombstone register, retired-item register.
+Required evidence: deletion-path tests and retention examples.
+Failure if missing: silent loss.
+Failure if overused: hoarding.
+Likely order position: 7.
+Uncertainty: low.
+
+8. One memory rule
+Plain meaning: the system preserves enough durable state to resume, review, and recover.
+Why master: INFERENCE - without memory, evidence and learning decay between cycles.
+Controls: save, seal, checkpoint, decision log.
+Does not control: what to do next.
+Required children: audit trail, last-known-good checkpoint, decision log, version control.
+Required evidence: restart/recovery drills.
+Failure if missing: amnesia and repeated rediscovery.
+Failure if overused: archive overload.
+Likely order position: 8.
+Uncertainty: medium.
+
+9. One action rule
+Plain meaning: judgment does not itself authorize promotion or modification.
+Why master: INFERENCE - the system needs a legal path from verdict to allowed action.
+Controls: promote / park / block, release management, change control.
+Does not control: evidence collection.
+Required children: decision log, release management, change control, reversibility test.
+Required evidence: action examples across promote, park, block.
+Failure if missing: unauthorized change.
+Failure if overused: procedural drag.
+Likely order position: 9.
+Uncertainty: medium.
+
+10. Bloat control
+Plain meaning: control must earn its weight.
+Why master: INFERENCE - a safe system that becomes unusable will fail by another route.
+Controls: ceremony pressure, sampling depth, optional lenses.
+Does not control: source truth directly.
+Required children: risk-tiered checklists, minimum viable test, sampling rules, parking review.
+Required evidence: burden tests and user-friction tests.
+Failure if missing: rule sprawl.
+Failure if overused: premature shrinking.
+Likely order position: 10.
+Uncertainty: medium.
+
+11. Feedback loop
+Plain meaning: reviewed outcomes change future handling.
+Why master: INFERENCE - a static system cannot improve against discovered failures.
+Controls: lessons, after-action review, kaizen, risk refresh.
+Does not control: first-pass safety.
+Required children: lessons-learned register, AAR, postmortem, risk register.
+Required evidence: one reviewed change that improved future handling.
+Failure if missing: repeated mistakes.
+Failure if overused: churn.
+Likely order position: 11.
+Uncertainty: medium.
+
+============================================================
+SECTION 8 - MASTER ORDER DRAFT
+
+PROPOSED ORDER BY DEPENDENCY
+1. One authority boundary
+2. Proof custody
+3. One corrected station order
+4. One evidence rule
+5. One inhibition rule
+6. No identity promotion
+7. No hidden deletion
+8. One memory rule
+9. One action rule
+10. Bloat control
+11. Feedback loop
+
+REASON EACH ITEM COMES WHERE IT DOES
+1. One authority boundary comes first because no later gate is safe if the system does not know what may decide.
+2. Proof custody comes next because later evidence rules are hollow if artifacts cannot stay traceable.
+3. One corrected station order comes next because freeze, capture, judgment, and action only make sense in sequence.
+4. One evidence rule follows because judgment now has a route and must know what may count.
+5. One inhibition rule follows because once action becomes conceivable, the system needs a brake before motion.
+6. No identity promotion follows because active truth needs explicit protection before release-like action exists.
+7. No hidden deletion follows because preservation must be guaranteed before more durable memory or action layers grow.
+8. One memory rule follows because the system now has enough bounded states worth preserving.
+9. One action rule follows because action should happen only after authority, custody, route, evidence, inhibition, identity, deletion, and memory are already bounded.
+10. Bloat control follows because the first nine create enough structure to begin generating excess.
+11. Feedback loop follows because learning needs preserved outcomes and a stable enough route to modify intelligently.
+
+DEPENDENCIES
+- Proof custody depends on authority boundary for who may handle proof.
+- Station order depends on authority boundary because "first" is meaningless without command context.
+- Evidence rule depends on custody because admissibility without traceability is weak.
+- Inhibition rule depends on station order because stop conditions attach to route transitions.
+- No identity promotion depends on authority and evidence rules.
+- No hidden deletion depends on custody and inhibition.
+- Memory rule depends on custody, deletion boundary, and seal behavior.
+- Action rule depends on authority, evidence, inhibition, identity, memory.
+- Bloat control depends on an existing structure to evaluate.
+- Feedback loop depends on memory and action outcomes.
+
+CONFLICTS
+- Proof custody versus bloat control: stronger custody can overgrow the file lane.
+- One evidence rule versus bloat control: proof rigor can become ceremony.
+- No hidden deletion versus bloat control: preservation can become hoarding.
+- Feedback loop versus one corrected station order: adaptation can slowly mutate the route.
+
+ALTERNATE ORDER IF UNCERTAIN
+Alternate A:
+1 authority boundary -> 2 proof custody -> 3 evidence rule -> 4 corrected station order -> 5 inhibition -> 6 no identity promotion -> 7 no hidden deletion -> 8 memory -> 9 action -> 10 bloat -> 11 feedback.
+Reason:
+INFERENCE - if evidence sufficiency is treated as more primitive than route design, one evidence rule may precede full station order.
+
+Alternate B:
+1 authority boundary -> 2 corrected station order -> 3 proof custody -> 4 evidence rule -> 5 inhibition -> 6 no identity promotion -> 7 no hidden deletion -> 8 memory -> 9 action -> 10 bloat -> 11 feedback.
+Reason:
+INFERENCE - if the project decides that the route itself is the first practical manifestation of authority, station order may precede custody.
+
+============================================================
+SECTION 9 - WHAT THIS MEANS FOR CLEAN SEED
+
+EVIDENCE:
+- The recovered digest already concentrates heavily on authority, preservation, ordered stations, evidence, and blocked action.
+- The added outside methods that scored highest mostly strengthen those same families rather than replacing them.
+
+INFERENCE:
+- The future master rule set is likely not a bag of favorite methods. It is more likely a small dependency spine: authority -> custody -> route -> evidence -> inhibition -> protected states -> memory -> action -> bloat control -> learning.
+- Parent/child structure matters. Example: "proof custody" is stronger as a master than separately promoting chain of custody, provenance, audit trail, and seal as equal peers.
+- Existing Clean Seed ideas that get stronger from the tournament: authority separation, no identity promotion, no hidden deletion, stop-line authority, corrected station order, proof custody, and bloat control.
+- Ideas that should stay optional: triage, 5 Whys, red-team review, war-gaming, scenario planning, cognitive-bias checklists, chaos engineering.
+- Ideas that belong in public explanation: current-ball surface, station checklist, proof row template, blocked-action line, one-file memory/update pack.
+- Ideas that should stay parked for now: chaos engineering, meta-analysis, M&M review, case conference, war-gaming, scenario planning, fatigue check, operator-error analysis, training-gap analysis.
+- The next best test is not "which method sounds strongest." It is a dependency test: can the proposed first five master seats survive ordinary-case, exception-case, and failure-case walkthroughs without relying on unstated rules?
+
+UNKNOWN:
+- Whether Clean Seed ultimately needs 8, 10, or 11 master seats cannot be settled from this pass alone.
+- Whether "SEAL" should be its own master seat or a required child of memory/proof custody remains unresolved.
+
+============================================================
+SECTION 10 - OPEN LEADS AND PARKING
+
+OL001 | FRAM | source family: systems safety | why it may matter: models how ordinary work variability creates outcomes | likely role: bridge/risk | deciding test: compare against STPA on one Clean Seed deviation case | parked status: OPEN LEAD - not fully explored because STPA/HAZOP already covered first-pass control needs.
+OL002 | High Reliability Organization principles | source family: safety / organizational studies | why it may matter: preoccupation with failure, reluctance to simplify, deference to expertise may fit Clean Seed culture | likely role: parent/risk | deciding test: map HRO principles against existing Clean Seed anchors | parked status: OPEN LEAD - not fully explored because broad and culture-heavy.
+OL003 | Event sourcing | source family: software architecture | why it may matter: immutable event history could strengthen auditability and recovery | likely role: evidence/recovery | deciding test: compare event-sourced record to current save/seal path | parked status: OPEN LEAD - not fully explored because implementation-heavy.
+OL004 | Causal loop diagrams | source family: systems thinking | why it may matter: may expose reinforcing bloat or drift loops | likely role: bridge | deciding test: model one known Clean Seed failure loop | parked status: OPEN LEAD - not fully explored because less direct than dependency graphs.
+OL005 | Delphi method | source family: forecasting / research | why it may matter: may help when several experts must converge without dominance | likely role: optional special lens | deciding test: compare with peer review and case conference | parked status: OPEN LEAD - not fully explored because multi-expert use is not yet central.
+OL006 | Grounded theory | source family: qualitative research | why it may matter: can derive categories from messy source material instead of imposing them early | likely role: placement/evidence | deciding test: compare against taxonomy-first sorting on an ore pile | parked status: OPEN LEAD - not fully explored because this pass prioritized universal methods.
+OL007 | Confounder analysis | source family: causal inference | why it may matter: guards against false causal stories | likely role: evidence | deciding test: run against one old/new comparison case | parked status: OPEN LEAD - not fully explored because controls/sensitivity/counterfactuals already covered the first layer.
+OL008 | Blast-radius mapping | source family: software safety / incident control | why it may matter: may sharpen reversibility and least-privilege decisions | likely role: risk/bridge | deciding test: compare against reversibility test on a risky edit | parked status: OPEN LEAD - not fully explored because current task forbade active edits.
+OL009 | Source graph diffing | source family: knowledge organization / provenance | why it may matter: may reveal context drift between versions of truth graphs | likely role: evidence/bridge | deciding test: compare two stored states of one concept map | parked status: OPEN LEAD - not fully explored because no graph artifacts were in scope.
+OL010 | Sensemaking framework | source family: organizational cognition | why it may matter: may help when facts are ambiguous before formal diagnosis | likely role: parent/optional lens | deciding test: compare against intelligence cycle on an ambiguous case | parked status: OPEN LEAD - not fully explored because it risks being too broad.
+OL011 | Tabletop exercises | source family: safety / incident readiness | why it may matter: dry-runs can test station order, inhibition, and recovery without live harm | likely role: recovery/risk | deciding test: run one paper simulation of promote/block/delete failure | parked status: OPEN LEAD - not fully explored because mission was table building, not drills.
+OL012 | Model cards / data sheets for artifacts | source family: AI/data governance | why it may matter: compact context sheets could strengthen provenance, intended use, and limitations | likely role: public/evidence bridge | deciding test: compare against proof row template and one-file memory pack | parked status: OPEN LEAD - not fully explored because user-facing shape is still provisional.
+
+OPEN LEADS COUNT: 12
+
+============================================================
+SECTION 11 - FINAL BOUNDARY
+
+Files changed: report only.
+Files moved: NO.
+Files deleted: NO.
+Files renamed: NO.
+Cleanup started: NO.
+ACTIVE_GUIDES edited: NO.
+CURRENT_TRUTH_INDEX edited: NO.
+AGENTS.md edited: NO.
+Doctrine installed: NO.
+Git add: NO.
+Git commit: NO.
+Git push: NO.

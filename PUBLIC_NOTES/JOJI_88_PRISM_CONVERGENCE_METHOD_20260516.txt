@@ -1,0 +1,173 @@
+JOJI 88 PRISM CONVERGENCE METHOD
+Created: 2026-05-16 20:07:52
+Status: PROOF-HISTORY ONLY
+Install status: NOT ACTIVE DOCTRINE
+Authority: decision fuel only
+
+SOURCE CONTEXT
+This method stands beside the Domain Bridge + Link Ledger Method.
+
+The bridge method maps connections between ideas.
+The prism method tests whether different fields independently point toward the same control truth.
+
+METHOD NAME
+Prism Convergence Method
+
+CORE SENTENCE
+Send the same problem through many clean lenses. Trust increases when different lenses reveal the same shape.
+
+PURPOSE
+Use multiple real-world method families to test whether a Clean Seed idea is truly load-bearing.
+
+A strong master-seat candidate should not only sound good in Clean Seed language.
+It should also survive translation through several outside method families.
+
+Example fields:
+- law
+- medicine
+- forensics
+- software debugging
+- aviation safety
+- manufacturing quality
+- science
+- archives
+- incident response
+- military planning
+- human factors
+
+WHY THIS EXISTS
+A single field can fool us.
+One method can make an idea look important because it fits that field's language.
+
+But when several unrelated fields point toward the same control need, the signal is stronger.
+
+Example:
+One authority boundary is supported by:
+- law: jurisdiction / authority
+- software: permissions / access control
+- incident command: command scope
+- manufacturing: role separation
+- Clean Seed: no hidden boss / no dirty active truth
+
+That convergence makes it stronger than a vibe.
+
+PRISM ROUTE
+Use this route:
+
+1. Name the active question.
+2. Choose the lens families.
+3. Run the same question through each lens.
+4. Record what each lens reveals.
+5. Record where lenses agree.
+6. Record where lenses disagree.
+7. Separate true convergence from word coincidence.
+8. Promote no idea yet.
+9. Use convergence as evidence for later master-seat review.
+
+ACTIVE QUESTION FORMAT
+Question:
+Candidate idea:
+Current claimed role:
+Possible master seat?
+Current uncertainty:
+What would prove it stronger?
+What would weaken it?
+
+LENS PASS FORMAT
+Lens family:
+Method used:
+What this lens sees:
+What failure this lens prevents:
+What Clean Seed station this strengthens:
+Does it support the candidate as master / parent / child / bridge / optional?
+Confidence: low / medium / high
+Evidence:
+Risk of distortion:
+
+CONVERGENCE TABLE
+For each candidate, record:
+- candidate name
+- lens families that support it
+- lens families that weaken it
+- repeated function seen across lenses
+- repeated failure prevented
+- likely role
+- remaining uncertainty
+- verdict
+
+CONVERGENCE VERDICTS
+Strong convergence:
+Several unrelated lenses point to the same function or failure prevention.
+
+Weak convergence:
+Only nearby or similar lenses support the idea.
+
+False convergence:
+The same word appears across fields, but the underlying function is different.
+
+Distortion:
+A lens makes the idea look stronger because the lens is not suited to the current problem.
+
+Cut lens-link:
+The lens does not fit this candidate. Record why and stop using that lens for this claim.
+
+PARKED SIGNAL
+A lens reveals something useful but not for the current candidate.
+Park the signal instead of forcing it.
+
+EXAMPLE STRONG CONVERGENCE
+Candidate:
+Proof custody
+
+Lens signals:
+- forensics: chain of custody
+- law: admissible evidence
+- science: repeatable record
+- software: logs / hashes / rollback proof
+- archives: provenance
+- Clean Seed: no proof, no authority jump
+
+Verdict:
+Strong master-seat candidate or required parent seat.
+
+Reason:
+Many unrelated fields agree that truth loses power if its custody path is broken.
+
+EXAMPLE FALSE CONVERGENCE
+Candidate:
+SEAL as master seat
+
+Possible support:
+science, law, archives, release management, Clean Seed.
+
+Risk:
+SEAL may look master-level because many fields close records.
+But sealing may be a child action under proof custody, memory, or release control rather than a master seat by itself.
+
+Verdict:
+Do not decide by name strength.
+Test whether SEAL controls other seats or only closes work after custody and evidence are already handled.
+
+PRISM RULE
+Do not let one beautiful lens rule the system.
+Beauty is allowed.
+Proof decides.
+
+TREE FAILURE HANDLING
+If a thread, lead, or lens fails:
+- cut the link
+- keep the evidence
+- name why it failed
+- park the idea if it remains useful elsewhere
+- do not delete the idea just because the first link failed
+
+BOUNDARY
+This method does not install doctrine.
+This method does not edit ACTIVE_GUIDES.
+This method does not edit CURRENT_TRUTH_INDEX.
+This method does not authorize cleanup.
+This method does not authorize deletion, movement, rename, overwrite, promotion, or Git publish.
+
+NEXT CLEAN USE
+Use this method before deciding master seats from the Joji 88 / universal method table.
+It should test whether the same master candidates survive across different fields, not just inside one algorithm or one assistant's taste.

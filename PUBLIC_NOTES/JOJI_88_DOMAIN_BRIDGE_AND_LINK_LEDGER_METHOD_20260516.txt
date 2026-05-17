@@ -1,0 +1,135 @@
+JOJI 88 DOMAIN BRIDGE + LINK LEDGER METHOD
+Created: 2026-05-16 20:07:51
+Status: PROOF-HISTORY ONLY
+Install status: NOT ACTIVE DOCTRINE
+Authority: decision fuel only
+
+SOURCE CONTEXT
+This method was created after the Joji 88 Universal Method Table mule draft.
+It responds to the need to understand not only which ideas are good, but what they are good for, where they belong, and what links between them survive testing.
+
+CORE IDEA
+Ideas are not only ranked.
+Ideas are linked.
+
+Truth appears when the same link survives multiple tests.
+
+METHOD NAME
+Domain Bridge + Link Ledger
+
+CORE SENTENCE
+Field -> Method -> Failure it prevents -> Clean Seed station -> Role -> Link -> Test -> Keep / Park / Cut.
+
+PURPOSE
+Use outside human methods without letting them become random expansion.
+Every outside idea must cross a bridge into Clean Seed by showing:
+- what field it came from
+- what problem it was invented to solve
+- what failure it prevents
+- which Clean Seed station it strengthens
+- whether it is master, parent, child, bridge, support, optional lens, duplicate cousin, or parked
+- what it links to
+- what would prove the link is real
+- what would show the link is fake
+
+WHY THIS EXISTS
+The mule found useful outside methods by using method families as discovery doors.
+Examples:
+- Last-known-good checkpoint came from debugging / recovery.
+- Provenance came from archive / source lineage.
+- Burden of proof came from law / evidence.
+
+These are not just extra ideas.
+They are translated method imports.
+
+Clean import means:
+the outside method keeps its useful real-world function, but gets placed inside Clean Seed with role, station, evidence, boundary, and risk.
+
+Dirty import means:
+the outside method sounds smart, but becomes vague bloat, false authority, or a hidden master.
+
+LINK TYPES
+Use these link types when mapping method relationships:
+
+depends-on:
+One idea cannot work safely without another.
+
+parent-of:
+One idea contains or governs another.
+
+child-of:
+One idea works inside another lane.
+
+supports:
+One idea strengthens another but does not control it.
+
+bridge-to:
+One idea connects two different families.
+
+conflicts-with:
+Two ideas cannot both be active in the same way.
+
+duplicate-cousin:
+Two ideas have similar function but come from different fields or wording.
+
+cut-link:
+A tested connection failed.
+
+parked-link:
+A possible connection exists, but evidence is not enough yet.
+
+HOW TO CUT A BAD LINK
+A bad link does not mean the idea is bad.
+It may mean the idea was attached to the wrong parent, wrong station, wrong authority level, or wrong order.
+
+Bad-link record format:
+
+Link tested:
+Claim:
+Evidence:
+Reason the link failed:
+Verdict:
+What happens to the idea now:
+
+EXAMPLE CUT-LINK
+Link tested:
+Burden of proof -> One corrected station order
+
+Claim:
+Burden of proof might be a station-order master.
+
+Evidence:
+Burden of proof controls what must be proven before a claim or verdict can move.
+It does not itself define the full order of work.
+
+Verdict:
+Cut as master-order link.
+Keep as child/support under One evidence rule.
+
+Result:
+The idea is kept.
+The wrong link is removed.
+
+STARTING NODES FOR FIRST LINK LEDGER
+Start with:
+- One authority boundary
+- Proof custody
+- One corrected station order
+- One evidence rule
+- One inhibition rule
+- No identity promotion
+- No hidden deletion
+- SEAL
+- Last-known-good checkpoint
+- Provenance
+- Burden of proof
+
+BOUNDARY
+This method does not install doctrine.
+This method does not edit ACTIVE_GUIDES.
+This method does not edit CURRENT_TRUTH_INDEX.
+This method does not authorize cleanup.
+This method does not authorize deletion, movement, rename, overwrite, promotion, or Git publish.
+
+NEXT CLEAN USE
+Use this method when a mule, assistant, or user finds many good ideas and needs to know how they connect before choosing master seats.
