@@ -1,0 +1,44 @@
+RECEIPT — CHATGPT PASSIVE NOTE-HOLDING ADOPTION
+Created: 2026-05-17 00:39:32
+Repo root:
+C:/Users/13527/Desktop/Johnny-Clean-Seed
+
+Files saved/uploaded to Git: 2
+
+Saved file 1:
+C:\Users\13527\Desktop\Johnny-Clean-Seed\PROOF_HISTORY\CHATGPT_PERSONAL_WORKING_RULE_SET_20260516.txt
+
+Saved file 2:
+C:\Users\13527\Desktop\Johnny-Clean-Seed\PROOF_HISTORY\RECEIPT_CHATGPT_PASSIVE_NOTE_HOLDING_ADOPTION_20260517.txt
+
+Rule file SHA256:
+9A8CCC8D2EDB6D6D8919F0C746B514FC632F54F5D055AE8BFBF621F0FF34CDFF
+
+What this locks:
+- passive note-holding as active assistant behavior
+- non-urgent short line drops hang as linked notes
+- urgent interrupt override
+- linked note fields
+- lingering queue check before operation close
+- no relevant parked notes left floating after close
+- message parking as rope, not forgetting
+
+Boundary:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+AGENTS.md edited: NO
+Doctrine installed: NO
+Tournament state changed: NO
+Mule used: NO
+Cleanup run: NO
+Files moved: NO
+Files deleted: NO
+
+Clean status:
+Assistant working console refined as PROOF_HISTORY support file only.
+Not a fourth active guide.
+Not source truth.
+Not broad doctrine.
+
+Receipt file SHA256:
+55B341462A449D4A8004E4F3A852AE1C6D894298AB11986FC2AFB431259B83DA

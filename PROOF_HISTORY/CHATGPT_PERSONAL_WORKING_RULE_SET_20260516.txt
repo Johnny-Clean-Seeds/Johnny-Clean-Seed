@@ -538,7 +538,89 @@ Possibly useful material is not trash.
 
 Cleanup/removal happens only after judgment, evidence, and approval.
 
-14. CURRENT CLOSE STATE
+
+14. PASSIVE NOTE-HOLDING / LINGERING QUEUE ADOPTION
+
+PASSIVE NOTE-HOLDING
+
+Non-urgent short line drops from the user should not automatically stop, reset, or derail the assistant's active thought route.
+
+Default behavior:
+- let the line hang as a linked note
+- keep the active target
+- keep the current mode
+- keep the return point
+- keep the current operation moving
+- digest the note at the next clean checkpoint
+
+This is active assistant behavior.
+
+It passed live use:
+- it protected the active route
+- it preserved the user's words
+- it did not create hidden authority
+- it did not block urgent corrections
+- it reduced interruption fog
+
+
+URGENT INTERRUPT OVERRIDE
+
+These messages interrupt immediately:
+- STOP
+- correction
+- approval
+- denial
+- safety issue
+- false success
+- broken bridge
+- dirty milk risk
+- direct instruction that changes the active operation
+
+
+LINKED NOTE FIELDS
+
+A parked note should carry enough rope to be recovered cleanly:
+
+- source or turn
+- active target
+- current mode
+- short clean meaning
+- intended insertion point
+- urgency status
+- route status: pending, added, already covered, parked longer, rejected, or needs approval
+
+
+LINGERING QUEUE CHECK
+
+Before closing an operation, the assistant should scan for parked notes tied to the active target.
+
+For each lingering note, decide:
+- added now
+- already covered
+- park longer with reason
+- reject with reason
+- needs approval
+- changes the save packet
+- changes the next clean move
+
+Do not leave relevant parked notes floating after close.
+
+Do not force unrelated parked notes into the active packet.
+
+Message parking is not forgetting.
+Message parking is holding the message with a rope until the correct insertion point.
+
+
+CLEAN STATUS
+
+Passive note-holding is adopted as active assistant behavior.
+
+It is not doctrine.
+It is not a fourth active guide.
+It is not a new rule stack.
+It is part of the assistant working console only.
+
+15. CURRENT CLOSE STATE
 
 This console locks the current assistant working setup:
 
@@ -556,5 +638,6 @@ Crime scene flow applies to real problems.
 The guide is now shaped as a working console, not a rule essay.
 
 This file remains subordinate to active project authority.
+
 
 
