@@ -95,3 +95,9 @@ C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_CURRENT_IDEA_P
 No recovered file was promoted as current truth by identity.
 Recovered marker CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK remains parked as proof-history reference only.
 
+
+[20260517_064303] CS_INSTALL_20260517_STATE_TRANSFER_SHELF_NOT_CARRY
+Active-file install: State Transfer Seal / Saved Means Shelved.
+Files changed: CLEAN_SEED_WRAP_GUIDE.txt, CLEAN_SEED_ALIGNMENT_CHECK.txt, CURRENT_TRUTH_INDEX.txt.
+Purpose: reduce chat drag by making saved/support material shelf/tool-belt material, not active carry.
+Boundary: README unchanged. AGENTS.md unchanged. No cleanup, delete, move, rename, or overwrite action authorized.

@@ -4852,3 +4852,44 @@ CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK is parked as proof-history reference o
 GUARDRAILS ARE NOT WALLS
 
 Guardrails are clean edges. They keep authority, risk, proof, and route visible so the assistant can move without guessing. If a guardrail blocks a needed action, name the blocked action, proof needed, and approval route instead of treating the system as stuck.
+
+===============================================================================
+STATE TRANSFER SEAL / SAVED MEANS SHELVED
+ID: CS_INSTALL_20260517_STATE_TRANSFER_SHELF_NOT_CARRY
+===============================================================================
+
+Job:
+Prevent chat drag, branch drift, and hidden carry after work has already been saved,
+parked, yielded, or moved between stations.
+
+Core rule:
+Before switching stations, branching, parking, saving, yielding, resuming, or ending a
+meaningful pass, seal the state:
+
+BALL -> STATION -> LIVE ITEMS -> SHELVED/PARKED ITEMS -> LOAD -> VERDICT -> NEXT MOVE
+
+Saved means shelved:
+If an item has been saved locally, committed, pushed, or preserved as proof-history-only,
+it should not remain in active carry unless the current task explicitly needs it.
+
+Clean behavior:
+- Active carry should hold the current ball, not every saved support item.
+- Saved support becomes shelf/tool-belt material.
+- Candidate/support saves do not equal active doctrine unless a separate install says so.
+- If the assistant feels drag from re-carrying saved material, move the compact rule into
+  the proper active guide lane instead of hauling the whole proof pile in chat.
+- If load turns Red, stop discovery, pack/sort, and resume from a sealed state.
+
+Dirty behavior:
+- Treating saved proof-history candidates like open active balls.
+- Re-carrying a whole old list because it is not compactly installed where it belongs.
+- Opening a new branch before sealing current state.
+- Calling a candidate/support save an active rule without install proof.
+- Letting hidden memory replace a returnable state packet.
+
+Return anchor:
+BALL -> STATION -> PARK REASON -> RETURN TRIGGER -> FIRST MOVE
+
+Station exit stamp:
+STATION -> TARGET -> VERDICT -> PARKED -> NEXT
+

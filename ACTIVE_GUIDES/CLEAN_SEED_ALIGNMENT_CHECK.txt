@@ -4955,3 +4955,41 @@ unclear ideas, missing sources, public-facing-only ideas, image-only ideas, dupl
 
 FAIL when:
 the active guides become a dumping ground for unplaced material.
+
+===============================================================================
+CHECK: STATE TRANSFER SEAL / SAVED MEANS SHELVED
+ID: CS_INSTALL_20260517_STATE_TRANSFER_SHELF_NOT_CARRY
+===============================================================================
+
+Run this check when:
+- Switching stations.
+- Resuming after pause.
+- Parking a finding.
+- Saving or lock/saving.
+- Continuing after a proof-history candidate/support save.
+- The assistant feels chat drag or starts carrying too many saved items.
+
+Clean if:
+- Current ball is named.
+- Current station is named.
+- Live items are separated from saved/shelved/parked items.
+- Load is named as Green, Yellow, or Red when relevant.
+- Verdict and next move are clear.
+- Saved candidate/support material is not treated as active doctrine.
+- Active-guide installs are separated from proof-history-only saves.
+
+Dirty if:
+- Saved material stays in active carry without need.
+- The assistant says it is carrying items that were already sealed.
+- Branching begins before state is sealed.
+- A proof-history save is treated as an active guide install.
+- Return point is vague.
+- Load is Red and discovery continues anyway.
+
+Verdict:
+PASS only if the state can be resumed from the compact seal without hauling the whole
+chat or proof pile.
+
+Compact seal:
+BALL -> STATION -> LIVE ITEMS -> SHELVED/PARKED ITEMS -> LOAD -> VERDICT -> NEXT MOVE
+
