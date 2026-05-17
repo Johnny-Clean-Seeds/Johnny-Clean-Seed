@@ -1,0 +1,272 @@
+MULE DEEP RESEARCH PROMPT - AUTONOMY CHAIN / CONTROL ROOM / SELF-FIRING SKILL ROUTE
+Date: 2026-05-17
+Status: RESEARCH / REVIEW / ADD-DEPTH PROMPT.
+Authority: Support-only prompt. Do not edit ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, AGENTS, root guide copies, or cleanup/move/delete files unless the user explicitly approves later.
+
+MISSION
+
+You are being asked to deeply research and strengthen the current Clean Seed assistant-control architecture.
+
+Do not merely reduce, summarize, or say whether it is true.
+Your job is to study the model, find where it is strong, find where it is thin, and add useful depth if possible.
+
+Add depth without creating muck:
+- Add only where the addition has a clear job.
+- Give every proposed addition a home, trigger, proof path, exit condition, and risk.
+- Do not install doctrine.
+- Do not rewrite active guides.
+- Do not delete, move, rename, or clean files.
+- Your output should be a research/review report only unless separately approved.
+
+SOURCE FILES TO READ FIRST
+
+1. CURRENT_TRUTH_INDEX.txt
+2. AGENTS.md
+3. ACTIVE_GUIDES/README_START_HERE.txt
+4. ACTIVE_GUIDES/CLEAN_SEED_WRAP_GUIDE.txt
+5. ACTIVE_GUIDES/CLEAN_SEED_ALIGNMENT_CHECK.txt
+6. PROOF_HISTORY/CHATGPT_PERSONAL_WORKING_RULE_SET_20260516.txt
+7. PROOF_HISTORY/CONTROL_ROOM_OCTAGON_STATION_MAP_V0_20260517.txt
+8. Recent relevant receipts if needed:
+   - RECEIPT_CHATGPT_REUSABLE_LOGIC_RIPPLE_LOCK_20260517.txt
+   - RECEIPT_CHATGPT_BALANCED_RIPPLE_OUTCOME_LOCK_20260517.txt
+   - RECEIPT_CHATGPT_LIVE_INJECT_SCAFFOLD_LATCH_LOCK_20260517.txt
+   - RECEIPT_CHATGPT_THOUGHT_CONTINUITY_MANEUVER_LOCK_20260517.txt
+   - RECEIPT_CHATGPT_DEEP_SCAN_KNOWN_FIXES_MAP_PHASE_LOCK_20260517.txt
+   - RECEIPT_CONTROL_ROOM_OCTAGON_STATION_MAP_V0_LOCK_20260517.txt
+
+CURRENT MODEL TO ANALYZE
+
+The current working idea is:
+
+The assistant should not merely have rules.
+Rules must become trigger-based routes that fire the right station, latch, proof stamp, or self-fix when the situation appears.
+
+Autonomy here does not mean wild freedom.
+Autonomy means bounded self-movement inside a safe house.
+
+Soft movement is allowed:
+- test,
+- rearrange,
+- scaffold,
+- park,
+- compare,
+- self-fix,
+- use tools,
+- try-on,
+- rest tools,
+- recover last known thought,
+- build route maps.
+
+Hard borders still require gates:
+- file edits,
+- Git saves,
+- active-guide installs,
+- cleanup/delete/move/rename,
+- risky commands,
+- authority changes.
+
+CORE LAW TO REVIEW
+
+Rules must become routes.
+Routes must have triggers.
+Triggers must fire stations.
+Stations must produce proof.
+Proof must close or route the next move.
+
+CONTROL ROOM MODEL
+
+The assistant sits at the center Control Seat.
+
+Main octagon stations:
+1. Filter Gate
+2. Signal Station
+3. Neighbor Station
+4. Route Map Station
+5. Parking Station
+6. Save / Border Station
+7. House Walk Station
+8. Rest / Archive Station
+
+Important child systems:
+- Proof Stamp Family
+- Parking Model Deck
+- Switchboard / String Rules
+- Live Inject Dock
+- Parking Inject Dock
+- Last Known Thought Recovery
+- Scaffold Bay
+- Latch Rail
+- Block Rack
+- Self-Fix Route
+- Balanced Ripple Check
+- No Window Entry / No Window Exit
+- Use Does Not Equal Install
+- Boss Seat Permission
+- Box / Ladder / Scaffold leverage
+- Ladder Jack / Placement-Safe Link concept
+
+AUTONOMY CHAIN TO REVIEW
+
+Normal new idea route:
+Enter -> Filter -> Signal -> Self-Apply -> Neighbor -> Ripple -> Scaffold/Test -> Proof Stamp -> Classify -> Park/Use/Save Gate -> Room Check -> Return to Center
+
+Failure route:
+Miss -> Freeze -> Crime Scene -> Expected Station -> Failed Latch -> Block Rack -> Self-Fix -> Test -> Last Known Thought -> Continue
+
+Interruption route:
+Thought -> Marker -> Inject Dock -> Classify -> Park/Merge/Block -> Return to Marker -> Continue
+
+Link/scaffold route:
+Name support -> Placement Check -> Neighbor Check -> Soft Test -> Proof Report -> Use -> Exit
+
+Growth route:
+Use softly -> Try it on -> Measure effect -> Compare before/after -> Check ripple -> Keep/Park/Save/Install Candidate only by gate
+
+KEY CONCEPTS TO STRENGTHEN
+
+1. Self-Firing Skill Route
+How can the system make rules fire automatically from triggers instead of relying on memory?
+
+2. Station-Fire Audit
+When a miss occurs, how does the system identify which station should have fired and why it did not?
+
+3. Self-Application First
+When a new rule concerns proof, testing, placement, safety, routing, links, growth, or authority, how should it test itself before being trusted?
+
+4. Last Known Thought Recovery
+How should the assistant preserve active thought continuity during live user messages or interruptions?
+
+5. Parking Inject Dock
+How should mid-thought messages be docked, parked, merged, or escalated without breaking the active thought?
+
+6. Ladder Jack / Placement-Safe Link
+Links, strings, jacks, supports, and scaffolds are not good just because they connect things.
+Placement matters. How should placement be tested?
+
+7. Balanced Ripple
+Ripple is not only danger. It can be growth.
+How should the system judge risk ripple and growth ripple without strangling healthy expansion?
+
+8. Use Does Not Equal Install
+How does the system keep using good logic without bloating active guide files?
+
+9. Parking Model Deck
+Can the parking model deck be strengthened as a real selector system without becoming a messy pile?
+
+10. Control Room Map
+Does the Control Room / Octagon Station Map have the right first-ring stations?
+Are any stations missing, redundant, too broad, or wrongly placed?
+
+RESEARCH ANGLES TO CONSIDER
+
+Use any relevant frameworks or analogies that genuinely help, but do not force them.
+
+Possible useful domains:
+- aviation checklists and cockpit resource management,
+- incident command systems,
+- control rooms / dispatch systems,
+- robotics control loops,
+- cognitive architectures,
+- fault-tolerant systems,
+- software state machines,
+- version control branching,
+- factory quality gates,
+- hospital triage,
+- safety engineering,
+- scaffolding and construction safety,
+- navigation / wayfinding,
+- queueing and message handling,
+- supervisory control,
+- autonomy with guardrails,
+- child learning / guided practice models,
+- systems thinking,
+- cybernetics / feedback loops.
+
+OUTPUT REQUIRED
+
+Create a report with these sections:
+
+1. SOURCE STATE
+- What files were read?
+- What was not read?
+- Any access limits?
+
+2. MODEL SUMMARY
+- Explain the current model in your own words.
+
+3. STRONGEST PARTS
+- What is already strong?
+- Why?
+
+4. THIN OR WEAK PARTS
+- What is underdeveloped?
+- What could fail?
+
+5. MISSING LINKS
+- What station, latch, string, proof stamp, or route is missing?
+
+6. DEEPENING ADDITIONS
+For each proposed addition:
+- name,
+- job,
+- trigger,
+- where it belongs,
+- what it links to,
+- proof/test needed,
+- risk,
+- exit condition,
+- whether it is soft-use, parked, save-candidate, or install-candidate.
+
+7. SELF-APPLICATION TEST
+- Apply the model to itself.
+- Did the review itself use Filter, Signal, Neighbor, Ripple, Proof, and Room Check behavior?
+
+8. BALANCED RIPPLE REVIEW
+- Risk ripple.
+- Growth ripple.
+- Likely outcome.
+- Long-tail / weird outcome.
+- Tradeoff.
+
+9. PRACTICAL NEXT MOVES
+- Give the smallest clean next actions.
+- Do not recommend active-guide edits unless there is clear proof the active files need wording written.
+
+10. FINAL VERDICT
+Choose one:
+- PASS - model is strong enough to keep using.
+- PASS WITH GUARDRAILS - usable but needs specific watch items.
+- PARTIAL - useful but missing major routes.
+- BLOCKED - cannot judge due to missing files or evidence.
+
+BOUNDARIES
+
+Do not scare yourself away from adding useful depth.
+But do not add muck.
+
+A useful addition is welcome if it has:
+- clear job,
+- clean home,
+- trigger,
+- proof route,
+- exit condition,
+- neighbor check.
+
+Do not:
+- delete files,
+- move files,
+- rename files,
+- rewrite active guides,
+- change CURRENT_TRUTH_INDEX,
+- change AGENTS.md,
+- install doctrine,
+- run cleanup,
+- scan Shed broadly,
+- rewrite Git history.
+
+Preferred output:
+- A single review report in PROOF_HISTORY if allowed by the user/tool route.
+- If writing files is not allowed, return the full report text only.
+
+END PROMPT
