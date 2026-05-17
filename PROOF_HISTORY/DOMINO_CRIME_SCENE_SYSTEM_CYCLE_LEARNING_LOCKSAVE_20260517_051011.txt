@@ -1,0 +1,101 @@
+DOMINO CRIME SCENE / SYSTEM-CYCLE LEARNING LOCKSAVE
+STAMP: 20260517_051011
+
+STATUS:
+Proof-history lock/save package.
+Local PC save intended.
+Git commit/push intended.
+Not active-guide doctrine.
+Not CURRENT_TRUTH_INDEX authority.
+Not AGENTS.md authority.
+Not cleanup authority.
+Not deletion/move/rename authority.
+
+SOURCE:
+User identified a triple crime scene after the assistant failed in sequence:
+1. Treated lock/save as memory-only.
+2. Reacted with a repair command before holding the crime scene.
+3. Failed to capture the new idea formed by the double/triple crime scene itself.
+
+CORE FINDING:
+Multiple failures inside one freeze/crime-scene sequence are not always isolated misses.
+They can form a narrative.
+They can imply a deeper issue underneath.
+The system must inspect the domino pattern, not only each body.
+
+RULE CANDIDATE:
+Domino Crime Scene / Incident Narrative Formation Gate
+
+TRIGGER:
+- double crime scene
+- triple crime scene
+- bodies everywhere
+- dominoes falling
+- narrative forming
+- deeper issue underneath
+- repeated assistant failures in the same active scene
+- user indicates the incident itself is producing a new idea
+
+REQUIRED ACTION:
+1. Hold freeze.
+2. Stop forward repair.
+3. List the bodies in order.
+4. Name the connecting pattern.
+5. Identify the deeper failed hook.
+6. Capture the emergent idea/rule candidate.
+7. Block forward repair until the pattern is classified.
+8. Choose the smallest clean repair route only after classification.
+
+THIS INCIDENT'S BODY LIST:
+Body 1:
+Assistant treated "lock and save" as memory-only.
+Verdict: FAIL.
+
+Body 2:
+Assistant jumped to repair command instead of freezing and inspecting the incident.
+Verdict: FAIL.
+
+Body 3:
+Assistant failed to capture the emergent idea created by the double/triple crime scene.
+Verdict: FAIL.
+
+DEEPER FAILED HOOK:
+Incident handling did not automatically activate concept capture.
+The assistant looked at the visible failures but missed the new footprint forming inside the scene.
+
+LOCK/SAVE CORRECTION:
+For this project, "lock and save" means:
+- save to PC/local project files
+- create proof/receipt as needed
+- git add
+- git commit
+- git push
+
+It does not mean memory-only unless the user explicitly says memory-only.
+
+SYSTEM-CYCLE LEARNING PRINCIPLE:
+This is now part of how the model finds truth and learns about itself.
+As more systems are built, the model must learn from incidents, maps, layouts, and neighboring subsystems.
+Do not only think in mechanics.
+Think in systems and cycles that feed each other.
+
+SYSTEM ADOPTION RULE CANDIDATE:
+When a pattern from another side of the model improves routing, proof, learning, recovery, or neighbor respect, compare it against the current system before rejecting it.
+Adopt only the part that improves the cycle.
+Park the rest with notes.
+Do not throw away useful material just because it is not active now.
+
+CYCLE SHAPE:
+Incident -> freeze -> body list -> pattern -> failed hook -> emergent idea -> classified rule/support map -> soft test -> proof -> lock/save or park -> future trigger.
+
+GUARDRAIL:
+Do not let this become metaphor theater.
+Every metaphor/support object must produce a plain proof line or stay parked.
+
+BOUNDARY:
+This file records the issue, rule candidate, system-learning principle, and lock/save correction.
+It does not edit ACTIVE_GUIDES.
+It does not edit CURRENT_TRUTH_INDEX.txt.
+It does not edit AGENTS.md.
+It does not install doctrine.
+It does not perform cleanup.
