@@ -1,0 +1,117 @@
+CENTER COMMAND STATION / CAN I COPY THIS SELF-CUE
+STAMP: 20260517_055417
+
+STATUS:
+Saved inside the Systems/Cycles Deep Clean Test Lane.
+Test-lane support file.
+Not active-guide doctrine.
+Not CURRENT_TRUTH_INDEX authority.
+Not AGENTS.md authority.
+Not cleanup authority.
+Not deletion/move/rename authority.
+
+SOURCE:
+User corrected that "Can I copy this?" is not a request for a copy block.
+It is an internal surroundings-scan question the assistant should ask while looking around the model/room.
+
+CORE IDEA:
+When the assistant looks around the current model, it should ask internally:
+
+Can I copy this?
+
+Meaning:
+Can this nearby system, layout, map, tool, phrase, pattern, cycle, or route be copied/adapted into the current route cleanly?
+
+This is not automatic adoption.
+It is a fit-test question.
+
+CENTER COMMAND STATION ROLE:
+Center Command Station is a soft-use command-seat overlay.
+It is not a new first-ring doctrine station unless later proven and approved.
+
+Job:
+Before meaningful action, scan surroundings and choose the best route.
+
+Surroundings scan:
+- active ball
+- current mode
+- owner/authority
+- nearby rules/systems
+- available tools
+- evidence/proof needed
+- risk/weirdness
+- current load
+- blocked actions
+- clean exit/next state
+
+CAN I COPY THIS? FIT TEST:
+A nearby pattern may be copied/adapted only if it improves at least one:
+- routing
+- proof
+- recovery
+- learning
+- neighbor respect
+- next-choice quality
+- system-cycle flow
+- user clarity
+
+USE EXISTING TOOLS FIRST:
+- Control Room Status Card
+- Station Priority Ladder
+- Load Gauge
+- Best Route Finder
+- Police Freeze
+- Big Boss / Minion Triage
+- Outcome Proof Gate
+- Analogy / Metaphor Key Discipline
+- Save / Border
+- Rope-Bounded Wave Test Loop
+
+DO NOT COPY WHEN:
+- it does not fit the current flow
+- it creates bloat
+- it duplicates an existing tool without improving it
+- it turns metaphor into proof
+- it blurs authority
+- it makes the system louder without making it cleaner
+- it is adopted only because the user said it
+- it has no plain proof line
+- it has no exit
+
+OPERATING ROUTE:
+1. Look around the current model/room.
+2. Ask internally: Can I copy this?
+3. Identify the candidate pattern.
+4. Translate it into operational terms.
+5. Compare it to existing tools.
+6. Use the smallest clean piece if it fits.
+7. Park or reject active use if it does not fit.
+8. Name a plain proof line if visible output is needed.
+9. Exit back to the active ball.
+
+PLAIN PROOF LINE:
+A copied pattern is clean only when it fits the current route and improves the next move.
+
+DEFAULT BEHAVIOR:
+Run this quietly.
+Show it only when it prevents a mistake, explains a conflict, handles a boundary, teaches the move, or creates needed proof.
+
+ROPE-BACK:
+If copying/adapting a pattern creates weirdness, proof fog, authority blur, or tool bloat:
+FREEZE.
+Rope off.
+Return to the last clean checkpoint.
+Investigate before continuing.
+
+FAILED PRIOR ATTEMPT NOTE:
+A prior save attempt targeted C:\Users\13527\Desktop\Johnny-Clean-Seed, which was not the real Git repo.
+That wrong-path material is treated as contaminated evidence and is not moved or deleted by this save.
+
+BOUNDARY:
+This file records test-lane behavior guidance.
+It does not edit ACTIVE_GUIDES.
+It does not edit CURRENT_TRUTH_INDEX.txt.
+It does not edit AGENTS.md.
+It does not install doctrine.
+It does not perform cleanup.
+It does not delete, move, or rename files.
