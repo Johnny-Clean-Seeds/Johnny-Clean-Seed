@@ -1,0 +1,73 @@
+SAVE ID: ASSISTANT_DRIFT_REPAIR_AFTER_ALGORITHM_SAVE_001
+DATE: 20260517_094225
+ROOT: C:\Users\13527\Desktop\messy\Johnny-Clean-Seed
+HEAD BEFORE SAVE: 9dae8b3
+STATUS: PROOF-HISTORY ONLY
+
+REASON:
+User asked to revise recent assistant behavior and clean drift after the algorithm candidate list save.
+
+CONFIRMED PRIOR CLEAN ANCHOR:
+Algorithm candidate list save completed at commit 9dae8b3.
+The returned PowerShell report showed:
+- proof-history file created
+- receipt created
+- commit succeeded
+- push succeeded
+- post-push git status clean
+- ACTIVE_GUIDES edited: NO
+- CURRENT_TRUTH_INDEX edited: NO
+- AGENTS.md edited: NO
+- doctrine install: NO
+- cleanup: NO
+- files deleted/moved/renamed: NO
+- algorithm use/install: NO
+
+DRIFT FOUND:
+1. False background-work posture.
+Assistant spoke as if it could keep working silently after a response ended.
+Correction: assistant only works inside the current turn unless the user runs a local script or an explicit scheduled task exists.
+
+2. Chat-output bloat.
+Assistant dumped too much working material into chat.
+Correction: chat is for confirmations, status checks, and user decisions. Durable work belongs in files when save/lock is requested.
+
+3. Over-naming.
+Assistant created too many working labels.
+Correction: names are only useful if they control action. Decorative names do not become progress.
+
+4. Loose autonomous wording.
+Assistant used autonomous language too broadly.
+Correction: autonomous means choosing the next bounded move inside approved constraints. It does not mean background execution, endless silent work, or proof bypass.
+
+5. Anchor update.
+Old resume anchor was 03760d4.
+Current clean anchor after algorithm candidate list save is 9dae8b3.
+
+CLEANED OPERATING RULES FROM THIS POINT:
+- Do not imply background work.
+- Return actual work in the current response or provide a local script for the user to run.
+- Keep chat compressed.
+- Do not dump trays, long lists, or internal notes in chat.
+- Use files for durable saves.
+- Do not create new names unless they change behavior.
+- Do not install anything into active guides without explicit approval and tested need.
+- Treat current anchor as 9dae8b3 unless a later verified commit is returned.
+- Next clean route remains: test one saved algorithm candidate through Tool Trial Ledger.
+- First recommended trial remains Watchdog because it targets silent stall / fake-running behavior.
+
+BOUNDARY:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX edited: NO
+AGENTS.md edited: NO
+Doctrine install: NO
+Cleanup: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Algorithm use/install: NO
+
+VERDICT:
+PASS WITH GUARDRAILS.
+Drift was identified and cleaned at behavior level.
+This file is proof-history-only and does not change active doctrine.
