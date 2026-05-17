@@ -1,0 +1,134 @@
+SAVE ID: READINESS_PROBE_TOOL_TRIAL_PASS_001
+DATE: 20260517_152753
+ROOT: C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+GIT TOPLEVEL: C:/Users/13527/Desktop/Jxhnny_Kleen_C3dz
+HEAD BEFORE SAVE: 9e9d0b0
+REMOTE: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed.git
+STATUS: PROOF-HISTORY ONLY
+
+ACTIVE BALL:
+Test Readiness Probe as the third algorithm candidate through Tool Trial Ledger.
+
+SOURCE ANCHOR:
+Current clean anchor before this save is expected to be 9e9d0b0.
+Local repo path was renamed and verified:
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+
+Prior rack status:
+- Watchdog: PASS AS RACK TOOL.
+- Heartbeat: PASS AS RACK TOOL.
+
+TOOL NAME:
+Readiness Probe
+
+TOOL CLASS:
+Control-pattern candidate.
+
+PROBLEM IT TARGETS:
+Actions can run against the wrong folder, stale state, missing variables, missing files, wrong repo, or unready tool and still print misleading PASS-style output.
+
+This previously mattered because:
+- Repo path changed.
+- Earlier staged work had missing variables but still printed completion-style output.
+- The assistant must not trust a path, file state, or anchor until checked.
+
+READINESS PROBE JOB:
+Check whether the target repo/tool/state is ready before action starts.
+
+FIT TEST:
+Readiness Probe is useful in Clean Seed work if it can do all of these:
+1. Confirm the target path exists.
+2. Confirm the path is a Git repo when Git action is planned.
+3. Confirm the expected authority files/folders exist.
+4. Confirm current HEAD/anchor when needed.
+5. Confirm remote identity when needed.
+6. Confirm working tree state before writing/committing.
+7. Hard-stop before action if required state is missing.
+8. Avoid printing PASS after missing state.
+
+TRIAL AGAINST CURRENT STATE:
+Checked:
+- Repo path exists.
+- .git exists.
+- Git top-level resolves.
+- HEAD before save: 9e9d0b0
+- Remote: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed.git
+- Required paths found:
+  - ACTIVE_GUIDES
+  - PROOF_HISTORY
+  - CURRENT_TRUTH_INDEX.txt
+  - AGENTS.md
+  - ACTIVE_GUIDES\README_START_HERE.txt
+  - ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt
+  - ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt
+
+READINESS RESULT:
+PASS.
+Required state exists before this proof-history save.
+
+PASS CONDITION:
+Readiness Probe passes if it checks required state before action and hard-stops on missing required state.
+
+FAIL CONDITION:
+Readiness Probe fails if it lets action continue after missing repo, wrong repo, missing authority files, stale/missing variables, or unclear anchor.
+
+OBSERVED RESULT:
+Readiness Probe is a strong rack tool.
+It directly prevents wrong-path, stale-variable, and false-PASS failures.
+
+NEIGHBOR SCAN:
+Touches:
+- local script handoff behavior
+- repo identity checks
+- stage gates
+- proof-before-PASS behavior
+- save/lock flow
+- Tool Trial Ledger
+
+Does not require:
+- active guide edit
+- CURRENT_TRUTH_INDEX edit
+- AGENTS.md edit
+- doctrine install
+- cleanup
+- file move/delete/rename
+
+RISK:
+If overused, Readiness Probe could add unnecessary ceremony to tiny tasks.
+Clean use should be required before:
+- Git writes
+- active guide edits
+- cleanup
+- delete/move/rename
+- staged scripts
+- bridge/tool work
+- anything that depends on expected path, anchor, or variables
+
+COMPRESSED OPERATING SHAPE:
+Before risky or state-dependent action:
+1. Check target exists.
+2. Check identity.
+3. Check required files/state.
+4. Check current status.
+5. If missing state: stop with FAIL / MISSING_STATE.
+6. If ready: proceed.
+
+TRIAL VERDICT:
+PASS AS RACK TOOL.
+Readiness Probe is useful as operating gear.
+It should not be installed into active doctrine yet.
+It should be tested once more during a real staged script where state could be missing.
+
+BOUNDARY:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX edited: NO
+AGENTS.md edited: NO
+Doctrine install: NO
+Cleanup: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+
+NEXT:
+Test Circuit Breaker separately.
+Circuit Breaker stops repeated same-class failure loops after a threshold.
