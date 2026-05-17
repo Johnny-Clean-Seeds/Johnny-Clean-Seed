@@ -1,0 +1,125 @@
+SAVE ID: CIRCUIT_BREAKER_TOOL_TRIAL_PASS_001
+DATE: 20260517_153000
+ROOT: C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+GIT TOPLEVEL: C:/Users/13527/Desktop/Jxhnny_Kleen_C3dz
+HEAD BEFORE SAVE: 097a19e
+REMOTE: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed.git
+STATUS: PROOF-HISTORY ONLY
+
+ACTIVE BALL:
+Test Circuit Breaker as the fourth algorithm candidate through Tool Trial Ledger.
+
+SOURCE ANCHOR:
+Current clean anchor before this save is expected to be 097a19e.
+
+Prior rack status:
+- Watchdog: PASS AS RACK TOOL.
+- Heartbeat: PASS AS RACK TOOL.
+- Readiness Probe: PASS AS RACK TOOL.
+
+TOOL NAME:
+Circuit Breaker
+
+TOOL CLASS:
+Control-pattern candidate.
+
+PROBLEM IT TARGETS:
+Repeated same-class failure loops can burn time, tokens, context, and trust.
+The system may keep retrying the same bad route while calling it persistence.
+
+Examples:
+- same script keeps failing from same missing state
+- same assistant drift keeps recurring
+- same cleanup/scan route keeps producing no new proof
+- same tool path is blocked but still retried
+- same correction is repeated without changing method
+
+CIRCUIT BREAKER JOB:
+Stop repeated same-class failures after a clear threshold and force a safer state.
+
+FIT TEST:
+Circuit Breaker is useful in Clean Seed work if it can do all of these:
+1. Detect repeated same-class failure.
+2. Count or identify recurrence enough to justify stopping.
+3. Stop retries before waste becomes damage.
+4. Return a clear state: BLOCKED / FAIL / NEEDS NEW ROUTE / USER DECISION.
+5. Preserve the failed evidence.
+6. Avoid deleting or hiding failed attempts.
+7. Route to repair, rollback, park, or user decision.
+
+TRIAL AGAINST RECENT FAILURE TYPES:
+Recent relevant failures:
+- fake-running posture repeated before correction
+- stale/missing state risk in staged scripts
+- possible over-scanning / over-naming before useful state change
+- wrong or old repo path risk after rename
+
+Correct Circuit Breaker behavior:
+- Do not retry the same failing route blindly.
+- Stop after repeated same-class miss.
+- Name the failure class.
+- Preserve evidence.
+- Change method before retrying.
+
+PASS CONDITION:
+Circuit Breaker passes if it stops repeated same-class failure and forces a changed method or clean block.
+
+FAIL CONDITION:
+Circuit Breaker fails if it becomes a panic stop, blocks useful persistence too early, or hides failure evidence.
+
+OBSERVED RESULT:
+Circuit Breaker is a strong rack tool.
+It complements Readiness Probe:
+- Readiness Probe checks before action.
+- Circuit Breaker stops repeated failure during/after action.
+
+NEIGHBOR SCAN:
+Touches:
+- staged scripts
+- retries
+- local tool work
+- assistant behavior repair
+- proof-before-PASS
+- Wave / attempt limits
+- Watchdog and Readiness Probe
+
+Does not require:
+- active guide edit
+- CURRENT_TRUTH_INDEX edit
+- AGENTS.md edit
+- doctrine install
+- cleanup
+- file move/delete/rename
+
+RISK:
+If too sensitive, Circuit Breaker can stop real learning too early.
+Clean use should require repeated same-class failure or clear no-progress loop, not one ordinary mistake.
+
+COMPRESSED OPERATING SHAPE:
+When a route fails:
+1. Classify the failure.
+2. If first failure: repair normally.
+3. If same-class failure repeats: trip breaker.
+4. Stop blind retry.
+5. Preserve evidence.
+6. Choose changed method, rollback, park, or user decision.
+
+TRIAL VERDICT:
+PASS AS RACK TOOL.
+Circuit Breaker is useful as operating gear.
+It should not be installed into active doctrine yet.
+It should be tested once in a real repeated-failure script or assistant behavior loop before active-guide proposal.
+
+BOUNDARY:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX edited: NO
+AGENTS.md edited: NO
+Doctrine install: NO
+Cleanup: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+
+NEXT:
+Test Capped Retry separately.
+Capped Retry limits attempts before Circuit Breaker or route change.
