@@ -1,0 +1,36 @@
+CENTER COMMAND STATION / CAN I COPY THIS SELF-CUE LOCKSAVE
+STAMP: 20260517_055417
+
+STATUS:
+Proof-history lock/save record for the test-lane file.
+
+Real repo:
+C:\Users\13527\Desktop\messy\Johnny-Clean-Seed
+
+Lane file:
+C:\Users\13527\Desktop\messy\Johnny-Clean-Seed\TEST_LANES\SYSTEMS_CYCLES_DEEP_CLEAN_TEST_LANE_20260517_053215\CENTER_COMMAND_STATION_CAN_I_COPY_THIS_SELF_CUE_20260517_055417.txt
+
+Purpose:
+Save the Center Command Station / "Can I copy this?" self-cue into the Systems/Cycles Deep Clean Test Lane.
+
+Failed prior attempt:
+A prior command targeted C:\Users\13527\Desktop\Johnny-Clean-Seed.
+That path exists but is not the real Git repo and has no .git.
+Wrong-path partial proof files are not deleted or moved by this repair.
+
+Path repair note:
+This corrected save normalizes Git's forward-slash repo path before comparing it to the Windows path.
+
+Boundary:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX edited: NO
+AGENTS.md edited: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Cleanup performed: NO
+Doctrine installed: NO
+
+Git action:
+Add the new test-lane file normally.
+Force-add this proof-history file and receipt because PROOF_HISTORY may be ignored.
