@@ -1,11 +1,11 @@
-System.Collections.Hashtable.Label — ROOT POINTER
+CLEAN SEED ALIGNMENT CHECK — ROOT POINTER
 
 Status: POINTER / PUBLIC ROUTE
 Authority: Not the active guide body.
 
 The active copy lives here:
 
-System.Collections.Hashtable.Active
+ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt
 
 Reason:
 

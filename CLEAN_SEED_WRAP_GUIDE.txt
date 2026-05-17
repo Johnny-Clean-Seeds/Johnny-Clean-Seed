@@ -1,11 +1,11 @@
-System.Collections.Hashtable.Label — ROOT POINTER
+CLEAN SEED WRAP GUIDE — ROOT POINTER
 
 Status: POINTER / PUBLIC ROUTE
 Authority: Not the active guide body.
 
 The active copy lives here:
 
-System.Collections.Hashtable.Active
+ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt
 
 Reason:
 

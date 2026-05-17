@@ -1,11 +1,11 @@
-System.Collections.Hashtable.Label — ROOT POINTER
+README START HERE — ROOT POINTER
 
 Status: POINTER / PUBLIC ROUTE
 Authority: Not the active guide body.
 
 The active copy lives here:
 
-System.Collections.Hashtable.Active
+ACTIVE_GUIDES\README_START_HERE.txt
 
 Reason:
 
