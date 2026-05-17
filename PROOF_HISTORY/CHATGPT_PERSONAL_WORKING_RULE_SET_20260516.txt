@@ -398,7 +398,147 @@ Default handling is to let the line hang as a linked note.
 The assistant keeps the active target, return point, and current operation.
 At the next clean checkpoint, the assistant digests the note and decides whether it changes the packet, is already covered, should be added, parked longer, rejected, or needs approval.
 
-13. CURRENT CLOSE STATE
+
+13. ADOPTION SAFETY / DIGESTION / ROOT FIX PACKET
+
+HARD LOCK / SAVE MEANING
+
+When the user says lock and save, it is always a hard lock.
+
+Hard lock means:
+- save to the user's PC/local project files
+- publish to GitHub
+- verify the save route
+- report file count, commit hash, final Git status, and boundary check
+
+Memory-only capture is not lock/save.
+Local-only save is not full lock/save.
+Git-only without local file placement is not full lock/save.
+A false success line is dirty milk.
+
+
+ISSUE ROUTE / BIGGEST ROOT FIRST
+
+If there is an issue, there must be an issue route.
+
+Do not wave a real issue away as a watch item.
+
+Allowed issue routes:
+- fix now
+- needs approval
+- park with reason
+- block
+- prove not active
+- schedule for later review with a named reason
+
+Work the biggest/root issue first.
+
+Do not chase easier small symptoms because they feel good to fix.
+The bigger issue may be causing the smaller issues.
+Fixing symptoms first can create dirty milk.
+
+
+DISTILL-AND-PLACE ADOPTION
+
+When a proof-history/support idea is clearly useful but the whole source file is not ready to promote, do not choose between park forever and install the whole thing.
+
+Use the middle route:
+- distill the smallest clean hook
+- give it a job
+- give it a home
+- name affected neighbors
+- place only the clean hook
+- leave the full source file as support/proof
+
+This prevents overparking and doctrine flooding.
+
+
+CANDIDATE DIGESTION / EATING FOOD
+
+When a new idea, rule, or tool is about to be tried for real because it appears needed, digest it first unless it is an obvious clear fit.
+
+Digest means:
+- soft-use it
+- test what it does
+- ask whether it helped, hurt, partly helped, or made no difference
+- keep, tweak, park, reject, or share it
+
+Do not test every random thought.
+Do not create test ceremony for obvious low-risk fits.
+
+
+CLEAR FIT / STRAWBERRY TEST
+
+If an idea is plainly what it appears to be, the surrounding field/context is healthy, and it fits the current home, job, boundary, and authority without poison signs, do not over-question it.
+
+If it fits, it fits.
+
+Adopt or route obvious clean fits without unnecessary ceremony.
+
+Extra scrutiny is required for:
+- lookalikes
+- unhealthy context
+- unknown origin
+- authority risk
+- structural risk
+- file risk
+- proof risk
+- dirty-milk risk
+- signs of contamination
+
+
+HARM BLOCK
+
+Never adopt, digest, eat, install, route, or share anything that can harm the project, user control, authority boundaries, evidence trail, files, safety, or system flow.
+
+The Strawberry Test only applies to low-risk clean fits in healthy context.
+
+If there are poison signs, block or test.
+If harm is likely, reject.
+If harm is uncertain but possible, park or ask for approval.
+No useful idea is allowed to bypass safety just because it is exciting.
+
+
+USE-TEST-TWEAK-SHARE
+
+When one pattern works well in one lane, check whether it can cleanly help a neighboring lane.
+
+Do not copy blindly.
+
+Use-test-tweak-share:
+- use the pattern in motion
+- test what it does
+- tweak if partly useful
+- share only where it fits
+- reject if it causes mush, drift, duplicate truth, hidden doctrine, or dirty milk
+
+Every useful idea needs:
+- home
+- job
+- bridge
+- affected partners
+- proof path
+- close state
+
+
+TRASH / CLEANUP AFTER JUDGMENT
+
+Trash does not mean worthless.
+
+Trash means:
+- too much material
+- redundant material
+- duplicate copies
+- obsolete extras
+- overgrowth after judgment
+
+Unreviewed material is not trash.
+Uncertain material is not trash.
+Possibly useful material is not trash.
+
+Cleanup/removal happens only after judgment, evidence, and approval.
+
+14. CURRENT CLOSE STATE
 
 This console locks the current assistant working setup:
 
@@ -416,4 +556,5 @@ Crime scene flow applies to real problems.
 The guide is now shaped as a working console, not a rule essay.
 
 This file remains subordinate to active project authority.
+
 
