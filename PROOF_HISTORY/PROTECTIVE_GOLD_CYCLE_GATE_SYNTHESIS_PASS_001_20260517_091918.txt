@@ -1,0 +1,234 @@
+PROTECTIVE GOLD CYCLE GATE — SYNTHESIS PASS 001
+STAMP: 20260517_091918
+SAVE_ID: PROTECTIVE_GOLD_CYCLE_GATE_SYNTHESIS_PASS_001
+
+STATUS
+- Active-guide edit: NO
+- CURRENT_TRUTH_INDEX edit: NO
+- AGENTS.md edit: NO
+- README edit: NO
+- Active doctrine install: NO
+- Cleanup: NO
+- Delete/move/rename: NO
+- Broad scan: NO
+- Synthesis report save: YES
+
+SOURCE BASIS
+This synthesis comes from the clean read-only retest of the protective/autonomic/gold hunt.
+
+Retest facts:
+- Repo status was clean.
+- Files inspected by filename/path only: 649.
+- Candidate files by filename/path signal: 376.
+- Files sampled: 10.
+- Total sample lines printed: 49.
+- Writes: NO.
+- Report created during retest: NO.
+- Git add/commit/push during retest: NO.
+
+WHAT THE RETEST PROVED
+The earlier failure was not simply "long block bad."
+The real problem was fragile interactive staging:
+- missing variables between stages,
+- PowerShell interactive parsing seams,
+- overcomplicated repair logic,
+- fake-looking completion after missing state.
+
+A longer block can work if it is:
+- self-contained,
+- read-only until proven,
+- has repo/status gates,
+- rebuilds its own state,
+- prints real evidence,
+- avoids save/install until after review.
+
+PRIMARY SYNTHESIS
+Protective Gold Cycle Gate
+
+JOB
+When gold appears during a task, protect the active task while preserving the gold.
+
+CORE ROUTE
+SIGNAL -> TRAY -> TAG -> RETURN -> DIGEST -> CLASSIFY -> TEST/SAVE/INSTALL
+
+WHY IT EXISTS
+Gold appears during active work.
+If chased inline, the assistant drops the active task and creates more loose ore.
+If ignored, useful gold is lost.
+The correct move is capture without derailment.
+
+DIRTY ROUTE
+ORE -> EXCITEMENT -> INLINE CHASE -> ACTIVE TASK DROP -> MORE ORE LOST
+
+CLEAN ROUTE
+ORE -> TRAY -> TAG -> RETURN TO ACTIVE TASK -> DIGEST CHECKPOINT -> CLASSIFY -> TEST/INSTALL ONLY IF APPROVED
+
+COMPONENTS
+
+1. SIGNAL
+Meaning:
+A useful idea, repeated pattern, protective rule, algorithm fit, bit/string clue, or child-gold item appears.
+
+Action:
+Recognize it without chasing it.
+
+2. TRAY
+Meaning:
+Temporary visible holding area.
+
+Action:
+Place the item in a bounded tray, not active doctrine.
+
+3. TAG
+Meaning:
+Each item gets minimum routing metadata.
+
+Required tag fields:
+- source
+- why it matters
+- active task it interrupted
+- return trigger
+- risk if chased now
+- likely home
+
+4. RETURN
+Meaning:
+Go back to the active task.
+
+Action:
+Do not let gold capture become the new task unless user explicitly redirects.
+
+5. DIGEST
+Meaning:
+Review tray items at a checkpoint.
+
+Action:
+Use question ladder only after the active task is safe.
+
+6. CLASSIFY
+Possible states:
+- rack
+- pallet
+- reference
+- quarantine
+- install candidate
+- proof-history only
+- reject as active
+- duplicate support
+- needs user approval
+
+7. TEST / SAVE / INSTALL
+Meaning:
+Nothing becomes doctrine because it feels valuable.
+
+Action:
+Test first.
+Save proof-history if useful.
+Install only after separate approval.
+
+PROTECTIVE VEIN
+The retest showed protective material around:
+- protected name guard,
+- active suit and guardrails,
+- exact target guard,
+- incident capture,
+- not-automatic-command warnings.
+
+Classification:
+Rack candidate.
+
+Risk:
+Protective controls can become friction if used everywhere.
+
+Clean use:
+Use them before risky action, cleanup, overwrite, broad scan, install, promotion, or authority movement.
+
+GOLD VEIN
+The retest showed gold material around:
+- child-gold,
+- capture,
+- source-ore,
+- tray,
+- parking-lot watch,
+- proof-history receipts.
+
+Classification:
+Rack candidate.
+
+Risk:
+Gold capture can become active-task derailment.
+
+Clean use:
+Capture small, tag, return, digest later.
+
+ALGORITHM VEIN
+The retest showed algorithm/cycle material around:
+- algorithm list locksaves,
+- cycle controls,
+- guardrails,
+- loop/closed-loop proof material.
+
+Classification:
+Rack/reference candidate.
+
+Risk:
+Algorithm names can become decoration or proof fog.
+
+Clean use:
+Use algorithm labels only when they produce a concrete routing move.
+
+ALGORITHM SEARCH ADDENDS FROM THIS SYNTHESIS
+
+Protective/autonomic:
+- Watchdog / heartbeat monitor
+- Liveness/readiness probe
+- Circuit breaker
+- Retry with capped backoff
+- Dead-letter queue
+- Quarantine lane
+- Rollback / last-known-good
+- Checkpoint + restore
+- Sentinel / guard process
+- Self-healing loop with stop gate
+
+Repeated pattern / bit-string:
+- Finite-state automaton
+- Regex gate
+- Trie / prefix tree
+- N-gram sequence detector
+- Edit distance / Levenshtein
+- Hamming distance
+- Run-length / repeated-run detector
+- Rolling hash / fingerprint
+- Entropy / randomness check
+- Anomaly detection
+
+Gold extraction:
+- Capture funnel
+- Gold tray
+- Child-gold sweep
+- No Loose Gear Rule
+- Pattern Signal Gate
+- Question-ladder digest
+- Mark-and-sweep for classification, not deletion
+- Duplicate-is-evidence gate
+- Pallet before promotion
+
+BOUNDARY
+This report is proof-history synthesis only.
+It does not install active doctrine.
+It does not edit active guides.
+It does not update CURRENT_TRUTH_INDEX.
+It does not clean, delete, move, or rename files.
+It does not run a new broad hunt.
+
+NEXT CLEAN ACTION
+After this save verifies:
+Decide whether Protective Gold Cycle Gate should remain proof-history only, become a rack/tool candidate, or be installed later into active guides after approval.
+
+VERDICT
+PASS as proof-history synthesis.
+NO PASS as active install.
+NO cleanup performed.
+NO files deleted/moved/renamed.
+NO active-guide edit.
