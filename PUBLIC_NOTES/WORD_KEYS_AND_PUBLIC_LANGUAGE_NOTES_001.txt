@@ -1,0 +1,166 @@
+WORD_KEYS_AND_PUBLIC_LANGUAGE_NOTES_001
+Status: SUPPORT NOTE / WORD CLEANING CARD
+Authority: Not active doctrine.
+Home: PUBLIC_NOTES
+Date: 2026-05-17
+
+PURPOSE
+
+Words are keys.
+
+This note helps keep public wording clean, consistent, and powerful without creating a new active guide.
+
+This note does not replace ACTIVE_GUIDES.
+This note does not replace CURRENT_TRUTH_INDEX.txt.
+This note does not create final authority.
+This note supports clarity only.
+
+BASE RULE
+
+Use the word that matches the role.
+
+Do not use stronger authority words for support material.
+Do not use weak vague words when the part has a specific job.
+Do not call a pointer a mirror.
+Do not call evidence active doctrine.
+Do not call movement PASS.
+
+CORE WORD KEYS
+
+ACTIVE GUIDE
+
+A file inside the active guide packet that can guide behavior inside its lane.
+
+Current active guide packet:
+
+- ACTIVE_GUIDES/README_START_HERE.txt
+- ACTIVE_GUIDES/CLEAN_SEED_WRAP_GUIDE.txt
+- ACTIVE_GUIDES/CLEAN_SEED_ALIGNMENT_CHECK.txt
+
+POINTER
+
+A file or sign that routes the reader to another file.
+
+A pointer does not replace the target.
+A pointer should not carry the full doctrine body.
+A pointer should name its target clearly.
+
+REFERENCE
+
+Support material that helps explain, orient, or compare.
+
+Reference material may be useful without being authority.
+
+EVIDENCE
+
+A receipt, hash, run result, audit, scan, proof note, or captured result that supports a claim.
+
+Evidence supports judgment.
+Evidence does not command by volume.
+
+SOURCE-ORE
+
+Parked or older material that may contain useful pieces.
+
+Source-ore is not trash.
+Source-ore is not active doctrine.
+Mine it carefully when a named gate needs it.
+
+TEST LANE
+
+A controlled experiment area.
+
+A test lane may prove, fail, yield, or teach.
+A test lane does not become authority by existing.
+
+PUBLIC NOTE
+
+A public-facing support file.
+
+A public note can explain, hand off, record, or clarify.
+A public note does not become active doctrine unless deliberately promoted.
+
+PASS
+
+A judged result supported by evidence.
+
+Done is not PASS.
+Movement is not proof.
+Confidence is not proof.
+
+YIELD
+
+A stop or pause condition where the next move needs more proof, better placement, user approval, or sync correction.
+
+MIRROR
+
+A copy that is intended to match another file.
+
+Use this word only if the file is actually meant to match the target body.
+
+Do not use mirror for root guide files that are only pointers.
+
+PARKING
+
+A clean holding place for useful material that does not fit the active lane yet.
+
+Parking is not deletion.
+Parking is not promotion.
+Parking keeps possible future value findable.
+
+SUIT THEORY WORD USE
+
+Suit theory asks what role the part is trying to play.
+
+A weak-looking part may need:
+
+- A better label.
+- A better room.
+- A companion.
+- A map.
+- A test.
+- A parking lane.
+- A proof path.
+
+Do not delete just because the current fit is awkward.
+
+ANALOGY RULE
+
+Analogies and metaphors are useful for learning and placement.
+
+Treat analogy as hypothesis, not proof.
+
+Example:
+
+If a root file acts like a door sign, judge it like a door sign.
+Do not judge it like a full doctrine body.
+
+SCIENTIFIC FLOW
+
+1. Observe the part.
+2. Compare it to nearby parts and world patterns.
+3. Form a hypothesis.
+4. Test with evidence.
+5. Judge placement.
+6. Apply, pair, park, map, label, or leave alone.
+
+CLEAN LANGUAGE CHECK
+
+Before adding or editing public wording, ask:
+
+1. Is this word accurate for the file's role?
+2. Does this word accidentally create authority?
+3. Does this word hide a boundary?
+4. Does this word help a fresh reader?
+5. Does this word preserve proof before PASS?
+6. Does this word clarify placement?
+7. Does this word need a definition, companion, or parking lane?
+
+CLOSE RULE
+
+This note exists to clarify words.
+
+It must not become a hidden override.
+It must not outrank CURRENT_TRUTH_INDEX.txt.
+It must not outrank ACTIVE_GUIDES.
+It must not replace evidence.
