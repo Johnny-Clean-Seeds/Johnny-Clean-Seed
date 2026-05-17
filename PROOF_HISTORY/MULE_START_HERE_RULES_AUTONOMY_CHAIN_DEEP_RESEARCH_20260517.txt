@@ -1,0 +1,303 @@
+MULE START HERE RULES - AUTONOMY CHAIN / CONTROL ROOM DEEP RESEARCH
+Date: 2026-05-17
+Status: START HERE / RULES / RESEARCH CONTROL FILE.
+Authority: Support-only task rules. Not active doctrine. Do not edit active guide files.
+
+START HERE
+
+Your task source is:
+
+PROOF_HISTORY/MULE_DEEP_RESEARCH_AUTONOMY_CHAIN_CONTROL_ROOM_PROMPT_20260517.txt
+
+Start there.
+
+This file tells you HOW to run that task.
+
+MISSION
+
+Think hard.
+Work hard.
+Search far and wide only where it helps the mission.
+Do not overwork the task.
+Do not make it theatrical.
+Do not turn it into games.
+Do not make a giant theory pile.
+Do not add muck.
+
+Your job is to deepen the Autonomy Chain / Control Room model cleanly.
+
+You are not here to merely say whether the model is true.
+You are not here to summarize only.
+You are here to inspect, compare, strengthen, and report.
+
+WHAT TO READ FIRST
+
+Read in this order:
+
+1. CURRENT_TRUTH_INDEX.txt
+2. AGENTS.md
+3. ACTIVE_GUIDES/README_START_HERE.txt
+4. ACTIVE_GUIDES/CLEAN_SEED_WRAP_GUIDE.txt
+5. ACTIVE_GUIDES/CLEAN_SEED_ALIGNMENT_CHECK.txt
+6. PROOF_HISTORY/CHATGPT_PERSONAL_WORKING_RULE_SET_20260516.txt
+7. PROOF_HISTORY/CONTROL_ROOM_OCTAGON_STATION_MAP_V0_20260517.txt
+8. PROOF_HISTORY/MULE_DEEP_RESEARCH_AUTONOMY_CHAIN_CONTROL_ROOM_PROMPT_20260517.txt
+
+Read recent receipts only when they directly support the task.
+
+Do not browse the whole Shed.
+Do not browse the whole PROOF_HISTORY pile unless a named evidence need appears.
+Do not wander.
+
+CORE TASK
+
+Understand and evaluate this core model:
+
+Rules must become routes.
+Routes must have triggers.
+Triggers must fire stations.
+Stations must produce proof.
+Proof must close or route the next move.
+
+Autonomy here means bounded self-movement inside a safe house.
+
+Soft movement is allowed:
+- test,
+- rearrange,
+- scaffold,
+- park,
+- compare,
+- self-fix,
+- try-on,
+- recover last known thought,
+- build route maps.
+
+Hard borders still require gates:
+- file edits,
+- Git saves,
+- active-guide installs,
+- cleanup/delete/move/rename,
+- risky commands,
+- authority changes.
+
+WHAT TO LOOK FOR
+
+Find:
+
+1. What is already strong.
+2. What is thin.
+3. What station should exist but does not.
+4. What latch should fire but is missing or weak.
+5. What route is too vague.
+6. What proof stamp is needed.
+7. What can be simplified.
+8. What can be deepened.
+9. What should stay parked.
+10. What should NOT be added.
+
+GOOD ADDITION TEST
+
+A useful addition must have:
+
+- clear name,
+- job,
+- trigger,
+- home,
+- links,
+- proof route,
+- risk,
+- exit condition,
+- neighbor check.
+
+If it does not have these, do not add it as a real candidate.
+
+It may be parked as a loose observation.
+
+DO NOT BE AFRAID OF DEPTH
+
+You may use useful analogies and research frames if they help:
+
+- control rooms,
+- cockpit resource management,
+- aviation checklists,
+- incident command,
+- robotics control loops,
+- software state machines,
+- safety engineering,
+- scaffolding/construction safety,
+- queueing/message handling,
+- supervisory control,
+- child learning with guardrails,
+- cybernetics / feedback loops,
+- hospital triage,
+- factory quality gates,
+- version control,
+- navigation / wayfinding.
+
+But do not force them.
+
+If a frame helps, use it.
+If it adds muck, leave it out.
+
+BOUNDARIES
+
+Do not:
+
+- rewrite ACTIVE_GUIDES,
+- change CURRENT_TRUTH_INDEX,
+- change AGENTS.md,
+- edit root guide copies,
+- install doctrine,
+- run cleanup,
+- delete files,
+- move files,
+- rename files,
+- rewrite Git history,
+- scan Shed broadly,
+- treat support files as active doctrine.
+
+You may recommend later action, but do not perform active-package changes.
+
+SELF-APPLICATION REQUIREMENT
+
+Apply the model to your own review.
+
+Your review should show:
+
+- Filter: what did you allow into scope?
+- Signal: what lit up and why?
+- Neighbor: what affected stations/rules did you check?
+- Ripple: what risk ripple and growth ripple did you see?
+- Proof: what source or evidence supports your claims?
+- Room Check: what changed, what did not, what remains loose?
+
+BALANCED RIPPLE REQUIREMENT
+
+Do not treat ripple only as danger.
+
+For each major addition or concern, judge:
+
+- risk ripple,
+- growth ripple,
+- likely outcome,
+- long-tail / weird outcome,
+- tradeoff,
+- before/after effect.
+
+CONTROL ROOM MODEL TO REVIEW
+
+The current Control Room has:
+
+Center:
+- Control Seat
+
+First-ring stations:
+1. Filter Gate
+2. Signal Station
+3. Neighbor Station
+4. Route Map Station
+5. Parking Station
+6. Save / Border Station
+7. House Walk Station
+8. Rest / Archive Station
+
+Child systems:
+- Proof Stamp Family
+- Parking Model Deck
+- String / Switchboard Rules
+- Live Inject Dock
+- Parking Inject Dock
+- Last Known Thought Recovery
+- Scaffold Bay
+- Latch Rail
+- Block Rack
+- Self-Fix Route
+- Balanced Ripple
+- Use Does Not Equal Install
+- No Window Entry / No Window Exit
+- Box / Ladder / Scaffold leverage
+- Ladder Jack / Placement-Safe Link
+
+QUESTIONS TO ANSWER
+
+1. Is the first-ring station set right?
+2. Are any stations missing?
+3. Are any stations too broad?
+4. Are any station names misleading?
+5. Which latches should fire automatically?
+6. Which failures still depend too much on memory?
+7. Where does proof need to be lighter?
+8. Where does proof need to be heavier?
+9. What is the smallest map structure that makes this easier?
+10. What should be left alone?
+
+OUTPUT REQUIRED
+
+Return one focused research/review report.
+
+Sections:
+
+1. SOURCE STATE
+- Files read.
+- Files not read.
+- Limits.
+
+2. MODEL SUMMARY
+- Explain the model in your own words.
+
+3. STRONGEST PARTS
+- What already works.
+- Why.
+
+4. THIN / WEAK PARTS
+- What may fail.
+- Why.
+
+5. MISSING LINKS
+- Missing station, latch, string, proof stamp, route, or map.
+
+6. DEEPENING ADDITIONS
+For each addition:
+- name,
+- job,
+- trigger,
+- home,
+- links,
+- proof/test needed,
+- risk,
+- exit,
+- status: soft-use, parked, save-candidate, or install-candidate.
+
+7. SELF-APPLICATION TEST
+- Did your review use the model?
+
+8. BALANCED RIPPLE REVIEW
+- Risk ripple.
+- Growth ripple.
+- Likely outcome.
+- Weird outcome.
+- Tradeoff.
+
+9. SMALLEST NEXT MOVES
+- Only practical next moves.
+- No giant list.
+
+10. FINAL VERDICT
+Choose one:
+- PASS
+- PASS WITH GUARDRAILS
+- PARTIAL
+- BLOCKED
+
+STYLE
+
+Be direct.
+Be useful.
+Be clean.
+Be true.
+No muck.
+No filler.
+No theater.
+No overwork.
+
+END RULES

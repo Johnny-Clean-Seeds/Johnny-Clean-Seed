@@ -1,0 +1,38 @@
+RECEIPT: MULE START HERE RULES AUTONOMY CHAIN DEEP RESEARCH LOCK SAVE
+Date: 2026-05-17
+
+Saved/uploaded file count intended: 2
+
+Files:
+1. PROOF_HISTORY/MULE_START_HERE_RULES_AUTONOMY_CHAIN_DEEP_RESEARCH_20260517.txt
+2. PROOF_HISTORY/RECEIPT_MULE_START_HERE_RULES_AUTONOMY_CHAIN_DEEP_RESEARCH_20260517.txt
+
+What changed:
+- Created a heavy START HERE rules file for the mule.
+- Created this receipt.
+
+Purpose:
+- Tell the mule to start from:
+  PROOF_HISTORY/MULE_DEEP_RESEARCH_AUTONOMY_CHAIN_CONTROL_ROOM_PROMPT_20260517.txt
+- Give the mule clear task rules:
+  think hard,
+  work hard,
+  search far and wide only where useful,
+  do not overwork,
+  do not add muck,
+  do not edit active guides,
+  do not install doctrine,
+  return one focused research/review report.
+
+What did not change:
+- ACTIVE_GUIDES edited: NO
+- CURRENT_TRUTH_INDEX.txt edited: NO
+- AGENTS.md edited: NO
+- Root-level guide copies edited: NO
+- Assistant console edited: NO
+- Cleanup/delete/move/rename: NO
+- Doctrine install: NO
+- Shed scan: NO
+
+Boundary verdict:
+PASS - support-only mule START HERE rules save. No active package expansion.
