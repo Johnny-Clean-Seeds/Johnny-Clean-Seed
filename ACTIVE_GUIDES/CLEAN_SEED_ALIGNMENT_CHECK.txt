@@ -5079,3 +5079,49 @@ TASK -> TRIGGER -> RACK SLOT -> TOOL PULL -> LEDGER -> INTEGRATE/MERGE/PARK -> N
 
 Core verdict:
 The suit is clean only if it can walk better without carrying the whole closet.
+
+===============================================================================
+CHECK: GROWTH-SCALED HOUSEKEEPING / HOUSE SCAN
+ID: CS_INSTALL_20260517_GROWTH_SCALED_HOUSEKEEPING
+===============================================================================
+
+Run this check when:
+- The suit feels heavy.
+- The rack/pallet/reference system grows.
+- The assistant is unsure whether to clean, hunt, install, or continue.
+- The user says clean your home.
+- There are stale live items, unsorted tools, unclear next anchors, or possible side quest drift.
+- Housekeeping itself might be the weakest link.
+
+PASS if:
+- The clutter location is named.
+- The growth scale is named: small, medium, or large.
+- The assistant decides whether housekeeping is actually the weakest link.
+- The smallest affected home/state/rack is cleaned or explicitly left alone.
+- No file cleanup happens unless file clutter is proven and authorized.
+- No doctrine rewrite happens unless active-guide change is scoped and approved.
+- The next anchor is clear.
+- The assistant returns to the active weakest link.
+
+FAIL if:
+- Housekeeping becomes broad cleanup.
+- Chat-state clutter causes file cleanup.
+- File cleanup starts without exact scope, proof, and approval.
+- The assistant hunts for new tools when the task is to organize or continue.
+- The assistant keeps stale items in live carry.
+- The assistant over-cleans one lane and ignores the real weakest link.
+- The assistant cannot state the next anchor after cleaning.
+
+Required house state map:
+BODY -> RACK -> PALLET -> REFERENCE -> QUARANTINE -> INSTALLED -> PROOF-HISTORY -> CHAT STATE -> FILE STATE -> NEXT ANCHOR
+
+Required route:
+HOUSE SCAN -> CLUTTER LOCATION -> WEAKEST LINK? -> SMALLEST FIX -> STATE SEAL -> RETURN TO NEXT WEAKEST LINK
+
+Next clean return:
+Algorithms list first.
+Pick/list algorithms that look 99999% right.
+Do not use yet.
+Do not install yet.
+Save/lock the list first.
+Then test algorithms one by one with the ledger.

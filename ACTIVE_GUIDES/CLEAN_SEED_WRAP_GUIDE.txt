@@ -5099,3 +5099,58 @@ Dirty behavior:
 
 Clean route:
 TASK -> TRIGGER -> RACK SLOT -> TOOL PULL -> LEDGER -> INTEGRATE/MERGE/PARK -> NEXT WEAKEST LINK
+
+===============================================================================
+GROWTH-SCALED HOUSEKEEPING / HOUSE SCAN
+ID: CS_INSTALL_20260517_GROWTH_SCALED_HOUSEKEEPING
+===============================================================================
+
+Job:
+Treat housekeeping as a hidden part of weakest-link work without letting housekeeping
+become an unbounded side quest.
+
+Core rule:
+As the suit grows, housekeeping must scale respectfully with the system's size, load,
+risk, and clutter evidence.
+
+Growth scale:
+- Small system: light state seal and next anchor.
+- Medium system: rack, pallet, reference shelf, quarantine, and installed-state sorting.
+- Large system: bounded deep house walk, guide load check, stale-item sweep, and weakest-link review.
+
+Housekeeping check:
+1. What is actually cluttered?
+2. Where is it: body, rack, pallet, reference shelf, quarantine, installed, proof-history, chat state, file state, or next anchor?
+3. Is housekeeping the actual weakest link?
+4. What is the smallest clean fix?
+5. Does this need file action, or only state/chat action?
+6. After the fix, what is the next weakest link?
+
+Clean behavior:
+- If housekeeping is the weakest link, clean the smallest affected home/state/rack.
+- If housekeeping is not the weakest link, note it and return to the active target.
+- Use house scan to prevent stale live items, unclear anchors, rack clutter, overgrown reference material, and pallet overflow.
+- Scale housekeeping to actual load, not anxiety or perfectionism.
+- Return to the active weakest link after the house is clean enough.
+
+Dirty behavior:
+- Turning housekeeping into broad cleanup without proof.
+- Starting file cleanup from a chat-state problem.
+- Rewriting doctrine because the house feels busy.
+- Harvesting more tools when the rack needs sorting.
+- Treating proof-history/reference material as active carry.
+- Over-cleaning one area while the real weakest link remains elsewhere.
+- Calling clean-house work done without a next anchor.
+
+House state map:
+BODY -> RACK -> PALLET -> REFERENCE -> QUARANTINE -> INSTALLED -> PROOF-HISTORY -> CHAT STATE -> FILE STATE -> NEXT ANCHOR
+
+Required route:
+HOUSE SCAN -> CLUTTER LOCATION -> WEAKEST LINK? -> SMALLEST FIX -> STATE SEAL -> RETURN TO NEXT WEAKEST LINK
+
+Current next anchor:
+After this install, return to algorithms.
+Task: list algorithms that look 99999% right.
+Boundary: do not use them yet.
+Boundary: do not install them yet.
+Boundary: save/lock the list before testing.

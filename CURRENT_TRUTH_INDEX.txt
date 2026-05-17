@@ -119,3 +119,12 @@ Purpose: keep the assistant good-stacked, not sloppy-stacked; organize tools by 
 Core route: TASK -> TRIGGER -> RACK SLOT -> TOOL PULL -> LEDGER -> INTEGRATE/MERGE/PARK -> NEXT WEAKEST LINK.
 Boundary: not-active material is retained unless deletion is explicitly approved.
 README unchanged. AGENTS.md unchanged. No cleanup, delete, move, rename, or overwrite action authorized.
+
+[20260517_081006] CS_INSTALL_20260517_GROWTH_SCALED_HOUSEKEEPING
+Active-file install: Growth-Scaled Housekeeping / House Scan.
+Files changed: CLEAN_SEED_WRAP_GUIDE.txt, CLEAN_SEED_ALIGNMENT_CHECK.txt, CURRENT_TRUTH_INDEX.txt.
+Purpose: make housekeeping part of weakest-link work without letting it become broad cleanup, doctrine rewriting, or tool harvesting. Scale housekeeping to system size/load/risk/clutter evidence.
+Core route: HOUSE SCAN -> CLUTTER LOCATION -> WEAKEST LINK? -> SMALLEST FIX -> STATE SEAL -> RETURN TO NEXT WEAKEST LINK.
+Boundary: no file cleanup, delete, move, rename, overwrite, or doctrine rewrite unless separately scoped, proven, and approved.
+Next move chosen: return to algorithms; list algorithms that look 99999% right; do not use/install yet; save/lock list first; then test one by one with ledger.
+README unchanged. AGENTS.md unchanged.
