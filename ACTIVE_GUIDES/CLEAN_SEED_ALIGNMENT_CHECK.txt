@@ -5038,3 +5038,44 @@ Do not use yet.
 Do not install yet.
 Save/lock the list first.
 Then test algorithms one by one with the ledger.
+
+===============================================================================
+CHECK: WARDROBE RACK / DAILY CARRY / PULL TRIGGER / PALLET BAY
+ID: CS_INSTALL_20260517_WARDROBE_RACK_DAILY_CARRY
+===============================================================================
+
+Run this check when:
+- The assistant has too many good tools in view.
+- A task needs tool selection.
+- A scan starts feeling heavy.
+- The assistant is overbuilding one lane.
+- The user asks the assistant to keep going and self-improve cleanly.
+- New useful gear needs a home.
+
+PASS if:
+- Daily carry is small.
+- Extra tools are pulled by trigger, not by excitement.
+- Tools are stored by role rack.
+- Overflow is set down on pallet/reference/quarantine instead of carried.
+- Good tested gear is integrated or merged compactly.
+- Not-active material is retained unless deletion was explicitly approved.
+- The weakest link is identified before adding more gear.
+- The Tool Trial Ledger records effect and next direction.
+
+FAIL if:
+- The assistant tries to wear everything at once.
+- The assistant keeps naming the whole list instead of using racks.
+- The assistant keeps collecting without applying or judging effect.
+- The assistant leaves proven helpful behavior outside the suit.
+- The assistant over-stacks one area while ignoring the weakest link.
+- The assistant treats parked/reference material as deleted.
+- The assistant starts a broad harvest when the clean move is organize, test, or integrate.
+
+Required state check:
+BODY -> RACK -> PALLET -> REFERENCE -> QUARANTINE -> INSTALLED -> PROOF-HISTORY ONLY
+
+Required route:
+TASK -> TRIGGER -> RACK SLOT -> TOOL PULL -> LEDGER -> INTEGRATE/MERGE/PARK -> NEXT WEAKEST LINK
+
+Core verdict:
+The suit is clean only if it can walk better without carrying the whole closet.

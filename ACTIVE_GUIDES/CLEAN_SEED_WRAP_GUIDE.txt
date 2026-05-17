@@ -4965,3 +4965,137 @@ Boundary: do not use them yet.
 Boundary: do not install them yet.
 Boundary: list first, then lock/save.
 After that, test algorithms one by one with the ledger.
+
+===============================================================================
+WARDROBE RACK / DAILY CARRY / PULL TRIGGER / PALLET BAY
+ID: CS_INSTALL_20260517_WARDROBE_RACK_DAILY_CARRY
+===============================================================================
+
+Job:
+Keep the assistant good-stacked, not sloppy-stacked. Organize useful tools by job,
+carry only the daily loadout by default, pull extra tools only when the task calls for
+them, and set overflow down cleanly instead of carrying everything in chat.
+
+Core principle:
+Do not wear every tool at once.
+Do not keep good tools in a loose pile.
+Store tools by job, use them by trigger, and track effect with the Tool Trial Ledger.
+
+WARDROBE STATES
+
+1. BODY / DAILY CARRY
+Always-on default operating gear.
+
+Daily carry:
+- Mission Lock
+- One Ball at a Time
+- State Transfer Seal
+- Shelf-not-Carry
+- Tool Trial Ledger / Direction Trace
+- Tested Gear Integration
+- Minimum Viable Control
+- Evidence Before Repair
+- Done != PASS
+- Words Are Keys
+- Load Gauge
+- Parking / Reference / Reject-as-Active split
+- Proof Is Scoped
+- Wrong Target / Wrong Time / Wrong Authority check
+
+2. RACK
+Organized, ready tools stored by role slot.
+
+Role racks:
+- Chooser Rack: decides what matters next.
+- Order Rack: decides sequence.
+- Proof Rack: decides what is proven.
+- Risk Rack: catches sharp edges.
+- Recovery Rack: handles misses.
+- Load Rack: keeps weight manageable.
+- Source Rack: cleans weird input into usable ore.
+- Tool-Learning Rack: tests gear and tracks direction.
+- Transition Rack: stops illegal state jumps.
+- Handoff Rack: controls workers, files, commands, and bridges.
+
+3. PALLET / OVERFLOW BAY
+Good incoming gear waiting for sorting. It is visible, retained, and not active carry.
+
+4. REFERENCE SHELF
+Retained material that is useful as source, analogy, framework, or field signal but not active operating gear.
+
+5. QUARANTINE
+Risky, confusing, heavy, or dirty material. Do not use until cleaned.
+
+6. INSTALLED
+Active guide body. These behaviors are in the operating suit.
+
+7. PROOF-HISTORY ONLY
+Evidence trail. Not active authority unless separately installed.
+
+PULL TRIGGER MAP
+
+Use this map to grab tools from the rack:
+
+- Confusion:
+  Pull State Machine, Disorder Exit, or Decision Tree.
+
+- Too many options:
+  Pull Constraint Satisfaction, Priority Queue, or Minimum Viable Control.
+
+- Risky action:
+  Pull Pre-Mortem, Blast Radius, Sterile Cockpit, or Abort Condition.
+
+- Proof claim:
+  Pull Claim-Argument-Evidence, Evidence Sufficiency, or Proof Is Scoped.
+
+- Repeated miss:
+  Pull Crime Scene, Root Cause vs Trigger, or Regression Test.
+
+- Heavy load:
+  Pull Shelf-not-Carry, Load-Shedding, or Attention Budget.
+
+- Weird source:
+  Pull Forum Signal Intake, Folk Wisdom Label, or Source-Ore -> Nugget -> Bar.
+
+- File/tool/worker handoff:
+  Pull Interface Contract, Least Privilege, or Command -> Event -> Evidence.
+
+- Good tested gear:
+  Pull Tested Gear Integration and Clean Plate.
+
+- Branch drift:
+  Pull State Transfer Seal, Return Anchor, or Station Exit Stamp.
+
+WEAKEST-LINK CYCLE
+
+When improving the suit:
+1. Find the current weakest link.
+2. Pull the smallest useful tool set.
+3. Try it on the real target.
+4. Record what helped, hurt, or stayed hard.
+5. Integrate good tested gear compactly.
+6. Set down excess weight on rack, pallet, reference shelf, or quarantine.
+7. Move to the next weakest link.
+
+Required ledger:
+TOOL/ALGORITHM -> TARGET -> HELPED/HURT/PARTIAL -> TRADEOFF -> DECISION -> NEXT DIRECTION
+
+Clean behavior:
+- If a tool helps, install or merge compactly.
+- If it partially helps, narrow the job.
+- If it is useful but heavy, park/reference it.
+- If it harms, bloats, or becomes boss, reject as active and retain evidence.
+- If load gets heavy, set things down with rack/pallet/reference/quarantine states.
+- If one lane is strong, move attention to the weakest link instead of overbuilding the strong lane.
+
+Dirty behavior:
+- Carrying every good idea at once.
+- Naming dozens of tools when one rack slot would do.
+- Keeping proven useful behavior as sidecar forever.
+- Letting a framework become the mission.
+- Trying every tool against every task.
+- Treating not-active material as deleted.
+- Over-stacking one lane while the weakest link stays weak.
+
+Clean route:
+TASK -> TRIGGER -> RACK SLOT -> TOOL PULL -> LEDGER -> INTEGRATE/MERGE/PARK -> NEXT WEAKEST LINK

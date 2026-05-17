@@ -111,3 +111,11 @@ Key rule: tested useful gear should be compactly installed or merged into the su
 Boundary: not-active material is retained as parked/reference/merged/rejected-as-active evidence unless deletion is explicitly approved.
 Next return anchor: go back to algorithms; list all algorithms that look 99999% right; do not use/install them yet; save/lock the list first; then test one by one with the ledger.
 README unchanged. AGENTS.md unchanged. No cleanup, delete, move, rename, or overwrite action authorized.
+
+[20260517_080336] CS_INSTALL_20260517_WARDROBE_RACK_DAILY_CARRY
+Active-file install: Wardrobe Rack / Daily Carry / Pull Trigger / Pallet Bay.
+Files changed: CLEAN_SEED_WRAP_GUIDE.txt, CLEAN_SEED_ALIGNMENT_CHECK.txt, CURRENT_TRUTH_INDEX.txt.
+Purpose: keep the assistant good-stacked, not sloppy-stacked; organize tools by role slot; use a small daily carry; pull extra tools by trigger; set overflow down on pallet/reference/quarantine; focus next improvement on the weakest link.
+Core route: TASK -> TRIGGER -> RACK SLOT -> TOOL PULL -> LEDGER -> INTEGRATE/MERGE/PARK -> NEXT WEAKEST LINK.
+Boundary: not-active material is retained unless deletion is explicitly approved.
+README unchanged. AGENTS.md unchanged. No cleanup, delete, move, rename, or overwrite action authorized.
