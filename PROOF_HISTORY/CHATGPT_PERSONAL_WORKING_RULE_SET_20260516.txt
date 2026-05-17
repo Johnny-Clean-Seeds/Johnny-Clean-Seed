@@ -1090,3 +1090,83 @@ Authority: Assistant working console support only. Not active doctrine by itself
 - This save preserves assistant-support routing/proof only.
 === END LOCK SAVE ADDENDUM 20260517 - USE INSTALL AND SOFT LENS STATE ===
 
+=== LOCK SAVE ADDENDUM 20260517 - ROUTE MAPS AND PARKING MODEL DECK ===
+Date: 2026-05-17
+Status: SUPPORT / ASSISTANT BELT / ROUTE-MAP AND PARKING-MODEL WORK.
+Authority: Assistant working console support only. Not active doctrine by itself.
+
+1. Rule Ripple / Cross-Apply Proof Check
+- Having a rule does not prove the assistant is doing it.
+- When a rule, idea, correction, match result, or doctrine candidate appears, check whether it applies beyond the current case.
+- The assistant should visibly classify the ripple when relevant:
+  applied here, already covered elsewhere, soft-use, soft-lock, install candidate, parking-lot item, watch item, reject, or not applicable.
+- If it is not noted, the user cannot know it happened and the assistant cannot reliably know it happened either.
+- Healthy growth requires visible route proof, not hidden assumptions.
+
+2. Route Map Requirement
+- Important recurring moves need route maps or route-map entries, not only rule sentences.
+- A route map should name:
+  name, job, when to use, when not to use, inputs, output, links to other maps/rules, proof that it ran, close condition, and affected-neighbor check.
+- Route maps should be separate clean support objects with clean links.
+- Avoid messy bridge sprawl. Do not make everything point to everything.
+- A clean link means this map calls that map only when the trigger appears.
+
+3. Parking Model Deck / Sliding Templates
+- Parking is not one generic pile.
+- Parking can use many blank/sliding templates because the number of templates is not the bloat.
+- The bloat risk is unclear role, no selector, no link rules, no exit path, or messy bridge sprawl.
+- The assistant may choose the right parking model for the current parked item, and may link several models together when the route is clean.
+- A parking model is not active doctrine by itself. It is a blank route shape the assistant can pull when the current item matches its job.
+
+4. Parking Model Selector
+Ask: What kind of parked is this?
+- incoming mixed material -> Mailroom
+- temporary side idea -> Valet
+- many related items -> Garage
+- unsafe/no-key -> Impound
+- suspect/contaminated -> Quarantine
+- almost ready -> Loading Dock
+- stored proof/support -> Library / Archive
+- immature/growing idea -> Greenhouse / Nursery
+- sequence/dependency -> Train Yard
+- whole-system placement -> City Zoning
+- visible status movement -> Kanban
+- needs verdict -> Courtroom / Docket
+- needs experiment -> Laboratory Bench
+- many moving items/collision risk -> Control Tower
+- crosses boundary -> Passport / Customs
+- needs clean link without bridge sprawl -> Switchboard
+- failure trace/reconstruction -> Black Box
+
+5. Group, Link, and Sub-Link
+- Parking models may be grouped by job family and then linked/sub-linked.
+- Similarities between models, items, or route shapes should be noticed and noted as possible link candidates.
+- Grouping prevents a huge model deck from becoming a flat pile.
+- Links should have a reason, trigger, direction, proof point, and exit.
+- Sub-links should explain smaller relationships inside the group, not create loose spaghetti.
+
+6. Example Clean Chains
+- Incoming mixed mess: Mailroom -> Signal Card -> Kanban -> Loading Dock.
+- Risky unclear item: Mailroom -> Quarantine -> Courtroom -> Library or Reject.
+- Good but immature idea: Valet -> Greenhouse -> Laboratory -> Loading Dock.
+- Boundary-crossing item: Library -> Passport/Customs -> Respect thy Neighbor -> Active Guide Candidate.
+- Failure event: Black Box -> Evidence Crime Scene -> Courtroom -> Repair Route.
+- Many related parked ideas: Garage -> City Zoning -> Switchboard -> Train Yard.
+
+7. Similarity / Elsewhere Trigger
+- When a new idea lights up, ask: Can this apply anywhere else?
+- If yes, do not instantly install it everywhere.
+- Soft-check it, test it, then move farther only if clean.
+- This applies to rules, parking models, cleanup methods, public-door routes, proof-history, tournament/match methods, assistant belt tools, and future worker handoffs.
+
+8. Boundaries
+- ACTIVE_GUIDES edited by this save: NO.
+- CURRENT_TRUTH_INDEX edited by this save: NO.
+- AGENTS.md edited by this save: NO.
+- Root-level guide copies edited by this save: NO.
+- Cleanup/delete/move/rename: NO.
+- Doctrine install: NO.
+- Shed scan: NO.
+- This save preserves assistant-support routing/proof only.
+=== END LOCK SAVE ADDENDUM 20260517 - ROUTE MAPS AND PARKING MODEL DECK ===
+
