@@ -1462,3 +1462,75 @@ Use this compact check when relevant:
 - This save preserves assistant-support routing/proof only.
 === END LOCK SAVE ADDENDUM 20260517 - BALANCED RIPPLE AND OUTCOME COMPARISON ===
 
+=== LOCK SAVE ADDENDUM 20260517 - DEEP SCAN KNOWN FIXES AND MAP PHASE TARGETS ===
+Date: 2026-05-17
+Status: SUPPORT / ASSISTANT BELT / DEEP-SCAN KNOWN-FIX STATE.
+Authority: Assistant working console support only. Not active doctrine by itself.
+
+1. Deep Scan Verdict
+- Latest deep scan result: PASS WITH GUARDRAILS.
+- Main house is dense but obeying.
+- Current authority route remains:
+  CURRENT_TRUTH_INDEX -> AGENTS.md -> ACTIVE_GUIDES.
+- PROOF_HISTORY remains support proof, not a fourth active guide.
+- No active-guide edit was proven necessary by the scan.
+
+2. Known Fixes / Working Fix Routes
+- Proof-use fog fix:
+  Use visible route proof such as Route Stamp, Ripple Stamp, Run Stamp, and Room Check.
+- Hidden-rule-fire fix:
+  Do not say a rule exists as proof that it fired. Show the route/result.
+- Reusable-logic fix:
+  When a logic shape works in one place, check whether it fits elsewhere before closing.
+- Ripple fix:
+  Judge both risk ripple and growth ripple. Do not treat ripple as only danger.
+- Tool-overload fix:
+  Park for load; drop only for fit. Use Tool Carry Limit and safe parking/rest routes.
+- Intake/exit fix:
+  Nothing comes in through the window and nothing leaves through the window. Use filtered intake and classified exit.
+- Install-pressure fix:
+  Use Does Not Equal Install. Active-file install requires proof that the files need it written.
+
+3. Remaining Map-Phase Targets
+- Ripple Stamp needs a clean map home.
+- Parking Model Deck V0 needs a reusable map/template shape.
+- Control Room / Octagon Station layout needs map architecture.
+- Public doorway / root guide face remains CLEARED FOR NOW / WATCH ITEM.
+- Receipt readability remains MINOR WATCH ITEM unless selected as the active cleanup target.
+
+4. Fix Order For The Rest
+- Work one target at a time.
+- First target should be Control Room / Octagon Station Map because it gives the house a center.
+- Second target should be Ripple Stamp Map because it proves cross-apply/ripple checks fired.
+- Third target should be Parking Model Deck Map because it turns parking from a flat pile into selectable stations/templates.
+- Public doorway stays watch-only unless it causes real confusion.
+- Receipt readability stays watch-only unless readability becomes the active target.
+
+5. Guardrails For Next Phase
+- Do not start shed scan.
+- Do not edit ACTIVE_GUIDES without proof the files need it written.
+- Do not install doctrine from this support packet.
+- Do not create map bloat.
+- Each map needs:
+  name,
+  job,
+  when to use,
+  when not to use,
+  inputs,
+  output,
+  links,
+  proof it ran,
+  exit condition,
+  affected-neighbor check.
+
+6. Boundaries
+- ACTIVE_GUIDES edited by this save: NO.
+- CURRENT_TRUTH_INDEX edited by this save: NO.
+- AGENTS.md edited by this save: NO.
+- Root-level guide copies edited by this save: NO.
+- Cleanup/delete/move/rename: NO.
+- Doctrine install: NO.
+- Shed scan: NO.
+- This save preserves assistant-support routing/proof only.
+=== END LOCK SAVE ADDENDUM 20260517 - DEEP SCAN KNOWN FIXES AND MAP PHASE TARGETS ===
+
