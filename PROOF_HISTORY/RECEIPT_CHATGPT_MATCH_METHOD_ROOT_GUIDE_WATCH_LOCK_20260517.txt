@@ -1,6 +1,6 @@
 RECEIPT: CHATGPT MATCH METHOD + ROOT GUIDE WATCH LOCK SAVE
 Date: 2026-05-17
-Run stamp: 20260517_015743
+Run stamp: 20260517_015831
 
 Saved/uploaded file count intended: 2
 
@@ -29,7 +29,7 @@ User approved lock/save after deciding the root guide copy seam is technically r
 User also asked the match/cage-match method idea to hang around for now and cross-apply cleanly if useful elsewhere.
 
 Console SHA256 after write:
-5832038F78D690274A2E6575680C6CF1BBFC3F127320C848A50A33A17FDCA25E
+96850EDF95569AECC391313932BDBE04307B13A5EA49AE79522E85BC97CEA816
 
 Boundary verdict:
 PASS - support-only lock/save. No active package expansion.
