@@ -1,0 +1,157 @@
+ALGORITHMS 99999 RIGHT LIST-FIRST LOCKSAVE
+STAMP: 20260517_081306
+SAVE_ID: ALGORITHMS_99999_RIGHT_LIST_FIRST_LOCKSAVE
+
+STATUS
+- Algorithm list-first save: YES
+- Algorithms used/tested: NO
+- Algorithms installed: NO
+- Active doctrine install: NO
+- ACTIVE_GUIDES edited: NO
+- CURRENT_TRUTH_INDEX edited: NO
+- AGENTS.md edited: NO
+- Cleanup performed: NO
+- Files deleted: NO
+- Files moved: NO
+- Files renamed: NO
+
+ACTIVE CLAIM
+This file preserves the list-first algorithm candidate set that looks 99999% right for Clean Seed.
+This is a lock/save before any algorithm is used, tested, installed, or promoted.
+
+BOUNDARY
+Do not use these algorithms yet.
+Do not test these algorithms yet.
+Do not install these algorithms yet.
+Do not treat this list as active doctrine.
+After this save is verified clean, test algorithms one by one with the installed Tool Trial Ledger.
+
+TEST LEDGER REQUIRED LATER
+ALGORITHM -> TARGET -> HELPED/HURT/PARTIAL -> TRADEOFF -> DECISION -> NEXT DIRECTION
+
+99999% RIGHT ALGORITHM LIST
+
+1. State Machine
+2. Dependency Graph
+3. Topological Sort
+4. Constraint Satisfaction
+5. Priority Queue
+6. Decision Tree
+7. Graph Traversal
+8. Breadth-First Search
+9. Depth-First Search with Limit
+10. Backtracking
+11. Branch and Bound
+12. Dynamic Programming
+13. Memoization
+14. Greedy Choice with Guardrails
+15. Divide and Conquer
+16. Binary Search
+17. Shortest Path / Dijkstra-style Routing
+18. A* / Heuristic Search
+19. Rule Engine
+20. Finite-State Automaton
+21. Queue Discipline
+22. Stack Discipline
+23. Event Log / Append-Only Ledger
+24. Checksum / Hash Verification
+25. Diff Comparison
+26. Snapshot / Rollback Model
+27. Transaction / Commit-Rollback
+28. Idempotency
+29. Retry with Backoff
+30. Circuit Breaker
+31. Rate Limiting
+32. Dead Letter Queue
+33. Cache Invalidation Thinking
+34. Garbage Collection / Mark-and-Sweep Cleanup
+35. Hash Map / Lookup Table
+36. Trie / Prefix Tree
+37. Clustering
+38. Voting / Consensus, bounded
+39. Anomaly Detection
+40. Feedback Control Loop
+41. Map-Reduce / Split-Merge Pattern
+42. Bloom Filter, maybe-present concept only
+43. Hill Climbing with Caution
+44. Simulated Annealing, exploration metaphor only
+45. Genetic Algorithm, candidate evolution metaphor only
+
+INITIAL RACK PLACEMENT WITHOUT USE
+
+CHOOSER / SELECTION
+- Constraint Satisfaction
+- Priority Queue
+- Decision Tree
+- Greedy Choice with Guardrails
+- Branch and Bound
+- Voting / Consensus, bounded
+
+ORDER / DEPENDENCY
+- Dependency Graph
+- Topological Sort
+- State Machine
+- Finite-State Automaton
+- Queue Discipline
+- Stack Discipline
+
+SEARCH / DIGGING
+- Graph Traversal
+- Breadth-First Search
+- Depth-First Search with Limit
+- Binary Search
+- Shortest Path / Dijkstra-style Routing
+- A* / Heuristic Search
+- Backtracking
+- Hill Climbing with Caution
+- Simulated Annealing, exploration metaphor only
+- Genetic Algorithm, candidate evolution metaphor only
+
+PROOF / VERIFICATION
+- Checksum / Hash Verification
+- Diff Comparison
+- Event Log / Append-Only Ledger
+- Snapshot / Rollback Model
+- Transaction / Commit-Rollback
+
+RECOVERY / RELIABILITY
+- Retry with Backoff
+- Circuit Breaker
+- Rate Limiting
+- Dead Letter Queue
+- Idempotency
+- Cache Invalidation Thinking
+- Garbage Collection / Mark-and-Sweep Cleanup
+
+GROUPING / STRUCTURE
+- Clustering
+- Hash Map / Lookup Table
+- Trie / Prefix Tree
+- Rule Engine
+- Map-Reduce / Split-Merge Pattern
+- Bloom Filter, maybe-present concept only
+
+LEARNING / CONTROL
+- Dynamic Programming
+- Memoization
+- Anomaly Detection
+- Feedback Control Loop
+
+NEXT CLEAN ACTION AFTER SAVE
+Run a bounded algorithm test pass.
+Start with the weakest-link question:
+Which algorithm should control how we dig through and apply the huge tool list without trying everything forever?
+
+Suggested first test candidates after save:
+1. Constraint Satisfaction
+2. Dependency Graph
+3. Topological Sort
+4. Clustering
+5. Priority Queue
+6. State Machine
+7. Feedback Control Loop
+
+VERDICT
+PASS as algorithm list-first lock/save.
+NO PASS as algorithm use.
+NO PASS as active doctrine install.
