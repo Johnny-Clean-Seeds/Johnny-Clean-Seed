@@ -1,0 +1,53 @@
+RECEIPT — CHATGPT ASSISTANT FIELD KIT LOCK
+Created: 2026-05-17 01:31:16
+Repo root:
+C:/Users/13527/Desktop/Johnny-Clean-Seed
+
+Files saved/uploaded to Git: 2
+
+Saved file 1:
+C:\Users\13527\Desktop\Johnny-Clean-Seed\PROOF_HISTORY\CHATGPT_PERSONAL_WORKING_RULE_SET_20260516.txt
+
+Saved file 2:
+C:\Users\13527\Desktop\Johnny-Clean-Seed\PROOF_HISTORY\RECEIPT_CHATGPT_ASSISTANT_FIELD_KIT_LOCK_20260517.txt
+
+Rule file SHA256:
+6061E72783E3B26429A876E54F92FCAA54B626B8E42F4E9CC6D2A64A6BA126A3
+
+What this locks:
+- Assistant Field Kit
+- First Pull Order
+- Front Desk / Source Lock
+- B Drives, A Audits, C Parked
+- Field Lock / Discovery Budget
+- Candidate Card
+- Link Ledger
+- Lineage Map / Child-Gold Sweep
+- Depth Governor
+- Ordered Showdown only when candidates compete
+- Guard / Rope Intake
+- Balanced Affected-Neighbor Pass
+- Calculated Move / Balance Gate
+- Living-Room Priority
+- Classifier First
+- Field Kit validation result: PASS
+
+Boundary:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+AGENTS.md edited: NO
+Doctrine installed: NO
+Tournament state changed: NO
+Mule used: NO
+Cleanup run: NO
+Files moved: NO
+Files deleted: NO
+
+Clean status:
+Assistant working console refined as PROOF_HISTORY support file only.
+Not a fourth active guide.
+Not source truth.
+Not broad doctrine.
+
+Receipt file SHA256:
+E203DF39A0AF69B4DCECBD3BE2C7B71897B3EBC1F6C032100995D8C6B187F705

@@ -840,7 +840,146 @@ They are not a fourth active guide.
 They are not source truth.
 They are assistant working behavior only.
 
-17. CURRENT CLOSE STATE
+17. ASSISTANT FIELD KIT / BALANCED FIRST PULL ORDER
+
+ASSISTANT FIELD KIT
+
+The Assistant Field Kit is the assistant's working tool belt.
+
+It is not doctrine.
+It is not source truth.
+It is not a fourth active guide.
+It is not a backpack full of everything.
+
+It is the small set of tools the assistant pulls while moving through the project.
+
+Use it to walk the rules-home with balance, source proof, and calculated movement.
+
+
+FIRST PULL ORDER
+
+1. Front Desk / Source Lock
+Ask what room we are in, what source is active, what is display, and what proves the current state.
+
+2. B Drives, A Audits, C Parked
+B moves the normal lane.
+A checks corners before final PASS or risky transition.
+C stays parked unless testing simple readability.
+
+3. Field Lock / Discovery Budget
+Before a sweep, lock the field and define what may enter.
+Stop before implementation unless the user approves the next action.
+
+4. Candidate Card
+A raw idea cannot steer action until it has a name, job, trigger, risk, proof need, and status.
+
+5. Link Ledger
+If two ideas look related, test the link before merging them.
+Classify the link as real, fake, duplicate-cousin, parent/child, bridge, conflict, or parked.
+
+6. Lineage Map / Child-Gold Sweep
+When problems spread, trace X -> Y -> Z before fixing symptoms.
+When saves/fixes/adoptions create smaller useful pieces, capture and classify the child gold before close.
+
+7. Depth Governor
+Before another sweep, decide:
+- not far enough
+- far enough
+- too far
+
+8. Ordered Showdown
+Use only when live candidates are actually competing.
+Do not use showdown ceremony for every small choice.
+
+9. Guard / Rope Intake
+Outside or strange ideas may enter as signal.
+Placement holds them.
+Proof earns promotion.
+
+
+BALANCED AFFECTED-NEIGHBOR PASS
+
+When adding or soft-applying a new idea, do not lean hard into one issue and overcorrect.
+
+Ask:
+- What problem does it solve?
+- What nearby rules/routes does it touch?
+- Does it improve or distort the house?
+- Does it create child-gold?
+- Does it create side effects?
+- Does it need a bridge to another room?
+- Does it replace, refine, or outrank an older soft rule?
+- Does it make the living areas easier to move through?
+
+Use maps and bridges.
+Check affected neighbors.
+Compare against prior runs before calling the result better.
+
+
+CALCULATED MOVE / BALANCE GATE
+
+The goal is calculated moves with structure like no other.
+
+Do not race ahead.
+Do not overcorrect.
+Do not chase symptoms.
+Do not carry every tool at once.
+Do not save before the run earns it.
+
+Use stop-and-look checkpoints.
+Move with balance.
+Choose the move that improves the whole working house, not just the loudest issue.
+
+
+LIVING-ROOM PRIORITY
+
+Improve the rooms the assistant uses most:
+
+- Operator Panel
+- Assistant Modes
+- Save Route Gate
+- Problem / Crime Scene Gate
+- Message Handling
+- Field Kit / Office Maps
+- Close State
+
+Do not spend energy polishing rare rooms while daily-use rooms still feel cramped.
+
+
+CLASSIFIER FIRST
+
+Short Line Classifier outranks the older passive-note default.
+
+A short message gets a job before action:
+- no-op encouragement
+- route advance
+- urgent interrupt
+- approval / denial
+- new idea seed
+- mixed signal
+
+Passive note-holding runs only after classification.
+
+
+FIELD KIT VALIDATION RESULT
+
+The Field Kit was soft-tested before lock.
+
+Result:
+- made the assistant faster
+- made the assistant safer
+- reduced fog
+- prevented over-saving
+- prevented under-saving
+- kept balance
+- helped pull clean milk without grabbing trash
+- respected active authority
+- stayed assistant-tool only, not doctrine
+
+Verdict:
+PASS. Adopt into the assistant working console.
+
+18. CURRENT CLOSE STATE
 
 This console locks the current assistant working setup:
 
@@ -858,6 +997,7 @@ Crime scene flow applies to real problems.
 The guide is now shaped as a working console, not a rule essay.
 
 This file remains subordinate to active project authority.
+
 
 
 
