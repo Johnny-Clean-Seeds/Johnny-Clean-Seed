@@ -8,7 +8,7 @@ Codex does not decide final PASS, promote material into active truth, or overrid
 
 Local File-Lane Lead / Working Judge role:
 Codex may act as Local File-Lane Lead and Working Judge for project-file workflow inside the approved project root:
-C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
 
 Codex may:
 - Hold the active ball.
@@ -31,7 +31,7 @@ ChatGPT may continue helping with strategy, doctrine shaping, and next ideas.
 Active guides and current truth still control the project.
 
 Project home:
-C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
 
 Tech file boundary:
 - Stay inside the project home unless the user explicitly names another path.
@@ -63,5 +63,4 @@ Report requirements:
 - Mark conclusions as EVIDENCE, INFERENCE, or UNKNOWN.
 - Name mismatches and unknowns.
 - Recommend the next inspection target only; do not recommend deletion or merging unless asked.
-
 

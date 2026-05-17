@@ -4,10 +4,10 @@ Current patch ID:
 CLEAN_SEED_PATCH_COMMAND_MAP_HOUSEKEEPING_LOCK
 
 Current source-of-truth folder:
-C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
 
 Active guide folder:
-C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\ACTIVE_GUIDES
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES
 
 Upload these three first in a future chat:
 README_START_HERE.txt
@@ -20,14 +20,14 @@ CLEAN_SEED_WRAP_GUIDE.txt controls assistant behavior.
 CLEAN_SEED_ALIGNMENT_CHECK.txt checks drift, dirty milk, package intake, and verdict alignment.
 
 Support proof/history folder:
-C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\PROOF_HISTORY
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY
 
 Support proof role:
 Receipts, manifests, backups, Deep Clean reports, patch receipts, staging inventories, routing maps, and proof ledgers live here after review.
 Support proof is not a fourth active guide file.
 
 Live-test folder:
-C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\LIVE_SEED_TEST_001
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\LIVE_SEED_TEST_001
 
 Live-test role:
 Task, result, report, receipt, repair, and replay evidence lives here after review.
@@ -73,24 +73,24 @@ INSTALLED UPDATE:
 CURRENT_IDEA_PLACEMENT_ACTIVE_GUIDE_UPDATE_20260510
 
 Active guide files touched:
-C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\ACTIVE_GUIDES\README_START_HERE.txt
-C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt
-C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES\README_START_HERE.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt
 
 Truth index touched:
-C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\CURRENT_TRUTH_INDEX.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\CURRENT_TRUTH_INDEX.txt
 
 Backup folder:
-C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\PROOF_HISTORY\BACKUP_ACTIVE_GUIDES_BEFORE_CURRENT_IDEA_PLACEMENT_20260510
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BACKUP_ACTIVE_GUIDES_BEFORE_CURRENT_IDEA_PLACEMENT_20260510
 
 Placement map:
-C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\PROOF_HISTORY\CURRENT_IDEA_PLACEMENT_MAP_20260510.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\CURRENT_IDEA_PLACEMENT_MAP_20260510.txt
 
 Misc / unplaced pile:
-C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\PROOF_HISTORY\MISC_UNPLACED_IDEA_PILE_20260510.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\MISC_UNPLACED_IDEA_PILE_20260510.txt
 
 Receipt:
-C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\PROOF_HISTORY\RECEIPT_CURRENT_IDEA_PLACEMENT_ACTIVE_GUIDE_UPDATE_20260510.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_CURRENT_IDEA_PLACEMENT_ACTIVE_GUIDE_UPDATE_20260510.txt
 
 No recovered file was promoted as current truth by identity.
 Recovered marker CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK remains parked as proof-history reference only.
@@ -148,4 +148,3 @@ Core routes:
 2. SOURCE-ORE -> CHILD-GOLD SWEEP -> LINEAGE CHECK -> DIGEST -> RACK/PALLET/REFERENCE/QUARANTINE -> INSTALL ONLY IF APPROVED.
 Boundary: shed/notes/proof-history content is source-ore unless deliberately installed; no cleanup, delete, move, rename, overwrite, or broad import is authorized by this install.
 README unchanged. AGENTS.md unchanged.
-
