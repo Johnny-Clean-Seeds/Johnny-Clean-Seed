@@ -1,0 +1,79 @@
+PUBLIC_HOUSE_MAP.txt
+Patch: PUBLIC_HOUSE_MAP_FIX_001
+Date: 2026-05-17
+Status: ROUTER / PUBLIC ORIENTATION
+Authority: Not active doctrine by itself.
+
+PURPOSE
+
+This file labels the public GitHub house so a new reader or assistant does not mistake proof volume, test lanes, source-ore, or root mirror copies for active authority.
+
+HOUSE SHAPE
+
+ROOT
+- Public entry surface.
+- May contain mirror/reference copies of important guide files.
+- Must not be treated as final authority without checking CURRENT_TRUTH_INDEX.txt and ACTIVE_GUIDES/.
+
+CURRENT_TRUTH_INDEX.txt
+- Orientation ledger.
+- Names current active packet, local truth path, support proof roles, installed updates, and next clean action.
+- Public readers must distinguish local path facts from public repo commands.
+
+ACTIVE_GUIDES/
+- Active guide packet.
+- Intended active files:
+  - README_START_HERE.txt
+  - CLEAN_SEED_WRAP_GUIDE.txt
+  - CLEAN_SEED_ALIGNMENT_CHECK.txt
+
+AGENTS.md
+- Local file-lane / Codex guidance.
+- Not a fourth active guide.
+- Cannot call final PASS or promote material into active truth.
+
+PROOF_HISTORY/
+- Evidence, receipts, backups, reports, and audit trail.
+- Not active doctrine by volume.
+- Use named proof only for the named scope.
+
+PUBLIC_NOTES/
+- Public notes, handoffs, route selectors, test packets, and public-facing explanation material.
+- Not active doctrine unless deliberately promoted.
+
+TEST_LANES/
+- Experiments and proofs under test scope.
+- Not active doctrine by existence.
+
+Shed/
+- Source-ore, parked material, older experiments, fallback material, and reference stock.
+- Mine carefully. Do not install broadly.
+
+DUPLICATE SURFACE RULE
+
+If a guide file appears both at root and in ACTIVE_GUIDES/, the ACTIVE_GUIDES copy is the active packet copy unless CURRENT_TRUTH_INDEX.txt proves a different current authority. Root copies are public mirrors/reference surfaces.
+
+PASS CONDITIONS FOR THIS FIX
+
+PASS only if:
+1. A public front door exists at root.
+2. The front door sends readers to CURRENT_TRUTH_INDEX.txt and ACTIVE_GUIDES/ first.
+3. PROOF_HISTORY is labeled as evidence only.
+4. PUBLIC_NOTES, TEST_LANES, and Shed are labeled non-authority by default.
+5. Root guide copies are labeled mirror/reference unless proven current.
+6. No active guide content is rewritten by this fix.
+7. No deletion, move, cleanup, or broad proof-history reshuffle occurs.
+
+FAIL CONDITIONS
+
+FAIL if:
+- The fix creates another competing active guide.
+- The fix rewrites active doctrine without approval.
+- The fix deletes, moves, or hides evidence.
+- The fix claims public GitHub is the private local source of truth.
+- The fix treats proof-history volume as authority.
+
+CHECKER UPDATE NOTE
+
+The public router does not require root guide copies to hash-match ACTIVE_GUIDES copies.
+If they differ, that is a confirmed duplicate-surface risk and must be treated as WARN / PASS WITH GUARDRAILS, not automatic FAIL, because ACTIVE_GUIDES remains the named authority packet.
