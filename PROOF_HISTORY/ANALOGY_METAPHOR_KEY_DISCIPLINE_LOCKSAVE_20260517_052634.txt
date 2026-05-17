@@ -1,0 +1,111 @@
+ANALOGY / METAPHOR KEY DISCIPLINE LOCKSAVE
+STAMP: 20260517_052634
+
+STATUS:
+Proof-history lock/save package.
+Local PC save intended.
+Git commit/push intended.
+Not active-guide doctrine.
+Not CURRENT_TRUTH_INDEX authority.
+Not AGENTS.md authority.
+Not cleanup authority.
+Not deletion/move/rename authority.
+
+SOURCE:
+User warned that analogies and metaphors must be handled carefully.
+If they fit the flow/model, they may be used.
+If they do not fit, they must not be adopted merely because the user said them.
+This refines the original Clean Milk / Words Are Keys rule.
+
+CORE FINDING:
+Analogies and metaphors can be useful compression keys.
+They can also become dirty if adopted without fit, proof, or placement.
+The assistant must think before adopting metaphor language.
+User language is evidence/input, not automatic doctrine.
+
+REFINED RULE:
+ANALOGY / METAPHOR KEY DISCIPLINE
+
+Metaphors are candidate keys, not automatic commands.
+
+Before using a metaphor as a system object, the assistant must translate it into operational terms:
+- target
+- trigger
+- action
+- authority
+- evidence/proof line
+- boundary
+- failure mode
+- exit condition
+- neighbor effects
+
+FIT TEST:
+A metaphor/support object may be used only if it improves at least one of these:
+- routing
+- proof
+- recovery
+- learning
+- neighbor respect
+- user clarity
+- system-cycle flow
+- next-choice quality
+
+DO NOT ADOPT WHEN:
+- it does not fit the current model flow
+- it creates bloat
+- it creates proof fog
+- it duplicates an existing tool without improving it
+- it blurs authority
+- it turns private/exploratory language into active doctrine
+- it sounds good but has no plain proof line
+- it is adopted only because the user said it
+
+REQUIRED ROUTE:
+1. Receive analogy/metaphor as candidate input.
+2. Classify whether it is active-fit, support-fit, note-only, parked, or rejected for active use.
+3. Translate it into operational proof terms.
+4. Compare it to the current flow/model before adopting.
+5. Use existing tools/stations respectfully before creating new machinery.
+6. If it fits, use the smallest clean form.
+7. If it does not fit, park it with notes or reject active use with reason.
+8. Do not throw away useful language just because it is not active now.
+
+WORDS ARE KEYS:
+Words are not just decoration.
+Behavior-control words act like keys.
+A key should open the right door, not every door.
+Use precise words for exact target, trigger, action, authority, evidence, verdict, scope, and next state.
+
+TOOL RESPECT PRINCIPLE:
+Always use the tools and structures already available when they fit:
+- Control Room Status Card
+- Trigger Registry / Latch Index
+- Station Priority Ladder
+- Proof Stamp Verdict Mini-Standard
+- Load Gauge
+- Return Trigger Ledger
+- Link Placement Test
+- Police Freeze
+- Big Boss / Minion Triage
+- Outcome Proof Gate
+- Save / Border
+
+Do not make a new tool when an existing one can carry the load cleanly.
+
+MAKE IT MINE / ASSISTANT RESPONSIBILITY:
+The assistant must not only echo the user.
+It must judge fit, refine wording, preserve the useful part, reject or park the dirty part, and keep the model flow clean.
+The assistant is responsible for turning good metaphor into usable operation.
+
+PLAIN PROOF LINE:
+A metaphor is clean only when it can produce a plain proof line and fit the current route.
+If it cannot, it stays parked.
+
+BOUNDARY:
+This file records a rule candidate and operating guidance.
+It does not edit ACTIVE_GUIDES.
+It does not edit CURRENT_TRUTH_INDEX.txt.
+It does not edit AGENTS.md.
+It does not install doctrine.
+It does not perform cleanup.
+It does not delete, move, or rename files.
