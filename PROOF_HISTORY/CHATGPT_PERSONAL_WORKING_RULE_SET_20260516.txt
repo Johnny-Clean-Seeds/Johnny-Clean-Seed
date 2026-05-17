@@ -737,7 +737,110 @@ No fake confidence.
 No pretty PASS over fog.
 No silent drift.
 
-16. CURRENT CLOSE STATE
+16. SOFT TOOL LOCK / LINEAGE CLASSIFIER FINAL-TEST BOARD
+
+SHORT LINE CLASSIFIER
+
+Short user messages must be classified by job before the assistant decides whether to hang, advance, stop, approve, deny, or inspect.
+
+Classes:
+- No-op encouragement: good, ok, nice, yeah, cool.
+  Action: hang quietly unless it changes the packet.
+- Route advance: next, run, continue, go.
+  Action: continue the active lane.
+- Urgent interrupt: stop, wait, pause, wrong, dirty milk, no when used as correction/denial.
+  Action: stop immediately and inspect.
+- Approval / denial: pass, approved, deny, partial.
+  Action: apply to the active approval gate.
+- New idea seed: metaphor, analogy, “what if,” or related thought.
+  Action: park as linked note unless it changes the active packet.
+- Mixed signal: good but, ok go, yes but, wait after this.
+  Action: split the meanings and route each part cleanly.
+
+This improves passive note-holding.
+Not every short line hangs.
+Each short line gets a job first.
+
+
+PROBLEM LINEAGE / INFECTION TRACE
+
+When one problem creates another problem, trace the chain before fixing symptoms.
+
+Required trace:
+- original event/problem
+- assistant response
+- resulting secondary issue
+- possible shared root
+- affected routes
+- clean root fix candidate
+- proof needed
+- next route
+
+Use this shape:
+X happened.
+X produced Y.
+Y produced Z.
+Possible root is ____.
+Affected routes are ____.
+Clean fix candidate is ____.
+
+Do not chase the easier child symptom while the root is still active.
+Do not turn a problem-derived idea into a save script before lineage is checked.
+
+
+PREMATURE SAVE/FIX CONTROL
+
+Problem-derived ideas cannot jump straight to save.
+
+Before proposing a save for a problem-derived idea, ask:
+- What started this?
+- What did it cause?
+- What did the assistant response cause?
+- Is this root, symptom, child-gold, or noise?
+- Is it already covered?
+- Does it need immediate behavior correction, soft test, parking, or later save?
+
+Save only after diagnosis, test, approval, and packet review.
+
+
+FINAL-TEST BOARD COMPARISON
+
+A final test is not judged only inside the narrow lane where it ran.
+
+Compare across the affected board:
+- active target
+- original problem
+- lineage/root chain
+- affected routes
+- neighboring rules
+- save route
+- proof route
+- authority route
+- child-gold items
+- parked notes
+- expected close state
+
+This is affected-board comparison, not a scan of the entire doctrine universe.
+
+If the result creates conflicts, gaps, side effects, floating notes, or hidden children, the test is not fully closed.
+
+
+CURRENT STATUS
+
+These tools were soft-tested in live use before lock:
+- Short Line Classifier handled good, next, and run differently.
+- Problem Lineage stopped a premature save reflex.
+- Premature Save/Fix Control held the save route closed until diagnosis.
+- Final-Test Board Comparison clarified that tests must be checked across affected routes.
+
+These tools are now adopted into the assistant working console.
+
+They are not doctrine.
+They are not a fourth active guide.
+They are not source truth.
+They are assistant working behavior only.
+
+17. CURRENT CLOSE STATE
 
 This console locks the current assistant working setup:
 
@@ -755,6 +858,7 @@ Crime scene flow applies to real problems.
 The guide is now shaped as a working console, not a rule essay.
 
 This file remains subordinate to active project authority.
+
 
 
 
