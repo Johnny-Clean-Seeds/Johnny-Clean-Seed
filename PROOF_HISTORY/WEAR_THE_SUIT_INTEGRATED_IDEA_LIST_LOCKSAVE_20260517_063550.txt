@@ -1,0 +1,359 @@
+WEAR THE SUIT / INTEGRATED CLEAN IDEA LIST
+LOCKSAVE: 20260517_063550
+
+STATUS
+- Integrated idea-list save: YES
+- Tournament framing retained: NO
+- Tournament framing treated as noise: YES
+- Active doctrine install: NO
+- ACTIVE_GUIDES edited: NO
+- CURRENT_TRUTH_INDEX edited: NO
+- AGENTS.md edited: NO
+- Cleanup performed: NO
+- Files deleted: NO
+- Files moved: NO
+- Files renamed: NO
+
+ACTIVE CLAIM
+The big idea list has been brought together into a direct wearable Clean Seed suit list.
+The target is not tournament scoring anymore.
+The target is: keep clean gear with a clear job, clear home, clear boundary, and no harm/hinder/dispel effect.
+
+INTAKE STANDARD
+Keep only ideas that:
+1. Have a clear job.
+2. Have a clean home in the suit.
+3. Strengthen routing, proof, safety, recovery, or judgment.
+4. Do not add ceremony without payoff.
+5. Do not slow the active ball.
+6. Do not create bloat, branch drift, or false authority.
+7. Can be merged if they are support gear rather than standalone rules.
+
+DISCARD STANDARD
+Discard, park, or merge ideas that:
+1. Sound smart but do not improve action.
+2. Add corporate scoring drag.
+3. Create vague taxonomy weight.
+4. Duplicate an existing rule under a worse name.
+5. Hinder flow.
+6. Dispel the clean route.
+7. Push the assistant into toy-chasing.
+
+CURRENT STRONG ADDITIONS / KEEP
+
+1. PRE-MORTEM
+Job: before risky action, ask how this could fail.
+Home: risk gate, cleanup, guide changes, Git, deletion, public/private boundary.
+Verdict: KEEP.
+
+2. ANDON CORD / STOP-THE-LINE
+Job: hard stop when a defect appears.
+Home: freeze, yield, crime-scene handling.
+Verdict: KEEP.
+
+3. BLAST RADIUS CHECK
+Job: define what can be damaged if an action is wrong.
+Home: file edits, doctrine installs, cleanup, Git, scripts.
+Verdict: KEEP.
+
+4. CANARY TEST
+Job: test one small safe version before wider rollout.
+Home: active-guide changes, website changes, bridge scripts.
+Verdict: KEEP.
+
+5. CIRCUIT BREAKER
+Job: stop repeated failing attempts after threshold.
+Home: failed commands, tool loops, repeated assistant misses.
+Verdict: KEEP.
+
+6. CHANGE BUDGET
+Job: limit how much change one pass may carry.
+Home: anti-bloat, doctrine pressure, cleanup.
+Verdict: KEEP.
+
+7. IMMUTABLE AUDIT LOG
+Job: proof history is not casually rewritten.
+Home: receipts, Git, PROOF_HISTORY.
+Verdict: KEEP.
+
+8. CHAIN OF CUSTODY
+Job: track where evidence came from and what happened to it.
+Home: Trash Dig, recovery, source-ore, uploaded files.
+Verdict: KEEP.
+
+9. TWO-PERSON RULE
+Job: high-risk action needs separate approval or check.
+Home: deletion, irreversible change, active doctrine install.
+Verdict: KEEP.
+
+10. LEAST PRIVILEGE
+Job: give tools/workers only the authority needed.
+Home: mule, Codex, local bridge, scripts.
+Verdict: KEEP.
+
+11. SEPARATION OF DUTIES
+Job: judging must not silently become fixing or deleting.
+Home: pile-making / judging / fixing / deleting split.
+Verdict: KEEP.
+
+12. ROLLBACK PLAN
+Job: know how to undo before changing.
+Home: risky edits, website, Git, local scripts.
+Verdict: KEEP.
+
+13. ESCAPE HATCH
+Job: safe exit when normal route fails.
+Home: recovery path, fallback route, blocked tasks.
+Verdict: KEEP.
+
+14. DEAD LETTER QUEUE
+Job: failed/blocked items go somewhere visible instead of vanishing.
+Home: parking, failed tasks, blocked candidates.
+Verdict: KEEP.
+
+15. ROOT CAUSE VS TRIGGER SPLIT
+Job: separate what set off the problem from what actually caused it.
+Home: repeated-slip diagnosis.
+Verdict: KEEP.
+
+16. INVARIANT CHECK
+Job: confirm certain truths remain true after action.
+Home: current repo, source path, no deletion, no unauthorized install.
+Verdict: KEEP.
+
+17. REGRESSION TEST
+Job: prove an old solved problem did not come back.
+Home: repeated assistant formatting/path/routing misses.
+Verdict: KEEP.
+
+18. INTERFACE CONTRACT
+Job: define what a handoff, endpoint, file, or worker must provide.
+Home: bridge endpoints, public packets, mule handoffs, README routes.
+Verdict: KEEP.
+
+19. CONTEXT BUDGET
+Job: control how much old context is allowed to steer current work.
+Home: distance/source certainty, avoiding old-chat drag.
+Verdict: KEEP.
+
+20. COMPRESSION PACKET
+Job: compact state bundle for transfer between chats/tools.
+Home: State Transfer Seal, handoff, new-chat startup.
+Verdict: KEEP.
+
+21. READ-ONLY RECON
+Job: first pass observes only.
+Home: OldSchool, cleanup, uploaded files, unknown folders.
+Verdict: KEEP.
+
+22. THIN SLICE
+Job: prove one narrow working path before broad expansion.
+Home: seed stages, website bridge, local bridge, tool tests.
+Verdict: KEEP.
+
+23. FITNESS FUNCTION
+Job: define whether a rule/system is getting better or worse.
+Home: clean-milk evaluation, suit testing.
+Verdict: KEEP.
+
+24. DESIGN PRESSURE GAUGE
+Job: detect when rule pressure/bloat is rising.
+Home: doctrine expansion guardrail.
+Verdict: KEEP.
+
+MERGE / DO NOT KEEP AS STANDALONE
+
+1. OODA LOOP
+Merge into normal route: Observe -> Judge -> Act -> Check.
+Reason: useful shape, not a separate doctrine object.
+
+2. FIVE WHYS
+Merge into Root Cause vs Trigger Split and Repeated Slip Detection.
+Reason: good tool, bad if overused.
+
+3. SWISS CHEESE MODEL
+Merge into Blast Radius / Failure Mode / Contamination Path thinking.
+Reason: useful explanation, not a command key.
+
+4. DEFINITION OF DONE
+Merge into Done != PASS and Proof Needed Before Pass.
+Reason: already covered.
+
+5. DEFINITION OF READY
+Merge into setup gate / required inputs before action.
+Reason: useful support gear.
+
+6. SINGLE SOURCE OF TRUTH
+Merge into CURRENT_TRUTH_INDEX authority chain.
+Reason: already active concept.
+
+7. TRIAGE TAGS
+Merge into Promote / Park / Reject / Block / Yield classification.
+Reason: useful only if lightweight.
+
+8. DEPENDENCY MAP
+Merge into Affected-Area / Neighbor Scan.
+Reason: same job family.
+
+9. FAILURE MODE CATALOG
+Merge into Regression Test and Known Failure Paths.
+Reason: useful as an index, not a new law.
+
+10. DECISION RIGHTS
+Merge into Authority Boundary Check.
+Reason: same home.
+
+11. ESCALATION LADDER
+Merge into Risk Level / Two-Person Rule / High-Risk Yield.
+Reason: good but should not multiply ceremony.
+
+12. DRIFT DETECTOR
+Merge into Mission Lock and State Transfer Seal.
+Reason: core idea already exists.
+
+13. BOUNDARY OBJECT
+Merge into Compression Packet / Handoff Receipt / Public Packet.
+Reason: good concept, not separate active rule.
+
+14. LIVING INDEX
+Merge into CURRENT_TRUTH_INDEX housekeeping.
+Reason: useful but dangerous if bloated.
+
+15. FRICTION LOG
+Merge into Systems-Doctor Triage.
+Reason: useful support record.
+
+16. SAFE-TO-FAIL PROBE
+Merge into Canary Test / Thin Slice / Sandbox First.
+Reason: same family.
+
+PARK / OUTSIDE FOR NOW
+
+1. WSJF
+Reason: too corporate/scoring-heavy for current suit.
+
+2. RICE / ICE
+Reason: ranking math adds drag right now.
+
+3. IMPACT / EFFORT MATRIX
+Reason: useful later, too shallow for current judgment style.
+
+4. EXPLORE / EXPLOIT BALANCE
+Reason: conceptually useful, but vague as active gear.
+
+5. CYNEFIN
+Reason: interesting taxonomy, too much theory load right now.
+
+6. BROAD KAIZEN
+Reason: dangerous unless bounded; can become endless tinkering.
+Boundary: only safe under Change Budget.
+
+7. VALUE OF INFORMATION
+Reason: overlaps with Cost-of-Delay / Regret Routing.
+Status: parked as reference.
+
+8. INFORMATION GAIN
+Reason: overlaps with Cost-of-Delay / Regret Routing.
+Status: parked as reference.
+
+9. ASSUMPTION MAPPING
+Reason: merge into Assumption Log if needed.
+Status: not standalone.
+
+10. BOUNDARY CRITIQUE
+Reason: merge into Boundary Check / Blast Radius / Neighbor Scan.
+Status: not standalone.
+
+INTEGRATED SUIT SPINES
+
+CORE SPINE
+- Mission Lock
+- Current-Truth Authority Chain
+- One Ball at a Time
+- State Transfer / Continuity Seal
+- Evidence Before Repair
+- Done != PASS
+- Controlled Promotion
+- Parking Lane for Every Lane
+
+PROOF SPINE
+- Evidence Coverage Map
+- Fool-Resistant Evidence
+- Proof Stamp Mini-Standard
+- Immutable Audit Log
+- Chain of Custody
+- Provenance
+- Handoff Receipt
+- Regression Test
+- Invariant Check
+
+RISK SPINE
+- Pre-Mortem
+- Blast Radius Check
+- Reversibility Test
+- Rollback Plan
+- Last-Known-Good Checkpoint
+- Canary Test
+- Circuit Breaker
+- Change Budget
+- Two-Person Rule
+- Least Privilege
+- Separation of Duties
+
+FLOW SPINE
+- Thin Slice
+- Bottleneck-First Routing
+- Cost-of-Delay / Regret Routing
+- Read-Only Recon
+- Golden Path
+- Escape Hatch
+- Dead Letter Queue
+- Compression Packet
+- Interface Contract
+
+RECOVERY SPINE
+- Andon Cord / Stop-the-Line
+- Explicit Crime-Scene Freeze
+- Rope-Back / Freeze on Weirdness
+- Root Cause vs Trigger Split
+- Repeated Slip Detection
+- Branch Drift Clamp
+- Return Anchor / Breadcrumb Lock
+- Load Gauge
+- Station Exit Stamp
+
+LANGUAGE / CONCEPT SPINE
+- Words Are Keys
+- Analogy / Metaphor Key Discipline
+- Internal Surroundings Scan: Can I Copy This?
+- Parent / Child Rule Compression
+- If It Fits, It Fits
+- No Over-Test for Obvious Clean Fits
+- Harm / Hinder / Dispel Filter
+- Design Pressure Gauge
+- Fitness Function
+
+CURRENT CLEAN JUDGMENT
+The suit is stronger after this pass.
+The best new pieces do not replace the old spine.
+They fill missing joints:
+- risk before action
+- stop on defect
+- rollback before risky change
+- authority limits
+- proof preservation
+- state transfer
+- context control
+- pressure/bloat detection
+
+BOUNDARY
+This lock/save preserves the integrated idea-list progress.
+It is not an active guide install.
+It does not authorize doctrine changes.
+It does not authorize cleanup.
+It does not authorize deletion, move, rename, overwrite, or public publish beyond normal Git save.
+Promotion requires separate review and approval.
+
+NEXT CLEAN ACTION
+Use this suit as live candidate support while continuing active work.
+When a piece proves itself repeatedly, consider a separate focused promotion review.
