@@ -1,0 +1,92 @@
+HOME_LANGUAGE_COEXISTENCE_RULE_001
+Status: SUPPORT NOTE / WORD-KEY PLACEMENT CARD
+Authority: Not active doctrine.
+Home: PUBLIC_NOTES
+Date: 2026-05-17
+
+PURPOSE
+
+This note lets home/brain language and public-boundary language co-exist cleanly.
+
+It prevents the model from treating public reach as public-human purpose.
+
+It also prevents the model from banning useful public-boundary words where they belong.
+
+CORE RULE
+
+The repo home is the assistant/model brain for this build.
+
+It may be publicly reachable, but public reach does not define its purpose or authority.
+
+Home/house/brain words describe function.
+
+Public words describe exposure, access boundary, or named lanes.
+
+PLACEMENT
+
+Use home, house, or brain when judging:
+
+- assistant entry,
+- routing,
+- memory,
+- proof flow,
+- authority placement,
+- word-key precision,
+- tool placement,
+- room roles,
+- whether a weakness matters.
+
+Use public when judging:
+
+- whether something is visible from outside,
+- whether local paths need boundary warnings,
+- whether a note belongs in PUBLIC_NOTES,
+- whether external readers must be told not to treat local paths as commands.
+
+DO NOT
+
+- Do not call the home a public-human presentation project.
+- Do not treat human polish as a weakness by itself.
+- Do not call pointer files mirrors.
+- Do not let public-boundary language outrank home/brain function.
+- Do not let this note outrank CURRENT_TRUTH_INDEX.txt or ACTIVE_GUIDES.
+
+SUIT THEORY READ
+
+The two ideas are not enemies.
+
+Public reach is like a window.
+
+Home/brain is the house function.
+
+A window does not decide what room owns authority.
+
+A visitor view does not decide the floor plan.
+
+The assistant must be comfortable in the home and know where tools, ideas, rooms, signs, proof, and parked material live.
+
+POWER PLAY LESSON
+
+The earlier leak happened because public-language and home-language were not separated by role.
+
+The fix is not to delete public words.
+
+The fix is to place them.
+
+Public is access boundary.
+
+Home is operating function.
+
+Brain is assistant memory/routing/proof frame.
+
+CLOSE RULE
+
+This note supports word placement.
+
+It must not become hidden doctrine.
+
+It must not outrank CURRENT_TRUTH_INDEX.txt.
+
+It must not outrank ACTIVE_GUIDES.
+
+It must help the assistant enter, route, think, prove, remember, and act cleanly.

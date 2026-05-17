@@ -1,40 +1,53 @@
 PUBLIC_HOUSE_MAP.txt
-Patch: PUBLIC_FORMAT_AND_WORD_KEYS_001
+Patch: HOME_LANGUAGE_COEXISTENCE_001
 Date: 2026-05-17
-Status: ROUTER / PUBLIC ORIENTATION
+Status: ROUTER / HOME ORIENTATION
 Authority: Not active doctrine by itself.
 
 PURPOSE
 
-This file labels the public GitHub house so a new reader or assistant does not mistake proof volume, test lanes, source-ore, or root pointer files for active authority.
+This file labels the repo home so the assistant does not mistake proof volume, test lanes, source-ore, public-boundary language, or root pointer files for active authority.
 
 WHAT THIS FILE IS
 
-- A public room map.
+- A room map for the repo home.
 - A front-door companion.
-- A role label for the main public folders and files.
-- A placement aid for public readers.
+- A role label for the main folders and files.
+- A placement aid for assistant entry and routing.
 
 WHAT THIS FILE IS NOT
 
 - Not an active guide body.
 - Not a replacement for CURRENT_TRUTH_INDEX.txt.
 - Not a replacement for ACTIVE_GUIDES.
+- Not a generic public-human presentation standard.
 - Not permission to promote, delete, move, overwrite, or call PASS.
+
+HOME / PUBLIC COEXISTENCE RULE
+
+The repo home is the assistant/model brain for this build.
+
+It may be publicly reachable, but public reach does not define its purpose or authority.
+
+Use home, house, or brain language when judging function, routing, authority, proof flow, memory, and word keys.
+
+Use public language only when describing exposure, access boundary, or named lanes such as PUBLIC_NOTES.
+
+Do not treat human-facing polish as a weakness unless it affects assistant entry, routing, authority clarity, proof flow, memory, or word-key precision.
 
 HOUSE SHAPE
 
 ROOT
 
-- Public entry surface.
-- May contain pointer/reference files that route readers to active material.
+- Home entry surface.
+- May contain pointer/reference files that route the assistant to active material.
 - Must not be treated as final authority without checking CURRENT_TRUTH_INDEX.txt and ACTIVE_GUIDES/.
 
 CURRENT_TRUTH_INDEX.txt
 
 - Orientation ledger.
 - Names current active packet, local truth path, support proof roles, installed updates, and next clean action.
-- Public readers must distinguish local path facts from public repo commands.
+- Publicly visible local path facts are orientation facts, not commands for other machines.
 
 ACTIVE_GUIDES/
 
@@ -58,7 +71,7 @@ PROOF_HISTORY/
 
 PUBLIC_NOTES/
 
-- Public notes, handoffs, route selectors, test packets, support cards, and public-facing explanation material.
+- Support-note lane for visible signs, cards, handoffs, public-boundary notes, learning captures, and explanation material.
 - Not active doctrine unless deliberately promoted.
 
 TEST_LANES/
@@ -76,9 +89,9 @@ ROOT POINTER RULE
 
 If a guide file appears both at root and in ACTIVE_GUIDES/, the ACTIVE_GUIDES copy is the active packet copy unless CURRENT_TRUTH_INDEX.txt proves a different current authority.
 
-Root guide files are public pointer/reference surfaces.
+Root guide files are pointer/reference surfaces.
 
-They route readers to the active guide packet.
+They route the assistant to the active guide packet.
 
 They are not mirror doctrine bodies.
 
@@ -88,6 +101,8 @@ Words are keys.
 
 Use the most accurate word for the role:
 
+- Home: the repo brain/house used for assistant entry, memory, routing, proof, and action.
+- Public: exposure/access boundary, not purpose or authority.
 - Active guide: can guide behavior inside its lane.
 - Pointer: routes to another file.
 - Reference: supports understanding.
@@ -100,18 +115,23 @@ For more wording support, see:
 
 PUBLIC_NOTES/WORD_KEYS_AND_PUBLIC_LANGUAGE_NOTES_001.txt
 
+For the coexistence rule, see:
+
+PUBLIC_NOTES/HOME_LANGUAGE_COEXISTENCE_RULE_001.txt
+
 PASS CONDITIONS FOR THIS FIX
 
 PASS only if:
 
-1. A public front door exists at root.
-2. The front door sends readers to CURRENT_TRUTH_INDEX.txt and ACTIVE_GUIDES/ first.
-3. PROOF_HISTORY is labeled as evidence only.
-4. PUBLIC_NOTES, TEST_LANES, and Shed are labeled non-authority by default.
-5. Root guide files are labeled pointer/reference unless proven current.
-6. Word-key support exists without replacing ACTIVE_GUIDES.
-7. No active guide content is rewritten by this fix.
-8. No deletion, move, cleanup, or broad proof-history reshuffle occurs.
+1. The home front door exists at root.
+2. The front door sends the assistant to CURRENT_TRUTH_INDEX.txt and ACTIVE_GUIDES/ first.
+3. PUBLIC_NOTES is described as a support-note lane, not active doctrine.
+4. PROOF_HISTORY is labeled as evidence only.
+5. TEST_LANES and Shed are labeled non-authority by default.
+6. Root guide files are labeled pointer/reference unless proven current.
+7. Home/public coexistence is defined without creating a new authority stack.
+8. No active guide content is rewritten by this fix.
+9. No deletion, move, cleanup, or broad proof-history reshuffle occurs.
 
 FAIL CONDITIONS
 
@@ -120,14 +140,6 @@ FAIL if:
 - The fix creates another competing active guide.
 - The fix rewrites active doctrine without approval.
 - The fix deletes, moves, or hides evidence.
-- The fix claims public GitHub is the private local source of truth.
+- The fix treats public reach as the purpose of the home.
 - The fix treats proof-history volume as authority.
-- The word-key note becomes a hidden override.
-
-CHECKER NOTE
-
-The public router does not require root guide files to hash-match ACTIVE_GUIDES copies.
-
-If they differ, that is not automatic failure.
-
-The correct question is whether the root file is a pointer/reference surface and whether ACTIVE_GUIDES remains the named authority packet.
+- The coexistence note becomes a hidden override.
