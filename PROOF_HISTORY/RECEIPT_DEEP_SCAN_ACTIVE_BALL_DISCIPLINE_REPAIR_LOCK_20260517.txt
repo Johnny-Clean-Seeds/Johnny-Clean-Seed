@@ -1,0 +1,36 @@
+RECEIPT: DEEP SCAN / ACTIVE BALL DISCIPLINE REPAIR LOCK
+Date: 2026-05-17
+
+Files intended for save/upload: 2
+
+Files:
+1. PROOF_HISTORY/DEEP_SCAN_ACTIVE_BALL_DISCIPLINE_REPAIR_20260517.txt
+2. PROOF_HISTORY/RECEIPT_DEEP_SCAN_ACTIVE_BALL_DISCIPLINE_REPAIR_LOCK_20260517.txt
+
+Captured progress:
+- Deep Scan must run routine inspection first.
+- New tools are gear, not the job.
+- Active Ball Custody rule.
+- No old-ball/stale-lane bleed in closeout.
+- Handoff / second-agent lane inactive unless user reopens it.
+- "Trash it" means drop from active working room, not delete saved Git/project records.
+- Clean closeout must verify the next action belongs to the current active ball.
+
+What changed:
+- Created one support-only behavior repair note.
+- Created this receipt.
+
+What did not change:
+- ACTIVE_GUIDES edited: NO
+- CURRENT_TRUTH_INDEX.txt edited: NO
+- AGENTS.md edited: NO
+- Root guide copies edited: NO
+- Cleanup/delete/move/rename: NO
+- Doctrine install: NO
+- Handoff work restarted: NO
+
+Boundary:
+Support-only proof-history save. No active package expansion.
+
+Verdict:
+PASS WITH GUARDRAILS - current behavior repair progress captured; assistant must prove stability in future runs.

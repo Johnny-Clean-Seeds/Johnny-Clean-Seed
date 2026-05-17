@@ -1,0 +1,145 @@
+DEEP SCAN / ACTIVE BALL DISCIPLINE REPAIR
+Date: 2026-05-17
+Status: SUPPORT-ONLY BEHAVIOR REPAIR NOTE.
+Authority: Proof-history support file. Not active doctrine. Not an active guide edit.
+
+PURPOSE
+
+This file captures the current behavior-repair progress after the assistant mishandled a Deep Scan closeout by dragging an old handoff/second-agent task into the active scan.
+
+The current active ball is not agent handoff.
+The current active ball is getting assistant operating behavior right.
+
+This file does not install doctrine.
+This file does not edit active guides.
+This file does not change CURRENT_TRUTH_INDEX.
+This file does not change AGENTS.md.
+This file does not delete, move, rename, clean, or reorganize files.
+
+CORRECTION 1 - DEEP SCAN IS ROUTINE INSPECTION FIRST
+
+Problem:
+The assistant treated new tools/concepts as the center of the Deep Scan instead of running the normal problem-finding routine first.
+
+Correct rule:
+Deep Scan is not a license to play with new tools.
+
+Deep Scan must first inspect:
+1. active target,
+2. source state,
+3. scope,
+4. expected route,
+5. actual route,
+6. evidence,
+7. boundary,
+8. changed items,
+9. unchanged items,
+10. missing proof,
+11. contradictions,
+12. thin or weak spots,
+13. risk,
+14. next clean state.
+
+New tools are gear only.
+They may help the scan, but they do not become the scan.
+
+Rule shape:
+Deep Scan runs the house inspection first. New tools ride on the belt only if they make the inspection cleaner, faster, or easier.
+
+CORRECTION 2 - ACTIVE BALL CUSTODY
+
+Problem:
+The assistant carried an older task into the closeout of the current task.
+
+Specific miss:
+The previous handoff/second-agent kickoff lane was dragged into a Deep Scan response after the user had shifted the active target to assistant behavior repair.
+
+Correct rule:
+Before closing a scan or naming a next action, check whether the next action belongs to the current active ball.
+
+If the next action belongs to an older lane, do not present it as current.
+
+Clean route:
+1. Name current active ball.
+2. Name inactive or parked lanes if needed.
+3. Inspect only the active target unless scope says otherwise.
+4. Before closeout, ask:
+   - Does this next action belong to the active ball?
+   - Is this an old-ball/stale-lane carryover?
+   - Did the user already close or drop this lane?
+5. If old-ball bleed is found:
+   - remove it from the closeout,
+   - park it only if useful,
+   - otherwise drop it from active work.
+
+Rule shape:
+Close on the active target only.
+
+CORRECTION 3 - HANDOFF LANE INACTIVE
+
+Current state:
+The handoff / second-agent lane is inactive unless the user reopens it.
+
+The user said to forget the handoff lane for now and get the assistant behavior right first.
+
+Meaning:
+Do not draft second-agent kickoff messages.
+Do not prepare handoff URLs.
+Do not compare agent reports.
+Do not route next action toward another agent.
+Do not drag mule/agent handoff logic into scans unless the user reactivates that lane.
+
+Boundary:
+"Trash it" in this context means drop the handoff lane from the active working room.
+It does not mean delete saved Git files or erase project records.
+
+CORRECTION 4 - ALARM / FREEZE HANDLING REMAINS ACTIVE
+
+Related behavior already captured:
+- explicit stop/freeze/crime-scene wording overrides normal parking,
+- alarm words yield first,
+- classify before continuing,
+- preserve Last Known Thought,
+- resume/park/merge/block based on classification.
+
+This file does not duplicate the full earlier rule-fix file.
+It confirms that interruption handling is part of getting assistant behavior right.
+
+CORRECTION 5 - CLEAN CLOSEOUT REQUIREMENT
+
+A clean closeout must state:
+- active target,
+- verdict,
+- what passed,
+- what failed or remained thin,
+- what changed,
+- what did not change,
+- open watch items,
+- next clean action,
+- whether that next action belongs to the active ball.
+
+A closeout must not smuggle in:
+- old handoff work,
+- stale next actions,
+- unrelated tool play,
+- abandoned lanes,
+- unapproved file work,
+- install pressure.
+
+CURRENT VERDICT
+
+File/save state:
+No file work is being judged here except this support-only save.
+
+Behavior state:
+PARTIAL repaired in working behavior.
+
+Open watch:
+The assistant must prove through future responses that Deep Scan stays target-bound and that old-ball bleed does not return.
+
+NEXT CLEAN ACTION
+
+Continue with the current active target only:
+get the assistant's Deep Scan, interruption, active-ball custody, and closeout behavior right before returning to agent/report work.
+
+END
