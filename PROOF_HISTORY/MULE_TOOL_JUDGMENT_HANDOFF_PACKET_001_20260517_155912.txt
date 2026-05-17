@@ -1,0 +1,289 @@
+MULE TOOL JUDGMENT HANDOFF PACKET
+
+SAVE ID:
+MULE_TOOL_JUDGMENT_HANDOFF_PACKET_001
+
+DATE:
+20260517_155912
+
+ROOT FOLDER:
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+
+GIT TOPLEVEL:
+C:/Users/13527/Desktop/Jxhnny_Kleen_C3dz
+
+HEAD BEFORE SAVE:
+41771d3
+
+REMOTE:
+https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed.git
+
+MISSION:
+Give a clean, high-certainty judgment on Clean Seed tools/concepts so the project does not lose useful abilities and does not keep bad/duplicative tools.
+
+HARD BOUNDARY:
+ONLY work inside this folder:
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+
+Do not inspect any other folder.
+Do not edit files.
+Do not create files.
+Do not delete files.
+Do not move files.
+Do not rename files.
+Do not install doctrine.
+Do not modify ACTIVE_GUIDES.
+Do not modify CURRENT_TRUTH_INDEX.txt.
+Do not modify AGENTS.md.
+Do not commit.
+Do not push.
+
+This is read-only evaluation.
+Return the report in chat only.
+
+WHY THIS MATTERS:
+A tool is not good because it sounds good.
+A tool is not proven because a proof-history file says PASS.
+A pushed commit proves a file exists; it does not prove the tool improved the working machine.
+The danger is building a beautiful rack of tools and mistaking the rack for a working machine.
+
+PRIMARY QUESTION:
+Which tools should Clean Seed actually USE, CARRY, KEEP, MERGE, SHED, PARK, or REJECT?
+
+READING ORDER:
+Read only the minimum needed.
+
+Start with:
+1. CURRENT_TRUTH_INDEX.txt
+2. AGENTS.md
+3. ACTIVE_GUIDES\README_START_HERE.txt
+4. ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt
+5. ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt
+
+Then inspect only relevant PROOF_HISTORY files connected to:
+- algorithm candidate list
+- tool trials
+- deep scan algorithm rack route
+- assistant drift repair
+- session lock/save status
+- protective gold cycle gate
+- tool trial ledger / wardrobe / rack / carry / pallet language if present
+
+Do not crawl the whole repo blindly.
+Search by file name and keyword first.
+Use Git status/log only for orientation.
+
+KEY WARNING:
+Some previous files may say PASS AS RACK TOOL.
+Do not trust that wording by itself.
+Classify each tool based on actual fit, live-use evidence, overlap, trigger clarity, cost, and whether it improves the Clean Seed flow.
+
+CERTAINTY RULE:
+For every tool, give certainty:
+HIGH / MEDIUM / LOW.
+
+HIGH = evidence strongly supports verdict.
+MEDIUM = likely fit, but needs live use or tighter trigger.
+LOW = unclear, weak evidence, paper-fit only, or vibe/tool-name only.
+
+If certainty is LOW, do not recommend USE.
+If good only inside another tool, say MERGE and name the parent.
+If covered better by another tool, say SHED or MERGE.
+If dangerous without a tight trigger, say CARRY WITH TRIGGER or PARK.
+
+VERDICT OPTIONS:
+USE = should actively shape next work now.
+CARRY = keep available as practical rack tool, but use only when triggered.
+KEEP = preserve as concept/reference, not active operating gear.
+MERGE = useful only as part of another tool.
+SHED = remove from active consideration because existing tools cover it better.
+PARK = not enough proof or unclear fit; keep non-active.
+REJECT = bad fit, harmful, duplicative, or likely to cause drift.
+
+TOOL EVALUATION FORMAT:
+TOOL:
+PRIMARY JOB:
+WHERE IT FITS:
+OVERLAPS WITH:
+COLLISIONS / RISKS:
+TRIGGER:
+CLOSE CONDITION:
+LIVE VALUE:
+COST / BLOAT:
+VERDICT:
+CERTAINTY:
+WHY:
+
+TOOLS TO EVALUATE:
+
+Recovery / failed-item routing:
+1. Dead-Letter Queue
+2. Quarantine Lane
+3. Rollback
+4. Checkpoint / Restore
+5. Sentinel
+6. Parking Lane
+7. Rest Stop
+8. Outside-Field Candidate Gate
+9. Dirty Milk Quarantine
+10. Reject / Block Lane
+
+Cleanup / evidence / stale-state handling:
+11. Duplicate-Is-Evidence Gate
+12. Garbage Collection
+13. Cache Invalidation
+14. Proof Before Reality
+15. Evidence Before Repair
+16. Done Does Not Equal PASS
+17. Movement Is Not Proof
+18. Confidence Is Not Proof
+19. Timestamped Helpful Evidence Receipt
+20. Available Helpful Evidence Check
+
+Order / dependency / state control:
+21. Idempotency Check
+22. Dependency Graph / Topological Order
+23. Station Card / Next Gate Contract
+24. Active Ball / Ball-in-Hand Custody
+25. Universal Order of Operations / All-Rule Scan Gate
+26. Combination / Order / Collision Gate
+27. Rule Ripple / Respect Thy Neighbor Check
+28. Affected-Area Review
+29. Controlled Promotion
+30. Authority Chain Check
+
+Command / trigger / language safety:
+31. Regex / Trigger Gate
+32. Command Trigger Hygiene
+33. Unknown Command / Did You Mean Gate
+34. Word Precision / Words Are Keys
+35. Name Saturation Check
+36. Dead Titles Check
+37. Public Codename Boundary
+38. Local vs Public Boundary
+39. Prompt Doorway / Source Doorway Check
+40. Tool Trial Ledger
+
+Run-control / load / continuity tools:
+41. Watchdog
+42. Heartbeat / Liveness Probe
+43. Readiness Probe
+44. Circuit Breaker
+45. Capped Retry
+46. Backpressure / Queue Throttling
+47. Sleep-Deprived Safe Mode
+48. Tired Human Safety Gate
+49. Interruption Freeze / Crime Scene Handling
+50. Parking Inject Dock
+
+Growth / idea filtering:
+51. Protective Gold Cycle Gate
+52. Gold Tray
+53. Mine -> Tray -> Smelt -> Forge -> Wear
+54. Premature Crystallization Check
+55. Shadow Response Check
+56. Armor Load Check
+57. Route Worship Check
+58. Gold Flood Check
+59. Tool Drift Check
+60. Apply Now Only If It Closes Current Active Gap
+
+Project structure / flow:
+61. Clean Seed Core Seed Card
+62. Mission Lock
+63. One Home / One Route / One Proof Path
+64. Failure Path
+65. Recovery Path
+66. Promotion Rule
+67. Close Condition
+68. Stage 0-4 Proof Flow
+69. Wave Group Close Check
+70. Final Wrap Manifest / Manifest Audit
+
+SPECIAL JUDGMENT RULES:
+1. Run-control tools deserve stricter judgment.
+If a tool controls the run itself, it should usually be tested one at a time and then used immediately in the next relevant work. Do not call it proven just because it sounds right.
+
+2. Support/routing tools may be grouped.
+If several tools share the same lane, judge whether they should merge.
+
+3. Do not preserve duplicate abilities under many names.
+If one tool does the job cleanly, shed or merge the extras.
+
+4. Do not erase good ability just because it overlaps.
+Overlap can mean:
+- duplicate bloat,
+- useful backup,
+- parent/child relationship,
+- different trigger,
+- or different risk lane.
+Judge the relationship.
+
+5. Certainty matters.
+A low-certainty tool should not become active operating gear.
+
+6. The final combo should be small.
+Choose the smallest combined set that protects:
+- readiness
+- liveness
+- failure loops
+- evidence
+- authority
+- routing failed material
+- cleanup safety
+- promotion safety
+- overload protection
+
+OUTPUT REQUIREMENTS:
+Do not write a giant essay.
+Be compact but complete.
+
+Final report must include:
+
+1. Executive verdict in 10 lines or fewer.
+
+2. Tool table:
+TOOL | VERDICT | CERTAINTY | MERGE/SHED TARGET | ONE-LINE WHY
+
+3. Detailed notes only for:
+- every USE tool
+- every CARRY tool
+- every HIGH-risk PARK/REJECT
+- every MERGE that changes the combined system
+
+4. Best final combo:
+- Active-use tools
+- Carry tools
+- Keep/reference tools
+- Merge tools
+- Shed/reject tools
+- Parked tools
+
+5. Best combined operating stack:
+Give the smallest working stack that covers:
+- readiness
+- liveness
+- failure loops
+- evidence
+- authority
+- routing failed material
+- cleanup safety
+- promotion safety
+- overload protection
+
+6. Biggest risk if we adopt too many.
+
+7. Biggest risk if we adopt too few.
+
+8. Top 10 tools you are most certain about.
+
+9. Top 10 tools you are least certain about.
+
+10. Next clean action.
+
+FINAL RULE:
+Do not install anything.
+Do not create files.
+Do not commit.
+Do not push.
+Return report in chat only.
