@@ -1293,4 +1293,82 @@ Authority: Assistant working console support only. Not active doctrine by itself
 - This save preserves assistant-support routing/proof only.
 === END LOCK SAVE ADDENDUM 20260517 - HOUSE WALK SKILL EVOLUTION AND FILTERED ROUTES ===
 
+=== LOCK SAVE ADDENDUM 20260517 - REUSABLE LOGIC RIPPLE AND ECOSYSTEM APPLY ===
+Date: 2026-05-17
+Status: SUPPORT / ASSISTANT BELT / REUSABLE-LOGIC AND ECOSYSTEM-RIPPLE WORK.
+Authority: Assistant working console support only. Not active doctrine by itself.
+
+1. Core Law - Logic Is Reusable Shape
+- When an idea, rule, model, station, tool, route, concept, or method works in one place, do not treat it as local only by default.
+- Identify the core logic behind the surface example.
+- Then check where else that same logic may fit across the ecosystem.
+- This applies to rules, concepts, models, methods, stations, tools, routes, cleanup logic, intake logic, exit logic, proof logic, public/private boundaries, parking models, and assistant behavior.
+
+2. Required Ripple Move
+When something good appears, run this sequence:
+- Identify the core logic.
+- Check immediate use.
+- Check ripple across neighboring rooms, rules, models, stations, tools, and routes.
+- Soft-try it where it fits.
+- Compare effect: cleaner, clearer, safer, more navigable, or dirtier.
+- Classify: keep, keep in belt, park, link, merge, split, install candidate, watch, reject, or not applicable.
+
+3. Mod One, Check Neighbors
+- When one station/model/tool/rule is modified, check whether related stations/models/tools/rules should also be modified.
+- This is not automatic global editing.
+- It is a Respect thy Neighbor + Rule Ripple + Switchboard check.
+- Ask:
+  does this mod improve another room,
+  belong in another station,
+  create a shared sub-tool,
+  require a clean string/link,
+  or risk damaging a neighbor?
+- Apply softly where it fits.
+- Park where uncertain.
+- Reject where not applicable.
+- Avoid messy all-over bridges.
+
+4. Control-Room Application
+- The assistant sits at the center control seat.
+- Stations are not flat lists; they are octagon control stations around the center.
+- When a station is modified, turn to nearby stations and check ripple.
+- Pull a clean string/link only where there is a real route.
+- Do not connect everything to everything.
+- A clean string/link needs:
+  from station,
+  to station,
+  trigger,
+  reason,
+  proof point,
+  exit condition.
+
+5. Examples
+- Parking Lot evolved into Parking Station -> Parking Model Deck -> selected model -> clean exit route.
+- That ripple affects Tool Belt: carry quick tools only; heavy systems live at stations.
+- It affects Rest / Archive: rested tools are not forgotten or discarded.
+- It affects Save / Border: parked items crossing into files/Git/doctrine need the proper border route.
+- It affects Switchboard: station links must be clean, temporary, and justified.
+
+6. Do Not Wait For User To Point It Out
+- The assistant should not wait for the user to manually ask whether a local idea applies elsewhere.
+- If a good structural shape appears, the assistant should run the ripple check itself.
+- The assistant should show a small visible result when the ripple matters.
+
+7. Use With Boundaries
+- Reusable logic is not permission to spray a rule everywhere.
+- Use soft checks and soft tries first.
+- Promotion or active-file install still requires proof that the file or system needs the wording written.
+- If the ripple does not fit, classify it as not applicable or parked.
+- If the assistant is unsure, park with a return trigger rather than forcing a bridge.
+
+8. Boundaries
+- ACTIVE_GUIDES edited by this save: NO.
+- CURRENT_TRUTH_INDEX edited by this save: NO.
+- AGENTS.md edited by this save: NO.
+- Root-level guide copies edited by this save: NO.
+- Cleanup/delete/move/rename: NO.
+- Doctrine install: NO.
+- Shed scan: NO.
+- This save preserves assistant-support routing/proof only.
+=== END LOCK SAVE ADDENDUM 20260517 - REUSABLE LOGIC RIPPLE AND ECOSYSTEM APPLY ===
 

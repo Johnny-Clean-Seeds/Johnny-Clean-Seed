@@ -1,0 +1,36 @@
+RECEIPT: CHATGPT REUSABLE LOGIC RIPPLE + ECOSYSTEM APPLY LOCK SAVE
+Date: 2026-05-17
+
+Saved/uploaded file count intended: 2
+
+Files:
+1. PROOF_HISTORY/CHATGPT_PERSONAL_WORKING_RULE_SET_20260516.txt
+2. PROOF_HISTORY/RECEIPT_CHATGPT_REUSABLE_LOGIC_RIPPLE_LOCK_20260517.txt
+
+What changed:
+- Updated existing assistant working console with a bounded addendum:
+  - Core Law: Logic Is Reusable Shape.
+  - Required Ripple Move.
+  - Mod One, Check Neighbors.
+  - Control-Room Application.
+  - Clean string/link requirements.
+  - Do Not Wait For User To Point It Out.
+  - Use With Boundaries.
+
+What did not change:
+- ACTIVE_GUIDES edited: NO
+- CURRENT_TRUTH_INDEX.txt edited: NO
+- AGENTS.md edited: NO
+- Root-level guide copies edited: NO
+- Cleanup/delete/move/rename: NO
+- Doctrine install: NO
+- Shed scan: NO
+
+Reason:
+User clarified the general law: if an idea, rule, concept, model, method, station, tool, or route works in one place, the assistant must identify the reusable logic and check whether it applies elsewhere. The assistant should not wait for the user to point out every cross-application.
+
+Console SHA256 after write:
+8E4298DAD351F910855AB17B69775516843C8C1B1842B863B4A2FF7BAF73179D
+
+Boundary verdict:
+PASS - support-only lock/save. No active package expansion.
