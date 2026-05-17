@@ -1,0 +1,66 @@
+GROWTH COMPOUNDING LOG
+
+STATUS:
+Working growth log.
+Not active doctrine.
+
+FIRST ENTRY:
+
+DATE:
+20260517_171500
+
+SOURCE CHANGE:
+Creation of LEARNING_ROOT, _DEEP_ROOT, COMPOUNDING_SEED_LAYER, and GROWTH_WAVE_MODEL.
+
+GROWTH WAVE:
+This is the learning-root wave.
+It follows the workshop wave.
+It does not replace the workshop.
+It gives meaning and reflection a root beside proof.
+It gives deep compounding lessons a planted place.
+
+EXPECTED FEEL:
+Expected this to give reflective notes a clean home so they do not get mixed with doctrine, lost in chat, or treated as clutter.
+
+BEFORE FEEL:
+Before this, the system had proof receipts and workshop files, but reflective learning had no clear root.
+Deep lessons risked being over-surfaced every day or lost in fog.
+
+AFTER FEEL:
+The house now has a learning garden/root cellar.
+Receipts prove state.
+Learning notes explain meaning.
+Growth waves show how the seed expands without becoming a web.
+Deep seed material has soil.
+
+WHAT CHANGED:
+Created LEARNING_ROOT with:
+- index
+- reflective evidence standard
+- growth wave model
+- growth compounding log
+- seed growth notes
+- _DEEP_ROOT\COMPOUNDING_SEED_LAYER
+
+WHY IT MATTERED:
+The system needs to remember not only what happened, but why it mattered and how it felt before and after.
+Some lessons need to be planted deep and left alone so they compound without becoming daily clutter.
+
+WHAT GOT BETTER:
+Growth has a home.
+Good results can leave recipes.
+Failures can leave route data.
+Deep lessons can compound without becoming active triggers.
+
+WHAT GOT WORSE / HEAVIER:
+The repo gains another root and more files.
+This is weight.
+It stays clean only if used as learning evidence, not active doctrine.
+
+UNPROVEN:
+This does not prove the assistant will always use the learning root correctly.
+It creates the place, the standard, the deep compounding layer, and the growth-wave frame.
+
+COMPOUNDING LESSON:
+A seed grows better when it keeps both proof and memory of meaning.
+Deep seeds compound quietly without demanding attention.

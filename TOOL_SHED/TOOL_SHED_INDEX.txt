@@ -461,3 +461,8 @@ TOOL WORKSHOP SYSTEM POINTER:
 See TOOL_SHED\TOOL_CRIB_AND_BOXES.txt for the tool crib, job boxes, checkout rules, return rules, and tool logistics.
 See TOOL_SHED\ROOM_MAPS_AND_TODO_BOARDS.txt for room maps, hanging boards, to-do boards, design plans, backup rope, experiment bay, placement rules, and expansion gates.
 This pointer does not install doctrine. It links the shed inventory to the working logistics/design layer.
+
+LEARNING ROOT POINTER:
+See LEARNING_ROOT\LEARNING_ROOT_INDEX.txt for reflective evidence, growth compounding notes, before/after feeling reports, learning recipes, seed-growth reminders, and the growth-wave model.
+Optional deep compound material lives under LEARNING_ROOT\_DEEP_ROOT as a quiet planted layer. It is not daily carry and does not wake.
+This pointer does not install doctrine. It gives learning detail a home so growth evidence can compound without becoming bloat.

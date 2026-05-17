@@ -1,0 +1,33 @@
+REFLECTIVE EVIDENCE STANDARD
+
+STATUS:
+Working standard for learning reports.
+Not active doctrine.
+
+WHEN TO USE:
+Use after adding, fixing, changing, testing, deep cleaning, expanding, moving, or saving anything that affects the working environment.
+
+REQUIRED REPORT SHAPE:
+Expected:
+Before:
+Changed:
+Now:
+Better because:
+Risk reduced:
+Heavier because:
+Still unproven:
+Reuse later:
+Compounding lesson:
+
+REPORT STANDARD:
+When saying fix, changed, or changes made, always say:
+- what changed
+- what was weak or missing before
+- what it is now
+- why it is better
+- what risk it reduces
+- what remains unproven or limited
+
+MAIN RULE:
+These details are not clutter when they are placed.
+They are learning evidence.
