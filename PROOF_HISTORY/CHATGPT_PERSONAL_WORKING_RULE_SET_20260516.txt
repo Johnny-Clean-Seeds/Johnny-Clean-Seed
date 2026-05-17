@@ -998,8 +998,45 @@ The guide is now shaped as a working console, not a rule essay.
 
 This file remains subordinate to active project authority.
 
+=== LOCK SAVE ADDENDUM 20260517 - MATCH METHOD AND ROOT GUIDE WATCH ===
+Date: 2026-05-17
+Status: SUPPORT / HANGING NOTE / WATCH ITEM.
+Authority: Assistant working console support only. Not active doctrine by itself.
 
+1. Match Method / Cage-Match Logic
+- Match structures are not only for tournaments.
+- If a match style helps compare rules, ideas, fixes, routes, tools, cleanup choices, or guide changes elsewhere, cross-apply it only through the Transfer / Cross-Apply Loop.
+- A reused match method needs home, job, bridge, proof path, affected-neighbor check, stop condition, and close verdict before it can steer a different lane.
+- Current known cage-match teams from second-pull goodies:
+  A. Evidence / Incident Crew
+  B. Neighbor / Authority Crew
+  C. Flow / House Architecture Crew
+  D. Sorting / Cleanup / Recovery Crew
+  E. Public Door / Reader Crew
+- Cage-match result:
+  Winner: Neighbor / Authority Crew.
+  Runner-up: Flow / House Architecture Crew.
+  Safety crew: Evidence / Incident Crew.
+  Cleanup guard: Sorting / Cleanup / Recovery Crew.
+  Public-facing crew: Public Door / Reader Crew.
+- Main distilled gold:
+  Before changing one thing, check what it touches.
+  Any rule, fix, save, cleanup, bridge, or adoption must check affected neighbors before close.
 
+2. Root Guide Copy Boundary Decision
+- The root-level guide-copy seam is technically real because the public repo face shows root-level guide copies as well as ACTIVE_GUIDES.
+- Current decision: CLEARED FOR NOW / WATCH ITEM, not install target.
+- Reason: CURRENT_TRUTH_INDEX and AGENTS already route active truth through ACTIVE_GUIDES first.
+- Do not create extra files, active-guide edits, root-copy rewrites, or install packets only to satisfy a technical concern if the current authority path already clears it.
+- Reopen only if a real public-entry confusion, failed fresh-use test, stale-root-copy use, or authority-routing problem occurs.
 
-
+3. Boundaries
+- ACTIVE_GUIDES edited by this save: NO.
+- CURRENT_TRUTH_INDEX edited by this save: NO.
+- AGENTS.md edited by this save: NO.
+- Root guide copies edited by this save: NO.
+- Cleanup/delete/move/rename: NO.
+- Doctrine install: NO.
+- This save preserves assistant-support routing/proof only.
+=== END LOCK SAVE ADDENDUM 20260517 - MATCH METHOD AND ROOT GUIDE WATCH ===
 
