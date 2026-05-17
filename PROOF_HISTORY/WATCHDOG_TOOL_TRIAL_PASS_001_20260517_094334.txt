@@ -1,0 +1,113 @@
+SAVE ID: WATCHDOG_TOOL_TRIAL_PASS_001
+DATE: 20260517_094334
+ROOT: C:\Users\13527\Desktop\messy\Johnny-Clean-Seed
+HEAD BEFORE SAVE: 81d954b
+STATUS: PROOF-HISTORY ONLY
+
+ACTIVE BALL:
+Test Watchdog as the first algorithm candidate through Tool Trial Ledger.
+
+SOURCE ANCHOR:
+Current clean anchor before this save is expected to be 81d954b.
+Prior saved candidate list selected Watchdog as first trial because it targets silent stall, fake-running posture, and broken continuation behavior.
+
+TOOL NAME:
+Watchdog
+
+TOOL CLASS:
+Control-pattern candidate.
+
+PROBLEM IT TARGETS:
+The assistant or local process appears to be running, but no real progress is being returned, proven, or bounded.
+This includes:
+- fake background-work posture
+- silent stall
+- endless "running" language
+- no state-change return
+- misleading PASS-style completion after missing state
+- local process that hangs or fails without clear status
+
+WATCHDOG JOB:
+Detect when a run is no longer making visible, bounded, provable progress.
+
+FIT TEST:
+A Watchdog is useful in Clean Seed work if it can do all of these:
+1. Notice when progress is no longer visible.
+2. Force a state return instead of pretending continuation.
+3. Classify the state as clean, blocked, defect found, save candidate, or decision needed.
+4. Avoid chat bloat.
+5. Avoid false background-work claims.
+6. Preserve boundaries.
+7. Point to the next clean move.
+
+TRIAL AGAINST RECENT FAILURE:
+Recent failure:
+Assistant said it was running/continuing as if it could work silently after the response ended.
+
+Watchdog response that should have happened:
+- Stop the fake-running posture.
+- Return state immediately.
+- Say whether real work was completed.
+- If more work is needed, provide a script or bounded next action.
+- Do not imply background execution.
+
+PASS CONDITION:
+Watchdog passes if it turns "I am still working silently" into a returned state inside the current turn.
+
+FAIL CONDITION:
+Watchdog fails if it creates more ceremony, more labels, or more chat noise without changing behavior.
+
+OBSERVED RESULT:
+Watchdog directly fixes the fake-running / silent-stall class of defect.
+It provides a clear stop-return rule:
+No invisible continuation. Return state or provide local executable route.
+
+NEIGHBOR SCAN:
+Touches:
+- chat-output behavior
+- autonomous fit-motion behavior
+- Tool Trial Ledger
+- proof-before-PASS behavior
+- local script handoff behavior
+
+Does not require:
+- active guide edit
+- CURRENT_TRUTH_INDEX edit
+- AGENTS.md edit
+- doctrine install
+- cleanup
+- file move/delete/rename
+
+RISK:
+If overused, Watchdog could become nagging or slow every turn.
+Clean use should be limited to long-running tasks, scripts, staged work, agent handoffs, or any place where fake continuation/stall risk exists.
+
+COMPRESSED OPERATING SHAPE:
+When a task runs long or feels silent:
+1. Check progress.
+2. If no real progress, return state.
+3. Name the state only as needed:
+   CLEAN / BLOCKED / DEFECT / SAVE CANDIDATE / DECISION NEEDED.
+4. Give next executable move if needed.
+5. Do not pretend background work.
+
+TRIAL VERDICT:
+PASS AS RACK TOOL.
+Watchdog is useful as operating gear.
+It should not be installed into active doctrine yet.
+It should be tested again during one local script/workflow failure or long-running stage before any active-guide proposal.
+
+BOUNDARY:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX edited: NO
+AGENTS.md edited: NO
+Doctrine install: NO
+Cleanup: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+
+NEXT:
+Test Liveness Probe / Heartbeat separately, because it is related but not identical.
+Watchdog detects stall.
+Heartbeat confirms alive/progress state during long work.
