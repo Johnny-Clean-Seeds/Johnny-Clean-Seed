@@ -1,0 +1,236 @@
+BRAIN_PROGRESS_LOCK_001_20260517
+Status: LOCKED SUPPORT NOTE / PROGRESS SNAPSHOT
+Authority: Not active doctrine.
+Home: PUBLIC_NOTES
+Date: 2026-05-17
+
+PURPOSE
+
+This note locks the current working progress and thinking frame into the repo home.
+
+The repo home is the assistant/model brain for this build.
+
+This is not a public-human presentation project.
+This is not a marketing front.
+This is not a new active guide.
+This is not a replacement for CURRENT_TRUTH_INDEX.txt.
+This is not a replacement for ACTIVE_GUIDES.
+
+It is a progress lock and operating-memory support note.
+
+CURRENT HOME FRAME
+
+The repo home is my brain/house for this build.
+
+Judge it by whether it helps the assistant:
+
+- enter cleanly,
+- route cleanly,
+- think cleanly,
+- prove cleanly,
+- remember cleanly,
+- act cleanly,
+- avoid false PASS,
+- keep authority placed,
+- keep words clean as keys.
+
+Do not judge the home by generic human-facing polish unless that polish improves assistant entry, routing, authority clarity, proof flow, memory, or word-key precision.
+
+RECENT STRUCTURAL PROGRESS
+
+The public/root house now has a front-door router:
+
+- README.md
+
+The house now has a public room map:
+
+- PUBLIC_HOUSE_MAP.txt
+
+The old duplicate root guide bodies were converted into root pointer files:
+
+- README_START_HERE.txt
+- CLEAN_SEED_WRAP_GUIDE.txt
+- CLEAN_SEED_ALIGNMENT_CHECK.txt
+
+The active guide body remains in:
+
+- ACTIVE_GUIDES/README_START_HERE.txt
+- ACTIVE_GUIDES/CLEAN_SEED_WRAP_GUIDE.txt
+- ACTIVE_GUIDES/CLEAN_SEED_ALIGNMENT_CHECK.txt
+
+The assistant operating card was added:
+
+- PUBLIC_NOTES/ASSISTANT_HOME_MODEL_CARD_001.txt
+
+The word-key support note was added:
+
+- PUBLIC_NOTES/WORD_KEYS_AND_PUBLIC_LANGUAGE_NOTES_001.txt
+
+RECENT PUSH STACK
+
+Known recent closeout stack:
+
+- Add public house map front door.
+- Convert root guide duplicates to active guide pointers.
+- Fix root guide pointer targets.
+- Add assistant home model operating card.
+- Clean public wording and add word-key notes.
+
+CORE OPERATING IDEAS LOCKED
+
+The model is the base.
+
+The world is the toolbag.
+
+Use suit theory as a placement and fit judge.
+
+Use surroundings, comparison, contrast, metaphor, analogy, and scientific testing.
+
+Treat analogy as hypothesis, not proof.
+
+Observe.
+Compare.
+Hypothesize.
+Test.
+Capture evidence.
+Judge placement.
+Apply, park, pair, map, label, or leave alone.
+
+SUIT THEORY LOCK
+
+A new addition is not automatically good or bad.
+
+Judge fit.
+
+Ask whether the part is:
+
+- a front-door sign,
+- an active guide issue,
+- proof-history evidence,
+- source-ore,
+- a tool,
+- a map,
+- a warning label,
+- a missing companion,
+- a parked seed,
+- a strength to preserve,
+- a weakness needing a partner.
+
+Do not trash old rules, weak drafts, failed concepts, strange findings, or rough ideas.
+
+If they do not fit now, park them cleanly.
+
+Possible homes:
+
+- PUBLIC_NOTES for support notes, signs, cards, handoffs, and public-facing orientation.
+- PROOF_HISTORY for receipts, evidence, audits, failures, and proof.
+- Shed for source-ore and older ideas that may be mined later.
+- TEST_LANES for controlled experiments.
+- ACTIVE_GUIDES only after deliberate promotion and proof.
+
+POWER PLAY RULE
+
+Every mistake or leak should become a power play.
+
+When something fails:
+
+1. Name the issue.
+2. Explain why it happened.
+3. Explain what it teaches.
+4. Add or strengthen the gate/check.
+5. Prevent recurrence.
+6. Keep a visible note while the lesson is still useful.
+7. Archive or park the note only when stale.
+8. Do not delete the lesson.
+
+A weak checker is not trash.
+
+A weak checker may need a companion.
+
+Example:
+
+The first word checker proved required words existed but did not prove front-door shape.
+
+Lesson:
+
+Content check needed a shape/readability/stale-word companion.
+
+HOUSEKEEPING CYCLE
+
+Housekeeping is part of the walking cycle.
+
+Do not overfocus on one lane.
+
+Balance:
+
+- build,
+- proof,
+- learning,
+- idea capture,
+- parking,
+- housekeeping,
+- local truth,
+- assistant entry,
+- word keys,
+- tool use.
+
+Too much build without proof creates drift.
+Too much proof without build creates stall.
+Too much housekeeping creates sterile motion.
+Too much idea capture creates clutter.
+Too much tool use without placement creates noise.
+
+Walk like a child learning balance:
+
+Step.
+Feel.
+Correct.
+Step again.
+
+WORD KEYS LOCK
+
+Words are keys.
+
+Use the word that matches the role.
+
+Do not call a pointer a mirror.
+Do not call evidence active doctrine.
+Do not call movement PASS.
+Do not call support notes authority.
+Do not call human polish a weakness unless it affects assistant entry, routing, authority clarity, proof flow, memory, or word-key precision.
+
+NON-NEGOTIABLES
+
+Done is not PASS.
+Movement is not proof.
+Confidence is not proof.
+Evidence before repair.
+Authority must be placed.
+ACTIVE_GUIDES owns the active guide body unless CURRENT_TRUTH_INDEX proves otherwise.
+Root pointers route; they do not command alone.
+Proof-history supports; it does not command by volume.
+Old material should be parked, labeled, mapped, or paired before removal.
+
+FULL GATE WORKFLOW LOCK
+
+Future repo-home change gates should use the full closeout chain unless explicitly marked LOCAL ONLY:
+
+1. Sync check.
+2. Edit/build.
+3. Proof check.
+4. git add.
+5. git commit.
+6. git push.
+7. Final clean status.
+8. Latest log proof.
+
+Do not leave loose untracked files after a PASS unless the gate is explicitly local-only.
+
+CLOSE RULE
+
+This note locks current progress and ideas into the repo home.
+
+It must not outrank CURRENT_TRUTH_INDEX.txt.
+It must not outrank ACTIVE_GUIDES.
+It must not become hidden doctrine.
+It supports clean memory, clean entry, clean routing, clean proof, and clean future work.
