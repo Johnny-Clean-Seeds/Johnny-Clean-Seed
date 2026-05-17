@@ -1,0 +1,127 @@
+SAVE ID: DEAD_LETTER_QUEUE_TOOL_TRIAL_PASS_001
+DATE: 20260517_153816
+ROOT: C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+GIT TOPLEVEL: C:/Users/13527/Desktop/Jxhnny_Kleen_C3dz
+HEAD BEFORE SAVE: 34735a2
+REMOTE: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed.git
+STATUS: PROOF-HISTORY ONLY
+
+ACTIVE BALL:
+Test Dead-Letter Queue as the sixth algorithm candidate through Tool Trial Ledger.
+
+SOURCE ANCHOR:
+Current clean anchor before this save is expected to be 34735a2.
+
+Prior rack status:
+- Watchdog: PASS AS RACK TOOL.
+- Heartbeat: PASS AS RACK TOOL.
+- Readiness Probe: PASS AS RACK TOOL.
+- Circuit Breaker: PASS AS RACK TOOL.
+- Capped Retry: PASS AS RACK TOOL.
+
+TOOL NAME:
+Dead-Letter Queue
+
+TOOL CLASS:
+Control-pattern candidate.
+
+PROBLEM IT TARGETS:
+Failed, blocked, unclear, or unprocessed items can get lost, retried blindly, deleted too early, or accidentally promoted into active work.
+
+Examples:
+- failed script output that should be preserved
+- unclear candidate that is not ready for doctrine
+- blocked cleanup item that must not be deleted
+- repeated miss that needs parking instead of another retry
+- partial result that may matter later but is not active truth
+
+DEAD-LETTER QUEUE JOB:
+Preserve failed or unprocessed items in a safe lane without turning them active.
+
+FIT TEST:
+Dead-Letter Queue is useful in Clean Seed work if it can do all of these:
+1. Capture failed/unprocessed items without losing them.
+2. Keep them non-active.
+3. Preserve enough evidence for later review.
+4. Prevent blind retry loops.
+5. Prevent accidental promotion.
+6. Route to later review, repair, quarantine, archive, or rejection.
+7. Keep active work moving.
+
+TRIAL AGAINST RECENT FAILURE TYPES:
+Recent relevant cases:
+- assistant drift repair needed proof-history capture, not active doctrine
+- algorithm candidates needed proof-history listing, not install
+- failed or missing-state risks needed preservation instead of misleading PASS
+- typo/noise like "mwxr" should be interpreted carefully, not promoted or ignored blindly
+
+Correct Dead-Letter behavior:
+- Do not delete unclear material.
+- Do not install unclear material.
+- Do not keep retrying unclear material.
+- Put it in a non-active review lane with enough context to judge later.
+
+PASS CONDITION:
+Dead-Letter Queue passes if it preserves failed/unprocessed material safely without making it active truth.
+
+FAIL CONDITION:
+Dead-Letter Queue fails if it becomes a junk drawer, hides important failures, or lets parked material control active work.
+
+OBSERVED RESULT:
+Dead-Letter Queue is a strong rack tool.
+It complements Capped Retry and Circuit Breaker:
+- Capped Retry limits attempts.
+- Circuit Breaker stops repeated failure loops.
+- Dead-Letter Queue preserves what could not be processed cleanly.
+
+NEIGHBOR SCAN:
+Touches:
+- parking lane behavior
+- proof-history saves
+- failed script evidence
+- cleanup safety
+- candidate handling
+- quarantine/archive/review lanes
+- Tool Trial Ledger
+
+Does not require:
+- active guide edit
+- CURRENT_TRUTH_INDEX edit
+- AGENTS.md edit
+- doctrine install
+- cleanup
+- file move/delete/rename
+
+RISK:
+If overused, Dead-Letter Queue becomes a dumping ground.
+Clean use requires a later review route or rejection condition.
+It should not become a permanent pile with no close condition.
+
+COMPRESSED OPERATING SHAPE:
+When an item fails, blocks, or cannot be processed cleanly:
+1. Preserve minimal useful evidence.
+2. Mark it non-active.
+3. State why it could not proceed.
+4. Assign review, repair, quarantine, archive, or reject route.
+5. Do not retry blindly.
+6. Do not promote until later proof passes.
+
+TRIAL VERDICT:
+PASS AS RACK TOOL.
+Dead-Letter Queue is useful as operating gear.
+It should not be installed into active doctrine yet.
+It should be tested once during real failed or blocked local work before active-guide proposal.
+
+BOUNDARY:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX edited: NO
+AGENTS.md edited: NO
+Doctrine install: NO
+Cleanup: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+
+NEXT:
+Test Quarantine Lane separately.
+Quarantine Lane isolates suspicious, contaminated, unclear, or risky material before it can steer active work.
