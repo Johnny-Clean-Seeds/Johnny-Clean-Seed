@@ -1,0 +1,157 @@
+EVIDENCE-THEORY MINING YIELD WAVES LOCKSAVE
+STAMP: 20260517_062128
+
+STATUS:
+Saved inside Systems/Cycles Deep Clean Test Lane.
+Test-lane support file.
+Not active-guide doctrine.
+Not CURRENT_TRUTH_INDEX authority.
+Not AGENTS.md authority.
+Not cleanup authority.
+Not deletion/move/rename authority.
+
+SOURCE:
+User asked the assistant to use notes/evidence to guide work, go back into history/shed, find gold, apply findings when near-certain helpful, scan neighbors before applying, use rope if weird, and rerun the evidence-mining pass several times.
+
+CORE ADOPTED FINDING:
+The Systems/Cycles suit is helping because repeated passes over the same history/evidence produced new, stronger, more useful theories instead of only repeating earlier notes.
+
+PLAIN PROOF LINE:
+When the same evidence keeps yielding better theories after a system upgrade, the system is improving perception, not just memory.
+
+CURRENT WORKING LANE:
+Evidence-Theory Mining
+
+WORKING CYCLE:
+evidence
+-> pattern
+-> theory
+-> test
+-> route decision
+-> fix/adopt/push/park/reject
+-> save or keep wearing
+
+ACTIVE RULE:
+A theory is useful only when it points to a cleaner next action.
+
+APPLIED GOLD:
+Evidence should not just prove the past.
+Evidence should improve the route.
+
+Every good discovery should become one of:
+- fix
+- adopt
+- push further
+- park with return trigger
+- reject with reason
+- proof for existing theory
+- new theory candidate
+
+If it does none of those, it is moment-only or noise.
+
+NEIGHBOR SCAN BEFORE APPLYING FINDINGS:
+Before applying a found theory or fix, scan:
+- active ball
+- affected nearby rules/systems
+- authority boundary
+- proof path
+- load/bloat risk
+- domino effect risk
+- whether it helps, harms, or stays neutral for neighbors
+
+Apply only if it clearly helps or remains neutral.
+If not ready, make a sticky note with reason, return trigger, and next test.
+
+FOG / TOMORROW TEST:
+If an idea works today but creates fog tomorrow, it is incomplete, unclear, misplaced, or too heavy.
+Adjust wording, placement, trigger, boundary, or route until it becomes clear again.
+
+WAVE YIELDS:
+
+Gold 6:
+Some ideas should be digested, not tested.
+Not every idea needs a formal test when it is low-risk, clearly useful, already supported, and has an obvious home/job.
+
+Proof line:
+If the idea fits like food the system already knows, digest it. Do not autopsy every strawberry.
+
+Gold 7:
+The suit needs poison detection, not only gold detection.
+A healthy system must reject harmful or shiny-but-dirty ideas, not only collect useful ones.
+
+Proof line:
+A healthy system does not just find gold. It rejects poison.
+
+Gold 8:
+The best systems grow by selective adoption, not universal testing.
+Route:
+find idea
+-> classify food / poison / unknown / sticky note
+-> digest if obvious fit
+-> test if uncertain
+-> reject if harmful
+-> park if not ready
+
+Proof line:
+Selective adoption beats universal testing when the field is healthy and the idea has a clean home.
+
+Gold 9:
+The system is starting to self-correct.
+It is finding ideas about how ideas should be handled, not only more ideas.
+
+Proof line:
+When a system starts correcting its own handling of ideas, it is moving from mechanics toward judgment.
+
+Gold 10:
+Repeated slips are not always attention problems. Sometimes they are understanding gaps.
+If attention is present but failure repeats, the missing piece may be understanding, wrong model, unclear target, or missing route.
+
+Proof line:
+If attention is present but failure repeats, the missing piece may be understanding, not effort.
+
+Gold 11:
+A mature system may need multiple mental gears, not just multiple routes.
+Examples:
+- silent mode
+- freeze mode
+- pathfinding mode
+- save mode
+- teaching mode
+- hunter mode
+- forensics mode
+- builder mode
+- quiet observer mode
+
+Guardrail:
+Only name modes that produce different results.
+Do not make mode names into theater.
+
+Proof line:
+A mature system can choose the right mental gear without forcing one mindset everywhere.
+
+CURRENT VERDICT:
+PASS — repeated direct yield.
+
+SUIT STATUS:
+Keep wearing it.
+No negative evidence yet.
+No proof fog yet.
+No neighbor damage yet.
+Yield quality increased with repeated passes.
+
+GUARDRAILS:
+- Do not let tool-making become the work.
+- Do not install doctrine from this test lane without later approval.
+- Do not adopt metaphors unless they pass fit/proof.
+- Do not keep looping forever; each wave needs a cap and next state.
+- Rope back if weirdness appears.
+- If repeated slip appears, stop and ask what is happening, why here, and what fix kills the repeat.
+
+BOUNDARY:
+This file records test-lane behavior guidance and evidence-mining yield.
+It does not edit ACTIVE_GUIDES.
+It does not edit CURRENT_TRUTH_INDEX.txt.
+It does not edit AGENTS.md.
+It does not install doctrine.
+It does not perform cleanup.
+It does not delete, move, or rename files.
