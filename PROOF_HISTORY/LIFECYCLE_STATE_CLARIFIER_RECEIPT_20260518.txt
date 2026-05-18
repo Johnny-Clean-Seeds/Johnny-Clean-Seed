@@ -1,0 +1,24 @@
+LIFECYCLE STATE CLARIFIER RECEIPT
+
+Branch: main
+Head before fix: b51f3f9
+Clarifier file: HOUSE_WORK\SUIT_SYSTEM\LIFECYCLE_STATE_CLARIFIER_20260518.md
+Receipt file: PROOF_HISTORY\LIFECYCLE_STATE_CLARIFIER_RECEIPT_20260518.txt
+
+Purpose:
+- Add a small Main Boss 02 lifecycle clarifier.
+- Clarify installed, worn, promoted, and rolled-back.
+- Avoid full lifecycle doctrine install.
+- Avoid runtime build, /system, live runtime files, and status-command runtime work.
+
+Checks:
+- Defines installed: True
+- Defines worn: True
+- Defines promoted: True
+- Defines rolled-back: True
+- Separates saved installed worn promoted: True
+- Blocks runtime work: True
+- Keeps clarifier scoped: True
+
+Verdict:
+PASS - Lifecycle clarifier added as scoped house-work support. It separates saved, installed, worn, promoted, and rolled-back without installing full lifecycle doctrine or opening runtime work.
