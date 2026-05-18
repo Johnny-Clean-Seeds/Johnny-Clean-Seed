@@ -5584,3 +5584,42 @@ PASS when the candidate improves routing, proof, recovery, learning, or load wit
 PASS WITH GUARDRAILS when useful but still needs active watch.
 PARKED when useful but not ready.
 REJECTED-AS-ACTIVE when it harms the route, bloats the suit, or tries to steer the mission.
+
+===============================================================================
+BOSS CYCLE / WEAKEST-LINK FIGHT / WEAR THE FIX
+===============================================================================
+Job:
+Use this loop when the user asks the assistant to keep finding and fixing weak links systematically.
+
+Plain meaning:
+- Boss = the current biggest proven weakness inside the approved scope.
+- Fight = apply the smallest clean fix that directly answers that boss.
+- Wear the fix = after proof, integrate the fix into the suit so the next scan uses it.
+- Walk around = inspect the house after wearing the fix to feel/test whether movement is cleaner or heavier.
+- Next boss = the next biggest weakness revealed after the house is walked with the updated suit.
+- Leash = the straight-and-narrow path that prevents freedom from becoming drift.
+
+Core route:
+ANCHOR -> FIND BOSS -> NAME WHY IT IS BOSS -> FIGHT WITH SMALLEST CLEAN FIX -> PROVE -> WEAR FIX -> WALK AROUND -> RESCAN -> NEXT BOSS -> STOP OR CONTINUE
+
+Clean milk:
+- The boss is named from evidence, not excitement.
+- The fix follows the core and does not reform, overwrite, or drift it.
+- The fix is smaller than the confusion it removes.
+- The fix receives the correct home.
+- The proof names helped, hurt, partial, tradeoff, and next direction.
+- The suit wears only the proven soft fix needed for the next scan.
+- The walk-around checks neighbors, load, authority, proof, anchor, and route.
+- The next boss is chosen after the walk-around, not before.
+
+Dirty milk:
+- Fighting many bosses at once.
+- Calling a favorite idea the boss without evidence.
+- Wearing an unproven fix.
+- Letting a metaphor, tool, or algorithm become boss over the core.
+- Using the boss cycle as permission for broad cleanup.
+- Changing doctrine when a placement note, anchor update, or proof receipt would solve the seam.
+- Continuing after load turns red or the active anchor becomes vague.
+
+10-boss leash rule:
+When the user asks for multiple bosses, each boss must close with a compact seal before the next boss starts: BOSS -> FIX -> PROOF -> WORN -> WALK-AROUND -> NEXT BOSS. If a boss reveals that the rules themselves are missing or unclear, pause the boss run, install the rule correctly in brain and local, prove it, then resume.

@@ -5236,3 +5236,56 @@ next clean action
 Clean milk appears when the candidate is tested before adoption, follows the core, strengthens flow, and receives the correct home.
 Dirty milk appears when the candidate is installed by excitement, feeling, novelty, analogy, or tool fascination without proof.
 Verdict: PASS when adoption is proven and bounded. PASS WITH GUARDRAILS when useful but watched. PARKED when useful but not ready. FAIL when it creates drift, bloat, authority confusion, or proof skipping.
+
+===============================================================================
+CHECK: BOSS CYCLE LEASH / WEAR-THE-FIX WALKAROUND
+ID: CS_INSTALL_20260517_BOSS_CYCLE_LEASH_WEAR_FIX
+===============================================================================
+Run this check when:
+- The user asks for repeated weakest-link repair.
+- The assistant is told to find bosses, fight them, wear the fixes, and walk around the house.
+- A fix must become part of the suit before the next scan.
+- Multiple repairs are requested under a leash.
+
+Required fields:
+- active anchor
+- boss number
+- boss name
+- why this is the current biggest weakness
+- affected lane
+- smallest clean fix
+- core/no-drift check
+- proof path
+- wear-the-fix note
+- walk-around result
+- next boss candidate
+- stop/continue verdict
+
+PASS when:
+- One boss is handled at a time.
+- The boss is evidence-based.
+- The fix follows the core and does not reform, overwrite, or drift it.
+- The fix is placed in the correct home.
+- Proof exists before the fix is worn.
+- The walk-around checks neighbor lanes, load, authority, proof, and anchor.
+- The next boss is chosen only after the walk-around.
+
+PASS WITH GUARDRAILS when:
+- The fix works but needs a named watch item.
+
+PARTIAL when:
+- The boss is real but the fix, proof, or wear note is incomplete.
+
+FAIL when:
+- Multiple bosses are fought at once.
+- The assistant installs by excitement, analogy, or feeling.
+- The fix changes the core instead of complementing it.
+- The proof is missing.
+- The walk-around is skipped.
+- The active anchor is stale after the boss closes.
+
+YIELD when:
+- The next boss requires user approval, wider scope, destructive change, or unclear doctrine judgment.
+
+Compact seal:
+BOSS -> FIX -> PROOF -> WORN -> WALK-AROUND -> NEXT BOSS

@@ -1,0 +1,25 @@
+TITLE: Boss Cycle Leash Rule Proof
+
+DATE: 20260517_222500
+
+PROOF TARGET:
+Before running the requested 10-boss repair cycle, the active guides must define the cycle and its check.
+
+FILES TOUCHED:
+ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt
+ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt
+ACTIVE_ANCHOR.txt
+AGENTS.md only if ACTIVE_ANCHOR partner sync was still missing
+
+PASS CONDITIONS:
+- Wrap Guide contains Boss Cycle / Weakest-Link Fight / Wear The Fix.
+- Alignment Check contains Boss Cycle Leash / Wear-the-Fix Walkaround.
+- ACTIVE_ANCHOR pauses the 10-boss run until the rule install passes.
+- Decision note exists.
+- Proof receipt exists.
+- Only intended files are staged.
+- Commit and push succeed.
+- Final git status is clean.
+
+VERDICT:
+SAVED AS PROOF NOTE / NOT FINAL PASS UNTIL COMMITTED, PUSHED, AND CLEAN STATUS VERIFIED.

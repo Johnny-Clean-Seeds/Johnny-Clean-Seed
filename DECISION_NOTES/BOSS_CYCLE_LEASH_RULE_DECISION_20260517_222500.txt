@@ -1,0 +1,18 @@
+TITLE: Boss Cycle Leash Rule Decision
+
+ISSUE:
+The house had related pieces for weakest-link scans, suit wearing, tool trial, and adopt gate, but did not clearly define the user's requested boss/fight/wear/walk-around cycle as one operating rule.
+
+DECISION:
+Install Boss Cycle Leash as an active operating complement.
+
+RULE:
+Boss = current biggest proven weakness.
+Fight = smallest clean fix.
+Wear the fix = after proof, integrate the fix into the suit for the next scan.
+Walk around = inspect the house after wearing the fix to test load, neighbor lanes, authority, proof, and anchor.
+Next boss = weakness revealed after the walk-around.
+Leash = straight-and-narrow path that prevents freedom from becoming drift.
+
+NO-DRIFT BOUNDARY:
+This complements the core. It does not change, reform, overwrite, or drift the core.
