@@ -1,0 +1,32 @@
+PATTERN ADOPTION CLEAN COPY LEARNING RULE PROOF
+
+Brain home:
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+
+Learning rule:
+BRAIN\LEARNING\DUAL_SAVE_CHAT_LOCK_AND_RISK_ALARM_LEARNING_RULE.md
+
+Rule SHA256:
+B86BEC49631175C10D3EEE1B93CC52F852D38DE9A5DA91266A936CFC2C29048E
+
+Reason:
+Soft-add pattern adoption so copied fixes are adapted cleanly, stored when not ready, and adopted only after fit/neighbor/proof checks.
+
+Checks:
+rule_exists: True
+in_brain_learning_lane: True
+has_pattern_adoption: True
+copies_pattern_not_blindly: True
+stores_ideas: True
+uses_algorithms_bitstrings: True
+allows_web_research_as_candidate: True
+requires_fit_neighbor_proof: True
+keeps_10_boss_limit: True
+keeps_copy_continuity: True
+
+
+Failed checks:
+
+
+Verdict:
+PASS - soft pattern adoption and clean-copy rule added without breaking continuity.

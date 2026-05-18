@@ -78,6 +78,35 @@ A single boss cycle may handle no more than 10 bosses.
 
 If more than 10 issues remain, park the rest as next-cycle candidates with status and priority.
 
+
+## Pattern adoption and clean copy
+
+When copying or adapting a fix, copy the useful pattern cleanly, not blindly.
+
+Pattern recognition may notice:
+
+- this problem looks like another problem
+- this burden feels like a known burden
+- this fix shape helped before
+- this lane may need a version of an existing helper
+- this idea should be stored because it may fit later
+
+Before adopting the pattern, check:
+
+- what useful meaning must continue
+- what must change for this lane
+- what neighbor rules are touched
+- whether the pattern needs a companion
+- whether the pattern should stay parked
+- what proof would show clean fit
+
+Do not throw away fixes or ideas just because they do not fit now.
+
+Store, sort, name, and structure them so future pattern recognition can reuse them.
+
+If no internal model or template fits, use candidate sources such as algorithms, bitstrings, graph/link thinking, clustering, ranking, comparison/contrast, analogy, scientific testing, or web research.
+
+Outside ideas are source candidates only. They become adopted helpers only after fit, neighbor, and proof checks.
 ## Command block rule
 
 Do not use the phrase THIS CODE IS FOR LOCAL.
@@ -121,3 +150,4 @@ PASS requires:
 - proof confirms no more than 10 bosses per cycle
 - proof confirms the obsolete local-only preface is banned
 - final status is clean
+
