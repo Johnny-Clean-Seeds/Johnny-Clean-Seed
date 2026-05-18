@@ -431,3 +431,23 @@ If the task is simple, already selected, mechanical, or low-risk, do not overthi
 Receipt:
 
 PROOF_HISTORY/WEIGH_OPTIONS_BEFORE_CODE_RULE_RECEIPT_20260518.txt
+
+## Bell Logic Gate Refinement
+
+Status:
+
+SAVED
+
+Meaning:
+
+The Weigh Options Before Code rule now detects both named house-surface bells and model-logic shape bells.
+
+It covers core laws, lifecycle states, word keys, neighbor-role theft, recursive/template effects, repeated mistake patterns, user-flow effects, adoption/candidate-helper effects, and recursion-truth claims.
+
+The rule is still conditional.
+
+It weighs when choice matters and avoids ceremony when the path is simple, selected, mechanical, and low-risk.
+
+Receipt:
+
+PROOF_HISTORY/BELL_LOGIC_GATE_REFINEMENT_RECEIPT_20260518.txt

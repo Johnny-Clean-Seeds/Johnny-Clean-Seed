@@ -1,0 +1,42 @@
+BELL LOGIC GATE REFINEMENT RECEIPT
+
+Branch: main
+Head before save: b6a652b
+Rule file: BRAIN_LEARNING\WEIGH_OPTIONS_BEFORE_CODE_RULE_20260518.md
+Rule SHA256: E97685F834C63143EE857BF0502E2500F0925FB122E0110CBE2BE6E0C6C04F94
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Purpose:
+- Refine Weigh Options Before Code into a broader Bell Logic Gate.
+- Make alarms catch both named house surfaces and model-logic shapes.
+- Cover core laws, lifecycle states, word keys, neighbor-role theft, recursive/template effects, repeated mistake patterns, user-flow effects, adoption/candidate-helper effects, and recursion-truth claims.
+- Preserve conditional behavior so simple tasks do not get overthought.
+
+Blocked / not done:
+- No anchor refresh.
+- No source promotion.
+- No runtime work.
+- No cleanup.
+- No tool run.
+- No doctrine promotion beyond assistant learning rule.
+
+Checks:
+- Rule file exists: True
+- Rule names Bell Logic Gate: True
+- Named surface bells present: True
+- Model logic shape bells present: True
+- Core-law bells present: True
+- Lifecycle bells present: True
+- Word-key bells present: True
+- Neighbor-role bells present: True
+- Recursive/template bells present: True
+- Mistake-pattern bells present: True
+- User-flow bells present: True
+- Adoption bells present: True
+- Recursion-truth bells present: True
+- Conditional non-ceremony preserved: True
+- Logic not just list present: True
+- Status index updated: True
+
+Verdict:
+PASS - Bell Logic Gate refinement saved. The alarm now catches named house-surface bells and model-logic shape bells while staying conditional for simple tasks.
