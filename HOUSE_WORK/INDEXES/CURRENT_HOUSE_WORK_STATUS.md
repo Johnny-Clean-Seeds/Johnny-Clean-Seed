@@ -392,3 +392,24 @@ Tool use requires current task selection, scope, and proof need.
 Receipt:
 
 PROOF_HISTORY/MR_KLEEN_SCRIPT_TOOL_INDEX_RECEIPT_20260518.txt
+
+## Desktop 123 Source Ore Split
+
+Status:
+
+SAVED
+
+Meaning:
+
+Desktop 123 raw source capture remains preserved.
+
+Its heavy material was split into two source-only shelves:
+
+- SOURCE_ORE/BITSTRING_BINARY_LOGIC_BOSS_GROUPED_LEDGER_20260518.md
+- SOURCE_ORE/ALGORITHM_METHOD_SHELF_20260518.md
+
+Neither shelf is doctrine.
+
+Neither shelf commands work.
+
+Both remain parked source ore until selected, traced, tested, and proven.

@@ -1,0 +1,38 @@
+DESKTOP 123 SOURCE ORE SPLIT RECEIPT
+
+Branch: main
+Head before save: 8e7b06c
+Original source: SOURCE_ORE\DESKTOP_123_INTAKE_CAPTURE_20260518.md
+Original source SHA256: D0376A34984AC3F555EDCA8FD40A1AC1712637EE8305308BAB3F1D2811CFE91F
+Bitstring ledger: SOURCE_ORE\BITSTRING_BINARY_LOGIC_BOSS_GROUPED_LEDGER_20260518.md
+Bitstring ledger SHA256: 892B0172C8B8F3A46CD5C7ED624649976050847512A3958B62FFBC941F73A9DE
+Algorithm shelf: SOURCE_ORE\ALGORITHM_METHOD_SHELF_20260518.md
+Algorithm shelf SHA256: 5C9D79EA5917D4BCD5E46C8BA1D82065DA9A1B20B6392B17067D11539DAA3174
+
+Purpose:
+- Split Desktop 123 source ore into retrievable shelves.
+- Keep bitstring/binary/mask/proof-check material separate from algorithm/method/sorting/grouping material.
+- Preserve original source capture.
+- Keep both new files source-only and parked.
+
+Blocked / not done:
+- No promotion.
+- No doctrine install.
+- No runtime work.
+- No script run.
+- No cleanup.
+- No original capture overwrite.
+
+Checks:
+- Original Desktop 123 capture preserved: True
+- Bitstring ledger exists: True
+- Algorithm shelf exists: True
+- Bitstring ledger source-only: True
+- Algorithm shelf source-only: True
+- Bitstring boundary preserves markdown meaning: True
+- Algorithm shelf blocks install: True
+- No source promotion claimed: True
+- Status index updated: True
+
+Verdict:
+PASS - Desktop 123 source ore split into source-only bitstring ledger and algorithm method shelf. Original capture preserved.
