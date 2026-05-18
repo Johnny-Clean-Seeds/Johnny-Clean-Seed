@@ -334,3 +334,25 @@ The failed receipts remain preserved and are superseded by the final PASS receip
 Next:
 
 No automatic repair is selected from this result.
+
+## Room Role Index Duplicate Commit Clarification
+
+Status:
+
+CLARIFIED
+
+Meaning:
+
+Three nearby commits used the same message, `Add Mr Kleen room role index`.
+
+Do not rewrite public Git history.
+
+Treat earlier same-message commits as historical noise.
+
+Final active Room Role Index save from this sequence:
+
+main @ 1ae3113
+
+Receipt:
+
+PROOF_HISTORY/ROOM_ROLE_INDEX_DUPLICATE_COMMIT_CLARIFICATION_RECEIPT_20260518.txt

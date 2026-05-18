@@ -1,0 +1,39 @@
+ROOM ROLE INDEX DUPLICATE COMMIT CLARIFICATION RECEIPT
+
+Branch: main
+Current HEAD: 1ae3113
+
+Issue:
+- Three nearby commits share the same message: Add Mr Kleen room role index.
+- This creates proof-history noise because the final active save can be confused with earlier same-message commits.
+
+Clarification:
+- Do not rewrite public Git history.
+- Treat earlier same-message commits as historical noise.
+- Treat 1ae3113 as the final valid Room Role Index save from this sequence.
+- Future references to the Room Role Index final save should cite main @ 1ae3113 unless a later commit supersedes it.
+
+Recent log:
+1ae3113 Add Mr Kleen room role index
+504b2b6 Add Mr Kleen room role index
+611b23a Add Mr Kleen room role index
+ccbb2ab Save exact Mr Kleen file tree
+8c92111 Capture Desktop 123 source ore
+e5c818c Save front door link walk receipt
+4aafade Finalize front door authority link proof
+38d9cc2 Supersede failed front door repair proof
+
+Same-message commits found:
+1ae3113 Add Mr Kleen room role index
+504b2b6 Add Mr Kleen room role index
+611b23a Add Mr Kleen room role index
+
+Checks:
+- Working tree clean before clarification: True
+- Current head is final room role index commit: True
+- Duplicate message history visible: True
+- No history rewrite used: True
+- Clarification approach selected: True
+
+Verdict:
+PASS - Duplicate room-role-index commit-message noise clarified. Public history was not rewritten. Final active Room Role Index save is main @ 1ae3113.
