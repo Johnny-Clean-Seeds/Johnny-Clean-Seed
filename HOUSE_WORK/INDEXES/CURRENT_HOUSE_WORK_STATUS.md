@@ -507,3 +507,31 @@ The Work Shed cannot command, promote, or become doctrine.
 Receipt:
 
 PROOF_HISTORY/WORK_SHED_SOFT_ROOM_RECEIPT_20260518.txt
+
+## Work Shed Drawer Preservation
+
+Status:
+
+SAVED
+
+Meaning:
+
+The Work Shed drawer structure is now physically preserved with README files inside each drawer.
+
+Drawers preserved:
+
+- INBOX
+- SORTING_BENCH
+- IDEA_CARDS
+- FRONT_SHELF
+- PARKED_METHODS
+- OLD_WAYS
+- INDEXES
+
+No material was promoted.
+
+No active authority changed.
+
+Receipt:
+
+PROOF_HISTORY/WORK_SHED_DRAWER_PRESERVATION_RECEIPT_20260518.txt
