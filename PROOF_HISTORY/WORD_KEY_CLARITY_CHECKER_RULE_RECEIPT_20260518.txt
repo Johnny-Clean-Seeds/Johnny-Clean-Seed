@@ -1,0 +1,36 @@
+WORD KEY CLARITY CHECKER RULE RECEIPT
+
+Branch: main
+Head before save: ea288a3
+Rule file: BRAIN_LEARNING\WORD_KEY_CLARITY_CHECKER_RULE_20260518.md
+Rule SHA256: 3A45C69F6F3AA845D35F7C6DD9FF9BB69A3C339A9A7028520652F382AE0CE909
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Purpose:
+- Add a companion checker to the Bell Logic Gate.
+- Ensure important model words and labels are clear before they become keys.
+- Catch weird, vague, duplicate, overloaded, command-like, or lane-confusing wording.
+- Preserve source/support/authority and lifecycle truth.
+
+Blocked / not done:
+- No anchor refresh.
+- No doctrine promotion.
+- No runtime work.
+- No cleanup.
+- No tool run.
+
+Checks:
+- Rule file exists: True
+- Rule is active learning rule: True
+- Words are keys present: True
+- Core clarity fields present: True
+- Trigger section present: True
+- Clarity checks present: True
+- Bad signals present: True
+- Fix options present: True
+- Bell pairing present: True
+- Closing rule present: True
+- Status index updated: True
+
+Verdict:
+PASS - Word-Key Clarity Checker saved as Bell Logic Gate companion. Word-key risks now have a dedicated clarity inspection path.

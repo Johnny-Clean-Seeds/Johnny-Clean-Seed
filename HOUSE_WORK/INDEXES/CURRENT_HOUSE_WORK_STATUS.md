@@ -451,3 +451,19 @@ It weighs when choice matters and avoids ceremony when the path is simple, selec
 Receipt:
 
 PROOF_HISTORY/BELL_LOGIC_GATE_REFINEMENT_RECEIPT_20260518.txt
+
+## Word-Key Clarity Checker Rule
+
+Status:
+
+SAVED
+
+Meaning:
+
+The Bell Logic Gate now has a companion clarity checker for model words, labels, status terms, room names, method names, gate names, proof labels, boss names, and command-like phrases.
+
+The checker verifies meaning, job, lane, authority boundary, neighbor relationship, lifecycle state, and proof/use condition.
+
+Receipt:
+
+PROOF_HISTORY/WORD_KEY_CLARITY_CHECKER_RULE_RECEIPT_20260518.txt
