@@ -1,0 +1,49 @@
+RUNTIME KERNEL RUN 003 PARENT CHILD MAP WALK-AROUND PROOF
+
+Brain home:
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+
+Starting brain position:
+main @ ac7e2c4
+
+Starting status:
+clean
+
+Files:
+BRAIN\SUIT\PARENT_CHILD_MAP_SOFT_TEST.md
+BRAIN\SUIT\UNIVERSAL_STATE_MACHINE_SOFT_TEST.md
+BRAIN\SUIT\SINGLE_SYSTEM_LEDGER_SOFT_TEST.md
+HOUSE_WORK\RUNTIME_KERNEL_RUNS\RUNTIME_KERNEL_RUN_003_PARENT_CHILD_MAP_WALK_AROUND_TEST_20260518_000547.md
+
+Hashes:
+ParentChildCandidate: 0D52BEB79568748093DF4335EA2004022AEB282C123ECBD6A3EF2CB3CF822D04
+StateMachine: 586C3D4B647A1BF78198BAA2DDA0E9F71C3D31C8C60DD48F52516491D0E72BDB
+LedgerCandidate: A77F469E4EA3F8D3A6140E6E26ABF8A10C6B6BB3D5611120B17DA44A8A52DBB1
+WalkFile: 2A7BC98DDD2D9125C6555CDE9CD7CED65E7E22BC5C9339B39A4BA3CE8DBD3F07
+
+Checks:
+start_position_recorded: True
+start_status_clean: True
+parent_child_candidate_exists: True
+state_machine_exists: True
+ledger_candidate_exists: True
+walk_file_exists: True
+map_boundary_preserved: True
+walk_tests_runtime_parts: True
+ledger_and_map_jobs_separated: True
+state_machine_used_for_current_state: True
+failed_proof_contained: True
+parent_child_candidate_boundary_matches: True
+ledger_boundary_still_clean: True
+verdict_pass_with_hold: True
+next_run_combined_effect: True
+does_not_build_runtime_kernel: True
+does_not_create_live_map: True
+does_not_promote_to_hard_suit: True
+
+
+Failed checks:
+
+
+Verdict:
+PASS - Parent/Child Map walk-around saved. Map remains Soft Suit with PASS WITH HOLD. Next run is combined-effect walk for State Machine + Ledger + Parent/Child Map.
