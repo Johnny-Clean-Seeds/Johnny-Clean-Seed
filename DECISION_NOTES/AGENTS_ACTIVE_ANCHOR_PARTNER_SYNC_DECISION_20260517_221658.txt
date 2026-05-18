@@ -1,0 +1,13 @@
+TITLE: AGENTS / ACTIVE_ANCHOR Partner Sync Decision
+
+ISSUE:
+The active-anchor adoption did not fully reach AGENTS.md. AGENTS.md still routed from CURRENT_TRUTH_INDEX directly to ACTIVE_GUIDES without naming ACTIVE_ANCHOR.txt.
+
+WHY THIS MATTERS:
+Codex/local worker could skip the current-ball room and follow older source order. ACTIVE_ANCHOR.txt itself was also stale after the previous lock/save.
+
+DECISION:
+Patch AGENTS.md to recognize ACTIVE_ANCHOR.txt after CURRENT_TRUTH_INDEX.txt. Refresh ACTIVE_ANCHOR.txt to the current ball.
+
+NO-DRIFT BOUNDARY:
+This is partner sync, not doctrine rewrite. The core is not changed.

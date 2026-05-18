@@ -1,0 +1,30 @@
+TITLE: AGENTS / ACTIVE_ANCHOR Partner Sync Proof
+
+DATE: 20260517_221658
+
+PROOF TARGET:
+Future local workers and assistants should read ACTIVE_ANCHOR.txt as the current active-ball room after CURRENT_TRUTH_INDEX.txt.
+
+WEAKEST LINK FOUND:
+AGENTS.md did not clearly name ACTIVE_ANCHOR.txt in source order. ACTIVE_ANCHOR.txt still described the prior CURRENT_TRUTH_INDEX collision job.
+
+FILES TOUCHED:
+AGENTS.md
+ACTIVE_ANCHOR.txt
+
+FILES NOT TOUCHED:
+CURRENT_TRUTH_INDEX.txt
+ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt
+ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt
+
+PASS CONDITIONS:
+- AGENTS.md contains ACTIVE_ANCHOR source-order language.
+- ACTIVE_ANCHOR.txt names the current partner-sync active ball.
+- Decision note exists.
+- Proof receipt exists.
+- Only intended files are staged.
+- Commit and push succeed.
+- Final git status is clean.
+
+VERDICT:
+SAVED AS PROOF NOTE / NOT FINAL PASS UNTIL COMMITTED, PUSHED, AND CLEAN STATUS VERIFIED.

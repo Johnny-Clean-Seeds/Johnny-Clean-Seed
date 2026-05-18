@@ -67,3 +67,6 @@ Report requirements:
 
 
 
+
+ACTIVE_ANCHOR PARTNER SYNC:
+Read ACTIVE_ANCHOR.txt after CURRENT_TRUTH_INDEX.txt when present. ACTIVE_ANCHOR.txt carries the current active ball, next allowed move, and blocked moves. Older next-return anchors in CURRENT_TRUTH_INDEX, active guides, proof notes, or history are not current commands unless restated by ACTIVE_ANCHOR.txt or the current user command.
