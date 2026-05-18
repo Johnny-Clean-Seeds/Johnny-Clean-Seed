@@ -975,3 +975,39 @@ Anchor may trail safely if final response states current commit, saved files, an
 Receipt:
 
 PROOF_HISTORY/NEXT_MOVE_EVALUATION_AND_ASSISTANT_HOME_AUTHORITY_PROOF_PHASE_RECEIPT_20260518.txt
+
+## Next-Move Certainty Audit
+
+Status:
+
+PROOF PHASE PASSED - SAVE PHASE NEEDED
+
+Meaning:
+
+A certainty audit was run before selecting the next boss.
+
+Selected next move:
+
+Wear/test the lifecycle transition table on the next real lifecycle-changing task.
+
+Confidence:
+
+medium-high
+
+Blocked:
+
+Do not do plain anchor refresh now.
+
+Do not run broad cleanup without evidence.
+
+Do not deepen context compression until the weight issue recurs or proof shows the save-to-save rule is insufficient.
+
+Sync decision:
+
+STATUS_ENOUGH_FOR_SUPPORT_RULE_SAVE.
+
+Anchor may trail safely if final response states current commit, saved files, and clean status.
+
+Receipt:
+
+PROOF_HISTORY/NEXT_MOVE_CERTAINTY_AUDIT_PROOF_PHASE_RECEIPT_20260518.txt
