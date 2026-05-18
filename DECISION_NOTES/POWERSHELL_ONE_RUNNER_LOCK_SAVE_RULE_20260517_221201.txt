@@ -1,0 +1,34 @@
+TITLE: PowerShell One-Runner Lock/Save Rule
+
+ISSUE:
+The local lock/save workflow became annoying and fragile because work was split across multiple paste blocks, shell location could drift outside the repo, proof receipts could be hidden by ignore rules, and PowerShell continuation prompts could make the shell look broken.
+
+WHY THIS IS BAD MILK:
+The assistant was making the user carry process burden. A clean house should not require the user to manually remember folder location, proof add rules, duplicate cleanup, staging boundaries, commit order, and final clean-status checks.
+
+POWER PLAY:
+For Clean Seed/Clean Milk repo-home work, default to one local runner when a real lock/save is needed.
+
+RUNNER REQUIREMENTS:
+1. Enter the repo home itself.
+2. Verify .git before touching files.
+3. Pull/sync when safe.
+4. Write/update only intended files.
+5. Create decision note and proof receipt in the same package.
+6. Treat ignored proof receipts as expected and force-add only the specific approved proof receipt.
+7. Stage only the intended package.
+8. Commit.
+9. Push.
+10. Verify final clean status.
+
+BRAIN + LOCAL RULE:
+Brain-memory save and local repo save should be aligned when both are relevant. Brain save records assistant behavior. Local repo save records durable project truth.
+
+NO-SPLIT DEFAULT:
+Do not break lock/save into multiple fragile blocks unless a real review gate or safety stop requires it.
+
+NO CONTINUATION-PROMPT DEFAULT:
+Avoid live-shell patterns that leave PowerShell at >>. Prefer one complete runner or a prepared script/note path.
+
+VERDICT:
+Adopted as workflow correction.
