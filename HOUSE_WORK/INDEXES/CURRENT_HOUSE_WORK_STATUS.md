@@ -190,3 +190,17 @@ Use git log for live current commit position.
 Use ACTIVE_ANCHOR.txt for active ball, next allowed move, and blocked moves.
 
 Use this file for support notes, room status, parked risks, and navigation.
+
+## Rule Application Gate Power Play
+
+Active learning rule:
+
+BRAIN_LEARNING/RULE_APPLICATION_GATE_POWER_PLAY_20260518.md
+
+Meaning:
+
+When a mistake shows an existing rule did not fire, treat it as a rule-application gate failure.
+
+Before saving fog, word, authority, status, index, receipt, map, or support-file changes, run soft add, wear the fix, walk neighboring files, check job ownership, check live/static boundaries, and check whether a working pattern from one room should transfer to another.
+
+Receipts for these fixes must prove neighbor fit, not just expected text.

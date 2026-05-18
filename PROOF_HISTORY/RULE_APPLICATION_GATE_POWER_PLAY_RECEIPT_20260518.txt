@@ -1,0 +1,26 @@
+RULE APPLICATION GATE POWER PLAY RECEIPT
+
+Branch: main
+Head before save: 5d87d32
+Rule file: BRAIN_LEARNING\RULE_APPLICATION_GATE_POWER_PLAY_20260518.md
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+Receipt file: PROOF_HISTORY\RULE_APPLICATION_GATE_POWER_PLAY_RECEIPT_20260518.txt
+
+Purpose:
+- Capture why the existing neighbor/pattern rules did not fire.
+- Convert the miss into a mandatory pre-save gate.
+- Require soft add, wear, hall walk, neighbor fit, and pattern transfer checks before saving future fog/word/authority/status/index fixes.
+- Require receipts to prove neighbor fit, not just expected text.
+
+Checks:
+- Captures content-sync mistake: True
+- Names rule did not fire as gate: True
+- Requires mandatory gate: True
+- Requires pattern transfer: True
+- Requires soft add wear walk: True
+- Requires receipt neighbor proof: True
+- Protects live/static boundary: True
+- Status index updated: True
+
+Verdict:
+PASS - Rule application gate saved. Existing rules must fire as pre-save gates, and future fog/word/authority/status/index fixes must prove neighbor fit, live/static boundaries, and pattern transfer before save.
