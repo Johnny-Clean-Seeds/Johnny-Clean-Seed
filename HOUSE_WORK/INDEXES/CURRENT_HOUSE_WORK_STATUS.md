@@ -617,3 +617,27 @@ main @ 9b36d86
 Receipt:
 
 PROOF_HISTORY/ANCHOR_WORK_SHED_SELF_REPAIR_DUPLICATE_COMMIT_CLARIFICATION_RECEIPT_20260518.txt
+
+## Work Shed Operating Index
+
+Status:
+
+SAVED AFTER PROOF REPAIR
+
+Meaning:
+
+The Work Shed operating index exists and defines the practical use path for Work Shed intake, sorting, idea cards, front shelf, parked methods, old ways, indexes, and exits.
+
+The first receipt for this index failed because the status index update check did not pass before commit.
+
+The failed receipt is preserved as evidence.
+
+This repair explicitly updates status and supersedes the failed proof state.
+
+Valid repair receipt:
+
+PROOF_HISTORY/WORK_SHED_OPERATING_INDEX_PROOF_REPAIR_RECEIPT_20260518.txt
+
+Failed receipt preserved:
+
+PROOF_HISTORY/WORK_SHED_OPERATING_INDEX_RECEIPT_20260518.txt
