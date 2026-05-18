@@ -1,0 +1,47 @@
+WORK SHED SOFT ROOM RECEIPT
+
+Branch: main
+Head before save: 2cff08d
+Work Shed README: HOUSE_WORK\WORK_SHED\README.md
+Work Shed README SHA256: 8C313FF4C10E53FA18D1191A344D287EF1F78E2A154CCE344CAA996A00A6B5F7
+Design file: HOUSE_WORK\PLACEMENT_REVIEWS\WORK_SHED_SOFT_ROOM_DESIGN_20260518.md
+Design SHA256: 4E4E0788CEC75FC3BA1A428094CC6EF012A5A25ABE62B99A3C94C3A6D8E583A6
+Index file: HOUSE_WORK\INDEXES\WORK_SHED_SOFT_INDEX_20260518.md
+Index SHA256: E56B5A4F2AAECB6B228D60C067BA4AF70479D296B3F0E57D5418A289720C625C
+
+Purpose:
+- Create a soft Work Shed under HOUSE_WORK.
+- Give the assistant a controlled messy workroom for ideas, sorting, front shelf, parked methods, old ways, and indexes.
+- Keep the room support-only.
+- Avoid moving existing files.
+- Avoid promotion, doctrine install, runtime work, cleanup, or tool use.
+
+Blocked / not done:
+- No existing files moved.
+- No source promoted.
+- No doctrine installed.
+- No active authority changed.
+- No runtime work.
+- No cleanup.
+- No tool run.
+
+Checks:
+- Work Shed README exists: True
+- INBOX exists: True
+- SORTING_BENCH exists: True
+- IDEA_CARDS exists: True
+- FRONT_SHELF exists: True
+- PARKED_METHODS exists: True
+- OLD_WAYS exists: True
+- INDEXES exists: True
+- Support-only authority present: True
+- Cannot command present: True
+- Must sort before exit present: True
+- Soft design exists: True
+- Soft no-move boundary present: True
+- Soft index exists: True
+- Exit gate present: True
+- Status updated: True
+
+Verdict:
+PASS - Work Shed soft room created as support-only assistant workroom. It can receive mess, but cannot command or promote; material must be sorted before exit.

@@ -487,3 +487,23 @@ A soft filing-cabinet index was saved for idea retrieval without moving files.
 Receipt:
 
 PROOF_HISTORY/MIDDLE_ROOM_SOFT_TRIAL_AND_IDEA_FILING_RULES_RECEIPT_20260518.txt
+
+## Work Shed Soft Room
+
+Status:
+
+SAVED
+
+Meaning:
+
+A soft Work Shed room now exists under HOUSE_WORK.
+
+It gives the assistant a controlled messy workroom for idea intake, sorting, idea cards, front shelf, parked methods, old ways, and indexes.
+
+No existing files were moved.
+
+The Work Shed cannot command, promote, or become doctrine.
+
+Receipt:
+
+PROOF_HISTORY/WORK_SHED_SOFT_ROOM_RECEIPT_20260518.txt
