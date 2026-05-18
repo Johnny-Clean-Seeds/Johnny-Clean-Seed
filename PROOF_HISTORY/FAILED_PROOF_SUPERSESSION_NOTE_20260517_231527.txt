@@ -1,0 +1,19 @@
+FAILED PROOF SUPERSESSION NOTE
+
+Purpose:
+Keep proof history honest without deleting prior evidence.
+
+Rule:
+Failed proof receipts are not erased. They remain evidence of a leak. A later passing proof may supersede them, but the failed receipt must not be treated as PASS.
+
+Failed proof receipts found:
+- C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\PROOF_HISTORY\DOMINO_CRIME_SCENE_SYSTEM_CYCLE_LEARNING_LOCKSAVE_20260517_051011.txt
+- C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\PROOF_HISTORY\DUAL_SAVE_NO_LOCAL_ONLY_PREFACE_LEARNING_RULE_PROOF_20260517_230016.txt
+
+
+Current handling:
+Any failed proof listed here is historical evidence only. It is superseded only by later proof receipts that explicitly correct the leak and end with clean final status.
+
+Do not use failed proof as authority.
+Do not delete failed proof as cleanup.
+Use it as lesson evidence.
