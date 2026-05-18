@@ -1,0 +1,23 @@
+TITLE: Adopt Gate + Active Anchor System Decision
+
+ACTIVE BALL:
+Test the straight-and-narrow authority split and adopt the adopt concept if clean.
+
+FINDING:
+The active anchor concept works but needed partner files to recognize it.
+
+DECISION:
+Adopt the active anchor authority split:
+- CURRENT_TRUTH_INDEX = orientation and source routing.
+- ACTIVE_ANCHOR = current active ball and next allowed move.
+- ACTIVE_GUIDES = active behavior body.
+- DECISION_NOTES = assistant judgment notes.
+- PROOF_HISTORY = proof and receipts.
+
+ADOPT CONCEPT:
+New ideas are candidate companions, not instant doctrine.
+They must be captured, judged against the core, tested in the suit, proved, then adopted, parked, narrowed, merged, referenced, quarantined, or rejected-as-active.
+
+NO-DRIFT RULE:
+The core may not be violated, re-formed, overwritten, or drifted.
+Everything else flows and follows.

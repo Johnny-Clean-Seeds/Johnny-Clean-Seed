@@ -5216,3 +5216,23 @@ ANCHOR -> MOCK WORLD -> BOUNDARY -> SIGNAL WATCH -> LEDGER -> HOME ASSIGNMENT ->
 
 Required shed/notes route:
 SOURCE-ORE -> CHILD-GOLD SWEEP -> LINEAGE CHECK -> DIGEST -> RACK/PALLET/REFERENCE/QUARANTINE -> INSTALL ONLY IF APPROVED
+
+Adopt Gate Check
+Use this check when a new idea, algorithm, tool, metaphor, outside pattern, suit signal, or growth method may become part of the operating behavior.
+
+Required fields:
+candidate name
+source or trigger
+target problem
+core-fit check
+dirty milk risk
+small test
+evidence path
+helped / hurt / partial
+tradeoff
+decision: adopt, merge, narrow, park, reference, quarantine, or reject-as-active
+next clean action
+
+Clean milk appears when the candidate is tested before adoption, follows the core, strengthens flow, and receives the correct home.
+Dirty milk appears when the candidate is installed by excitement, feeling, novelty, analogy, or tool fascination without proof.
+Verdict: PASS when adoption is proven and bounded. PASS WITH GUARDRAILS when useful but watched. PARKED when useful but not ready. FAIL when it creates drift, bloat, authority confusion, or proof skipping.

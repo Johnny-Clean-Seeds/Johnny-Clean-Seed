@@ -5551,3 +5551,36 @@ Dirty behavior:
 - letting lingering items float
 - treating support notes as active truth by identity
 - calling PASS while fog remains
+
+===============================================================================
+ADOPT GATE / CANDIDATE COMPANION
+===============================================================================
+Job:
+Use adoption as the clean growth route for new ideas, tools, algorithms, metaphors, methods, and outside patterns.
+
+Core route:
+CANDIDATE -> CAPTURE -> SUIT FIT -> CORE CHECK -> SMALL TEST -> LEDGER -> ADOPT / PARK / REJECT-AS-ACTIVE -> NEXT CLEAN ACTION
+
+Clean milk:
+- The idea is captured before it is installed.
+- The idea follows the core and does not reform, overwrite, or drift it.
+- The suit/feel signal is treated as a signal, not proof.
+- The idea is tested against a real target.
+- The result names helped, hurt, partial, tradeoff, decision, and next direction.
+- Useful tested behavior is compactly adopted or merged.
+- Heavy but useful material is parked/reference.
+- Risky or harmful material is rejected as active and retained as evidence unless deletion is explicitly approved.
+
+Dirty milk:
+- Installing a new idea because it feels exciting.
+- Treating analogy, spiral, DNA, signs, or gut as proof.
+- Letting a tool, algorithm, or metaphor become boss over the core.
+- Leaving a proven useful behavior floating as chat-only authority.
+- Carrying every good idea at once.
+- Calling adoption before proof.
+
+Verdict:
+PASS when the candidate improves routing, proof, recovery, learning, or load without dirtying neighboring lanes.
+PASS WITH GUARDRAILS when useful but still needs active watch.
+PARKED when useful but not ready.
+REJECTED-AS-ACTIVE when it harms the route, bloats the suit, or tries to steer the mission.

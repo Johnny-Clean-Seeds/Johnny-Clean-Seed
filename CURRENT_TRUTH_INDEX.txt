@@ -1,3 +1,10 @@
+ACTIVE ANCHOR AUTHORITY SPLIT:
+CURRENT_TRUTH_INDEX orients the house and source routing.
+ACTIVE_ANCHOR.txt holds the current active ball, next allowed move, and blocked moves when present.
+Older next-return anchors, installed-update notes, and historical patch directions inside this index are history unless restated by the current user command or ACTIVE_ANCHOR.txt.
+Assistant last say applies to judgment, routing, and placement inside the suit.
+Local PowerShell/repo path has last save for durable truth.
+No feel/suit signal may violate, reform, overwrite, or drift the core.
 CURRENT TRUTH INDEX â€” CLEAN SEED PACKAGE
 
 Current patch ID:
@@ -148,4 +155,5 @@ Core routes:
 2. SOURCE-ORE -> CHILD-GOLD SWEEP -> LINEAGE CHECK -> DIGEST -> RACK/PALLET/REFERENCE/QUARANTINE -> INSTALL ONLY IF APPROVED.
 Boundary: shed/notes/proof-history content is source-ore unless deliberately installed; no cleanup, delete, move, rename, overwrite, or broad import is authorized by this install.
 README unchanged. AGENTS.md unchanged.
+
 

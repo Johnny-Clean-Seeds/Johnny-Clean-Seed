@@ -1,0 +1,21 @@
+TITLE: Adopt Gate + Active Anchor System Proof
+
+DATE:
+20260517_220141
+
+FILES TOUCHED:
+CURRENT_TRUTH_INDEX.txt
+AGENTS.md
+ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt
+ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt
+
+PROOF TARGET:
+A future assistant/local worker should know:
+1. Old anchors in CURRENT_TRUTH_INDEX are historical unless restated by ACTIVE_ANCHOR or current user command.
+2. ACTIVE_ANCHOR is the current-ball room.
+3. Adopt Gate is the route for useful new ideas.
+4. Feel/suit can signal but cannot prove.
+5. The core cannot be reformed or drifted.
+
+VERDICT:
+SAVED AS PROOF NOTE / NOT FINAL PASS UNTIL COMMITTED, PUSHED, AND CLEAN STATUS VERIFIED.
