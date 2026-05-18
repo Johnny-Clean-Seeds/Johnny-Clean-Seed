@@ -1,0 +1,26 @@
+MR.KLEEN / POWERSHELL SAVE GATE CLEAN RECEIPT
+
+Branch: main
+Head before clean repair: d06bd8d
+Active learning file: BRAIN_LEARNING\MR_KLEEN_POWERSHELL_SAVE_GATE_20260518.md
+Superseded failed receipt: PROOF_HISTORY\MR_KLEEN_POWERSHELL_SAVE_GATE_FINAL_RECEIPT_20260518.txt
+
+Reason:
+- Earlier wording was overcomplicated.
+- Mr.Kleen now means PC project files plus brain/URL together.
+- PowerShell now means command execution on the PC.
+- The prior final receipt still showed FAIL and was committed anyway.
+- This receipt uses plain text checks with no fragile backtick matching.
+
+Checks:
+- Defines Mr.Kleen: True
+- Defines PowerShell: True
+- Uses correct phrase: True
+- Requires git check before writing: True
+- Requires commit: True
+- Requires push: True
+- Requires final clean status: True
+- Blocks proof-failed commit: True
+
+Verdict:
+PASS - Mr.Kleen / PowerShell save gate is corrected. Use Mr.Kleen for project files plus brain/URL. Use PowerShell for command execution. Project writes require standing in Mr.Kleen, checking .git before writing, then commit, push, and final clean status unless explicitly exempted.
