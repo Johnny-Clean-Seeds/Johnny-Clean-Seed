@@ -925,3 +925,27 @@ STATUS_ENOUGH_FOR_SCAN_PHASE; GROUPED_ANCHOR_FOLLOWUP MAY BE NEEDED AFTER SAVE.
 Receipt:
 
 PROOF_HISTORY/MAIN_BOSS_02_POST_SYNC_GATE_DEEP_SCAN_PROOF_PHASE_RECEIPT_20260518.txt
+
+## Save-to-Save Context Weight / Abundance Through Placement
+
+Status:
+
+PROOF PHASE PASSED - SAVE PHASE NEEDED
+
+Meaning:
+
+The save-to-save context weight rule was drafted.
+
+The abundance-through-placement correction was drafted.
+
+The deeper Context Compression / Live-State Boundary boss was captured.
+
+Sync decision:
+
+STATUS_ENOUGH_FOR_SUPPORT_RULE_SAVE.
+
+Anchor may trail safely if final response states current commit, saved files, and clean status.
+
+Receipt:
+
+PROOF_HISTORY/CONTEXT_WEIGHT_AND_ABUNDANCE_PLACEMENT_PROOF_PHASE_RECEIPT_20260518.txt
