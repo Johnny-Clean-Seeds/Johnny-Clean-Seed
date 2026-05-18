@@ -685,3 +685,23 @@ No doctrine was installed.
 Receipt:
 
 PROOF_HISTORY/WORK_SHED_LIVE_USE_001_RECEIPT_20260518.txt
+
+## Stop-and-Tool / Bookmark Rule
+
+Status:
+
+SAVED
+
+Meaning:
+
+When the assistant struggles during work, it must stop the affected lane instead of fighting dirty.
+
+It should diagnose whether the missing piece is a tool, checker, map, index, helper, or bookmark, then build/get the right support if in scope.
+
+Unaffected parallel work may continue, but downstream work depending on the blocked lane must pause.
+
+Unfinished or blocked work must leave a bookmark with state, cause, blocked work, safe work, unsafe work, needed tool/fix, next action, and return trigger.
+
+Receipt:
+
+PROOF_HISTORY/STOP_AND_TOOL_OR_BOOKMARK_RULE_RECEIPT_20260518.txt

@@ -1,0 +1,41 @@
+STOP-AND-TOOL / BOOKMARK RULE RECEIPT
+
+Branch: main
+Head before save: 7a673d6
+Rule file: BRAIN_LEARNING\STOP_AND_TOOL_OR_BOOKMARK_RULE_20260518.md
+Rule SHA256: 3F88BA6485EA3138D50DA286922F69E29EF42FB22EF5D0A2E6C8A76294F520C0
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+Status SHA256: F7333C2503F7E2C5F0ADF177C866F4D053B01A1E50FE6D19A4FAEA9A8E3BC29C
+
+Purpose:
+- Save rule requiring the assistant to stop affected work when struggle indicates missing support.
+- Allow the assistant to build/get needed tools, checkers, maps, indexes, helpers, or bookmarks when doctrine and scope allow.
+- Require unfinished or blocked work to leave a bookmark.
+- Allow unaffected parallel work while blocking downstream dependent work.
+
+Blocked / not done:
+- No room moved.
+- No source promoted.
+- No doctrine installed beyond assistant learning rule.
+- No runtime work.
+- No cleanup.
+- No tool run.
+- No active guide rewrite.
+
+Checks:
+- Rule file exists: True
+- Rule is active learning rule: True
+- Core stop flow present: True
+- Struggle signals present: True
+- Affected lane stop present: True
+- Unaffected work rule present: True
+- Tool build rule present: True
+- Bookmark requirement present: True
+- Bookmark storage present: True
+- Return rule present: True
+- Blocked behavior present: True
+- Work Shed relationship present: True
+- Status index updated: True
+
+Verdict:
+PASS - Stop-and-Tool / Bookmark rule saved. Struggle now triggers affected-lane stop, tool/helper diagnosis, bookmark when unfinished, and safe return path.
