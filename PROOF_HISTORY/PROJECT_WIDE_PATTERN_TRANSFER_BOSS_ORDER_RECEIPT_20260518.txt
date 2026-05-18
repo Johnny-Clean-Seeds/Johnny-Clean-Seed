@@ -1,0 +1,30 @@
+PROJECT-WIDE PATTERN TRANSFER BOSS ORDER RECEIPT
+
+Branch: main
+Head before save: 4766b9c
+Amended rule file: BRAIN_LEARNING\RULE_APPLICATION_GATE_POWER_PLAY_20260518.md
+New boss-order rule: BRAIN_LEARNING\PROJECT_WIDE_PATTERN_TRANSFER_BOSS_ORDER_RULE_20260518.md
+Boss stack: HOUSE_WORK\INDEXES\PROJECT_WIDE_PATTERN_TRANSFER_BOSS_STACK_20260518.md
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+Receipt file: PROOF_HISTORY\PROJECT_WIDE_PATTERN_TRANSFER_BOSS_ORDER_RECEIPT_20260518.txt
+
+Purpose:
+- Widen pattern transfer from fog-only to whole-project recursion.
+- Make pattern transfer part of main decision ordering.
+- Require alarms to be stacked, listed, grouped, and ranked before repair.
+- Prevent scatter-fixing when project-wide pattern transfer reveals many issues.
+
+Checks:
+- Existing gate widened beyond fog: True
+- New rule says project-wide: True
+- New rule defines alarm stacking: True
+- New rule requires stack before repair: True
+- New rule defines boss ranking: True
+- New rule says main decision-order: True
+- Boss stack captures alarms: True
+- Boss stack groups issues: True
+- Boss stack names current recommended boss: True
+- Status index updated: True
+
+Verdict:
+PASS - Project-wide pattern transfer boss-order rule saved. Clean patterns must be checked across the whole house, alarms must be stacked/grouped/ranked, and only the chosen boss may be repaired.

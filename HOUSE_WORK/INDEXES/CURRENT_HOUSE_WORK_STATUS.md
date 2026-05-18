@@ -204,3 +204,23 @@ When a mistake shows an existing rule did not fire, treat it as a rule-applicati
 Before saving fog, word, authority, status, index, receipt, map, or support-file changes, run soft add, wear the fix, walk neighboring files, check job ownership, check live/static boundaries, and check whether a working pattern from one room should transfer to another.
 
 Receipts for these fixes must prove neighbor fit, not just expected text.
+
+## Project-Wide Pattern Transfer Boss Order Rule
+
+Active main decision-order rule:
+
+BRAIN_LEARNING/PROJECT_WIDE_PATTERN_TRANSFER_BOSS_ORDER_RULE_20260518.md
+
+Open working stack:
+
+HOUSE_WORK/INDEXES/PROJECT_WIDE_PATTERN_TRANSFER_BOSS_STACK_20260518.md
+
+Meaning:
+
+Pattern transfer is whole-project recursion, not fog-only.
+
+When a clean pattern works in one room, check whether the same concept should apply to other rooms where the fit is the same.
+
+If alarms go off across the house, do not scatter-fix.
+
+Capture, list, group, collapse duplicates, rank parent bosses, then fight one boss at a time.

@@ -120,3 +120,37 @@ Capture why the rule did not fire.
 Turn that failure into a pre-save gate.
 
 Then apply the same clean concept to neighboring lanes where the fit is the same.
+
+## Project-Wide Pattern Transfer Amendment
+
+Pattern transfer is not fog-only.
+
+Pattern transfer is whole-project recursion.
+
+When a working concept, gate, wording pattern, proof method, lane boundary, room structure, repair method, or decision method succeeds in one part of Mr.Kleen, the assistant must check whether the same clean pattern should apply to other rooms where the fit is the same.
+
+Do not blindly copy text.
+
+Copy the useful pattern.
+
+Respect neighbor jobs.
+
+Adapt the pattern to the target room.
+
+Prove fit before saving.
+
+If applying the pattern raises many alarms, do not scatter-fix.
+
+Stack the alarms.
+
+List them.
+
+Group them.
+
+Rank them.
+
+Choose the current boss.
+
+Fight one boss at a time.
+
+This is how the house becomes recursive without becoming chaotic.
