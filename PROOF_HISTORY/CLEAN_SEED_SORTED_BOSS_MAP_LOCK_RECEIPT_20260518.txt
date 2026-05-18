@@ -1,0 +1,25 @@
+CLEAN SEED SORTED BOSS MAP LOCK RECEIPT
+
+Files prepared:
+- CLEAN_SEED_SORT_BEFORE_JUDGMENT_RULE_20260518.md
+- CLEAN_SEED_RECURSIVE_BOSS_LIST_SORTED_PARENT_MAP_20260518.md
+
+Lane:
+- brain/learning for the sorting rule
+- SOURCE_ORE or HOUSE_WORK for the sorted parent boss map
+- PROOF_HISTORY for this receipt
+
+Review verdict:
+PASS.
+
+Reason:
+The new sorting rule fits the Clean Seed method because it prevents large raw lists from being judged as a whole, separates parent bosses from ghosts/symptoms/tools/checks, and forces grouping before ranking. This protects one-boss-at-a-time repair and prevents the 50-boss list from becoming active bloat.
+
+Current active boss after sorting:
+Main Boss 01 — State / Anchor Truth Alignment.
+
+Active doctrine status of fixed list:
+Not active doctrine. It is a sorted boss map / backlog reference.
+
+Required local save:
+Commit rule + sorted map + receipt together, with forced add only for the receipt if PROOF_HISTORY is ignored.
