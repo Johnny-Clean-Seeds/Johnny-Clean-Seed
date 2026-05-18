@@ -276,3 +276,4 @@ The first front-door repair was applied after a failed proof receipt. The failed
 Boundary:
 
 Map/check only before any further repair.
+
