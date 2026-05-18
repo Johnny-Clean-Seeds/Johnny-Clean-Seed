@@ -1,45 +1,94 @@
-# Dual Save, Chat Lock, and Risk Alarm Learning Rule
+# Dual Save, Chat Lock, Risk Alarm, and Copy Continuity Learning Rule
 
 ## Purpose
 
-This is a learning rule for how the assistant understands save language.
+Teach the assistant how to save, hold, revise, and continue Clean Seed / Clean Milk work without losing meaning or creating fog.
 
-Lock/save means both assistant memory and local brain placement by default.
+## Core save rule
 
-It does not mean chat-only.
+Lock/save means both by default:
 
-## Required meaning of lock/save
+1. Save future behavior into assistant memory when it affects how the assistant should act.
+2. Save the matching artifact into the local brain when it affects the project.
 
-When the user says lock/save, save, lock it, save it, hold this for future work, or similar language for Clean Seed / Clean Milk work, the default meaning is always both:
+Chat text alone is not lock/save.
 
-1. Save the behavior/rule into assistant memory when it affects future assistant behavior.
-2. Place the corresponding artifact into the local brain when it affects the project.
+## Brain save requirements
 
-These are not separate optional paths by default.
+A project-relevant brain save needs:
 
-The assistant should not ask whether the user means brain or local unless the user creates real ambiguity.
+- correct lane placement
+- proof
+- commit
+- push
+- clean final status
 
-## Command-block language rule
+## Chat lock
 
-Do not preface project-relevant PowerShell blocks with "THIS CODE IS FOR LOCAL."
+Chat lock means temporary holding in the conversation only.
 
-That phrase is obsolete because project-relevant save work is always both by default.
+Use chat lock only for rough ideas, drafts, fragments, or items waiting for placement.
 
-Use a clean copy-only code block.
+Chat lock is not durable, proven, active doctrine, or final save.
 
-Keep explanations outside the code block.
+## Risk alarms
 
-Use brain language around the block:
+Raise a risk alarm when chat-held material:
 
-- brain home
-- local brain
-- brain position
-- brain save
-- proof locked into the brain
+- affects future behavior
+- affects project structure
+- is needed after this conversation
+- grows into a large pile
+- creates fog or repeated confusion
+- is discussed more than once without placement
+- starts being used as if saved
+
+When a risk alarm triggers, place the item into the local brain, park it cleanly, or make a drop-in file.
+
+## Copy continuity
+
+When revising, simplifying, replacing, or moving a rule/file, preserve the useful meaning from the prior version.
+
+Do not create a clean-looking rewrite that cuts off valid earlier intent.
+
+Before saving a replacement, check:
+
+- what useful meaning must continue
+- what redundancy should be removed
+- what wording should be simplified
+- what neighbor rules are touched
+- what proof must confirm
+
+## Stacked issue flow
+
+When multiple issues appear, do not fix them all at once.
+
+Use this order:
+
+1. Stack the issues into a visible list.
+2. Group related items.
+3. Rank by biggest boss / weakest link.
+4. Fight only the top boss.
+5. Prove the fix.
+6. Wear the fix.
+7. Walk around.
+8. Return to the stack and move down the list.
+
+A single boss cycle may handle no more than 10 bosses.
+
+If more than 10 issues remain, park the rest as next-cycle candidates with status and priority.
+
+## Command block rule
+
+Do not use the phrase THIS CODE IS FOR LOCAL.
+
+Project-relevant command blocks already serve the both-by-default save path.
+
+Keep command blocks clean and copy-only.
 
 ## Exceptions
 
-Only treat a save as not-both when the user explicitly says one of these:
+Only skip the both-by-default rule when the user explicitly says:
 
 - brain-only
 - local-only
@@ -51,77 +100,24 @@ Only treat a save as not-both when the user explicitly says one of these:
 - proof-only
 - draft only
 
-Without one of those exceptions, lock/save means both.
-
-## Local brain save requirements
-
-For project-relevant changes, the local brain save must include:
-
-- correct lane placement
-- proof capture
-- save transport commit
-- push
-- final clean status
-
-## Chat lock
-
-Chat lock means temporary holding in the conversation only.
-
-Chat lock is allowed only as a short holding state for:
-
-- rough ideas
-- temporary wording
-- active discussion fragments
-- not-yet-placed thoughts
-- items waiting for user approval
-
-Chat lock is not lock/save.
-
-Chat lock must not be treated as durable, final, proven, placed, or active doctrine.
-
-## Chat lock risk alarms
-
-The assistant must raise a risk alarm when any of these signs appear:
-
-- the chat-held idea affects future behavior
-- the chat-held idea affects project structure
-- the chat-held idea is needed after the current conversation
-- the idea pile is getting large
-- the assistant starts carrying too much list weight
-- fog appears or feels close
-- repeated confusion appears
-- a rule is being discussed more than once without placement
-- an item is being used as if saved but has no local brain artifact
-- the user says lock/save but only chat text exists
-
-## Risk alarm response
-
-When a risk alarm triggers, the assistant must stop treating the item as safely held in chat.
-
-The assistant should choose the smallest clean response:
-
-1. Convert the item into a local brain artifact with proof.
-2. Park it in the correct lane as source ore or an idea note.
-3. Ask for explicit chat-only status only if the user is clearly not asking for lock/save.
-4. If the item is large, create a short drop-in file so the user can place it without dragging the whole pile through chat.
-
 ## Respect Thy Neighbor
 
-This rule touches memory, local brain placement, proof flow, source ore, parking, active rules, command formatting, and chat behavior.
+This rule touches memory, local brain placement, proof, source ore, parking, active rules, command formatting, revisions, and chat behavior.
 
-It must not force every casual message into the brain.
+Do not force casual talk into the brain.
 
-It applies when the item affects future behavior, project structure, proof, placement, routing, naming, recovery, or the Clean Seed / Clean Milk operating model.
+Apply this rule when the item affects future behavior, project structure, proof, placement, routing, naming, recovery, or the Clean Seed / Clean Milk operating model.
 
 ## Close condition
 
-This learning rule passes only when:
+PASS requires:
 
-- the rule is placed in BRAIN/LEARNING
-- proof is captured
-- proof confirms lock/save means both by default
-- proof confirms the local-only preface is obsolete
-- proof confirms chat lock is temporary only
+- this rule is in BRAIN/LEARNING
+- proof confirms both-by-default save
+- proof confirms chat lock is temporary
 - proof confirms risk alarms exist
-- the rule and proof are saved through the transport layer
+- proof confirms copy continuity exists
+- proof confirms stacked issue flow exists
+- proof confirms no more than 10 bosses per cycle
+- proof confirms the obsolete local-only preface is banned
 - final status is clean
