@@ -1,0 +1,28 @@
+FRONT DOOR AUTHORITY GROUP LINK REPAIR SUPERSEDE RECEIPT
+
+Branch: main
+Head before supersede repair: 18b1e3a
+Failed receipt preserved: PROOF_HISTORY\FRONT_DOOR_AUTHORITY_GROUP_LINK_REPAIR_RECEIPT_20260518.txt
+Supersede receipt: PROOF_HISTORY\FRONT_DOOR_AUTHORITY_GROUP_LINK_REPAIR_SUPERSEDE_RECEIPT_20260518.txt
+
+Purpose:
+- Supersede the failed front-door repair receipt without deleting it.
+- Fix the missing README start-order check.
+- Fix the missing README authority-map anchor-role check.
+- Fix the TODO-control post-repair link-walk check.
+- Preserve the anchor live/static wording repair.
+
+Checks:
+- Prior receipt is failed and preserved: True
+- README names ACTIVE_ANCHOR in start order: False
+- README authority map names anchor role: False
+- Anchor no longer says CURRENT CHECKED POSITION: True
+- Anchor uses recorded base wording: True
+- Anchor has live position note: True
+- Anchor points live position to git proof: True
+- TODO control updated: True
+
+Verdict:
+FAIL - Missing checks:
+README names ACTIVE_ANCHOR in start order
+README authority map names anchor role

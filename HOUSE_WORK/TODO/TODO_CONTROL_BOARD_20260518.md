@@ -262,3 +262,17 @@ Next recommended move:
 Post-repair link walk.
 
 No additional repair until the walk proves the group state.
+
+## Front Door / Authority Group Post-Repair Link Walk
+
+Current active boss:
+
+Front Door / Authority Group post-repair link walk
+
+Reason:
+
+The first front-door repair was applied after a failed proof receipt. The failed receipt remains evidence and is superseded by a new pass receipt only after README, ACTIVE_ANCHOR, and TODO-control checks pass.
+
+Boundary:
+
+Map/check only before any further repair.
