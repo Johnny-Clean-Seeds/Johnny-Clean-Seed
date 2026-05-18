@@ -457,3 +457,333 @@ Do not delete this file.
 Do not treat this worksheet as active doctrine.
 
 Use it as a house work board.
+
+GROWTH_RAILS_AND_DISCOVERY_METHODS_001
+
+Status: OPEN GROWTH GUIDE ADDITION
+Purpose: Teach the assistant how to find, order, test, and adopt growth without becoming rigid or messy.
+
+HARD RULES AS GROWTH RAILS
+
+Hard rules are not cages.
+
+Hard rules are rails that keep growth clean while the house learns better movement.
+
+The assistant must not use rules as an excuse to stop learning.
+
+The assistant also must not use learning as an excuse to violate the model.
+
+A new method may be adapted or adopted only when it blesses the existing model flow.
+
+DISCOVERY METHODS
+
+Deep scan is one discovery method, not the only discovery method.
+
+The assistant should use the lightest clean method that can expose the leak.
+
+DEEP SCAN
+
+Use when the issue may be spread across files, notes, lanes, proof, history, or placement.
+
+Deep scan should look for:
+- inconsistencies,
+- oddities,
+- missing context,
+- missing files,
+- missing ideas,
+- redundant notes,
+- duplicated garble,
+- stale wording,
+- disconnected links,
+- missing companions,
+- weak placement,
+- unclosed lock/save paths.
+
+COMPARE / CONTRAST
+
+Use when two things seem similar but behave differently.
+
+Ask:
+- What is the same?
+- What is different?
+- What repeated?
+- What is missing from one side?
+- Which side carries cleaner proof?
+- Which side better fits the model?
+
+ANALOGY AS HYPOTHESIS
+
+Use when the world offers a useful pattern.
+
+Ask:
+- What is this like?
+- Where does the analogy fit?
+- Where does the analogy break?
+- What would prove it helps?
+- Does it bless the model or distort it?
+
+Do not treat analogy as truth.
+
+Treat analogy as a candidate pattern.
+
+PATTERN RECOGNITION
+
+Use when repeated shapes appear.
+
+Look for:
+- same failure three times,
+- same leak under different symptoms,
+- same command mistake,
+- same checker failure shape,
+- same placement confusion,
+- same user correction,
+- same word drift,
+- same missing companion.
+
+TRIAL / ERROR WITH PROOF
+
+Use when the path is uncertain but testable.
+
+Rules:
+- test small,
+- capture result,
+- do not overgeneralize,
+- convert failure into a power play,
+- stop if fog increases.
+
+GRAPH / LINK THINKING
+
+Treat files, notes, rules, lanes, tools, and tasks as nodes.
+
+Look for:
+- missing links,
+- broken bridges,
+- isolated notes,
+- overloaded hubs,
+- circular routes,
+- unowned items,
+- support notes acting like doctrine,
+- tools with no route to proof.
+
+CLUSTERING
+
+Group related notes, ideas, issues, or failures into families.
+
+Use when there are many pieces and the assistant is losing the shape.
+
+Cluster by:
+- lane,
+- trigger,
+- failure type,
+- word key,
+- proof need,
+- lock/save state,
+- authority level,
+- repeated pattern.
+
+RANKING / SCORING
+
+Use when many weak links compete.
+
+Score by:
+- recurrence,
+- risk,
+- authority impact,
+- proof impact,
+- source-truth impact,
+- neighbor damage risk,
+- ease of repair,
+- value gained.
+
+Prefer high-impact, low-damage, clear-proof repairs first.
+
+BIT / STRING / TOKEN PATTERNS
+
+Use for code, checkers, filenames, wording, and exact drift.
+
+Look for:
+- corrupted tokens,
+- stale expected strings,
+- naming drift,
+- repeated fragments,
+- mismatched case,
+- bad punctuation,
+- broken paths,
+- unsafe backticks,
+- self-bite phrases,
+- copy/paste contamination.
+
+TRIAGE
+
+Use now / next / later / parked / blocked.
+
+Do not treat every idea as urgent.
+
+NOW: strengthens the active gate.
+NEXT: clearly useful but belongs after current lock/save.
+LATER: useful but not ready.
+PARKED: preserved for future mining.
+BLOCKED: violates authority, proof, source truth, or neighbor policy.
+
+COMPANION SEARCH
+
+When current habits are exhausted, do not only tweak harder.
+
+Ask what friend the task needs.
+
+Possible companions:
+- map,
+- bridge,
+- link,
+- jack,
+- ladder,
+- checklist,
+- checkboard,
+- index,
+- router,
+- parking lot,
+- proof receipt,
+- template,
+- watch list,
+- algorithm later.
+
+BALANCED SEARCH RULE
+
+Use low-force methods before brute force.
+
+Default order:
+
+1. Name the active fog or question.
+2. Verify current room and source truth.
+3. Search the nearest lane first.
+4. Compare similar items.
+5. Look for repeated shape.
+6. Use exact string scans for wording or code issues.
+7. Cluster when there are many notes or issues.
+8. Score competing weak links.
+9. Use a worksheet when dense.
+10. Use deeper scan only when local methods do not expose the leak.
+11. Park useful material that is not ready.
+
+HOW TO FIND WORK WHEN LOST
+
+If lost, do not wander.
+
+Ask:
+
+1. What room am I in?
+2. What lane is active?
+3. What proof exists?
+4. What changed last?
+5. What repeated?
+6. What is foggy?
+7. What neighbor could be damaged?
+8. What support note should guide this?
+9. Is this content, checker, command, source-truth, word-key, proof, parking, tool, or authority work?
+10. What is the smallest proof that reduces fog?
+11. Does this need a companion?
+12. Does this need parking instead of action?
+
+GROWTH ORDERING RULE
+
+Growth needs order.
+
+Use:
+
+Observe.
+Capture.
+Sort.
+Compare.
+Pattern.
+Place.
+Companion.
+Prove.
+Lock/save.
+Review.
+Re-enter.
+
+Growth is not random expansion.
+
+Growth is clean recursive improvement.
+
+FUTURE ALGORITHM PARKING
+
+Algorithms may help later, but must bless the model.
+
+Potential future helpers:
+
+- graph analysis for note/rule links,
+- duplicate detection for support-note overlap,
+- clustering for note families,
+- weak-link scoring for risk/recurrence/impact,
+- cycle detection for repeated failure loops,
+- string/token diffing for checker/text drift,
+- similarity search for related ideas,
+- dependency mapping for order of operations,
+- decision trees for now/next/later/blocked,
+- lightweight scoring matrix for next clean task,
+- bit/string pattern scans for exact code and wording leaks.
+
+Do not install algorithms as authority.
+
+Use them as tools under the model.
+
+GROWTH ADOPTION RULE
+
+A method may be adapted or adopted only when it:
+
+- blesses the existing model,
+- reduces fog,
+- improves proof,
+- protects neighbor policy,
+- improves placement or routing,
+- does not steal authority,
+- can be tested small,
+- can be parked if not ready.
+
+Use PASS WITH WATCH before calling a new method right.
+
+GROWTH GUIDE PURPOSE
+
+This worksheet should help the assistant look at the house and say:
+
+This is where the house needs work now.
+
+This is why.
+
+This is the cleanest next method.
+
+This is the smallest proof.
+
+This is what should be parked.
+
+This is what should be locked/saved.
+
+This is how the house grows without losing itself.
+
+OPEN GROWTH TASKS
+
+[OPEN] Add learning discovery methods beyond deep scan.
+
+[OPEN] Add balanced search rule.
+
+[OPEN] Add how-to-find-work-when-lost section.
+
+[OPEN] Add future algorithm parking section.
+
+[OPEN] Add growth adoption rule.
+
+[OPEN] Add graph/link/checkboard concepts to word-key index.
+
+[OPEN] Build a weak-link scoring method later.
+
+[OPEN] Build a note-family clustering method later.
+
+[OPEN] Build a smallest-proof-to-reduce-fog pattern.
+
+[OPEN] Review parking lots for map/template seeds.
+
+[OPEN] Build an algorithm parking lot only after base placement/routing is clearer.
+
+[OPEN] Build a recursive growth review cycle that checks this worksheet without letting it become stale storage.
+

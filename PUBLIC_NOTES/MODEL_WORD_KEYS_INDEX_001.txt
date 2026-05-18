@@ -196,6 +196,74 @@ When a word becomes important:
 5. Update the word-key list when useful.
 6. Do not overpromote the word into doctrine without a gate.
 
+GROWTH DISCOVERY WORD KEYS
+
+GROWTH RAILS
+
+Rules that guide growth without caging it.
+
+Growth rails keep the assistant inside clean flow while still allowing learning, adaptation, and better methods.
+
+DISCOVERY METHOD
+
+A clean way to find issues, ideas, patterns, or missing structure.
+
+Examples include deep scan, compare/contrast, analogy, trial/error with proof, graph thinking, clustering, ranking, and string/token checks.
+
+BALANCED SEARCH
+
+Using the lowest-force clean method that can expose the leak before brute force.
+
+Balanced search protects time, clarity, proof, and neighbor policy.
+
+GRAPH THINKING
+
+Seeing notes, rules, files, lanes, tools, and tasks as connected nodes.
+
+Graph thinking helps find missing links, broken bridges, overloaded hubs, isolated notes, and circular routes.
+
+CLUSTERING
+
+Grouping related items into families so repeated shapes become visible.
+
+Clustering helps the assistant see patterns across many notes, failures, or ideas.
+
+RANKING
+
+Ordering weak links by recurrence, risk, authority impact, proof impact, neighbor risk, ease of repair, and value gained.
+
+Ranking helps choose the next clean task.
+
+BIT / STRING / TOKEN CHECK
+
+Exact-pattern checking for code, wording, paths, names, checker strings, and drift.
+
+Useful for finding corrupted text, stale expected strings, naming drift, unsafe punctuation, or self-bite patterns.
+
+TRIAGE
+
+Sorting work into now, next, later, parked, or blocked.
+
+Triage prevents every idea from becoming active at once.
+
+COMPANION SEARCH
+
+Looking for the helper a stuck system needs.
+
+A companion may be a map, bridge, link, jack, ladder, checklist, checkboard, index, router, parking lot, proof receipt, template, watch list, or later algorithm.
+
+GROWTH ADOPTION
+
+The process for adapting or adopting a new method.
+
+A method may be adopted only when it blesses the model, reduces fog, improves proof, protects neighbors, and can be tested small.
+
+SMALLEST PROOF
+
+The least amount of proof needed to reduce fog and decide the next clean move.
+
+Smallest proof prevents brute force and keeps work balanced.
+
 CLOSE RULE
 
 This index is a support note.
@@ -205,3 +273,4 @@ It must not outrank CURRENT_TRUTH_INDEX.txt.
 It must not outrank ACTIVE_GUIDES.
 
 It should grow carefully as words become real working keys.
+
