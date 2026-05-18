@@ -108,3 +108,19 @@ Clarification:
 This is a wording/receipt clarity repair only.
 
 It does not authorize runtime build, /system, live runtime files, status-command runtime work, bridge work, proof-history restructuring, doctrine compression, or source-ore promotion.
+
+## Fog Lane Closeout
+
+Fog lane is closed for current scope.
+
+Closeout file:
+
+HOUSE_WORK/INDEXES/FOG_LANE_CLOSEOUT_20260518.md
+
+Meaning:
+
+- ACTIVE_ANCHOR.txt is current active-ball authority.
+- CURRENT_TRUTH_INDEX.txt is orientation/source routing.
+- CURRENT_HOUSE_WORK_STATUS.md is support only.
+- Old action-looking text is historical unless restated by ACTIVE_ANCHOR.txt or current user command.
+- Next work must be chosen fresh from current evidence.

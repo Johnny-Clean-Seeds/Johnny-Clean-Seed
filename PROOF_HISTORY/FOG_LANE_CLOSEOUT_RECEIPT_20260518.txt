@@ -1,0 +1,27 @@
+FOG LANE CLOSEOUT RECEIPT
+
+Branch: main
+Head before closeout: 9bfd218
+Closeout file: HOUSE_WORK\INDEXES\FOG_LANE_CLOSEOUT_20260518.md
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+Receipt file: PROOF_HISTORY\FOG_LANE_CLOSEOUT_RECEIPT_20260518.txt
+
+Purpose:
+- Close the current fog-cleaning lane.
+- Preserve the clean front-door authority split.
+- Stop repeated fog polishing unless a real mismatch appears.
+- Keep blocked lanes blocked.
+- Force next work to be chosen fresh from current evidence.
+
+Checks:
+- Fog lane closed: True
+- Anchor is authority: True
+- Truth index is orientation: True
+- House status is support: True
+- Critique is not command: True
+- Next work chosen fresh: True
+- Blocked lanes remain blocked: True
+- Status index points to closeout: True
+
+Verdict:
+PASS - Fog lane closed for current scope. Front-door authority split is clear, blocked lanes remain blocked, and next work must be chosen fresh.
