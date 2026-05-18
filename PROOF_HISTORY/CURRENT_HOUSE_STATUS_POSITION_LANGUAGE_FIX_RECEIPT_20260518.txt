@@ -1,0 +1,23 @@
+CURRENT HOUSE STATUS POSITION LANGUAGE FIX RECEIPT
+
+Branch: main
+Head before fix: 424a92c
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+Receipt file: PROOF_HISTORY\CURRENT_HOUSE_STATUS_POSITION_LANGUAGE_FIX_RECEIPT_20260518.txt
+
+Purpose:
+- Stop CURRENT_HOUSE_WORK_STATUS.md from creating recurring stale-position fog.
+- Replace live-current wording with recorded-sync-base wording.
+- Keep git log as the live commit-position source.
+- Keep ACTIVE_ANCHOR.txt as active-ball authority.
+
+Checks:
+- Removed current checked position phrase: True
+- Explains support index is not live position: True
+- Points live position to git log: True
+- Preserves active anchor authority: True
+- Keeps support/index role: True
+- Keeps fog closed: True
+
+Verdict:
+PASS - Position language fixed. CURRENT_HOUSE_WORK_STATUS.md no longer claims live current position; git log owns live commit position and ACTIVE_ANCHOR.txt owns active-ball authority.

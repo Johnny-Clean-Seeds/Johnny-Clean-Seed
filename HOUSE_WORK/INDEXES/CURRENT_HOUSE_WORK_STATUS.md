@@ -5,11 +5,13 @@ Role: current house-work orientation
 Authority: navigation support only
 Not authority over: CURRENT_TRUTH_INDEX.txt, ACTIVE_ANCHOR.txt, README.md, AGENTS.md
 
-## Current Mr.Kleen Position
+## Mr.Kleen Position Note
 
-Current checked position:
+This support index does not hold live current position.
 
-main @ efda78f
+Use git log for live current commit position.
+
+Recorded sync base:
 
 Latest sync action:
 
@@ -157,9 +159,11 @@ Repeated fog should trigger a search for the missing system: word key, room sign
 
 ## Final Fog Status Sync
 
-Current checked position:
+This section records the sync base used during the final fog status repair.
 
-main @ efda78f
+It does not claim live current position after later commits.
+
+Recorded sync base:
 
 Fog lane status:
 
@@ -174,3 +178,15 @@ Current meaning:
 - Bulldozing is allowed only when a room is cramped and that cramped structure causes fog.
 - Growth-ready rooms should use words, labels, maps, signs, transitions, overflow lanes, and matching to prevent repeated cleanup churn.
 - Next work must be chosen fresh from current evidence.
+
+## Support Index Position Rule
+
+CURRENT_HOUSE_WORK_STATUS.md is support/index only.
+
+It must not pretend to hold live current commit position, because any commit made after editing it can make that line stale.
+
+Use git log for live current commit position.
+
+Use ACTIVE_ANCHOR.txt for active ball, next allowed move, and blocked moves.
+
+Use this file for support notes, room status, parked risks, and navigation.
