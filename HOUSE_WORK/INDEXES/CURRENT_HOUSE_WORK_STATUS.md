@@ -111,3 +111,20 @@ Do not create /system.
 Do not create live runtime files.
 
 Do not reopen Main Boss 01 unless Anchor Sync Check fails or a new state-boundary issue appears.
+
+## Assistant Work Rhythm State
+
+A softening rule has been added for assistant work rhythm.
+
+Active rule:
+
+BRAIN_LEARNING/ASSISTANT_WORK_RHYTHM_SOFTENING_RULE_20260518.md
+
+Meaning:
+
+- fewer unnecessary interruptions
+- fewer repeated labels
+- smoother normal work
+- updates only when they protect orientation, proof, gates, or next movement
+
+This does not soften proof, blocked-lane checks, Mr.Kleen save continuity, or final clean status.
