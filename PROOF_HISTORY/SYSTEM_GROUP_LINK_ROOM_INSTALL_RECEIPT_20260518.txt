@@ -1,0 +1,32 @@
+SYSTEM GROUP LINK ROOM INSTALL RECEIPT
+
+Branch: main
+Head before save: 61cf8bb
+System links room: HOUSE_WORK\SYSTEM_LINKS
+README: HOUSE_WORK\SYSTEM_LINKS\README.md
+Index: HOUSE_WORK\SYSTEM_LINKS\SYSTEM_GROUP_LINK_INDEX_20260518.md
+Template: HOUSE_WORK\SYSTEM_LINKS\SYSTEM_GROUP_LINK_TEMPLATE_20260518.md
+Audit TODO: HOUSE_WORK\SYSTEM_LINKS\SYSTEM_GROUP_LINK_AUDIT_TODO_20260518.md
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+TODO index: HOUSE_WORK\TODO\TODO_INDEX_20260518.md
+Receipt file: PROOF_HISTORY\SYSTEM_GROUP_LINK_ROOM_INSTALL_RECEIPT_20260518.txt
+
+Purpose:
+- Create a support room for proving each system group is internally tied together.
+- Prevent everything-linking-to-everything web behavior.
+- Support recursive growth by making each group a clean small system before broader cross-group flow.
+- Capture system-link audit as TODO/boss candidate without authorizing repairs.
+
+Checks:
+- System links room created: True
+- Internal links before cross-group links: True
+- Index lists system groups: True
+- Template created: True
+- Audit TODO created: True
+- Front door first: True
+- No repair during audit: True
+- Status index updated: True
+- TODO index updated: True
+
+Verdict:
+PASS - System Links room installed. Each system group now has a place to prove internal links, flow order, authority boundaries, gaps, and next transitions before broader recursive linking.

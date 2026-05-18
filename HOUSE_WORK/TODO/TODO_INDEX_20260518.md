@@ -147,3 +147,37 @@ TODO-004 first as support capture, then TODO-001 as the actual repair boss.
 Why:
 
 The rules say alarms must be stacked before repair. So the stack update is the immediate support move. Then the real parent boss is ACTIVE_ANCHOR live/static position wording.
+
+### Group 2 - System Group Link Audit TODOs
+
+#### TODO-005 — System Group Link Audit
+
+Status: BOSS CANDIDATE
+
+Source: user request for ensuring each system group is internally tied together
+
+Room/lane: HOUSE_WORK/SYSTEM_LINKS
+
+Why it matters:
+
+The recursive system needs each group to work as a clean small system before larger cross-group flow is built.
+
+Neighbor risk:
+
+System-link audit must not become repair authority.
+
+Classification:
+
+Parent boss candidate / audit tool.
+
+Next action:
+
+Run Front Door / Authority Group link audit first.
+
+Proof needed before save:
+
+- system group entry point identified
+- member files listed
+- authority/support/proof boundaries clear
+- flow order mapped
+- gaps captured without repair

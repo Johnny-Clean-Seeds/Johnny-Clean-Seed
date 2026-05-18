@@ -244,3 +244,24 @@ TODOs are stored in a dedicated room instead of staying loose in chat, receipts,
 TODOs are support only, not command authority.
 
 Work starts only when the current user command or ACTIVE_ANCHOR.txt selects it.
+
+## System Links Room
+
+Active support room:
+
+HOUSE_WORK/SYSTEM_LINKS/
+
+Main files:
+
+- HOUSE_WORK/SYSTEM_LINKS/README.md
+- HOUSE_WORK/SYSTEM_LINKS/SYSTEM_GROUP_LINK_INDEX_20260518.md
+- HOUSE_WORK/SYSTEM_LINKS/SYSTEM_GROUP_LINK_TEMPLATE_20260518.md
+- HOUSE_WORK/SYSTEM_LINKS/SYSTEM_GROUP_LINK_AUDIT_TODO_20260518.md
+
+Meaning:
+
+Each system group should prove its own internal links before broader cross-group linking.
+
+This supports recursive growth by making each group a clean small system before it becomes part of a larger system.
+
+Link gaps are captured as TODOs or boss candidates, not repaired during audit by default.
