@@ -1,0 +1,24 @@
+TITLE: CURRENT_TRUTH_INDEX ROLE SPLIT PROOF
+
+DATE:
+20260517_215521
+
+ISSUE FOUND:
+CURRENT_TRUTH_INDEX was doing too many jobs: current orientation, install history, and older next anchors were sharing one room.
+
+WHY THIS CAN BECOME BAD MILK:
+A future assistant could read an older saved anchor as the current command and drift away from the active ball. The failure is not freedom itself. The failure is authority without room separation.
+
+POWER PLAY:
+Create separate rooms:
+- CURRENT_TRUTH_INDEX = current orientation/source routing.
+- ACTIVE_ANCHOR = current active ball and next allowed move.
+- DECISION_NOTES = assistant judgment and suit/feel notes.
+- PROOF_HISTORY = receipts and evidence.
+- INDEX_HISTORY = historical proof/history, not current command.
+
+PROOF CHECKS TO RUN:
+- Confirm new decision note exists.
+- Confirm ACTIVE_ANCHOR exists.
+- Confirm proof note exists.
+- Confirm git sees only intended files before commit.
