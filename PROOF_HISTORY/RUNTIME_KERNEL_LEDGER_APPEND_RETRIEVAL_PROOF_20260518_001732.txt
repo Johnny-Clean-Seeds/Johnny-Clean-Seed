@@ -1,0 +1,47 @@
+RUNTIME KERNEL LEDGER APPEND RETRIEVAL PROOF
+
+Brain home:
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+
+Starting brain position:
+main @ 61bcde5
+
+Starting status:
+clean
+
+Files:
+HOUSE_WORK\RUNTIME_KERNEL_DRY_RUNS\LEDGER_APPEND_RETRIEVAL_DRY_RUN_20260518_001732.jsonl
+HOUSE_WORK\RUNTIME_KERNEL_RUNS\RUNTIME_KERNEL_LEDGER_APPEND_RETRIEVAL_REVIEW_20260518_001732.md
+
+Hashes:
+LedgerDryRun: 0883731905F3DFBAB3C4988D84A1B0CC8DF914EE2A282948D59242C364EA6747
+LedgerReview: 1EE51830D7A800FFA26D18FBB542F9A83B46C721138614C262D958AA27B76F23
+
+Checks:
+start_position_recorded: True
+start_status_clean: True
+state_machine_exists: True
+ledger_candidate_exists: True
+parent_child_candidate_exists: True
+promotion_gate_exists: True
+ledger_dry_run_exists: True
+ledger_review_exists: True
+three_rows_exist: True
+event_ids_unique: True
+retrieval_by_event_id_works: True
+retrieval_by_status_works: True
+retrieval_by_parent_works: True
+review_names_remaining_weak_links: True
+verdict_pass_with_hold: True
+next_run_duplicate_event: True
+does_not_create_live_ledger: True
+does_not_build_runtime: True
+does_not_promote: True
+candidate_boundaries_still_clean: True
+
+
+Failed checks:
+
+
+Verdict:
+PASS - Ledger append/retrieval dry run saved. Three test rows appended, unique IDs confirmed, retrieval by event_id/status/parent_event works. No live ledger, runtime build, or promotion.
