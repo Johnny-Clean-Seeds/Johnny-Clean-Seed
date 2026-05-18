@@ -755,3 +755,21 @@ PROOF_HISTORY/ANCHOR_WORK_SHED_LIVE_USE_STOP_TOOL_DUPLICATE_COMMIT_CLARIFICATION
 Next repair pressure:
 
 Strengthen the Failed Proof Commit Guard into a split proof/save flow so failed-proof or duplicate-run mistakes are less likely.
+
+## Split Proof / Save Flow Rule
+
+Status:
+
+PROOF PHASE PASSED - SAVE PHASE NEEDED
+
+Meaning:
+
+Risky Mr.Kleen command blocks should split proof and save into separate phases.
+
+Phase 1 writes files and proves them without git add, commit, or push.
+
+Phase 2 saves only after Phase 1 shows PASS.
+
+Receipt:
+
+PROOF_HISTORY/SPLIT_PROOF_SAVE_FLOW_RULE_PROOF_PHASE_RECEIPT_20260518.txt

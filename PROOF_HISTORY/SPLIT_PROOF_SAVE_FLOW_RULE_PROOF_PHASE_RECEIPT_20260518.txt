@@ -1,0 +1,43 @@
+SPLIT PROOF / SAVE FLOW RULE PROOF PHASE RECEIPT
+
+Branch: main
+Head before proof phase: 88e001c
+Rule file: BRAIN_LEARNING\SPLIT_PROOF_SAVE_FLOW_RULE_20260518.md
+Rule SHA256: A291ED0D9C3CFBED4953AB971FC631B2A7C128A1B54C73F5DE453651729725E7
+Idea card: HOUSE_WORK\WORK_SHED\IDEA_CARDS\SPLIT_PROOF_SAVE_FLOW_CARD_20260518.md
+Idea card SHA256: 28BCCD357B15000B8C914C7B183EB63A47E3316F534872C3D92FA9334F1A8320
+Front shelf helper: HOUSE_WORK\WORK_SHED\FRONT_SHELF\SPLIT_PROOF_SAVE_FLOW_FRONT_SHELF_20260518.md
+Front shelf SHA256: 9D6ED79BCE54DFAC8F54BEE84A2CF5C18F97AE9E0986E1D4E46EC8C6853111C4
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+Status SHA256: 78EA9576E0C9ABBF2DA3FE9F1867401F7A23ED569CC2AB728450461481D09565
+
+Purpose:
+- Prove Split Proof / Save Flow rule before save.
+- Strengthen Failed Proof Commit Guard.
+- Stop risky command blocks from carrying git add, commit, and push after proof failure.
+- Demonstrate the new split pattern by omitting save commands from Phase 1.
+
+Blocked / not done in Phase 1:
+- No git add.
+- No commit.
+- No push.
+- No room moved.
+- No source promoted.
+- No runtime work.
+- No cleanup.
+- No active guide rewrite.
+
+Checks:
+- Rule file exists: True
+- Rule names split proof save: True
+- Phase 1 has no save commands rule: True
+- Phase 2 requires Phase 1 PASS: True
+- Commit after risky proof blocked: True
+- Never commit after failed proof present: True
+- Idea card exists: True
+- Front shelf helper exists: True
+- Front shelf says proof still decides: True
+- Status marks save phase needed: True
+
+Verdict:
+PASS - Split Proof / Save Flow proof phase passed. Save phase is allowed next.
