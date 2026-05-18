@@ -1,0 +1,48 @@
+LIFECYCLE STATE CHANGE SYNC GATE PROOF PHASE RECEIPT
+
+Branch: main
+Head before proof phase: 57e4a02
+Rule file: BRAIN_LEARNING\LIFECYCLE_STATE_CHANGE_SYNC_GATE_RULE_20260518.md
+Rule SHA256: 66A996FF23E2D22A7BB5566C0E74F621F9DA6CA9C5DFA68E6C1162C90088DB6D
+Design file: HOUSE_WORK\WORK_SHED\SORTING_BENCH\LIFECYCLE_STATE_CHANGE_SYNC_GATE_DESIGN_20260518.md
+Design SHA256: BBFA1C293F72F67261E389F1C5CAF8790A673BD6720333D013802D594D1EEC45
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+Status SHA256: 8D615BD0E5A0B32C1039DC76EDDFD28AE8A690A3128D9EB245A56C58CE19440A
+
+Purpose:
+- Design/prove Lifecycle State Change Sync Gate.
+- Stop blind save -> anchor behind -> anchor refresh loop.
+- Require sync decisions after lifecycle-changing saves.
+- Use Phase 1 only.
+- Do not include git add, commit, or push in this proof phase.
+
+Sync decision for this proof phase:
+- Do not perform plain anchor refresh first.
+- Design/prove sync gate because the repeated anchor-refresh loop is the exposed boss.
+- ACTIVE_ANCHOR is not rewritten in this phase.
+
+Blocked / not done in Phase 1:
+- No ACTIVE_ANCHOR rewrite.
+- No active guide rewrite.
+- No lifecycle doctrine install.
+- No git add.
+- No commit.
+- No push.
+- No room moved.
+- No source promoted.
+- No runtime work.
+
+Checks:
+- Rule file exists: True
+- Rule names repeated loop: True
+- Rule requires sync decision: True
+- Rule preserves anchor: True
+- Rule defines when anchor must update: True
+- Rule defines safe trailing: True
+- Design file exists: True
+- Design blocks blind anchor refresh loop: True
+- Design says no anchor rewrite in this pass: True
+- Status marks save phase needed: True
+
+Verdict:
+PASS - Lifecycle State Change Sync Gate proof phase passed. Save phase is allowed next.

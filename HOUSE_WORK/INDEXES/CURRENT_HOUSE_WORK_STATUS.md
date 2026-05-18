@@ -877,3 +877,27 @@ No lifecycle sync gate was installed yet.
 Receipt:
 
 PROOF_HISTORY/DISCOVERY_CAPTURE_INTERRUPT_RULE_PROOF_PHASE_RECEIPT_20260518.txt
+
+## Lifecycle State Change Sync Gate Design
+
+Status:
+
+PROOF PHASE PASSED - SAVE PHASE NEEDED
+
+Meaning:
+
+The Lifecycle State Change Sync Gate was designed as an active learning candidate.
+
+It answers the repeated save -> anchor behind -> anchor refresh loop.
+
+No active guide was rewritten.
+
+ACTIVE_ANCHOR was not rewritten by this design pass.
+
+Sync decision for this move:
+
+Design/proof first. Do not perform plain anchor refresh before solving the exposed sync-gate boss.
+
+Receipt:
+
+PROOF_HISTORY/LIFECYCLE_STATE_CHANGE_SYNC_GATE_PROOF_PHASE_RECEIPT_20260518.txt
