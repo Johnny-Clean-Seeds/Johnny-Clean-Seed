@@ -1,0 +1,86 @@
+[
+  {
+    "node_id": "blocked-parent-20260518_002256",
+    "node_name": "blocked-child-recovery-dry-run",
+    "node_type": "run",
+    "node_path": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS/BLOCKED_CHILD_RECOVERY_DRY_RUN_20260518_002256.json",
+    "parent_id": "runtime-kernel-multi-node-parent-child-close-dry-run",
+    "child_ids": [
+      "blocked-child-20260518_002256-001",
+      "blocked-child-20260518_002256-002",
+      "blocked-child-20260518_002256-003"
+    ],
+    "lane": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS",
+    "current_state": "blocked",
+    "authority_level": "test-only",
+    "proof_path": "PROOF_HISTORY/RUNTIME_KERNEL_BLOCKED_CHILD_RECOVERY_DRY_RUN_PROOF_20260518_002256.txt",
+    "ledger_event_ids": [
+      "blocked-parent-event-20260518_002256"
+    ],
+    "open_child_count": 0,
+    "blocked_child_count": 1,
+    "close_condition": "parent cannot close while blocked_child_count is greater than zero",
+    "next_action": "recover blocked child before parent close",
+    "status": "test-only"
+  },
+  {
+    "node_id": "blocked-child-20260518_002256-001",
+    "node_name": "clean-closed-child",
+    "node_type": "proof",
+    "node_path": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS/BLOCKED_CHILD_RECOVERY_DRY_RUN_20260518_002256.json",
+    "parent_id": "blocked-parent-20260518_002256",
+    "child_ids": [],
+    "lane": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS",
+    "current_state": "closed",
+    "authority_level": "test-only",
+    "proof_path": "PROOF_HISTORY/RUNTIME_KERNEL_BLOCKED_CHILD_RECOVERY_DRY_RUN_PROOF_20260518_002256.txt",
+    "ledger_event_ids": [
+      "blocked-child-event-20260518_002256-001"
+    ],
+    "open_child_count": 0,
+    "blocked_child_count": 0,
+    "close_condition": "child closed cleanly",
+    "next_action": "none",
+    "status": "test-only"
+  },
+  {
+    "node_id": "blocked-child-20260518_002256-002",
+    "node_name": "blocked-child",
+    "node_type": "proof",
+    "node_path": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS/BLOCKED_CHILD_RECOVERY_DRY_RUN_20260518_002256.json",
+    "parent_id": "blocked-parent-20260518_002256",
+    "child_ids": [],
+    "lane": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS",
+    "current_state": "blocked",
+    "authority_level": "test-only",
+    "proof_path": "PROOF_HISTORY/RUNTIME_KERNEL_BLOCKED_CHILD_RECOVERY_DRY_RUN_PROOF_20260518_002256.txt",
+    "ledger_event_ids": [
+      "blocked-child-event-20260518_002256-002"
+    ],
+    "open_child_count": 0,
+    "blocked_child_count": 0,
+    "close_condition": "blocked child must recover or remain visibly blocked",
+    "next_action": "route recovery",
+    "status": "test-only-blocked"
+  },
+  {
+    "node_id": "blocked-child-20260518_002256-003",
+    "node_name": "recovered-child",
+    "node_type": "proof",
+    "node_path": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS/BLOCKED_CHILD_RECOVERY_DRY_RUN_20260518_002256.json",
+    "parent_id": "blocked-parent-20260518_002256",
+    "child_ids": [],
+    "lane": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS",
+    "current_state": "closed",
+    "authority_level": "test-only",
+    "proof_path": "PROOF_HISTORY/RUNTIME_KERNEL_BLOCKED_CHILD_RECOVERY_DRY_RUN_PROOF_20260518_002256.txt",
+    "ledger_event_ids": [
+      "blocked-child-event-20260518_002256-003"
+    ],
+    "open_child_count": 0,
+    "blocked_child_count": 0,
+    "close_condition": "blocked child recovered and closed",
+    "next_action": "allow parent close after blocked count clears",
+    "status": "test-only-recovered"
+  }
+]
