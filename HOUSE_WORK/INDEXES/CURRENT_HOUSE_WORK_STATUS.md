@@ -9,7 +9,7 @@ Not authority over: CURRENT_TRUTH_INDEX.txt, ACTIVE_ANCHOR.txt, README.md, AGENT
 
 Current checked position:
 
-main @ b1fc494
+main @ efda78f
 
 Latest sync action:
 
@@ -23,7 +23,7 @@ ACTIVE_ANCHOR.txt
 
 Current active ball after this sync:
 
-Anchor / Current Lane / Next-Move Meaning Sync
+Fog lane closed for current scope. Next work must be chosen fresh from current evidence.
 
 ## Why This Sync Happened
 
@@ -154,3 +154,23 @@ Default method is clarity first: words, labels, maps, signs, matching, receipts,
 Bulldozing is allowed only when the room itself is cramped and that cramped structure is causing fog.
 
 Repeated fog should trigger a search for the missing system: word key, room sign, map, transition, index, overflow lane, authority label, or proof boundary.
+
+## Final Fog Status Sync
+
+Current checked position:
+
+main @ efda78f
+
+Fog lane status:
+
+Closed for current scope.
+
+Current meaning:
+
+- ACTIVE_ANCHOR.txt holds current active ball, next allowed move, and blocked moves.
+- CURRENT_TRUTH_INDEX.txt is orientation/source routing.
+- CURRENT_HOUSE_WORK_STATUS.md is support/index only.
+- Fog clearing is clarity-first.
+- Bulldozing is allowed only when a room is cramped and that cramped structure causes fog.
+- Growth-ready rooms should use words, labels, maps, signs, transitions, overflow lanes, and matching to prevent repeated cleanup churn.
+- Next work must be chosen fresh from current evidence.

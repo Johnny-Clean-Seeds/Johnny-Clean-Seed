@@ -1,0 +1,24 @@
+CURRENT HOUSE WORK STATUS FINAL FOG SYNC RECEIPT
+
+Branch: main
+Head before sync: efda78f
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+Receipt file: PROOF_HISTORY\CURRENT_HOUSE_WORK_STATUS_FOG_FINAL_SYNC_RECEIPT_20260518.txt
+
+Purpose:
+- Remove stale checked-position fog from CURRENT_HOUSE_WORK_STATUS.md.
+- Mark the prior fog active ball as closed for current scope.
+- Preserve ACTIVE_ANCHOR.txt as authority.
+- Preserve CURRENT_HOUSE_WORK_STATUS.md as support/index only.
+
+Checks:
+- Status file points to current pre-sync head: True
+- Old b1fc494 checked-position fog removed: True
+- Old active ball marked closed: True
+- Anchor authority preserved: True
+- Truth index role preserved: True
+- Status support role preserved: True
+- Growth-ready fog rule preserved: True
+
+Verdict:
+PASS - CURRENT_HOUSE_WORK_STATUS final fog sync saved. Stale b1fc494 checked-position fog removed, fog lane is closed for current scope, and authority split remains clear.
