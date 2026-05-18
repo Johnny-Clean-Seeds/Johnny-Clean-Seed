@@ -1,0 +1,19 @@
+MR.KLEEN / LOCAL LABEL AND SAVE GATE RECEIPT
+
+Branch: main
+Head before save: 2d01d90
+Learning file: BRAIN_LEARNING\MR_KLEEN_LOCAL_LABEL_AND_SAVE_GATE_20260518.md
+Proof file: PROOF_HISTORY\MR_KLEEN_LOCAL_LABEL_AND_SAVE_GATE_RECEIPT_20260518.txt
+
+Checks:
+- Defines local as PowerShell execution only: False
+- Defines Mr.Kleen as project save path plus brain/URL continuity: False
+- Requires .git before writing: True
+- Requires commit and push by default: True
+- Includes failure lesson: True
+- Includes power play: True
+
+Verdict:
+FAIL - Missing checks:
+Defines local as PowerShell execution only
+Defines Mr.Kleen as project save path plus brain/URL continuity
