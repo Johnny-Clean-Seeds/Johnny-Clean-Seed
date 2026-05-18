@@ -60,3 +60,11 @@ Each TODO should record:
 - boss/symptom/child/ghost/tool/proof need
 - next action
 - proof needed before save
+
+## Central Control Board
+
+TODO_CONTROL_BOARD_20260518.md is the central support board for the TODO room.
+
+It shows top bosses across the whole house and main bosses per system group.
+
+It is support only, not command authority.

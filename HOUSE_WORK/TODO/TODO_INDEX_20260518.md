@@ -235,3 +235,15 @@ Proof needed before save:
 - selected audit target is not called confirmed
 - no edits/repairs/commits/reordering are authorized by critique alone
 - audit produces map only unless a later command authorizes repair
+
+## TODO Control Board
+
+Central support board:
+
+HOUSE_WORK/TODO/TODO_CONTROL_BOARD_20260518.md
+
+Meaning:
+
+The control board ranks top bosses across the whole house and tracks the main boss for each system group.
+
+It does not authorize repair by itself.

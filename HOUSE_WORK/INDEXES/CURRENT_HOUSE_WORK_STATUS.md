@@ -265,3 +265,15 @@ Each system group should prove its own internal links before broader cross-group
 This supports recursive growth by making each group a clean small system before it becomes part of a larger system.
 
 Link gaps are captured as TODOs or boss candidates, not repaired during audit by default.
+
+## TODO Control Board
+
+Active support board:
+
+HOUSE_WORK/TODO/TODO_CONTROL_BOARD_20260518.md
+
+Meaning:
+
+The TODO room now has a central board for whole-house boss order and main boss per system group.
+
+The board is support only, not command authority.
