@@ -1,0 +1,48 @@
+RUNTIME KERNEL INDEX LOOKUP DRY RUN PROOF
+
+Brain home:
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+
+Starting brain position:
+main @ 6afbc21
+
+Starting status:
+clean
+
+Files:
+HOUSE_WORK\RUNTIME_KERNEL_DRY_RUNS\INDEX_LOOKUP_DRY_RUN_20260518_002718.json
+HOUSE_WORK\RUNTIME_KERNEL_RUNS\RUNTIME_KERNEL_INDEX_LOOKUP_REVIEW_20260518_002718.md
+
+Hashes:
+IndexFile: 921AA1F5FBCD62943858C91C718786CDFD96B817EA7B36751BACF8946E418576
+LookupReview: 9FA0A3D1C1B7D2073A8D3EB45B492A8F426F1F00F4394DEA369B5847BB4A3661
+
+Checks:
+start_position_recorded: True
+start_status_clean: True
+state_machine_exists: True
+ledger_candidate_exists: True
+parent_child_candidate_exists: True
+promotion_gate_exists: True
+index_file_exists: True
+review_file_exists: True
+parent_lookup_works: True
+child_lookup_works: True
+ledger_lookup_works: True
+proof_lookup_works: True
+status_lookup_works: True
+boundary_flags_clean: True
+review_names_remaining_weak_links: True
+verdict_pass_with_hold: True
+next_run_concurrent_write: True
+does_not_create_live_index_map_or_ledger: True
+does_not_build_runtime: True
+does_not_promote: True
+candidate_boundaries_still_clean: True
+
+
+Failed checks:
+
+
+Verdict:
+PASS - Index lookup dry run saved. Lookup by node_id, ledger_event_id, proof_id, and status works. No live index, live map, live ledger, runtime build, or promotion.

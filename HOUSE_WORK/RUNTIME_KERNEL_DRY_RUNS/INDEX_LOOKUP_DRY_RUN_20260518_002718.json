@@ -1,0 +1,63 @@
+{
+  "index_id": "index-lookup-dry-run-20260518_002718",
+  "lane": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS",
+  "status": "test-only",
+  "authority_level": "not-authority",
+  "lookup_tables": {
+    "by_node_id": {
+      "index-parent-20260518_002718": {
+        "type": "parent",
+        "path": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS/INDEX_LOOKUP_DRY_RUN_20260518_002718.json",
+        "state": "active",
+        "proof_path": "PROOF_HISTORY/RUNTIME_KERNEL_INDEX_LOOKUP_DRY_RUN_PROOF_20260518_002718.txt"
+      },
+      "index-child-20260518_002718-001": {
+        "type": "child",
+        "path": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS/INDEX_LOOKUP_DRY_RUN_20260518_002718.json",
+        "state": "closed",
+        "parent_id": "index-parent-20260518_002718",
+        "proof_path": "PROOF_HISTORY/RUNTIME_KERNEL_INDEX_LOOKUP_DRY_RUN_PROOF_20260518_002718.txt"
+      }
+    },
+    "by_ledger_event_id": {
+      "index-ledger-20260518_002718-001": {
+        "type": "ledger_event",
+        "subject_id": "index-child-20260518_002718-001",
+        "event_type": "close",
+        "path": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS/INDEX_LOOKUP_DRY_RUN_20260518_002718.json",
+        "proof_path": "PROOF_HISTORY/RUNTIME_KERNEL_INDEX_LOOKUP_DRY_RUN_PROOF_20260518_002718.txt"
+      }
+    },
+    "by_proof_id": {
+      "index-proof-20260518_002718-001": {
+        "type": "proof",
+        "subject_id": "index-child-20260518_002718-001",
+        "path": "PROOF_HISTORY/RUNTIME_KERNEL_INDEX_LOOKUP_DRY_RUN_PROOF_20260518_002718.txt",
+        "status": "test-only"
+      }
+    },
+    "by_status": {
+      "test-only": [
+        "index-parent-20260518_002718",
+        "index-child-20260518_002718-001",
+        "index-ledger-20260518_002718-001",
+        "index-proof-20260518_002718-001"
+      ],
+      "closed": [
+        "index-child-20260518_002718-001"
+      ],
+      "active": [
+        "index-parent-20260518_002718"
+      ]
+    }
+  },
+  "boundaries": {
+    "not_live_index": true,
+    "not_authority": true,
+    "not_proof": true,
+    "not_runtime_kernel": true,
+    "does_not_create_system": true,
+    "does_not_create_commands": true,
+    "does_not_promote": true
+  }
+}
