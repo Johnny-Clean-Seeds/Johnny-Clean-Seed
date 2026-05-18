@@ -1,0 +1,28 @@
+ANCHOR CURRENT STATE REFRESH RECEIPT
+
+Branch: main
+Head before save: 0793a52
+Anchor file: ACTIVE_ANCHOR.txt
+Anchor SHA256: 7CBA376E3534C6C6511313E76A1014D274ADE857AEAAF2DAB3C48BDF4B6595D4
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Purpose:
+- Refresh ACTIVE_ANCHOR.txt to the current proven placement base.
+- Record that Front Door link, TODO trace gate, Desktop 123 source capture, exact tree map, Room Role Index, and duplicate commit clarification are saved.
+- Avoid selecting a new boss automatically.
+- Preserve blocked moves and source/support boundaries.
+
+Checks:
+- Anchor names current base 0793a52: True
+- Anchor names Front Door linked scope: True
+- Anchor names TODO trace gate: True
+- Anchor names Desktop 123 source ore only: True
+- Anchor names exact tree support map: True
+- Anchor names Room Role Index support map: True
+- Anchor names duplicate commit clarification: True
+- Anchor blocks source ore promotion: True
+- Anchor says no boss auto selected: True
+- Status index updated: True
+
+Verdict:
+PASS - ACTIVE_ANCHOR refreshed to main @ 0793a52 current placement base. No new boss selected automatically.

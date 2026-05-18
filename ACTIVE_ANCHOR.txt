@@ -1,36 +1,55 @@
 ACTIVE BALL:
-Anchor / Current Lane / Next-Move Meaning Sync Follow-Up
+Current State / Placement Base Refresh
 
-RECORDED ANCHOR BASE:
-main @ 3de1f56
-
-LIVE POSITION NOTE:
-This file records the active ball, next allowed move, blocked moves, and anchor history. It does not prove live current commit position after later commits. Use git log and sync proof for live commit position.
+RECORDED CURRENT BASE:
+main @ 0793a52
 
 STATUS:
-FOLLOW-UP REPAIR PASS
+PLACEMENT BASE REFRESH
 
-WHY THIS FOLLOW-UP EXISTS:
-The prior anchor/current-lane sync receipt recorded HEAD at sync as b1fc494.
+WHY THIS REFRESH EXISTS:
+Recent work changed the house placement state.
 
-That was the head before the sync commit, not the final saved commit.
+The Front Door / Authority Group was repaired and link-walked.
 
-The actual saved sync commit was:
+The TODO room received Trace-Gated Boss Control.
 
-3de1f56 Sync anchor current lane state
+Desktop 123 source material was captured and parked as source ore.
 
-This follow-up removes that fog by naming the difference clearly.
+The exact file tree was saved as support map.
 
-RECORDED JUDGMENT:
-The anchor/current-lane sync repair was saved at 3de1f56, then this follow-up was recorded from main @ 3de1f56. This is recorded anchor history, not live current commit position.
+The Room Role Index was saved as support-only placement map.
 
-ACTION STATUS:
-This is a wording/receipt clarity repair only.
+Duplicate Room Role Index commit-message noise was clarified without rewriting public history.
+
+CURRENT JUDGMENT:
+Mr.Kleen has a cleaner placement base.
+
+The house now has stronger entry routing, source parking, TODO intake control, room-role meaning, and commit-history clarification.
+
+CURRENT PROVEN BASE:
+main @ 0793a52
+
+CURRENT PROVEN ITEMS:
+- Front Door / Authority Group is linked for this scope.
+- README.md routes to CURRENT_TRUTH_INDEX.txt first and ACTIVE_ANCHOR.txt second when present.
+- ACTIVE_ANCHOR.txt uses recorded-base wording and does not claim live commit truth without git/sync proof.
+- TODO Trace-Gated Boss Control is installed.
+- Desktop 123 source material is captured as source ore only.
+- Exact Mr.Kleen file tree is saved as support map only.
+- Room Role Index is saved as support-only placement map.
+- Duplicate Room Role Index commit-message noise is clarified; final valid Room Role Index save from that sequence is main @ 1ae3113.
+- Current head after clarification is main @ 0793a52.
 
 NEXT ALLOWED MOVE:
-Review this follow-up receipt and confirm final clean status.
+Choose the next boss from current placement need.
 
-After this is clean, choose the next repair from current evidence only.
+Recommended candidate stack:
+1. Script/tool index if root scripts create tool fog.
+2. Source-ore split for Desktop 123 material if source retrieval becomes heavy.
+3. Further system group link walk only when a specific group is selected.
+
+No new boss is automatically selected by this anchor refresh.
 
 BLOCKED MOVES:
 Do not start runtime build.
@@ -39,13 +58,22 @@ Do not create live runtime files.
 Do not build status-command runtime work.
 Do not compress doctrine.
 Do not restructure PROOF_HISTORY.
-Do not touch bridge hardening.
+Do not rewrite public Git history.
 Do not treat source ore as command.
-Do not treat critique notes as action authorization.
-Do not reopen Main Boss 01 unless Anchor Sync Check fails or new state-boundary evidence appears.
+Do not promote Desktop 123 material.
+Do not split source ore unless selected.
+Do not run root scripts unless selected by current task and proof need.
+Do not move, delete, or cleanup files from this refresh.
+Do not rewrite active guides from this refresh.
+Do not treat TODO, SYSTEM_LINKS, room-role index, file-tree map, or proof receipts as command authority.
 
 AUTHORITY NOTE:
 ACTIVE_ANCHOR.txt holds the current active ball, next allowed move, and blocked moves.
 
-Critique/source-ore files are judgment support only.
+Support maps explain placement.
 
+Source ore parks material.
+
+Proof receipts prove named scopes.
+
+Current user command may select the next boss.

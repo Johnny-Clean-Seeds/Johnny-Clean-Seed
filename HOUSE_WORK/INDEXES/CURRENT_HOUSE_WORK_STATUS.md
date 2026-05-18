@@ -356,3 +356,21 @@ main @ 1ae3113
 Receipt:
 
 PROOF_HISTORY/ROOM_ROLE_INDEX_DUPLICATE_COMMIT_CLARIFICATION_RECEIPT_20260518.txt
+
+## Anchor Current State Refresh
+
+Status:
+
+SAVED
+
+Current proven base:
+
+main @ 0793a52
+
+Meaning:
+
+The anchor now names the current placement base after Front Door link repair, TODO trace gate install, Desktop 123 source capture, exact file tree save, Room Role Index save, and duplicate commit clarification.
+
+No new boss is automatically selected.
+
+Next work must be selected by current user command or ACTIVE_ANCHOR.txt.
