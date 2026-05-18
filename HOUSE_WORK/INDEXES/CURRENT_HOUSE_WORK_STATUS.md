@@ -729,3 +729,29 @@ Strengthen risky command blocks with a split proof/save phase rule or helper.
 Receipt:
 
 PROOF_HISTORY/ANCHOR_AFTER_WORK_SHED_LIVE_USE_AND_STOP_TOOL_RULE_RECEIPT_20260518.txt
+
+## Anchor Work Shed Live Use Stop-Tool Duplicate Commit Clarification
+
+Status:
+
+CLARIFIED
+
+Meaning:
+
+Two nearby commits used the same message, `Refresh anchor after Work Shed live use and stop tool rule`.
+
+Do not rewrite public Git history.
+
+Treat the earlier same-message commit as historical noise.
+
+Final active anchor refresh from this sequence:
+
+main @ 4f8fc2a
+
+Receipt:
+
+PROOF_HISTORY/ANCHOR_WORK_SHED_LIVE_USE_STOP_TOOL_DUPLICATE_COMMIT_CLARIFICATION_RECEIPT_20260518.txt
+
+Next repair pressure:
+
+Strengthen the Failed Proof Commit Guard into a split proof/save flow so failed-proof or duplicate-run mistakes are less likely.
