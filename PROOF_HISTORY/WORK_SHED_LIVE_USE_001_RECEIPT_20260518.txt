@@ -1,0 +1,41 @@
+WORK SHED LIVE USE 001 RECEIPT
+
+Branch: main
+Head before save: 877f4ef
+
+Purpose:
+- Use the Work Shed on a real issue.
+- Capture proof-failed-but-commit-happened pattern.
+- Sort the issue and create Failed Proof Commit Guard helper.
+- Keep helper support-only on the front shelf.
+
+Files created:
+- HOUSE_WORK\WORK_SHED\INBOX\LIVE_USE_001_PROOF_FAILED_BUT_COMMIT_HAPPENED_RAW_20260518.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\LIVE_USE_001_PROOF_FAILED_BUT_COMMIT_HAPPENED_SORTING_20260518.md
+- HOUSE_WORK\WORK_SHED\IDEA_CARDS\LIVE_USE_001_FAILED_PROOF_COMMIT_GUARD_CARD_20260518.md
+- HOUSE_WORK\WORK_SHED\FRONT_SHELF\FAILED_PROOF_COMMIT_GUARD_FRONT_SHELF_20260518.md
+- HOUSE_WORK\WORK_SHED\INDEXES\WORK_SHED_LIVE_USE_001_INDEX_20260518.md
+
+Blocked / not done:
+- No doctrine installed.
+- No source promoted.
+- No active authority changed.
+- No runtime work.
+- No cleanup.
+- No tool run.
+
+Checks:
+- Raw inbox capture exists: True
+- Sorting bench file exists: True
+- Idea card exists: True
+- Front shelf helper exists: True
+- Live-use index exists: True
+- Raw issue captured: True
+- Sorting groups present: True
+- Idea card names guard: True
+- Front shelf boundary present: True
+- Index says nothing promoted: True
+- Status index updated: True
+
+Verdict:
+PASS - Work Shed live-use pass succeeded. Failed Proof Commit Guard is captured, sorted, carded, and front-shelved as support-only helper.

@@ -665,3 +665,23 @@ No Work Shed material commands, promotes, or becomes doctrine by being in the Wo
 Receipt:
 
 PROOF_HISTORY/ANCHOR_AFTER_WORK_SHED_OPERATING_INDEX_REPAIR_RECEIPT_20260518.txt
+
+## Work Shed Live Use 001
+
+Status:
+
+SAVED
+
+Meaning:
+
+The Work Shed handled a real issue: proof failed but commit/push still happened.
+
+The issue was captured in INBOX, sorted on SORTING_BENCH, turned into an IDEA_CARD, and placed on FRONT_SHELF as the Failed Proof Commit Guard helper.
+
+No material was promoted.
+
+No doctrine was installed.
+
+Receipt:
+
+PROOF_HISTORY/WORK_SHED_LIVE_USE_001_RECEIPT_20260518.txt
