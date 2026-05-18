@@ -1,0 +1,23 @@
+LIFECYCLE STATE CLARIFIER WEAR TEST RECEIPT
+
+Branch: main
+Head before wear test: 78a6bf9
+Wear test file: HOUSE_WORK\SUIT_SYSTEM\LIFECYCLE_STATE_CLARIFIER_WEAR_TEST_20260518.md
+Receipt file: PROOF_HISTORY\LIFECYCLE_STATE_CLARIFIER_WEAR_TEST_RECEIPT_20260518.txt
+
+Purpose:
+- Test lifecycle clarifier against real files.
+- Prove it separates saved, installed, worn, promoted, gate/support, and review/support.
+- Avoid promotion after only one wear test.
+- Keep runtime build, /system, live runtime files, and status-command runtime work blocked.
+
+Checks:
+- Marks test as wear test: True
+- Says clarifier works: True
+- Separates installed from worn: True
+- Separates worn from promoted: True
+- Does not promote yet: True
+- Blocks runtime build: True
+
+Verdict:
+PASS - Lifecycle clarifier wear test passed. Clarifier is useful and can be worn, but should not be promoted yet.
