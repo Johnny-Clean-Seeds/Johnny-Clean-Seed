@@ -949,3 +949,29 @@ Anchor may trail safely if final response states current commit, saved files, an
 Receipt:
 
 PROOF_HISTORY/CONTEXT_WEIGHT_AND_ABUNDANCE_PLACEMENT_PROOF_PHASE_RECEIPT_20260518.txt
+
+## Next-Move Evaluation and Assistant Home Authority Rule
+
+Status:
+
+PROOF PHASE PASSED - SAVE PHASE NEEDED
+
+Meaning:
+
+A next-move certainty, ghost-boss, issue-evaluation, full-cluster capture, bounded assistant autonomy, assistant home-shaping, outside-pattern, never-toss, and clean-housekeeping rule was drafted.
+
+The rule requires confidence/evidence before proposing a next boss when certainty is not obvious.
+
+It gives the assistant bounded room to judge, capture, route, organize, and improve Mr.Kleen when the action follows the model.
+
+It blocks tossing ideas by default and requires parking, archiving, sourcing, carding, or rejected-with-reason placement.
+
+Sync decision:
+
+STATUS_ENOUGH_FOR_SUPPORT_RULE_SAVE.
+
+Anchor may trail safely if final response states current commit, saved files, and clean status.
+
+Receipt:
+
+PROOF_HISTORY/NEXT_MOVE_EVALUATION_AND_ASSISTANT_HOME_AUTHORITY_PROOF_PHASE_RECEIPT_20260518.txt
