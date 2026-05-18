@@ -1,0 +1,113 @@
+REAL_LOCK_SAVE_NOT_CHAT_RULE_001
+Status: ACTIVE SUPPORT NOTE / LOCK SAVE REAL APPLICATION RULE
+Authority: Not active doctrine.
+Home: PUBLIC_NOTES
+Date: 2026-05-17
+
+PURPOSE
+
+This note fixes the lock/save leak.
+
+Lock and save must mean a real applied save.
+
+It must not mean the assistant said something in chat and moved on.
+
+CORE RULE
+
+Lock/save is never chat-only by default.
+
+For Clean Seed / Clean Milk work, meaningful save means dual lock/save unless an exception is explicitly named.
+
+Dual lock/save means:
+
+1. Brain save for future assistant behavior.
+2. Local repo-home save in the correct lane.
+3. Proof check.
+4. git add.
+5. commit.
+6. push.
+7. final clean status.
+
+CHAT IS NOT LOCK/SAVE
+
+A chat explanation is not a lock.
+
+A chat promise is not a save.
+
+A chat summary is not proof.
+
+A chat claim that something is saved is not enough.
+
+If the idea affects the project, it must be applied to the home or explicitly marked as an exception.
+
+DEFAULT SAVE RULE
+
+Default save means:
+
+- brain and local,
+- applied and proved,
+- committed and pushed when repo-home relevant,
+- clean status verified.
+
+EXPLICIT EXCEPTIONS
+
+Only these exceptions stop dual lock/save:
+
+- local-only
+- brain-only
+- chat-only draft
+- proof-only
+- no repo change
+- do not commit
+
+If no exception is named, use dual lock/save.
+
+RIGHT VS SAVED
+
+Saved means placed.
+
+Right means proved against the leak.
+
+Do not call a rule right just because it was saved.
+
+A rule becomes right only when evidence shows it fixes the leak it was meant to fix without violating the existing model flow.
+
+ASSISTANT DUTY
+
+When the user says lock and save, the assistant must not answer with only reassurance.
+
+The assistant must:
+
+1. save future behavior to brain,
+2. place or update the local home artifact,
+3. prove required text or behavior,
+4. commit and push if repo-home relevant,
+5. show final clean status.
+
+If the assistant cannot complete a part, it must say which part remains open.
+
+MODEL FIT
+
+This rule supports:
+
+- progress lock,
+- word-key precision,
+- assistant suit behavior,
+- Mr.Kleen local entry,
+- paste-safe gate shape,
+- note processing and parking,
+- proof before right.
+
+CLOSE RULE
+
+This note must not outrank CURRENT_TRUTH_INDEX.txt.
+
+This note must not outrank ACTIVE_GUIDES.
+
+It is a support note that protects real lock/save behavior.
+
+Keep it visible while useful.
+
+When stale, move or archive through a proper review gate.
+
+Do not delete it.
