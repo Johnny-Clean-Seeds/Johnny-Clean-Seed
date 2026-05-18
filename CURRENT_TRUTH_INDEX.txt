@@ -1,4 +1,9 @@
 ACTIVE ANCHOR AUTHORITY SPLIT:
+CURRENT TRUTH FOG LABEL:
+ACTIVE_ANCHOR.txt is the current active-ball and next-move authority when present.
+Any later phrase inside this file such as "Next clean action," "Next return anchor," "Next move chosen," "Current patch ID," or old installed-update language is historical unless restated by ACTIVE_ANCHOR.txt or the current user command.
+Do not treat older action-looking text in this index as a live command.
+Use this file for orientation and source routing, not as a hidden work queue.
 CURRENT_TRUTH_INDEX orients the house and source routing.
 ACTIVE_ANCHOR.txt holds the current active ball, next allowed move, and blocked moves when present.
 Older next-return anchors, installed-update notes, and historical patch directions inside this index are history unless restated by the current user command or ACTIVE_ANCHOR.txt.
@@ -155,5 +160,6 @@ Core routes:
 2. SOURCE-ORE -> CHILD-GOLD SWEEP -> LINEAGE CHECK -> DIGEST -> RACK/PALLET/REFERENCE/QUARANTINE -> INSTALL ONLY IF APPROVED.
 Boundary: shed/notes/proof-history content is source-ore unless deliberately installed; no cleanup, delete, move, rename, overwrite, or broad import is authorized by this install.
 README unchanged. AGENTS.md unchanged.
+
 
 

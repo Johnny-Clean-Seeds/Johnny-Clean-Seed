@@ -1,0 +1,22 @@
+CURRENT TRUTH INDEX FOG LABEL RECEIPT
+
+Branch: main
+Head before fog patch: ab9d524
+Truth file: CURRENT_TRUTH_INDEX.txt
+Receipt file: PROOF_HISTORY\CURRENT_TRUTH_INDEX_FOG_LABEL_RECEIPT_20260518.txt
+
+Purpose:
+- Clean fog in CURRENT_TRUTH_INDEX.txt without rewriting the whole file.
+- Prevent old next-action, next-return-anchor, next-move-chosen, patch, or installed-update language from being read as current command.
+- Keep ACTIVE_ANCHOR.txt as the current active-ball and next-move authority.
+- Keep this as a label patch only, not doctrine compression or proof-history restructuring.
+
+Checks:
+- Adds fog label: True
+- Keeps anchor as next-move authority: True
+- Marks later next phrases as historical: True
+- Blocks hidden work queue reading: True
+- Keeps index as orientation: True
+
+Verdict:
+PASS - CURRENT_TRUTH_INDEX fog label added. Old action-looking text is clearly historical unless restated by ACTIVE_ANCHOR.txt or current user command.
