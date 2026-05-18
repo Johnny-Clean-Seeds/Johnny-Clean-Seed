@@ -1,0 +1,27 @@
+FOG CLEARING GROWTH-READY ROOM RULE RECEIPT
+
+Branch: main
+Head before save: ce862ba
+Rule file: BRAIN_LEARNING\FOG_CLEARING_GROWTH_READY_ROOM_RULE_20260518.md
+Prior fog rule: BRAIN_LEARNING\FOG_CLEARING_IS_CLARITY_NOT_BULLDOZING_20260518.md
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+Receipt file: PROOF_HISTORY\FOG_CLEARING_GROWTH_READY_ROOM_RULE_RECEIPT_20260518.txt
+
+Purpose:
+- Save the refinement that fog clearing should be growth-ready.
+- Prevent repeated word-moving and cleanup churn.
+- Allow bulldozing only when room structure itself is cramped and causing fog.
+- Keep default fog clearing focused on words, labels, maps, signs, matching, and clean transitions.
+
+Checks:
+- Says fog clearing should not become endless word-moving: True
+- Uses clarity first: True
+- Limits bulldozing to cramped rooms causing fog: True
+- Requires growth-ready setup: True
+- Defines word growth rule: True
+- Defines transition rule: True
+- Defines anti-churn rule: True
+- Status index updated: True
+
+Verdict:
+PASS - Growth-ready fog rule saved. Fog clearing stays clarity-first, bulldozing is limited to cramped rooms causing fog, and repeated fog now points to missing word/room/map/transition/index systems.

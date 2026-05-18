@@ -138,3 +138,19 @@ Fog is a valid blocker when it affects assistant entry, routing, authority, proo
 Clear fog with clearer words, labels, room maps, role signs, receipt clarification, pointer checks, and narrow sync repairs.
 
 Do not use fog cleanup as permission for deletion, broad folder moves, doctrine compression, proof-history restructuring, bridge/runtime edits, or new competing authority files.
+
+## Fog Clearing Growth-Ready Room Rule
+
+Active learning rule:
+
+BRAIN_LEARNING/FOG_CLEARING_GROWTH_READY_ROOM_RULE_20260518.md
+
+Meaning:
+
+Fog clearing should make the house growth-ready.
+
+Default method is clarity first: words, labels, maps, signs, matching, receipts, narrow syncs, and transition notes.
+
+Bulldozing is allowed only when the room itself is cramped and that cramped structure is causing fog.
+
+Repeated fog should trigger a search for the missing system: word key, room sign, map, transition, index, overflow lane, authority label, or proof boundary.
