@@ -1,0 +1,320 @@
+TITLE: Main Boss 02 Full File Review Notes
+
+DATE:
+2026-05-18
+
+PURPOSE:
+Capture a fuller file-by-file read from the Main Boss 02 dry inspection.
+This note lists the files that could use changes, where the seams are, how they could be repaired, and why.
+It also records the files that were read but should not be changed yet from this boss.
+
+SCOPE BOUNDARY:
+- This is review only.
+- This is not a lifecycle install.
+- This is not a runtime lane build.
+- This does not reopen Main Boss 01 beyond anchor watch items.
+
+FILES MOST LIKELY TO NEED CHANGES
+
+1. FILE:
+ACTIVE_ANCHOR.txt
+
+WHERE:
+- line 4 current position
+
+CURRENT SEAM:
+- The file still says current position is `main @ 3aadc85`.
+- During the dry inspection the real repo HEAD was `main @ ee2f4e4`.
+
+HOW TO FIX:
+- Refresh only the current-position line after the next approved anchor/state save.
+- Do not rewrite the active ball or blocked moves unless the boss state changes too.
+
+WHY:
+- The active ball and next move are still correct, so this did not block Boss 02.
+- But a stale commit pointer weakens Anchor Sync and can later confuse handoffs.
+
+RECOMMENDATION:
+- Small later fix.
+- Not a lifecycle rule fix.
+
+2. FILE:
+BRAIN/SUIT/SOFT_SUIT.md
+
+WHERE:
+- lines 67-74 status labels
+- lines 78-83 exit paths
+
+CURRENT SEAM:
+- Soft Suit names `candidate`, `testing`, `failed-fit`, and promotion/parking exits.
+- It does not name `installed`, `worn`, or `rolled-back`.
+- `failed-fit` is also a rejection word that may overlap with other rejection lanes elsewhere.
+
+HOW TO FIX:
+- If Main Boss 02 continues, add or cross-link only the downstream state meaning that Soft Suit hands off to.
+- Do not enlarge Soft Suit into a full universal state map.
+- Possible fix shape:
+  say that Soft Suit exits into a downstream lifecycle clarifier rather than forcing Soft Suit itself to own every later state.
+
+WHY:
+- Soft Suit clearly covers `candidate -> testing`.
+- It is one of the main places where the lifecycle chain currently stops being explicit.
+
+RECOMMENDATION:
+- Likely needs a change or companion clarifier later.
+
+3. FILE:
+BRAIN/SUIT/HARD_SUIT.md
+
+WHERE:
+- lines 7, 31, 33 promotion language
+- lines 19-23 and 72-101 support-link vs active-pack language
+- line 87 `Linked is not worn`
+
+CURRENT SEAM:
+- Hard Suit says promoted items become active pack items.
+- It also strongly distinguishes linked/support from worn load.
+- But it does not define whether `promoted` is the same moment as `worn`, or whether wear is a later operating state.
+- It also does not name a first-class `rolled-back` lifecycle state.
+
+HOW TO FIX:
+- Keep the support-link distinction.
+- Add a narrow downstream lifecycle clarification or cross-reference so Hard Suit does not carry the ambiguity alone.
+- If changed directly later, define whether:
+  promoted -> worn
+  or promoted means already worn active load
+
+WHY:
+- This file is one of the central collision points for `promoted` and `worn`.
+- Any lifecycle install that ignores Hard Suit will likely drift.
+
+RECOMMENDATION:
+- High-priority neighbor for any future lifecycle patch.
+
+4. FILE:
+BRAIN/SUIT/HARD_SUIT_SLOT_DISTINCTION_CLARIFIER.md
+
+WHERE:
+- lines 22-23 promoted/worn meaning
+- lines 36-37 state-machine fit
+- lines 80-88 promotion rule
+- lines 92-102 moved-out path
+
+CURRENT SEAM:
+- The file says an active pack slot is:
+  promoted through a clear gate
+  currently worn as operating load
+- That is strong and useful.
+- But it collapses promotion and worn load very tightly, while other files leave promotion broader.
+- The moved-out path says items may become archived, parked, or support links, but does not name `rolled-back` as a lifecycle state.
+
+HOW TO FIX:
+- Preserve the support-link guardrail.
+- Clarify whether this file is defining:
+  final worn Hard Suit semantics only
+  or the full lifecycle meaning of promoted items everywhere
+- If the latter is too broad, narrow it.
+- If the former is intended, say so plainly.
+
+WHY:
+- This file contains the clearest `worn` language we found.
+- It is also one of the files most likely to collide with a future lifecycle rule if its scope is left implicit.
+
+RECOMMENDATION:
+- Needs either scope narrowing or an explicit downstream lifecycle tie-in.
+
+5. FILE:
+BRAIN/SUIT/UNIVERSAL_STATE_MACHINE_SOFT_TEST.md
+
+WHERE:
+- lines 40-50 candidate state set
+- lines 89-104 allowed movement
+- lines 108-122 forbidden movement
+
+CURRENT SEAM:
+- This candidate state machine has:
+  captured, classified, routed, active, blocked, parked, proof-needed, judged, promoted, closed, archived
+- It does not include:
+  installed
+  worn
+  rolled-back
+- It uses `promoted` as a broad stronger-placement state, which may conflict with Hard Suit-specific promotion/wear language.
+
+HOW TO FIX:
+- Do not automatically add every missing lifecycle word here.
+- First decide whether this file is the right parent for the lifecycle seam.
+- If yes, extend only the downstream section carefully.
+- If no, leave it alone and create a narrower companion clarifier.
+
+WHY:
+- This file is the most obvious place to try to solve the whole lifecycle in one shot.
+- That also makes it the easiest place to overbuild or accidentally broaden the boss.
+
+RECOMMENDATION:
+- Needs a design decision before editing.
+- Treat as high-risk for overscope.
+
+6. FILE:
+BRAIN/LEARNING/LONG_IDEA_INTAKE_AND_SAFE_ROUTING_LEARNING_RULE.md
+
+WHERE:
+- lines 52-64 status labels
+- line 64 `rejected-for-now`
+- lines 82-88 adoption rule
+
+CURRENT SEAM:
+- This file is strong for early intake.
+- But it introduces rejection wording (`rejected-for-now`) and adoption wording (`adopted-for-test`) that do not line up cleanly with Soft Suit `failed-fit` or active-guide `rejected dirty milk`.
+
+HOW TO FIX:
+- Later, either:
+  define these as intentionally different jobs
+  or align them with one shared rejection/testing vocabulary table
+- Keep the intake behavior itself.
+
+WHY:
+- Candidate intake is already clear here.
+- The only real problem is vocabulary drift once the idea leaves intake and moves deeper into lifecycle states.
+
+RECOMMENDATION:
+- Medium-priority cleanup after the downstream seam is solved.
+
+7. FILE:
+ACTIVE_GUIDES/CLEAN_SEED_ALIGNMENT_CHECK.txt
+
+WHERE:
+- line 202 held-but-not-installed check
+- lines 2076-2089 Rest Stop / No Active Truth check
+- lines 5236-5238 candidate tested before adoption / candidate installed by excitement
+- lines 5259-5269 wear-the-fix note and `Proof exists before the fix is worn`
+
+CURRENT SEAM:
+- This file has strong guardrails for:
+  candidate
+  installed
+  proof before wear
+  parked
+  promoted
+- But it does not yet give one compact downstream lifecycle check that explicitly joins:
+  testing -> installed -> worn -> promoted/rolled-back
+
+HOW TO FIX:
+- If a lifecycle rule is installed later, this file will need the matching check closure.
+- Smallest likely change:
+  add one bounded lifecycle downstream check rather than scattering more word seams across many sections.
+
+WHY:
+- The alignment file already knows enough to judge the lifecycle seam.
+- It just does not yet close that seam as one named movement path.
+
+RECOMMENDATION:
+- High-priority partner if the lifecycle rule is installed later.
+
+8. FILE:
+ACTIVE_GUIDES/CLEAN_SEED_WRAP_GUIDE.txt
+
+WHERE:
+- line 297 installed overclaim warning
+- lines 4422-4452 parked idea activation / promotion passport area
+- lines 4623-4632 rule impact/touch map after install
+- line 5565 idea captured before installed
+
+CURRENT SEAM:
+- Wrap Guide strongly guards against false install and false activation.
+- It already has parked-to-active promotion language.
+- But it does not yet provide one compact operating route for the lifecycle seam Boss 02 is trying to prove.
+
+HOW TO FIX:
+- If lifecycle wording is installed later, add only the smallest operating route needed.
+- Do not bloat this file with a giant universal state taxonomy.
+
+WHY:
+- This file controls assistant behavior.
+- If downstream lifecycle language is installed anywhere operational, this file is one of the required partners.
+
+RECOMMENDATION:
+- Change only if a lifecycle install is approved.
+
+FILES READ THAT PROBABLY SHOULD NOT CHANGE YET
+
+1. FILE:
+BRAIN_LEARNING/CLEAN_SEED_ANCHOR_SYNC_CHECK_20260518.md
+
+WHY NOT YET:
+- The check itself is good.
+- The state seam was in the anchor value, not in the check definition.
+
+2. FILE:
+CURRENT_TRUTH_INDEX.txt
+
+WHY NOT YET:
+- For this boss it worked as orientation, not as active-ball authority.
+- No lifecycle seam proved here that demands an edit.
+
+3. FILE:
+BRAIN/LEARNING/NEXT_RUN_PRESSURE_RELEASE_LEARNING_RULE.md
+
+WHY NOT YET:
+- The parked/not-rejected distinction is useful and clean.
+- It is not the source of the downstream lifecycle collision.
+
+4. FILE:
+ACTIVE_GUIDES/README_START_HERE.txt
+
+WHY NOT YET:
+- README already gives broad status-word discipline.
+- The lifecycle problem is narrower and lower-level than the README should probably carry.
+
+5. FILE:
+DECISION_NOTES/ADOPT_GATE_ACTIVE_ANCHOR_SYSTEM_DECISION_20260517_220141.txt
+
+WHY NOT YET:
+- Useful as evidence for candidate/adopt/park/reject flow.
+- Not the right place to solve downstream lifecycle state meaning.
+
+6. FILE:
+HANDOFFS/MULE_MAIN_BOSS_02_LIFECYCLE_DRY_INSPECTION_HANDOFF_20260518.md
+
+WHY NOT YET:
+- The handoff did its job.
+- It surfaced the boss cleanly.
+- No edit needed from this review.
+
+7. FILE:
+PROOF_HISTORY/MAIN_BOSS_01_ANCHOR_TRUTH_ALIGNMENT_CLOSE_RECEIPT_20260518.txt
+
+WHY NOT YET:
+- Receipt was used as checkpoint evidence only.
+- No lifecycle edit belongs here.
+
+FULL REVIEW CONCLUSION
+
+MOST IMPORTANT CHANGE GROUP:
+1. `BRAIN/SUIT/SOFT_SUIT.md`
+2. `BRAIN/SUIT/HARD_SUIT.md`
+3. `BRAIN/SUIT/HARD_SUIT_SLOT_DISTINCTION_CLARIFIER.md`
+4. `BRAIN/SUIT/UNIVERSAL_STATE_MACHINE_SOFT_TEST.md`
+5. `ACTIVE_GUIDES/CLEAN_SEED_ALIGNMENT_CHECK.txt`
+6. `ACTIVE_GUIDES/CLEAN_SEED_WRAP_GUIDE.txt`
+
+WHY THIS GROUP:
+- These files collectively own the downstream movement seam.
+- No single file by itself can safely absorb the whole fix without neighbor drift.
+
+SMALLEST SAFE FIX ORDER LATER:
+1. Decide installed vs worn meaning.
+2. Decide whether promotion comes before wear or names worn active load itself.
+3. Decide the exact rolled-back exit state.
+4. Only then patch the smallest parent/partner pair instead of editing the whole stack.
+
+PARKED EXTRA REVIEW ITEMS:
+1. Align rejection vocabulary:
+   `failed-fit`
+   `rejected-for-now`
+   `rejected dirty milk`
+2. Refresh `ACTIVE_ANCHOR.txt` current-position commit pointer.
+3. Decide whether the universal state machine file is the right parent or a tempting overscope trap.
+
+STATUS:
+Full review notes parked.
+No install performed from this note.

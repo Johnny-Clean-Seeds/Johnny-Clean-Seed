@@ -1,0 +1,1048 @@
+TITLE: Main Boss 02 Complete Thorough Review
+
+DATE:
+2026-05-18
+
+STATUS:
+Review only.
+No lifecycle install performed from this note.
+
+SUPERCEDES:
+- MAIN_BOSS_02_FOLLOWUP_REVIEW_NOTES_20260518.txt
+- MAIN_BOSS_02_FULL_FILE_REVIEW_NOTES_20260518.txt
+- MAIN_BOSS_02_EXPANDED_FILE_REVIEW_NOTES_20260518.txt
+
+PURPOSE:
+Give a full critical review of the Main Boss 02 ecosystem.
+Judge the current model honestly.
+State what is strong, what is weak, where the lifecycle seam really is, and which direction the house should go next.
+
+REVIEW METHOD:
+- Read active-anchor / orientation files.
+- Read suit files.
+- Read learning and helper files.
+- Read runtime-neighbor files.
+- Read supporting public notes that kept surfacing in the seam.
+- Judge by authority clarity, lifecycle clarity, proof discipline, neighbor safety, and risk of drift/bloat.
+
+==================================================
+OVERALL JUDGMENT
+==================================================
+
+MODEL VERDICT:
+`PROMISING BUT NOT YET COHERENT AS ONE LIFECYCLE`
+
+SHORT JUDGMENT:
+The house is already strong at boundaries, proof warnings, parking, and anti-promotion discipline.
+The house is not yet strong at one shared downstream lifecycle for a tested item.
+
+The model knows many good truths:
+- candidate is not doctrine
+- parked is not rejected
+- linked is not worn
+- proof is required before wear/promotion/live build
+- runtime and command surfaces stay blocked until explicit gates pass
+
+But the model does not yet know one single clean answer to this:
+
+When a thing is tested and seems good, what exact state does it move into next, and what do those downstream state words mean relative to each other?
+
+Specifically:
+- Is `installed` already `worn`?
+- Is `promoted` the gate into wear?
+- Is `worn` only a Hard Suit term?
+- Is `rolled-back` a real lifecycle state or only a generic safety idea?
+
+This is the real leak.
+
+CRITICAL MODEL JUDGMENT:
+
+The house is currently better at:
+- preventing bad movement
+- separating authority
+- slowing down unsafe promotion
+- preserving proof/history distinctions
+
+than it is at:
+- defining one compact legal downstream lifecycle
+- keeping status words non-overlapping
+- deciding which file actually owns downstream state meaning
+
+That means the model is safer than average, but also more semantically crowded than it should be.
+
+The current model is not dumb.
+The current model is overloaded.
+
+Its intelligence is ahead of its state grammar.
+
+==================================================
+DIRECTION CALL
+==================================================
+
+PRIMARY DIRECTION:
+Do not solve this by adding a giant universal system.
+
+Solve it by repairing the smallest downstream state seam:
+
+`testing -> installed -> worn -> promoted/rolled-back`
+
+WHY THIS IS THE RIGHT DIRECTION:
+
+1. The upstream side is already mostly clean.
+   Candidate, testing, parked, source-ore, support-link, proof-needed, and anti-promotion warnings already exist in many places.
+
+2. The dangerous ambiguity is downstream.
+   That is where status words start changing authority.
+
+3. Runtime/kernel lanes are ahead of the core lifecycle.
+   The runtime files are building excellent gates for future command/build/live work, but the house has not yet fully decided what a non-runtime item’s downstream lifecycle even is.
+
+4. If the downstream seam stays fuzzy, every future promotion/build/live gate inherits fuzzy status language.
+
+5. If the downstream seam gets clean first, later runtime gates become easier to trust and easier to keep narrow.
+
+SECONDARY DIRECTION:
+Choose one authority zone for downstream lifecycle meaning.
+
+My judgment:
+- The best primary lane for the lifecycle seam is the suit stack plus matching active-guide partner checks.
+- The runtime kernel stack should not be the parent owner of this seam yet.
+- The public notes should remain support/origin signals, not leaders.
+
+Why:
+- Soft Suit and Hard Suit already carry the actual tested-item movement.
+- Active guides already guard the trust words.
+- Runtime files are more specialized and more dangerous to overgeneralize from.
+
+THIRD DIRECTION:
+Do not try to unify every word at once.
+
+Fix order should be:
+
+1. define `installed`
+2. define `worn`
+3. place `promoted` relative to those
+4. define `rolled-back`
+5. then clean up rejection vocabulary
+
+Why:
+- Right now rejection is noisy, but the bigger authority collision is downstream success-state meaning.
+
+==================================================
+MODEL STRENGTHS
+==================================================
+
+1. Strong anti-authority-drift discipline
+- The house repeatedly refuses to let support files, source-ore, proof-history, or linked support become active truth by existence.
+
+2. Strong proof-before-promotion instinct
+- Many files say versions of:
+  useful is not proven
+  linked is not worn
+  dry-run success is not live
+  a passed proposal is not a command
+
+3. Strong blocked-move architecture
+- The runtime files are unusually disciplined about:
+  no /system by implication
+  no command creation from convenience
+  no live build from dry-run success
+
+4. Strong parking and preservation logic
+- Parked is repeatedly protected from deletion, false activation, and false rejection.
+
+5. Strong neighbor awareness
+- Many files understand that the real risk is not only “is this good?” but “does this damage adjacent lanes?”
+
+==================================================
+MODEL WEAKNESSES
+==================================================
+
+1. Overloaded state words
+- `promoted`, `installed`, `worn`, `active`, `support link`, and `adopted-for-test` are not cleanly nested.
+
+2. Too many semantically adjacent rejection words
+- `failed-fit`
+- `rejected-for-now`
+- `rejected dirty milk`
+- `moved out as not needed`
+- `parked`
+- `blocked`
+These are not always clearly separated by job.
+
+3. Runtime structure is cleaner than base lifecycle grammar
+- The house has strong future command/build/live gates before it has a crisp compact answer for the suit lifecycle seam.
+
+4. Public support notes contain powerful ideas but high drift risk
+- Several public notes are brilliant pattern sources.
+- They are also broad, metaphor-heavy, and capable of outranking the core if absorbed loosely.
+
+5. Anchor freshness is still slightly brittle
+- The active ball is right.
+- The commit pointer lag proves the state surface can still go stale without collapsing the whole house.
+
+==================================================
+FILE-BY-FILE REVIEW
+==================================================
+
+--------------------------------------------------
+PRIMARY AUTHORITY / ORIENTATION FILES
+--------------------------------------------------
+
+FILE:
+ACTIVE_ANCHOR.txt
+
+JUDGMENT:
+`KEEP, BUT PATCH LATER`
+
+GOOD:
+- Active ball is correct.
+- Next allowed move is correct.
+- Blocked moves are explicit and aligned with the handoff.
+
+PROBLEM:
+- Current-position commit pointer is stale.
+
+WHY IT MATTERS:
+- It weakens handoff trust and Anchor Sync exactness.
+
+DIRECTION:
+- Small state-hygiene repair later.
+- Do not let this reopen Boss 01 by itself unless more anchor drift appears.
+
+FILE:
+CURRENT_TRUTH_INDEX.txt
+
+JUDGMENT:
+`KEEP`
+
+GOOD:
+- Clean authority split:
+  CURRENT_TRUTH_INDEX orients
+  ACTIVE_ANCHOR holds current ball
+  ACTIVE_GUIDES hold behavior body
+- Correctly prevents older notes from overriding current ball.
+
+PROBLEM:
+- Not the source of the lifecycle seam.
+
+WHY IT MATTERS:
+- It already does the orientation job well enough.
+
+DIRECTION:
+- Leave it alone for this boss.
+
+FILE:
+BRAIN_LEARNING/CLEAN_SEED_ANCHOR_SYNC_CHECK_20260518.md
+
+JUDGMENT:
+`KEEP`
+
+GOOD:
+- Tight pass/fail logic.
+- Properly insists on branch, HEAD, active ball, next move, blocked moves, and latest checkpoint.
+
+PROBLEM:
+- No major design flaw found.
+
+WHY IT MATTERS:
+- Good checker.
+- The issue was anchor freshness, not check logic.
+
+DIRECTION:
+- No edit needed from lifecycle boss.
+
+--------------------------------------------------
+CORE SUIT LIFECYCLE FILES
+--------------------------------------------------
+
+FILE:
+BRAIN/SUIT/SOFT_SUIT.md
+
+JUDGMENT:
+`CHANGE LATER`
+
+GOOD:
+- Best current owner of `candidate` and `testing`.
+- Strong entry gate.
+- Strong active-boss limit.
+- Good exit-path discipline.
+
+PROBLEM:
+- Exit language ends too early.
+- It can say a candidate is promoted, parked, failed-fit, companion-needed, proof-needed, or moved out.
+- It does not clarify the later lifecycle if a tested item survives.
+
+WHY IT MATTERS:
+- This is where the lifecycle begins as real operating movement.
+
+CRITICAL READ:
+- Soft Suit is not broken.
+- It is incomplete downstream.
+
+DIRECTION:
+- Do not stuff every later state into Soft Suit.
+- Either:
+  1. add a narrow exit reference to the downstream lifecycle clarifier
+  or
+  2. minimally extend the exit semantics once the downstream seam is defined elsewhere
+
+FILE:
+BRAIN/SUIT/HARD_SUIT.md
+
+JUDGMENT:
+`CHANGE LATER`
+
+GOOD:
+- Excellent distinction between support links and active pack load.
+- Strong anti-overpromotion language.
+- Strong combined-effect testing requirement.
+- `Linked is not worn` is one of the best lines in the whole model.
+
+PROBLEM:
+- `promoted` and `worn` are too close here without a full explicit relationship.
+- Hard Suit clearly knows what not to confuse.
+- It does not yet fully say whether promotion is:
+  placement only
+  or already worn active load
+
+WHY IT MATTERS:
+- This file likely owns the real operating meaning of worn load.
+
+CRITICAL READ:
+- This file is one of the strongest in the whole stack.
+- The danger is not that it is wrong.
+- The danger is that it is implicitly carrying more lifecycle authority than it explicitly says it carries.
+
+DIRECTION:
+- Preserve the support-link distinction.
+- Clarify the precise relation between promoted and worn.
+- Add explicit moved-out / rollback relationship later if needed.
+
+FILE:
+BRAIN/SUIT/HARD_SUIT_SLOT_DISTINCTION_CLARIFIER.md
+
+JUDGMENT:
+`CHANGE CAREFULLY`
+
+GOOD:
+- Best single file for understanding:
+  support link
+  active pack slot
+  worn operating load
+- Strong rules against treating support as worn.
+- Useful moved-out path.
+
+PROBLEM:
+- It says active pack slot is:
+  promoted through a clear gate
+  currently worn as operating load
+- This is clean locally.
+- It becomes risky globally if other files treat promoted more broadly.
+
+WHY IT MATTERS:
+- This is where the downstream lifecycle gets most concrete.
+
+CRITICAL READ:
+- This file is not too vague.
+- It may be too locally precise without explicitly naming its scope boundary.
+
+DIRECTION:
+- Add scope clarity later:
+  “this clarifies final Hard Suit active-load semantics”
+  versus
+  “this defines promotion for the whole house”
+- Prefer the first.
+
+FILE:
+BRAIN/SUIT/SUIT_FILTER_GATE.md
+
+JUDGMENT:
+`KEEP, POSSIBLE MINOR SYNC LATER`
+
+GOOD:
+- One of the best movement skeletons in the repo.
+- Very clean flow:
+  idea/source ore/chat lock
+  -> Soft Suit
+  -> linked Hard Suit test
+  -> proof
+  -> active pack or support link
+  -> active-file dump only if needed
+
+PROBLEM:
+- Uses movement logic cleanly, but does not itself resolve installed/worn/promotion naming.
+
+WHY IT MATTERS:
+- This file proves the model already knows the shape of the flow.
+- The problem is not missing flow.
+- The problem is status-language ambiguity inside that flow.
+
+DIRECTION:
+- Likely no major edit.
+- Later maybe only a small terminology sync after the seam is fixed.
+
+FILE:
+BRAIN/SUIT/CURRENT_ASSISTANT_SUIT.md
+
+JUDGMENT:
+`KEEP, SYNC LATER IF NEEDED`
+
+GOOD:
+- Clear compact wear order.
+- Good summary file.
+
+PROBLEM:
+- It inherits lifecycle assumptions from the suit files.
+- It should not become the place where we solve the seam.
+
+WHY IT MATTERS:
+- This is the operator-facing compression layer.
+
+DIRECTION:
+- Leave it alone until upstream lifecycle files settle.
+
+FILE:
+BRAIN/SUIT/UNIVERSAL_STATE_MACHINE_SOFT_TEST.md
+
+JUDGMENT:
+`IMPORTANT, HIGH-RISK`
+
+GOOD:
+- Serious attempt at one legal movement grammar.
+- Good forbidden movements.
+- Good anti-skip logic.
+
+PROBLEM:
+- Missing `installed`, `worn`, and `rolled-back`.
+- Uses `promoted` broadly.
+- Risks becoming the tempting place to solve everything.
+
+WHY IT MATTERS:
+- This file can either become a great legal-movement skeleton or a giant abstraction trap.
+
+CRITICAL READ:
+- Right now it is not wrong.
+- Right now it is incomplete and too easy to overburden.
+
+DIRECTION:
+- Do not choose this as the fix parent by reflex.
+- First decide whether the lifecycle seam belongs to:
+  suit-specific semantics
+  or truly universal house movement
+- My judgment:
+  suit-specific first, universal later if still needed
+
+--------------------------------------------------
+LEARNING / ADOPTION / CAPTURE FILES
+--------------------------------------------------
+
+FILE:
+BRAIN/LEARNING/LONG_IDEA_INTAKE_AND_SAFE_ROUTING_LEARNING_RULE.md
+
+JUDGMENT:
+`KEEP, VOCABULARY SYNC LATER`
+
+GOOD:
+- Strong intake discipline.
+- Strong park/fit/proof logic.
+- Clean candidate handling.
+
+PROBLEM:
+- `rejected-for-now` and `adopted-for-test` create vocabulary branches that are not well aligned with suit rejection and downstream state language.
+
+WHY IT MATTERS:
+- Intake language bleeds into lifecycle language later.
+
+DIRECTION:
+- Do not rewrite the rule.
+- Later align the vocabulary table after downstream seam is fixed.
+
+FILE:
+BRAIN/LEARNING/NEXT_RUN_PRESSURE_RELEASE_LEARNING_RULE.md
+
+JUDGMENT:
+`KEEP`
+
+GOOD:
+- Very clean rule that parked is not rejected.
+- Good load control.
+
+PROBLEM:
+- Not a lifecycle bug source.
+
+DIRECTION:
+- Keep as-is.
+
+FILE:
+BRAIN/LEARNING/WORLD_CAPTURE_HELPERS_ADOPTION_LEARNING_RULE.md
+
+JUDGMENT:
+`KEEP, POSSIBLE TERM SYNC LATER`
+
+GOOD:
+- Strong outside-pattern adoption flow:
+  capture
+  name
+  lane
+  status
+  proof need
+  Soft Suit
+  Hard Suit
+  active-file dump if needed
+
+PROBLEM:
+- Reinforces adoption language without fully joining the downstream install/wear/promotion seam.
+
+WHY IT MATTERS:
+- Another sign the model’s upstream adoption logic is stronger than its downstream state grammar.
+
+DIRECTION:
+- Keep.
+- Term sync later only if lifecycle install adds new shared words.
+
+FILE:
+BRAIN/SUIT/CAPTURE_SYSTEM_HELPER_PACK.md
+
+JUDGMENT:
+`KEEP, WATCH TERM DRIFT`
+
+GOOD:
+- Very good helper-pack structure.
+- Honest about adopted-for-test vs active-boss-candidate vs support link.
+
+PROBLEM:
+- Adds more adoption/testing statuses to an already crowded vocabulary field.
+
+WHY IT MATTERS:
+- Helpful file, but contributes to semantic sprawl.
+
+DIRECTION:
+- Keep.
+- Do not patch first.
+
+--------------------------------------------------
+RUNTIME / EXPERIMENTAL FILES
+--------------------------------------------------
+
+FILE:
+BRAIN/SUIT/RUNTIME_KERNEL_COMBINED_PROMOTION_GATE.md
+
+JUDGMENT:
+`KEEP BLOCKED`
+
+GOOD:
+- Excellent guardrail file.
+- Very clear that combined proof is required.
+
+PROBLEM:
+- None as a gate.
+- The danger is if this lane starts leading the lifecycle boss.
+
+WHY IT MATTERS:
+- It proves the model is already thoughtful about dangerous promotion.
+
+DIRECTION:
+- Keep blocked.
+- Do not use it as the parent for Main Boss 02.
+
+FILE:
+BRAIN/SUIT/RUNTIME_KERNEL_LIVE_BUILD_GATE.md
+
+JUDGMENT:
+`KEEP BLOCKED`
+
+GOOD:
+- One of the strongest files in the repo.
+- Very clear separation of:
+  dry proof
+  Hard Suit promotion
+  live build
+  command creation
+
+PROBLEM:
+- None for its own lane.
+
+WHY IT MATTERS:
+- Strong evidence that the house already knows how to say “not yet.”
+
+DIRECTION:
+- Leave blocked.
+- Use as neighbor evidence only.
+
+FILE:
+BRAIN/SUIT/RUNTIME_KERNEL_COMMAND_GATE.md
+
+JUDGMENT:
+`KEEP BLOCKED`
+
+GOOD:
+- Clean command authority boundary.
+- Great anti-convenience warnings.
+
+PROBLEM:
+- None for this boss.
+
+WHY IT MATTERS:
+- Shows mature blocked-move thinking.
+
+DIRECTION:
+- No lifecycle patch here.
+
+FILE:
+BRAIN/SUIT/RUNTIME_KERNEL_COMMAND_BUILD_GATE.md
+
+JUDGMENT:
+`KEEP BLOCKED`
+
+GOOD:
+- Properly separates approved proposal from built command.
+- Strong build boundary.
+
+PROBLEM:
+- None in-lane.
+
+WHY IT MATTERS:
+- It is better defined than the lifecycle seam itself.
+- That is revealing.
+
+DIRECTION:
+- Keep blocked.
+- Do not let build-lane clarity distract from core lifecycle ambiguity.
+
+FILE:
+BRAIN/SUIT/RUNTIME_KERNEL_STATUS_COMMAND_BUILD_APPROVAL_CHECKLIST.md
+
+JUDGMENT:
+`KEEP BLOCKED`
+
+GOOD:
+- Extremely explicit.
+
+PROBLEM:
+- Possibly more precise than the house’s current base lifecycle wording.
+
+WHY IT MATTERS:
+- Shows a pattern:
+  command/build files are crisp because they are constrained
+  lifecycle wording is fuzzier because it is closer to the model core
+
+DIRECTION:
+- Leave blocked.
+
+FILE:
+BRAIN/SUIT/RUNTIME_KERNEL_STATUS_OUTPUT_RULE.md
+
+JUDGMENT:
+`KEEP BLOCKED`
+
+GOOD:
+- Very good chat-only vs save/proof output boundary.
+
+PROBLEM:
+- None for this boss.
+
+WHY IT MATTERS:
+- Another sign the house is strong on “output mode” boundaries.
+
+DIRECTION:
+- Leave blocked.
+
+FILE:
+BRAIN/SUIT/PARENT_CHILD_MAP_SOFT_TEST.md
+
+JUDGMENT:
+`KEEP AS CANDIDATE`
+
+GOOD:
+- Good containment model.
+- Good authority disclaimers.
+
+PROBLEM:
+- Uses lifecycle-related states but is not the right first place to fix lifecycle semantics.
+
+WHY IT MATTERS:
+- Could matter later if the lifecycle seam needs containment logic.
+
+DIRECTION:
+- Keep as candidate only.
+
+FILE:
+BRAIN/SUIT/SINGLE_SYSTEM_LEDGER_SOFT_TEST.md
+
+JUDGMENT:
+`KEEP AS CANDIDATE`
+
+GOOD:
+- Good event-spine idea.
+- Properly refuses to become proof or authority.
+
+PROBLEM:
+- Same issue as parent/child map:
+  relevant later, not the right first parent for Main Boss 02.
+
+WHY IT MATTERS:
+- Shows how the house wants to trace movement, but tracing is not the same as defining the movement.
+
+DIRECTION:
+- Keep candidate only.
+
+--------------------------------------------------
+ACTIVE GUIDES
+--------------------------------------------------
+
+FILE:
+ACTIVE_GUIDES/README_START_HERE.txt
+
+JUDGMENT:
+`KEEP`
+
+GOOD:
+- Strong status-word discipline.
+- Strong anti-overclaim language.
+
+PROBLEM:
+- None that need lifecycle repair here.
+
+WHY IT MATTERS:
+- README is not the correct place to solve the seam.
+
+DIRECTION:
+- Keep.
+
+FILE:
+ACTIVE_GUIDES/CLEAN_SEED_WRAP_GUIDE.txt
+
+JUDGMENT:
+`CHANGE ONLY IF INSTALL IS APPROVED`
+
+GOOD:
+- Strong install, parking, promotion-passport, and follow-through logic.
+- Strong model-flow discipline.
+
+PROBLEM:
+- Does not yet expose the lifecycle seam in one bounded downstream route.
+
+WHY IT MATTERS:
+- If the lifecycle rule is installed later, this file must carry the operating behavior.
+
+DIRECTION:
+- Do not patch during dry review.
+- Later small partner sync only.
+
+FILE:
+ACTIVE_GUIDES/CLEAN_SEED_ALIGNMENT_CHECK.txt
+
+JUDGMENT:
+`CHANGE ONLY IF INSTALL IS APPROVED`
+
+GOOD:
+- Very strong checker file.
+- Already contains:
+  candidate tested before adoption
+  installed overclaim protection
+  proof before wear
+  parked/rejected separation
+
+PROBLEM:
+- It has the pieces, but not one clean downstream lifecycle check.
+
+WHY IT MATTERS:
+- This is the right place for the final partner check closure if a lifecycle rule is installed.
+
+DIRECTION:
+- Later add one bounded check, not a diffuse language spread.
+
+--------------------------------------------------
+PUBLIC / SUPPORT NOTES
+--------------------------------------------------
+
+FILE:
+PUBLIC_NOTES/SOFT_SUIT_HOUSE_WALK_GROWTH_LOOP_001.txt
+
+JUDGMENT:
+`VALUABLE SUPPORT, DO NOT INSTALL VERBATIM`
+
+GOOD:
+- Strong method note.
+- Beautifully names the testing/parking/reject/adopt rhythm.
+
+PROBLEM:
+- Broad, method-heavy, and metaphor-rich.
+- Could easily outrank crisper files if imported loosely.
+
+WHY IT MATTERS:
+- This note contains some of the best conceptual lifecycle intuition in the house.
+
+CRITICAL READ:
+- Good pattern source.
+- Bad immediate doctrine source.
+
+DIRECTION:
+- Mine it carefully.
+- Do not adopt it whole.
+
+FILE:
+PUBLIC_NOTES/RECURSIVE_HOUSE_WORKSHEET_AND_FLOW_SYSTEM_001.txt
+
+JUDGMENT:
+`HIGH-VALUE ORE, HIGH DRIFT RISK`
+
+GOOD:
+- Catches deep system coordination problems.
+- Explicitly names that tools/checkers may exist without lifecycle review.
+
+PROBLEM:
+- Very broad.
+- Open-board sprawl.
+- Mixes real insights with many future tasks and metaphors.
+
+WHY IT MATTERS:
+- This note is telling the truth about a real coordination leak.
+- It is not a safe parent for lifecycle doctrine.
+
+DIRECTION:
+- Treat as ore and signal source only.
+
+FILE:
+PUBLIC_NOTES/MODEL_WORD_KEYS_INDEX_001.txt
+
+JUDGMENT:
+`GOOD SUPPORT, POSSIBLE LATER TERM CLEANUP`
+
+GOOD:
+- Helpful definitions.
+- Good clarity on adopt/park/growth terms.
+
+PROBLEM:
+- It can reflect vocabulary drift rather than resolve it if not curated carefully.
+
+WHY IT MATTERS:
+- If rejection or lifecycle words are cleaned later, this note will need sync.
+
+DIRECTION:
+- Support only for now.
+
+FILE:
+PUBLIC_NOTES/RECOVERED_WHALE_88_METHOD_STACK_DIGEST_20260516_184010.txt
+
+JUDGMENT:
+`RICH SUPPORT ORE, NOT A DRIVER`
+
+GOOD:
+- Many sharp extracted rules.
+- Strong real-world method parallels.
+
+PROBLEM:
+- Too broad to lead this boss.
+- Easy source of grand theory inflation.
+
+WHY IT MATTERS:
+- Good for support arguments.
+- Dangerous as a direct install source.
+
+DIRECTION:
+- Keep as proof-history ore.
+
+==================================================
+THE REAL LIFECYCLE GAP
+==================================================
+
+The exact lifecycle gap is not:
+- missing idea capture
+- missing parking
+- missing proof warnings
+- missing promotion caution
+
+The exact lifecycle gap is:
+
+The house has no single shared downstream legal path that all relevant files agree on for:
+
+`testing -> installed -> worn -> promoted/rolled-back`
+
+More precisely:
+
+1. `candidate` is clear enough
+2. `testing` is clear enough
+3. `parked` is clear enough
+4. `installed` exists strongly in guide/package language but weakly in suit lifecycle language
+5. `worn` exists strongly in suit/Hard Suit language but weakly as a shared explicit lifecycle state
+6. `promoted` is overloaded:
+   - broader stronger placement
+   - Hard Suit entry
+   - worn active pack load
+7. `rolled-back` exists as safety logic, not as a clearly named lifecycle state
+
+==================================================
+MOST CRITICAL TERMS TO CLEAN
+==================================================
+
+1. `installed`
+
+Current risk:
+- package/install meaning
+- suit/install meaning
+- active-file install meaning
+
+Need:
+- one exact role
+
+2. `worn`
+
+Current risk:
+- powerful and intuitive
+- but may imply active behavioral authority before state meaning is fully bounded
+
+Need:
+- explicit relation to Hard Suit active load
+
+3. `promoted`
+
+Current risk:
+- currently used at multiple abstraction layers
+
+Need:
+- one bounded meaning per lane, or one stronger shared parent definition
+
+4. `rolled-back`
+
+Current risk:
+- treated like a general safeguard, not a precise state
+
+Need:
+- explicit lifecycle exit semantics
+
+5. rejection family
+
+Current risk:
+- `failed-fit`
+- `rejected-for-now`
+- `rejected dirty milk`
+- `not needed`
+- `parked`
+- `blocked`
+
+Need:
+- later cleanup, but not before downstream success-state seam is solved
+
+==================================================
+RECOMMENDED STRATEGY
+==================================================
+
+MY JUDGMENT OF THE BEST PATH:
+
+1. Do not install a full universal lifecycle.
+
+Why:
+- Too many files already express partial truth.
+- A giant system will likely create more collisions before it resolves them.
+
+2. Start with one smallest downstream clarifier.
+
+Why:
+- That is the true leak.
+- It is small enough to prove.
+
+3. Use the suit files as the primary parent lane.
+
+Why:
+- This is where tested items actually move.
+- Hard Suit and Soft Suit already own the strongest behavioral meaning.
+
+4. Use active guides as partner-check closure, not primary design source.
+
+Why:
+- Guides should verify and operationalize the seam, not invent it first.
+
+5. Keep runtime/kernel files blocked and out of the fix.
+
+Why:
+- They are neighbors, not the current boss.
+- Pulling them in too early will expand the boss and contaminate the seam.
+
+==================================================
+RECOMMENDED FIX ORDER
+==================================================
+
+STEP 1
+Define `installed`.
+
+Question to answer:
+- Is installed a package/file-placement state?
+- a suit adoption state?
+- or a non-worn accepted state before active load?
+
+My lean:
+- installed should probably be distinct from worn
+- and should name acceptance/placement before active operating load
+
+Why:
+- This preserves the meaning of `Linked is not worn`
+- and gives a real place for “accepted but not yet being actively worn”
+
+STEP 2
+Define `worn`.
+
+My lean:
+- worn should mean active operating load
+- probably closest to Hard Suit active pack slot semantics
+
+Why:
+- The house already uses the word this way.
+
+STEP 3
+Place `promoted`.
+
+My lean:
+- promotion should be the gate that authorizes stronger placement
+- but the file must say whether the stronger placement is:
+  installed
+  or worn active load
+
+Why:
+- Right now promotion is doing too many jobs.
+
+STEP 4
+Define `rolled-back`.
+
+My lean:
+- rolled-back should name an explicit reverse lifecycle move after failure, collision, drift, or proof failure
+- the resulting state may be:
+  parked
+  support link
+  archived
+  blocked
+but that must be named, not implied
+
+STEP 5
+Only then clean the rejection family.
+
+==================================================
+FINAL CRITICAL CALL
+==================================================
+
+The model is good.
+The model is not yet clean.
+
+Its strongest quality is not elegance.
+Its strongest quality is conscience.
+
+It knows how to stop bad movement better than it knows how to describe its own downstream success states.
+
+That is a good kind of failure to have.
+It is safer than the opposite.
+
+But if this is not cleaned, the house will keep building better gates around a blurry state core.
+
+That would make the system feel smart while staying semantically unstable.
+
+FINAL DIRECTION:
+Go narrower.
+Make the downstream state words crisp.
+Let the suit files lead.
+Let the active guides verify.
+Keep runtime blocked.
+Treat public notes as pattern ore, not doctrine.
+
+FINAL VERDICT:
+`PARTIAL - strong model, weak downstream lifecycle grammar, clear repair direction`

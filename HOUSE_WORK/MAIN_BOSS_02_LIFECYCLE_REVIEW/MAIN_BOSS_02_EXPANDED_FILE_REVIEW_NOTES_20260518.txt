@@ -1,0 +1,447 @@
+TITLE: Main Boss 02 Expanded File Review Notes
+
+DATE:
+2026-05-18
+
+PURPOSE:
+Broaden the Main Boss 02 review beyond the first core files.
+This note covers:
+- files fully read that likely need changes
+- files fully read that matter but should probably stay unchanged for now
+- files that showed strong lifecycle signal in search results and likely need a later full direct read
+
+TRUST BOUNDARY:
+- Fully read means I opened the file content directly in this pass.
+- Search-signal only means the file surfaced strongly in search, but I did not do a full direct read yet.
+- Search-signal files may matter, but they should not be edited from this note alone.
+
+SECTION A — FULLY READ FILES THAT LIKELY NEED CHANGES
+
+1. FILE:
+ACTIVE_ANCHOR.txt
+
+WHAT:
+- Current position line is stale against the real repo HEAD used in the inspection.
+
+WHERE:
+- current-position block
+
+WHY:
+- This weakens Anchor Sync handoff precision even when the active ball is otherwise correct.
+
+HOW:
+- later small state-hygiene patch only
+
+2. FILE:
+BRAIN/SUIT/SOFT_SUIT.md
+
+WHAT:
+- Clearly owns `candidate` and `testing`.
+- Does not define how a tested item becomes `installed`, `worn`, or `rolled-back`.
+- Uses `failed-fit`, which may collide with broader rejection language elsewhere.
+
+WHERE:
+- status labels
+- exit paths
+
+WHY:
+- Soft Suit is the main upstream feeder into the lifecycle seam.
+
+HOW:
+- later either:
+  a narrow downstream cross-link
+  or a tiny exit-path clarification
+
+3. FILE:
+BRAIN/SUIT/HARD_SUIT.md
+
+WHAT:
+- Strong on support-link vs active-pack distinction.
+- Strong on promotion into active pack.
+- Unclear whether `promoted` already means `worn`, or whether wear is a distinct downstream state.
+- No first-class `rolled-back` lifecycle state.
+
+WHERE:
+- purpose / what enters Hard Suit
+- support-link distinction
+- `Linked is not worn`
+
+WHY:
+- One of the main collision points for promoted vs worn meaning.
+
+HOW:
+- later small downstream lifecycle clarifier or cross-reference
+
+4. FILE:
+BRAIN/SUIT/HARD_SUIT_SLOT_DISTINCTION_CLARIFIER.md
+
+WHAT:
+- Defines active pack slot as proven, promoted, and currently worn.
+- Excellent distinction file.
+- But its scope is broad enough that it may accidentally become the house-wide definition of promotion/wear if not bounded.
+- Moved-out path exists, but `rolled-back` is still not named as a state.
+
+WHERE:
+- active pack slot section
+- support link section
+- moved-out section
+
+WHY:
+- This file is the clearest wear-language source and also one of the easiest places for scope collision.
+
+HOW:
+- later clarify whether it defines:
+  Hard Suit final semantics only
+  or the broader lifecycle language
+
+5. FILE:
+BRAIN/SUIT/UNIVERSAL_STATE_MACHINE_SOFT_TEST.md
+
+WHAT:
+- Strong candidate legal-flow file.
+- Missing `installed`, `worn`, and `rolled-back`.
+- Uses `promoted` broadly.
+
+WHERE:
+- candidate state set
+- allowed movement
+- forbidden movement
+
+WHY:
+- Looks like a natural parent for lifecycle work, but also a high-risk overscope trap.
+
+HOW:
+- later decide whether this file should absorb the lifecycle seam or stay a narrower legal-movement test
+
+6. FILE:
+BRAIN/LEARNING/LONG_IDEA_INTAKE_AND_SAFE_ROUTING_LEARNING_RULE.md
+
+WHAT:
+- Strong candidate-intake file.
+- Introduces `rejected-for-now` and `adopted-for-test`, which do not line up cleanly with `failed-fit` and `rejected dirty milk`.
+
+WHERE:
+- status labels
+- adoption rule
+
+WHY:
+- Upstream intake vocabulary feeds later lifecycle confusion.
+
+HOW:
+- later vocabulary alignment pass, after downstream seam is solved
+
+7. FILE:
+ACTIVE_GUIDES/CLEAN_SEED_ALIGNMENT_CHECK.txt
+
+WHAT:
+- Already has strong installed / parked / proof-before-worn / candidate checks.
+- Does not yet close the downstream lifecycle seam in one named bounded check.
+
+WHERE:
+- Rest Stop / No Active Truth
+- candidate adoption language
+- wear-the-fix proof line
+
+WHY:
+- If lifecycle language is installed later, this file will need the matching check closure.
+
+HOW:
+- later add one compact downstream lifecycle check only if install is approved
+
+8. FILE:
+ACTIVE_GUIDES/CLEAN_SEED_WRAP_GUIDE.txt
+
+WHAT:
+- Strong on install overclaim prevention and parked-to-active promotion discipline.
+- Does not yet provide a compact operating route for the downstream lifecycle seam.
+
+WHERE:
+- install boundary language
+- parked concept activation / promotion passport area
+- rule impact after install
+
+WHY:
+- This is the assistant operating body, so any installed lifecycle seam eventually touches it.
+
+HOW:
+- later tiny operating-route addition only if lifecycle install is approved
+
+SECTION B — FULLY READ FILES THAT MATTER BUT SHOULD PROBABLY STAY UNCHANGED FOR NOW
+
+1. FILE:
+BRAIN_LEARNING/CLEAN_SEED_ANCHOR_SYNC_CHECK_20260518.md
+
+WHY:
+- The check itself is solid.
+- The seam was the anchor value, not the check design.
+
+2. FILE:
+CURRENT_TRUTH_INDEX.txt
+
+WHY:
+- Worked cleanly as orientation.
+- No lifecycle bug proved here.
+
+3. FILE:
+BRAIN/LEARNING/NEXT_RUN_PRESSURE_RELEASE_LEARNING_RULE.md
+
+WHY:
+- `parked is not rejected` is useful and clean.
+- This file supports the seam but is not creating it.
+
+4. FILE:
+ACTIVE_GUIDES/README_START_HERE.txt
+
+WHY:
+- Broad status-word discipline is already present.
+- The lifecycle problem is too narrow and technical to justify a README-level edit yet.
+
+5. FILE:
+DECISION_NOTES/ADOPT_GATE_ACTIVE_ANCHOR_SYSTEM_DECISION_20260517_220141.txt
+
+WHY:
+- Good evidence for candidate/adopt/park/reject flow.
+- Not the right place to solve downstream lifecycle semantics.
+
+6. FILE:
+HANDOFFS/MULE_MAIN_BOSS_02_LIFECYCLE_DRY_INSPECTION_HANDOFF_20260518.md
+
+WHY:
+- The handoff did its job and framed the boss cleanly.
+
+7. FILE:
+PROOF_HISTORY/MAIN_BOSS_01_ANCHOR_TRUTH_ALIGNMENT_CLOSE_RECEIPT_20260518.txt
+
+WHY:
+- Used as checkpoint evidence only.
+
+8. FILE:
+BRAIN/SUIT/CURRENT_ASSISTANT_SUIT.md
+
+WHAT IT ADDS:
+- wear order
+- use Soft Suit only for current test candidates
+- wear proven fixes
+
+WHY IT MATTERS:
+- This file reflects lifecycle assumptions in compact operational language.
+
+WHY NOT CHANGE YET:
+- It mirrors downstream suit behavior rather than defining it.
+- If the lifecycle seam changes, this file may need a later sync pass, but it is not the right parent to fix first.
+
+9. FILE:
+BRAIN/SUIT/SUIT_FILTER_GATE.md
+
+WHAT IT ADDS:
+- explicit flow from idea/source ore/chat lock
+  -> Soft Suit
+  -> linked Hard Suit test
+  -> proof
+  -> Hard Suit active pack or support link
+  -> active-file dump if needed
+
+WHY IT MATTERS:
+- It is one of the cleanest lifecycle bridge files already present.
+
+WHY NOT CHANGE YET:
+- It already gives a strong movement skeleton.
+- The missing seam is mostly between promoted/install/worn/rolled-back vocabulary, not this gate’s existence.
+
+10. FILE:
+BRAIN/SUIT/RUNTIME_KERNEL_COMBINED_PROMOTION_GATE.md
+
+WHAT IT ADDS:
+- combined proof before Runtime Kernel trio promotion
+
+WHY IT MATTERS:
+- Strong evidence that some lifecycle language is already narrowed by lane and should not be collapsed into one global slogan.
+
+WHY NOT CHANGE YET:
+- Blocked move territory for this boss.
+- Useful neighbor, but not the file to patch first for Main Boss 02.
+
+11. FILE:
+BRAIN/SUIT/RUNTIME_KERNEL_LIVE_BUILD_GATE.md
+
+WHAT IT ADDS:
+- dry-run success does not authorize live build
+- no captured item may jump directly to promoted or live
+- rollback/supersession requirement
+
+WHY IT MATTERS:
+- It proves the repo already has strong downstream caution language.
+
+WHY NOT CHANGE YET:
+- Boss handoff explicitly blocks runtime/live-file lane work.
+
+12. FILE:
+BRAIN/SUIT/RUNTIME_KERNEL_COMMAND_GATE.md
+
+WHAT IT ADDS:
+- command surfaces stay blocked until authority, inputs, outputs, proof, failure, recovery, and rollback are defined
+
+WHY IT MATTERS:
+- Strong neighbor for blocked moves.
+
+WHY NOT CHANGE YET:
+- Status-command / runtime-command lane is explicitly blocked in this boss.
+
+13. FILE:
+BRAIN/SUIT/CAPTURE_SYSTEM_HELPER_PACK.md
+
+WHAT IT ADDS:
+- helper-pack adoption path
+- support link vs Soft Suit candidate vs later Hard Suit movement
+
+WHY IT MATTERS:
+- Reinforces candidate/adopted-for-test/active-boss-candidate language.
+
+WHY NOT CHANGE YET:
+- This is more capture-system than lifecycle downstream-state law.
+- It may need terminology sync later, but not before the main seam is resolved.
+
+SECTION C — SEARCH-SIGNAL FILES THAT LIKELY MATTER AND NEED A LATER FULL DIRECT READ
+
+1. FILE:
+BRAIN/SUIT/RUNTIME_KERNEL_COMMAND_BUILD_GATE.md
+
+WHY IT MATTERS:
+- Search results show approved proposal candidate -> built command movement plus rollback path language.
+- This may matter later if lifecycle wording must avoid command-build collisions.
+
+CURRENT TRUST LEVEL:
+- Search-signal only
+
+2. FILE:
+BRAIN/SUIT/RUNTIME_KERNEL_STATUS_COMMAND_BUILD_APPROVAL_CHECKLIST.md
+
+WHY IT MATTERS:
+- Search results show status proposal candidate movement and rollback path wording.
+- Strong neighbor if lifecycle language ever touches status surfaces.
+
+CURRENT TRUST LEVEL:
+- Search-signal only
+
+3. FILE:
+BRAIN/SUIT/RUNTIME_KERNEL_STATUS_OUTPUT_RULE.md
+
+WHY IT MATTERS:
+- Search results show source-ore and parked output boundaries.
+- Could matter later if lifecycle status has to be expressed in outputs.
+
+CURRENT TRUST LEVEL:
+- Search-signal only
+
+4. FILE:
+BRAIN/SUIT/PARENT_CHILD_MAP_SOFT_TEST.md
+
+WHY IT MATTERS:
+- Search results show parked, promoted, and parent/child authority boundaries.
+- Could become relevant if lifecycle states need containment semantics.
+
+CURRENT TRUST LEVEL:
+- Search-signal only
+
+5. FILE:
+BRAIN/SUIT/SINGLE_SYSTEM_LEDGER_SOFT_TEST.md
+
+WHY IT MATTERS:
+- Search results show item parked / item promoted rows.
+- Could matter if lifecycle evidence needs a tighter event spine later.
+
+CURRENT TRUST LEVEL:
+- Search-signal only
+
+6. FILE:
+BRAIN/LEARNING/WORLD_CAPTURE_HELPERS_ADOPTION_LEARNING_RULE.md
+
+WHY IT MATTERS:
+- Search results show Soft Suit candidate language.
+- Likely another upstream vocabulary source.
+
+CURRENT TRUST LEVEL:
+- Search-signal only
+
+7. FILE:
+PUBLIC_NOTES/RECURSIVE_HOUSE_WORKSHEET_AND_FLOW_SYSTEM_001.txt
+
+WHY IT MATTERS:
+- Search results showed direct lifecycle-like language:
+  try, wear, review, adopt, park, reshape fixes
+- Could contain useful pre-existing lifecycle ideas.
+
+CURRENT TRUST LEVEL:
+- Search-signal only
+- Public/support note, not doctrine
+
+8. FILE:
+PUBLIC_NOTES/SOFT_SUIT_HOUSE_WALK_GROWTH_LOOP_001.txt
+
+WHY IT MATTERS:
+- Search results showed:
+  pause, walk the house, wear new fixes, test whether they help, adopt/adjust/park/reject
+- Strong conceptual neighbor to Main Boss 02.
+
+CURRENT TRUST LEVEL:
+- Search-signal only
+- Public/support note, not doctrine
+
+9. FILE:
+PUBLIC_NOTES/MODEL_WORD_KEYS_INDEX_001.txt
+
+WHY IT MATTERS:
+- Search results showed parked/promoted/non-doctrine guardrail wording.
+- Could help later if lifecycle vocabulary collisions need word-key cleanup.
+
+CURRENT TRUST LEVEL:
+- Search-signal only
+
+10. FILE:
+PUBLIC_NOTES/RECOVERED_WHALE_88_METHOD_STACK_DIGEST_20260516_184010.txt
+
+WHY IT MATTERS:
+- Search results showed promote/review/station/rollback warnings.
+- Might hold useful supporting reasoning.
+
+CURRENT TRUST LEVEL:
+- Search-signal only
+- Support evidence only
+
+SECTION D — BIG PICTURE
+
+MOST IMPORTANT FILES IN THE ACTUAL LIFECYCLE SEAM:
+1. `BRAIN/SUIT/SOFT_SUIT.md`
+2. `BRAIN/SUIT/HARD_SUIT.md`
+3. `BRAIN/SUIT/HARD_SUIT_SLOT_DISTINCTION_CLARIFIER.md`
+4. `BRAIN/SUIT/UNIVERSAL_STATE_MACHINE_SOFT_TEST.md`
+5. `ACTIVE_GUIDES/CLEAN_SEED_ALIGNMENT_CHECK.txt`
+6. `ACTIVE_GUIDES/CLEAN_SEED_WRAP_GUIDE.txt`
+
+SECOND-RING FILES THAT MATTER A LOT:
+1. `BRAIN/SUIT/SUIT_FILTER_GATE.md`
+2. `BRAIN/SUIT/CURRENT_ASSISTANT_SUIT.md`
+3. `BRAIN/SUIT/CAPTURE_SYSTEM_HELPER_PACK.md`
+4. `BRAIN/LEARNING/LONG_IDEA_INTAKE_AND_SAFE_ROUTING_LEARNING_RULE.md`
+5. `ACTIVE_ANCHOR.txt`
+
+HIGH-RISK FILES TO READ BEFORE ANY BIGGER LIFECYCLE INSTALL:
+1. `BRAIN/SUIT/RUNTIME_KERNEL_COMMAND_BUILD_GATE.md`
+2. `BRAIN/SUIT/RUNTIME_KERNEL_STATUS_COMMAND_BUILD_APPROVAL_CHECKLIST.md`
+3. `BRAIN/SUIT/PARENT_CHILD_MAP_SOFT_TEST.md`
+4. `BRAIN/SUIT/SINGLE_SYSTEM_LEDGER_SOFT_TEST.md`
+5. `PUBLIC_NOTES/SOFT_SUIT_HOUSE_WALK_GROWTH_LOOP_001.txt`
+6. `PUBLIC_NOTES/RECURSIVE_HOUSE_WORKSHEET_AND_FLOW_SYSTEM_001.txt`
+
+SECTION E — RECOMMENDED LATER REVIEW ORDER
+
+1. Resolve the core downstream seam first:
+   installed vs worn vs promoted vs rolled-back
+2. Then sync the first-ring suit files.
+3. Then sync active-guide partner checks.
+4. Then do a vocabulary cleanup pass on rejection/testing terms.
+5. Only after that read the runtime-neighbor files in full if the boss starts touching command or live-build boundaries.
+
+STATUS:
+Expanded review notes parked only.
+No lifecycle install performed from this note.

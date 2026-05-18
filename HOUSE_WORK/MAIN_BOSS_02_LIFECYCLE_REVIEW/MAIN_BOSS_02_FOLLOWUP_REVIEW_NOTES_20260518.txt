@@ -1,0 +1,84 @@
+TITLE: Main Boss 02 Follow-Up Review Notes
+
+DATE:
+2026-05-18
+
+SCOPE:
+Park the fix ideas and full-review targets that appeared during the lifecycle dry inspection.
+This is not a lifecycle install.
+This is not a runtime lane build.
+
+TOP FIX CANDIDATES:
+
+1. Downstream lifecycle seam
+- Need one exact shared meaning for:
+  testing -> installed -> worn -> promoted/rolled-back
+- Current gap:
+  the early chain is mostly clear, but downstream state boundaries split across suit language, package language, and guide language.
+
+2. Installed vs worn split
+- Active guides use "installed" as a strong status boundary.
+- Suit files use "worn" as operating-load language.
+- Need one clean answer for whether installed is:
+  a pre-wear state,
+  the same as worn,
+  or a broader package-level state that must never be confused with worn.
+
+3. Promotion meaning collision
+- "promoted" currently means different things in different files:
+  stronger placement,
+  entry into Hard Suit,
+  or already-worn operating load.
+- This needs one bounded meaning before any lifecycle install.
+
+4. Rolled-back state
+- Rollback exists as safety language.
+- A named lifecycle state for worn/installed rollback is still missing.
+- Need to define whether rolled-back means:
+  back to parked,
+  back to support link,
+  archived,
+  or another exact state.
+
+FULL REVIEW TARGETS LATER:
+
+1. Rejection vocabulary
+- Current split:
+  failed-fit
+  rejected-for-now
+  rejected dirty milk
+- Need a later review to decide whether these are truly different jobs or duplicate rejection lanes.
+
+2. Anchor freshness
+- ACTIVE_ANCHOR.txt still points to main @ 3aadc85 while the repo moved to later commits.
+- Did not block the dry inspection, but deserves a later state-hygiene review.
+
+3. Universal state machine candidate
+- UNIVERSAL_STATE_MACHINE_SOFT_TEST.md has captured/classified/routed/active/parked/proof-needed/judged/promoted/closed/archived
+- Missing from that candidate:
+  installed
+  worn
+  rolled-back
+- Later review should decide whether that file is the right parent for lifecycle language or whether a narrower clarifier is cleaner.
+
+4. Hard Suit downstream exit paths
+- Hard Suit clarifier says moved-out items may become archived, parked, or support links.
+- Later review should decide whether this is enough for rollback semantics or still too loose.
+
+RECOMMENDED ORDER IF THIS BOSS CONTINUES:
+
+1. Keep candidate/testing/parked language as-is.
+2. Define installed vs worn first.
+3. Then define promotion position relative to worn.
+4. Then define rolled-back exit.
+5. Only after that run neighbor review on suit files and any chosen active-guide lane.
+
+DO NOT DO FROM THIS NOTE:
+- do not install a lifecycle rule from this note
+- do not create /system
+- do not create a live runtime file
+- do not reopen the full boss list
+- do not let metaphor outrank proof
+
+STATUS:
+Parked follow-up notes only.
