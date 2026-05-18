@@ -1,0 +1,34 @@
+LONG IDEA INTAKE AND SAFE ROUTING LEARNING RULE PROOF
+
+Brain home:
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+
+Learning rule:
+BRAIN\LEARNING\LONG_IDEA_INTAKE_AND_SAFE_ROUTING_LEARNING_RULE.md
+
+Rule SHA256:
+6B08E6D9307EB682304DEF1E8CEB4F04DD5873B51E3910F2615C8B08774D21C5
+
+Reason:
+User clarified that long idea lists need a clean intake system using parking lots, ideas, maps, windows, toolboxes, source ore, status labels, ranking, and current-boss execution so this failure does not repeat.
+
+Checks:
+rule_exists: True
+in_brain_learning_lane: True
+has_intake_before_execution: True
+has_atomic_split: True
+has_safe_lanes: True
+has_status_labels: True
+executes_only_current_boss: True
+has_10_boss_limit: True
+has_risk_alarm: True
+has_pattern_tool_use: True
+has_respect_neighbor: True
+has_close_condition: True
+
+
+Failed checks:
+
+
+Verdict:
+PASS - long idea intake and safe routing rule placed with lanes, statuses, risk alarms, and one-boss execution.
