@@ -1,0 +1,86 @@
+[
+  {
+    "node_id": "open-parent-20260518_002355",
+    "node_name": "open-child-refusal-dry-run",
+    "node_type": "run",
+    "node_path": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS/OPEN_CHILD_REFUSAL_DRY_RUN_20260518_002355.json",
+    "parent_id": "runtime-kernel-blocked-child-recovery-dry-run",
+    "child_ids": [
+      "open-child-20260518_002355-001",
+      "open-child-20260518_002355-002",
+      "open-child-20260518_002355-003"
+    ],
+    "lane": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS",
+    "current_state": "active",
+    "authority_level": "test-only",
+    "proof_path": "PROOF_HISTORY/RUNTIME_KERNEL_OPEN_CHILD_REFUSAL_DRY_RUN_PROOF_20260518_002355.txt",
+    "ledger_event_ids": [
+      "open-parent-event-20260518_002355"
+    ],
+    "open_child_count": 1,
+    "blocked_child_count": 0,
+    "close_condition": "parent cannot close while open_child_count is greater than zero",
+    "next_action": "close or park open child before parent close",
+    "status": "test-only"
+  },
+  {
+    "node_id": "open-child-20260518_002355-001",
+    "node_name": "closed-child",
+    "node_type": "proof",
+    "node_path": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS/OPEN_CHILD_REFUSAL_DRY_RUN_20260518_002355.json",
+    "parent_id": "open-parent-20260518_002355",
+    "child_ids": [],
+    "lane": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS",
+    "current_state": "closed",
+    "authority_level": "test-only",
+    "proof_path": "PROOF_HISTORY/RUNTIME_KERNEL_OPEN_CHILD_REFUSAL_DRY_RUN_PROOF_20260518_002355.txt",
+    "ledger_event_ids": [
+      "open-child-event-20260518_002355-001"
+    ],
+    "open_child_count": 0,
+    "blocked_child_count": 0,
+    "close_condition": "child closed cleanly",
+    "next_action": "none",
+    "status": "test-only"
+  },
+  {
+    "node_id": "open-child-20260518_002355-002",
+    "node_name": "open-child",
+    "node_type": "proof",
+    "node_path": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS/OPEN_CHILD_REFUSAL_DRY_RUN_20260518_002355.json",
+    "parent_id": "open-parent-20260518_002355",
+    "child_ids": [],
+    "lane": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS",
+    "current_state": "active",
+    "authority_level": "test-only",
+    "proof_path": "",
+    "ledger_event_ids": [
+      "open-child-event-20260518_002355-002"
+    ],
+    "open_child_count": 0,
+    "blocked_child_count": 0,
+    "close_condition": "open child must close, park, or block before parent close",
+    "next_action": "finish child route",
+    "status": "test-only-open"
+  },
+  {
+    "node_id": "open-child-20260518_002355-003",
+    "node_name": "proof-needed-child",
+    "node_type": "proof",
+    "node_path": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS/OPEN_CHILD_REFUSAL_DRY_RUN_20260518_002355.json",
+    "parent_id": "open-parent-20260518_002355",
+    "child_ids": [],
+    "lane": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS",
+    "current_state": "proof-needed",
+    "authority_level": "test-only",
+    "proof_path": "PROOF_HISTORY/RUNTIME_KERNEL_OPEN_CHILD_REFUSAL_DRY_RUN_PROOF_20260518_002355.txt",
+    "ledger_event_ids": [
+      "open-child-event-20260518_002355-003"
+    ],
+    "open_child_count": 0,
+    "blocked_child_count": 0,
+    "close_condition": "child still needs judgment before close",
+    "next_action": "judge child before parent close",
+    "status": "test-only-open"
+  }
+]
