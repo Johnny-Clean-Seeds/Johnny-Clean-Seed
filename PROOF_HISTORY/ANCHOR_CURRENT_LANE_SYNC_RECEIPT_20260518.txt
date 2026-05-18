@@ -1,0 +1,59 @@
+ANCHOR / CURRENT LANE SYNC RECEIPT
+
+Branch: main
+HEAD at sync: b1fc494
+Anchor file: ACTIVE_ANCHOR.txt
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+Current truth file inspected: CURRENT_TRUTH_INDEX.txt
+Current truth had known stale hash line: False
+Current truth changed: False
+Receipt file: PROOF_HISTORY\ANCHOR_CURRENT_LANE_SYNC_RECEIPT_20260518.txt
+
+Purpose:
+- Repair confirmed fog around active anchor, current lane, and next-move meaning.
+- Sync ACTIVE_ANCHOR.txt to actual current HEAD.
+- Refresh CURRENT_HOUSE_WORK_STATUS.md so it stops carrying older current-looking layers.
+- Inspect CURRENT_TRUTH_INDEX.txt and change it only if known stale active-state hashes were found.
+- Keep critique/source-ore as judgment support, not action authorization.
+
+Old anchor snapshot:
+ACTIVE BALL:
+Main Boss 02 — Lifecycle State Machine.
+
+CURRENT POSITION:
+main @ 3aadc85 after Main Boss 01 MVP close decision.
+
+CURRENT RULE:
+Main Boss 01 — State / Anchor Truth Alignment is closed for MVP scope.
+
+Before any boss cycle, runtime lane move, promotion, command build, bridge action, large issue ranking, cleanup, or handoff, the house must still run Anchor Sync Check and prove the current active state is aligned.
+
+NEXT ALLOWED MOVE:
+Begin dry inspection for Main Boss 02 — Lifecycle State Machine.
+
+Main Boss 02 must inspect candidate -> testing -> parked/rejected/installed -> worn -> promoted/rolled-back flow before any lifecycle rule is installed.
+
+BLOCKED:
+- Do not fight the full 50-boss list.
+- Do not fight all 9 parent bosses.
+- Do not reopen Main Boss 01 unless Anchor Sync Check fails or a new state-alignment child appears.
+- Do not build the status command runtime lane.
+- Do not create /system.
+- Do not create a live runtime file.
+- Do not promote source-ore into active doctrine.
+- Do not wear an unproven fix.
+- Do not let metaphor outrank proof.
+
+
+Checks:
+- Anchor records current HEAD: True
+- Anchor names current sync ball: True
+- Anchor blocks runtime build: True
+- Status records current HEAD: True
+- Status says critique is not command: True
+- Status keeps parked risks inactive: True
+- Current truth inspected: True
+- Current truth changed only if known stale hash found: True
+
+Verdict:
+PASS - Anchor/current-lane sync completed. ACTIVE_ANCHOR and house-work status now point to current HEAD and clarify that critique/source ore is not command. Unrelated parked risks remain inactive.

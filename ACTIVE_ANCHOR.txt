@@ -1,26 +1,43 @@
 ACTIVE BALL:
-Main Boss 02 — Lifecycle State Machine.
+Anchor / Current Lane / Next-Move Meaning Sync
 
 CURRENT POSITION:
-main @ 3aadc85 after Main Boss 01 MVP close decision.
+main @ b1fc494
 
-CURRENT RULE:
-Main Boss 01 — State / Anchor Truth Alignment is closed for MVP scope.
+STATUS:
+ACTIVE REPAIR PASS
 
-Before any boss cycle, runtime lane move, promotion, command build, bridge action, large issue ranking, cleanup, or handoff, the house must still run Anchor Sync Check and prove the current active state is aligned.
+WHY THIS ANCHOR EXISTS:
+Recent fog critique found that ACTIVE_ANCHOR.txt could be stale in both commit pointer and next-allowed-move wording.
+
+The prior anchor pointed to older Main Boss 02 dry inspection movement, while later Mr.Kleen work already saved lifecycle review, lifecycle clarifier, wear test, paste wording, and critique/source-ore containment.
+
+This anchor is a state-sync repair, not a new doctrine install.
+
+CURRENT JUDGMENT:
+The house needs one clean current-lane statement before any deeper repair.
 
 NEXT ALLOWED MOVE:
-Begin dry inspection for Main Boss 02 — Lifecycle State Machine.
+Review this sync receipt and confirm final clean status.
 
-Main Boss 02 must inspect candidate -> testing -> parked/rejected/installed -> worn -> promoted/rolled-back flow before any lifecycle rule is installed.
+After this sync is accepted, the next candidate repair may be chosen from current evidence.
 
-BLOCKED:
-- Do not fight the full 50-boss list.
-- Do not fight all 9 parent bosses.
-- Do not reopen Main Boss 01 unless Anchor Sync Check fails or a new state-alignment child appears.
-- Do not build the status command runtime lane.
-- Do not create /system.
-- Do not create a live runtime file.
-- Do not promote source-ore into active doctrine.
-- Do not wear an unproven fix.
-- Do not let metaphor outrank proof.
+LIKELY NEXT CANDIDATE:
+Continue Main Boss 02 lifecycle-state work only if authorized.
+
+BLOCKED MOVES:
+Do not start runtime build.
+Do not create /system.
+Do not create live runtime files.
+Do not build status-command runtime work.
+Do not compress doctrine.
+Do not restructure PROOF_HISTORY.
+Do not touch bridge hardening.
+Do not treat source ore as command.
+Do not treat critique notes as action authorization.
+Do not reopen Main Boss 01 unless Anchor Sync Check fails or new state-boundary evidence appears.
+
+AUTHORITY NOTE:
+ACTIVE_ANCHOR.txt holds the current active ball, next allowed move, and blocked moves.
+
+Critique/source-ore files are judgment support only.

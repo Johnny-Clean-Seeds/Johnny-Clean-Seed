@@ -9,100 +9,55 @@ Not authority over: CURRENT_TRUTH_INDEX.txt, ACTIVE_ANCHOR.txt, README.md, AGENT
 
 Current checked position:
 
-main @ 58cd363
+main @ b1fc494
 
-Latest confirmed clean save:
+Latest sync action:
 
-58cd363 Clean Mr.Kleen PowerShell save gate proof
+Anchor / Current Lane / Next-Move Meaning Sync
 
-Final status after that save was clean.
+## Current Active Ball
 
-## Important Save Gate Rule
+Current active ball is recorded in:
 
-Active save/command wording rule:
+ACTIVE_ANCHOR.txt
 
-BRAIN_LEARNING/MR_KLEEN_POWERSHELL_SAVE_GATE_20260518.md
+Current active ball after this sync:
 
-Clean receipt:
+Anchor / Current Lane / Next-Move Meaning Sync
 
-PROOF_HISTORY/MR_KLEEN_POWERSHELL_SAVE_GATE_CLEAN_RECEIPT_20260518.txt
+## Why This Sync Happened
 
-Simple wording:
+A fog critique found that current-looking files were not aligned.
 
-Mr.Kleen = PC project files plus brain/URL together.
+The strongest fog was:
 
-PowerShell = commands running on the PC.
+- ACTIVE_ANCHOR.txt had stale commit/next-move wording.
+- CURRENT_HOUSE_WORK_STATUS.md carried older status layers.
+- Runtime-kernel work, lifecycle work, and critique/source-ore work could each look current from different entrances.
 
-Correct phrase:
+This file is navigation support only. ACTIVE_ANCHOR.txt remains the active-ball file.
 
-Run this in PowerShell while standing in Mr.Kleen.
+## Current Completed Recent Work
 
-Older local-label receipts/files are superseded failure history only.
+Recent Mr.Kleen work includes:
 
-## Current Practical State
+- lifecycle state clarifier
+- lifecycle clarifier wear test
+- Mr.Kleen / PowerShell paste wording simplification
+- critique-is-not-command gate
+- anchor/current-truth sync candidate saved as judgment/source ore
 
-Main Boss 01 — State / Anchor Truth Alignment is closed for MVP scope.
+## Current Meaning
 
-Main Boss 02 — Lifecycle State Machine has been inspected and reviewed.
+Critique is not command.
 
-The lifecycle gap has been identified around the downstream state chain:
+Source ore is not command.
 
-candidate -> testing -> parked/rejected/installed -> worn -> promoted/rolled-back
+Candidate boss is not command.
 
-The main weak seam is not capture. The weak seam is clean downstream state grammar, especially:
+No repo edits are authorized by critique notes alone.
 
-- installed
-- worn
-- promoted
-- rolled-back
-- rejected / parked distinction when needed
-
-## Runtime Kernel State
-
-Runtime-kernel work has useful support material:
-
-- gates
-- runtime-specific rules
-- dry runs
-- soft tests
-- current-state and resume pointers
-
-Runtime-kernel live build remains blocked unless explicitly approved through the correct gates.
-
-Do not create /system.
-
-Do not create live runtime files.
-
-Do not build status command runtime work from inference.
-
-## Suit System State
-
-The suit system exists as house-work structure.
-
-Soft Suit and Hard Suit concepts help test candidate loadout before promotion.
-
-Soft Suit material is not automatically active doctrine.
-
-Hard Suit promotion requires proof and clean neighbor fit.
-
-## Current Cleanup State
-
-The librarian / anti-web pass has been saved.
-
-Room signs and indexes now exist.
-
-The Mr.Kleen / PowerShell save gate has been repaired and cleaned.
-
-## Next Likely Repair
-
-The next likely repair is a small lifecycle clarifier for:
-
-- installed
-- worn
-- promoted
-- rolled-back
-
-That repair should be small, proven, and placed through the correct lane.
+## Current Blocked Moves
 
 Do not start runtime build.
 
@@ -110,47 +65,32 @@ Do not create /system.
 
 Do not create live runtime files.
 
-Do not reopen Main Boss 01 unless Anchor Sync Check fails or a new state-boundary issue appears.
+Do not build status-command runtime work.
 
-## Assistant Work Rhythm State
+Do not compress doctrine.
 
-A softening rule has been added for assistant work rhythm.
+Do not restructure PROOF_HISTORY.
 
-Active rule:
+Do not touch bridge hardening.
 
-BRAIN_LEARNING/ASSISTANT_WORK_RHYTHM_SOFTENING_RULE_20260518.md
+Do not treat source ore as command.
 
-Meaning:
+Do not reopen Main Boss 01 unless Anchor Sync Check fails or new state-boundary evidence appears.
 
-- fewer unnecessary interruptions
-- fewer repeated labels
-- smoother normal work
-- updates only when they protect orientation, proof, gates, or next movement
+## Parked Real Risks
 
-This does not soften proof, blocked-lane checks, Mr.Kleen save continuity, or final clean status.
+These remain parked, not active repairs:
 
-## Anchor / Current Truth Sync Candidate
+- bridge hardening
+- proof-history bloat
+- runtime tracked files
+- public/private boundary
+- doctrine compression
+- active guide hash manifest
+- scan-source confirmation
 
-Current judgment:
+## Next Selection Rule
 
-Authority-state drift appears to be the top candidate boss.
+After this sync, choose the next repair from current evidence only.
 
-Action status:
-
-No repo edits are authorized by critique notes alone.
-
-Candidate file:
-
-HOUSE_WORK/ANCHOR_CURRENT_TRUTH_SYNC_CANDIDATE/ANCHOR_CURRENT_TRUTH_SYNC_CANDIDATE_20260518.md
-
-Source ore file:
-
-SOURCE_ORE/DEEP_REPO_SCAN_CRITIQUE_SOURCE_ORE_20260518.md
-
-Learning gate:
-
-BRAIN_LEARNING/CRITIQUE_IS_NOT_COMMAND_GATE_20260518.md
-
-If action is later authorized, read actual latest HEAD, inspect ACTIVE_ANCHOR.txt, inspect CURRENT_TRUTH_INDEX.txt, update only active misrouting, create receipt, review diff, then commit/push only if authorized.
-
-Parked risks remain visible but inactive: bridge hardening, proof-history bloat, runtime tracked files, public/private boundary, doctrine compression, active guide hash manifest, and scan-source confirmation.
+Do not let old anchors, old receipts, or source-ore scans create hidden work orders.
