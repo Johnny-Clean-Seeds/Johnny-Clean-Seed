@@ -1,0 +1,28 @@
+TODO ROOM INSTALL RECEIPT
+
+Branch: main
+Head before save: a7bb815
+TODO room: HOUSE_WORK\TODO
+README: HOUSE_WORK\TODO\README.md
+Index: HOUSE_WORK\TODO\TODO_INDEX_20260518.md
+Inbox: HOUSE_WORK\TODO\TODO_CAPTURE_INBOX_20260518.md
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+Receipt file: PROOF_HISTORY\TODO_ROOM_INSTALL_RECEIPT_20260518.txt
+
+Purpose:
+- Create a dedicated TODO room.
+- Stop TODOs from staying loose in chat, receipts, status files, or source ore.
+- Keep TODOs support-only, not command authority.
+- Capture current alarm-check TODOs in a sorted index.
+
+Checks:
+- TODO room readme created: True
+- TODOs not commands: True
+- TODO index created: True
+- Alarm TODOs captured: True
+- Boss ordering preserved: True
+- Inbox created: True
+- Status index updated: True
+
+Verdict:
+PASS - TODO room installed. TODOs now have a support room, raw inbox, sorted index, and current alarm TODOs captured without authorizing broad repair.

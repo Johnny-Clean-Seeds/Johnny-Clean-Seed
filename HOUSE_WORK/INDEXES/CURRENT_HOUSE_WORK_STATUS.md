@@ -224,3 +224,23 @@ When a clean pattern works in one room, check whether the same concept should ap
 If alarms go off across the house, do not scatter-fix.
 
 Capture, list, group, collapse duplicates, rank parent bosses, then fight one boss at a time.
+
+## TODO Room
+
+Active support room:
+
+HOUSE_WORK/TODO/
+
+Main files:
+
+- HOUSE_WORK/TODO/README.md
+- HOUSE_WORK/TODO/TODO_INDEX_20260518.md
+- HOUSE_WORK/TODO/TODO_CAPTURE_INBOX_20260518.md
+
+Meaning:
+
+TODOs are stored in a dedicated room instead of staying loose in chat, receipts, status files, or source ore.
+
+TODOs are support only, not command authority.
+
+Work starts only when the current user command or ACTIVE_ANCHOR.txt selects it.
