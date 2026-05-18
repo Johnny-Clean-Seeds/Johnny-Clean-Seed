@@ -1,0 +1,24 @@
+MR.KLEEN PASTE WORDING RULE RECEIPT
+
+Branch: main
+Head before wording fix: 1af91bb
+Rule file: BRAIN_LEARNING\MR_KLEEN_POWERSHELL_SAVE_GATE_20260518.md
+Rhythm file: BRAIN_LEARNING\ASSISTANT_WORK_RHYTHM_SOFTENING_RULE_20260518.md
+Receipt file: PROOF_HISTORY\MR_KLEEN_PASTE_WORDING_RULE_RECEIPT_20260518.txt
+
+Purpose:
+- Simplify instruction wording.
+- Use Paste into Mr.Kleen for project files plus brain/URL continuity.
+- Use Paste into PowerShell for PC command execution only.
+- Stop using standing-in-Mr.Kleen wording unless debugging a wrong-folder issue.
+
+Checks:
+- Marks test as wear test: True
+- Says clarifier works: True
+- Separates installed from worn: True
+- Separates worn from promoted: True
+- Does not promote yet: True
+- Blocks runtime build: True
+
+Verdict:
+PASS - Wording simplified. Use Paste into Mr.Kleen for project saves/brain continuity and Paste into PowerShell for PC command execution only.

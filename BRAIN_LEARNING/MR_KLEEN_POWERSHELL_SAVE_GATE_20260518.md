@@ -8,34 +8,62 @@ Authority: assistant learning rule for Clean Seed / Clean Milk project work
 
 Mr.Kleen means the project files on the PC and the brain/URL together.
 
-PowerShell means commands running on the PC.
+PowerShell means command execution on the PC.
 
-Use the phrase:
+## Simple Instruction Words
 
-Run this in PowerShell while standing in Mr.Kleen.
+Use:
 
-## Required Gate
+Paste into Mr.Kleen.
+
+Meaning:
+
+The command or content is for project files plus brain/URL continuity.
+
+Use:
+
+Paste into PowerShell.
+
+Meaning:
+
+The command is only a PC command execution step.
+
+## Avoid
+
+Do not say “standing in Mr.Kleen” unless debugging a wrong-folder problem.
+
+Do not say “local/brain” when the simple name is Mr.Kleen.
+
+Do not call Mr.Kleen “local.”
+
+Do not describe project work as PC-only unless the user explicitly says it is only for the PC or only for them.
+
+## Required Gate Before Project Writes
 
 Before writing project files:
 
-1. PowerShell must be standing in Mr.Kleen.
-2. Check .git before writing project files.
-3. Stop if .git is missing.
+1. Confirm the command is being run from Mr.Kleen.
+2. Check `.git` exists.
+3. Stop if `.git` is missing.
+
+The `.git` check must happen before file writes.
 
 ## Save Rule
 
 For project-relevant Clean Seed / Clean Milk work:
 
-1. Write files only while standing in Mr.Kleen.
+1. Write files only from Mr.Kleen.
 2. Review changed files.
 3. Add only intended files.
 4. Commit.
 5. Push.
-6. Confirm final git status --short is clean.
+6. Confirm final `git status --short` is clean.
+
+This keeps Mr.Kleen whole: PC project files plus brain/URL continuity.
 
 ## Power Play
 
-No project file write should happen until PowerShell proves it is standing in Mr.Kleen.
+No project file write should happen until PowerShell proves it is running from Mr.Kleen.
 
 No proof-failed receipt should be committed as if it passed.
 

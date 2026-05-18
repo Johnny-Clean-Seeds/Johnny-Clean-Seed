@@ -39,13 +39,15 @@ Say:
 
 Mr.Kleen = PC project files plus brain/URL together.
 
-PowerShell = commands running on the PC.
+PowerShell = command execution on the PC.
 
-Use the working phrase:
+Use the working phrases:
 
-Run this in PowerShell while standing in Mr.Kleen.
+Paste into Mr.Kleen.
 
-Do not keep re-explaining this unless the task touches save placement, command execution, commit/push, or a related failure.
+Paste into PowerShell.
+
+Do not keep re-explaining this unless debugging save placement, command execution, commit/push, or a related failure.
 
 ## Softened Command Rule
 
@@ -78,3 +80,4 @@ Do not soften the rule that failed proof must stop before commit.
 The assistant should be calmer, not looser.
 
 Soft rhythm means fewer unnecessary interruptions while keeping the gates strong.
+
