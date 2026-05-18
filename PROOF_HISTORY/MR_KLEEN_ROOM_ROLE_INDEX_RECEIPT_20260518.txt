@@ -1,0 +1,35 @@
+MR KLEEN ROOM ROLE INDEX RECEIPT
+
+Branch: main
+Head before save: ccbb2ab
+Index file: HOUSE_WORK\INDEXES\MR_KLEEN_ROOM_ROLE_INDEX_20260518.md
+Index SHA256: E0D3D63D12994C90E819265F4142BDEA8DE8A566B1BE11AAE23277C51B4F313D
+
+Purpose:
+- Tighten root cleanup, room labels, archive boundaries, and exact-tree meaning into one Room Role Index.
+- Define major rooms by job, tier, entry trigger, command boundary, neighbors, non-inference rule, and proof path.
+- Keep this index support-only, not command authority.
+- Avoid moving files or splitting source ore during this step.
+
+Blocked / not done:
+- No file moves.
+- No cleanup.
+- No source-ore split.
+- No anchor refresh.
+- No script/tool index yet.
+
+Checks:
+- Index file exists: True
+- Support-only authority present: True
+- Exact tree relationship present: True
+- Room role meaning present: True
+- Active spine defined: True
+- Support control defined: True
+- Evidence defined: True
+- Source parked defined: True
+- Tools tests archive defined: True
+- Source ore cannot command: True
+- Placement closing rule present: True
+
+Verdict:
+PASS - Room Role Index saved as support-only placement map. It compresses root clarity, room labels, archive boundaries, and tree meaning into one map.
