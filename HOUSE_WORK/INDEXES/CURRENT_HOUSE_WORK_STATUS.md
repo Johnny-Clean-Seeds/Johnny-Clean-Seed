@@ -5,6 +5,40 @@ Role: current house-work orientation
 Authority: navigation support only
 Not authority over: CURRENT_TRUTH_INDEX.txt, ACTIVE_ANCHOR.txt, README.md, AGENTS.md
 
+## Current Mr.Kleen Position
+
+Current checked position:
+
+main @ 58cd363
+
+Latest confirmed clean save:
+
+58cd363 Clean Mr.Kleen PowerShell save gate proof
+
+Final status after that save was clean.
+
+## Important Save Gate Rule
+
+Active save/command wording rule:
+
+BRAIN_LEARNING/MR_KLEEN_POWERSHELL_SAVE_GATE_20260518.md
+
+Clean receipt:
+
+PROOF_HISTORY/MR_KLEEN_POWERSHELL_SAVE_GATE_CLEAN_RECEIPT_20260518.txt
+
+Simple wording:
+
+Mr.Kleen = PC project files plus brain/URL together.
+
+PowerShell = commands running on the PC.
+
+Correct phrase:
+
+Run this in PowerShell while standing in Mr.Kleen.
+
+Older local-label receipts/files are superseded failure history only.
+
 ## Current Practical State
 
 Main Boss 01 — State / Anchor Truth Alignment is closed for MVP scope.
@@ -51,23 +85,17 @@ Soft Suit material is not automatically active doctrine.
 
 Hard Suit promotion requires proof and clean neighbor fit.
 
-## Current Cleanup Task
+## Current Cleanup State
 
-The current task is librarian / anti-web labeling.
+The librarian / anti-web pass has been saved.
 
-This task adds signs and maps only.
+Room signs and indexes now exist.
 
-It does not install lifecycle doctrine.
-
-It does not rewrite the big review notes.
-
-It does not delete evidence or notes.
-
-It does not create new bosses.
+The Mr.Kleen / PowerShell save gate has been repaired and cleaned.
 
 ## Next Likely Repair
 
-After this librarian pass, the next likely repair is a small lifecycle clarifier for:
+The next likely repair is a small lifecycle clarifier for:
 
 - installed
 - worn
@@ -75,3 +103,11 @@ After this librarian pass, the next likely repair is a small lifecycle clarifier
 - rolled-back
 
 That repair should be small, proven, and placed through the correct lane.
+
+Do not start runtime build.
+
+Do not create /system.
+
+Do not create live runtime files.
+
+Do not reopen Main Boss 01 unless Anchor Sync Check fails or a new state-boundary issue appears.
