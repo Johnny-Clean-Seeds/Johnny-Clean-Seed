@@ -467,3 +467,23 @@ The checker verifies meaning, job, lane, authority boundary, neighbor relationsh
 Receipt:
 
 PROOF_HISTORY/WORD_KEY_CLARITY_CHECKER_RULE_RECEIPT_20260518.txt
+
+## Middle Room Soft Trial And Idea Filing Rules
+
+Status:
+
+SAVED
+
+Meaning:
+
+BRAIN_LEARNING remains physically top-level for now, but is defined functionally as part of the middle operating layer.
+
+A soft trial review was saved before any hard move.
+
+Recursive adoption and idea filing rules were saved.
+
+A soft filing-cabinet index was saved for idea retrieval without moving files.
+
+Receipt:
+
+PROOF_HISTORY/MIDDLE_ROOM_SOFT_TRIAL_AND_IDEA_FILING_RULES_RECEIPT_20260518.txt

@@ -1,0 +1,46 @@
+MIDDLE ROOM SOFT TRIAL AND IDEA FILING RULES RECEIPT
+
+Branch: main
+Head before save: 1b5a2ba
+Rule file: BRAIN_LEARNING\RECURSIVE_ADOPTION_AND_IDEA_FILING_RULES_20260518.md
+Rule SHA256: 380E2D7A6C5C9C317F3420DE1C2D63A65D7550C3818970E66DB234F183DE2035
+Review file: HOUSE_WORK\PLACEMENT_REVIEWS\MIDDLE_ROOM_SOFT_TRIAL_REVIEW_20260518.md
+Review SHA256: 5027385A333F9B1D303F28A8B958C7D1858CC3651BCA831A6A3C82A3C95B4DCE
+Cabinet index: HOUSE_WORK\INDEXES\IDEA_FILING_CABINET_SOFT_INDEX_20260518.md
+Cabinet SHA256: 1DF4BBD4730676F0FBBA17EC32C5EA2792827457DF923802961227FEC9478B0D
+
+Purpose:
+- Save recursive adoption and idea filing rules.
+- Soft-test BRAIN_LEARNING as part of the middle operating layer without moving it.
+- Create a filing-cabinet support index for idea retrieval.
+- Preserve old ideas while keeping current/hot ideas near the front.
+- Require task-fitting idea search, grouping, comparison, adoption, parking, and proof.
+
+Blocked / not done:
+- No BRAIN_LEARNING move.
+- No hard room restructure.
+- No source promotion.
+- No doctrine promotion beyond assistant learning rules.
+- No cleanup.
+- No runtime work.
+- No tool run.
+
+Checks:
+- Rule file exists: True
+- Review file exists: True
+- Cabinet index exists: True
+- Soft trial before hard move present: True
+- Task-fitting idea search present: True
+- Group before compare present: True
+- Recursive across board present: True
+- Adopt better now present: True
+- Old ways retrievable present: True
+- Filing cabinet present: True
+- Front shelf present: True
+- Middle room soft trial selected: True
+- No hard move declared: True
+- Cabinet soft support index present: True
+- Status updated: True
+
+Verdict:
+PASS - Middle room soft trial and recursive idea filing rules saved. BRAIN_LEARNING remains in place while being functionally tied to the middle operating layer.
