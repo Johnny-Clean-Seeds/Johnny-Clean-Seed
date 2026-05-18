@@ -1,0 +1,91 @@
+CLEAN_BRAIN_LANGUAGE_FILE_WORDING_RULE_001
+Status: ACTIVE SUPPORT NOTE / WORDING CLEANLINESS RULE
+Authority: Not active doctrine.
+Home: PUBLIC_NOTES
+Date: 2026-05-17
+
+PURPOSE
+
+This note protects clean model language inside project files.
+
+Project files should use the model's own words.
+
+Do not muddy the file language with behind-the-scenes explanations that confuse the house.
+
+CORE RULE
+
+Use clean model language in project-facing files:
+
+- brain
+- local home
+- repo home
+- lock/save
+- dual save
+- proof
+- placement
+- lane
+- room
+- support note
+- active guide
+- source truth
+
+Do not write confusing implementation explanations into project files when the model word is enough.
+
+WHY THIS MATTERS
+
+Words are keys.
+
+A dirty word can misroute the assistant.
+
+A clean word helps the assistant enter the right room, use the right lane, respect authority, and prove the right thing.
+
+FILE LANGUAGE RULE
+
+In project files:
+
+- brain means brain,
+- local home means the Mr.Kleen repo home,
+- repo home means the house being worked,
+- lock/save means real applied save,
+- dual save means brain plus local home unless an exception is explicit.
+
+Use the clean word.
+
+Do not over-explain the machinery inside the house notes.
+
+ASSISTANT DUTY
+
+When writing project files, the assistant must:
+
+1. use the model's word set,
+2. avoid CYA wording,
+3. avoid meta-explanations that confuse role or authority,
+4. keep brain/local wording clean,
+5. define new words in the word-key index when they become important,
+6. prove the file uses the clean wording before lock/save.
+
+MODEL FIT
+
+This rule supports:
+
+- word-key precision,
+- real lock/save,
+- default dual save,
+- Mr.Kleen local bridge,
+- assistant suit,
+- proof before right,
+- note processing and parking.
+
+CLOSE RULE
+
+This note must not outrank CURRENT_TRUTH_INDEX.txt.
+
+This note must not outrank ACTIVE_GUIDES.
+
+It is a support note that keeps project language clean.
+
+Keep it visible while useful.
+
+When stale, move or archive through a proper review gate.
+
+Do not delete it.
