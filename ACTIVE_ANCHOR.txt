@@ -1,32 +1,26 @@
 ACTIVE BALL:
-Main Boss 01 — State / Anchor Truth Alignment.
+Main Boss 02 — Lifecycle State Machine.
 
 CURRENT POSITION:
-main @ c5dfe0a after Anchor Sync Check lock and replay.
+main @ 3aadc85 after Main Boss 01 MVP close decision.
 
 CURRENT RULE:
-Before any boss cycle, runtime lane move, promotion, command build, bridge action, large issue ranking, cleanup, or handoff, the house must run Anchor Sync Check and prove the current active state is aligned.
+Main Boss 01 — State / Anchor Truth Alignment is closed for MVP scope.
 
-Anchor alignment means:
-- ACTIVE_ANCHOR.txt names the current active ball.
-- CURRENT_TRUTH_INDEX.txt orients the house and source routing.
-- Current git HEAD is known.
-- Latest relevant receipt/checkpoint is known.
-- One next allowed move is named.
-- Blocked moves are explicit.
-- Source-ore and proof-history are not treated as active doctrine by volume.
+Before any boss cycle, runtime lane move, promotion, command build, bridge action, large issue ranking, cleanup, or handoff, the house must still run Anchor Sync Check and prove the current active state is aligned.
 
 NEXT ALLOWED MOVE:
-Decide whether Main Boss 01 is closed or whether another state-alignment child remains.
+Begin dry inspection for Main Boss 02 — Lifecycle State Machine.
+
+Main Boss 02 must inspect candidate -> testing -> parked/rejected/installed -> worn -> promoted/rolled-back flow before any lifecycle rule is installed.
 
 BLOCKED:
 - Do not fight the full 50-boss list.
 - Do not fight all 9 parent bosses.
+- Do not reopen Main Boss 01 unless Anchor Sync Check fails or a new state-alignment child appears.
 - Do not build the status command runtime lane.
 - Do not create /system.
 - Do not create a live runtime file.
 - Do not promote source-ore into active doctrine.
-- Do not treat the old Boss Cycle Leash anchor as current.
-- Do not treat "Build and lock the Anchor Sync Check" as still pending.
 - Do not wear an unproven fix.
 - Do not let metaphor outrank proof.
