@@ -1,0 +1,31 @@
+ANCHOR SYNC ACTIVE ANCHOR REPAIR RECEIPT
+
+Brain home:
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+
+Starting position:
+main @ 9cfc374
+
+Problem found:
+ACTIVE_ANCHOR.txt was stale.
+It still pointed to main @ 756437a and the old Boss Cycle Leash install step.
+
+Repair:
+Updated ACTIVE_ANCHOR.txt to the current live boss:
+Main Boss 01 — State / Anchor Truth Alignment.
+
+Next allowed move:
+Build and lock the Anchor Sync Check as the smallest clean fix for Main Boss 01.
+
+Blocked moves:
+- full 50-boss fight
+- all-parent-boss fight
+- status command runtime lane
+- /system
+- live runtime file
+- source-ore promotion
+- old Boss Cycle Leash anchor as current
+- wearing unproven fix
+
+Verdict:
+PASS CANDIDATE — active anchor repaired. Needs git commit/push and clean status proof.

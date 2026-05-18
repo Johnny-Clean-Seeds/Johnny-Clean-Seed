@@ -1,18 +1,31 @@
 ACTIVE BALL:
-Install the Boss Cycle Leash rule before running the requested 10-boss weakness repair cycle.
+Main Boss 01 — State / Anchor Truth Alignment.
 
 CURRENT POSITION:
-main @ 756437a before this rule install.
+main @ 9cfc374 before anchor-sync repair.
 
 CURRENT RULE:
-Do not begin the 10-boss run until the boss/fight/wear/walk-around cycle is defined in the active guides and proof is saved.
+Before any boss cycle, runtime lane move, promotion, command build, bridge action, or large issue ranking, the house must prove the active state is aligned.
+
+Anchor alignment means:
+- ACTIVE_ANCHOR.txt names the current active ball.
+- CURRENT_TRUTH_INDEX.txt orients the house and source routing.
+- Current git HEAD is known.
+- Latest relevant receipt/checkpoint is known.
+- One next allowed move is named.
+- Blocked moves are explicit.
+- Source-ore and proof-history are not treated as active doctrine by volume.
 
 NEXT ALLOWED MOVE:
-Install Boss Cycle Leash in Wrap Guide and Alignment Check, save decision/proof, commit, push, and verify clean status.
+Build and lock the Anchor Sync Check as the smallest clean fix for Main Boss 01.
 
 BLOCKED:
-- Do not start fixing 10 bosses before this rule install passes.
-- Do not rewrite the core model.
-- Do not let metaphor outrank proof.
-- Do not fight multiple bosses at once.
+- Do not fight the full 50-boss list.
+- Do not fight all 9 parent bosses.
+- Do not build the status command runtime lane.
+- Do not create /system.
+- Do not create a live runtime file.
+- Do not promote source-ore into active doctrine.
+- Do not treat the old Boss Cycle Leash anchor as current.
 - Do not wear an unproven fix.
+- Do not let metaphor outrank proof.
