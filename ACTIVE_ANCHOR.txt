@@ -1,35 +1,30 @@
 ACTIVE BALL:
-Current Placement Base After Work Shed And Self-Repair Rules
+Current Base After Work Shed Operating Index Proof Repair
 
 RECORDED CURRENT BASE:
-main @ 2b4c265
+main @ 3ef3a50
 
 STATUS:
 PLACEMENT BASE CURRENT
 
 CURRENT PROVEN BASE:
-main @ 2b4c265
+main @ 3ef3a50
 
 CURRENT PROVEN ITEMS:
-- Front Door / Authority Group is linked for this scope.
-- TODO Trace-Gated Boss Control is installed.
-- Exact Mr.Kleen file tree is saved as support map only.
-- Room Role Index is saved as support-only placement map.
-- Duplicate Room Role Index commit-message noise is clarified.
-- Script / Tool Index is saved as support-only placement map.
-- Desktop 123 raw source capture is preserved.
-- Desktop 123 source ore is split into source-only shelves.
-- Conditional Weigh Options Before Code rule is saved.
-- Bell Logic Gate catches named house-surface bells and model-logic shape bells.
-- Word-Key Clarity Checker is saved as Bell Logic Gate companion.
-- Middle Room soft trial and recursive idea filing rules are saved.
-- Work Shed soft room is created under HOUSE_WORK.
+- Work Shed soft room exists under HOUSE_WORK.
 - Work Shed drawer folders are preserved with README files.
 - Work Shed passed first-use test.
-- Issue Self-Repair and Room Redesign Authority rule is saved.
+- Work Shed operating index exists.
+- Initial Work Shed operating index receipt failed because status index update check failed.
+- Failed Work Shed operating index receipt is preserved as historical evidence.
+- Work Shed operating index proof was repaired by superseding receipt.
+- CURRENT_HOUSE_WORK_STATUS.md now records the Work Shed operating index repair.
+- Public Git history was not rewritten.
+- Issue Self-Repair and Room Redesign Authority rule is active.
+- Bell Logic Gate and Word-Key Clarity Checker are active learning supports.
 
 CURRENT WORK SHED POSITION:
-HOUSE_WORK/WORK_SHED is a support-only assistant workroom.
+HOUSE_WORK/WORK_SHED is the assistant's support-only controlled messy workroom.
 
 It may receive messy idea loads, sort them, make idea cards, keep hot helpers on the front shelf, park inactive methods, preserve old ways, and maintain indexes.
 
@@ -41,28 +36,18 @@ It cannot become doctrine.
 
 Material must pass the Work Shed exit gate before leaving.
 
-CURRENT SELF-REPAIR POSITION:
-The assistant may diagnose and repair fixable issues inside doctrine and current scope.
+CURRENT PROOF POSITION:
+The failed Work Shed operating index receipt remains preserved.
 
-The assistant may create helpers, checkers, indexes, tools, Work Shed supports, soft trial rooms, and room redesigns when needed.
+The valid superseding repair receipt is:
 
-Room moves require soft design/review, option weighing when bells ring, neighbor protection, old-path preservation, proof, save, push, and clean status.
+PROOF_HISTORY/WORK_SHED_OPERATING_INDEX_PROOF_REPAIR_RECEIPT_20260518.txt
 
 NEXT ALLOWED MOVE:
-Create a Work Shed operating index so future tasks have a clear entry/use path for the Work Shed.
+Use the Work Shed during the next messy idea/task intake, or select a new boss.
 
-No new boss is automatically selected beyond the current user-approved next move.
-
-RECOMMENDED NEXT MOVE:
-HOUSE_WORK/WORK_SHED/INDEXES/WORK_SHED_OPERATING_INDEX_20260518.md
-
-Purpose:
-- define when to use the Work Shed
-- define how to drop ideas into INBOX
-- define how to sort on SORTING_BENCH
-- define when to create IDEA_CARDS
-- define when something goes to FRONT_SHELF, PARKED_METHODS, or OLD_WAYS
-- define when a Work Shed item may exit to another room
+Recommended next candidate:
+Run a small Work Shed live-use pass on the next real pile instead of making more structure immediately.
 
 BLOCKED MOVES:
 Do not start runtime build.

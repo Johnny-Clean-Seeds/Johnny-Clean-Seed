@@ -641,3 +641,27 @@ PROOF_HISTORY/WORK_SHED_OPERATING_INDEX_PROOF_REPAIR_RECEIPT_20260518.txt
 Failed receipt preserved:
 
 PROOF_HISTORY/WORK_SHED_OPERATING_INDEX_RECEIPT_20260518.txt
+
+## Anchor After Work Shed Operating Index Repair
+
+Status:
+
+SAVED
+
+Current proven base:
+
+main @ 3ef3a50
+
+Meaning:
+
+The anchor now reflects the proof-repaired Work Shed operating index state.
+
+The failed Work Shed operating index receipt is preserved as historical evidence.
+
+The superseding repair receipt is the valid current proof for the Work Shed operating index status repair.
+
+No Work Shed material commands, promotes, or becomes doctrine by being in the Work Shed.
+
+Receipt:
+
+PROOF_HISTORY/ANCHOR_AFTER_WORK_SHED_OPERATING_INDEX_REPAIR_RECEIPT_20260518.txt

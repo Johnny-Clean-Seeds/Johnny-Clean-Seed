@@ -1,0 +1,36 @@
+ANCHOR AFTER WORK SHED OPERATING INDEX REPAIR RECEIPT
+
+Branch: main
+Head before save: 3ef3a50
+Anchor file: ACTIVE_ANCHOR.txt
+Anchor SHA256: D40188B380068DF3A6DDAF1C1CE1A6350B0CF035D529BFD08321AD18393E50F5
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Purpose:
+- Refresh ACTIVE_ANCHOR.txt to current proven base main @ 3ef3a50.
+- Record that the Work Shed operating index proof was repaired.
+- Preserve the failed receipt as historical evidence.
+- Keep Work Shed support-only.
+- Recommend live-use pass instead of more structure.
+
+Blocked / not done:
+- No room moved.
+- No source promoted.
+- No doctrine installed beyond anchor/status refresh.
+- No runtime work.
+- No cleanup.
+- No tool run.
+- No active guide rewrite.
+
+Checks:
+- Anchor names current base 3ef3a50: True
+- Anchor names operating index exists: True
+- Anchor names failed receipt preserved: True
+- Anchor names superseding repair receipt: True
+- Anchor blocks Work Shed command: True
+- Anchor blocks Work Shed promotion: True
+- Anchor recommends live-use pass: True
+- Status index updated: True
+
+Verdict:
+PASS - ACTIVE_ANCHOR refreshed to main @ 3ef3a50 after Work Shed operating index proof repair.
