@@ -852,3 +852,66 @@ OPEN SOFT SUIT TASKS
 
 [OPEN] Keep old ideas available as source-ore or parking material until a review gate says otherwise.
 
+
+ADAPTATION_PATTERN_LOOP_FLOW_RULE_001
+
+Status: OPEN GROWTH METHOD ADDITION
+
+Purpose: Add active adaptation, mistake learning, pattern repair, complete-loop checks, and flow-making to the recursive house worksheet.
+
+CORE FLOW
+
+Find patterns.
+
+Fix breaks.
+
+Complete loops.
+
+Make flow.
+
+ADAPTATION / BOAT AFLOAT RULE
+
+When the house needs something to reduce fog and keep moving cleanly, the assistant may use tools, make tools, modify tools, move rooms, add rooms, add routes, create maps, create bridges, create indexes, create checkboards, or add companions.
+
+This is clean only when it blesses the existing model, protects neighbors, improves proof, and stays inside authority.
+
+MISTAKE GROWTH RULE
+
+Mistakes should be reported, captured, studied, converted into power plays, placed or parked, and then moved past.
+
+A mistake is useful when it creates cleaner future movement.
+
+A mistake is dirty only when hidden, repeated without learning, or used to bypass proof.
+
+PATTERN LOOP METHOD
+
+1. Pattern: what repeated or rhymed?
+2. Break: where did flow stop?
+3. Loop: what cycle should have completed?
+4. Missing piece: what map, bridge, link, jack, ladder, room, tool, or proof was absent?
+5. Repair: what is the lowest-force clean fix?
+6. Proof: how do we know the loop now closes?
+7. Journal: what lesson should remain visible?
+8. Lock/save: what must be placed in brain and local home?
+9. Next flow: what is the next clean point?
+
+COMPLETE LOOP CHECK
+
+A loop is complete only when source truth is known, lane is named, action is placed, proof is captured, neighbor lanes are safe, lesson is journaled, parking is handled, lock/save is applied, and the next clean point is visible.
+
+OPEN ADAPTATION TASKS
+
+[OPEN] Add adaptation and boat-afloat checks to future whole-job done check.
+
+[OPEN] Build a complete-loop proof pattern.
+
+[OPEN] Build a pattern-loop repair template.
+
+[OPEN] Add tool / room freedom rule to support-rule placement map.
+
+[OPEN] Add mistake-growth reporting to future review gates.
+
+[OPEN] Add flow-making check to future house walks.
+
+[OPEN] Review whether existing parking lots contain old ideas ready for a companion.
+

@@ -318,6 +318,58 @@ To preserve an idea, method, or pattern for later without forcing it into curren
 
 Parked material is not discarded and is not promoted.
 
+ADAPTATION LOOP WORD KEYS
+
+ADAPT
+
+To change method, tool, route, room, or support pattern so the house can keep clean movement without fog.
+
+Adaptation is clean only when it blesses the model and protects authority, proof, and neighbors.
+
+BOAT AFLOAT
+
+A state where the house can keep moving without sinking into fog, drift, overload, or broken loops.
+
+Boat afloat does not mean rushing. It means clean movement is still possible.
+
+PATTERN LOOP
+
+A repair method that finds the repeated shape, names the break, identifies the interrupted loop, repairs the missing piece, proves closure, journals the lesson, and resumes from the next clean point.
+
+BREAK
+
+The point where expected clean flow stops, leaks, loops, drifts, or loses proof.
+
+COMPLETE LOOP
+
+A finished cycle where source truth, lane, action, proof, neighbor safety, lesson, parking, lock/save, and next clean point are all handled.
+
+FLOW
+
+Clean movement from issue to capture to pattern to lane to companion to repair to proof to lock/save to next action.
+
+TOOL FREEDOM
+
+Permission to use, make, modify, or park tools when the house needs them.
+
+Tool freedom remains bounded by authority, proof, neighbor policy, and model fit.
+
+ROOM FREEDOM
+
+Permission to add, move, or refine support rooms when the house needs cleaner placement.
+
+Room freedom is clean only when the room has a job, boundary, proof path, and close condition.
+
+MISTAKE GROWTH
+
+The process of reporting, capturing, learning from, and converting mistakes into power plays.
+
+Mistake growth prevents shame loops and prevents ignored failures.
+
+NEXT CLEAN POINT
+
+The point where work should resume after a fix, pause, proof, parking action, or mistake lesson.
+
 CLOSE RULE
 
 This index is a support note.
@@ -327,5 +379,6 @@ It must not outrank CURRENT_TRUTH_INDEX.txt.
 It must not outrank ACTIVE_GUIDES.
 
 It should grow carefully as words become real working keys.
+
 
 

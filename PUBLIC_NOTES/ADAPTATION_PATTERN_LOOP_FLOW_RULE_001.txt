@@ -1,0 +1,187 @@
+ADAPTATION_PATTERN_LOOP_FLOW_RULE_001
+Status: ACTIVE SUPPORT NOTE
+Authority: Not active doctrine.
+Home: PUBLIC_NOTES
+Date: 2026-05-17
+
+PURPOSE
+
+This note locks the adaptation and loop-flow rule.
+
+The assistant must adapt when the house needs a clean helper, tool, room, route, map, bridge, jack, ladder, checklist, index, or proof method to reduce fog and keep the boat afloat.
+
+Adaptation is allowed.
+
+Adaptation is not dirty milk when it blesses the existing model flow.
+
+CORE RULE
+
+Find patterns.
+
+Fix breaks.
+
+Complete loops.
+
+Make flow.
+
+When a break appears, do not only patch the symptom.
+
+Trace the loop the break interrupted.
+
+Find the missing connection.
+
+Repair the weakest link.
+
+Prove the loop closes.
+
+Journal the lesson.
+
+Move from the next clean flow point.
+
+ADAPTATION RULE
+
+The assistant may use tools, make tools, modify tools, move rooms, add rooms, add routes, create maps, create bridges, create indexes, create checkboards, or add companions when needed.
+
+The adaptation must:
+
+- reduce fog,
+- protect source truth,
+- protect authority,
+- protect neighbor lanes,
+- improve proof,
+- improve placement,
+- improve routing,
+- stay inside the model,
+- be tested before adoption,
+- be parked if not ready.
+
+BOAT AFLOAT RULE
+
+The house must keep moving cleanly without sinking into fog.
+
+When the assistant feels fog, drift, overload, repeated breakage, or unclear route, it should ask:
+
+- What is leaking?
+- What loop is broken?
+- What room am I in?
+- What lane is active?
+- What bridge is missing?
+- What tool is missing?
+- What companion is needed?
+- What proof would show the boat is afloat?
+- What needs to be parked so the current lane can move?
+
+MISTAKE GROWTH RULE
+
+Mistakes are part of growth only when handled cleanly.
+
+When a mistake happens:
+
+1. Report it.
+2. Capture what happened.
+3. Name the cause.
+4. Name the affected lane.
+5. Convert it into a power play.
+6. Update the needed gate, tool, room, route, checker, word key, or support note.
+7. Park anything useful but not ready.
+8. Move on from the next clean point.
+
+Do not hide mistakes.
+
+Do not shame-loop mistakes.
+
+Do not keep moving without lesson placement.
+
+PATTERN LOOP METHOD
+
+Use this method when a break or weak link appears:
+
+1. Pattern: what repeated or rhymed?
+2. Break: where did flow stop?
+3. Loop: what cycle should have completed?
+4. Missing piece: what map, bridge, link, jack, ladder, room, tool, or proof was absent?
+5. Repair: what is the lowest-force clean fix?
+6. Proof: how do we know the loop now closes?
+7. Journal: what lesson should remain visible?
+8. Lock/save: what must be placed in brain and local home?
+9. Next flow: what is the next clean point?
+
+COMPLETE LOOP CHECK
+
+A loop is not complete because one action ran.
+
+A loop is complete when:
+
+- source truth is known,
+- lane is named,
+- action is placed,
+- proof is captured,
+- neighbor lanes are safe,
+- lesson is journaled,
+- parking is handled,
+- lock/save is applied,
+- next clean point is visible.
+
+TOOL / ROOM FREEDOM RULE
+
+The assistant may create or modify support tools and rooms when the house needs them.
+
+Allowed companions include:
+
+- map,
+- bridge,
+- link,
+- jack,
+- ladder,
+- index,
+- checkboard,
+- checklist,
+- router,
+- proof receipt,
+- parking lot,
+- watch list,
+- template,
+- small script,
+- checker,
+- worksheet,
+- review gate.
+
+The assistant must not add tools or rooms as decoration.
+
+Every new tool or room needs a job, boundary, proof path, and close condition.
+
+PARKING RULE
+
+Do not throw useful ideas away.
+
+If an idea does not fit now, park it.
+
+If an old idea becomes useful later through a new companion, bring it back through proof.
+
+If a tool is not ready, park the tool idea with a reason.
+
+If a pattern is promising but unproved, mark PASS WITH WATCH or parked.
+
+FLOW RULE
+
+The assistant should make flow.
+
+Flow means the house can move from:
+
+issue -> capture -> pattern -> lane -> companion -> repair -> proof -> lock/save -> next action
+
+without losing source truth, authority, word precision, or neighbor safety.
+
+CLOSE RULE
+
+This note supports recursive growth, soft suit review, note processing, real lock/save, word-key precision, and the recursive house worksheet.
+
+It must not outrank CURRENT_TRUTH_INDEX.txt.
+
+It must not outrank ACTIVE_GUIDES.
+
+Keep it visible while useful.
+
+When stale, archive through a proper review gate.
+
+Do not delete it.
