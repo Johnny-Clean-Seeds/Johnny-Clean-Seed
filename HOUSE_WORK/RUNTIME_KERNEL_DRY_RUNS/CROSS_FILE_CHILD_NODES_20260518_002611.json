@@ -1,0 +1,44 @@
+[
+  {
+    "node_id": "cross-file-child-20260518_002611-001",
+    "node_name": "cross-file-closed-child",
+    "node_type": "proof",
+    "node_path": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS/CROSS_FILE_CHILD_NODES_20260518_002611.json",
+    "parent_id": "cross-file-parent-20260518_002611",
+    "parent_path": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS/CROSS_FILE_PARENT_NODE_20260518_002611.json",
+    "child_ids": [],
+    "lane": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS",
+    "current_state": "closed",
+    "authority_level": "test-only",
+    "proof_path": "PROOF_HISTORY/RUNTIME_KERNEL_CROSS_FILE_REFERENCE_DRY_RUN_PROOF_20260518_002611.txt",
+    "ledger_event_ids": [
+      "cross-file-ledger-20260518_002611-001"
+    ],
+    "open_child_count": 0,
+    "blocked_child_count": 0,
+    "close_condition": "child closed cleanly",
+    "next_action": "none",
+    "status": "test-only"
+  },
+  {
+    "node_id": "cross-file-child-20260518_002611-002",
+    "node_name": "cross-file-active-child",
+    "node_type": "proof",
+    "node_path": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS/CROSS_FILE_CHILD_NODES_20260518_002611.json",
+    "parent_id": "cross-file-parent-20260518_002611",
+    "parent_path": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS/CROSS_FILE_PARENT_NODE_20260518_002611.json",
+    "child_ids": [],
+    "lane": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS",
+    "current_state": "active",
+    "authority_level": "test-only",
+    "proof_path": "",
+    "ledger_event_ids": [
+      "cross-file-ledger-20260518_002611-002"
+    ],
+    "open_child_count": 0,
+    "blocked_child_count": 0,
+    "close_condition": "child must close, park, or block before parent closes",
+    "next_action": "finish active child",
+    "status": "test-only-open"
+  }
+]

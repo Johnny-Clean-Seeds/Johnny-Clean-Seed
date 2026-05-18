@@ -1,0 +1,24 @@
+{
+  "node_id": "cross-file-parent-20260518_002611",
+  "node_name": "cross-file-reference-parent",
+  "node_type": "run",
+  "node_path": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS/CROSS_FILE_PARENT_NODE_20260518_002611.json",
+  "parent_id": "runtime-kernel-open-child-refusal-dry-run",
+  "child_ids": [
+    "cross-file-child-20260518_002611-001",
+    "cross-file-child-20260518_002611-002"
+  ],
+  "lane": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS",
+  "current_state": "active",
+  "authority_level": "test-only",
+  "proof_path": "PROOF_HISTORY/RUNTIME_KERNEL_CROSS_FILE_REFERENCE_DRY_RUN_PROOF_20260518_002611.txt",
+  "ledger_event_ids": [
+    "cross-file-ledger-20260518_002611-001",
+    "cross-file-ledger-20260518_002611-002"
+  ],
+  "open_child_count": 1,
+  "blocked_child_count": 0,
+  "close_condition": "cross-file children must resolve before parent can close",
+  "next_action": "resolve child references",
+  "status": "test-only"
+}
