@@ -1,0 +1,22 @@
+{
+  "node_id": "dry-run-node-20260518_001412-001",
+  "node_name": "minimal-live-cycle-dry-run",
+  "node_type": "run",
+  "node_path": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS/MINIMAL_LIVE_CYCLE_DRY_RUN_20260518_001412.md",
+  "parent_id": "runtime-kernel-promotion-readiness-summary",
+  "child_ids": [
+    "sample-ledger-row-20260518_001412",
+    "sample-proof-note-20260518_001412"
+  ],
+  "lane": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS",
+  "current_state": "judged",
+  "authority_level": "test-only",
+  "proof_path": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS/SAMPLE_PROOF_NOTE_20260518_001412.md",
+  "ledger_event_ids": [
+    "dry-run-20260518_001412-001"
+  ],
+  "open_child_count": 0,
+  "blocked_child_count": 0,
+  "close_condition": "sample cycle closes without creating /system, commands, live runtime files, or Hard Suit promotion",
+  "next_action": "hold for review"
+}

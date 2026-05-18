@@ -1,0 +1,21 @@
+{
+  "event_id": "dry-run-20260518_001412-001",
+  "timestamp": "20260518_001412",
+  "event_type": "judge",
+  "subject_name": "minimal-live-cycle-dry-run",
+  "subject_path": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS/MINIMAL_LIVE_CYCLE_DRY_RUN_20260518_001412.md",
+  "prior_state": "proof-needed",
+  "new_state": "judged",
+  "lane": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS",
+  "source_context": "Runtime Kernel Promotion Readiness Summary",
+  "proof_path": "HOUSE_WORK/RUNTIME_KERNEL_DRY_RUNS/SAMPLE_PROOF_NOTE_20260518_001412.md",
+  "decision": "PASS WITH HOLD",
+  "next_action": "review dry-run result before any live runtime build",
+  "parent_event": "runtime-kernel-minimal-live-cycle-dry-run",
+  "related_events": [
+    "universal-state-machine-soft-test",
+    "single-system-ledger-soft-test",
+    "parent-child-map-soft-test"
+  ],
+  "status": "test-only"
+}
