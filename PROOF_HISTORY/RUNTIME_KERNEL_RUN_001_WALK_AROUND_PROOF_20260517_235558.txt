@@ -1,0 +1,37 @@
+RUNTIME KERNEL RUN 001 WALK-AROUND PROOF
+
+Brain home:
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+
+Starting brain position:
+main @ a5b0a35
+
+Starting status:
+clean
+
+Files:
+BRAIN\SUIT\UNIVERSAL_STATE_MACHINE_SOFT_TEST.md
+HOUSE_WORK\RUNTIME_KERNEL_RUNS\RUNTIME_KERNEL_RUN_001_WALK_AROUND_TEST_20260517_235558.md
+
+Hashes:
+StateMachineFile: 586C3D4B647A1BF78198BAA2DDA0E9F71C3D31C8C60DD48F52516491D0E72BDB
+WalkFile: 43BAF95FA56540855A48ADE2CAC6DB829F490D7313EA1056C84E2545CE044EB2
+
+Checks:
+start_position_recorded: True
+start_status_clean: True
+state_machine_file_exists: True
+walk_file_exists: True
+targets_exist: True
+tests_all_required_states: True
+does_not_promote_state_machine: True
+does_not_build_runtime_kernel: True
+finds_hard_suit_neighbor_issue: True
+verdict_partial_pass_guardrail: True
+
+
+Failed checks:
+
+
+Verdict:
+PASS - walk-around test saved. Universal State Machine remains Soft Suit candidate. Verdict is PARTIAL PASS WITH GUARDRAIL because Hard Suit support-link versus active-pack distinction needs clarification before promotion.
