@@ -857,3 +857,23 @@ No lifecycle draft was promoted.
 Receipt:
 
 PROOF_HISTORY/MAIN_BOSS_02_LIFECYCLE_DEEP_SCAN_PROOF_PHASE_RECEIPT_20260518.txt
+
+## Discovery Capture Interrupt Rule
+
+Status:
+
+PROOF PHASE PASSED - SAVE PHASE NEEDED
+
+Meaning:
+
+Assistant capture timing failure was converted into a power play.
+
+The Discovery Capture Interrupt Rule was drafted.
+
+The Lifecycle State Change Sync Gate was captured as a Work Shed candidate.
+
+No lifecycle sync gate was installed yet.
+
+Receipt:
+
+PROOF_HISTORY/DISCOVERY_CAPTURE_INTERRUPT_RULE_PROOF_PHASE_RECEIPT_20260518.txt

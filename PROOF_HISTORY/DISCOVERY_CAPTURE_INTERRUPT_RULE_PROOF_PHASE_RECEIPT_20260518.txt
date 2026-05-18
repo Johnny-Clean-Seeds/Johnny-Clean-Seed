@@ -1,0 +1,46 @@
+DISCOVERY CAPTURE INTERRUPT RULE PROOF PHASE RECEIPT
+
+Branch: main
+Head before proof phase: a2f1947
+Rule file: BRAIN_LEARNING\DISCOVERY_CAPTURE_INTERRUPT_RULE_20260518.md
+Rule SHA256: D47252D0D5817FC8991FDED569C94670FAF4EF7DE07F90DDA483E1DE4FF9345F
+Card file: HOUSE_WORK\WORK_SHED\IDEA_CARDS\LIFECYCLE_STATE_CHANGE_SYNC_GATE_CARD_20260518.md
+Card SHA256: 726D7F18F013CA391179891890E834F046D1B88F061BC1AFD93D61F9664B8BEC
+Sorting file: HOUSE_WORK\WORK_SHED\SORTING_BENCH\ASSISTANT_CAPTURE_FAILURE_POWER_PLAY_20260518.md
+Sorting SHA256: 8E5B7B1292FDB6F30B1CADF0F14EAA393FB2F40E623562B5779A06F1A8303196
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+Status SHA256: 2308CE6EB0BD97588D238292D367E70569F9A9FE73801F4F2039C7D1A0ACA0CC
+
+Purpose:
+- Convert assistant capture failure into a power play.
+- Save Discovery Capture Interrupt Rule as learning support.
+- Capture Lifecycle State Change Sync Gate as a Work Shed candidate.
+- Use Phase 1 only.
+- Do not include git add, commit, or push in this proof phase.
+
+Blocked / not done in Phase 1:
+- No lifecycle sync gate installed.
+- No lifecycle rule installed.
+- No draft promoted.
+- No git add.
+- No commit.
+- No push.
+- No room moved.
+- No source promoted.
+- No runtime work.
+- No active guide rewrite.
+
+Checks:
+- Rule file exists: True
+- Rule captures assistant failure: True
+- Rule defines interrupt trigger: True
+- Rule blocks instant promotion: True
+- Lifecycle sync card exists: True
+- Lifecycle sync card is candidate: True
+- Sync loop captured: True
+- Sorting power play exists: True
+- Power play names cause: True
+- Status marks save phase needed: True
+
+Verdict:
+PASS - Discovery Capture Interrupt Rule proof phase passed. Lifecycle State Change Sync Gate captured as candidate. Save phase is allowed next.
