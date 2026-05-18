@@ -787,3 +787,68 @@ OPEN GROWTH TASKS
 
 [OPEN] Build a recursive growth review cycle that checks this worksheet without letting it become stale storage.
 
+
+SOFT_SUIT_HOUSE_WALK_GROWTH_LOOP_001
+
+Status: OPEN GROWTH METHOD ADDITION
+
+Purpose: Teach the assistant how to try, wear, review, adopt, park, or reshape fixes without breaking the model.
+
+SOFT SUIT LOOP
+
+1. Walk the house.
+2. Name the biggest weak link.
+3. Try one focused soft fix.
+4. Wear the fix.
+5. Walk again.
+6. Ask whether the house is better.
+7. Ask what evidence proves it.
+8. Lock/save the fix if it blesses the model.
+9. Use PASS WITH WATCH if it fits but needs repeated use.
+10. Park or reshape if it is not ready.
+11. Find the next biggest issue.
+
+DRESSING ROOM METHOD
+
+Try one fix at a time when the leak is narrow or proof must be clean.
+
+FASHION SHOW METHOD
+
+Try combinations when the issue is systemic and several helpers may need to work together.
+
+BREAK / WALK RULE
+
+Do not work nonstop.
+
+Pause for general house walks, fog reduction, proof checks, and lock/save checkpoints.
+
+EXHAUSTED HABIT RULE
+
+If the same habit keeps failing, do not only tweak it harder.
+
+Ask what companion the habit needs.
+
+A companion can be a map, bridge, link, jack, ladder, checkboard, index, router, parking lot, proof receipt, watch list, template, smaller gate, larger worksheet, or later algorithm.
+
+IDEA FIT RULE
+
+Every user idea is a candidate.
+
+Use it now if it blesses the model.
+
+Park it if it may fit later.
+
+Block it only if it violates authority, proof, source truth, neighbor policy, or the existing flow.
+
+OPEN SOFT SUIT TASKS
+
+[OPEN] Use house walks after major fixes.
+
+[OPEN] Add soft suit review to whole-job done check.
+
+[OPEN] Add dressing room and fashion show methods to word-key index.
+
+[OPEN] Build a small proof pattern for "is the house better after this fix?"
+
+[OPEN] Keep old ideas available as source-ore or parking material until a review gate says otherwise.
+

@@ -264,6 +264,60 @@ The least amount of proof needed to reduce fog and decide the next clean move.
 
 Smallest proof prevents brute force and keeps work balanced.
 
+SOFT SUIT WORD KEYS
+
+SOFT SUIT
+
+A flexible operating fit method.
+
+The soft suit lets the assistant try, test, adjust, combine, park, or adopt fixes while still following the model.
+
+HOUSE WALK
+
+A general review pass through the current house state.
+
+A house walk asks what feels stronger, weaker, crowded, foggy, disconnected, misplaced, or ready for lock/save.
+
+DRESSING ROOM METHOD
+
+Trying one focused fix at a time.
+
+Useful when precision, proof, or neighbor safety matters.
+
+FASHION SHOW METHOD
+
+Trying combinations of compatible fixes or companion systems.
+
+Useful when the leak is systemic and one tool alone is exhausted.
+
+EXHAUSTED HABIT
+
+A repeated work pattern that no longer solves the leak by more tweaking.
+
+An exhausted habit may need a companion system.
+
+COMPANION SYSTEM
+
+A helper added to support an exhausted or incomplete habit.
+
+A companion can be a map, bridge, link, jack, ladder, checkboard, index, router, parking lot, proof receipt, watch list, template, smaller gate, larger worksheet, or later algorithm.
+
+FOG REDUCTION
+
+The act of stopping, naming uncertainty, identifying the lane, and using a smaller proof, jack, map, or parking lane before continuing.
+
+ADOPT
+
+To make a method part of current operating behavior after it proves fit.
+
+Adoption must bless the existing model and must not steal authority.
+
+PARK
+
+To preserve an idea, method, or pattern for later without forcing it into current use.
+
+Parked material is not discarded and is not promoted.
+
 CLOSE RULE
 
 This index is a support note.
@@ -273,4 +327,5 @@ It must not outrank CURRENT_TRUTH_INDEX.txt.
 It must not outrank ACTIVE_GUIDES.
 
 It should grow carefully as words become real working keys.
+
 

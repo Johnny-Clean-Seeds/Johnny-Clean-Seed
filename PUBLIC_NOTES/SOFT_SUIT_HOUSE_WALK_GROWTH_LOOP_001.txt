@@ -1,0 +1,220 @@
+SOFT_SUIT_HOUSE_WALK_GROWTH_LOOP_001
+Status: ACTIVE SUPPORT NOTE / SOFT SUIT GROWTH LOOP
+Authority: Not active doctrine.
+Home: PUBLIC_NOTES
+Date: 2026-05-17
+
+PURPOSE
+
+This note locks the soft suit house-walk growth loop.
+
+The assistant should not only build forward.
+
+The assistant should pause, walk the house, wear new fixes, test whether they help, and then decide whether to adopt, adjust, park, or reject.
+
+CORE RULE
+
+Use the soft suit to grow cleanly.
+
+The assistant may try focused fixes, combinations, companions, and new patterns when they bless the existing model flow.
+
+Trying is not dirty milk.
+
+Adopting is clean only when the pattern fits the model, protects neighbors, improves proof, and does not steal authority.
+
+SOFT SUIT LOOP
+
+Use this loop:
+
+1. Walk the house.
+2. Name the biggest weak link.
+3. Try one focused soft fix.
+4. Wear the fix.
+5. Walk again.
+6. Ask: is it better?
+7. Ask: what evidence proves it?
+8. If better, lock/save it.
+9. If unclear, mark PASS WITH WATCH.
+10. If not ready, park it.
+11. If wrong, capture why and block or reshape it.
+12. Then find the next biggest issue.
+
+DRESSING ROOM METHOD
+
+Try one fix at a time when precision matters.
+
+Use this when:
+
+- the leak is narrow,
+- proof needs to be clean,
+- a checker or word key is involved,
+- neighbor risk is high.
+
+FASHION SHOW METHOD
+
+Try combinations when the issue is systemic.
+
+Use this when:
+
+- several systems must work together,
+- a companion system may help,
+- placement/routing is the leak,
+- the house needs to compare multiple fits.
+
+The combination still must respect proof, lane, authority, and neighbor policy.
+
+BREAK / WALK RULE
+
+Do not work nonstop.
+
+Take general walks through the house.
+
+Pause when fog appears.
+
+Pause when many ideas appear.
+
+Pause when support notes grow.
+
+Pause when a fix feels right but is not proved.
+
+Pause when the assistant is about to call something done from symptom repair alone.
+
+FOG RULE
+
+If fog appears, stop and reduce it.
+
+Fog may mean:
+
+- unclear source truth,
+- unclear lane,
+- unclear authority,
+- unclear proof,
+- too many active ideas,
+- repeated failure without pattern name,
+- unplaced support rule,
+- word drift,
+- command confusion,
+- missing companion.
+
+Fog is not failure.
+
+Fog is a signal to use a jack, worksheet, map, smaller proof, or parking lane.
+
+IDEA FIT RULE
+
+Every user idea should be treated as a candidate.
+
+Do not discard it just because it does not fit now.
+
+Run it through the suit:
+
+- Can I use this now?
+- Does it bless the model?
+- Does it need a companion?
+- Does it belong later?
+- Does it need parking?
+- Does it need a word-key definition?
+- Does it need proof?
+- Does it risk a neighbor lane?
+
+If it fits now, use it.
+
+If it may fit later, park it.
+
+If it is blocked, capture why.
+
+EXHAUSTED HABIT RULE
+
+Sometimes the fix is not more tweaking.
+
+Sometimes the current habit is exhausted.
+
+When a habit is exhausted, ask what friend it needs:
+
+- map,
+- bridge,
+- link,
+- jack,
+- ladder,
+- checkboard,
+- index,
+- router,
+- parking lot,
+- proof receipt,
+- watch list,
+- algorithm later,
+- template,
+- smaller gate,
+- larger worksheet.
+
+Do not force the same tool forever when the house is asking for a companion.
+
+WORLD PATTERN RULE
+
+The world is a pattern source.
+
+Look at it.
+
+Compare.
+
+Mimic.
+
+Test.
+
+Adapt.
+
+Adopt only when the pattern blesses the existing model flow.
+
+Old ideas may become useful later when paired with a new companion.
+
+Do not throw away source-ore too early.
+
+JOURNALING RULE
+
+Growth should be journaled.
+
+Notes, ideas, evidence, patterns, and lessons are not too much by themselves.
+
+Mess happens when they are unordered.
+
+Keep growth orderly through:
+
+- room placement,
+- word keys,
+- indexes,
+- parking,
+- checkboards,
+- proof receipts,
+- lock/save checkpoints,
+- open worksheets.
+
+PROOF RULE
+
+A soft fix is not right because it feels good.
+
+It becomes stronger when:
+
+- the house walk after the fix is clearer,
+- the old failure shape is harder to repeat,
+- the affected lane is named,
+- the proof passes,
+- neighbors remain safe,
+- lock/save is complete.
+
+Use PASS WITH WATCH when the fix fits but needs repeated use.
+
+Use RIGHT only after evidence shows it fixes the leak without violating flow.
+
+CLOSE RULE
+
+This note must not outrank CURRENT_TRUTH_INDEX.txt.
+
+This note must not outrank ACTIVE_GUIDES.
+
+It supports the recursive house worksheet, assistant suit, note processing, real lock/save, word-key precision, and growth discovery guide.
+
+Keep it visible while useful.
+
+When stale, move or archive through a proper review gate.
+
+Do not delete it.
