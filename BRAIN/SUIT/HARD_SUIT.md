@@ -71,6 +71,27 @@ Support links may include:
 
 Support links help the suit work, but they are not active pack items unless promoted.
 
+
+## Hard Suit Slot Distinction Clarifier
+
+Reference:
+
+- BRAIN/SUIT/HARD_SUIT_SLOT_DISTINCTION_CLARIFIER.md
+
+Boundary:
+
+A support link is reference fuel.
+
+An active pack slot is proven operating load.
+
+Linked is not worn.
+
+Useful is not proven.
+
+Reference is not authority.
+
+Support links do not count against the Hard Suit active pack limit unless promoted through proof into an active pack slot.
+
 ## Capture helper support link
 
 - BRAIN/SUIT/CAPTURE_SYSTEM_HELPER_PACK.md
@@ -97,4 +118,5 @@ Before a controlled dump into active files, check:
 ## Close condition
 
 A Hard Suit item remains active only while it continues to fit the core and help the model.
+
 
