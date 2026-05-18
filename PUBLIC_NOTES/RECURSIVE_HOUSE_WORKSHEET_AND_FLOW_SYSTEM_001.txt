@@ -1,0 +1,459 @@
+RECURSIVE_HOUSE_WORKSHEET_AND_FLOW_SYSTEM_001
+Status: ACTIVE OPEN WORKSHEET / HOUSE WORK BOARD
+Authority: Not active doctrine.
+Home: PUBLIC_NOTES
+Date: 2026-05-17
+
+PURPOSE
+
+This file captures and keeps open the recursive-house coordination problem.
+
+This is not a closed report.
+
+This is an active worksheet, house work board, and open to-do list.
+
+The house must not merely collect notes.
+
+The house must process notes, detect patterns, use idea capture, route ideas through lanes, keep word keys clean, prove changes, lock/save progress, and keep systems boosting neighboring systems.
+
+CORE PROBLEM
+
+The house has many useful concepts already living inside it:
+
+- idea capture,
+- pattern recognition,
+- power plays,
+- progress lock,
+- word keys,
+- Mr.Kleen local bridge,
+- paste-safe gate shape,
+- note processing and parking,
+- real lock/save,
+- default dual save,
+- proof before right,
+- assistant suit,
+- source-truth checks,
+- neighbor policy,
+- parking,
+- placeholders,
+- proof history,
+- tools,
+- maps,
+- checkboards,
+- support notes.
+
+The weak point is not lack of ideas.
+
+The weak point is that these systems are not always connected into one recursive flow.
+
+Some systems exist but do not always trigger their neighbors.
+
+This file keeps that problem visible and workable.
+
+OPEN WORKING QUESTION
+
+How do we make the systems inside the house work together as one recursive model?
+
+This file stays open until the house can reliably show:
+
+- deep scans trigger idea capture,
+- repeated issues trigger pattern recognition,
+- growth triggers housekeeping,
+- new terms trigger word-key review,
+- uncertainty triggers freeze,
+- fog triggers pause and repair,
+- meaningful progress triggers lock/save,
+- parking catches useful ideas that are not ready,
+- maps, bridges, links, jacks, and ladders guide placement and movement,
+- neighbors boost each other respectfully,
+- final close checks prove the whole job, not only one symptom.
+
+DENSE ISSUE CLUSTER CAPTURE
+
+The user raised these connected issues:
+
+1. Idea capture is not triggering strongly enough during deep scans.
+2. Pattern recognition is not kicking in early enough when repeated issues appear.
+3. Existing links appear disconnected or wrongly placed.
+4. Growth is happening, but true housekeeping is not always happening with it.
+5. Any growth must respect the model in all ways.
+6. Notes, checkboards, tools, lanes, word keys, proof paths, parking, placeholders, and support systems all need review when growth happens.
+7. Dense issue lists must be dissected into a worksheet instead of answered loosely.
+8. Done is not done until the house knows what happened, what changed, what proved, what remains open, and what was locked/saved or applied.
+9. The house must become recursive: internal systems should work with each other.
+10. Neighbor systems should boost each other respectfully.
+11. Algorithms may later help find the best cycle and flow, but base ideas must be laid out first.
+12. The work board must remain open.
+13. The assistant must never lose work.
+14. Fog means stop and fix the fog before moving.
+15. Notes, ideas, and evidence are growth, but they must stay orderly.
+16. Parking lots are loaded with useful ideas that can feed maps, templates, and future tools.
+17. When current habits are exhausted, the fix may require a companion system instead of another tweak.
+18. The world is a pattern source; observe, compare, mimic, test, and adapt only what blesses the model.
+
+SYMPTOMS
+
+- The assistant stores notes but may not process them into now/next/later action.
+- Deep scans identify files or weaknesses but may miss idea capture.
+- Pattern recognition sometimes activates only after the user points out the repetition.
+- Housekeeping may happen after growth instead of alongside growth.
+- Word keys may be created in chat before they are added to the definitions index.
+- Support notes may grow without a routing map.
+- Tools/checkers may exist without lifecycle review.
+- Parking ideas may not feed later maps or templates.
+- A task may look done while recursive flow remains open.
+- Fog may be pushed through instead of paused and repaired.
+
+DEEPER LEAK
+
+The deeper leak is recursive-system disconnection.
+
+Rules, notes, checkers, tools, maps, parking lanes, proof, and word keys are useful alone, but the house needs them to call each other at the correct time.
+
+The issue is placement, routing, trigger design, and flow.
+
+This is not a broad doctrine rewrite.
+
+This is a support-system coordination problem.
+
+MODEL READ
+
+The fix must bless the existing model.
+
+It must not change the flow.
+
+It must add companions where current habits are exhausted.
+
+It must create open boards, maps, bridges, links, jacks, ladders, and checkboards so existing systems can work together more smoothly.
+
+AFFECTED LANES
+
+IDEA CAPTURE LANE
+
+Should trigger when deep scans find:
+
+- inconsistencies,
+- oddities,
+- missing context,
+- missing files,
+- missing ideas,
+- repeated garble,
+- duplicate notes,
+- stale terms,
+- unpaired ideas,
+- useful external patterns,
+- exhausted tools,
+- fog,
+- parking-lot material that may become useful.
+
+PATTERN RECOGNITION LANE
+
+Should trigger when:
+
+- the same failure appears three times,
+- different failures share the same shape,
+- command flow repeats a leak,
+- checker failures cluster,
+- notes grow without routing,
+- user corrections point to the same underlying cause,
+- a rule exists but does not activate,
+- a tool exists but does not connect to the next lane.
+
+HOUSEKEEPING LANE
+
+Should trigger when:
+
+- new notes are created,
+- support-note count grows,
+- rules overlap,
+- words multiply,
+- files are added,
+- checkers are repaired,
+- proof history grows,
+- parking lanes fill,
+- maps are stale,
+- a new companion system is adopted.
+
+WORD-KEY LANE
+
+Should trigger when:
+
+- a new working word appears,
+- a word changes role,
+- a word creates confusion,
+- a word can break code/checkers,
+- a word becomes a label/key for routing,
+- a metaphor becomes operational.
+
+PROOF LANE
+
+Should trigger before:
+
+- PASS,
+- commit,
+- push,
+- calling a concept right,
+- moving to the next weak link,
+- adopting a new pattern,
+- promoting anything into stronger authority.
+
+LOCK/SAVE LANE
+
+Should trigger after:
+
+- meaningful progress,
+- a support note passes proof,
+- a future behavior rule is saved,
+- a local artifact belongs in the home,
+- a repeated failure becomes a power play,
+- a new word-key becomes operational,
+- a new worksheet item is created and needs to stay alive.
+
+PARKING / PLACEHOLDER LANE
+
+Should trigger when:
+
+- an idea is useful but not ready,
+- a weak idea may need a companion,
+- a future algorithm/pattern may help later,
+- a concept should not be promoted yet,
+- parking-lot material may feed maps or templates later.
+
+NEIGHBOR POLICY LANE
+
+Should trigger whenever:
+
+- fixing one lane could damage another,
+- support notes might be mistaken for active doctrine,
+- cleanup might delete useful history,
+- a checker failure might cause content rewrites,
+- a new companion system may affect existing room roles.
+
+FOG LANE
+
+Fog means uncertainty, confusion, overload, unclear source truth, unclear placement, unclear authority, unclear proof, or unclear next move.
+
+Fog action:
+
+1. Stop.
+2. Name the fog.
+3. Identify the lane.
+4. Capture evidence.
+5. Use a jack if needed.
+6. Build a small proof.
+7. Resume only when the fog is reduced or parked.
+
+COMPANION SYSTEM RULE
+
+When current habits are exhausted, do not only tweak harder.
+
+Ask whether the task needs a companion.
+
+Possible companions:
+
+- map,
+- bridge,
+- link,
+- jack,
+- ladder,
+- checklist,
+- checkboard,
+- index,
+- router,
+- parking lot,
+- proof receipt,
+- algorithm later,
+- template,
+- watch list.
+
+A companion is clean if it blesses the model and does not steal authority.
+
+WORLD PATTERN RULE
+
+The world is a toolbag, not authority.
+
+Look at the world.
+
+Compare structures.
+
+Use analogy as a hypothesis.
+
+Mimic what fits.
+
+Test before adoption.
+
+Adopt only what blesses the existing flow.
+
+Examples of world patterns that may help later:
+
+- road maps for routing,
+- bridges for controlled movement,
+- jacks for inspection/lifting stuck things,
+- ladders for controlled promotion,
+- parking lots for holding ideas,
+- garden beds for placement,
+- warehouses for indexing,
+- checkboards for work status,
+- circuit diagrams for links and flow,
+- triage boards for priority,
+- version control for proof history,
+- lab notebooks for evidence,
+- maintenance schedules for housekeeping.
+
+MAP / BRIDGE / LINK / JACK / LADDER STARTER DEFINITIONS
+
+MAP
+
+A layout that shows rooms, lanes, support notes, and placement.
+
+BRIDGE
+
+An approved connection between lanes or systems.
+
+A bridge says movement is allowed when the gate is met.
+
+LINK
+
+A direct pointer to a file, note, rule, proof, tool, or next action.
+
+A link prevents vague routing.
+
+JACK
+
+A temporary lift used to inspect something stuck or unclear without moving the whole house.
+
+A jack helps examine a rule, file, note, or idea before deciding placement.
+
+LADDER
+
+A controlled promotion path.
+
+A ladder prevents support notes from sneaking into active doctrine.
+
+It defines how something can move upward only through proof and authority.
+
+CHECKBOARD
+
+A visible board that tracks open work, status, lane, proof, blockers, and next move.
+
+PARKING LOT
+
+A clean holding lane for useful ideas that are not ready for current action.
+
+RECURSIVE FLOW DRAFT
+
+A clean recursive cycle should look like:
+
+1. Observe.
+2. Detect issue, idea, pattern, growth, or fog.
+3. Freeze if needed.
+4. Capture evidence.
+5. Name the symptom.
+6. Name the deeper leak.
+7. Map affected lanes.
+8. Trigger idea capture.
+9. Trigger pattern recognition.
+10. Trigger word-key review.
+11. Trigger housekeeping review.
+12. Decide now / next / later / parked / blocked.
+13. Add a companion if current tools are exhausted.
+14. Place in the correct lane.
+15. Build or update the support artifact.
+16. Prove.
+17. Lock/save brain and local home.
+18. Update the open worksheet if work remains.
+19. Close only when whole-job done check passes.
+
+OPEN TO-DO BOARD
+
+[OPEN] Build PUBLIC_NOTES_ROOM_INDEX_001.
+
+[OPEN] Build SUPPORT_RULE_PLACEMENT_MAP_001.
+
+[OPEN] Add map / bridge / link / jack / ladder / checkboard / parking lot definitions to MODEL_WORD_KEYS_INDEX_001.
+
+[OPEN] Build DEEP_SCAN_IDEA_CAPTURE_TRIGGER_001.
+
+[OPEN] Build RECURSIVE_HOUSEKEEPING_CHECKBOARD_001.
+
+[OPEN] Build SUPPORT_NOTE_LIFECYCLE_001.
+
+[OPEN] Build ALGORITHM_PARKING_LOT_001.
+
+[OPEN] Build WHOLE_JOB_DONE_CHECK_001.
+
+[OPEN] Review whether CURRENT_TRUTH_INDEX.txt needs a current-state cap after support routing exists.
+
+[OPEN] Review whether PUBLIC_NOTES has stale, duplicate, overlapping, or misplaced notes only after routing index exists.
+
+[OPEN] Make every future deep scan report:
+- issue found,
+- pattern found,
+- idea captured,
+- word-key impact,
+- housekeeping impact,
+- proof need,
+- lock/save need,
+- parking/placeholder need,
+- next clean action.
+
+[OPEN] Mine existing parking lots and older support notes for map/template ideas without promoting them early.
+
+[OPEN] Define fog as a word key and create a fog stop/check pattern.
+
+[OPEN] Define companion system as a word key.
+
+[OPEN] Create a repeating review pattern so this worksheet itself does not become stale storage.
+
+WHOLE-JOB DONE QUESTIONS
+
+Before calling a major house task done, ask:
+
+1. Was the symptom fixed?
+2. Was the deeper leak named?
+3. Were affected lanes mapped?
+4. Did idea capture trigger?
+5. Did pattern recognition trigger?
+6. Did housekeeping trigger?
+7. Were new words defined?
+8. Were useful ideas parked or placed?
+9. Were neighbors protected?
+10. Was proof run?
+11. Was lock/save applied?
+12. Is there an open item still needing this worksheet?
+13. Is the next action clear?
+14. Is the house cleaner, not just busier?
+
+PASS CONDITION FOR THIS WORKSHEET
+
+This worksheet passes as an open support artifact if it:
+
+- captures the dense issue cluster,
+- keeps the work open,
+- names the recursive disconnection leak,
+- lists affected lanes,
+- defines maps, bridges, links, jacks, ladders, checkboards, and parking lots as starter keys,
+- creates open tasks,
+- supports idea capture and pattern recognition,
+- respects authority,
+- avoids cleanup by deletion,
+- does not outrank CURRENT_TRUTH_INDEX.txt,
+- does not outrank ACTIVE_GUIDES.
+
+CLOSE RULE
+
+This file is an open support worksheet.
+
+It must not outrank CURRENT_TRUTH_INDEX.txt.
+
+It must not outrank ACTIVE_GUIDES.
+
+It must remain open while the recursive coordination problem is being worked.
+
+When items are completed, mark them done through a later review gate.
+
+Do not delete this file.
+
+Do not treat this worksheet as active doctrine.
+
+Use it as a house work board.
