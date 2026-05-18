@@ -114,6 +114,8 @@ The ledger is not doctrine.
 
 The ledger is not proof by itself.
 
+The ledger is not authority.
+
 The ledger does not replace proof files.
 
 The ledger does not replace source ore.
@@ -155,3 +157,4 @@ This candidate fits only if it:
 ## Close condition
 
 This Soft Test passes only if a single ledger shape can describe current movement without collapsing lanes or creating false authority.
+
