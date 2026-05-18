@@ -94,3 +94,17 @@ These remain parked, not active repairs:
 After this sync, choose the next repair from current evidence only.
 
 Do not let old anchors, old receipts, or source-ore scans create hidden work orders.
+
+## Anchor / Current Lane / Next-Move Meaning Sync Follow-Up
+
+A follow-up repair was added because the prior sync receipt used foggy wording.
+
+Clarification:
+
+- b1fc494 was the head before the prior sync commit.
+- 3de1f56 was the commit that saved the prior anchor/current-lane sync.
+- This follow-up began from main @ 3de1f56.
+
+This is a wording/receipt clarity repair only.
+
+It does not authorize runtime build, /system, live runtime files, status-command runtime work, bridge work, proof-history restructuring, doctrine compression, or source-ore promotion.

@@ -1,0 +1,27 @@
+ANCHOR / CURRENT LANE SYNC FOLLOW-UP RECEIPT
+
+Branch: main
+Head before follow-up: 3de1f56
+Anchor file: ACTIVE_ANCHOR.txt
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+Superseded receipt: PROOF_HISTORY\ANCHOR_CURRENT_LANE_SYNC_RECEIPT_20260518.txt
+Follow-up receipt: PROOF_HISTORY\ANCHOR_CURRENT_LANE_SYNC_FOLLOWUP_RECEIPT_20260518.txt
+
+Purpose:
+- Fix foggy wording in the prior anchor/current-lane sync receipt.
+- Clarify that b1fc494 was head before the sync commit.
+- Clarify that 3de1f56 was the saved sync commit.
+- Keep this as wording/receipt clarity only.
+- Keep runtime build, /system, live runtime files, status-command runtime work, bridge work, proof-history restructuring, and doctrine compression blocked.
+
+Checks:
+- Anchor names follow-up: True
+- Anchor records current checked position: True
+- Anchor names prior sync commit: True
+- Old receipt superseded: True
+- Old receipt explains b1fc494: True
+- Status file updated: True
+- Runtime remains blocked: True
+
+Verdict:
+PASS - Follow-up clarity repair saved. Prior receipt is superseded, b1fc494 is correctly labeled as pre-sync head, and 3de1f56 is correctly labeled as the saved sync commit. Blocked lanes remain blocked.

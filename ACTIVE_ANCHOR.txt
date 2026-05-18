@@ -1,29 +1,33 @@
 ACTIVE BALL:
-Anchor / Current Lane / Next-Move Meaning Sync
+Anchor / Current Lane / Next-Move Meaning Sync Follow-Up
 
-CURRENT POSITION:
-main @ b1fc494
+CURRENT CHECKED POSITION:
+main @ 3de1f56
 
 STATUS:
-ACTIVE REPAIR PASS
+FOLLOW-UP REPAIR PASS
 
-WHY THIS ANCHOR EXISTS:
-Recent fog critique found that ACTIVE_ANCHOR.txt could be stale in both commit pointer and next-allowed-move wording.
+WHY THIS FOLLOW-UP EXISTS:
+The prior anchor/current-lane sync receipt recorded HEAD at sync as b1fc494.
 
-The prior anchor pointed to older Main Boss 02 dry inspection movement, while later Mr.Kleen work already saved lifecycle review, lifecycle clarifier, wear test, paste wording, and critique/source-ore containment.
+That was the head before the sync commit, not the final saved commit.
 
-This anchor is a state-sync repair, not a new doctrine install.
+The actual saved sync commit was:
+
+3de1f56 Sync anchor current lane state
+
+This follow-up removes that fog by naming the difference clearly.
 
 CURRENT JUDGMENT:
-The house needs one clean current-lane statement before any deeper repair.
+The anchor/current-lane sync repair was saved at 3de1f56, then this follow-up began from main @ 3de1f56.
+
+ACTION STATUS:
+This is a wording/receipt clarity repair only.
 
 NEXT ALLOWED MOVE:
-Review this sync receipt and confirm final clean status.
+Review this follow-up receipt and confirm final clean status.
 
-After this sync is accepted, the next candidate repair may be chosen from current evidence.
-
-LIKELY NEXT CANDIDATE:
-Continue Main Boss 02 lifecycle-state work only if authorized.
+After this is clean, choose the next repair from current evidence only.
 
 BLOCKED MOVES:
 Do not start runtime build.
