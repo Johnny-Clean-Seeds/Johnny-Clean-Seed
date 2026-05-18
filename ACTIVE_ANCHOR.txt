@@ -1,55 +1,68 @@
 ACTIVE BALL:
-Current State / Placement Base Refresh
+Current Placement Base After Work Shed And Self-Repair Rules
 
 RECORDED CURRENT BASE:
-main @ 0793a52
+main @ 2b4c265
 
 STATUS:
-PLACEMENT BASE REFRESH
-
-WHY THIS REFRESH EXISTS:
-Recent work changed the house placement state.
-
-The Front Door / Authority Group was repaired and link-walked.
-
-The TODO room received Trace-Gated Boss Control.
-
-Desktop 123 source material was captured and parked as source ore.
-
-The exact file tree was saved as support map.
-
-The Room Role Index was saved as support-only placement map.
-
-Duplicate Room Role Index commit-message noise was clarified without rewriting public history.
-
-CURRENT JUDGMENT:
-Mr.Kleen has a cleaner placement base.
-
-The house now has stronger entry routing, source parking, TODO intake control, room-role meaning, and commit-history clarification.
+PLACEMENT BASE CURRENT
 
 CURRENT PROVEN BASE:
-main @ 0793a52
+main @ 2b4c265
 
 CURRENT PROVEN ITEMS:
 - Front Door / Authority Group is linked for this scope.
-- README.md routes to CURRENT_TRUTH_INDEX.txt first and ACTIVE_ANCHOR.txt second when present.
-- ACTIVE_ANCHOR.txt uses recorded-base wording and does not claim live commit truth without git/sync proof.
 - TODO Trace-Gated Boss Control is installed.
-- Desktop 123 source material is captured as source ore only.
 - Exact Mr.Kleen file tree is saved as support map only.
 - Room Role Index is saved as support-only placement map.
-- Duplicate Room Role Index commit-message noise is clarified; final valid Room Role Index save from that sequence is main @ 1ae3113.
-- Current head after clarification is main @ 0793a52.
+- Duplicate Room Role Index commit-message noise is clarified.
+- Script / Tool Index is saved as support-only placement map.
+- Desktop 123 raw source capture is preserved.
+- Desktop 123 source ore is split into source-only shelves.
+- Conditional Weigh Options Before Code rule is saved.
+- Bell Logic Gate catches named house-surface bells and model-logic shape bells.
+- Word-Key Clarity Checker is saved as Bell Logic Gate companion.
+- Middle Room soft trial and recursive idea filing rules are saved.
+- Work Shed soft room is created under HOUSE_WORK.
+- Work Shed drawer folders are preserved with README files.
+- Work Shed passed first-use test.
+- Issue Self-Repair and Room Redesign Authority rule is saved.
+
+CURRENT WORK SHED POSITION:
+HOUSE_WORK/WORK_SHED is a support-only assistant workroom.
+
+It may receive messy idea loads, sort them, make idea cards, keep hot helpers on the front shelf, park inactive methods, preserve old ways, and maintain indexes.
+
+It cannot command.
+
+It cannot promote.
+
+It cannot become doctrine.
+
+Material must pass the Work Shed exit gate before leaving.
+
+CURRENT SELF-REPAIR POSITION:
+The assistant may diagnose and repair fixable issues inside doctrine and current scope.
+
+The assistant may create helpers, checkers, indexes, tools, Work Shed supports, soft trial rooms, and room redesigns when needed.
+
+Room moves require soft design/review, option weighing when bells ring, neighbor protection, old-path preservation, proof, save, push, and clean status.
 
 NEXT ALLOWED MOVE:
-Choose the next boss from current placement need.
+Create a Work Shed operating index so future tasks have a clear entry/use path for the Work Shed.
 
-Recommended candidate stack:
-1. Script/tool index if root scripts create tool fog.
-2. Source-ore split for Desktop 123 material if source retrieval becomes heavy.
-3. Further system group link walk only when a specific group is selected.
+No new boss is automatically selected beyond the current user-approved next move.
 
-No new boss is automatically selected by this anchor refresh.
+RECOMMENDED NEXT MOVE:
+HOUSE_WORK/WORK_SHED/INDEXES/WORK_SHED_OPERATING_INDEX_20260518.md
+
+Purpose:
+- define when to use the Work Shed
+- define how to drop ideas into INBOX
+- define how to sort on SORTING_BENCH
+- define when to create IDEA_CARDS
+- define when something goes to FRONT_SHELF, PARKED_METHODS, or OLD_WAYS
+- define when a Work Shed item may exit to another room
 
 BLOCKED MOVES:
 Do not start runtime build.
@@ -61,18 +74,23 @@ Do not restructure PROOF_HISTORY.
 Do not rewrite public Git history.
 Do not treat source ore as command.
 Do not promote Desktop 123 material.
-Do not split source ore unless selected.
+Do not install bitstring doctrine.
+Do not install algorithm doctrine.
 Do not run root scripts unless selected by current task and proof need.
-Do not move, delete, or cleanup files from this refresh.
+Do not move rooms without soft design/review and proof.
+Do not let Work Shed material command.
+Do not let Work Shed material promote itself.
 Do not rewrite active guides from this refresh.
-Do not treat TODO, SYSTEM_LINKS, room-role index, file-tree map, or proof receipts as command authority.
+Do not treat support maps, indexes, receipts, TODO, SYSTEM_LINKS, Work Shed, or source ore as command authority.
 
 AUTHORITY NOTE:
 ACTIVE_ANCHOR.txt holds the current active ball, next allowed move, and blocked moves.
 
 Support maps explain placement.
 
-Source ore parks material.
+Work Shed supports messy intake and sorting.
+
+Source ore parks raw material.
 
 Proof receipts prove named scopes.
 

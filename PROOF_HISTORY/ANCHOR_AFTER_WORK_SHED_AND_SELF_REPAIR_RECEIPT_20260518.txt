@@ -1,0 +1,38 @@
+ANCHOR AFTER WORK SHED AND SELF-REPAIR RULES RECEIPT
+
+Branch: main
+Head before save: 2b4c265
+Anchor file: ACTIVE_ANCHOR.txt
+Anchor SHA256: 1F96105D259D6CD6C885C3AC9E0621A3696EFDA2D8CBE32928EB694C3EC0712F
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Purpose:
+- Refresh ACTIVE_ANCHOR.txt to current proven base main @ 2b4c265.
+- Record Work Shed creation, drawer preservation, first-use test, recursive filing rules, Bell Logic Gate, Word-Key Clarity Checker, and issue self-repair / room redesign authority.
+- Keep Work Shed support-only.
+- Name next recommended move as Work Shed operating index.
+
+Blocked / not done:
+- No room moved.
+- No source promoted.
+- No doctrine installed beyond anchor/status refresh.
+- No runtime work.
+- No cleanup.
+- No tool run.
+- No active guide rewrite.
+
+Checks:
+- Anchor names current base 2b4c265: True
+- Anchor names Work Shed soft room: True
+- Anchor names Work Shed drawer preservation: True
+- Anchor names Work Shed first-use test: True
+- Anchor names Bell Logic Gate: True
+- Anchor names Word-Key checker: True
+- Anchor names self-repair rule: True
+- Anchor blocks Work Shed command: True
+- Anchor blocks Work Shed promotion: True
+- Anchor recommends Work Shed operating index: True
+- Status index updated: True
+
+Verdict:
+PASS - ACTIVE_ANCHOR refreshed to main @ 2b4c265 after Work Shed and self-repair rule saves. Next recommended move is Work Shed operating index.

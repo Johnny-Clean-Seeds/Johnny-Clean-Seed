@@ -571,3 +571,27 @@ Room moves require soft design/review, neighbor protection, old-path preservatio
 Receipt:
 
 PROOF_HISTORY/ISSUE_SELF_REPAIR_AND_ROOM_REDESIGN_AUTHORITY_RECEIPT_20260518.txt
+
+## Anchor After Work Shed And Self-Repair Rules
+
+Status:
+
+SAVED
+
+Current proven base:
+
+main @ 2b4c265
+
+Meaning:
+
+The anchor now reflects the current base after Work Shed creation, drawer preservation, first-use test, Bell Logic Gate/Word-Key Clarity work, recursive filing rules, and issue self-repair / room redesign authority rule.
+
+Next recommended move:
+
+Create a Work Shed operating index.
+
+No Work Shed material commands, promotes, or becomes doctrine by being in the Work Shed.
+
+Receipt:
+
+PROOF_HISTORY/ANCHOR_AFTER_WORK_SHED_AND_SELF_REPAIR_RECEIPT_20260518.txt
