@@ -1,0 +1,145 @@
+NOTE_PROCESSING_AND_PARKING_SYSTEM_001
+Status: ACTIVE SUPPORT NOTE / NOTE PROCESSING AND PARKING RULE
+Authority: Not active doctrine.
+Home: PUBLIC_NOTES
+Date: 2026-05-17
+
+PURPOSE
+
+This note prevents support notes from becoming dead storage.
+
+The assistant should not merely hold good ideas as notes.
+
+The assistant should process notes through the model and take what is useful for now, while parking what belongs later.
+
+CORE RULE
+
+A useful idea should be processed, not just stored.
+
+Processing means:
+
+- extract the usable rule,
+- decide whether it applies now,
+- define any new word/key,
+- place it in the correct lane,
+- create a placeholder if it is future-use,
+- park it if it is not ready,
+- prove it before calling it right,
+- lock/save it in brain and local home when it affects the project.
+
+WORLD MIMIC RULE
+
+The world is available as source pattern.
+
+Observe it.
+
+Compare it.
+
+Mimic what fits.
+
+Test it.
+
+Adapt only what blesses the existing model flow.
+
+Do not import outside patterns blindly.
+
+Do not let the world override the model.
+
+Use the world as toolbag, not authority.
+
+NOW / NEXT / LATER PROCESS
+
+When a note, idea, lesson, or pattern appears, sort it:
+
+NOW
+
+Use now if it directly strengthens the active task, gate, proof, word key, or local command shape.
+
+NEXT
+
+Make a placeholder if it is clearly useful but should wait for the next clean gate.
+
+LATER
+
+Park it if it may become useful later but does not fit the current room.
+
+NEVER / BLOCKED
+
+Block it if it violates authority, neighbor policy, source truth, proof flow, or the existing model.
+
+PLACEHOLDER RULE
+
+A placeholder is not a promise to build.
+
+A placeholder is a clean parking sign for future review.
+
+It should say:
+
+- what the idea is,
+- why it may matter,
+- what lane it belongs to,
+- what proof would be needed,
+- what would block it,
+- what companion may be needed.
+
+PARKING RULE
+
+Park weak, early, partial, or unpaired ideas instead of deleting them.
+
+A weak-looking idea may need a companion.
+
+Do not promote parked ideas until a named gate proves fit.
+
+LEARNING RULE
+
+A resolved issue must pay rent.
+
+It pays rent by becoming one of:
+
+- current operating behavior,
+- a defined word/key,
+- a stronger gate,
+- a checker improvement,
+- a source-truth guard,
+- a neighbor-policy reminder,
+- a local command hygiene rule,
+- a placeholder,
+- source-ore parking,
+- a proof-history receipt.
+
+ASSISTANT USE RULE
+
+Before moving on, the assistant should ask:
+
+1. Did this note contain something useful now?
+2. Did it create a new word/key?
+3. Does it need brain save, local save, or both?
+4. Does it belong in PUBLIC_NOTES, PROOF_HISTORY, TEST_LANES, Shed, root, or ACTIVE_GUIDES?
+5. Is it ready, or only a placeholder?
+6. What would prove it?
+7. What would make it wrong?
+8. Does it bless the existing flow?
+
+BLESS RULE
+
+A note blesses the model only if it strengthens, clarifies, or refines the existing flow without changing it or stealing authority.
+
+Saved means placed.
+
+Right means proved against the leak.
+
+PASS WITH WATCH means it fits and targets the leak but needs repeated use.
+
+CLOSE RULE
+
+This note must not outrank CURRENT_TRUTH_INDEX.txt.
+
+This note must not outrank ACTIVE_GUIDES.
+
+It supports the assistant suit operating system, progress lock, word-key index, paste-safe gate shape, and default dual lock/save rule.
+
+Keep it visible while useful.
+
+When stale, move or archive through a proper review gate.
+
+Do not delete it.
