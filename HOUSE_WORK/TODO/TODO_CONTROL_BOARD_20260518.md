@@ -31,7 +31,7 @@ The goal is to choose work by importance and system fit, not by noise, recency, 
 
 ### Boss 1 — Front Door / Authority Group Link Audit
 
-Status: REPAIR APPLIED - NEEDS POST-REPAIR LINK WALK
+Status: LINKED FOR FRONT-DOOR AUTHORITY SCOPE
 
 Group:
 
@@ -267,7 +267,7 @@ No additional repair until the walk proves the group state.
 
 Current active boss:
 
-Front Door / Authority Group post-repair link walk
+None selected after Front Door / Authority Group post-repair link walk passed.
 
 Reason:
 
@@ -277,3 +277,11 @@ Boundary:
 
 Map/check only before any further repair.
 
+
+## Front Door Link Walk Passed
+
+Front Door / Authority Group is linked for this scope.
+
+Next boss is not automatically selected by this receipt.
+
+Selection must come from current user command or ACTIVE_ANCHOR.

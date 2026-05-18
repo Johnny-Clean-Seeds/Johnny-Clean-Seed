@@ -1,0 +1,34 @@
+FRONT DOOR AUTHORITY GROUP POST-REPAIR LINK WALK RECEIPT
+
+Branch: main
+Head before walk receipt: 4aafade
+README: README.md
+CTI: CURRENT_TRUTH_INDEX.txt
+Anchor: ACTIVE_ANCHOR.txt
+AGENTS: AGENTS.md
+TODO control: HOUSE_WORK\TODO\TODO_CONTROL_BOARD_20260518.md
+System links index: HOUSE_WORK\SYSTEM_LINKS\SYSTEM_GROUP_LINK_INDEX_20260518.md
+System links TODO: HOUSE_WORK\SYSTEM_LINKS\SYSTEM_GROUP_LINK_AUDIT_TODO_20260518.md
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+Final supersede receipt: PROOF_HISTORY\FRONT_DOOR_AUTHORITY_GROUP_LINK_REPAIR_FINAL_SUPERSEDE_RECEIPT_20260518.txt
+
+Purpose:
+- Save the post-repair Front Door / Authority Group link-walk verdict.
+- Prove README, CTI, ACTIVE_ANCHOR, AGENTS, TODO control, and final supersede receipt agree for this scope.
+- Mark the Front Door / Authority Group as linked for this scope.
+- Avoid selecting a new boss automatically.
+
+Checks:
+- README routes to CTI first: True
+- README routes to ACTIVE_ANCHOR second: True
+- README authority map names anchor role: True
+- CTI says anchor is active-ball authority when present: True
+- Anchor has recorded base wording: True
+- Anchor has live position note: True
+- Anchor no longer says CURRENT CHECKED POSITION: True
+- AGENTS says read anchor after CTI when present: True
+- TODO control points to post-repair walk: True
+- Final supersede receipt is PASS: True
+
+Verdict:
+PASS - Front Door / Authority Group post-repair link walk passed. Group is linked for this scope. No new boss is automatically selected.

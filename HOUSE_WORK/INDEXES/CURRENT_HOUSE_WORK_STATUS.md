@@ -314,3 +314,23 @@ No runtime, /system, bridge, or source-ore promotion work.
 Next needed:
 
 Post-repair front-door link walk before calling the group fully linked.
+
+## Front Door Authority Group Post-Repair Link Walk
+
+Status:
+
+LINKED FOR FRONT-DOOR AUTHORITY SCOPE
+
+Meaning:
+
+The front door now routes to CURRENT_TRUTH_INDEX.txt first and ACTIVE_ANCHOR.txt second when present.
+
+The authority map names ACTIVE_ANCHOR.txt.
+
+ACTIVE_ANCHOR.txt uses recorded-anchor-base wording and does not claim live current commit position.
+
+The failed receipts remain preserved and are superseded by the final PASS receipt.
+
+Next:
+
+No automatic repair is selected from this result.

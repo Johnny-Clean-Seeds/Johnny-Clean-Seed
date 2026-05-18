@@ -19,7 +19,7 @@ Use these labels:
 
 ### Front Door / Authority Group
 
-Status: LINKED WITH GAPS - FIRST REPAIR APPLIED
+Status: LINKED FOR FRONT-DOOR AUTHORITY SCOPE
 
 Likely members:
 
@@ -137,4 +137,21 @@ Repair applied:
 
 Remaining state:
 
-This group still needs a post-repair link walk before being called LINKED.
+Post-repair link walk passed for the Front Door / Authority Group scope.
+
+## Post-Repair Link Walk Result
+
+Status:
+
+LINKED FOR FRONT-DOOR AUTHORITY SCOPE
+
+Verified:
+
+- README routes to CURRENT_TRUTH_INDEX.txt first.
+- README routes to ACTIVE_ANCHOR.txt second when present.
+- README authority map names the ACTIVE_ANCHOR role.
+- CURRENT_TRUTH_INDEX.txt names ACTIVE_ANCHOR.txt as active-ball / next-move authority when present.
+- ACTIVE_ANCHOR.txt uses recorded-anchor-base wording and live-position boundary.
+- AGENTS.md says to read ACTIVE_ANCHOR.txt after CURRENT_TRUTH_INDEX.txt when present.
+- TODO control points to the post-repair link walk.
+- Final supersede receipt is PASS.

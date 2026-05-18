@@ -12,7 +12,7 @@ Prove each system group is internally tied together before larger cross-group fl
 
 ### SGL-TODO-001 — Front Door / Authority Group link audit
 
-Status: REPAIR APPLIED - NEEDS POST-REPAIR LINK WALK
+Status: LINKED FOR FRONT-DOOR AUTHORITY SCOPE
 
 Group:
 
@@ -113,3 +113,14 @@ Do not repair during the audit.
 
 Only inspect, map, classify gaps, and recommend the next boss.
 
+
+## Post-Repair Link Walk Passed
+
+The Front Door / Authority Group post-repair link walk passed for this scope.
+
+This item is no longer the active boss for repair.
+
+Remaining future watch:
+
+- Keep README, CURRENT_TRUTH_INDEX.txt, ACTIVE_ANCHOR.txt, and AGENTS.md aligned if any one of them changes.
+- Do not treat this as approval for CTI mass rewrite, AGENTS rewrite, active-guide rewrite, proof-history restructure, runtime work, /system work, bridge work, or source-ore promotion.
