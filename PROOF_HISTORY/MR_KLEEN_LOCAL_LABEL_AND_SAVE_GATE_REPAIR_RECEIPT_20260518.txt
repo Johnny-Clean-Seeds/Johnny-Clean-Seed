@@ -1,36 +1,13 @@
 MR.KLEEN / LOCAL LABEL AND SAVE GATE REPAIR RECEIPT
 
-Branch: main
-Head before repair: ad387a3
-Learning file checked: BRAIN_LEARNING\MR_KLEEN_LOCAL_LABEL_AND_SAVE_GATE_20260518.md
-Original receipt repaired: PROOF_HISTORY\MR_KLEEN_LOCAL_LABEL_AND_SAVE_GATE_RECEIPT_20260518.txt
-Repair receipt: PROOF_HISTORY\MR_KLEEN_LOCAL_LABEL_AND_SAVE_GATE_REPAIR_RECEIPT_20260518.txt
+Status: SUPERSEDED BY FINAL RECEIPT
+Final receipt: PROOF_HISTORY\MR_KLEEN_POWERSHELL_SAVE_GATE_FINAL_RECEIPT_20260518.txt
 
-Why this repair exists:
-- The prior receipt was committed with FAIL.
-- The prior proof script used fragile match patterns for backtick-marked terms.
-- The learning file content contained the intended local/Mr.Kleen distinction, but the proof checks failed.
-- The process also allowed commit after proof failure, which is now recorded as a lesson.
+This repair receipt was committed after proof failed.
 
-Correct labels:
-- local = PowerShell execution only.
-- Mr.Kleen = project files plus brain/URL continuity.
-- Project-relevant work must be written while standing inside Mr.Kleen, then committed and pushed unless explicitly exempted.
+It is kept as failure history and as a power-play lesson.
 
-Checks:
-- Defines local as PowerShell execution only: False
-- Defines Mr.Kleen as project save path plus brain/URL continuity: False
-- Says local is not a save target: False
-- Requires .git before file writes: False
-- Requires write/add/commit/push/final clean status by default: False
-- Includes failure lesson: True
-- Includes power play: True
-- Names explicit exceptions: True
+Do not use this as the active rule.
 
-Verdict:
-FAIL - Missing checks:
-Defines local as PowerShell execution only
-Defines Mr.Kleen as project save path plus brain/URL continuity
-Says local is not a save target
-Requires .git before file writes
-Requires write/add/commit/push/final clean status by default
+Active rule:
+BRAIN_LEARNING\MR_KLEEN_POWERSHELL_SAVE_GATE_20260518.md

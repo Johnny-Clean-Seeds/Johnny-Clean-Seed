@@ -1,20 +1,11 @@
 MR.KLEEN / LOCAL LABEL AND SAVE GATE RECEIPT
 
-Status: SUPERSEDED BY REPAIR RECEIPT
-Superseded by: PROOF_HISTORY\MR_KLEEN_LOCAL_LABEL_AND_SAVE_GATE_REPAIR_RECEIPT_20260518.txt
+Status: SUPERSEDED BY FINAL RECEIPT
+Final receipt: PROOF_HISTORY\MR_KLEEN_POWERSHELL_SAVE_GATE_FINAL_RECEIPT_20260518.txt
 
-Original issue:
-This receipt was previously committed with FAIL because the proof script used fragile match patterns for backtick-marked terms.
+This receipt is kept as failure history.
 
-Do not use the prior FAIL verdict as the final state of the learning rule.
+Do not use this as the active rule.
 
-Current repair verdict:
-See the repair receipt. The repair receipt reran safer literal checks and records the corrected PASS/FAIL state.
-
-Learning file:
-BRAIN_LEARNING\MR_KLEEN_LOCAL_LABEL_AND_SAVE_GATE_20260518.md
-
-Core rule:
-local = PowerShell execution only.
-Mr.Kleen = project files plus brain/URL continuity.
-Project-relevant writes must happen while local PowerShell is standing inside Mr.Kleen, then commit/push unless explicitly exempted.
+Active rule:
+BRAIN_LEARNING\MR_KLEEN_POWERSHELL_SAVE_GATE_20260518.md

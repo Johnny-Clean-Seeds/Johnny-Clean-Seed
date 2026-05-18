@@ -1,75 +1,18 @@
 # Mr.Kleen / Local Label And Save Gate
 
-Status: ACTIVE LEARNING RULE
-Role: prevent execution-surface/save-target confusion
-Authority: assistant learning rule for Clean Seed / Clean Milk project work
+Status: SUPERSEDED
+Superseded by: BRAIN_LEARNING\MR_KLEEN_POWERSHELL_SAVE_GATE_20260518.md
 
-## Core Distinction
+This older rule used overcomplicated “local” wording.
 
-`local` means PowerShell execution only.
+Use the newer simple rule:
 
-`Mr.Kleen` means the project save path where local project files and brain/URL continuity stay together.
+Mr.Kleen = project files on the PC plus brain/URL continuity.
 
-Do not treat `local` as a save target.
+PowerShell = commands running on the PC.
 
-Do not describe project work as saved to local only unless the user explicitly says the item is PC-only, personal-only, or not for the brain/URL.
+Correct phrase:
 
-## Correct Working Phrase
+“Run this in PowerShell while standing in Mr.Kleen.”
 
-Use:
-
-“Run this in local while standing inside Mr.Kleen.”
-
-This means PowerShell is the execution surface, but the current directory must be Mr.Kleen before project files are written.
-
-## Required Gate Before Project Writes
-
-Before writing project files, verify PowerShell is standing inside Mr.Kleen:
-
-1. Check `.git` exists.
-2. Confirm current location is the Mr.Kleen project path.
-3. Stop before writing if `.git` is missing.
-
-The `.git` check must happen before file writes, not only before commit.
-
-## Save Rule
-
-For project-relevant Clean Seed / Clean Milk work:
-
-1. Write files only while standing inside Mr.Kleen.
-2. Review changed files.
-3. Add the intended files.
-4. Commit.
-5. Push.
-6. Confirm final `git status --short` is clean.
-
-This keeps Mr.Kleen whole: PC project files plus brain/URL continuity.
-
-## Failure Lesson
-
-A prior librarian / anti-web pass was first written while PowerShell stood at `C:\Users\13527` instead of Mr.Kleen.
-
-Git correctly refused with:
-
-`fatal: not a git repository`
-
-The content was salvageable, but the mistake proved that checking `.git` after writing is too late.
-
-## Power Play
-
-Turn the mistake into a stronger gate:
-
-No project file write should happen until local PowerShell proves it is standing inside Mr.Kleen.
-
-This prevents loose files, wrong-folder saves, and brain/URL continuity breaks.
-
-## Exceptions
-
-Only skip commit/push when the user explicitly marks the work as:
-
-- PC-only
-- personal-only
-- chat-only draft
-- proof-only
-- do not commit
-- do not push
+Do not use this old file as the active wording rule.

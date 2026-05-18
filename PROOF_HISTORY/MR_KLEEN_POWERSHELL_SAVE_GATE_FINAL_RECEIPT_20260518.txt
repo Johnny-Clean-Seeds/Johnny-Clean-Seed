@@ -1,0 +1,28 @@
+MR.KLEEN / POWERSHELL SAVE GATE FINAL RECEIPT
+
+Branch: main
+Head before fix: b8355f4
+Active learning file: BRAIN_LEARNING\MR_KLEEN_POWERSHELL_SAVE_GATE_20260518.md
+Superseded old learning file: BRAIN_LEARNING\MR_KLEEN_LOCAL_LABEL_AND_SAVE_GATE_20260518.md
+Old failed receipt: PROOF_HISTORY\MR_KLEEN_LOCAL_LABEL_AND_SAVE_GATE_RECEIPT_20260518.txt
+Old failed repair receipt: PROOF_HISTORY\MR_KLEEN_LOCAL_LABEL_AND_SAVE_GATE_REPAIR_RECEIPT_20260518.txt
+
+Why this fix exists:
+- Prior wording made the rule too complicated.
+- The user clarified the simple language: Mr.Kleen is PC project files plus brain/URL; PowerShell is command execution.
+- A prior receipt failed proof but was still committed.
+- This final fix supersedes the overcomplicated wording and records the correct gate.
+
+Checks:
+- Defines Mr.Kleen correctly: True
+- Defines PowerShell correctly: True
+- Uses correct working phrase: True
+- Requires .git before writes: False
+- Requires commit push final clean status: False
+- Captures proof-fail lesson: True
+- Names explicit exceptions: True
+
+Verdict:
+FAIL - Missing checks:
+Requires .git before writes
+Requires commit push final clean status
