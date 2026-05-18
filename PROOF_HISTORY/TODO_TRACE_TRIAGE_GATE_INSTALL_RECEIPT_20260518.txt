@@ -1,0 +1,32 @@
+TODO TRACE TRIAGE GATE INSTALL RECEIPT
+
+Branch: main
+Head before save: 9c50240
+Gate file: HOUSE_WORK\TODO\TODO_TRACE_TRIAGE_GATE_20260518.md
+Parked methods: SOURCE_ORE\TODO_METHOD_CANDIDATES_PARKED_20260518.md
+Control board: HOUSE_WORK\TODO\TODO_CONTROL_BOARD_20260518.md
+TODO index: HOUSE_WORK\TODO\TODO_INDEX_20260518.md
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+Receipt file: PROOF_HISTORY\TODO_TRACE_TRIAGE_GATE_INSTALL_RECEIPT_20260518.txt
+
+Purpose:
+- Install Trace-Gated Boss Control as the selected TODO-room method.
+- Keep install small in one gate file.
+- Park all other researched list-making methods quietly as source ore.
+- Prevent raw input from becoming structured work, boss candidate, active boss, or repair without trace and triage.
+
+Checks:
+- Trace gate installed: True
+- Short form present: True
+- Raw input blocked from structured work: True
+- Can command default no: True
+- Proof-state labels present: True
+- WIP limit present: True
+- Parked candidates saved: True
+- Other methods not command authority: True
+- Control board points to gate: True
+- TODO index points to gate: True
+- Status index points to gate: True
+
+Verdict:
+PASS - Trace-Gated Boss Control installed as the TODO-room method. Other list-making methods are parked as source ore. Raw input cannot become structured work, boss candidate, active boss, or repair until it passes trace and triage.

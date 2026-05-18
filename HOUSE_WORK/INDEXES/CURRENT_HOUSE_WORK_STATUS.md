@@ -277,3 +277,21 @@ Meaning:
 The TODO room now has a central board for whole-house boss order and main boss per system group.
 
 The board is support only, not command authority.
+
+## TODO Trace Triage Gate
+
+Active TODO method:
+
+HOUSE_WORK/TODO/TODO_TRACE_TRIAGE_GATE_20260518.md
+
+Parked method candidates:
+
+SOURCE_ORE/TODO_METHOD_CANDIDATES_PARKED_20260518.md
+
+Meaning:
+
+Trace-Gated Boss Control is the selected TODO-room method.
+
+Trace first. Boss second. Proof decides.
+
+Other researched list methods are parked quietly as source ore and are not command authority.

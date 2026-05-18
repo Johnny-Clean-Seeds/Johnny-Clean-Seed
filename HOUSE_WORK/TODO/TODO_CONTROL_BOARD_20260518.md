@@ -229,3 +229,23 @@ Run Front Door / Authority Group link audit.
 No repair.
 
 Produce a map only.
+
+## TODO Trace Triage Gate
+
+Active TODO method:
+
+HOUSE_WORK/TODO/TODO_TRACE_TRIAGE_GATE_20260518.md
+
+Meaning:
+
+Trace-Gated Boss Control is the selected TODO-room method.
+
+Raw input may be captured, but it cannot become a structured TODO, boss candidate, active boss, or repair until it passes trace and triage.
+
+Short form:
+
+Trace first. Boss second. Proof decides.
+
+Parked candidate methods:
+
+SOURCE_ORE/TODO_METHOD_CANDIDATES_PARKED_20260518.md

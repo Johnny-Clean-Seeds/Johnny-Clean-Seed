@@ -247,3 +247,17 @@ Meaning:
 The control board ranks top bosses across the whole house and tracks the main boss for each system group.
 
 It does not authorize repair by itself.
+
+## TODO Trace Triage Gate
+
+Active TODO method:
+
+HOUSE_WORK/TODO/TODO_TRACE_TRIAGE_GATE_20260518.md
+
+Parked list-method source ore:
+
+SOURCE_ORE/TODO_METHOD_CANDIDATES_PARKED_20260518.md
+
+Rule:
+
+Raw input may be captured, but it cannot become structured TODO work, a boss candidate, an active boss, or a repair until it passes trace and triage.
