@@ -1,0 +1,42 @@
+RUNTIME KERNEL NEXT RUN 002 SINGLE SYSTEM LEDGER PROOF
+
+Brain home:
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+
+Starting brain position:
+main @ f352d1e
+
+Starting status:
+clean
+
+Files:
+BRAIN\SUIT\SINGLE_SYSTEM_LEDGER_SOFT_TEST.md
+HOUSE_WORK\RUNTIME_KERNEL_RUNS\RUNTIME_KERNEL_NEXT_RUN_002_SINGLE_SYSTEM_LEDGER_20260517_235959.md
+BRAIN\SUIT\UNIVERSAL_STATE_MACHINE_SOFT_TEST.md
+
+Hashes:
+LedgerCandidate: 0ABFF164E47C39664C973655655C7C71C5F91D51993FFCCD47D117AFF2EE9DF8
+RunFile: E3F224FC1A79F783FB58706EEA941CA62A916496E5AB72D360CCA638FF1C4B9E
+StateMachine: 586C3D4B647A1BF78198BAA2DDA0E9F71C3D31C8C60DD48F52516491D0E72BDB
+
+Checks:
+start_position_recorded: True
+start_status_clean: True
+state_machine_exists: True
+ledger_candidate_exists: True
+run_file_exists: True
+ledger_has_minimum_fields: True
+ledger_has_event_types: True
+ledger_uses_state_machine_language: True
+ledger_not_proof_or_authority: False
+does_not_build_runtime_kernel: True
+does_not_create_live_ledger: True
+does_not_promote_to_hard_suit: True
+next_boss_parent_child_map: True
+
+
+Failed checks:
+ledger_not_proof_or_authority
+
+Verdict:
+FAIL - one or more checks failed. Do not save.
