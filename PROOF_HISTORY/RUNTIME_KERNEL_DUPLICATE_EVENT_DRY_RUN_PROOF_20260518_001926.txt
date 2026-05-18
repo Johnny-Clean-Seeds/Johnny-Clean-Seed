@@ -1,0 +1,47 @@
+RUNTIME KERNEL DUPLICATE EVENT DRY RUN PROOF
+
+Brain home:
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+
+Starting brain position:
+main @ 6015b32
+
+Starting status:
+clean
+
+Files:
+HOUSE_WORK\RUNTIME_KERNEL_DRY_RUNS\DUPLICATE_EVENT_DRY_RUN_20260518_001926.jsonl
+HOUSE_WORK\RUNTIME_KERNEL_RUNS\RUNTIME_KERNEL_DUPLICATE_EVENT_REVIEW_20260518_001926.md
+
+Hashes:
+DuplicateDryRun: 7378CCC8BBDE922506422185458D9F4F8004AC047F55419BCA57D019440D396A
+DuplicateReview: 3DFD69B360D4BBCB91AAEE0AD04372F1938813FFA9A260BE3B6A278DB6BE1155
+
+Checks:
+start_position_recorded: True
+start_status_clean: True
+state_machine_exists: True
+ledger_candidate_exists: True
+parent_child_candidate_exists: True
+promotion_gate_exists: True
+duplicate_dry_run_exists: True
+duplicate_review_exists: True
+three_rows_exist: True
+duplicate_event_id_exists: True
+duplicate_blocked: True
+clean_rows_retrievable: True
+duplicate_row_contained: True
+review_names_remaining_weak_links: True
+verdict_pass_with_hold: True
+next_run_malformed_row: True
+does_not_create_live_ledger: True
+does_not_build_runtime: True
+does_not_promote: True
+candidate_boundaries_still_clean: True
+
+
+Failed checks:
+
+
+Verdict:
+PASS - Duplicate event dry run saved. Duplicate event_id detected and contained as test-only duplicate. No live ledger, runtime build, or promotion.
