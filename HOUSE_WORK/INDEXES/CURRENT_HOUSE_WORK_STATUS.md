@@ -773,3 +773,23 @@ Phase 2 saves only after Phase 1 shows PASS.
 Receipt:
 
 PROOF_HISTORY/SPLIT_PROOF_SAVE_FLOW_RULE_PROOF_PHASE_RECEIPT_20260518.txt
+
+## Anchor After Split Proof / Save Flow Rule
+
+Status:
+
+PROOF PHASE PASSED - SAVE PHASE NEEDED
+
+Current proven base:
+
+main @ eea120b
+
+Meaning:
+
+The anchor now reflects the Split Proof / Save Flow Rule.
+
+Risky Mr.Kleen changes should use Phase 1 proof with no git add, commit, or push, then Phase 2 save only after visible PASS.
+
+Receipt:
+
+PROOF_HISTORY/ANCHOR_AFTER_SPLIT_PROOF_SAVE_FLOW_RULE_PROOF_PHASE_RECEIPT_20260518.txt

@@ -1,30 +1,38 @@
 ACTIVE BALL:
-Current Base After Work Shed Live Use And Stop-Tool Rule
+Current Base After Split Proof / Save Flow Rule
 
 RECORDED CURRENT BASE:
-main @ a387733
+main @ eea120b
 
 STATUS:
 PLACEMENT BASE CURRENT
 
 CURRENT PROVEN BASE:
-main @ a387733
+main @ eea120b
 
 CURRENT PROVEN ITEMS:
-- Work Shed soft room exists under HOUSE_WORK.
-- Work Shed drawer folders are preserved with README files.
-- Work Shed passed first-use test.
-- Work Shed operating index exists and was proof-repaired.
 - Work Shed live-use pass 001 captured the proof-failed-but-commit-happened issue.
 - Failed Proof Commit Guard is front-shelved as a support-only helper.
 - Stop-and-Tool / Bookmark Rule is saved.
-- Issue Self-Repair and Room Redesign Authority rule is saved.
-- Bell Logic Gate and Word-Key Clarity Checker are active learning supports.
+- Split Proof / Save Flow Rule is saved.
+- Split Proof / Save Flow was proven using Phase 1 without git add, commit, or push.
+- Split Proof / Save Flow was saved only after visible Phase 1 PASS.
+- Bell Logic Gate and Word-Key Clarity Checker remain active learning supports.
+- Issue Self-Repair and Room Redesign Authority rule remains active.
+
+CURRENT SPLIT PROOF / SAVE POSITION:
+Risky Mr.Kleen work should use two phases.
+
+Phase 1:
+write/update files, run checks, create proof receipt, print receipt, stop without git add, commit, or push.
+
+Phase 2:
+only after Phase 1 PASS, verify receipt, add intended files, commit, push, final status, and final log.
 
 CURRENT WORK SHED POSITION:
 HOUSE_WORK/WORK_SHED is the assistant's support-only controlled messy workroom.
 
-It may receive messy idea loads, sort them, make idea cards, keep hot helpers on the front shelf, park inactive methods, preserve old ways, and maintain indexes.
+It can receive mess, sort it, make idea cards, front-shelf hot helpers, park inactive methods, preserve old ways, and maintain indexes.
 
 It cannot command.
 
@@ -32,18 +40,11 @@ It cannot promote.
 
 It cannot become doctrine.
 
-Material must pass the Work Shed exit gate before leaving.
-
-CURRENT STOP-AND-TOOL POSITION:
-When struggle appears, the assistant must stop the affected lane, diagnose missing support, build/get the right tool/helper/checker/map when allowed, bookmark unfinished work, continue only unaffected work, and return with the right support.
-
 NEXT ALLOWED MOVE:
-Strengthen the Failed Proof Commit Guard so risky command blocks do not keep commit/push commands in the same flow after a failed proof.
+Use split proof/save flow for the next risky Mr.Kleen change.
 
 Recommended next candidate:
-Create a split proof/save phase rule or helper for risky Mr.Kleen command blocks.
-
-No new boss is automatically selected beyond the current user-approved next move.
+Run a small review of current front-shelf helpers and decide whether any should stay front-shelf, park, or become active learning after proof.
 
 BLOCKED MOVES:
 Do not start runtime build.
@@ -63,6 +64,7 @@ Do not let Work Shed material command.
 Do not let Work Shed material promote itself.
 Do not continue downstream of failed proof.
 Do not walk away from blocked work without a bookmark.
+Do not put git add, commit, or push in Phase 1 of risky proof work.
 Do not rewrite active guides from this refresh.
 Do not treat support maps, indexes, receipts, TODO, SYSTEM_LINKS, Work Shed, or source ore as command authority.
 

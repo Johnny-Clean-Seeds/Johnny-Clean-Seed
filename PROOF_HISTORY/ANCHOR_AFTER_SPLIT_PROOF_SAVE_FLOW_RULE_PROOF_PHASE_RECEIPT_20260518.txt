@@ -1,0 +1,35 @@
+ANCHOR AFTER SPLIT PROOF / SAVE FLOW RULE PROOF PHASE RECEIPT
+
+Branch: main
+Head before proof phase: eea120b
+Anchor file: ACTIVE_ANCHOR.txt
+Anchor SHA256: 2AB509A582FEDE3D8A7578872C83C6E8B0640C0C2570D63E8CAA60178A604725
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+Status SHA256: 21089FBA232AF4627A783E479AE259D79ACEB3D69080CE1BFA38F60FC2B10FB3
+
+Purpose:
+- Prove anchor refresh after Split Proof / Save Flow Rule.
+- Use Phase 1 only.
+- Do not include git add, commit, or push in this proof phase.
+
+Blocked / not done in Phase 1:
+- No git add.
+- No commit.
+- No push.
+- No room moved.
+- No source promoted.
+- No runtime work.
+- No cleanup.
+- No active guide rewrite.
+
+Checks:
+- Anchor names current base eea120b: True
+- Anchor names Split Proof Save Rule: True
+- Anchor names Phase 1 no save: True
+- Anchor names Phase 2 after PASS: True
+- Anchor blocks Phase 1 save commands: True
+- Anchor keeps Work Shed support-only: True
+- Status marks save phase needed: True
+
+Verdict:
+PASS - Anchor refresh proof phase passed for main @ eea120b. Save phase is allowed next.
