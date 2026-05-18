@@ -1,0 +1,36 @@
+WEIGH OPTIONS BEFORE CODE RULE RECEIPT
+
+Branch: main
+Head before save: 63753e3
+Rule file: BRAIN_LEARNING\WEIGH_OPTIONS_BEFORE_CODE_RULE_20260518.md
+Rule SHA256: 99D15D445830EFD9E714B1D5A27183DEFDA7EA6589F5FE081661A79CECAAF3ED
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Purpose:
+- Save conditional Weigh Options Before Code rule.
+- Require weighing only when bells/alarms make the choice meaningful.
+- Require same-style logic, not just a list result.
+- Prevent both first-available-fix behavior and overthinking simple tasks.
+
+Blocked / not done:
+- No anchor refresh.
+- No source promotion.
+- No runtime work.
+- No cleanup.
+- No tool run.
+
+Checks:
+- Rule file exists: True
+- Rule is active learning rule: True
+- Conditional trigger present: True
+- Simple tasks excluded: True
+- Bells alarms present: True
+- Three bells trigger present: True
+- High-risk trigger present: True
+- Mimic similar rule logic present: True
+- Same-style logic pass present: True
+- List-only failure blocked: True
+- Status index updated: True
+
+Verdict:
+PASS - Conditional Weigh Options Before Code rule saved. Many bells trigger same-style logic before code; simple clean paths do not require full weighing.

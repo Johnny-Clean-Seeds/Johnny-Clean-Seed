@@ -413,3 +413,21 @@ Neither shelf is doctrine.
 Neither shelf commands work.
 
 Both remain parked source ore until selected, traced, tested, and proven.
+
+## Weigh Options Before Code Rule
+
+Status:
+
+SAVED
+
+Meaning:
+
+Before creating Mr.Kleen code or project-changing commands, the assistant must check whether the choice rings enough bells to require option weighing.
+
+If many bells ring, the assistant must produce a same-style logic pass before coding: active need, bells, similar rules, options, comparison, selected option, blocked options, proof path, and save path.
+
+If the task is simple, already selected, mechanical, or low-risk, do not overthink it.
+
+Receipt:
+
+PROOF_HISTORY/WEIGH_OPTIONS_BEFORE_CODE_RULE_RECEIPT_20260518.txt
