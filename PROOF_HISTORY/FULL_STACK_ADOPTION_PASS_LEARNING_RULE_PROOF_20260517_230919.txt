@@ -1,0 +1,33 @@
+FULL STACK ADOPTION PASS LEARNING RULE PROOF
+
+Brain home:
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+
+Learning rule:
+BRAIN\LEARNING\FULL_STACK_ADOPTION_PASS_LEARNING_RULE.md
+
+Rule SHA256:
+15F6116C6CBF776E7EBF5B10400BA9B485815431438773AA71C3F29A1E5AFA4B
+
+Reason:
+User clarified that adoption must apply all instructions from here and earlier in the stack, not just the latest pattern-adoption section.
+
+Checks:
+rule_exists: True
+in_brain_learning_lane: True
+names_full_stack: True
+has_dual_save: True
+has_chat_lock_risk: True
+has_copy_continuity: True
+has_10_boss_limit: True
+has_fit_proof_adoption: True
+parks_not_ready: True
+avoids_lugging_pile: True
+has_close_condition: True
+
+
+Failed checks:
+
+
+Verdict:
+PASS - full stack adoption pass rule placed and proof-aligned.
