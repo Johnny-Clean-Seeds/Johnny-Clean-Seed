@@ -124,3 +124,17 @@ Meaning:
 - CURRENT_HOUSE_WORK_STATUS.md is support only.
 - Old action-looking text is historical unless restated by ACTIVE_ANCHOR.txt or current user command.
 - Next work must be chosen fresh from current evidence.
+
+## Fog Clearing Is Clarity
+
+Active learning rule:
+
+BRAIN_LEARNING/FOG_CLEARING_IS_CLARITY_NOT_BULLDOZING_20260518.md
+
+Meaning:
+
+Fog is a valid blocker when it affects assistant entry, routing, authority, proof, next-move meaning, or Mr.Kleen save continuity.
+
+Clear fog with clearer words, labels, room maps, role signs, receipt clarification, pointer checks, and narrow sync repairs.
+
+Do not use fog cleanup as permission for deletion, broad folder moves, doctrine compression, proof-history restructuring, bridge/runtime edits, or new competing authority files.

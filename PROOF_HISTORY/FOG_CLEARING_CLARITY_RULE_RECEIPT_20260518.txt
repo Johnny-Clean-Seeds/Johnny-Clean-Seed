@@ -1,0 +1,24 @@
+FOG CLEARING CLARITY RULE RECEIPT
+
+Branch: main
+Head before save: d687473
+Rule file: BRAIN_LEARNING\FOG_CLEARING_IS_CLARITY_NOT_BULLDOZING_20260518.md
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+Receipt file: PROOF_HISTORY\FOG_CLEARING_CLARITY_RULE_RECEIPT_20260518.txt
+
+Purpose:
+- Save the rule that fog clearing is valid and important.
+- Keep fog clearing focused on clarity, labels, maps, signs, and matching.
+- Prevent fog cleanup from becoming deletion, broad restructuring, doctrine compression, or runtime/bridge work.
+
+Checks:
+- Says fog is valid blocker: True
+- Defines good fog clearing: True
+- Blocks bulldozing: True
+- Requires matching: True
+- Uses smallest safe method: True
+- Protects authority files: True
+- Status index updated: True
+
+Verdict:
+PASS - Fog clearing rule saved. Fog may be cleared aggressively when it affects routing/proof/authority/next-move meaning, but the method must be clarity first, not bulldozing.
