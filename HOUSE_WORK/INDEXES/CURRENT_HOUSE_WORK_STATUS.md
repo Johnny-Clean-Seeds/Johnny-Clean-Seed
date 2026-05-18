@@ -553,3 +553,21 @@ The test proved the room can receive mess, sort it, make an idea card, and keep 
 Receipt:
 
 PROOF_HISTORY/WORK_SHED_FIRST_USE_TEST_RECEIPT_20260518.txt
+
+## Issue Self-Repair and Room Redesign Authority Rule
+
+Status:
+
+SAVED
+
+Meaning:
+
+When the assistant encounters an issue during Clean Seed / Mr.Kleen work, it may diagnose and repair the issue within doctrine and current scope instead of merely reporting it and waiting.
+
+The assistant may create helpers, tools, checkers, indexes, Work Shed helpers, soft trial rooms, and room redesigns when needed.
+
+Room moves require soft design/review, neighbor protection, old-path preservation, proof, save, push, and clean status.
+
+Receipt:
+
+PROOF_HISTORY/ISSUE_SELF_REPAIR_AND_ROOM_REDESIGN_AUTHORITY_RECEIPT_20260518.txt

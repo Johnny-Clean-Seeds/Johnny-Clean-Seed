@@ -1,0 +1,39 @@
+ISSUE SELF-REPAIR AND ROOM REDESIGN AUTHORITY RECEIPT
+
+Branch: main
+Head before save: ee392c6
+Rule file: BRAIN_LEARNING\ISSUE_SELF_REPAIR_AND_ROOM_REDESIGN_AUTHORITY_RULE_20260518.md
+Rule SHA256: 9F0FA81F3726107973851FACB803E71DE5338F6ABAEEF19A50FB58C4849AAC3C
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Purpose:
+- Save rule allowing the assistant to diagnose and repair fixable issues inside doctrine and current scope.
+- Allow creation of helpers, tools, checkers, indexes, Work Shed helpers, soft trial rooms, and room redesigns when needed.
+- Allow room redesign/move only through soft design, neighbor protection, old-path preservation, proof, save, push, and clean status.
+- Prevent reporting-only behavior when a clean repair is available.
+
+Blocked / not done:
+- No room moved.
+- No tool run.
+- No source promoted.
+- No doctrine installed beyond assistant learning rule.
+- No cleanup.
+- No runtime work.
+- No active guide rewrite.
+
+Checks:
+- Rule file exists: True
+- Rule is active learning rule: True
+- Core issue flow present: True
+- Issue triggers present: True
+- Allowed self-repair moves present: True
+- Room redesign authority present: True
+- Room move gate present: True
+- Tool helper authority present: True
+- Blocked self-repairs present: True
+- Old path preservation present: True
+- Proof standard present: True
+- Status index updated: True
+
+Verdict:
+PASS - Issue self-repair and room redesign authority rule saved. The assistant may repair issues and design/move rooms when the model gates are satisfied.
