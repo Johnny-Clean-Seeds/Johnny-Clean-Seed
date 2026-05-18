@@ -595,3 +595,25 @@ No Work Shed material commands, promotes, or becomes doctrine by being in the Wo
 Receipt:
 
 PROOF_HISTORY/ANCHOR_AFTER_WORK_SHED_AND_SELF_REPAIR_RECEIPT_20260518.txt
+
+## Anchor Work Shed Self-Repair Duplicate Commit Clarification
+
+Status:
+
+CLARIFIED
+
+Meaning:
+
+Two nearby commits used the same message, `Refresh anchor after Work Shed and self repair`.
+
+Do not rewrite public Git history.
+
+Treat the earlier same-message commit as historical noise.
+
+Final active anchor refresh from this sequence:
+
+main @ 9b36d86
+
+Receipt:
+
+PROOF_HISTORY/ANCHOR_WORK_SHED_SELF_REPAIR_DUPLICATE_COMMIT_CLARIFICATION_RECEIPT_20260518.txt
