@@ -1,0 +1,24 @@
+DESKTOP 123 RAW INTAKE CAPTURE RECEIPT
+
+Branch: main
+Head before save: e5c818c
+Capture file: SOURCE_ORE\DESKTOP_123_INTAKE_CAPTURE_20260518.md
+Capture SHA256: D0376A34984AC3F555EDCA8FD40A1AC1712637EE8305308BAB3F1D2811CFE91F
+
+Purpose:
+- Save the Desktop 123 contents as raw source capture.
+- Preserve names, hashes, and contents without copying the folder.
+- Keep candidate methods, algorithms, bitstrings, masks, proof tools, and ledgers parked as source ore.
+- Prevent intake capture from becoming active doctrine, command authority, or repair authority.
+
+Checks:
+- Capture file exists: True
+- Capture is source only: True
+- Folder not copied boundary present: True
+- No candidate installed boundary present: True
+- Bitstring ledger captured: True
+- Bitstring ledger has no command authority: True
+- Master boundary present: True
+
+Verdict:
+PASS - Desktop 123 raw intake captured as source ore. No candidate was installed. Further injection requires separate lane judgment and proof.
