@@ -1,26 +1,24 @@
 ACTIVE BALL:
-Current Base After Work Shed Operating Index Proof Repair
+Current Base After Work Shed Live Use And Stop-Tool Rule
 
 RECORDED CURRENT BASE:
-main @ 3ef3a50
+main @ a387733
 
 STATUS:
 PLACEMENT BASE CURRENT
 
 CURRENT PROVEN BASE:
-main @ 3ef3a50
+main @ a387733
 
 CURRENT PROVEN ITEMS:
 - Work Shed soft room exists under HOUSE_WORK.
 - Work Shed drawer folders are preserved with README files.
 - Work Shed passed first-use test.
-- Work Shed operating index exists.
-- Initial Work Shed operating index receipt failed because status index update check failed.
-- Failed Work Shed operating index receipt is preserved as historical evidence.
-- Work Shed operating index proof was repaired by superseding receipt.
-- CURRENT_HOUSE_WORK_STATUS.md now records the Work Shed operating index repair.
-- Public Git history was not rewritten.
-- Issue Self-Repair and Room Redesign Authority rule is active.
+- Work Shed operating index exists and was proof-repaired.
+- Work Shed live-use pass 001 captured the proof-failed-but-commit-happened issue.
+- Failed Proof Commit Guard is front-shelved as a support-only helper.
+- Stop-and-Tool / Bookmark Rule is saved.
+- Issue Self-Repair and Room Redesign Authority rule is saved.
 - Bell Logic Gate and Word-Key Clarity Checker are active learning supports.
 
 CURRENT WORK SHED POSITION:
@@ -36,18 +34,16 @@ It cannot become doctrine.
 
 Material must pass the Work Shed exit gate before leaving.
 
-CURRENT PROOF POSITION:
-The failed Work Shed operating index receipt remains preserved.
-
-The valid superseding repair receipt is:
-
-PROOF_HISTORY/WORK_SHED_OPERATING_INDEX_PROOF_REPAIR_RECEIPT_20260518.txt
+CURRENT STOP-AND-TOOL POSITION:
+When struggle appears, the assistant must stop the affected lane, diagnose missing support, build/get the right tool/helper/checker/map when allowed, bookmark unfinished work, continue only unaffected work, and return with the right support.
 
 NEXT ALLOWED MOVE:
-Use the Work Shed during the next messy idea/task intake, or select a new boss.
+Strengthen the Failed Proof Commit Guard so risky command blocks do not keep commit/push commands in the same flow after a failed proof.
 
 Recommended next candidate:
-Run a small Work Shed live-use pass on the next real pile instead of making more structure immediately.
+Create a split proof/save phase rule or helper for risky Mr.Kleen command blocks.
+
+No new boss is automatically selected beyond the current user-approved next move.
 
 BLOCKED MOVES:
 Do not start runtime build.
@@ -65,6 +61,8 @@ Do not run root scripts unless selected by current task and proof need.
 Do not move rooms without soft design/review and proof.
 Do not let Work Shed material command.
 Do not let Work Shed material promote itself.
+Do not continue downstream of failed proof.
+Do not walk away from blocked work without a bookmark.
 Do not rewrite active guides from this refresh.
 Do not treat support maps, indexes, receipts, TODO, SYSTEM_LINKS, Work Shed, or source ore as command authority.
 

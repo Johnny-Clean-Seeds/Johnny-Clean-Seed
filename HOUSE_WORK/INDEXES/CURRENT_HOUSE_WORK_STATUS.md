@@ -705,3 +705,27 @@ Unfinished or blocked work must leave a bookmark with state, cause, blocked work
 Receipt:
 
 PROOF_HISTORY/STOP_AND_TOOL_OR_BOOKMARK_RULE_RECEIPT_20260518.txt
+
+## Anchor After Work Shed Live Use And Stop-Tool Rule
+
+Status:
+
+SAVED
+
+Current proven base:
+
+main @ a387733
+
+Meaning:
+
+The anchor now reflects Work Shed live-use pass 001 and the Stop-and-Tool / Bookmark Rule.
+
+The Failed Proof Commit Guard remains front-shelved as a support-only helper.
+
+Next recommended move:
+
+Strengthen risky command blocks with a split proof/save phase rule or helper.
+
+Receipt:
+
+PROOF_HISTORY/ANCHOR_AFTER_WORK_SHED_LIVE_USE_AND_STOP_TOOL_RULE_RECEIPT_20260518.txt
