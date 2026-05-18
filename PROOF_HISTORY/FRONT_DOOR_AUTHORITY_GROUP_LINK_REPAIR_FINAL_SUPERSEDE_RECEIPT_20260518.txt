@@ -1,0 +1,29 @@
+FRONT DOOR AUTHORITY GROUP LINK REPAIR FINAL SUPERSEDE RECEIPT
+
+Branch: main
+Head before final supersede proof: 38d9cc2
+First failed receipt preserved: PROOF_HISTORY\FRONT_DOOR_AUTHORITY_GROUP_LINK_REPAIR_RECEIPT_20260518.txt
+Second failed receipt preserved: PROOF_HISTORY\FRONT_DOOR_AUTHORITY_GROUP_LINK_REPAIR_SUPERSEDE_RECEIPT_20260518.txt
+Final supersede receipt: PROOF_HISTORY\FRONT_DOOR_AUTHORITY_GROUP_LINK_REPAIR_FINAL_SUPERSEDE_RECEIPT_20260518.txt
+
+Purpose:
+- Supersede both failed front-door repair receipts without deleting them.
+- Prove README start order names ACTIVE_ANCHOR.txt when present.
+- Add and prove README authority-map anchor role.
+- Preserve ACTIVE_ANCHOR recorded-base wording repair.
+- Preserve TODO-control post-repair link-walk state.
+- Use plain-text checks because prior PowerShell backtick handling stripped Markdown code ticks.
+
+Checks:
+- First failed receipt preserved: True
+- Second failed receipt preserved: True
+- README names ACTIVE_ANCHOR in start order plain text: True
+- README authority map names anchor role plain text: True
+- Anchor no longer says CURRENT CHECKED POSITION: True
+- Anchor uses recorded base wording: True
+- Anchor has live position note: True
+- Anchor points live position to git proof: True
+- TODO control points to post-repair link walk: True
+
+Verdict:
+PASS - Both failed front-door repair receipts are preserved and superseded. README now routes to ACTIVE_ANCHOR.txt when present, README authority map names the anchor role, ACTIVE_ANCHOR uses recorded-base wording, and TODO control points to the post-repair link walk.

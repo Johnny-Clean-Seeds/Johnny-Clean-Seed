@@ -32,6 +32,7 @@ Read in this order:
 - `ACTIVE_GUIDES/` is the active guide packet.
 - Root guide files are pointer/reference files unless `CURRENT_TRUTH_INDEX.txt` proves otherwise.
 - `CURRENT_TRUTH_INDEX.txt` is the current orientation ledger.
+- ACTIVE_ANCHOR.txt holds the current active-ball, next allowed move, and blocked moves when present.
 - `AGENTS.md` is local file-lane guidance. It is not a fourth active guide.
 - `PROOF_HISTORY/` is evidence, receipts, backups, reports, and audit material. It is not active doctrine by volume.
 - `PUBLIC_NOTES/` is the support-note lane for visible signs, cards, handoffs, learning notes, and public-boundary notes. It is not active doctrine by default.
@@ -87,6 +88,7 @@ This README removes entry ambiguity.
 It does not rewrite the model.
 
 It routes the assistant to the active packet and labels proof/history/source-ore correctly.
+
 
 
 
