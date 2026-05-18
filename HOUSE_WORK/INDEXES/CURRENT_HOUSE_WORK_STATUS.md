@@ -128,3 +128,29 @@ Meaning:
 - updates only when they protect orientation, proof, gates, or next movement
 
 This does not soften proof, blocked-lane checks, Mr.Kleen save continuity, or final clean status.
+
+## Anchor / Current Truth Sync Candidate
+
+Current judgment:
+
+Authority-state drift appears to be the top candidate boss.
+
+Action status:
+
+No repo edits are authorized by critique notes alone.
+
+Candidate file:
+
+HOUSE_WORK/ANCHOR_CURRENT_TRUTH_SYNC_CANDIDATE/ANCHOR_CURRENT_TRUTH_SYNC_CANDIDATE_20260518.md
+
+Source ore file:
+
+SOURCE_ORE/DEEP_REPO_SCAN_CRITIQUE_SOURCE_ORE_20260518.md
+
+Learning gate:
+
+BRAIN_LEARNING/CRITIQUE_IS_NOT_COMMAND_GATE_20260518.md
+
+If action is later authorized, read actual latest HEAD, inspect ACTIVE_ANCHOR.txt, inspect CURRENT_TRUTH_INDEX.txt, update only active misrouting, create receipt, review diff, then commit/push only if authorized.
+
+Parked risks remain visible but inactive: bridge hardening, proof-history bloat, runtime tracked files, public/private boundary, doctrine compression, active guide hash manifest, and scan-source confirmation.

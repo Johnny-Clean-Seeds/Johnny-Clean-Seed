@@ -1,0 +1,28 @@
+ANCHOR / CURRENT TRUTH SYNC CANDIDATE LOCK RECEIPT
+
+Branch: main
+Head before save: 928d86a
+Candidate file: HOUSE_WORK\ANCHOR_CURRENT_TRUTH_SYNC_CANDIDATE\ANCHOR_CURRENT_TRUTH_SYNC_CANDIDATE_20260518.md
+Source ore file: SOURCE_ORE\DEEP_REPO_SCAN_CRITIQUE_SOURCE_ORE_20260518.md
+Learning file: BRAIN_LEARNING\CRITIQUE_IS_NOT_COMMAND_GATE_20260518.md
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+Receipt file: PROOF_HISTORY\ANCHOR_CURRENT_TRUTH_SYNC_CANDIDATE_LOCK_RECEIPT_20260518.txt
+
+Purpose:
+- Preserve the critique chain without turning it into hidden action.
+- Save Anchor / Current Truth Sync as a top candidate boss.
+- Park the broader scan risks as source ore.
+- Add a learning gate that critique is not command.
+
+Checks:
+- Candidate is judgment only: True
+- Candidate says no edits by critique alone: True
+- Candidate requires latest HEAD: True
+- Candidate limits CURRENT_TRUTH_INDEX edits: True
+- Source ore parks risks: True
+- Learning says critique is not command: True
+- Status index points to candidate: True
+- No runtime action authorized: True
+
+Verdict:
+PASS - Critique chain saved correctly. Anchor / Current Truth Sync is preserved as a candidate boss only. No repair action is authorized by the saved critique files.
