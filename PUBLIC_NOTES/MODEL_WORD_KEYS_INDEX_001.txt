@@ -1,0 +1,207 @@
+MODEL_WORD_KEYS_INDEX_001
+Status: ACTIVE SUPPORT NOTE / MODEL KEY LIST
+Authority: Not active doctrine.
+Home: PUBLIC_NOTES
+Date: 2026-05-17
+
+PURPOSE
+
+This note starts a living definitions list for Clean Seed / Clean Milk work.
+
+Words are keys.
+
+When the model creates or sharpens a word, the word should be defined so it stays clean.
+
+WHY THIS EXISTS
+
+Undefined words drift.
+
+Drifting words create dirty routes.
+
+Dirty routes make the assistant misunderstand the house.
+
+A word key should tell the assistant where a thing belongs, what authority it has, and how it should be used.
+
+CORE RULE
+
+When a new working word becomes important, define it.
+
+Do not let important model words stay vague.
+
+Do not keep using a word if its role is unclear.
+
+Add, sharpen, or park definitions as the model grows.
+
+DEFINITION SHAPE
+
+Each definition should answer:
+
+- What does this word mean?
+- What lane does it belong to?
+- What does it allow?
+- What does it block?
+- What can it be confused with?
+- What proof or close condition applies?
+
+CURRENT WORD KEYS
+
+HOME
+
+The current repo brain/house used for assistant entry, routing, memory, proof, and action.
+
+For current work, the home is:
+
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+
+PUBLIC
+
+Exposure or access boundary.
+
+Public does not mean public-human purpose.
+
+Public reach does not define authority.
+
+ROOM
+
+A functional area of the house.
+
+A room has a role, boundary, and expected contents.
+
+LANE
+
+A controlled path for a type of work.
+
+Examples: content lane, checker lane, command lane, proof lane, memory lane, neighbor lane.
+
+SUIT
+
+The assistant operating fit method.
+
+The suit makes the assistant shape work only through clean model concepts: room, lane, proof, authority, neighbor policy, source truth, power play, and lock/save.
+
+LOCK/SAVE
+
+Securing meaningful progress.
+
+For repo work, this means proof plus git add, commit, push, and clean status.
+
+For brain work, this means memory.
+
+For both, chat alone is not enough.
+
+FREEZE
+
+Stop movement long enough to preserve the event.
+
+Freeze is not panic.
+
+Freeze prevents symptom repair from erasing the lesson.
+
+CAPTURE
+
+Record what happened, what proved it, and what it teaches.
+
+POWER PLAY
+
+A problem converted into a reusable improvement.
+
+A power play should strengthen a gate, checker, word key, placement rule, source-truth test, neighbor boundary, script shape, memory rule, parking rule, or proof habit.
+
+CHECKER
+
+A support tool that tests whether a named condition is met.
+
+A checker is useful but not automatically truth.
+
+A checker can fail because the checker itself is wrong.
+
+SELF-BITE
+
+A checker failure caused by the checker scanning its own forbidden words, rule table, or test data.
+
+Self-bite belongs to the checker lane, not the content lane.
+
+SOURCE TRUTH
+
+The proven current surface.
+
+For this project, if the local home is synced with origin/main and git status is clean, it is the current room truth.
+
+STALE WINDOW
+
+A view that may be old, cached, copied, or not connected to current home truth.
+
+Old folders, raw views, browser views, outboxes, and chat memory can become stale windows.
+
+NEIGHBOR POLICY
+
+Do not fix one lane by damaging another.
+
+Do not rewrite active guides for a support-note issue.
+
+Do not delete proof to reduce confusion.
+
+Do not make broad changes when the failure is local to a tool/checker/word.
+
+PROGRESS LOCK
+
+A checkpoint rule that prevents too much meaningful progress from staying loose.
+
+One named gate should usually create one lock/save decision.
+
+SUPPORT NOTE
+
+A visible helper note.
+
+It can guide, explain, warn, or route, but it is not active doctrine by default.
+
+ACTIVE DOCTRINE
+
+Material that has authority to guide behavior inside the model.
+
+Do not create or rewrite active doctrine without a named authority/promotion gate.
+
+SOURCE-ORE
+
+Parked raw material, old ideas, examples, or references that may be mined later.
+
+Source-ore is not installed truth by existence.
+
+PASS
+
+A proof-backed close condition.
+
+PASS requires evidence and the correct gate.
+
+DONE
+
+A movement or completion claim.
+
+Done is not PASS.
+
+YIELD
+
+A stop condition.
+
+Use YIELD when uncertainty, mismatch, failed proof, neighbor risk, or source-truth conflict prevents clean progress.
+
+WORD CLEANING RULE
+
+When a word becomes important:
+
+1. Define it.
+2. Place it.
+3. Note what it blocks.
+4. Note what it can be confused with.
+5. Update the word-key list when useful.
+6. Do not overpromote the word into doctrine without a gate.
+
+CLOSE RULE
+
+This index is a support note.
+
+It must not outrank CURRENT_TRUTH_INDEX.txt.
+
+It must not outrank ACTIVE_GUIDES.
+
+It should grow carefully as words become real working keys.

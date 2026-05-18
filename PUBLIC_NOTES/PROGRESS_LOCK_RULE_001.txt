@@ -1,0 +1,110 @@
+PROGRESS_LOCK_RULE_001
+Status: ACTIVE SUPPORT NOTE / PROGRESS CHECKPOINT RULE
+Authority: Not active doctrine.
+Home: PUBLIC_NOTES
+Date: 2026-05-17
+
+PURPOSE
+
+This note creates a progress lock rule.
+
+The assistant and user should not keep making an undefined amount of progress without a lock/save checkpoint.
+
+Progress must periodically become secured progress.
+
+WHY THIS EXISTS
+
+A house can improve and still become unstable if too much work stays loose.
+
+A long chain of repairs, notes, scripts, tests, or decisions can become hard to trust if it is not locked, saved, and named.
+
+The point is not to stop growth.
+
+The point is to keep growth clean.
+
+CORE RULE
+
+Do not keep making open-ended progress without a lock/save checkpoint.
+
+When progress reaches a meaningful unit, pause and secure it.
+
+LOCK/SAVE MEANS
+
+For repo-home work:
+
+- sync check,
+- edit/build,
+- proof check,
+- git add,
+- commit,
+- push,
+- final clean status.
+
+For brain work:
+
+- save the future-use rule to memory when it changes assistant behavior.
+
+For support notes:
+
+- place the note in the correct lane,
+- prove it,
+- commit/push if it belongs in the repo home.
+
+CHECKPOINT TRIGGERS
+
+Use a progress lock when any of these happen:
+
+1. A new support rule is created.
+2. A new word/key is created or sharpened.
+3. A repeated failure is converted into a power play.
+4. A checker/gate is repaired.
+5. A meaningful support note is added.
+6. Several local steps have happened without a commit.
+7. The user says lock, save, checkpoint, freeze, capture, or power play.
+8. The assistant notices work is spreading across multiple lanes.
+9. A clean PASS has been achieved and the result should not remain loose.
+
+PROGRESS LIMIT
+
+Do not stack too many meaningful changes before lock/save.
+
+A clean default:
+
+One named gate = one lock/save decision.
+
+If the change is not worth saving, park it or discard only with capture.
+
+If it is worth keeping, lock/save it.
+
+BLOCKED
+
+Blocked behavior:
+
+- calling progress complete while files are untracked,
+- leaving support notes loose after proof,
+- saving only in chat when the rule affects future work,
+- making many new terms without defining them,
+- continuing to the next weak point before securing the current one,
+- treating movement as proof.
+
+POWER PLAY
+
+Progress lock turns motion into owned growth.
+
+It makes the house easier to trust because every meaningful gain has:
+
+- a name,
+- a lane,
+- proof,
+- a lock/save state,
+- a next clean state.
+
+CLOSE RULE
+
+This is a support note.
+
+It must not outrank CURRENT_TRUTH_INDEX.txt.
+
+It must not outrank ACTIVE_GUIDES.
+
+It supports the assistant suit operating system and paste-safe gate shape.
