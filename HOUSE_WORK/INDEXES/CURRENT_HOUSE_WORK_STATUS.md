@@ -374,3 +374,21 @@ The anchor now names the current placement base after Front Door link repair, TO
 No new boss is automatically selected.
 
 Next work must be selected by current user command or ACTIVE_ANCHOR.txt.
+
+## Script / Tool Index
+
+Status:
+
+SAVED
+
+Meaning:
+
+Root scripts and tool rooms are indexed as support tools only.
+
+Scripts do not command because they exist.
+
+Tool use requires current task selection, scope, and proof need.
+
+Receipt:
+
+PROOF_HISTORY/MR_KLEEN_SCRIPT_TOOL_INDEX_RECEIPT_20260518.txt

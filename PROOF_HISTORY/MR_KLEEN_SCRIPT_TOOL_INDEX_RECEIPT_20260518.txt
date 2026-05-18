@@ -1,0 +1,37 @@
+MR KLEEN SCRIPT TOOL INDEX RECEIPT
+
+Branch: main
+Head before save: 259b8fc
+Index file: HOUSE_WORK\INDEXES\MR_KLEEN_SCRIPT_TOOL_INDEX_20260518.md
+Index SHA256: 0847F02D0E1DF329C5393583688BA1AFD41A9F873E7B441D3751818BB0ED51F8
+Root script/tool file count: 9
+Known tool/test room count: 4
+
+Purpose:
+- Label root scripts and tool rooms as support tools only.
+- Prevent visible scripts from looking like active commands.
+- Define the gate for when a tool may be used.
+- Avoid moving, running, deleting, or rewriting tools.
+
+Blocked / not done:
+- No scripts run.
+- No files moved.
+- No cleanup.
+- No runtime work.
+- No bridge hardening.
+- No status-command runtime work.
+- No install work.
+
+Checks:
+- Index file exists: True
+- Index is support only: True
+- Core script boundary present: True
+- Tool use gate present: True
+- Blocked by default present: True
+- Root script section present: True
+- Tool room section present: True
+- Room role relationship present: True
+- Status index updated: True
+
+Verdict:
+PASS - Script / Tool Index saved as support-only placement map. Root scripts and tool rooms are labeled without running or moving them.
