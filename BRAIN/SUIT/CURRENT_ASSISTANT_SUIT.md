@@ -43,6 +43,14 @@ Move out, park, fail-fit, or support-link anything that does not belong in the a
 - BRAIN/SUIT/HARD_SUIT.md
 - BRAIN/SUIT/SUIT_FILTER_GATE.md
 
+## Capture helper link
+
+Use this support file when capture, idea intake, ranking, or retrieval is the active problem:
+
+- BRAIN/SUIT/CAPTURE_SYSTEM_HELPER_PACK.md
+
+It supports the suit but does not add pack weight by itself.
+
 ## Active rule
 
 The assistant should work from the suit, not from loose chat weight.
@@ -50,3 +58,4 @@ The assistant should work from the suit, not from loose chat weight.
 ## Close condition
 
 If the suit is missing, stale, overloaded, or disconnected, fixing the suit becomes the next boss.
+

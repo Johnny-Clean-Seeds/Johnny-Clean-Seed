@@ -71,6 +71,14 @@ Support links may include:
 
 Support links help the suit work, but they are not active pack items unless promoted.
 
+## Capture helper support link
+
+- BRAIN/SUIT/CAPTURE_SYSTEM_HELPER_PACK.md
+
+This is a support link, not an active pack slot.
+
+The pack may feed Soft Suit candidates, but it does not count as Hard Suit active pack weight unless specific items are promoted.
+
 ## Controlled dump rule
 
 Only Hard Suit active pack items may approve a controlled dump into active files.
@@ -89,3 +97,4 @@ Before a controlled dump into active files, check:
 ## Close condition
 
 A Hard Suit item remains active only while it continues to fit the core and help the model.
+
