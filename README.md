@@ -21,10 +21,11 @@ It may be publicly reachable, but public reach does not define its purpose or au
 Read in this order:
 
 1. `CURRENT_TRUTH_INDEX.txt`
-2. `ACTIVE_GUIDES/README_START_HERE.txt`
-3. `ACTIVE_GUIDES/CLEAN_SEED_WRAP_GUIDE.txt`
-4. `ACTIVE_GUIDES/CLEAN_SEED_ALIGNMENT_CHECK.txt`
-5. `AGENTS.md` only when doing local file-lane / Codex-style work
+2. `ACTIVE_ANCHOR.txt` when present
+3. `ACTIVE_GUIDES/README_START_HERE.txt`
+4. `ACTIVE_GUIDES/CLEAN_SEED_WRAP_GUIDE.txt`
+5. `ACTIVE_GUIDES/CLEAN_SEED_ALIGNMENT_CHECK.txt`
+6. `AGENTS.md` only when doing local file-lane / Codex-style work
 
 ## Authority map
 
@@ -86,3 +87,4 @@ This README removes entry ambiguity.
 It does not rewrite the model.
 
 It routes the assistant to the active packet and labels proof/history/source-ore correctly.
+

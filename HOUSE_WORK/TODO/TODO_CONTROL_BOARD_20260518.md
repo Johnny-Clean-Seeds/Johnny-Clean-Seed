@@ -31,7 +31,7 @@ The goal is to choose work by importance and system fit, not by noise, recency, 
 
 ### Boss 1 — Front Door / Authority Group Link Audit
 
-Status: TOP BOSS
+Status: REPAIR APPLIED - NEEDS POST-REPAIR LINK WALK
 
 Group:
 
@@ -249,3 +249,16 @@ Trace first. Boss second. Proof decides.
 Parked candidate methods:
 
 SOURCE_ORE/TODO_METHOD_CANDIDATES_PARKED_20260518.md
+
+## Front Door Repair Applied
+
+First repair applied:
+
+- README now routes to ACTIVE_ANCHOR.txt after CURRENT_TRUTH_INDEX.txt when present.
+- ACTIVE_ANCHOR now uses recorded anchor base language instead of live current position language.
+
+Next recommended move:
+
+Post-repair link walk.
+
+No additional repair until the walk proves the group state.

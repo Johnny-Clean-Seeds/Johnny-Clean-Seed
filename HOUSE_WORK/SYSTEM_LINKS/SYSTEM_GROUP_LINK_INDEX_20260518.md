@@ -19,7 +19,7 @@ Use these labels:
 
 ### Front Door / Authority Group
 
-Status: NOT CHECKED
+Status: LINKED WITH GAPS - FIRST REPAIR APPLIED
 
 Likely members:
 
@@ -127,3 +127,14 @@ Do lifecycle states, suit testing, wear, promotion, rollback, and parked states 
 Why:
 
 Authority and entry must be clear before support rooms and learning systems are judged.
+
+## Front Door / Authority Group Repair Note
+
+Repair applied:
+
+- README.md now names ACTIVE_ANCHOR.txt after CURRENT_TRUTH_INDEX.txt when present.
+- ACTIVE_ANCHOR.txt now uses recorded-anchor-base wording instead of live-current-position wording.
+
+Remaining state:
+
+This group still needs a post-repair link walk before being called LINKED.

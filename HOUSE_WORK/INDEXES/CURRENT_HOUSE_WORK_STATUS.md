@@ -295,3 +295,22 @@ Trace-Gated Boss Control is the selected TODO-room method.
 Trace first. Boss second. Proof decides.
 
 Other researched list methods are parked quietly as source ore and are not command authority.
+
+## Front Door Authority Group Link Repair
+
+Repair applied:
+
+- README.md now includes ACTIVE_ANCHOR.txt in the start order after CURRENT_TRUTH_INDEX.txt when present.
+- ACTIVE_ANCHOR.txt now uses recorded-anchor-base wording and says live commit position must be verified by git log / sync proof.
+
+Boundary:
+
+No CTI mass rewrite.
+No AGENTS rewrite.
+No active-guide rewrite.
+No proof-history restructure.
+No runtime, /system, bridge, or source-ore promotion work.
+
+Next needed:
+
+Post-repair front-door link walk before calling the group fully linked.

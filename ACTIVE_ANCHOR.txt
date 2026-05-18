@@ -1,8 +1,11 @@
 ACTIVE BALL:
 Anchor / Current Lane / Next-Move Meaning Sync Follow-Up
 
-CURRENT CHECKED POSITION:
+RECORDED ANCHOR BASE:
 main @ 3de1f56
+
+LIVE POSITION NOTE:
+This file records the active ball, next allowed move, blocked moves, and anchor history. It does not prove live current commit position after later commits. Use git log and sync proof for live commit position.
 
 STATUS:
 FOLLOW-UP REPAIR PASS
@@ -18,8 +21,8 @@ The actual saved sync commit was:
 
 This follow-up removes that fog by naming the difference clearly.
 
-CURRENT JUDGMENT:
-The anchor/current-lane sync repair was saved at 3de1f56, then this follow-up began from main @ 3de1f56.
+RECORDED JUDGMENT:
+The anchor/current-lane sync repair was saved at 3de1f56, then this follow-up was recorded from main @ 3de1f56. This is recorded anchor history, not live current commit position.
 
 ACTION STATUS:
 This is a wording/receipt clarity repair only.
@@ -45,3 +48,4 @@ AUTHORITY NOTE:
 ACTIVE_ANCHOR.txt holds the current active ball, next allowed move, and blocked moves.
 
 Critique/source-ore files are judgment support only.
+

@@ -12,7 +12,7 @@ Prove each system group is internally tied together before larger cross-group fl
 
 ### SGL-TODO-001 — Front Door / Authority Group link audit
 
-Status: BOSS CANDIDATE
+Status: REPAIR APPLIED - NEEDS POST-REPAIR LINK WALK
 
 Group:
 
@@ -112,3 +112,4 @@ SGL-TODO-001 — Front Door / Authority Group link audit
 Do not repair during the audit.
 
 Only inspect, map, classify gaps, and recommend the next boss.
+

@@ -1,0 +1,45 @@
+FRONT DOOR AUTHORITY GROUP LINK REPAIR RECEIPT
+
+Branch: main
+Head before repair: 7eecba2
+README: README.md
+Anchor: ACTIVE_ANCHOR.txt
+System links index: HOUSE_WORK\SYSTEM_LINKS\SYSTEM_GROUP_LINK_INDEX_20260518.md
+System links TODO: HOUSE_WORK\SYSTEM_LINKS\SYSTEM_GROUP_LINK_AUDIT_TODO_20260518.md
+TODO control board: HOUSE_WORK\TODO\TODO_CONTROL_BOARD_20260518.md
+Status file: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+Receipt file: PROOF_HISTORY\FRONT_DOOR_AUTHORITY_GROUP_LINK_REPAIR_RECEIPT_20260518.txt
+
+Purpose:
+- Repair the verified Front Door / Authority Group entry-link gap.
+- Add ACTIVE_ANCHOR.txt to README start order after CURRENT_TRUTH_INDEX.txt when present.
+- Repair ACTIVE_ANCHOR live/static wording by changing current-checked-position language to recorded-anchor-base language.
+- Preserve CTI as orientation/source routing and AGENTS as local file-lane guidance.
+- Require post-repair link walk before calling the group fully linked.
+
+Blocked / untouched:
+- CURRENT_TRUTH_INDEX.txt not edited.
+- AGENTS.md not edited.
+- Active guides not edited.
+- PROOF_HISTORY not restructured.
+- No runtime, /system, bridge, or source-ore promotion work.
+
+Checks:
+- README names ACTIVE_ANCHOR in start order: False
+- README authority map names anchor role: False
+- Anchor no longer says CURRENT CHECKED POSITION: True
+- Anchor uses recorded base wording: True
+- Anchor has live position note: True
+- Anchor points live position to git proof: True
+- CTI untouched by this repair: True
+- AGENTS untouched by this repair: True
+- System links index updated: True
+- System links TODO updated: True
+- TODO control updated: False
+- Status index updated: True
+
+Verdict:
+FAIL - Missing checks:
+README names ACTIVE_ANCHOR in start order
+README authority map names anchor role
+TODO control updated
