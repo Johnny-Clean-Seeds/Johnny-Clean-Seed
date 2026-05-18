@@ -1,0 +1,22 @@
+MR KLEEN FILE TREE EXACT RECEIPT
+
+Branch: main
+Head before save: 8c92111
+Tree file: HOUSE_WORK\INDEXES\MR_KLEEN_FILE_TREE_EXACT_20260518.md
+Tree SHA256: 7551AC961317EBF67C861F23DC51960B724D26372A386A17B222EDCC464A661C
+
+Purpose:
+- Save exact visible Mr.Kleen file tree as a support map.
+- Exclude .git internals.
+- Keep the tree as layout support only, not command authority.
+
+Checks:
+- Tree file exists: True
+- Tree file says support map only: True
+- Tree excludes git folder by boundary: True
+- Tree has exact tree section: True
+- Tree includes README: True
+- Tree includes ACTIVE_ANCHOR: True
+
+Verdict:
+PASS - Exact Mr.Kleen file tree saved as support map only.
