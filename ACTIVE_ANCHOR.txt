@@ -1,33 +1,26 @@
 ACTIVE BALL:
-Current Base After Split Proof / Save Flow Rule
+Current Base After Work Shed Front-Shelf Review
 
 RECORDED CURRENT BASE:
-main @ eea120b
+main @ 4fd7972
 
 STATUS:
 PLACEMENT BASE CURRENT
 
 CURRENT PROVEN BASE:
-main @ eea120b
+main @ 4fd7972
 
 CURRENT PROVEN ITEMS:
-- Work Shed live-use pass 001 captured the proof-failed-but-commit-happened issue.
-- Failed Proof Commit Guard is front-shelved as a support-only helper.
-- Stop-and-Tool / Bookmark Rule is saved.
-- Split Proof / Save Flow Rule is saved.
-- Split Proof / Save Flow was proven using Phase 1 without git add, commit, or push.
-- Split Proof / Save Flow was saved only after visible Phase 1 PASS.
-- Bell Logic Gate and Word-Key Clarity Checker remain active learning supports.
-- Issue Self-Repair and Room Redesign Authority rule remains active.
-
-CURRENT SPLIT PROOF / SAVE POSITION:
-Risky Mr.Kleen work should use two phases.
-
-Phase 1:
-write/update files, run checks, create proof receipt, print receipt, stop without git add, commit, or push.
-
-Phase 2:
-only after Phase 1 PASS, verify receipt, add intended files, commit, push, final status, and final log.
+- Split Proof / Save Flow Rule is saved and active for risky Mr.Kleen work.
+- Anchor after Split Proof / Save Flow Rule was saved at main @ afbd82c.
+- Work Shed front-shelf review was saved at main @ 4fd7972.
+- Front-shelf helpers were reviewed.
+- No helper was promoted.
+- No helper was moved to PARKED_METHODS.
+- No helper was moved to OLD_WAYS.
+- Current Work Shed front-shelf helpers remain front-shelf for continued live testing.
+- Work Shed remains support-only.
+- Bell Logic Gate, Word-Key Clarity Checker, Stop-and-Tool / Bookmark Rule, and Issue Self-Repair / Room Redesign Authority remain active learning supports.
 
 CURRENT WORK SHED POSITION:
 HOUSE_WORK/WORK_SHED is the assistant's support-only controlled messy workroom.
@@ -40,11 +33,18 @@ It cannot promote.
 
 It cannot become doctrine.
 
+CURRENT FRONT-SHELF POSITION:
+Front shelf means fast retrieval, not authority.
+
+Current helpers stay front-shelf for continued live testing.
+
+No helper is promoted by the front-shelf review.
+
 NEXT ALLOWED MOVE:
-Use split proof/save flow for the next risky Mr.Kleen change.
+Use Work Shed and split proof/save flow on the next real risky or messy task.
 
 Recommended next candidate:
-Run a small review of current front-shelf helpers and decide whether any should stay front-shelf, park, or become active learning after proof.
+Stop adding structure unless a real issue appears. Use the Work Shed live during the next real pile, issue, or idea stream.
 
 BLOCKED MOVES:
 Do not start runtime build.
@@ -65,8 +65,9 @@ Do not let Work Shed material promote itself.
 Do not continue downstream of failed proof.
 Do not walk away from blocked work without a bookmark.
 Do not put git add, commit, or push in Phase 1 of risky proof work.
+Do not promote front-shelf helpers without separate proof.
 Do not rewrite active guides from this refresh.
-Do not treat support maps, indexes, receipts, TODO, SYSTEM_LINKS, Work Shed, or source ore as command authority.
+Do not treat support maps, indexes, receipts, TODO, SYSTEM_LINKS, Work Shed, front shelf, or source ore as command authority.
 
 AUTHORITY NOTE:
 ACTIVE_ANCHOR.txt holds the current active ball, next allowed move, and blocked moves.
