@@ -181,3 +181,57 @@ Proof needed before save:
 - authority/support/proof boundaries clear
 - flow order mapped
 - gaps captured without repair
+
+### Group 3 - Audit Proof-State Language TODOs
+
+#### TODO-006 — Audit proof-state wording boundary
+
+Status: BOSS CANDIDATE
+
+Source: critique-time source input from user
+
+Room/lane: audit setup language / system-link audit / front-door authority audit
+
+Why it matters:
+
+Audit language must separate source input from proof and proof from command.
+
+The assistant must not say an audit target is confirmed before direct audit earns proof.
+
+Neighbor risk:
+
+- critique/source input is not command authority
+- audit target selection is not proof
+- proof does not automatically authorize edits
+- TODO room is support only
+
+Classification:
+
+Word-key / proof-boundary / audit-method boss candidate.
+
+Required wording:
+
+Use these proof-state labels:
+
+- externally claimed
+- suspected from source input
+- verified by direct audit
+
+Use this audit stance before proof:
+
+The audit target is selected, but proof is not earned yet.
+
+Required block when using critique/source input:
+
+No repair, no edits, no commits, no reordering unless separately authorized.
+
+Next action:
+
+Apply this wording during the Front Door / Authority Group link audit setup.
+
+Proof needed before save:
+
+- source input stays source input
+- selected audit target is not called confirmed
+- no edits/repairs/commits/reordering are authorized by critique alone
+- audit produces map only unless a later command authorizes repair

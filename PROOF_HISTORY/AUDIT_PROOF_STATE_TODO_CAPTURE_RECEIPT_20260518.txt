@@ -1,0 +1,23 @@
+AUDIT PROOF-STATE TODO CAPTURE RECEIPT
+
+Branch: main
+Head before save: 599c4c1
+TODO index: HOUSE_WORK\TODO\TODO_INDEX_20260518.md
+TODO inbox: HOUSE_WORK\TODO\TODO_CAPTURE_INBOX_20260518.md
+Receipt file: PROOF_HISTORY\AUDIT_PROOF_STATE_TODO_CAPTURE_RECEIPT_20260518.txt
+
+Purpose:
+- Add audit proof-state wording boundary to the TODO room.
+- Preserve the distinction between source input, suspected risk, and direct-audit proof.
+- Require selected/not-confirmed wording before proof is earned.
+- Explicitly block edits, repairs, commits, and reordering from critique/source input alone.
+
+Checks:
+- TODO item added: True
+- Proof-state labels captured: True
+- Selected not confirmed captured: True
+- No repair/edit/commit/reorder block captured: True
+- Inbox records sorted capture: True
+
+Verdict:
+PASS - Audit proof-state wording TODO captured. The TODO room now stores the selected/not-confirmed audit boundary and the no-edit/no-repair/no-commit/no-reorder block.
