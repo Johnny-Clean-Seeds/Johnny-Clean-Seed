@@ -535,3 +535,21 @@ No active authority changed.
 Receipt:
 
 PROOF_HISTORY/WORK_SHED_DRAWER_PRESERVATION_RECEIPT_20260518.txt
+
+## Work Shed First-Use Test
+
+Status:
+
+SAVED
+
+Meaning:
+
+The Work Shed was tested with one controlled idea flow:
+
+INBOX -> SORTING_BENCH -> IDEA_CARDS -> FRONT_SHELF.
+
+The test proved the room can receive mess, sort it, make an idea card, and keep a hot helper visible without promotion or command authority.
+
+Receipt:
+
+PROOF_HISTORY/WORK_SHED_FIRST_USE_TEST_RECEIPT_20260518.txt

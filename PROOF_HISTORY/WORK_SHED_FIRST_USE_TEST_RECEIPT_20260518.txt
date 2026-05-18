@@ -1,0 +1,41 @@
+WORK SHED FIRST-USE TEST RECEIPT
+
+Branch: main
+Head before save: e9f4fba
+
+Purpose:
+- Prove the Work Shed works as a room, not just a described structure.
+- Move one controlled idea through INBOX, SORTING_BENCH, IDEA_CARDS, and FRONT_SHELF.
+- Keep all material support-only.
+- Avoid promotion, doctrine install, active authority change, cleanup, runtime work, or tool use.
+
+Files created:
+- HOUSE_WORK\WORK_SHED\INBOX\WORK_SHED_FIRST_USE_RAW_IDEA_20260518.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\WORK_SHED_FIRST_USE_SORTING_20260518.md
+- HOUSE_WORK\WORK_SHED\IDEA_CARDS\WORK_SHED_FIRST_USE_IDEA_CARD_20260518.md
+- HOUSE_WORK\WORK_SHED\FRONT_SHELF\WORK_SHED_METHOD_FRONT_SHELF_CARD_20260518.md
+- HOUSE_WORK\WORK_SHED\INDEXES\WORK_SHED_FIRST_USE_INDEX_20260518.md
+
+Blocked / not done:
+- No source promoted.
+- No doctrine installed.
+- No active authority changed.
+- No runtime work.
+- No cleanup.
+- No tool run.
+
+Checks:
+- Inbox raw idea exists: True
+- Sorting bench file exists: True
+- Idea card exists: True
+- Front shelf card exists: True
+- Work Shed test index exists: True
+- Raw idea is non-command: True
+- Sorting exit check present: True
+- Idea card lifecycle present: True
+- Front shelf boundary present: True
+- Index says nothing promoted: True
+- Status index updated: True
+
+Verdict:
+PASS - Work Shed first-use test succeeded. One idea moved through intake, sorting, idea card, and front shelf without command or promotion.
