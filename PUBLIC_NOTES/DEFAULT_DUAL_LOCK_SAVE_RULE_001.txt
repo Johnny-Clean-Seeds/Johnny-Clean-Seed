@@ -1,0 +1,76 @@
+DEFAULT_DUAL_LOCK_SAVE_RULE_001
+Status: ACTIVE SUPPORT NOTE / DEFAULT SAVE RULE
+Authority: Not active doctrine.
+Home: PUBLIC_NOTES
+Date: 2026-05-17
+
+PURPOSE
+
+This note locks the default save rule.
+
+For Clean Seed / Clean Milk work, save means brain plus local home by default.
+
+CORE RULE
+
+All meaningful saves default to dual lock/save:
+
+1. Brain save for future assistant behavior.
+2. Local home save in the correct repo lane.
+
+Do not treat brain-only or local-only as the default.
+
+EXCEPTIONS
+
+Exceptions must be explicit.
+
+Examples:
+
+- local-only
+- brain-only
+- chat-only draft
+- do not commit
+- proof only
+- no repo change
+
+If no exception is named, use dual lock/save.
+
+LOCAL HOME RULE
+
+For local PowerShell, use the Mr.Kleen shell as the entry bridge.
+
+Do not force the hardcoded path when Mr.Kleen already opened the repo home.
+
+Verify the room with:
+
+- .git exists,
+- origin remote is correct,
+- local HEAD matches origin/main when needed,
+- git status is clean before new work.
+
+BRAIN RULE
+
+If a rule changes future assistant behavior, save it to brain.
+
+Do not leave future behavior changes only in chat.
+
+PROOF RULE
+
+Saved means placed.
+
+Right means proved against the leak.
+
+Do not call a saved concept right until review shows it fixes the problem it was meant to fix without violating the existing model flow.
+
+CLOSE RULE
+
+This note must not outrank CURRENT_TRUTH_INDEX.txt.
+
+This note must not outrank ACTIVE_GUIDES.
+
+It supports lock/save discipline, assistant suit behavior, Mr.Kleen local entry, and word-key precision.
+
+Keep it visible while useful.
+
+When stale, move or archive through a proper review gate.
+
+Do not delete it.
