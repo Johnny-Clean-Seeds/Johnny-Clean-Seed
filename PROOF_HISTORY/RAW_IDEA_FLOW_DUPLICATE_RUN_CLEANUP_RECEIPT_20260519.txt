@@ -1,0 +1,19 @@
+RAW IDEA FLOW DUPLICATE RUN CLEANUP RECEIPT
+
+Issue:
+The raw idea flow save block was accidentally pasted/run twice.
+
+Cause:
+Mouse / UI execution wobble caused a duplicate run after the first clean save.
+
+Repair:
+- Kept git history intact.
+- Removed duplicate status line from CURRENT_HOUSE_WORK_STATUS.md.
+- Force-added the original ignored PROOF_HISTORY receipt.
+- Added this cleanup receipt to explain the wobble.
+
+Boundary:
+This is cleanup only. No doctrine rewrite. No active guide rewrite. No new rule promotion.
+
+Current intended next move:
+Return to mule / Codex bitstring abyss webdive setup.
