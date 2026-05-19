@@ -1,0 +1,33 @@
+ADAPT / ADOPT CRITIQUE LEARNING GATE RECEIPT
+
+Starting base:
+main @ 14c762b
+14c762b216e753650cc42a81891b580c21c2aad5
+
+Remote:
+https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed.git
+
+Saved files planned:
+BRAIN_LEARNING\ADAPT_ADOPT_CRITIQUE_LEARNING_GATE_20260519.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\ADAPT_ADOPT_CRITIQUE_LEARNING_GATE_20260519.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\ADAPT_ADOPT_INTAKE_TEMPLATE_20260519.md
+PROOF_HISTORY\ADAPT_ADOPT_CRITIQUE_LEARNING_GATE_RECEIPT_20260519.txt
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Locked:
+Critiques are learning pressure, not command authority.
+House proof/history/notes/ideas/handy bags/bitstrings are active growth sources.
+Use related house material before newest-report adoption.
+Split inputs into atomic pieces.
+Sort adopt/adapt/park/reject/test.
+Install the smallest behavior-changing object.
+Prove before durable lock/save.
+
+Boundary:
+No doctrine install.
+No active guide rewrite.
+No runtime automation.
+No automatic adoption.
+
+Receipt note:
+This receipt is an artifact. Final save status must be judged by post-save disk/git/remote audit.

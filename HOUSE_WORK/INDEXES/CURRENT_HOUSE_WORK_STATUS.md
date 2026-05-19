@@ -1864,3 +1864,29 @@ Boundary:
 
 Next move:
 - Inventory the PC-only incoming files and classify each into a lane.
+
+## 2026-05-19 - Adapt / Adopt critique learning gate
+
+Starting base: main @ 14c762b.
+
+Saved:
+- BRAIN_LEARNING/ADAPT_ADOPT_CRITIQUE_LEARNING_GATE_20260519.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/ADAPT_ADOPT_CRITIQUE_LEARNING_GATE_20260519.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/ADAPT_ADOPT_INTAKE_TEMPLATE_20260519.md
+- PROOF_HISTORY/ADAPT_ADOPT_CRITIQUE_LEARNING_GATE_RECEIPT_20260519.txt
+
+Locked:
+- Critiques become Adapt/Adopt learning pressure, not command authority.
+- The house's own proof/history/notes/ideas/handy bags/bitstrings are active growth material.
+- New inputs must be split into atomic pieces and sorted adopt/adapt/park/reject/test.
+- Useful patterns should be mimicked cleanly and reshaped to Mr.Kleen's lanes/proof flow.
+- Durable save follows fit/proof, not excitement or recency.
+
+Boundary:
+- No doctrine install.
+- No active guide rewrite.
+- No runtime automation.
+- No automatic adoption.
+
+Next move:
+- Use this gate on the next outside-review report or PC-only incoming-file inventory.
