@@ -1438,3 +1438,28 @@ Verdict:
 Next move:
 - Give the mule handoff to the mule for final critique.
 - Do not promote without a separate promotion review.
+
+## 2026-05-19 - External issues stay external clean-lane boundary
+
+Saved:
+- External Issues Stay External - Clean Lane Rule.
+
+Purpose:
+- Preserve clean placement.
+- Keep external platform / UI / service / tool friction outside the project.
+- Allow delivery adaptations only when they create real help for accuracy, processing, proof, copy/paste safety, or execution safety.
+
+Boundary:
+- No doctrine install.
+- No active guide rewrite.
+- No Whirlpool/debugger logic change.
+- No architecture change.
+- No proof-standard change.
+- No project contamination from external UI/platform friction.
+
+Verdict:
+- Saved as BRAIN_LEARNING behavior boundary only.
+
+Next move:
+- Move on from the UI issue.
+- Return to the active project lane from clean state.
