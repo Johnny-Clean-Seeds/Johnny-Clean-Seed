@@ -2148,3 +2148,25 @@ Locked:
 
 Next move:
 - Resolve checker-collision wording before running collision-watch checkers.
+
+## 2026-05-19 - Checker collision wording resolution
+
+Starting base: main @ 05b221a.
+
+Resolved:
+- CHECK_PUBLIC_HOUSE_MAP_FIX_001.ps1 no longer requires stale mirror/reference wording.
+- Current wording selected: Root guide files are pointer/reference surfaces.
+- CHECK_HOME_LANGUAGE_COEXISTENCE_001 still treats mirror/reference wording as stale/bad.
+
+Saved:
+- HOUSE_WORK/WORK_SHED/INCOMING_FILE_PARKING/CHECKER_COLLISION_WORDING_RESOLUTION_20260519.md
+- PROOF_HISTORY/CHECKER_COLLISION_WORDING_RESOLUTION_RECEIPT_20260519.txt
+- HOUSE_WORK\WORK_SHED\INCOMING_FILE_PARKING\MOVED_IGNORED_FILES_20260519_20260519_162022\02_TOOL_CANDIDATES\CHECK_PUBLIC_HOUSE_MAP_FIX_001.ps1
+
+Boundary:
+- No checker execution.
+- No active guide rewrite.
+- No doctrine rewrite.
+
+Next move:
+- Run collision-watch checkers in safe order.

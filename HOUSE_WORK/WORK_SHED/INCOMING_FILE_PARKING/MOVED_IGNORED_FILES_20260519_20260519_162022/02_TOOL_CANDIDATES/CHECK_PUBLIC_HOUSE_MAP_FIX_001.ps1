@@ -41,7 +41,7 @@ foreach ($Needle in @(
     "PUBLIC_NOTES/",
     "TEST_LANES/",
     "Shed/",
-    "Root guide copies are public mirror/reference copies"
+    "Root guide files are pointer/reference surfaces."
 )) {
     Add-Check "REQUIRED" "README contains $Needle" (Test-Contains "README.md" $Needle) $Needle
 }
@@ -117,3 +117,4 @@ if ($Failed.Count -eq 0 -and $Warnings.Count -eq 0) {
     Write-Host "VERDICT: FAIL"
     exit 1
 }
+
