@@ -1,0 +1,23 @@
+COLLISION WATCH CHECKERS PASS RECEIPT
+
+Base:
+main @ 7cf2551
+
+Ran:
+- HOUSE_WORK\WORK_SHED\INCOMING_FILE_PARKING\MOVED_IGNORED_FILES_20260519_20260519_162022\02_TOOL_CANDIDATES\CHECK_HOME_LANGUAGE_COEXISTENCE_001.ps1
+- HOUSE_WORK\WORK_SHED\INCOMING_FILE_PARKING\MOVED_IGNORED_FILES_20260519_20260519_162022\02_TOOL_CANDIDATES\CHECK_PUBLIC_HOUSE_MAP_FIX_001.ps1
+
+Verdict:
+- HOME_LANGUAGE checker: PASS
+- PUBLIC_HOUSE_MAP checker: PASS WITH GUARDRAILS
+
+Guardrails:
+- Old proof report may be parked, renamed, or superseded.
+- Root guide hash mismatches are known and guarded by root pointer / ACTIVE_GUIDES authority separation.
+
+Boundary:
+- Candidate checker run receipt only.
+- No tool promotion.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX change.

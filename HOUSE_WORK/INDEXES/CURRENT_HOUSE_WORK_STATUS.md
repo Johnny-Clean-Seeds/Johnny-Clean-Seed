@@ -2190,3 +2190,24 @@ Boundary:
 
 Next move:
 - Rerun CHECK_PUBLIC_HOUSE_MAP_FIX_001.ps1.
+
+## 2026-05-19 - Collision-watch checker run receipt
+
+Base: main @ 7cf2551.
+
+Ran:
+- CHECK_HOME_LANGUAGE_COEXISTENCE_001.ps1
+- CHECK_PUBLIC_HOUSE_MAP_FIX_001.ps1
+
+Verdict:
+- PASS / PASS WITH GUARDRAILS.
+- No FAIL remained after stale expectation repair.
+
+Boundary:
+- Candidate checker run receipt only.
+- No tool promotion.
+- No doctrine rewrite.
+- No active guide rewrite.
+
+Next move:
+- Decide whether to run remaining tool candidates as a grouped safe-bin checker batch or keep them parked.
