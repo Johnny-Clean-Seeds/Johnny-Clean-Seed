@@ -37,6 +37,15 @@ Lane:
 ## Pattern Learned
 
 
+## Next Action Impact
+
+Does this input change the next action:
+
+If yes, how:
+
+If no, park / ignore / keep as source ore:
+
+
 ## Sort
 
 ### Adopt
@@ -72,6 +81,21 @@ Lane:
 ## Proof Target
 
 
+## Inspect / Execute Label
+
+Inspect:
+
+Execute:
+
+Decision:
+
+
 ## Save Decision
 
 Chat only / Mr.Kleen save and push / PC-only / park / reject:
+
+Save threshold met:
+
+Why:
+
+If visible read-only output is enough for next action, say so:

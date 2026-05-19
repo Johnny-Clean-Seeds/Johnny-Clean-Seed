@@ -1,0 +1,68 @@
+QUEUE + IDEA CAPTURE OPERATIONAL REPAIR RECEIPT
+
+Date:
+2026-05-19
+
+Starting base:
+main @ d1ee312
+d1ee312d36c803f321b3ee2e9d454634d21e164b
+
+Repair target:
+Queue / Loss-Prevention overreach and Adapt/Adopt / Idea Capture overreach.
+
+Problem proved:
+MULE_REPORT was intaken into incoming parking.
+Read-only classification of ignored/PC-only files completed.
+The next obvious safe move was to inspect PowerShell tool candidates as text.
+The assistant wrongly suggested saving the classification map first.
+
+Behavioral defect:
+Capture and queue behavior created drag instead of better action.
+Outside reports and captured ideas were too close to becoming work drivers.
+
+Files changed:
+BRAIN_LEARNING/CURRENT_WORK_QUEUE_LOSS_PREVENTION_RULE_20260519.md
+HOUSE_WORK/WORK_SHED/QUEUE/CURRENT_WORK_QUEUE.md
+HOUSE_WORK/WORK_SHED/QUEUE/QUEUE_ITEM_TEMPLATE.md
+BRAIN_LEARNING/ADAPT_ADOPT_CRITIQUE_LEARNING_GATE_20260519.md
+HOUSE_WORK/WORK_SHED/SORTING_BENCH/ADAPT_ADOPT_CRITIQUE_LEARNING_GATE_20260519.md
+HOUSE_WORK/WORK_SHED/SORTING_BENCH/ADAPT_ADOPT_INTAKE_TEMPLATE_20260519.md
+HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+PROOF_HISTORY/QUEUE_IDEA_CAPTURE_OPERATIONAL_REPAIR_RECEIPT_20260519.txt
+
+What changed:
+- Queue now says it prevents loss and does not create a save step just because output exists.
+- Queue save threshold is explicit.
+- Visible read-only output can drive the next safe action when no state change or preservation need exists.
+- Queue current active item now points to read-only PowerShell tool text inspection.
+- Adapt/Adopt now says outside reports, critiques, mule reports, and captured ideas are not authority.
+- Adapt/Adopt now asks whether an input changes the next action before capture/adapt/save work.
+- Inspect is clearly separated from execute for PowerShell tools.
+
+Tiny proof test:
+Input case:
+After read-only classification, because the output was visible and the next safe action was clear, the correct move was read-only tool text inspection, not saving the classification map first.
+
+Expected behavior:
+Act from visible read-only output and inspect the tool candidates as text.
+
+Observed repair:
+The queue rule, current queue, Adapt/Adopt rule, Work Shed gate, and intake template all now route this case to direct read-only inspection instead of save-first drag.
+
+Boundaries preserved:
+No doctrine install.
+No active guide rewrite.
+No runtime automation.
+No dashboard.
+No full audit tool.
+No ignored PowerShell tool candidate executed.
+No unrelated ignored file force-added.
+No deletion.
+
+Next move:
+Inspect the PowerShell tool candidates as text.
+Do not execute them yet.
+
+Receipt note:
+This receipt records the intended repair and pre-commit proof test.
+Final commit hash and push status must be verified by git after commit.

@@ -9,6 +9,12 @@ Starting base: main @ 14c762b.
 
 Turn critiques and house material into tested learning without creating a rule swamp.
 
+The gate earns its keep only when it improves the next action.
+
+Captured ideas, outside reports, critiques, and mule reports are not authority. They are source material until a current task, proof need, or user command makes a specific piece useful.
+
+If simple workflow still fails, capture has not become operational yet.
+
 ## Gate Procedure
 
 ### 1. Intake Boundary
@@ -28,6 +34,10 @@ Name the input type:
 - parked candidate.
 
 State whether it has command authority, source value, proof value, or no current value.
+
+Also state whether it changes the next action.
+
+If it does not change the next action, park it or ignore it for now.
 
 ### 2. Related Material Pull
 
@@ -114,6 +124,10 @@ Prefer:
 
 Do not install a giant framework from one critique.
 
+Skip install when the next safe action is already clear.
+
+Do not save another map just because an output exists.
+
 ### 9. Proof Use
 
 Test against:
@@ -134,6 +148,10 @@ Only after fit and proof, save into Mr.Kleen with:
 - push,
 - clean final status.
 
+Saving is allowed only when loss risk is higher than motion cost, the user asks to lock/save, the output will be reused later, a decision changes state, proof/evidence would otherwise be lost, or the next worker cannot safely resume without it.
+
+If visible read-only output already points to a safe next action, act from the visible output.
+
 ## Output Shape
 
 When using this gate, produce:
@@ -151,6 +169,18 @@ Lane map:
 Smallest behavior change:
 Proof target:
 Save decision:
+Next action impact:
+Act now or save first:
+Why:
+
+## Inspect / Execute Label
+
+For PowerShell tools:
+
+- inspect = read as text, hash, check risk words, understand job;
+- execute = run the script after explicit decision.
+
+The next move after PC-only classification is inspect, not execute.
 
 ## Boundary
 
@@ -159,3 +189,4 @@ It does not replace proof.
 It does not make critiques command authority.
 It does not make newest report win.
 It prevents blind mimicry.
+It does not make the user care about outside reports that do not improve the active next action.

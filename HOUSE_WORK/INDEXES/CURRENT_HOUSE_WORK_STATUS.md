@@ -1966,3 +1966,45 @@ Boundary:
 
 Next move:
 - Inspect MULE_REPORT through the Current Work Queue and Adapt/Adopt gate.
+
+## 2026-05-19 - Queue + Idea Capture operational repair
+
+Starting base: main @ d1ee312.
+
+Saved:
+- Queue / Loss-Prevention rule repair.
+- Current Work Queue repair.
+- Queue item template repair.
+- Adapt / Adopt critique learning gate repair.
+- Adapt / Adopt Work Shed gate repair.
+- Adapt / Adopt intake template repair.
+- Proof receipt for this repair.
+
+Problem:
+- Capture and queue behavior created drag instead of better action.
+- After read-only classification of ignored/PC-only files, the next safe move was to inspect PowerShell tool candidates as text.
+- The assistant wrongly suggested saving the classification map first.
+
+Locked:
+- The queue prevents loss; it does not create a save step just because output exists.
+- Save only when loss risk beats motion cost, user asks to lock/save, reuse is needed, a decision changes state, proof/evidence would otherwise be lost, or the next worker cannot safely resume without it.
+- Captured ideas, outside reports, critiques, and mule reports are not authority.
+- They matter only when they improve the next action.
+- Inspect is separated from execute for PowerShell tools.
+
+Tiny proof test:
+- Case: After read-only classification, because the output was visible and the next safe action was clear, the correct move was read-only tool text inspection, not saving the classification map first.
+- Result: Queue and Adapt/Adopt files now say to act from visible read-only output when safe and to avoid save-first drag.
+
+Boundary:
+- No doctrine install.
+- No active guide rewrite.
+- No runtime automation.
+- No dashboard.
+- No full audit tool.
+- No ignored PowerShell tools executed.
+- No unrelated ignored files force-added.
+
+Next move:
+- Inspect the PowerShell tool candidates as text.
+- Do not execute them yet.
