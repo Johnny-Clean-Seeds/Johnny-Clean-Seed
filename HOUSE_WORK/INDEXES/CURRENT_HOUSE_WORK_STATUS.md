@@ -1601,3 +1601,36 @@ Verdict:
 
 Next move:
 - Test the narrow revision candidate against the hostile broken-chain fixture and one clean handoff chain before any replacement decision.
+
+## 2026-05-19 - Provenance Lens narrow revision double test
+
+Starting position: main @ 8612907.
+
+Saved:
+- Narrow revision double test against hostile broken-chain fixture and clean handoff chain.
+
+Object tested:
+- HOUSE_WORK/WORK_SHED/SOFT_SUIT/PROVENANCE_CHAIN_OF_CUSTODY_THREAD_LENS_NARROW_REVISION_CANDIDATE_20260519.md
+
+Inputs:
+- Hostile fixture: HOUSE_WORK/WORK_SHED/SORTING_BENCH/PROVENANCE_CHAIN_OF_CUSTODY_THREAD_LENS_HOSTILE_BROKEN_CHAIN_TEST_20260519.md.
+- Clean handoff: HOUSE_WORK/WORK_SHED/AGENT_HANDOFFS/PROVENANCE_CHAIN_OF_CUSTODY_THREAD_LENS_MULE_DEEP_SLAM_AND_GOLD_SEARCH_HANDOFF_20260519.md.
+- Clean handoff receipt: PROOF_HISTORY/PROVENANCE_CHAIN_OF_CUSTODY_THREAD_LENS_MULE_DEEP_SLAM_HANDOFF_RECEIPT_20260519.txt.
+
+Boundary:
+- Test only.
+- No doctrine install.
+- No active guide rewrite.
+- No runtime automation.
+- No promotion.
+- Original lens not replaced.
+- No outside-system adoption.
+
+Verdict:
+- PASS AS DOUBLE TEST.
+- Candidate marked hostile fixture unanchored / conflicted / parked.
+- Candidate marked clean handoff chain anchored while preserving review/source-ore boundaries.
+
+Next move:
+- Hold the candidate in Soft Suit.
+- Decide whether to run one more different live test or prepare a replacement-decision review.
