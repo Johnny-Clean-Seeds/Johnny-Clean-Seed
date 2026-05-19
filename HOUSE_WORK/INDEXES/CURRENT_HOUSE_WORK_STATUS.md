@@ -1573,3 +1573,31 @@ Verdict:
 
 Next move:
 - Prepare a narrow Soft Suit revision candidate only after this failure behavior is saved.
+
+## 2026-05-19 - Provenance Lens narrow revision candidate
+
+Starting position: main @ 1f2157f.
+
+Saved:
+- Narrow Soft Suit revision candidate for Provenance / Chain-of-Custody Thread Lens.
+- Candidate review.
+
+Inputs:
+- Original lens: HOUSE_WORK/WORK_SHED/SOFT_SUIT/PROVENANCE_CHAIN_OF_CUSTODY_THREAD_LENS_SOFT_SUIT_CANDIDATE_20260519.md.
+- Mule intake: HOUSE_WORK/WORK_SHED/SORTING_BENCH/PROVENANCE_LENS_MULE_DEEP_SLAM_REPORT_INTAKE_SUMMARY_20260519.md.
+- Hostile broken-chain test: HOUSE_WORK/WORK_SHED/SORTING_BENCH/PROVENANCE_CHAIN_OF_CUSTODY_THREAD_LENS_HOSTILE_BROKEN_CHAIN_TEST_20260519.md.
+
+Boundary:
+- Soft Suit candidate only.
+- No doctrine install.
+- No active guide rewrite.
+- No runtime automation.
+- No promotion.
+- Original lens not replaced.
+- Outside systems not adopted wholesale.
+
+Verdict:
+- PASS AS NARROW REVISION CANDIDATE.
+
+Next move:
+- Test the narrow revision candidate against the hostile broken-chain fixture and one clean handoff chain before any replacement decision.
