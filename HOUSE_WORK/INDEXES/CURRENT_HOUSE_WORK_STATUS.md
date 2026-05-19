@@ -2473,3 +2473,30 @@ Boundary:
 
 Next move:
 - Keep batch parked unless repeated future use proves promotion fit.
+
+## 2026-05-19 - Mule leftover custody closeout
+
+Base: main @ 46dde67.
+
+Receipt:
+- PROOF_HISTORY\MULE_LEFTOVER_CUSTODY_CLOSEOUT_RECEIPT_20260519.txt
+
+Inventory result:
+- NEW_2026-05-17_TO_NOW, YES, clean = 395
+- OLDER_LIKELY_STALE_OR_SOURCE_ORE, YES, clean = 481
+
+Verdict:
+- PASS: newer mule/work material from 2026-05-17 through now is tracked and clean.
+- Older material is already tracked and clean, but remains stale/source-ore/old notes unless pulled back with a reason.
+
+Boundary:
+- No new files installed.
+- No older files promoted.
+- No checker promoted.
+- No tool installation.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX change.
+
+Next move:
+- Close this mule-leftover custody lane.
