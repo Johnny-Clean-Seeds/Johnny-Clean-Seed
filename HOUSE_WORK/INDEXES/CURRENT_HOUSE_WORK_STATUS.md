@@ -1784,3 +1784,30 @@ Verdict:
 
 Next move:
 - Return to pending deep scan report after this repair is clean.
+
+## 2026-05-19 - Awareness across the board progress lock
+
+Starting base: main @ e21d1bf.
+
+Saved:
+- BRAIN_LEARNING/AWARENESS_CLASSIFIES_STATE_BEFORE_ACTION_20260519.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/POWERSHELL_FALSE_PASS_AWARENESS_POWER_PLAY_20260519.md
+- HOUSE_WORK/WORK_SHED/INDEXES/AWARENESS_ACROSS_THE_BOARD_PROGRESS_LOCK_20260519.md
+- PROOF_HISTORY/AWARENESS_ACROSS_THE_BOARD_PROGRESS_LOCK_RECEIPT_20260519.txt
+
+Locked:
+- Awareness must classify state before action.
+- Awareness applies across lanes, time, scale, evidence layers, failure classes, and actors.
+- The PowerShell false-pass failure is a cross-board awareness failure, not only a script bug.
+- Guard-Fail Stop Card is a child fix under the broader parent boss.
+
+Boundary:
+- Progress lock only.
+- No doctrine install.
+- No active guide rewrite.
+- No runtime automation.
+- No custody audit tool implementation.
+- No full-house outside-review handoff sent.
+
+Next move:
+- Define the Guard-Fail Stop Card / awareness gate cleanly before any future PowerShell/git work.
