@@ -2312,3 +2312,30 @@ Boundary:
 
 Next move:
 - Rerun fast-safe batch collector.
+
+## 2026-05-19 - Fast-safe checker batch pass
+
+Base: main @ e0d5ff2.
+
+Passed checkers:
+- CHECK_ASSISTANT_HOME_MODEL_CARD_001.ps1
+- CHECK_ASSISTANT_SUIT_OPERATING_SYSTEM_001.ps1
+- CHECK_BRAIN_PROGRESS_LOCK_001.ps1
+- CHECK_DUPLICATE_GUIDE_SURFACE_SYNC_001.ps1
+- CHECK_FRESH_PUBLIC_ENTRY_TEST_001.ps1
+
+Result:
+- All five reached VERDICT: PASS.
+- Stray pasted continuation prompt text created failed background jobs, then cleanup removed them.
+- Final repo status was clean.
+
+Boundary:
+- Batch pass receipt only.
+- No tool promotion.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No README rewrite.
+- No PUBLIC_HOUSE_MAP rewrite.
+
+Next move:
+- Decide whether to continue remaining parked checker candidates or install a safer batch-runner file.
