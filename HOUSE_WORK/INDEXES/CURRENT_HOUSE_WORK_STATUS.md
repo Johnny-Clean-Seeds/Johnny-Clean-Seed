@@ -1718,3 +1718,37 @@ Next move:
 - Hold as tested candidate.
 - Use the fog alarm when a real fog event appears during work.
 - Do not force more fog tests unless a new fog condition appears.
+
+## 2026-05-19 - Daily House-Walk Digest no-timer brain gate
+
+Starting position: main @ 82b493d.
+
+Saved:
+- Daily House-Walk Digest no-timer brain gate.
+- Local code/session gate script.
+- Daily log lane index.
+- Today's daily house-walk digest log.
+
+Files:
+- 
+- 
+- 
+- 
+
+Boundary:
+- Code/session-gate behavior only.
+- No timer.
+- No scheduled reminder.
+- No doctrine install.
+- No active guide rewrite.
+- No runtime automation.
+- No replacement of proof receipts or CURRENT_HOUSE_WORK_STATUS.
+
+Digest rule:
+- At least one per day.
+- Not only one per day.
+- Assistant self-initiates one near/around 8 only if no near-8 digest exists.
+- Additional user/event digests are allowed.
+
+Next move:
+- Continue with pending deep scan report when ready.
