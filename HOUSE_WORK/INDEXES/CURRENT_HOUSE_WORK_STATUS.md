@@ -1837,3 +1837,30 @@ Boundary:
 
 Next move:
 - Use point-of-work readback before any further PowerShell/git task.
+
+## 2026-05-19 - Incoming file parking lanes
+
+Starting base: main @ a690faa.
+
+Saved:
+- BRAIN_LEARNING/INCOMING_FILES_CLEAN_PARKING_RULE_20260519.md
+- HOUSE_WORK/WORK_SHED/INCOMING_FILE_PARKING/INCOMING_FILE_PARKING_INDEX_20260519.md
+- HOUSE_WORK/WORK_SHED/INCOMING_FILE_PARKING/LANES/*/README.md
+- PROOF_HISTORY/INCOMING_FILE_PARKING_LANES_LOCK_RECEIPT_20260519.txt
+
+Locked:
+- Git ignored is not house judgment.
+- PC-only incoming material gets clean parking lanes.
+- Incoming material should be inspected and classified before delete, push, archive, or promotion.
+- Nothing is bad milk when clean parking, safe filters, security, housekeeping, retrieval, and proof are working.
+
+Boundary:
+- No existing ignored files moved.
+- No existing ignored files deleted.
+- No existing ignored files force-added.
+- No doctrine install.
+- No active guide rewrite.
+- No runtime automation.
+
+Next move:
+- Inventory the PC-only incoming files and classify each into a lane.
