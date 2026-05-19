@@ -2067,3 +2067,26 @@ Boundary:
 Next move:
 - Review the nine root CHECK_*.ps1 scripts as a read-only checker batch.
 - Do not execute them yet.
+
+## 2026-05-19 - Active anchor whirlpool refresh
+
+Starting base: main @ ff30400.
+
+Saved:
+- Refreshed ACTIVE_ANCHOR.txt to match the current queue and tool-candidate follow-through.
+- Proof receipt for anchor refresh.
+
+Reason:
+- The queue pointed to the next live move, but ACTIVE_ANCHOR.txt still pointed at the older Work Shed front-shelf review.
+- Recursive flow needs the current active ball to fire after CURRENT_TRUTH_INDEX.txt.
+
+Boundary:
+- No active guide rewrite.
+- No doctrine install.
+- No runtime automation.
+- No script execution.
+- No ignored root checker script force-add.
+
+Next move:
+- Review the nine root CHECK_*.ps1 scripts as a read-only checker batch.
+- Do not execute them yet.

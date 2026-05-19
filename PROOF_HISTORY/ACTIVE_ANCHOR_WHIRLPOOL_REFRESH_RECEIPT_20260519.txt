@@ -1,0 +1,40 @@
+ACTIVE ANCHOR WHIRLPOOL REFRESH RECEIPT
+
+Date:
+2026-05-19
+
+Starting base:
+main @ ff30400
+ff3040085b8949d93fc4c47f01b88639a9f0b2b3
+
+Task:
+Refresh ACTIVE_ANCHOR.txt after the PowerShell tool-candidate text inspection / repair so the next worker sees the current active ball instead of the older Work Shed front-shelf anchor.
+
+Reason:
+Recursive flow depends on the next worker reading the right active ball after CURRENT_TRUTH_INDEX.txt. The queue had been updated, but ACTIVE_ANCHOR.txt still pointed at main @ 4fd7972.
+
+Old ACTIVE_ANCHOR SHA256:
+9C778BEFEE2E0C0D9333DD9BEDE877111FBE66E8F9BA312BD361EB47DBA256AF
+
+New ACTIVE_ANCHOR SHA256:
+953B417655476310D3BA638E9279648F167E6772ABCC4D111E2E4279DE7E29DA
+
+Changed:
+- Current active ball now points to whirlpool follow-through after PowerShell tool-candidate text inspection.
+- Current proven base is main @ ff30400.
+- Next allowed move is to review the nine root CHECK_*.ps1 scripts as a read-only checker batch.
+- Hot guards preserve repo-root, guard-fail, inspect-vs-execute, save-threshold, and outside-report authority boundaries.
+
+Boundary:
+- No active guide rewrite.
+- No doctrine install.
+- No runtime automation.
+- No script execution.
+- No ignored root checker script force-add.
+- No deletion or move.
+
+Next move:
+Review the nine root CHECK_*.ps1 scripts as a read-only checker batch; do not execute them yet.
+
+Receipt note:
+Final commit hash and push status must be verified after commit.
