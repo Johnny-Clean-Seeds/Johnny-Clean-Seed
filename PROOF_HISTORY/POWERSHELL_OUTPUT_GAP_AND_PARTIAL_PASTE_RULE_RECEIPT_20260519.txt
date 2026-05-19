@@ -1,0 +1,29 @@
+POWERSHELL OUTPUT GAP AND PARTIAL PASTE RULE RECEIPT
+
+Starting base:
+main @ fb7fad0
+fb7fad05b57da2fc2df9ba94b7d282e110fcde50
+
+Remote:
+https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed.git
+
+Saved files planned:
+BRAIN_LEARNING\POWERSHELL_OUTPUT_GAP_AND_PARTIAL_PASTE_RULE_20260519.md
+PROOF_HISTORY\POWERSHELL_OUTPUT_GAP_AND_PARTIAL_PASTE_RULE_RECEIPT_20260519.txt
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Locked:
+Simple visual gaps help readability.
+Blank lines are not proof boundaries.
+Do not use COPY BLOCK marker text as normal output separator.
+Do not interrupt partial-looking pasted output unless a real stop signal appears.
+Final PowerShell output should use compact result lines with simple gaps.
+
+Boundary:
+No doctrine install.
+No active guide rewrite.
+No runtime automation.
+No proof standard replacement.
+
+Receipt note:
+This receipt is an artifact. Final save status must be judged by post-save disk/git/remote audit.

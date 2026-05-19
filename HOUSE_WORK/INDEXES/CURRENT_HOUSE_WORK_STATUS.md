@@ -1916,3 +1916,27 @@ Boundary:
 
 Next move:
 - Use the queue on the outside-review report or PC-only incoming-file inventory.
+
+## 2026-05-19 - PowerShell output gap and partial-paste rule
+
+Starting base: main @ fb7fad0.
+
+Saved:
+- BRAIN_LEARNING/POWERSHELL_OUTPUT_GAP_AND_PARTIAL_PASTE_RULE_20260519.md
+- PROOF_HISTORY/POWERSHELL_OUTPUT_GAP_AND_PARTIAL_PASTE_RULE_RECEIPT_20260519.txt
+
+Locked:
+- Simple visual gaps help readability.
+- Blank lines are not proof boundaries.
+- Do not use COPY BLOCK marker text as normal output separator.
+- Do not interrupt partial-looking pasted output unless a real stop signal appears.
+- Final PowerShell output should use compact result lines with simple gaps.
+
+Boundary:
+- No doctrine install.
+- No active guide rewrite.
+- No runtime automation.
+- No proof standard replacement.
+
+Next move:
+- Use the queue before switching tasks or processing the outside-review report / PC-only incoming inventory.
