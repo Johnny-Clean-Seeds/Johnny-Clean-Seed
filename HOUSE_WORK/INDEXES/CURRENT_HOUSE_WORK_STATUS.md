@@ -1890,3 +1890,29 @@ Boundary:
 
 Next move:
 - Use this gate on the next outside-review report or PC-only incoming-file inventory.
+
+## 2026-05-19 - Current Work Queue / Loss-Prevention Board
+
+Starting base: main @ d27eeef.
+
+Saved:
+- BRAIN_LEARNING/CURRENT_WORK_QUEUE_LOSS_PREVENTION_RULE_20260519.md
+- HOUSE_WORK/WORK_SHED/QUEUE/CURRENT_WORK_QUEUE.md
+- HOUSE_WORK/WORK_SHED/QUEUE/QUEUE_ITEM_TEMPLATE.md
+- PROOF_HISTORY/CURRENT_WORK_QUEUE_LOSS_PREVENTION_RECEIPT_20260519.txt
+
+Locked:
+- Open work must not live only in chat.
+- The queue is the re-entry door.
+- Work items get state, parent boss, lane, priority, next action, proof need, dependency, and do-not-do boundary.
+- Distractions must be queued, parked, or explicitly switched instead of silently replacing active work.
+
+Boundary:
+- No doctrine install.
+- No active guide rewrite.
+- No runtime automation.
+- No full dashboard.
+- No automatic sorting.
+
+Next move:
+- Use the queue on the outside-review report or PC-only incoming-file inventory.

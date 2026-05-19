@@ -1,0 +1,32 @@
+CURRENT WORK QUEUE / LOSS-PREVENTION RECEIPT
+
+Starting base:
+main @ d27eeef
+d27eeef3385dd18e9856b9a20518bc7d25d6834e
+
+Remote:
+https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed.git
+
+Saved files planned:
+BRAIN_LEARNING\CURRENT_WORK_QUEUE_LOSS_PREVENTION_RULE_20260519.md
+HOUSE_WORK\WORK_SHED\QUEUE\CURRENT_WORK_QUEUE.md
+HOUSE_WORK\WORK_SHED\QUEUE\QUEUE_ITEM_TEMPLATE.md
+PROOF_HISTORY\CURRENT_WORK_QUEUE_LOSS_PREVENTION_RECEIPT_20260519.txt
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Locked:
+Open work must not live only in chat.
+The queue is the re-entry door.
+Every important issue gets state, lane, parent boss, priority, next action, proof need, dependency, and do-not-do boundary.
+Before a distraction replaces active work, it must be queued, parked, or explicitly switched.
+Queue prevents loss without creating full automation.
+
+Boundary:
+No doctrine install.
+No active guide rewrite.
+No runtime automation.
+No full dashboard.
+No automatic sorting.
+
+Receipt note:
+This receipt is an artifact. Final save status must be judged by post-save disk/git/remote audit.
