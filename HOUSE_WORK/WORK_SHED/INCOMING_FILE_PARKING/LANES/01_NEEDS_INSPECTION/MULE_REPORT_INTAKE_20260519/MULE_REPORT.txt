@@ -1,0 +1,223 @@
+## 1. Executive Verdict
+
+The worker is right about the **concrete next child task**: the PC-only incoming layer exists, the parking lanes exist, and the actual ignored/local files are not classified yet.
+
+But the worker is too narrow about the **parent boss**.
+
+The real parent boss is:
+
+**State visibility is split across surfaces.**
+
+EVIDENCE:
+- Git says current tracked state is `main @ 14c762b216e753650cc42a81891b580c21c2aad5`, synced with `origin/main`.
+- `ACTIVE_ANCHOR.txt` still records `main @ 4fd7972` as current/proven base.
+- `HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md` knows about newer work, but also says it is support only and not live current position.
+- Ignored PC-only files exist but are invisible to normal `git status`.
+- Parking lanes exist, but no actual incoming files are classified into them yet.
+
+INFERENCE: The unclassified PC-only layer is the current best **file-side task**, but the larger weakness is that “current truth” still requires stitching together git, active anchor, support index, ignored-file scan, receipts, and chat.
+
+## 2. Critique Of The Worker’s Weak-Link Report
+
+What is right:
+- Correct that tracked repo/remote sync is not the current weakest link.
+- Correct that the parking lanes are only structure, not classification.
+- Correct that ignored files are not automatically bad and not automatically push material.
+- Correct that the PowerShell bridge remains second-order risk.
+- Correct that classification precision matters: not every failure is fog.
+
+What is wrong or too narrow:
+- It treats the PC-only incoming layer as the whole boss. It is a child of the bigger state-visibility boss.
+- It underweights stale current-state surfaces. `ACTIVE_ANCHOR.txt` is materially behind the actual git head.
+- It assumes the new parking structure is enough to prevent invisibility. It is not; ignored files are still invisible unless a special ignored-file scan runs.
+- It does not call out that one ignored file, `HOUSE_WORK/TOOLS/Invoke-DailyHouseWalkDigestGate.ps1`, is exactly the kind of “saved in status, absent from remote brain unless force-added or classified” failure residue.
+
+Overconfident:
+- “Tracked files match remote” is true but not enough. The repo can be clean while ignored files contain important unsorted material.
+- “The house has the parking lot” is true, but the parking lot currently holds lane signs, not parked cars.
+
+Missed:
+- Active-anchor/current-git mismatch.
+- Root pointer guide files differ from `ACTIVE_GUIDES` by design; that is okay only because `README.md` and `CURRENT_TRUTH_INDEX.txt` explain the route.
+- PROOF_HISTORY is partly tracked and partly ignored, which is a subtle custody surface.
+- The current hot rules are in BRAIN_LEARNING, but `ACTIVE_ANCHOR.txt` does not reflect the newest active ball.
+
+## 3. Deep-Scan Findings
+
+Current state:
+- EVIDENCE: `HEAD`, `origin/main`, and `origin/HEAD` all point to `14c762b`.
+- EVIDENCE: normal git status is clean.
+- EVIDENCE: latest commit is `14c762b Add incoming file parking lanes`.
+- EVIDENCE: 30 ignored/untracked files are present:
+  - 9 root `CHECK_*.ps1` scripts,
+  - 1 ignored Work Shed tool script,
+  - 20 ignored `PROOF_HISTORY` files.
+
+Proof flow:
+- Stronger than before, but uneven.
+- Many receipts are tracked: `git ls-files PROOF_HISTORY/*` counted 798 tracked proof-history files.
+- Some proof/history material remains ignored, so “receipt exists locally” and “receipt exists in remote brain” are different claims.
+
+Repo/remote custody:
+- Good at tracked layer.
+- Still weak at ignored layer.
+- `.gitignore` intentionally excludes `*.ps1`, `*.bat`, `*.cmd`, `PROOF_HISTORY/`, and backup-like files, so normal status cannot be trusted to reveal the whole local evidence layer.
+
+Parking lanes:
+- Structure exists under `HOUSE_WORK/WORK_SHED/INCOMING_FILE_PARKING/`.
+- Lanes are tracked.
+- No actual ignored file has been classified into a lane yet.
+
+PowerShell/save bridge:
+- Guard-Fail Stop Card exists at `BRAIN_LEARNING/GUARD_FAIL_STOP_CARD_ABORT_LATCH_RULE_20260519.md`.
+- It is good, but it is still a behavior rule, not proof that the next command path will obey it.
+- Execution bridge remains brittle until one risky task proves the stop behavior fires.
+
+Awareness/fog/stop behavior:
+- The rule is sharper now: Abort Latch / Custody Lockout, point-of-work readback, hot rules capped at seven.
+- Underproved piece: live use against the next risky command path.
+
+Source/proof/doctrine boundaries:
+- Mostly strong.
+- Root guide files are pointer/reference files, not active guide bodies.
+- `ACTIVE_GUIDES` files are active and have different hashes from root pointer files.
+- Risk remains when support files look current but authority says they are not.
+
+Outside-review/report intake:
+- Work Shed has become a good support room.
+- Risk: source-ore review reports can keep creating good candidates faster than the house can classify and wear them.
+
+Current next direction:
+- The best concrete task is still incoming-file inventory/classification.
+- But it should start with an explicit state-surface note: git head is current; active anchor is stale relative to git; ignored-file layer is the target.
+
+## 4. Real Weakest Link
+
+**Real parent weakest link: split current-state visibility.**
+
+The unclassified PC-only incoming layer is the biggest actionable child of that boss.
+
+Why this matters:
+- A future worker reading only `ACTIVE_ANCHOR.txt` gets old state.
+- A future worker reading only git status misses ignored material.
+- A future worker reading only receipts may think ignored artifacts are in the brain.
+- A future worker reading only chat may overtrust current claims.
+
+## 5. Ranked Parent Bosses
+
+1. **Split State Visibility**
+   - Git, anchor, status index, ignored files, receipts, and chat do not collapse into one current surface.
+   - Biggest parent boss.
+
+2. **Unclassified PC-Only Incoming Layer**
+   - 30 ignored files are present and unsorted.
+   - Parking lanes exist but have not been used on the actual files.
+
+3. **Execution Bridge Enforcement**
+   - Guard-Fail rule exists, but the next risky PowerShell/git task has not proven it fires.
+
+4. **Classification Precision**
+   - Need clean labels: ignored file, tool candidate, proof candidate, backup hold, private/security hold, remote candidate, archive/delete review.
+   - Avoid dramatic labels when the issue is just “ignored and unsorted.”
+
+5. **Proof/Receipt Overclaim Risk**
+   - Receipts can exist locally while artifacts are ignored or absent from `HEAD`.
+
+6. **Rule Activation At Point Of Work**
+   - Many good rules exist. The current danger is failing to wear the right one at the moment of action.
+
+## 6. What Is Working
+
+- Tracked repo and remote are synced at `14c762b`.
+- Normal working tree is clean.
+- Incoming file parking lanes are committed.
+- `.gitignore` is doing its transport job.
+- Root guide pointers correctly route to `ACTIVE_GUIDES`.
+- Guard-Fail Stop Card exists and has precise fatal triggers.
+- Work Shed is functioning as support-only intake/sorting space.
+- The worker correctly resisted more theory as the next move.
+
+## 7. What Is Still Fake-Clean Or Underproved
+
+- `ACTIVE_ANCHOR.txt` is stale relative to actual git head.
+- Parking lanes are empty structure until actual files are classified.
+- “Saved repair” claims involving ignored `.ps1` tools remain suspect unless the tool is either force-added intentionally or classified as PC-only.
+- Normal `git status` can look clean while ignored incoming material remains invisible.
+- Guard-Fail Stop Card is active as a rule, but not yet proven in the next risky bridge run.
+- Proof-history custody is mixed: many files tracked, some ignored.
+
+## 8. What Needs To Be Parked, Rejected, Or Ignored
+
+Park for later:
+- Full custody audit tool.
+- Full postmortem structure.
+- FMEA.
+- Dashboard/status board.
+- Broad proof-history restructuring.
+- Active guide rewrites.
+- Anchor rewrite discussion until the incoming inventory is at least visible.
+
+Reject now:
+- Force-adding all ignored files.
+- Deleting ignored files.
+- Treating ignored files as junk.
+- Treating ignored files as brain material.
+- Running ignored scripts during classification.
+- Broad scans outside the approved project root.
+- More outside research.
+
+Ignore for this next move:
+- Deeper bitstring/source-ore theory.
+- Promotion decisions.
+- Runtime automation.
+- Doctrine compression.
+
+## 9. What Needs To Happen Next
+
+Run a **read-only incoming-file classification pass**.
+
+It should classify the 30 ignored files by lane without moving, deleting, editing, force-adding, or running anything.
+
+Minimum fields:
+- path,
+- category,
+- likely lane,
+- privacy/security risk,
+- brain relevance,
+- proof/artifact relation,
+- recommended next action: inspect more / keep PC-only / remote candidate / proof candidate / backup hold / archive-delete review.
+
+Do not make final promote/delete decisions in that pass. It is inventory and classification only.
+
+## 10. Best Next 3 To 7 Moves
+
+1. Start with point-of-work readback:
+   `Lane: read-only incoming classification. Repo root: C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz. Action: classify ignored files only. No moves, no edits, no scripts run, no git add.`
+
+2. Use the ignored-file list as the target set:
+   `git ls-files -o -i --exclude-standard`
+
+3. Group the 30 ignored files into the seven existing parking lanes.
+
+4. Flag high-priority evidence mismatches first:
+   - `HOUSE_WORK/TOOLS/Invoke-DailyHouseWalkDigestGate.ps1`,
+   - root `CHECK_*.ps1`,
+   - ignored proof-history reports.
+
+5. Mark security/private risk before any remote-brain recommendation.
+
+6. After classification, choose one small follow-up: either inspect tool candidates, inspect proof candidates, or address anchor/current-state mismatch.
+
+7. Only after user approval, perform any save/move/add/delete action.
+
+## 11. Final Recommendation: One First Move
+
+**Do a read-only classification table for the 30 ignored PC-only files.**
+
+Not a save.  
+Not a move.  
+Not a cleanup.  
+Not a commit.  
+Not a tool run.
+
+Just classify the actual incoming files into the parking lanes so the house can see the cars before deciding what to do with them.

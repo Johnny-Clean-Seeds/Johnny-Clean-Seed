@@ -1940,3 +1940,29 @@ Boundary:
 
 Next move:
 - Use the queue before switching tasks or processing the outside-review report / PC-only incoming inventory.
+
+## 2026-05-19 - MULE_REPORT exact-path intake
+
+Starting base: main @ 68f1b4a.
+
+Saved:
+- HOUSE_WORK/WORK_SHED/INCOMING_FILE_PARKING/LANES/01_NEEDS_INSPECTION/MULE_REPORT_INTAKE_20260519/MULE_REPORT.txt
+- HOUSE_WORK/WORK_SHED/INCOMING_FILE_PARKING/LANES/01_NEEDS_INSPECTION/MULE_REPORT_INTAKE_20260519/MULE_REPORT_INTAKE_NOTE_20260519.md
+- PROOF_HISTORY/MULE_REPORT_INTAKE_LOCK_RECEIPT_20260519.txt
+
+Locked:
+- Desktop source file C:\Users\13527\Desktop\123\MULE_REPORT.txt copied into Incoming File Parking / 01_NEEDS_INSPECTION.
+- Source hash matched destination hash.
+- File is now in Mr.Kleen and pushed to remote/URL brain after commit.
+
+Boundary:
+- Intake only.
+- No classification yet.
+- No acceptance as authority.
+- No doctrine install.
+- No active guide rewrite.
+- No runtime automation.
+- Original Desktop source file not deleted.
+
+Next move:
+- Inspect MULE_REPORT through the Current Work Queue and Adapt/Adopt gate.
