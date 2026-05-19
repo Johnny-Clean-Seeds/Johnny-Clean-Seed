@@ -1,0 +1,24 @@
+COMPLEXITY / BITSTRING / EMOTION SOURCE ORE INTAKE RECEIPT
+
+Date: 2026-05-19 01:41:29
+Mr.Kleen path: C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+Head before save: d5ed6d4
+Source map: SOURCE_ORE\COMPLEXITY_BITSTRING_EMOTION_INTAKE_20260519\COMPLEXITY_BITSTRING_EMOTION_SOURCE_ORE_MAP_20260519.md
+Source map SHA256: 0B48E0DEF39EF4A51A22644B389221706F9C70C61F9318E31F32B07DA9687646
+Second-agent handoff: HOUSE_WORK\WORK_SHED\AGENT_HANDOFFS\COMPLEXITY_BITSTRING_SECOND_AGENT_HANDOFF_20260519.md
+Second-agent handoff SHA256: 2DA0F1F36CE3BC421544E9852ADEB8D34BA8E6AA5EDF038AA9DBF40402124505
+
+Checks:
+- Source map exists: True
+- Handoff exists: True
+- Names bitstrings: True
+- Names algorithmic information: True
+- Names computational mechanics: True
+- Names predictive processing: True
+- Names emotion as sensor: True
+- Names semiotics: True
+- Names philosophy of information: True
+- Handoff says do not install doctrine: True
+
+Verdict:
+PASS - Complexity / Bitstring / Emotion source ore gathered and second-agent handoff created. Not doctrine.

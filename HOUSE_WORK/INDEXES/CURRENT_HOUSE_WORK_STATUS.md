@@ -1295,3 +1295,13 @@ Receipt: PROOF_HISTORY\POST_SUNO_SOURCE_ORE_DEEP_SCAN_PROOF_RECEIPT_20260519.txt
 Result: recent Suno/Dreamforger/flag/journal/crown additions are placed in bounded support/source/mission/candidate lanes.
 Boundary: no active guide contamination detected; no Suno automation authorized; CROWN_THREAD remains anomaly candidate, not proof or doctrine.
 Next allowed moves: continue Suno conceptual/manual bridge discussion, design a small controlled Crown Thread probe, or create Symbolic Output Forensics room if selected.
+
+## Complexity / Bitstring / Emotion Source Ore Intake - 20260519
+
+Status: LOCKED AS SOURCE ORE + SECOND-AGENT HANDOFF.
+Base before save: main @ d5ed6d4.
+Source map: SOURCE_ORE\COMPLEXITY_BITSTRING_EMOTION_INTAKE_20260519\COMPLEXITY_BITSTRING_EMOTION_SOURCE_ORE_MAP_20260519.md.
+Second-agent handoff: HOUSE_WORK\WORK_SHED\AGENT_HANDOFFS\COMPLEXITY_BITSTRING_SECOND_AGENT_HANDOFF_20260519.md.
+Receipt: PROOF_HISTORY\COMPLEXITY_BITSTRING_EMOTION_INTAKE_RECEIPT_20260519.txt.
+Boundary: source ore only; no doctrine installed, no active guide rewritten, no final model promoted.
+Next allowed move: bring in second agent to critique/adopt/park/reject concepts, or continue deeper source gathering.
