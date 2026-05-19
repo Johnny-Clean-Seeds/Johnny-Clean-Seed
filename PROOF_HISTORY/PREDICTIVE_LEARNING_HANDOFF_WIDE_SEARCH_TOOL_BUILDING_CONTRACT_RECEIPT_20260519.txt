@@ -1,0 +1,33 @@
+PREDICTIVE LEARNING HANDOFF WIDE SEARCH TOOL BUILDING CONTRACT RECEIPT
+
+Date:
+2026-05-19
+
+Base:
+main @ 7dee5d5
+
+Updated:
+HOUSE_WORK\WORK_SHED\AGENT_HANDOFFS\PREDICTIVE_LEARNING_AND_MULE_FLOW_CRITIQUE_HANDOFF_20260519.md
+
+Repair:
+Added Wide Search / Tool-Building / Controlled Idea-Bounce Contract.
+
+Purpose:
+Ensure the mule:
+- searches internal house material,
+- searches outside method families,
+- uses tools to improve future tool-building,
+- pushes the assistant's candidate method harder,
+- returns stronger alternatives without endless churn,
+- preserves parking, placement, order, proof, boundaries, flow, and finish condition.
+
+Boundary:
+Handoff repair only.
+No outside report received yet.
+No doctrine rewrite.
+No active guide rewrite.
+No CURRENT_TRUTH_INDEX change.
+No tool promotion.
+
+Next move:
+Inspect the repaired handoff, then decide whether to send it to the mule.

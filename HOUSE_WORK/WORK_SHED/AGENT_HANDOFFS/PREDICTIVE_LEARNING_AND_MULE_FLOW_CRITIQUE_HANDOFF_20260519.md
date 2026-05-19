@@ -63,6 +63,122 @@ Answer:
 9. How should mule output be shaped so it always returns cleanly?
 10. What should be rejected or parked?
 
+
+## Wide Search / Tool-Building / Controlled Idea-Bounce Contract
+
+The mule must not give a shallow critique.
+
+The mule must look broadly for useful methods and compare them against the current Mr.Kleen model.
+
+Required search sources:
+
+1. Internal house material
+   - prior receipts,
+   - proof history,
+   - old failures,
+   - old wins,
+   - source-ore,
+   - sorting bench notes,
+   - gear rack candidates,
+   - existing tool candidates,
+   - algorithms,
+   - bitstrings,
+   - filing/sorting methods,
+   - mule handoff patterns,
+   - batch/safe-bin/trial-suit patterns.
+
+2. Outside method families
+   - knowledge management,
+   - lessons learned systems,
+   - after-action review,
+   - retrospectives,
+   - OODA / observe-orient-decide-act loops,
+   - decision logs,
+   - knowledge graphs,
+   - tagging systems,
+   - case-based reasoning,
+   - failure-mode analysis,
+   - workflow automation patterns,
+   - toolchain improvement methods,
+   - systems-thinking methods,
+   - library/index/catalog methods,
+   - search/retrieval methods.
+
+3. Tool-building principle
+   The mule should look for ways tools can help build better tools.
+
+   Every proposed tool/method should answer:
+   - What does it help us build next?
+   - What repeated work does it remove?
+   - What mistakes does it prevent?
+   - What stronger worker/tool could it help create?
+   - How does it improve assistant awareness?
+   - How does it help future mule handoffs return cleaner work?
+   - How does it keep proof, parking, placement, and order intact?
+
+4. Controlled idea-bounce
+   The mule should challenge the assistant's candidate method and propose stronger alternatives.
+
+   The mule should push for:
+   - wider search,
+   - better ordering,
+   - cleaner folder models,
+   - stronger tags,
+   - faster safe paths,
+   - better retrieval from old mistakes,
+   - better handoff/return contracts,
+   - stronger tool-building loops.
+
+   But the mule must not create endless churn.
+
+   The mule must finish with:
+   - one recommended smallest installable version,
+   - one stronger later version,
+   - one do-not-build-yet list,
+   - one return folder with manifest first.
+
+5. Balance rule
+   Reach broadly, but park cleanly.
+
+   No one idea wins just because it is big, clever, old, new, external, internal, or exciting.
+
+   The mule must preserve:
+   - clean parking,
+   - placement,
+   - order,
+   - proof,
+   - boundaries,
+   - flow,
+   - finish condition.
+
+## Required additional reviewer output
+
+Add these sections to the return report:
+
+11. Internal material scan
+   - Which internal tools, algorithms, bitstrings, notes, receipts, and patterns were checked?
+   - Which ones apply?
+   - Which ones do not apply?
+
+12. Outside method scan
+   - What outside techniques were considered?
+   - Which are useful for Mr.Kleen?
+   - Which are rejected or parked?
+
+13. Tool-building improvement
+   - How can this method help build better tools later?
+   - What future worker/tool would become easier to build?
+
+14. Controlled idea-bounce result
+   - Where did the mule disagree with the candidate method?
+   - What stronger alternative is proposed?
+   - What should remain unchanged?
+
+15. Finish discipline
+   - What is the smallest safe install?
+   - What is the later bigger version?
+   - What should not be built yet?
+
 ## Required return folder
 
 Return every file in this one folder only:
@@ -103,3 +219,4 @@ Do not skip the manifest.
 ## Desired result
 
 A clean critique package that helps Mr.Kleen install a faster, safer awareness/prior-mistake prediction method without making a bloated doctrine change.
+

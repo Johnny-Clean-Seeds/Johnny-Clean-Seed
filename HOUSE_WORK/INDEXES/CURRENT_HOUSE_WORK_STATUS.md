@@ -2631,3 +2631,31 @@ Boundary:
 
 Next move:
 - Inspect the capture and handoff, then decide whether to send the handoff to the mule.
+
+## 2026-05-19 - Predictive learning handoff wide-search/tool-building contract
+
+Base: main @ 7dee5d5.
+
+Updated:
+- HOUSE_WORK\WORK_SHED\AGENT_HANDOFFS\PREDICTIVE_LEARNING_AND_MULE_FLOW_CRITIQUE_HANDOFF_20260519.md
+
+Receipt:
+- PROOF_HISTORY\PREDICTIVE_LEARNING_HANDOFF_WIDE_SEARCH_TOOL_BUILDING_CONTRACT_RECEIPT_20260519.txt
+
+Repair:
+- Added Wide Search / Tool-Building / Controlled Idea-Bounce Contract.
+- Mule must search internal house material and outside method families.
+- Mule must consider how tools build better tools.
+- Mule must challenge the candidate method without creating endless churn.
+- Mule must finish with smallest safe install, later bigger version, and do-not-build-yet list.
+
+Boundary:
+- Handoff repair only.
+- No outside report received yet.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX change.
+- No tool promotion.
+
+Next move:
+- Inspect repaired handoff, then decide whether to send it to the mule.
