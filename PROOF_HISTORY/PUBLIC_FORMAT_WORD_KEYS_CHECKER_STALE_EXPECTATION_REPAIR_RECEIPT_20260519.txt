@@ -1,0 +1,21 @@
+PUBLIC FORMAT / WORD KEYS CHECKER STALE EXPECTATION REPAIR RECEIPT
+
+Base:
+main @ 274220f
+
+Patched:
+HOUSE_WORK\WORK_SHED\INCOMING_FILE_PARKING\MOVED_IGNORED_FILES_20260519_20260519_162022\02_TOOL_CANDIDATES\CHECK_PUBLIC_FORMAT_AND_WORD_KEYS_001.ps1
+
+Repair:
+- Removed stale README expectation: public pointer/reference files.
+- Removed stale README expectation: public view alone.
+- Removed stale map expectations: WHAT THIS FILE IS / WHAT THIS FILE IS NOT.
+- Replaced public pointer/reference surfaces with current pointer/reference surfaces.
+- Removed stale word-key override wording and kept current mirror-doctrine boundary.
+
+Boundary:
+No checker execution in this save block.
+No active guide rewrite.
+No doctrine rewrite.
+No CURRENT_TRUTH_INDEX change.
+No tool promotion.

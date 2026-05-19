@@ -2211,3 +2211,24 @@ Boundary:
 
 Next move:
 - Decide whether to run remaining tool candidates as a grouped safe-bin checker batch or keep them parked.
+
+## 2026-05-19 - Public format / word keys checker stale expectation repair
+
+Base: main @ 274220f.
+
+Patched:
+- HOUSE_WORK\WORK_SHED\INCOMING_FILE_PARKING\MOVED_IGNORED_FILES_20260519_20260519_162022\02_TOOL_CANDIDATES\CHECK_PUBLIC_FORMAT_AND_WORD_KEYS_001.ps1
+
+Result:
+- Checker candidate no longer expects stale public pointer/reference wording.
+- Checker candidate no longer expects old WHAT THIS FILE IS / WHAT THIS FILE IS NOT headings.
+- Checker candidate now aligns with current pointer/reference surfaces wording.
+
+Boundary:
+- No checker execution in this save block.
+- No active guide rewrite.
+- No doctrine rewrite.
+- No tool promotion.
+
+Next move:
+- Rerun CHECK_PUBLIC_FORMAT_AND_WORD_KEYS_001.ps1.

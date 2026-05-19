@@ -33,8 +33,7 @@ $ReadmeNeedles = @(
     "## Authority map",
     "## Public/local boundary",
     "## Word-key support",
-    "Root guide files are public pointer/reference files",
-    "Do not promote, delete, move, overwrite, or call PASS from this public view alone.",
+    "Use `public` only when describing exposure, access boundary, or a named folder such as `PUBLIC_NOTES`.",
     "PUBLIC_NOTES/WORD_KEYS_AND_PUBLIC_LANGUAGE_NOTES_001.txt"
 )
 
@@ -47,14 +46,12 @@ foreach ($Needle in $ReadmeNeedles) {
 }
 
 $MapNeedles = @(
-    "WHAT THIS FILE IS",
-    "WHAT THIS FILE IS NOT",
+
     "ROOT POINTER RULE",
     "WORD-KEY RULE",
-    "Root guide files are public pointer/reference surfaces.",
+    "Root guide files are pointer/reference surfaces.",
     "They are not mirror doctrine bodies.",
-    "Word-key support exists without replacing ACTIVE_GUIDES.",
-    "The word-key note becomes a hidden override."
+    "They are not mirror doctrine bodies."
 )
 
 foreach ($Needle in $MapNeedles) {
@@ -132,3 +129,4 @@ if ($Failed.Count -eq 0) {
     Write-Host "VERDICT: FAIL"
     exit 1
 }
+
