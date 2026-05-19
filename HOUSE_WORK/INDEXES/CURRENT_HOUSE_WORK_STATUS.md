@@ -2008,3 +2008,62 @@ Boundary:
 Next move:
 - Inspect the PowerShell tool candidates as text.
 - Do not execute them yet.
+
+## 2026-05-19 - PowerShell tool candidate text inspection
+
+Starting base: main @ 2ff2b8a.
+
+Saved:
+- Read-only PowerShell tool candidate text inspection.
+- Current queue update for next tool-candidate step.
+- Proof receipt for this inspection.
+
+Inspection result:
+- Ten ignored PowerShell files were read as text, hashed, and risk-word scanned.
+- Nine root CHECK_*.ps1 files classify as read-only checker candidates.
+- HOUSE_WORK/TOOLS/Invoke-DailyHouseWalkDigestGate.ps1 is higher risk because it creates a directory and calls native git.
+
+Boundary:
+- No script executed.
+- No ignored script force-added.
+- No deletion.
+- No active guide rewrite.
+- No doctrine install.
+- No runtime automation.
+
+Whirlpool result:
+- The incoming tool pile is no longer invisible.
+- The next action is narrower than the pile.
+
+Next move:
+- Review/repair the Daily House-Walk Digest gate candidate as text before any execution.
+- Do not execute it yet.
+
+## 2026-05-19 - Daily digest gate script text repair
+
+Starting base: main @ 2ff2b8a.
+
+Saved:
+- Repaired HOUSE_WORK/TOOLS/Invoke-DailyHouseWalkDigestGate.ps1 as a related tool candidate.
+- Updated PowerShell tool candidate inspection with repaired hash and next route.
+- Updated current queue.
+- Proof receipt for text inspection / repair.
+
+Repair:
+- Put `param()` first.
+- Added strict mode.
+- Added checked native git wrapper with `$LASTEXITCODE`.
+- Removed automatic directory creation from the gate.
+- Restores original location after inspection.
+- Keeps script as inspection/gate output only; no script execution occurred.
+
+Boundary:
+- No active guide rewrite.
+- No doctrine install.
+- No runtime automation.
+- No ignored root checker scripts force-added.
+- No script executed.
+
+Next move:
+- Review the nine root CHECK_*.ps1 scripts as a read-only checker batch.
+- Do not execute them yet.

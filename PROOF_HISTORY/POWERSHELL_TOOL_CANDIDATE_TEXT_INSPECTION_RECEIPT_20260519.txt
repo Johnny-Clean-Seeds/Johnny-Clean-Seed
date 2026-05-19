@@ -1,0 +1,47 @@
+POWERSHELL TOOL CANDIDATE TEXT INSPECTION RECEIPT
+
+Date:
+2026-05-19
+
+Starting base:
+main @ 2ff2b8a
+2ff2b8a65ce331b02983a23f3a5fb5ec77a3c9aa
+
+Task:
+Get the whirlpool moving by inspecting the ignored PowerShell tool candidates as text.
+
+Files inspected as text:
+CHECK_ASSISTANT_HOME_MODEL_CARD_001.ps1
+CHECK_ASSISTANT_SUIT_OPERATING_SYSTEM_001.ps1
+CHECK_BRAIN_PROGRESS_LOCK_001.ps1
+CHECK_DUPLICATE_GUIDE_SURFACE_SYNC_001.ps1
+CHECK_FRESH_PUBLIC_ENTRY_TEST_001.ps1
+CHECK_HOME_LANGUAGE_COEXISTENCE_001.ps1
+CHECK_PUBLIC_FORMAT_AND_WORD_KEYS_001.ps1
+CHECK_PUBLIC_HOUSE_MAP_FIX_001.ps1
+CHECK_REPEATED_FAILED_PROOF_CONTAINMENT_001.ps1
+HOUSE_WORK/TOOLS/Invoke-DailyHouseWalkDigestGate.ps1
+
+Inspection output:
+HOUSE_WORK/WORK_SHED/INCOMING_FILE_PARKING/LANES/02_TOOL_CANDIDATES/POWERSHELL_TOOL_CANDIDATE_TEXT_INSPECTION_20260519.md
+
+Proof:
+- SHA256 hashes captured for all ten files.
+- Risk-word scan checked for destructive/write/network/git/action words.
+- No ignored PowerShell tool was executed.
+- No ignored root checker script was force-added.
+- HOUSE_WORK/TOOLS/Invoke-DailyHouseWalkDigestGate.ps1 is force-add eligible in this exact repair because it was the related repaired tool candidate.
+- No delete, move, active guide rewrite, doctrine install, or runtime automation occurred.
+
+Result:
+- Nine root CHECK_*.ps1 files are read-only checker candidates.
+- HOUSE_WORK/TOOLS/Invoke-DailyHouseWalkDigestGate.ps1 was the higher-risk first follow-up because it wrote a directory and called native git.
+- It was repaired as text in this scope: `param()` first, strict mode, checked git wrapper, no directory creation, restore original location.
+- Parser check result after repair: PASS.
+- Repaired SHA256: 4AE2F59FB93208E17A15D30719BA09BB1A59D8F77D693571DA56356FC2B681CE
+
+Next move:
+Review the nine root CHECK_*.ps1 scripts as a read-only checker batch before any execution or blanket force-add.
+
+Receipt note:
+Final commit hash and push status must be verified after commit.

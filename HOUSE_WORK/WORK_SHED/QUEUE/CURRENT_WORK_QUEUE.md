@@ -6,8 +6,8 @@ Authority: Work Shed queue / attention control.
 
 ## Re-entry Readback
 
-Current base: verify with git before action. This queue repair began at main @ d1ee312.
-Active item: Inspect PowerShell tool candidates as text.
+Current base: verify with git before action. This whirlpool repair began at main @ 2ff2b8a.
+Active item: Review the nine root CHECK_*.ps1 candidates as a read-only checker batch.
 Hot guard: point-of-work readback before any PowerShell/git task.
 Do not touch yet: automation, broad cleanup, force-adding PC-only files, deleting incoming material, full dashboard, full TODO system, running ignored PowerShell tools.
 
@@ -23,8 +23,9 @@ If read-only output is visible and the next safe action is clear, act directly.
 
 | ID | State | Priority | Parent Boss | Lane | Title | Why It Matters | Next Action | Proof Needed | Dependency | Do-Not-Do Boundary |
 |---|---|---:|---|---|---|---|---|---|---|---|
-| Q-20260519-006 | ACTIVE | 1 | Incoming Tool Candidate Follow-Through | Incoming File Parking / Tool Candidates | Inspect PowerShell tool candidates as text | Read-only classification made the next safe move clear. The tool candidates must be understood before any run, push, or reject decision. | Read the PowerShell tool candidates as text, hash them, check risk words, and understand each job. | Text inspection notes and hashes. | Queue/Adapt repair saved first because this repair changes the queue rule itself. | Do not execute ignored PowerShell tools. Do not force-add, delete, or promote before inspection. |
-| Q-20260519-007 | NEXT | 2 | Incoming File Control | Incoming File Parking | Finish classification follow-through | PC-only files were classified enough to reveal tool candidates, but follow-through must inspect the tools next. | After text inspection, decide whether each tool is PC-only hold, remote candidate, archive/delete review, or needs more inspection. | Lane decision per tool. | Q-20260519-006. | Do not treat scripts as trusted because they exist. |
+| Q-20260519-006 | DONE | 1 | Incoming Tool Candidate Follow-Through | Incoming File Parking / Tool Candidates | Inspect PowerShell tool candidates as text | Read-only classification made the next safe move clear. The tool candidates were read as text, hashed, risk-word scanned, and grouped. | Saved text inspection result in Incoming File Parking / 02_TOOL_CANDIDATES. | Text inspection notes and hashes. | Queue/Adapt repair saved first because this repair changed the queue rule itself. | No ignored PowerShell tools executed. No force-add, delete, or promotion. |
+| Q-20260519-010 | DONE | 1 | Tool Candidate Safety | Incoming File Parking / Tool Candidates | Review/repair Daily House-Walk Digest gate candidate as text | It was the only inspected candidate with write behavior and native git calls. | Repaired script shape as text before execution or remote-brain trust. | Parser check, risk-word scan, and commit contents. | Q-20260519-006. | Script was not executed. Force-add only this related repaired script with this commit. |
+| Q-20260519-011 | ACTIVE | 2 | Incoming File Control | Incoming File Parking | Review root CHECK_*.ps1 scripts as read-only checker batch | Nine root checkers remain ignored PC-only candidates; they appear read-only but are not trusted yet. | Review exact assertions and choose keep PC-only, remote candidate, archive/delete review, or needs repair. | Batch decision per checker. | Q-20260519-010. | Do not execute the scripts. Do not blanket force-add ignored scripts. |
 | Q-20260519-008 | PARKED | 3 | Adapt/Adopt Learning | Work Shed / Sorting Bench | Use Adapt/Adopt only when it improves next action | Outside reports and critiques are source material, not authority. | Pull only the piece that changes the active next move; park the rest. | Behavior changed at point of work. | A real report or critique affects active work. | Do not make the user care about an outside report just because it exists. |
 | Q-20260519-009 | PARKED | 4 | Whole-House Review | Outside-review intake | Full-house outside-review handoff | Useful later after custody/awareness/incoming lanes mature. | Keep parked until current bridge/incoming work stabilizes. | Better current state for reviewer. | Complete active queue items first. | Do not send prematurely. |
 
@@ -37,6 +38,8 @@ If read-only output is visible and the next safe action is clear, act directly.
 | D-20260519-003 | main @ a690faa | Brain/URL wording and Guard-Fail Stop Card saved and pushed. | Receipt and status update saved in Mr.Kleen. |
 | D-20260519-004 | main @ d1ee312 | MULE_REPORT intaken into incoming parking. | Receipt and status update saved in Mr.Kleen. |
 | D-20260519-005 | chat / read-only output | Ignored/PC-only file classification completed enough to identify PowerShell tool candidates as next safe action. | Visible read-only classification output; not a saved map. |
+| D-20260519-006 | this whirlpool repair save | PowerShell tool candidates inspected as text and classified. | HOUSE_WORK/WORK_SHED/INCOMING_FILE_PARKING/LANES/02_TOOL_CANDIDATES/POWERSHELL_TOOL_CANDIDATE_TEXT_INSPECTION_20260519.md |
+| D-20260519-007 | this whirlpool repair save | Daily House-Walk Digest gate candidate repaired as text. | HOUSE_WORK/TOOLS/Invoke-DailyHouseWalkDigestGate.ps1 parser check passed; no execution. |
 
 ## Queue Rules
 
