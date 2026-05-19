@@ -1276,3 +1276,12 @@ Receipt: PROOF_HISTORY\ASSISTANT_CHARACTER_JOURNAL_AND_NAME_GROWTH_RECEIPT_20260
 Local-only journal entry: C:\Users\13527\Desktop\ASSISTANT_LOCAL_JOURNAL\ASSISTANT_JOURNAL_CHARACTER_NAMING_AND_SELF_RULES_20260519.md.
 Boundary: no final assistant handle installed; local journal is not doctrine, proof, active authority, or public brain material.
 Next allowed move: Suno discussion from clean state after save.
+
+## Suno Crown Thread Symbolic Continuity Capture - 20260519
+
+Status: LOCKED AS ANOMALY CANDIDATE / SYMBOLIC-OUTPUT FORENSICS.
+Base before save: main @ 0502a51.
+Capture: HOUSE_WORK\WORK_SHED\SORTING_BENCH\SUNO_CROWN_THREAD_SYMBOLIC_CONTINUITY_CAPTURE_20260519.md.
+Receipt: PROOF_HISTORY\SUNO_CROWN_THREAD_SYMBOLIC_CONTINUITY_RECEIPT_20260519.txt.
+Boundary: CROWN_THREAD is not proof of Suno memory, not proof of Suno sentience, not debunked, and not doctrine. It requires chain-of-custody and controlled testing before stronger claims.
+Next allowed move: continue Suno discussion or design a small manual Suno bridge/test from clean state.
