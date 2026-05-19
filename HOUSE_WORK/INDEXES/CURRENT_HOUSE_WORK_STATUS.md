@@ -1491,3 +1491,29 @@ Boundary:
 Next move:
 - Give the upgraded handoff to the mule.
 - Mule should read, judge, slam hard, search deeply, and return a gold-mining report covering all aspects of the need.
+
+## 2026-05-19 - Provenance Lens mule return intake dock
+
+Starting position: main @ 1cdee0c.
+
+Saved:
+- Mule Return Intake Dock for the Provenance / Chain-of-Custody Thread Lens Deep Slam + Gold Search report.
+
+Purpose:
+- Give the incoming mule report a clean landing place.
+- Prevent critique, outside research, gold candidates, and source ore from becoming doctrine or promotion proof by accident.
+- Protect jabrony's active roof work by not editing the Provenance Lens files or mule handoff files while he is working.
+
+Boundary:
+- Intake/sorting only.
+- No doctrine install.
+- No active guide rewrite.
+- No runtime automation.
+- No promotion.
+- No disturbance to active mule handoff work.
+- No outside research becomes doctrine without later routing and proof.
+
+Next move:
+- Wait for the mule report.
+- Freeze it as received.
+- Sort it through the intake dock before any adoption, revision, rejection, or promotion-review decision.
