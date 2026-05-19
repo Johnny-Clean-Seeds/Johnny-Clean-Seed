@@ -1,7 +1,7 @@
 # Awareness / Prior-Mistake / Predictive Learning Dissect Capture
 
 Date: 2026-05-19
-Base: main @ 12de5c8
+Base: main @ 73c1b1d
 Lane: Work Shed / Sorting Bench
 Status: dissect capture and candidate system design, not doctrine
 
@@ -155,3 +155,4 @@ Rule captured:
 
 Status:
 Captured into handoff as assistant-prework/deep-search/hard-critique proof contract.
+
