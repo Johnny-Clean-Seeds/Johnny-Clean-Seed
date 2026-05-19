@@ -1,0 +1,18 @@
+DUPLICATE GUIDE SURFACE SYNC CHECKER STALE EXPECTATION REPAIR RECEIPT
+
+Base:
+main @ 4bdd895
+
+Patched:
+HOUSE_WORK\WORK_SHED\INCOMING_FILE_PARKING\MOVED_IGNORED_FILES_20260519_20260519_162022\02_TOOL_CANDIDATES\CHECK_DUPLICATE_GUIDE_SURFACE_SYNC_001.ps1
+
+Repair:
+- Replaced stale README root-guide-copy expectation with ACTIVE_GUIDES authority-route expectation.
+- Replaced stale DUPLICATE SURFACE RULE expectation with ROOT POINTER RULE plus pointer/reference wording.
+
+Boundary:
+No checker execution in this save block.
+No active guide rewrite.
+No doctrine rewrite.
+No CURRENT_TRUTH_INDEX change.
+No tool promotion.

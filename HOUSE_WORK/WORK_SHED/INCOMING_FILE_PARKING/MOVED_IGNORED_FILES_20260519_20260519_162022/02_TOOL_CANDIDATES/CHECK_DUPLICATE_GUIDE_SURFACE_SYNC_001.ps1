@@ -68,10 +68,10 @@ foreach ($p in $Pairs) {
 
 if (Test-Path "README.md") {
     $Readme = Get-Content "README.md" -Raw
-    if ($Readme.Contains("Root guide copies are public mirror/reference copies")) {
-        Write-Host "PASS - README.md still labels root guide copies"
+    if ($Readme.Contains("ACTIVE_GUIDES/") -and $Readme.Contains("## Authority map")) {
+        Write-Host "PASS - README.md routes authority through ACTIVE_GUIDES"
     } else {
-        Add-Fail "README.md missing root guide copy label"
+        Add-Fail "README.md missing ACTIVE_GUIDES authority route"
     }
 } else {
     Add-Fail "Missing README.md"
@@ -79,10 +79,10 @@ if (Test-Path "README.md") {
 
 if (Test-Path "PUBLIC_HOUSE_MAP.txt") {
     $Map = Get-Content "PUBLIC_HOUSE_MAP.txt" -Raw
-    if ($Map.Contains("DUPLICATE SURFACE RULE")) {
-        Write-Host "PASS - PUBLIC_HOUSE_MAP.txt still contains duplicate surface rule"
+    if ($Map.Contains("ROOT POINTER RULE") -and $Map.Contains("Root guide files are pointer/reference surfaces.")) {
+        Write-Host "PASS - PUBLIC_HOUSE_MAP.txt contains root pointer rule and pointer/reference wording"
     } else {
-        Add-Fail "PUBLIC_HOUSE_MAP.txt missing duplicate surface rule"
+        Add-Fail "PUBLIC_HOUSE_MAP.txt missing root pointer rule or pointer/reference wording"
     }
 } else {
     Add-Fail "Missing PUBLIC_HOUSE_MAP.txt"
@@ -97,3 +97,4 @@ if ($Failed.Count -eq 0) {
     Write-Host "VERDICT: FAIL"
     exit 1
 }
+

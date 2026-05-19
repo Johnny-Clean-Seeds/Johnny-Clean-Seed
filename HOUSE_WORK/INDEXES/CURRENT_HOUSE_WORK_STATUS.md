@@ -2270,3 +2270,23 @@ Boundary:
 
 Next move:
 - Continue remaining parked checker candidates one at a time.
+
+## 2026-05-19 - Duplicate guide surface sync checker stale expectation repair
+
+Base: main @ 4bdd895.
+
+Patched:
+- HOUSE_WORK\WORK_SHED\INCOMING_FILE_PARKING\MOVED_IGNORED_FILES_20260519_20260519_162022\02_TOOL_CANDIDATES\CHECK_DUPLICATE_GUIDE_SURFACE_SYNC_001.ps1
+
+Result:
+- Checker candidate no longer expects stale duplicate-surface wording.
+- Checker candidate now checks root pointer / pointer-reference authority structure.
+
+Boundary:
+- No checker execution in this save block.
+- No active guide rewrite.
+- No doctrine rewrite.
+- No tool promotion.
+
+Next move:
+- Rerun CHECK_DUPLICATE_GUIDE_SURFACE_SYNC_001.ps1.
