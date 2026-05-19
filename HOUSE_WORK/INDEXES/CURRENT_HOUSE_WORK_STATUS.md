@@ -1324,3 +1324,5 @@ Next allowed move: bring in second agent to critique/adopt/park/reject concepts,
 2026-05-19 - Ran Gear Rack / Load Gate live test. Verdict: PASS WITH WATCH. Next move: controlled Daily Growth Log held-entry test, or pause before opening more balls.
 
 2026-05-19 - Locked Aha Signal Calibration rule and Aha Origin Tagging bitstring Soft Suit candidate. Next move: use during bitstring second-pass sorting.
+
+2026-05-19 - Locked UI-lag authority rule, link-thinking rule, Gear-Up Before House Work Gate, and Issue Intake / Boss-vs-Ghost Sorting Bench. Boundary: support/work-shed only. Next move: use gear-up gate before further bitstring sorting or new house work.

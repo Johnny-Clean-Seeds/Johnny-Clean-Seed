@@ -1,0 +1,23 @@
+GEAR-UP / LINK-THINKING / ISSUE INTAKE LOCK RECEIPT
+
+Saved:
+BRAIN_LEARNING\UI_LAG_IS_NOT_PROJECT_AUTHORITY_RULE_20260519.md
+BRAIN_LEARNING\LINK_THINKING_INTERNAL_PLANNING_RULE_20260519.md
+BRAIN_LEARNING\GEAR_UP_BEFORE_HOUSE_WORK_GATE_20260519.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\ISSUE_INTAKE_BOSS_VS_GHOST_SORTING_BENCH_20260519.md
+
+Boundary:
+Support behavior rules plus Work Shed sorting bench only.
+No active guide rewrite.
+No doctrine promotion.
+No runtime build.
+
+Proof:
+- UI rule exists: True
+- Link-thinking rule exists: True
+- Gear-up gate exists: True
+- Issue bench exists: True
+- Status exists: True
+
+Current next move:
+Use the Gear-Up Gate and Issue Intake Bench before continuing bitstring sorting or opening any new house work.
