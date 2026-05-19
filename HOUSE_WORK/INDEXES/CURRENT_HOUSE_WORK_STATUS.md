@@ -2290,3 +2290,25 @@ Boundary:
 
 Next move:
 - Rerun CHECK_DUPLICATE_GUIDE_SURFACE_SYNC_001.ps1.
+
+## 2026-05-19 - Fresh public entry checker stale expectation repair
+
+Base: main @ 6652eeb.
+
+Patched:
+- HOUSE_WORK\WORK_SHED\INCOMING_FILE_PARKING\MOVED_IGNORED_FILES_20260519_20260519_162022\02_TOOL_CANDIDATES\CHECK_FRESH_PUBLIC_ENTRY_TEST_001.ps1
+
+Result:
+- Checker candidate now matches current README home-view safety wording.
+- Checker candidate now checks ROOT POINTER RULE and pointer/reference wording instead of stale duplicate-surface wording.
+
+Boundary:
+- No checker execution in this save block.
+- No README rewrite.
+- No PUBLIC_HOUSE_MAP rewrite.
+- No active guide rewrite.
+- No doctrine rewrite.
+- No tool promotion.
+
+Next move:
+- Rerun fast-safe batch collector.

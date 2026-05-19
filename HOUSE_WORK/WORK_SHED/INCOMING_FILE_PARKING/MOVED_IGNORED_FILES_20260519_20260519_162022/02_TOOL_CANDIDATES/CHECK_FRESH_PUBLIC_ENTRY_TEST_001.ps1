@@ -108,7 +108,7 @@ $ReadmeNeedles = @(
     "PUBLIC_NOTES/",
     "TEST_LANES/",
     "Shed/",
-    "Do not promote, delete, move, overwrite, or call PASS from this public view alone."
+    "Do not promote, delete, move, overwrite, or call PASS from this home view alone."
 )
 
 foreach ($Needle in $ReadmeNeedles) {
@@ -121,7 +121,8 @@ foreach ($Needle in $ReadmeNeedles) {
 
 # 7. House map must classify rooms.
 $MapNeedles = @(
-    "DUPLICATE SURFACE RULE",
+    "ROOT POINTER RULE",
+    "Root guide files are pointer/reference surfaces.",
     "ACTIVE_GUIDES/",
     "AGENTS.md",
     "PROOF_HISTORY/",
@@ -162,3 +163,4 @@ if ($Failed.Count -eq 0) {
     Write-Host "VERDICT: FAIL"
     exit 1
 }
+
