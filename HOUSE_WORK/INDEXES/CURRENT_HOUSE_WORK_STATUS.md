@@ -1091,3 +1091,29 @@ Anchor may trail safely if final response states current commit, saved files, an
 Receipt:
 
 PROOF_HISTORY/FIRST_CONTACT_MESS_TEST_TEMPLATE_PROOF_PHASE_RECEIPT_20260518.txt
+
+## Post-Template Autonomy / Fog Word Capture Bag
+
+Status:
+
+PROOF PHASE PASSED - SAVE PHASE NEEDED
+
+Meaning:
+
+A support-only capture bag was created for the conversation after the First-Contact Mess Test Template save.
+
+The bag groups autonomy, Suno, blade path, pattern transfer, dependency mirage, mutual path cleaning, and fog word placement material.
+
+No active guide was rewritten.
+
+No doctrine was promoted.
+
+Sync decision:
+
+STATUS_ENOUGH_FOR_CAPTURE_BAG_SAVE.
+
+Anchor may trail safely if final response states current commit, saved files, and clean status.
+
+Receipt:
+
+PROOF_HISTORY/POST_TEMPLATE_AUTONOMY_FOG_WORD_CAPTURE_BAG_PROOF_PHASE_RECEIPT_20260518.txt
