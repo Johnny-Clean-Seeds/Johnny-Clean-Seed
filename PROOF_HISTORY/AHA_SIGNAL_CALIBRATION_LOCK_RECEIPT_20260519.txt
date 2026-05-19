@@ -1,0 +1,19 @@
+AHA SIGNAL CALIBRATION LOCK RECEIPT
+
+Saved:
+BRAIN_LEARNING\AHA_SIGNAL_CALIBRATION_RULE_20260519.md
+HOUSE_WORK\WORK_SHED\GEAR_RACK\SOFT_SUIT_CANDIDATES\AHA_ORIGIN_TAGGING_BITSTRING_CANDIDATE_20260519.md
+
+Boundary:
+Support behavior rule plus Soft Suit candidate only.
+No doctrine install.
+No active guide rewrite.
+No full bitstring system installed.
+
+Proof:
+- Rule exists: True
+- Candidate exists: True
+- Status exists: True
+
+Current next move:
+Use the Aha Origin Tagging candidate during bitstring second-pass sorting.
