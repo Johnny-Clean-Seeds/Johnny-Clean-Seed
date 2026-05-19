@@ -2090,3 +2090,25 @@ Boundary:
 Next move:
 - Review the nine root CHECK_*.ps1 scripts as a read-only checker batch.
 - Do not execute them yet.
+
+## 2026-05-19 - Moved ignored files and inspected tool candidates
+
+Starting base: main @ 51f415d.
+
+Saved:
+- HOUSE_WORK/WORK_SHED/INCOMING_FILE_PARKING/MOVED_IGNORED_FILES_20260519_20260519_162022
+- HOUSE_WORK/WORK_SHED/INCOMING_FILE_PARKING/MOVED_IGNORED_FILES_INSPECTION_REPORT_20260519_20260519_162022.md
+- PROOF_HISTORY/MOVED_IGNORED_FILES_INSPECTION_RECEIPT_20260519_20260519_162022.txt
+
+Result:
+- Moved ignored / PC-only files into Incoming File Parking lanes.
+- Inspected PowerShell tool candidates as text only.
+- No tool candidates executed.
+- No ignored file deleted as trash.
+
+Counts:
+- Ignored files moved: 29
+- Tool candidates inspected as text: 8
+
+Next move:
+- Review the inspection report and decide which parked items are PC-only, remote-brain candidates, proof candidates, backup holds, or archive/delete review.

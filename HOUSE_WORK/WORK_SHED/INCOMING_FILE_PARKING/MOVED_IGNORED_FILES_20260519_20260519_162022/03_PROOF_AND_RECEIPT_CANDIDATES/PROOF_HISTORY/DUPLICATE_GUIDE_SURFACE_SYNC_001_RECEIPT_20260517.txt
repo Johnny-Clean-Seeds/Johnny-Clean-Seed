@@ -1,0 +1,32 @@
+DUPLICATE_GUIDE_SURFACE_SYNC_001
+Date: 2026-05-17
+Status: INSTALLED / NEEDS CHECK
+Action: Replace root duplicate guide content with pointer files.
+Authority: ACTIVE_GUIDES remains the active guide packet.
+No active guide files edited.
+No deletion performed.
+Backup folder:
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\PROOF_HISTORY\BACKUP_DUPLICATE_GUIDE_SURFACE_SYNC_001_20260517_182902
+
+REASON
+
+The previous public house map check proved root guide copies do not hash-match ACTIVE_GUIDES copies.
+That creates a duplicate authority surface.
+Correct repair is to remove duplicate doctrine content from root without deleting the root entry points.
+
+METHOD
+
+Root files become pointer files.
+ACTIVE_GUIDES keeps the full active guide content.
+Root no longer competes with ACTIVE_GUIDES.
+
+BEFORE HASHES
+
+
+Root                           Active                                       RootHashBefore
+----                           ------                                       --------------                              
+README_START_HERE.txt          ACTIVE_GUIDES\README_START_HERE.txt          0A3C2B71977995165A7FB5B008FB8268C71F5B59151…
+CLEAN_SEED_WRAP_GUIDE.txt      ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt      479F3555D49194D815C3DED765954DC878672299DB5…
+CLEAN_SEED_ALIGNMENT_CHECK.txt ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt 871C519F4B3EF841DF5B99458F67A16648C4F3C7CF2…
+
+

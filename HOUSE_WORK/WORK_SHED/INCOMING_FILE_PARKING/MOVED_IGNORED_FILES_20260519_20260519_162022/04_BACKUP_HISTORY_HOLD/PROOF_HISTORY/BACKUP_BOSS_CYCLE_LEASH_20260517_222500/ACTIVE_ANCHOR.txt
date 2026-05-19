@@ -1,0 +1,22 @@
+ACTIVE BALL:
+Fix AGENTS.md / ACTIVE_ANCHOR partner sync so local workers and future assistants read the current-ball room correctly.
+
+CURRENT POSITION:
+main @ a3eca0f before this fix.
+
+CURRENT RULE:
+CURRENT_TRUTH_INDEX.txt orients the house and source routing.
+ACTIVE_ANCHOR.txt carries the current active ball, next allowed move, and blocked moves.
+ACTIVE_GUIDES carry active behavior.
+DECISION_NOTES carry assistant judgment notes.
+PROOF_HISTORY carries receipts and evidence.
+
+NEXT ALLOWED MOVE:
+Patch AGENTS.md so it recognizes ACTIVE_ANCHOR.txt in the source-of-truth order, then save proof and lock the result.
+
+BLOCKED:
+- Do not rewrite the core model.
+- Do not treat old anchors as current commands.
+- Do not treat proof-history as active doctrine by proximity.
+- Do not make broad cleanup moves.
+- Do not commit without proof.

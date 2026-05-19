@@ -1,0 +1,27 @@
+MOVED IGNORED FILES INSPECTION RECEIPT
+
+Starting base:
+main @ 51f415d
+51f415d659dea683c93d499c5c46d7e691dedcdb
+
+Moved ignored file count:
+29
+
+Tool candidates inspected as text:
+8
+
+Move root:
+HOUSE_WORK/WORK_SHED/INCOMING_FILE_PARKING/MOVED_IGNORED_FILES_20260519_20260519_162022
+
+Report:
+HOUSE_WORK/WORK_SHED/INCOMING_FILE_PARKING/MOVED_IGNORED_FILES_INSPECTION_REPORT_20260519_20260519_162022.md
+
+Boundary:
+No tool candidates executed.
+No broad cleanup.
+No deletion-as-trash.
+No doctrine install.
+No active guide rewrite.
+
+Receipt note:
+Final save status must be judged by post-save git/remote audit.

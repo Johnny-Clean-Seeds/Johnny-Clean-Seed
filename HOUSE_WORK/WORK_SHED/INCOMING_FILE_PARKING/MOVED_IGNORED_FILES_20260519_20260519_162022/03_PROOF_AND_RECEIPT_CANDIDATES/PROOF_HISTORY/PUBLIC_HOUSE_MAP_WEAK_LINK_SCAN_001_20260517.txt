@@ -1,0 +1,77 @@
+PUBLIC_HOUSE_MAP_WEAK_LINK_SCAN_001
+Date: 2026-05-17
+Status: PROOF-HISTORY-ONLY AUDIT
+Scope: Public GitHub house readability and authority-surface risk.
+Action type: Inspect -> judge -> recommend -> add router only.
+No deletion authorized. No cleanup authorized. No active doctrine rewrite authorized.
+
+ACTIVE BALL
+
+Fix the weakest visible public-repo link without disturbing the model.
+
+OBSERVED PUBLIC HOUSE
+
+The public root exposes:
+- ACTIVE_GUIDES/
+- PROOF_HISTORY/
+- PUBLIC_NOTES/
+- Shed/
+- TEST_LANES/
+- AGENTS.md
+- CURRENT_TRUTH_INDEX.txt
+- Root copies of README_START_HERE.txt, CLEAN_SEED_WRAP_GUIDE.txt, and CLEAN_SEED_ALIGNMENT_CHECK.txt
+
+WHAT LOOKS GOOD
+
+The house has recognizable rooms.
+ACTIVE_GUIDES contains the intended three-file packet.
+AGENTS.md clearly limits Codex/local file-lane authority.
+CURRENT_TRUTH_INDEX.txt records active guide folder, proof role, local bridge role, and installed updates.
+Proof-history discipline exists.
+
+WHAT DOES NOT LOOK GOOD
+
+1. Duplicate authority surface:
+Root guide copies appear beside ACTIVE_GUIDES copies. This creates public ambiguity unless labeled.
+
+2. Front-door gap:
+The public repo needs one unmistakable root router that says where to start and what not to treat as authority.
+
+3. Proof-history load:
+PROOF_HISTORY is doing its job but visually overwhelms the public house. It must be labeled evidence-only, not active doctrine by volume.
+
+4. Local/public boundary:
+CURRENT_TRUTH_INDEX.txt references local Windows paths. That is acceptable for workflow truth, but public readers need a clear warning that those paths are local facts, not public commands.
+
+5. Source-ore risk:
+PUBLIC_NOTES, TEST_LANES, and Shed contain useful material but must be visibly non-authority by default.
+
+WEAKEST LINK VERDICT
+
+Weakest link: public orientation and duplicate authority surfaces.
+Not weakest: active doctrine, proof law, or authority philosophy.
+
+RECOMMENDED FIX
+
+Install a small root README.md as the GitHub front door.
+Install PUBLIC_HOUSE_MAP.txt as a stable public room map.
+Keep this report in PROOF_HISTORY.
+Do not delete, move, rename, overwrite, reshuffle, or rewrite active guides.
+Run a mechanical check after install.
+
+EXPECTED PASS EVIDENCE
+
+After install:
+- README.md exists at repo root.
+- PUBLIC_HOUSE_MAP.txt exists at repo root.
+- PROOF_HISTORY/PUBLIC_HOUSE_MAP_WEAK_LINK_SCAN_001_20260517.txt exists.
+- README.md contains ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, PROOF_HISTORY, PUBLIC_NOTES, TEST_LANES, Shed, and AGENTS.md role labels.
+- PUBLIC_HOUSE_MAP.txt contains duplicate surface rule.
+- No active guide file content changed.
+
+FOLLOW-UP CHECK RESULT
+
+Initial mechanical check confirmed that root guide copies do not hash-match ACTIVE_GUIDES copies.
+This confirms the duplicate authority-surface risk.
+Correct handling: do not overwrite or delete guide copies during this fix.
+Correct verdict: PASS WITH GUARDRAILS when the router labels ACTIVE_GUIDES as authority and root guide copies as non-authority reference surfaces.
