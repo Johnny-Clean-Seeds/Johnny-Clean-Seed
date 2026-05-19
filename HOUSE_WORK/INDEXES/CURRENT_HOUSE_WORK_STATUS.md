@@ -1338,3 +1338,25 @@ Next allowed move: bring in second agent to critique/adopt/park/reject concepts,
 2026-05-19 - Reviewed Compression Burden Test after two live uses. Verdict: PASS AS SOFT SUIT, HOLD FOR MORE VARIED TESTING. No Hard Suit promotion, no doctrine install, no active guide rewrite.
 
 2026-05-19 - Added bitstring second-pass candidate sorting review. Selected next candidate: Provenance / Chain-of-Custody Thread Lens. Boundary: sorting only, no doctrine, no active guide rewrite, no full bitstring system.
+
+## 2026-05-19 - Provenance / Chain-of-Custody Thread Lens Soft Suit first use
+
+Starting position: main @ 907125b.
+
+Saved:
+- Provenance / Chain-of-Custody Thread Lens as a Soft Suit candidate card.
+- First live test against the bitstring second-pass sorting review chain.
+
+Boundary:
+- Soft Suit only.
+- No doctrine install.
+- No active guide rewrite.
+- No full bitstring system.
+- No runtime automation.
+- No promotion.
+
+Verdict:
+- PASS AS FIRST LIVE USE.
+
+Next move:
+- Keep testing this lens against a different kind of chain before any promotion decision.
