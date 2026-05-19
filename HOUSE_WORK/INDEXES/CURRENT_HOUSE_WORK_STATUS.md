@@ -2524,3 +2524,30 @@ Boundary:
 
 Next move:
 - Choose the next active boss from synced queue/status.
+
+## 2026-05-19 - Whole-House Review handoff boss activation
+
+Base: main @ 9af3ab9.
+
+Activated:
+- Q-20260519-009 - Whole-House Review / outside-review handoff.
+
+Saved:
+- PROOF_HISTORY\WHOLE_HOUSE_REVIEW_HANDOFF_BOSS_ACTIVATION_RECEIPT_20260519.txt
+
+Reason:
+- No active queue item remained after mule-leftover custody closeout.
+- Incoming/custody/checker-candidate lanes are closed enough to support a cleaner outside review.
+- Q-20260519-008 remains parked because it is conditional.
+
+Boundary:
+- Queue/status activation only.
+- No outside report sent yet.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No checker promotion.
+- No tool installation.
+- No CURRENT_TRUTH_INDEX change.
+
+Next move:
+- Build or inspect the outside-review handoff target.

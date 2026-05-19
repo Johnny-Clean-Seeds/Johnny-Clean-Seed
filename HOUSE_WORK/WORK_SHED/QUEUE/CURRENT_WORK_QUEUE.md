@@ -7,7 +7,7 @@ Authority: Work Shed queue / attention control.
 ## Re-entry Readback
 
 Current base: verify with git before action. Current closed lane position: main @ 56fb238.
-Active item: None selected after mule-leftover custody closeout.
+Active item: Q-20260519-009 - Whole-House Review / outside-review handoff.
 Hot guard: point-of-work readback before any PowerShell/git task.
 Do not touch yet: automation, broad cleanup, deleting incoming material, full dashboard, full TODO system, promoting checker candidates, or pulling older source-ore back without a reason.
 
@@ -27,7 +27,7 @@ If read-only output is visible and the next safe action is clear, act directly.
 | Q-20260519-010 | DONE | 1 | Tool Candidate Safety | Incoming File Parking / Tool Candidates | Review/repair Daily House-Walk Digest gate candidate as text | It was the only inspected candidate with write behavior and native git calls. | Repaired script shape as text before execution or remote-brain trust. | Parser check, risk-word scan, and commit contents. | Q-20260519-006. | Script was not executed. Force-add only this related repaired script with this commit. |
 | Q-20260519-011 | DONE | 2 | Incoming File Control | Incoming File Parking / Tool Candidates / Gear Rack Review | Review root CHECK_*.ps1 scripts as read-only checker batch | Root checker candidates were inspected, repaired where stale, run through the upgraded saved runner, closed as PASS AS CHECKER-CANDIDATE BATCH, then promotion-reviewed. | Closed; keep parked as tested checker-candidate batch / Gear Rack review object. | Runner pass receipt, checker batch close receipt, promotion criteria review, mule leftover custody closeout. | Q-20260519-010. | Do not promote yet. Do not install as active tools without later repeated-use proof. |
 | Q-20260519-008 | PARKED | 3 | Adapt/Adopt Learning | Work Shed / Sorting Bench | Use Adapt/Adopt only when it improves next action | Outside reports and critiques are source material, not authority. | Pull only the piece that changes the active next move; park the rest. | Behavior changed at point of work. | A real report or critique affects active work. | Do not make the user care about an outside report just because it exists. |
-| Q-20260519-009 | PARKED | 4 | Whole-House Review | Outside-review intake | Full-house outside-review handoff | Useful later after custody/awareness/incoming lanes mature. | Keep parked until current bridge/incoming work stabilizes. | Better current state for reviewer. | Complete active queue items first. | Do not send prematurely. |
+| Q-20260519-009 | ACTIVE | 4 | Whole-House Review | Outside-review intake | Full-house outside-review handoff | Custody, incoming, and checker-candidate lanes are now closed enough to support a cleaner outside review. | Build or inspect the handoff target before sending; keep it bounded to current state and known open questions. | Handoff prompt/file names current state, boundaries, what to review, what not to change, and output lane. | Q-20260519-011 closed; mule-leftover custody lane closed. | Do not let the outside reviewer edit doctrine, promote tools, or treat source reports as authority. |
 
 ## Done Items
 
@@ -67,4 +67,5 @@ Outside report is not command.
 Classification is not promotion.
 
 Visible read-only output may be enough to continue when the next step is safe and independently checkable.
+
 
