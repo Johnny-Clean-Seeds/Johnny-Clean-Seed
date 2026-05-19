@@ -2603,3 +2603,31 @@ Boundary:
 
 Next move:
 - Inspect the repaired handoff and decide whether to send it.
+
+## 2026-05-19 - Awareness / prior-mistake predictive learning capture
+
+Base: main @ 12de5c8.
+
+Saved:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\AWARENESS_PRIOR_MISTAKE_PREDICTIVE_LEARNING_DISSECT_CAPTURE_20260519.md
+- HOUSE_WORK\WORK_SHED\AGENT_HANDOFFS\PREDICTIVE_LEARNING_AND_MULE_FLOW_CRITIQUE_HANDOFF_20260519.md
+- PROOF_HISTORY\AWARENESS_PRIOR_MISTAKE_PREDICTIVE_LEARNING_CAPTURE_RECEIPT_20260519.txt
+
+Purpose:
+- Captured dense corrective idea stream through Dissect Rule.
+- Preserved faster-safe-route correction.
+- Preserved awareness plus prior-mistake learning concept.
+- Preserved future-prediction method candidate.
+- Preserved mule-specific dump-folder / outside-tool flow.
+- Created bounded mule critique handoff.
+
+Boundary:
+- Capture and handoff only.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX change.
+- No tool promotion.
+- No outside report received yet.
+
+Next move:
+- Inspect the capture and handoff, then decide whether to send the handoff to the mule.

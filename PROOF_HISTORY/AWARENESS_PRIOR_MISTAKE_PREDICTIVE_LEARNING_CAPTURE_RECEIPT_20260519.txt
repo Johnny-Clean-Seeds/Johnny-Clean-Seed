@@ -1,0 +1,25 @@
+AWARENESS PRIOR-MISTAKE PREDICTIVE LEARNING CAPTURE RECEIPT
+
+Date:
+2026-05-19
+
+Base:
+main @ 12de5c8
+
+Saved:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\AWARENESS_PRIOR_MISTAKE_PREDICTIVE_LEARNING_DISSECT_CAPTURE_20260519.md
+HOUSE_WORK\WORK_SHED\AGENT_HANDOFFS\PREDICTIVE_LEARNING_AND_MULE_FLOW_CRITIQUE_HANDOFF_20260519.md
+
+Purpose:
+Dissect and preserve the user's corrective idea stream about faster safe alternatives, assistant awareness, prior-mistake learning, future prediction, mule dump-folder flow, and big issue/mule critique packaging.
+
+Boundary:
+Capture and handoff only.
+No doctrine rewrite.
+No active guide rewrite.
+No CURRENT_TRUTH_INDEX change.
+No tool promotion.
+No outside report received yet.
+
+Next move:
+Inspect the new capture and handoff, then decide whether to send the handoff to the mule.
