@@ -1688,3 +1688,33 @@ Verdict:
 
 Next move:
 - Build a small fog-alarm test that checks whether the alarm catches one real fog condition and changes assistant behavior.
+
+## 2026-05-19 - House-Wide Fog Alarm small behavior test
+
+Starting position: main @ ce749d4.
+
+Saved:
+- Small behavior test for the House-Wide Fog Alarm candidate.
+
+Object tested:
+- BRAIN_LEARNING/HOUSE_WIDE_FOG_ALARM_CANDIDATE_RULE_20260519.md
+
+Test file:
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/HOUSE_WIDE_FOG_ALARM_SMALL_BEHAVIOR_TEST_20260519.md
+
+Boundary:
+- Test only.
+- No doctrine install.
+- No active guide rewrite.
+- No runtime automation.
+- No promotion.
+- Existing alarms not replaced.
+
+Verdict:
+- PASS AS SMALL BEHAVIOR TEST.
+- The alarm caught pretty-alarm fog and changed behavior by blocking promotion and forcing proof before installation.
+
+Next move:
+- Hold as tested candidate.
+- Use the fog alarm when a real fog event appears during work.
+- Do not force more fog tests unless a new fog condition appears.
