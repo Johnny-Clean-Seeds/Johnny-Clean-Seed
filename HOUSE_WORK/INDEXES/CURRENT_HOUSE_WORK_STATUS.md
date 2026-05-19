@@ -1206,3 +1206,45 @@ Anchor may trail safely if final response states current commit, saved files, an
 Receipt:
 
 PROOF_HISTORY/CREATIVE_AUTONOMY_LAB_SUNO_SOFT_TOUCH_STUDIO_CANDIDATE_PROOF_PHASE_RECEIPT_20260518.txt
+
+## Think Before Work / Intake Alarm Gate
+
+Status:
+
+PROOF PHASE PASSED - SAVE PHASE NEEDED
+
+Meaning:
+
+A base behavior gate was created to repair the intake failure stack.
+
+The gate says the assistant must not jump directly from user message to work.
+
+The active flow is:
+
+receive -> pause -> classify -> scan alarms -> sort departments -> rank attention -> choose route -> act/park
+
+This gate connects existing rules so they can fire:
+- Deep Clean threshold
+- Rule failed to fire
+- Problem-To-Growth
+- Missing capture
+- Ghost-boss risk
+- Neighbor conflict
+- No Random Moves
+- User-state / tempo signals
+
+No active guide was rewritten.
+
+No doctrine was promoted outside this behavior gate.
+
+No creative studio object was built.
+
+Sync decision:
+
+STATUS_ENOUGH_FOR_INTAKE_ALARM_GATE_SAVE.
+
+Anchor may trail safely if final response states current commit, saved files, and clean status.
+
+Receipt:
+
+PROOF_HISTORY/THINK_BEFORE_WORK_INTAKE_ALARM_GATE_PROOF_PHASE_RECEIPT_20260518.txt
