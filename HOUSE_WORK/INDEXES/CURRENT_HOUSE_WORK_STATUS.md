@@ -1547,3 +1547,29 @@ Intake verdict:
 
 Next move:
 - Build a hostile/broken-chain test to prove whether the current lens can fail cleanly.
+
+## 2026-05-19 - Provenance Lens hostile broken-chain test
+
+Starting position: main @ 5b14774.
+
+Saved:
+- Hostile broken-chain test for the current Provenance / Chain-of-Custody Thread Lens.
+
+Test object:
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/PROVENANCE_CHAIN_OF_CUSTODY_THREAD_LENS_HOSTILE_BROKEN_CHAIN_TEST_20260519.md
+
+Boundary:
+- Test only.
+- No doctrine install.
+- No active guide rewrite.
+- No runtime automation.
+- No promotion.
+- No lens revision.
+- No outside research adoption.
+
+Verdict:
+- PASS AS HOSTILE TEST.
+- The current lens failed the deliberately broken chain cleanly by treating it as unanchored, conflicted, parked, and blocked from promotion.
+
+Next move:
+- Prepare a narrow Soft Suit revision candidate only after this failure behavior is saved.
