@@ -2251,3 +2251,22 @@ Boundary:
 
 Next move:
 - Rerun CHECK_PUBLIC_FORMAT_AND_WORD_KEYS_001.ps1.
+
+## 2026-05-19 - Public format / word keys checker pass
+
+Base: main @ f2bd95a.
+
+Ran:
+- CHECK_PUBLIC_FORMAT_AND_WORD_KEYS_001.ps1
+
+Verdict:
+- PASS after stale expectation and backtick needle repair.
+
+Boundary:
+- Candidate checker run receipt only.
+- No tool promotion.
+- No doctrine rewrite.
+- No active guide rewrite.
+
+Next move:
+- Continue remaining parked checker candidates one at a time.

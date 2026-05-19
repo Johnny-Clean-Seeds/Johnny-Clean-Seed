@@ -1,0 +1,17 @@
+PUBLIC FORMAT / WORD KEYS CHECKER PASS RECEIPT
+
+Base:
+main @ f2bd95a
+
+Ran:
+- HOUSE_WORK\WORK_SHED\INCOMING_FILE_PARKING\MOVED_IGNORED_FILES_20260519_20260519_162022\02_TOOL_CANDIDATES\CHECK_PUBLIC_FORMAT_AND_WORD_KEYS_001.ps1
+
+Verdict:
+- PASS
+
+Boundary:
+- Candidate checker run receipt only.
+- No tool promotion.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX change.
