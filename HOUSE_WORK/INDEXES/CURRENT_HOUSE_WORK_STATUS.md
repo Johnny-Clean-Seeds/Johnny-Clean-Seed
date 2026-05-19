@@ -1662,3 +1662,29 @@ Next move:
 - Hold state.
 - Use the narrow revision candidate on the next real custody-risk chain that appears.
 - If no real custody-risk chain appears, return to broader candidate path instead of forcing more provenance testing.
+
+## 2026-05-19 - House-Wide Fog Alarm candidate
+
+Starting position: main @ 38ac6a4.
+
+Saved:
+- House-Wide Fog Alarm candidate rule.
+- Work Shed capture for the user's fog alarm idea.
+
+Files:
+- BRAIN_LEARNING/HOUSE_WIDE_FOG_ALARM_CANDIDATE_RULE_20260519.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/HOUSE_WIDE_FOG_ALARM_CANDIDATE_CAPTURE_20260519.md
+
+Boundary:
+- Candidate support rule only.
+- No doctrine install.
+- No active guide rewrite.
+- No runtime automation.
+- No promotion.
+- Existing alarms not replaced.
+
+Verdict:
+- PASS AS CANDIDATE CAPTURE.
+
+Next move:
+- Build a small fog-alarm test that checks whether the alarm catches one real fog condition and changes assistant behavior.
