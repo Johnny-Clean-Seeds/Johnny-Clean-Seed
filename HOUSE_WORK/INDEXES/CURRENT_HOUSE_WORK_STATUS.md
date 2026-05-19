@@ -1752,3 +1752,35 @@ Digest rule:
 
 Next move:
 - Continue with pending deep scan report when ready.
+
+## 2026-05-19 - Daily digest no-timer false-pass repair
+
+Starting position: main @ 34bccd9.
+
+Problem:
+- Commit 34bccd9 claimed no-timer daily house digest gate.
+- Expected daily digest gate files were missing.
+- Latest commit instead showed status modification plus HOUSE_WIDE_DEEP_SCAN_RECEIPT_20260519.txt.
+
+Saved repair:
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/DAILY_HOUSE_WALK_DIGEST_NO_TIMER_FALSE_PASS_REPAIR_20260519.md
+- BRAIN_LEARNING/DAILY_HOUSE_WALK_DIGEST_NO_TIMER_BRAIN_GATE_20260519.md
+- HOUSE_WORK/TOOLS/Invoke-DailyHouseWalkDigestGate.ps1
+- HOUSE_WORK/DAILY_LOGS/README_DAILY_HOUSE_WALK_DIGESTS_20260519.md
+- HOUSE_WORK/DAILY_LOGS/HOUSE_WALK_DIGESTS/DAILY_HOUSE_WALK_DIGEST_20260519.md
+
+Boundary:
+- Forward repair only.
+- No timer.
+- No scheduled reminder.
+- No doctrine install.
+- No active guide rewrite.
+- No runtime automation.
+- No proof/status replacement.
+- No history rewrite.
+
+Verdict:
+- Pending receipt/proof in this repair commit.
+
+Next move:
+- Return to pending deep scan report after this repair is clean.
