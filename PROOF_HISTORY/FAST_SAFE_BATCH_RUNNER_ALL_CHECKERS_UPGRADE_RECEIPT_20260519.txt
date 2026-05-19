@@ -1,0 +1,23 @@
+FAST SAFE BATCH RUNNER ALL-CHECKERS UPGRADE RECEIPT
+
+Base:
+main @ c6531f2
+
+Upgraded:
+HOUSE_WORK\WORK_SHED\INCOMING_FILE_PARKING\MOVED_IGNORED_FILES_20260519_20260519_162022\02_TOOL_CANDIDATES\RUN_FAST_SAFE_CHECKER_BATCH_001.ps1
+
+Change:
+- Runner now discovers every CHECK_*.ps1 in the tool candidate folder.
+- This avoids manually editing the checker list when more parked checker candidates exist.
+- RUN_FAST_SAFE_CHECKER_BATCH_001.ps1 is excluded because it does not match CHECK_*.ps1.
+
+Boundary:
+- Runner upgrade only.
+- No checker execution in this save block.
+- No tool promotion.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX change.
+
+Next move:
+- Run upgraded runner.

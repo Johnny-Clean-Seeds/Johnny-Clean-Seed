@@ -3,13 +3,7 @@ $ErrorActionPreference = "Continue"
 $RepoRoot = (Get-Location).Path
 $ToolDir = "HOUSE_WORK\WORK_SHED\INCOMING_FILE_PARKING\MOVED_IGNORED_FILES_20260519_20260519_162022\02_TOOL_CANDIDATES"
 
-$Checkers = @(
-    "CHECK_ASSISTANT_HOME_MODEL_CARD_001.ps1",
-    "CHECK_ASSISTANT_SUIT_OPERATING_SYSTEM_001.ps1",
-    "CHECK_BRAIN_PROGRESS_LOCK_001.ps1",
-    "CHECK_DUPLICATE_GUIDE_SURFACE_SYNC_001.ps1",
-    "CHECK_FRESH_PUBLIC_ENTRY_TEST_001.ps1"
-)
+$Checkers = Get-ChildItem -Path $ToolDir -Filter "CHECK_*.ps1" | Sort-Object Name | Select-Object -ExpandProperty Name
 
 Write-Host ""
 Write-Host "FAST SAFE CHECKER BATCH 001"
@@ -72,3 +66,4 @@ if ($Failed.Count -eq 0) {
     Write-Host "BATCH VERDICT: FAIL"
     exit 1
 }
+

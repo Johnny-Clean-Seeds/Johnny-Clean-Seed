@@ -2384,3 +2384,24 @@ Boundary:
 
 Next move:
 - Continue remaining parked checker candidates using saved runner pattern, or review whether these five are enough for the current batch.
+
+## 2026-05-19 - Fast-safe batch runner all-checkers upgrade
+
+Base: main @ c6531f2.
+
+Upgraded:
+- HOUSE_WORK\WORK_SHED\INCOMING_FILE_PARKING\MOVED_IGNORED_FILES_20260519_20260519_162022\02_TOOL_CANDIDATES\RUN_FAST_SAFE_CHECKER_BATCH_001.ps1
+
+Change:
+- Runner now discovers every CHECK_*.ps1 in the tool candidate folder.
+- Runner excludes itself by using CHECK_*.ps1.
+
+Boundary:
+- Runner upgrade only.
+- No checker execution in this save block.
+- No tool promotion.
+- No doctrine rewrite.
+- No active guide rewrite.
+
+Next move:
+- Run upgraded runner.
