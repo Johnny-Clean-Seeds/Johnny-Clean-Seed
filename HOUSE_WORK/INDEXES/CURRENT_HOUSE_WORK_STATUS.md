@@ -2170,3 +2170,23 @@ Boundary:
 
 Next move:
 - Run collision-watch checkers in safe order.
+
+## 2026-05-19 - Public house map checker stale expectation repair
+
+Base: main @ 74659d1.
+
+Patched:
+- HOUSE_WORK\WORK_SHED\INCOMING_FILE_PARKING\MOVED_IGNORED_FILES_20260519_20260519_162022\02_TOOL_CANDIDATES\CHECK_PUBLIC_HOUSE_MAP_FIX_001.ps1
+
+Result:
+- Old proof report requirement changed to warning.
+- Pointer/reference wording now checked in PUBLIC_HOUSE_MAP.txt instead of README.md.
+- DUPLICATE SURFACE RULE expectation replaced with ROOT POINTER RULE.
+
+Boundary:
+- No checker execution in this save block.
+- No active guide rewrite.
+- No doctrine rewrite.
+
+Next move:
+- Rerun CHECK_PUBLIC_HOUSE_MAP_FIX_001.ps1.

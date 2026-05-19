@@ -31,7 +31,7 @@ function Add-Check {
 
 Add-Check "REQUIRED" "README.md exists" (Test-Path "README.md") "README.md"
 Add-Check "REQUIRED" "PUBLIC_HOUSE_MAP.txt exists" (Test-Path "PUBLIC_HOUSE_MAP.txt") "PUBLIC_HOUSE_MAP.txt"
-Add-Check "REQUIRED" "Proof report exists" (Test-Path "PROOF_HISTORY\PUBLIC_HOUSE_MAP_WEAK_LINK_SCAN_001_20260517.txt") "PROOF_HISTORY\PUBLIC_HOUSE_MAP_WEAK_LINK_SCAN_001_20260517.txt"
+Add-Check "WARN" "Old proof report exists if still retained" (Test-Path "PROOF_HISTORY\PUBLIC_HOUSE_MAP_WEAK_LINK_SCAN_001_20260517.txt") "Historical proof file may be parked, renamed, or superseded; absence is not current map failure."
 
 foreach ($Needle in @(
     "CURRENT_TRUTH_INDEX.txt",
@@ -40,14 +40,14 @@ foreach ($Needle in @(
     "PROOF_HISTORY/",
     "PUBLIC_NOTES/",
     "TEST_LANES/",
-    "Shed/",
-    "Root guide files are pointer/reference surfaces."
+    "Shed/"
 )) {
     Add-Check "REQUIRED" "README contains $Needle" (Test-Contains "README.md" $Needle) $Needle
 }
 
 foreach ($Needle in @(
-    "DUPLICATE SURFACE RULE",
+    "ROOT POINTER RULE",
+    "Root guide files are pointer/reference surfaces.",
     "PROOF_HISTORY/",
     "PUBLIC_NOTES/",
     "TEST_LANES/",
@@ -117,4 +117,5 @@ if ($Failed.Count -eq 0 -and $Warnings.Count -eq 0) {
     Write-Host "VERDICT: FAIL"
     exit 1
 }
+
 

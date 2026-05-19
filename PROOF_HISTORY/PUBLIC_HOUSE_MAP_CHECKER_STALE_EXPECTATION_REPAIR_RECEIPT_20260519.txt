@@ -1,0 +1,19 @@
+PUBLIC HOUSE MAP CHECKER STALE EXPECTATION REPAIR RECEIPT
+
+Base:
+74659d1 Resolve checker collision wording
+
+Patched:
+HOUSE_WORK\WORK_SHED\INCOMING_FILE_PARKING\MOVED_IGNORED_FILES_20260519_20260519_162022\02_TOOL_CANDIDATES\CHECK_PUBLIC_HOUSE_MAP_FIX_001.ps1
+
+Repair:
+- Old proof report requirement changed from REQUIRED to WARN.
+- Pointer/reference wording no longer expected in README.md.
+- Pointer/reference wording now expected in PUBLIC_HOUSE_MAP.txt.
+- DUPLICATE SURFACE RULE expectation replaced with ROOT POINTER RULE.
+
+Boundary:
+No checker execution in this save block.
+No active guide rewrite.
+No doctrine rewrite.
+No CURRENT_TRUTH_INDEX change.
