@@ -1063,3 +1063,31 @@ Anchor may trail safely if final response states current commit, saved files, an
 Receipt:
 
 PROOF_HISTORY/POST_OBSERVER_RULE_DEEP_SCAN_PROOF_PHASE_RECEIPT_20260518.txt
+
+## First-Contact Mess Test Template
+
+Status:
+
+PROOF PHASE PASSED - SAVE PHASE NEEDED
+
+Meaning:
+
+A support-only template was created for first-contact mess testing.
+
+The template includes the core care principle:
+
+No one is dumb. The test asks whether the object earned enough care.
+
+No active guide was rewritten.
+
+No doctrine was promoted.
+
+Sync decision:
+
+STATUS_ENOUGH_FOR_SUPPORT_TEMPLATE_SAVE.
+
+Anchor may trail safely if final response states current commit, saved files, and clean status.
+
+Receipt:
+
+PROOF_HISTORY/FIRST_CONTACT_MESS_TEST_TEMPLATE_PROOF_PHASE_RECEIPT_20260518.txt
