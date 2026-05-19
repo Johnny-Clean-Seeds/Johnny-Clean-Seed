@@ -1,0 +1,24 @@
+CHECKER CANDIDATE LABEL REVIEW RECEIPT
+
+Starting base:
+main @ 3518339
+3518339cdba9ac6ee389c188bb2c6dc49f5eb389
+
+Placement fix:
+CHECK_PUBLIC_FORMAT_AND_WORD_KEYS_001.ps1 moved from private/security hold to tool candidates.
+
+Checker candidates after cleanup:
+9
+
+Collision marked:
+CHECK_HOME_LANGUAGE_COEXISTENCE_001.ps1
+CHECK_PUBLIC_HOUSE_MAP_FIX_001.ps1
+
+Boundary:
+No checker executed.
+No doctrine rewrite.
+No active guide rewrite.
+Label/placement cleanup only.
+
+Report:
+HOUSE_WORK/WORK_SHED/INCOMING_FILE_PARKING/CHECKER_CANDIDATE_LABEL_REVIEW_20260519.md

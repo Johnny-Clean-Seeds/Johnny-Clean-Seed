@@ -2112,3 +2112,21 @@ Counts:
 
 Next move:
 - Review the inspection report and decide which parked items are PC-only, remote-brain candidates, proof candidates, backup holds, or archive/delete review.
+
+## 2026-05-19 - Checker candidate label review
+
+Starting base: main @ 3518339.
+
+Saved:
+- HOUSE_WORK/WORK_SHED/INCOMING_FILE_PARKING/CHECKER_CANDIDATE_LABEL_REVIEW_20260519.md
+- PROOF_HISTORY/CHECKER_CANDIDATE_LABEL_REVIEW_RECEIPT_20260519.txt
+- moved CHECK_PUBLIC_FORMAT_AND_WORD_KEYS_001.ps1 into 02_TOOL_CANDIDATES
+
+Result:
+- Checker candidates reviewed as text.
+- No checker executed.
+- Word-keys checker relabeled from private/security false-positive to tool candidate.
+- HOME_LANGUAGE and PUBLIC_HOUSE_MAP checkers marked as checker-collision watch items.
+
+Next move:
+- Resolve checker-collision wording before executing either collision watcher.
