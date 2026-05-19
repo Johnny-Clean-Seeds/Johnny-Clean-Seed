@@ -1384,3 +1384,28 @@ Verdict:
 
 Next move:
 - Review the two lens uses together before any promotion or guide integration decision.
+
+## 2026-05-19 - Provenance / Chain-of-Custody Thread Lens two-use review
+
+Starting position: main @ 066bb38.
+
+Saved:
+- Two-use review for Provenance / Chain-of-Custody Thread Lens.
+- Reviewed first use against Work Shed sorting-review chain.
+- Reviewed second use against behavior-rule / BRAIN_LEARNING chain.
+
+Boundary:
+- Soft Suit only.
+- No doctrine install.
+- No active guide rewrite.
+- No full bitstring system.
+- No runtime automation.
+- No promotion.
+
+Verdict:
+- PASS AS SOFT SUIT, HOLD FOR MORE VARIED TESTING.
+
+Next move:
+- Keep the lens in Soft Suit.
+- Use it only when real custody risk appears.
+- Do not promote without a separate promotion review.
