@@ -1517,3 +1517,33 @@ Next move:
 - Wait for the mule report.
 - Freeze it as received.
 - Sort it through the intake dock before any adoption, revision, rejection, or promotion-review decision.
+
+## 2026-05-19 - Provenance Lens mule report intake
+
+Starting position: main @ 1d436c4.
+
+Saved:
+- Mule Deep Slam report frozen as received.
+- Intake summary created through the Mule Return Intake Dock.
+
+Raw report:
+- HOUSE_WORK/WORK_SHED/AGENT_OUTPUTS/PROVENANCE_LENS_MULE_DEEP_SLAM_REPORT_AS_RECEIVED_20260519.md
+- SHA256: 52A29C3AAD5ED0C5D7AED332CC8D26E3F4CE3D679DDCBA09C1886632D52D6608
+
+Intake summary:
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/PROVENANCE_LENS_MULE_DEEP_SLAM_REPORT_INTAKE_SUMMARY_20260519.md
+
+Boundary:
+- Intake/sorting only.
+- No doctrine install.
+- No active guide rewrite.
+- No runtime automation.
+- No promotion.
+- No lens revision yet.
+- Outside research remains source-ore/support until later routing and proof.
+
+Intake verdict:
+- PASS AS INTAKE.
+
+Next move:
+- Build a hostile/broken-chain test to prove whether the current lens can fail cleanly.
