@@ -1,0 +1,28 @@
+WHOLE-HOUSE OUTSIDE REVIEW HANDOFF DUMP FOLDER CONTRACT RECEIPT
+
+Date:
+2026-05-19
+
+Base:
+main @ 1008786
+
+Updated:
+HOUSE_WORK\WORK_SHED\AGENT_HANDOFFS\WHOLE_HOUSE_OUTSIDE_REVIEW_HANDOFF_20260519.md
+
+Repair:
+Added Mule Dump Folder Contract so outside reviewer/mule returns one ordered batch folder instead of scattered files.
+
+Required return folder:
+HOUSE_WORK\WORK_SHED\AGENT_OUTPUTS\WHOLE_HOUSE_REVIEW_RETURN_20260519_001
+
+Boundary:
+Handoff repair only.
+No outside report sent yet.
+No doctrine rewrite.
+No active guide rewrite.
+No checker promotion.
+No tool installation.
+No CURRENT_TRUTH_INDEX change.
+
+Next move:
+Inspect the repaired handoff and then decide whether to send it to the mule/outside reviewer.

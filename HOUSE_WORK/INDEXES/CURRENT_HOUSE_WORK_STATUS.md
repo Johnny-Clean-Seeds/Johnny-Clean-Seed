@@ -2576,3 +2576,30 @@ Boundary:
 
 Next move:
 - Inspect the handoff, then decide whether to send it to the outside reviewer/mule.
+
+## 2026-05-19 - Whole-House Outside Review handoff dump-folder contract repair
+
+Base: main @ 1008786.
+
+Updated:
+- HOUSE_WORK\WORK_SHED\AGENT_HANDOFFS\WHOLE_HOUSE_OUTSIDE_REVIEW_HANDOFF_20260519.md
+
+Receipt:
+- PROOF_HISTORY\WHOLE_HOUSE_OUTSIDE_REVIEW_HANDOFF_DUMP_FOLDER_CONTRACT_RECEIPT_20260519.txt
+
+Repair:
+- Added Mule Dump Folder Contract.
+- Reviewer/mule must return one ordered dump folder with MANIFEST.md first.
+- Output is treated as one custody object and tested as a suit/safe-bin batch before integration.
+
+Boundary:
+- Handoff repair only.
+- No outside report sent yet.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No checker promotion.
+- No tool installation.
+- No CURRENT_TRUTH_INDEX change.
+
+Next move:
+- Inspect the repaired handoff and decide whether to send it.

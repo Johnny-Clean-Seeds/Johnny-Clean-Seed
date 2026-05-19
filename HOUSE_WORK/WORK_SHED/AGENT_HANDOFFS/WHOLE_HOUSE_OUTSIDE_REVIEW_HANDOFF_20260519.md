@@ -81,6 +81,51 @@ Return a report with these sections:
 7. Do-not-touch list
    - Name anything that should not be edited yet.
 
+
+## Mule Dump Folder Contract
+
+The outside reviewer/mule must return all output as one clean batch.
+
+Required output shape:
+
+HOUSE_WORK\WORK_SHED\AGENT_OUTPUTS\WHOLE_HOUSE_REVIEW_RETURN_20260519_001
+
+Inside that folder, include:
+
+1. MANIFEST.md
+   - lists every returned file,
+   - gives the intended read order,
+   - says what each file is for,
+   - marks each item as report, evidence, candidate, source-ore, or do-not-use.
+
+2. REVIEW_REPORT.md
+   - the main review report.
+
+3. OPTIONAL_SUPPORT/
+   - any supporting notes, extracts, tables, or evidence.
+
+The mule must not scatter files across the house.
+
+The mule must not require a fresh explanation every run. This handoff is the operating context. The mule is being used as a bounded outside tool in the Mr.Kleen flow.
+
+The mule must not:
+- edit the brain directly,
+- commit,
+- push,
+- change active guides,
+- change CURRENT_TRUTH_INDEX,
+- promote tools,
+- install doctrine,
+- mix old/source-ore material into active work,
+- return loose unnamed files.
+
+The assistant will:
+- receive the dump folder as one custody object,
+- inspect MANIFEST.md first,
+- test the batch as a suit/safe-bin object,
+- only then decide what enters the actual house,
+- preserve order and custody during intake.
+
 ## Output lane
 
 The reviewer should return the report as text or as a file for:
@@ -98,3 +143,4 @@ No active guide rewrite.
 No checker promotion.
 No tool installation.
 No CURRENT_TRUTH_INDEX change.
+
