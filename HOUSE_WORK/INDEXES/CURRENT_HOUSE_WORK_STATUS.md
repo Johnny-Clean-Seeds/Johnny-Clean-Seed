@@ -2339,3 +2339,25 @@ Boundary:
 
 Next move:
 - Decide whether to continue remaining parked checker candidates or install a safer batch-runner file.
+
+## 2026-05-19 - Fast-safe batch runner install
+
+Base: main @ bd4b122.
+
+Installed:
+- HOUSE_WORK\WORK_SHED\INCOMING_FILE_PARKING\MOVED_IGNORED_FILES_20260519_20260519_162022\02_TOOL_CANDIDATES\RUN_FAST_SAFE_CHECKER_BATCH_001.ps1
+
+Purpose:
+- Avoid pasted-loop and continuation-prompt pollution.
+- Run the parked checker batch through one saved file.
+- Keep execution read-only and report-only.
+
+Boundary:
+- Runner install only.
+- No checker execution in this save block.
+- No tool promotion.
+- No doctrine rewrite.
+- No active guide rewrite.
+
+Next move:
+- Run RUN_FAST_SAFE_CHECKER_BATCH_001.ps1.
