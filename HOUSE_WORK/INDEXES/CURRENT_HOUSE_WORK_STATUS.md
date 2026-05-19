@@ -2500,3 +2500,27 @@ Boundary:
 
 Next move:
 - Close this mule-leftover custody lane.
+
+## 2026-05-19 - Current Work Queue post-mule-close sync
+
+Base: main @ 56fb238.
+
+Saved:
+- HOUSE_WORK\WORK_SHED\QUEUE\CURRENT_WORK_QUEUE.md
+- PROOF_HISTORY\CURRENT_WORK_QUEUE_POST_MULE_CLOSE_SYNC_RECEIPT_20260519.txt
+
+Repair:
+- Synced stale queue pointer after mule-leftover custody closeout.
+- Marked Q-20260519-011 DONE.
+- Set active item readback to no selected active item after closeout.
+
+Boundary:
+- Queue/status pointer sync only.
+- No checker promotion.
+- No tool installation.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX change.
+
+Next move:
+- Choose the next active boss from synced queue/status.

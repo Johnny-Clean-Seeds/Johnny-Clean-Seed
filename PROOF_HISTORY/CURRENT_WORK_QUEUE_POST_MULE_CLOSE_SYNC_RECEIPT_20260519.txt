@@ -1,0 +1,27 @@
+CURRENT WORK QUEUE POST-MULE-CLOSE SYNC RECEIPT
+
+Date:
+2026-05-19
+
+Base:
+main @ 56fb238
+
+Issue:
+CURRENT_WORK_QUEUE.md still named Q-20260519-011 as ACTIVE after the checker batch and mule-leftover custody lane were already closed.
+
+Repair:
+- Updated queue base to main @ 56fb238.
+- Changed active item readback to no selected active item after mule-leftover custody closeout.
+- Changed Q-20260519-011 from ACTIVE to DONE.
+- Added D-20260519-008 for mule-leftover custody closeout.
+
+Boundary:
+Queue/status pointer sync only.
+No new doctrine.
+No checker promotion.
+No tool installation.
+No active guide rewrite.
+No CURRENT_TRUTH_INDEX change.
+
+Next move:
+Choose the next active boss from the now-synced queue/status instead of following stale Q-20260519-011.
