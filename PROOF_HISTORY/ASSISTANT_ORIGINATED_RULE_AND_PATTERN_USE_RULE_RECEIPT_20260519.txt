@@ -1,0 +1,14 @@
+ASSISTANT-ORIGINATED RULE AND PATTERN USE RULE RECEIPT
+
+Saved rule:
+BRAIN_LEARNING\ASSISTANT_ORIGINATED_RULE_AND_PATTERN_USE_RULE_20260519.md
+
+Boundary:
+Support behavior rule. This authorizes assistant-originated rule/fix recognition inside clean placement and proof boundaries. It does not rewrite active guides, install doctrine, or promote any specific candidate rule by itself.
+
+Proof:
+- Rule exists: True
+- Status exists: True
+
+Current next move:
+Test the rule by checking current mule setup, lingering chat progress, and whether any open edge still needs placement.
