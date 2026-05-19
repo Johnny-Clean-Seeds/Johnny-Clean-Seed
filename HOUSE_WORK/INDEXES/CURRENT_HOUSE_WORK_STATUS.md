@@ -1360,3 +1360,27 @@ Verdict:
 
 Next move:
 - Keep testing this lens against a different kind of chain before any promotion decision.
+
+## 2026-05-19 - Provenance / Chain-of-Custody Thread Lens second live use
+
+Starting position: main @ 62c6257.
+
+Saved:
+- Second live test for Provenance / Chain-of-Custody Thread Lens.
+- Tested against a different kind of chain: behavior-rule / BRAIN_LEARNING chain.
+- Target artifact: BRAIN_LEARNING/ASSISTANT_ORIGINATED_RULE_AND_PATTERN_USE_RULE_20260519.md.
+- Target receipt: PROOF_HISTORY/ASSISTANT_ORIGINATED_RULE_AND_PATTERN_USE_RULE_RECEIPT_20260519.txt.
+
+Boundary:
+- Soft Suit only.
+- No doctrine install.
+- No active guide rewrite.
+- No full bitstring system.
+- No runtime automation.
+- No promotion.
+
+Verdict:
+- PASS AS SECOND LIVE USE.
+
+Next move:
+- Review the two lens uses together before any promotion or guide integration decision.
