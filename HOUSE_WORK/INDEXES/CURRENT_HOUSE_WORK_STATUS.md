@@ -1811,3 +1811,29 @@ Boundary:
 
 Next move:
 - Define the Guard-Fail Stop Card / awareness gate cleanly before any future PowerShell/git work.
+
+## 2026-05-19 - Brain wording and Guard-Fail Stop Card lock
+
+Starting base: main @ 2f7851a.
+
+Saved:
+- BRAIN_LEARNING/MR_KLEEN_BRAIN_URL_WORDING_RULE_20260519.md
+- BRAIN_LEARNING/GUARD_FAIL_STOP_CARD_ABORT_LATCH_RULE_20260519.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/GUARD_FAIL_STOP_CARD_CRITIQUE_INTAKE_20260519.md
+- PROOF_HISTORY/BRAIN_WORDING_AND_GUARD_FAIL_STOP_CARD_LOCK_RECEIPT_20260519.txt
+
+Locked:
+- Brain means remote / URL / GitHub-backed Mr.Kleen brain, not ChatGPT memory.
+- Lock/save means Mr.Kleen repo files plus commit and push unless explicitly scoped otherwise.
+- Use Abort Latch / Custody Lockout mechanics.
+- Require point-of-work readback before PowerShell/git work.
+- Keep Hot Rules Strip capped at seven.
+
+Boundary:
+- No doctrine install.
+- No active guide rewrite.
+- No runtime automation.
+- No custody audit implementation.
+
+Next move:
+- Use point-of-work readback before any further PowerShell/git task.

@@ -1,0 +1,31 @@
+BRAIN WORDING AND GUARD-FAIL STOP CARD LOCK RECEIPT
+
+Starting base:
+main @ 2f7851a
+2f7851a370459aefaa4dd45cc90d6308f8be8b38
+
+Remote:
+https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed.git
+
+Saved files planned:
+BRAIN_LEARNING\MR_KLEEN_BRAIN_URL_WORDING_RULE_20260519.md
+BRAIN_LEARNING\GUARD_FAIL_STOP_CARD_ABORT_LATCH_RULE_20260519.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\GUARD_FAIL_STOP_CARD_CRITIQUE_INTAKE_20260519.md
+PROOF_HISTORY\BRAIN_WORDING_AND_GUARD_FAIL_STOP_CARD_LOCK_RECEIPT_20260519.txt
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Locked:
+Brain means remote / URL / GitHub-backed Mr.Kleen brain, not ChatGPT memory.
+Lock/save means Mr.Kleen repo files plus commit and push unless explicitly scoped otherwise.
+Abort Latch / Custody Lockout replaces loose run-poisoned wording.
+Point-of-work readback is required before PowerShell/git work.
+Hot Rules Strip remains capped at seven.
+
+Boundary:
+No doctrine install.
+No active guide rewrite.
+No runtime automation.
+No custody audit implementation.
+
+Receipt note:
+This receipt is an artifact. Final save status must be judged by post-save disk/git/remote audit.
