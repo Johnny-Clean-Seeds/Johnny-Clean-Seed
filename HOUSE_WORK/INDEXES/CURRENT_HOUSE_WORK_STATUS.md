@@ -2451,3 +2451,25 @@ Boundary:
 
 Next move:
 - Review promotion criteria separately if needed.
+
+## 2026-05-19 - Checker candidate batch promotion criteria review
+
+Base: main @ 46fd351.
+
+Saved:
+- HOUSE_WORK\WORK_SHED\GEAR_RACK\REVIEWS\CHECKER_CANDIDATE_BATCH_PROMOTION_CRITERIA_REVIEW_20260519.md
+- PROOF_HISTORY\CHECKER_CANDIDATE_BATCH_PROMOTION_CRITERIA_REVIEW_RECEIPT_20260519.txt
+
+Verdict:
+- DO NOT PROMOTE YET.
+- Keep as tested checker-candidate batch / Gear Rack review object.
+
+Boundary:
+- No checker promotion.
+- No tool installation.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX change.
+
+Next move:
+- Keep batch parked unless repeated future use proves promotion fit.
