@@ -2659,3 +2659,32 @@ Boundary:
 
 Next move:
 - Inspect repaired handoff, then decide whether to send it to the mule.
+
+## 2026-05-19 - Predictive learning handoff assistant-prework/deep-search repair
+
+Base: main @ 68c0e95.
+
+Updated:
+- HOUSE_WORK\WORK_SHED\AGENT_HANDOFFS\PREDICTIVE_LEARNING_AND_MULE_FLOW_CRITIQUE_HANDOFF_20260519.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\AWARENESS_PRIOR_MISTAKE_PREDICTIVE_LEARNING_DISSECT_CAPTURE_20260519.md
+
+Receipt:
+- PROOF_HISTORY\PREDICTIVE_LEARNING_HANDOFF_ASSISTANT_PREWORK_DEEP_SEARCH_RECEIPT_20260519.txt
+
+Repair:
+- Added Assistant Prework / Deep Search / Hard Critique Proof Contract.
+- Assistant must search, synthesize, pause, deepen, then send best candidate to mule.
+- Mule must slam the candidate constructively and prove real advantage.
+- Cheap-shot critique is rejected.
+- Tradeoff honesty required when options are both good but optimized differently.
+
+Boundary:
+- Handoff/capture repair only.
+- No outside report received yet.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX change.
+- No tool promotion.
+
+Next move:
+- Inspect repaired handoff contract, then prepare final mule kickoff message.

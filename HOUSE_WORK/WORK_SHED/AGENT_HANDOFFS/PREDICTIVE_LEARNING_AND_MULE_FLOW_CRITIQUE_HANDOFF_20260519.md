@@ -179,6 +179,114 @@ Add these sections to the return report:
    - What is the later bigger version?
    - What should not be built yet?
 
+
+## Assistant Prework / Deep Search / Hard Critique Proof Contract
+
+The assistant must not hand the mule a raw dump and make the mule do all the thinking.
+
+Before sending this handoff, the assistant must:
+1. search broadly,
+2. inspect relevant internal house material,
+3. compare candidate methods,
+4. build the strongest current candidate version,
+5. pause,
+6. use that cleaned candidate as a guide for a deeper second search,
+7. avoid repeating the same roads unless a breadcrumb explains why,
+8. then send the mule the best current version for hard critique.
+
+The mule's role is not to process garbage.
+
+The mule's role is to slam a strong candidate constructively.
+
+Hard critique means:
+- find weak claims,
+- find missing methods,
+- find faster safe alternatives,
+- compare against internal tools/ideas/algorithms/bitstrings,
+- compare against outside methods,
+- prove real advantage,
+- identify tradeoffs honestly,
+- recommend the smallest safe install,
+- recommend the stronger later version,
+- name what should not be built yet.
+
+A better proposal must show at least one real advantage:
+- faster with equal or better safety,
+- safer with acceptable speed,
+- clearer placement,
+- less stale-pointer risk,
+- better retrieval from prior mistakes,
+- easier mule return intake,
+- better proof path,
+- better tool-building leverage,
+- less house drag,
+- stronger finish condition.
+
+Cheap-shot critique is rejected.
+
+If two options are both good but optimized differently, the mule must say so and explain:
+- option A is better when,
+- option B is better when,
+- what evidence would decide later,
+- which one should be used now.
+
+## Two-Pass Search Rhythm
+
+Pass 1:
+Broad search and internal scan.
+
+Output:
+a cleaned candidate model.
+
+Pause:
+Do not send immediately.
+
+Pass 2:
+Use the cleaned candidate model as a search guide.
+Look for missed/deeper areas.
+Do not simply rerun the same search.
+If returning to a prior method or source family, leave a breadcrumb explaining why it still matters.
+
+Pass 2 must look for:
+- better algorithms,
+- stronger retrieval methods,
+- better filing/sorting/indexing methods,
+- known lessons-learned systems,
+- case-based reasoning patterns,
+- pre-mortem/failure-prediction methods,
+- after-action review patterns,
+- knowledge graph/tagging patterns,
+- methods that help tools build better tools.
+
+## Focus Discipline
+
+During assistant prework and mule critique, do not drift into unrelated cleanup, doctrine rewriting, tool promotion, or old source-ore digging.
+
+If distraction appears, trigger:
+- Active Ball Load Gauge,
+- Fog Alarm,
+- prior mistake retrieval,
+- current lane readback,
+- proof boundary readback.
+
+The active job remains:
+build a faster, safer awareness/prior-mistake prediction method and mule-flow model.
+
+## Required additional mule proof
+
+The mule must prove proposed improvements by naming:
+
+1. advantage type,
+2. evidence or reasoning,
+3. tradeoff,
+4. risk,
+5. smallest safe install,
+6. proof needed,
+7. why it is better than the current candidate,
+8. when the current candidate should remain unchanged.
+
+The mule must not claim "better" without showing the advantage.
+
 ## Required return folder
 
 Return every file in this one folder only:
@@ -219,4 +327,5 @@ Do not skip the manifest.
 ## Desired result
 
 A clean critique package that helps Mr.Kleen install a faster, safer awareness/prior-mistake prediction method without making a bloated doctrine change.
+
 

@@ -135,3 +135,23 @@ This is a candidate system and mule-critique target.
 
 Next move:
 Send a bounded critique handoff to the mule requiring one ordered return folder.
+
+## Added correction - assistant prework before mule critique
+
+The user clarified that the mule should not receive a huge raw dump and be forced to do all the hard thinking.
+
+Rule captured:
+- Assistant searches wide first.
+- Assistant inspects internal house material first.
+- Assistant builds best current version first.
+- Assistant pauses.
+- Assistant runs deeper second-pass search using the cleaned first version as the guide.
+- Assistant avoids repeating the same search roads unless a breadcrumb explains why.
+- Mule receives a strong candidate and critiques it hard.
+- Mule must prove real advantage, not cheap-shot.
+- Mule must compare tradeoffs honestly when two options are both good but different.
+- Focus discipline must prevent distraction during deep search.
+- Existing tools/ideas should help find or make better tools/ideas.
+
+Status:
+Captured into handoff as assistant-prework/deep-search/hard-critique proof contract.

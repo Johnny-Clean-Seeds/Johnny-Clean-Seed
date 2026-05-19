@@ -1,0 +1,28 @@
+PREDICTIVE LEARNING HANDOFF ASSISTANT PREWORK DEEP SEARCH RECEIPT
+
+Date:
+2026-05-19
+
+Base:
+main @ 68c0e95
+
+Updated:
+HOUSE_WORK\WORK_SHED\AGENT_HANDOFFS\PREDICTIVE_LEARNING_AND_MULE_FLOW_CRITIQUE_HANDOFF_20260519.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\AWARENESS_PRIOR_MISTAKE_PREDICTIVE_LEARNING_DISSECT_CAPTURE_20260519.md
+
+Repair:
+Added assistant prework / deep search / hard critique proof contract.
+
+Purpose:
+Ensure the assistant does broad and deep synthesis before sending work to the mule, and ensure the mule critiques a strong candidate rather than processing a raw dump.
+
+Boundary:
+Handoff/capture repair only.
+No outside report received yet.
+No doctrine rewrite.
+No active guide rewrite.
+No CURRENT_TRUTH_INDEX change.
+No tool promotion.
+
+Next move:
+Inspect the repaired handoff contract. If it passes, prepare the final mule kickoff message using the strengthened handoff.
