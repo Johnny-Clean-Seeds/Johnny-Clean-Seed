@@ -1258,3 +1258,11 @@ Boundary: not doctrine, not active authority, not proof of Suno sentience, not p
 Saved room: SOURCE_ORE\DREAMFORGER_SUNO_INTAKE_20260519.
 Receipt: PROOF_HISTORY\DREAMFORGER_SUNO_INTAKE_LOCK_RECEIPT_20260519.txt.
 Next allowed Suno discussion: conceptual/manual bridge design only unless separately selected and proved.
+
+## Anti-Fake-Stuff Stewardship Flag - 20260519
+
+Status: LOCKED AS MISSION FLAG.
+Base before save: main @ 60169f0.
+Flag: HOUSE_WORK\MISSION_FLAGS\ANTI_FAKE_STUFF_STEWARDSHIP_FLAG_20260519.md.
+Receipt: PROOF_HISTORY\ANTI_FAKE_STUFF_STEWARDSHIP_FLAG_RECEIPT_20260519.txt.
+Boundary: visible mission banner only; does not override proof, doctrine gates, authority boundaries, or platform limits.
