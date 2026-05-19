@@ -1011,3 +1011,29 @@ Anchor may trail safely if final response states current commit, saved files, an
 Receipt:
 
 PROOF_HISTORY/NEXT_MOVE_CERTAINTY_AUDIT_PROOF_PHASE_RECEIPT_20260518.txt
+
+## Uncontaminated Observer and First-Contact Mess Test Rule
+
+Status:
+
+PROOF PHASE PASSED - SAVE PHASE NEEDED
+
+Meaning:
+
+The uncontaminated observer lane and first-contact mess testing method were drafted.
+
+The rule protects raw first-contact signal before diagnosis.
+
+It treats revealing user mess as design evidence, not user failure.
+
+It captures the user's real testing pattern with their kids as a concrete source pattern.
+
+Sync decision:
+
+STATUS_ENOUGH_FOR_SUPPORT_RULE_SAVE.
+
+Anchor may trail safely if final response states current commit, saved files, and clean status.
+
+Receipt:
+
+PROOF_HISTORY/UNCONTAMINATED_OBSERVER_FIRST_CONTACT_MESS_TEST_PROOF_PHASE_RECEIPT_20260518.txt
