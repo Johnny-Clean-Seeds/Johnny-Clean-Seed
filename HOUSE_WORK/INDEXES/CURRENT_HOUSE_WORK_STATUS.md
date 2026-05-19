@@ -1634,3 +1634,31 @@ Verdict:
 Next move:
 - Hold the candidate in Soft Suit.
 - Decide whether to run one more different live test or prepare a replacement-decision review.
+
+## 2026-05-19 - Provenance Lens replacement decision review
+
+Starting position: main @ 52ed010.
+
+Saved:
+- Replacement decision review for original Provenance Lens vs narrow revision candidate.
+
+Decision:
+- Do not replace the original lens yet.
+- Do not promote.
+- Hold both cards.
+- Use the narrow revision candidate as preferred Soft Suit version for the next real custody-risk use.
+
+Boundary:
+- Decision review only.
+- No doctrine install.
+- No active guide rewrite.
+- No runtime automation.
+- No promotion.
+- Original lens not replaced.
+- Candidate not mandatory.
+- Outside systems not adopted.
+
+Next move:
+- Hold state.
+- Use the narrow revision candidate on the next real custody-risk chain that appears.
+- If no real custody-risk chain appears, return to broader candidate path instead of forcing more provenance testing.
