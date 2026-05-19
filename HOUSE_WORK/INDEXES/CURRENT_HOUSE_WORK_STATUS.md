@@ -2130,3 +2130,21 @@ Result:
 
 Next move:
 - Resolve checker-collision wording before executing either collision watcher.
+
+## 2026-05-19 - Batch safe bin / trial suit rule
+
+Starting base: main @ 3cab2bd.
+
+Saved:
+- BRAIN_LEARNING/BATCH_SAFE_BIN_TRIAL_SUIT_RULE_20260519.md
+- HOUSE_WORK/WORK_SHED/INCOMING_FILE_PARKING/BATCH_SAFE_BIN_TRIAL_SUIT_METHOD_20260519.md
+- PROOF_HISTORY/BATCH_SAFE_BIN_TRIAL_SUIT_RULE_RECEIPT_20260519.txt
+
+Locked:
+- Connected batches should be tested together before promotion.
+- Use safe bin / trial suit before installing large mule/file/idea batches.
+- Install the biggest clean chunk that proves fit.
+- Do not create fake ghosts through weird add order or one-file-at-a-time drag.
+
+Next move:
+- Resolve checker-collision wording before running collision-watch checkers.

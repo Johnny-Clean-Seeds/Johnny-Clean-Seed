@@ -1,0 +1,22 @@
+BATCH SAFE BIN / TRIAL SUIT RULE RECEIPT
+
+Starting base:
+main @ 3cab2bd
+3cab2bd717ecbe293cf8d370f6e43a61fe00db26
+
+Saved:
+BRAIN_LEARNING\BATCH_SAFE_BIN_TRIAL_SUIT_RULE_20260519.md
+HOUSE_WORK\WORK_SHED\INCOMING_FILE_PARKING\BATCH_SAFE_BIN_TRIAL_SUIT_METHOD_20260519.md
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Rule:
+Connected batches should be tested together in a safe bin / trial suit before promotion.
+Install the biggest clean chunk that proves fit.
+Use one-at-a-time only for safety, unclear provenance, executable/private material, or specific collision pieces.
+
+Boundary:
+No doctrine rewrite.
+No active guide rewrite.
+No checker execution.
+No broad add-all.
+No broad rejection.
