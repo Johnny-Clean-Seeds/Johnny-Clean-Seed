@@ -2714,3 +2714,28 @@ Boundary:
 
 Next move:
 - Re-run send-readiness contract check. If clean, prepare final mule kickoff.
+
+## 2026-05-19 - Predictive learning mule return intake
+
+Base: main @ 9fb81c7.
+
+Return folder:
+- HOUSE_WORK\WORK_SHED\AGENT_OUTPUTS\PREDICTIVE_LEARNING_AND_MULE_FLOW_RETURN_20260519_001
+
+Receipt:
+- PROOF_HISTORY\PREDICTIVE_LEARNING_MULE_RETURN_INTAKE_RECEIPT_20260519.txt
+
+Verdict:
+- PASS: mule returned one ordered dump folder with required files and manifest-first package shape.
+
+Boundary:
+- Intake-lock only.
+- No report accepted as authority.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX change.
+- No tool promotion.
+- No integration yet.
+
+Next move:
+- Read MANIFEST.md and REVIEW_REPORT.md, then classify recommendations before adoption.
