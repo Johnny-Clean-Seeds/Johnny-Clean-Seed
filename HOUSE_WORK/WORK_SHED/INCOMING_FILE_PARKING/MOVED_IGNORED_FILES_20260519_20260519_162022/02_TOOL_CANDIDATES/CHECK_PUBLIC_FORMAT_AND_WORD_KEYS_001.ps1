@@ -33,7 +33,7 @@ $ReadmeNeedles = @(
     "## Authority map",
     "## Public/local boundary",
     "## Word-key support",
-    "Use `public` only when describing exposure, access boundary, or a named folder such as `PUBLIC_NOTES`.",
+    "Use ``public`` only when describing exposure, access boundary, or a named folder such as ``PUBLIC_NOTES``.",
     "PUBLIC_NOTES/WORD_KEYS_AND_PUBLIC_LANGUAGE_NOTES_001.txt"
 )
 
@@ -129,4 +129,5 @@ if ($Failed.Count -eq 0) {
     Write-Host "VERDICT: FAIL"
     exit 1
 }
+
 

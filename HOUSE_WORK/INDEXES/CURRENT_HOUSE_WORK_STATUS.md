@@ -2232,3 +2232,22 @@ Boundary:
 
 Next move:
 - Rerun CHECK_PUBLIC_FORMAT_AND_WORD_KEYS_001.ps1.
+
+## 2026-05-19 - Public format / word keys backtick needle repair
+
+Base: main @ 84640d5.
+
+Patched:
+- HOUSE_WORK\WORK_SHED\INCOMING_FILE_PARKING\MOVED_IGNORED_FILES_20260519_20260519_162022\02_TOOL_CANDIDATES\CHECK_PUBLIC_FORMAT_AND_WORD_KEYS_001.ps1
+
+Result:
+- Escaped PowerShell backticks in the README needle so the checker searches for the actual README wording.
+
+Boundary:
+- No active guide rewrite.
+- No doctrine rewrite.
+- No tool promotion.
+- No checker execution in this save block.
+
+Next move:
+- Rerun CHECK_PUBLIC_FORMAT_AND_WORD_KEYS_001.ps1.

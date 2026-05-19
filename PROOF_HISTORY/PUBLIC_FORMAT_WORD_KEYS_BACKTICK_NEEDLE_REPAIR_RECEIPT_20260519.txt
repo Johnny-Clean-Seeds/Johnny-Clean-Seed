@@ -1,0 +1,18 @@
+PUBLIC FORMAT / WORD KEYS BACKTICK NEEDLE REPAIR RECEIPT
+
+Base:
+main @ 84640d5
+
+Patched:
+HOUSE_WORK\WORK_SHED\INCOMING_FILE_PARKING\MOVED_IGNORED_FILES_20260519_20260519_162022\02_TOOL_CANDIDATES\CHECK_PUBLIC_FORMAT_AND_WORD_KEYS_001.ps1
+
+Repair:
+- Escaped PowerShell backticks in the README needle.
+- Checker now searches for the literal README wording with backticks around public and PUBLIC_NOTES.
+
+Boundary:
+No active guide rewrite.
+No doctrine rewrite.
+No CURRENT_TRUTH_INDEX change.
+No tool promotion.
+No checker execution in this save block.
