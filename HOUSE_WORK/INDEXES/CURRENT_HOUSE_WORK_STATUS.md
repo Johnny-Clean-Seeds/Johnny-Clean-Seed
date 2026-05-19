@@ -1463,3 +1463,31 @@ Verdict:
 Next move:
 - Move on from the UI issue.
 - Return to the active project lane from clean state.
+
+## 2026-05-19 - Provenance lens mule deep slam and gold search handoff
+
+Starting position: main @ 5d7607e.
+
+Saved:
+- Upgraded mule handoff for Provenance / Chain-of-Custody Thread Lens.
+- Replaces simple final critique with adversarial review plus deep outside-method gold search.
+
+Evidence packet:
+- HOUSE_WORK/WORK_SHED/SOFT_SUIT/PROVENANCE_CHAIN_OF_CUSTODY_THREAD_LENS_SOFT_SUIT_CANDIDATE_20260519.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/PROVENANCE_CHAIN_OF_CUSTODY_THREAD_LENS_FIRST_USE_TEST_20260519.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/PROVENANCE_CHAIN_OF_CUSTODY_THREAD_LENS_SECOND_USE_BEHAVIOR_RULE_CHAIN_TEST_20260519.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/PROVENANCE_CHAIN_OF_CUSTODY_THREAD_LENS_TWO_USE_REVIEW_20260519.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/PROVENANCE_CHAIN_OF_CUSTODY_THREAD_LENS_THIRD_USE_SOURCE_ORE_AGENT_HANDOFF_CHAIN_TEST_20260519.md
+
+Boundary:
+- Review/source-ore only.
+- No doctrine install.
+- No active guide rewrite.
+- No full bitstring system.
+- No runtime automation.
+- No promotion.
+- Outside research must not become doctrine without later routing and proof.
+
+Next move:
+- Give the upgraded handoff to the mule.
+- Mule should read, judge, slam hard, search deeply, and return a gold-mining report covering all aspects of the need.
