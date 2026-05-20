@@ -2,7 +2,7 @@
 
 Date: 2026-05-20
 Lane: HOUSE_WORK / TODO
-Status: open / immediate live-use needed
+Status: first live-use proof recorded / still open for varied proof
 Parent Boss: Rule Activation / Work-Order Control
 Related Boss: Suit Loadout / Correction Root Cleanup / Mule Return Intake
 
@@ -26,18 +26,29 @@ Before any nontrivial Mr.Kleen house-touching action, the assistant must confirm
 - Proof needed;
 - Disposition.
 
-## Why this is needed
+## First live use recorded
 
-Recent events showed stored rules not firing:
+Date: 2026-05-20
 
-1. report style gate missed;
-2. known-path mule pickup missed;
-3. suit-first route nearly missed;
-4. assistant almost saved proof only instead of fixing the behavior mechanism.
+Proof:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\RULE_FIRING_CONFIRMATION_CARD_FIRST_LIVE_USE_PROOF_20260520.md
 
-## Pass condition
+Result:
+PASS as one live-use proof.
 
-On the next nontrivial Mr.Kleen action, the assistant uses the card before action and the card changes, validates, or blocks the move.
+What passed:
+- card was used before action;
+- action was read-only;
+- blocked moves were named;
+- proof needed was named;
+- active anchor, card, habit/MAA TODO, rule-firing TODO, and status tail were read;
+- action did not become save/repair/promotion.
+
+## Still open
+
+Do not close this TODO from one proof.
+
+Needs varied proof on another nontrivial house-touching action, preferably one that is not only read-only.
 
 ## Fail condition
 

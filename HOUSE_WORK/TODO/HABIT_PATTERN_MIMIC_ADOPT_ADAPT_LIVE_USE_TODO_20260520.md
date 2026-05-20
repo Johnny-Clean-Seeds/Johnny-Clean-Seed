@@ -2,7 +2,7 @@
 
 Date: 2026-05-20
 Lane: HOUSE_WORK / TODO
-Status: open / live-use proof needed
+Status: first live-use proof recorded / still open for varied proof
 Parent Boss: Rule Activation / Work-Order Control
 Related Boss: Growth Cycle / Memory Health / Rule-Concept-Event
 
@@ -10,18 +10,27 @@ Related Boss: Growth Cycle / Memory Health / Rule-Concept-Event
 
 Prove that habit recognition can help the house identify repeated patterns and route them through mimic, adopt, or adapt.
 
-## Trigger
+## First live use recorded
 
-Use this TODO when:
+Date: 2026-05-20
 
-- a behavior repeats across multiple events;
-- a rule fires or fails to fire more than once;
-- a plan works in one room and appears useful in another;
-- the house is about to copy a method, rule, script, packet, or workflow into a different lane.
+Proof:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\HABIT_MAA_LENS_FIRST_LIVE_USE_RULE_FIRING_PATTERN_20260520.md
 
-## Required live use
+Result:
+PASS as first live use.
 
-On a real repeated pattern, answer:
+Pattern identified:
+Rules are saved correctly, but the assistant sometimes acts before the right rule/gate visibly fires.
+
+Mimic/adopt/adapt decision:
+- mimic the Rule-Firing Confirmation Card shape on the next similar Mr.Kleen house-touching action;
+- adopt only after more varied proof;
+- adapt the shape for other lanes instead of copying exact wording.
+
+## Required future live use
+
+On a future real repeated pattern, answer:
 
 1. What repeated habit/pattern is visible?
 2. Is it healthy, risky, or mixed?
@@ -31,14 +40,6 @@ On a real repeated pattern, answer:
 6. What proof is needed in the new lane?
 7. What authority boundary must hold?
 8. What stale/false-transfer risk exists?
-
-## Pass condition
-
-The habit lens changes the decision: mimic, adopt, adapt, park, reject, or needs proof.
-
-## Fail condition
-
-The assistant copies a plan because it feels similar without identifying habit, context, proof, or authority boundary.
 
 ## Boundary
 
@@ -50,4 +51,4 @@ No CURRENT_TRUTH_INDEX rewrite.
 
 No dashboard, automation, runtime, knowledge graph, or full lesson index.
 
-No promotion from this capture alone.
+No promotion from this first proof.

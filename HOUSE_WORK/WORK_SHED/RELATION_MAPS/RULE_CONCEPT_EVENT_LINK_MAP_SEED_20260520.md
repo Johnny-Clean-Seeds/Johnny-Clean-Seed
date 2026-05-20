@@ -275,3 +275,43 @@ Captured as support lens. Needs varied live use before stronger placement.
 
 Boundary:
 Not doctrine, not active guide, not automation, not dashboard.
+
+## Entry 14 - Rule-Firing Confirmation Card First Live Use
+
+Rule:
+Use the Rule-Firing Confirmation Card before nontrivial Mr.Kleen house-touching action.
+
+Concept:
+Point-of-work activation proof; stored rule becomes fired gate; narrow root repair.
+
+Event:
+After saving the confirmation gate, the next read action used the card before reading the active anchor, card, Habit/MAA TODO, Rule-Firing TODO, and status tail.
+
+Trigger phrases:
+next; before action; confirmation card; nontrivial Mr.Kleen action; rule firing live use.
+
+Proof state:
+First live-use proof saved. Needs varied proof before closure or promotion.
+
+Boundary:
+Support card only, not doctrine or automation.
+
+## Entry 15 - Habit / MAA First Live Use On Rule-Firing Pattern
+
+Rule:
+When repeated rule-firing misses appear, use habit recognition to identify stable shape and decide mimic/adopt/adapt.
+
+Concept:
+Habit evidence; pattern transfer; mimic/adopt/adapt support lens; good fog structure.
+
+Event:
+The repeated pattern of rules being stored but not firing was identified and routed through MAA: mimic the card shape in similar Mr.Kleen actions, adopt after more proof, adapt for other lanes.
+
+Trigger phrases:
+habit; repeated; pattern; mimic/adopt/adapt; same shape; other lanes.
+
+Proof state:
+First live-use proof saved. Needs varied pattern proof.
+
+Boundary:
+Support lens only, not doctrine.

@@ -4414,3 +4414,29 @@ No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no
 
 Next:
 Use Rule-Firing Confirmation Card before the next nontrivial Mr.Kleen house-touching action. Use Habit/MAA lens only when repeated pattern or transfer decision appears.
+
+---
+
+## 2026-05-20 - Rule-Firing Confirmation Card and Habit/MAA first live use
+
+Base before save: 0cdae63ba8075224e51502b25d01846fdedb7314
+Base short: 0cdae63
+Status before save: clean
+
+Saved:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\RULE_FIRING_CONFIRMATION_CARD_FIRST_LIVE_USE_PROOF_20260520.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\HABIT_MAA_LENS_FIRST_LIVE_USE_RULE_FIRING_PATTERN_20260520.md
+- updated HOUSE_WORK\TODO\RULE_STORAGE_MISTAKEN_FOR_RULE_FIRING_CONFIRMATION_GATE_LIVE_USE_TODO_20260520.md
+- updated HOUSE_WORK\TODO\HABIT_PATTERN_MIMIC_ADOPT_ADAPT_LIVE_USE_TODO_20260520.md
+- appended entries to HOUSE_WORK\WORK_SHED\RELATION_MAPS\RULE_CONCEPT_EVENT_LINK_MAP_SEED_20260520.md
+- updated ACTIVE_ANCHOR.txt
+- updated this status file
+
+Meaning:
+The Rule-Firing Confirmation Card fired before the next nontrivial Mr.Kleen action. The action stayed read-only and did not become a save/repair/promotion. Habit/MAA lens also fired because repeated rule-firing misses formed a visible habit pattern.
+
+Boundary:
+No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, and no promotion.
+
+Next:
+Use Rule-Firing Confirmation Card before the next nontrivial Mr.Kleen house-touching action. Use Habit/MAA lens only when repeated pattern or transfer decision appears.

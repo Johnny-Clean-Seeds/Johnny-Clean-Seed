@@ -1,40 +1,38 @@
 # ACTIVE ANCHOR
 
 Date: 2026-05-20
-Current active ball after this save: Rule-Firing Confirmation Card live use, with Habit / Mimic-Adopt-Adapt lens parked for proof
+Current active ball after this save: Rule-Firing Confirmation Card varied live use / next route selection
 
 ## Last completed move
 
-Saved Habit Pattern / Mimic Adopt Adapt transfer learning.
+Saved first live-use proof for:
 
-This save captured:
-
-- habits as repeated firing-pattern evidence;
-- habits as structure for good fog and growth-cycle learning;
-- mimic as same-shape transfer test;
-- adopt as proof-fit acceptance;
-- adapt as shape-preserving/context-changing transfer;
-- MAA as a support lens, not doctrine;
-- live-use TODO for first proof.
+- Rule-Firing Confirmation Card;
+- Habit / Mimic-Adopt-Adapt lens applied to the repeated rule-firing pattern.
 
 ## Current control state
 
-The active next operational gate remains:
+Rule-Firing Confirmation Card has one live-use proof.
 
-Rule-Firing Confirmation Before Action Gate.
+Habit / MAA lens has one live-use proof.
 
-The habit/MAA lens is available as support when a repeated pattern or transfer decision appears.
+Neither is promoted.
+
+The card remains the active gate before nontrivial Mr.Kleen house-touching actions.
 
 ## Next allowed move
 
 Use Rule-Firing Confirmation Card before the next nontrivial Mr.Kleen house-touching action.
 
-If that action involves repeated behavior or plan transfer, also use the Habit / Mimic-Adopt-Adapt lens.
+If the next move involves a repeated pattern or transfer decision, use Habit / MAA lens.
+
+Then select one route by current anchor/status, not by newest file or support pressure.
 
 ## Blocked moves
 
-- Do not promote Habit/MAA from this capture alone.
-- Do not create a dashboard, automation, runtime, knowledge graph, or full lesson index.
+- Do not promote the card from one proof.
+- Do not promote Habit/MAA from one proof.
+- Do not create dashboard, automation, runtime, knowledge graph, or full lesson index.
 - Do not rewrite doctrine.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.
