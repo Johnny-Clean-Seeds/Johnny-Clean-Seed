@@ -1,24 +1,25 @@
-ACTIVE BALL: Packet top-block / read-order rule saved under Rule Activation / Work-Order Control.
+ACTIVE BALL: Rule Activation / Work-Order Control parent boss close check saved; parent is CLOSED WITH WATCH for current repair run.
 
-RECORDED BASE BEFORE SAVE: main @ 2c1b14a
+RECORDED BASE BEFORE SAVE: main @ c462b18
 
 CURRENT PROVEN ITEMS:
+- Receipt hygiene / claim-scoped proof is saved.
 - Control-state-first / boss-ghost / cycle-flow package is saved.
 - PowerShell paste / false-success guard is saved.
 - Mule short kickoff / packet-scoped start-card rule is saved.
 - Queue active-inertia wording cleanup is saved.
-- Packet top-block / read-order rule is now saved.
-- Future dense packets should expose task, control state, authority/lane, read order, output lane, hard bans, completion standard, and stop condition at the top.
-- No old packet rewrite was performed.
-- No mule pass was run.
+- Packet top-block / read-order rule is saved.
+- Parent Boss: Rule Activation / Work-Order Control is CLOSED WITH WATCH for this repair run.
 
 NEXT ALLOWED MOVE:
-- Continue only with a selected child issue or a fresh user task.
-- Possible remaining candidate: living-rules/root-words package refinement, if still selected.
+- Move to a fresh user-selected task or a parked candidate only if selected.
+- Remaining parked candidate: living-rules/root-words package refinement if still wanted.
+- Future failures can reopen Rule Activation / Work-Order Control.
 - Before next task, run control-state-first and rule confirmation.
 
 BLOCKED MOVES:
 - Do not run another mule pass by inertia.
+- Do not keep adding child fixes under this parent boss without a new trigger.
 - Do not implement multiple fixes at once.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.

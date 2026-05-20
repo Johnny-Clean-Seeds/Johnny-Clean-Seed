@@ -3336,3 +3336,37 @@ Boundary:
 - No tool/checker/Soft Suit promotion.
 - No automation, dashboard, knowledge graph, or full lesson index.
 - No PROOF_HISTORY restructuring.
+## Rule Activation / Work-Order Control Parent Boss Close Check
+
+Status: SAVED
+Date: 2026-05-20
+Base before save: main @ c462b18
+Parent Boss: Rule Activation / Work-Order Control
+Verdict: CLOSED WITH WATCH
+
+Saved:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\RULE_ACTIVATION_PARENT_BOSS_CLOSE_CHECK_20260520.md
+- PROOF_HISTORY\RULE_ACTIVATION_PARENT_BOSS_CLOSE_CHECK_RECEIPT_20260520.txt
+
+Updated:
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+- Recent child fixes under Rule Activation / Work-Order Control were checked as one route.
+- Included fixes: receipt hygiene, control-state-first, PowerShell false-success guard, mule short kickoff, queue active-inertia cleanup, and packet top-block rule.
+- Parent boss is closed with watch for this repair run.
+- Future failures can reopen it.
+- No new rule was installed by this close check.
+
+Boundary:
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX rewrite.
+- No doctrine compression.
+- No old packet rewrite.
+- No runtime build.
+- No /system.
+- No tool/checker/Soft Suit promotion.
+- No automation, dashboard, knowledge graph, or full lesson index.
+- No PROOF_HISTORY restructuring.
+- No mule pass run.
