@@ -1,0 +1,49 @@
+MULE ROLE / ANTI-AGREEMENT / BETTER-FIT LOCK RECEIPT
+
+Date:
+2026-05-19
+
+Base before save:
+56c2eb3 Finalize predictive learning mule return
+56c2eb3cff79704fb812de323599de8693b7ae8c
+
+Saved:
+BRAIN_LEARNING\ANTI_AGREEMENT_PROOF_IN_PUDDING_RULE_20260519.md
+BRAIN_LEARNING\BETTER_FIT_ADOPTION_RECURSIVE_DISPOSITION_RULE_20260519.md
+BRAIN_LEARNING\MULE_WORKER_NOT_SUPERVISOR_HOUSE_WALK_FIRST_RULE_20260519.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\MULE_ROLE_ANTI_AGREEMENT_BETTER_FIT_DISSECTION_20260519.md
+
+Updated:
+ACTIVE_ANCHOR.txt
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Verdict:
+PASS - progress placed in the correct support lanes.
+
+Placed rules:
+- Anti-Agreement / Proof-In-Pudding.
+- Better-Fit Adoption / Recursive Disposition.
+- Mule Worker, Not Supervisor / House Walk First.
+
+Reason:
+The recent conversation exposed a mule-lane misuse risk:
+the mule was drifting toward standing supervisor instead of bounded deep-sweep / hard-critique worker.
+
+Result:
+The next move is now house-first walk before another mule send.
+
+Boundary:
+No doctrine rewrite.
+No active guide rewrite.
+No CURRENT_TRUTH_INDEX change.
+No tool promotion.
+No checker promotion.
+No Soft Suit promotion.
+No automation.
+No full lesson index.
+No knowledge graph.
+No dashboard.
+
+Next move:
+Run a self-house walk from the final commit after this save.
+Decide from proof whether the Whole-House Review mule is needed.

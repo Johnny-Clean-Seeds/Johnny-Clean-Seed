@@ -2926,3 +2926,41 @@ Next move:
 - Return to Q-20260519-009 Whole-House Review with the final commit as send position.
 - Do not re-refresh the Whole-House Review handoff solely because this finalization creates a newer commit.
 - Use a base-label guardrail instead.
+
+## 2026-05-19 - Mule role / anti-agreement / better-fit lock
+
+Base before save: main @ 56c2eb3.
+
+Saved:
+- BRAIN_LEARNING\ANTI_AGREEMENT_PROOF_IN_PUDDING_RULE_20260519.md
+- BRAIN_LEARNING\BETTER_FIT_ADOPTION_RECURSIVE_DISPOSITION_RULE_20260519.md
+- BRAIN_LEARNING\MULE_WORKER_NOT_SUPERVISOR_HOUSE_WALK_FIRST_RULE_20260519.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\MULE_ROLE_ANTI_AGREEMENT_BETTER_FIT_DISSECTION_20260519.md
+- PROOF_HISTORY\MULE_ROLE_ANTI_AGREEMENT_BETTER_FIT_LOCK_RECEIPT_20260519.txt
+
+Updated:
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Verdict:
+- PASS: progress placed in correct support lanes.
+- Mule role corrected: worker/sharpener, not supervisor.
+- Anti-agreement rule saved.
+- Better-fit recursive disposition rule saved.
+- Next move is house-first walk before another mule send.
+
+Boundary:
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX change.
+- No tool promotion.
+- No checker promotion.
+- No Soft Suit promotion.
+- No automation.
+- No full lesson index.
+- No knowledge graph.
+- No dashboard.
+
+Next move:
+- Run a self-house walk from the final commit after this save.
+- Decide from proof whether the Whole-House Review mule is needed.
