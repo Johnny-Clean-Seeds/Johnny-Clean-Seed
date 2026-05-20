@@ -1,27 +1,54 @@
-CURRENT MR.KLEEN POSITION
+# ACTIVE ANCHOR
 
-After Relevant Root Key Selector First Live Use.
+Date: 2026-05-20
+Base before save: e9bc566bb432817f266e6604595172f5e95afb21
+Current active ball after this save: Mule return intake after discussion idea/rule lock save
 
-Base before save: 7a9e864adfa7d2693797969bc42ca13d05ca3a37
+## Last completed move
 
-Current ball:
-- Relevant Root Key And Tool Use Selector has first live-use proof.
-- Recovery was required because the first save attempt stopped before commit on a path verification mismatch.
-- Dirty-state recovery allowed only expected target files before continuing.
-- The live use selected four keys: Control state first, Boss first ghosts under it, Use the tools that fit, No random moves.
-- Tool choice was direct PowerShell read only.
-- Boss/Ghost map selected Parent Boss A as the remaining route.
-- Selector TODO remains open for more varied live use.
+Saved the dense discussion learning cluster:
 
-Next allowed move:
-- Read HOUSE_WORK\TODO\BOSS_GHOST_RULE_FIRING_CYCLE_FLOW_TODO_20260520.md before repair.
-- Keep using selector: pick only relevant keys/tools.
+- discovery path / how-we-found-out learning;
+- rule-not-fired alarm;
+- report gate trigger binding;
+- solid good fog distinction;
+- placement-keying memory health;
+- rule-concept-event link map seed;
+- mule done / return intake state.
 
-Blocked moves:
-- Do not close selector TODO from one live use.
-- Do not promote selector or Living Root Words.
-- Do not hand-pick TODOs by newest file order.
+## Current control state
+
+Mule is reported done.
+
+Mule output has not yet been ingested.
+
+The house should process mule return next through intake, not by blind adoption.
+
+## Next allowed move
+
+Freeze/read the mule return package from the local mule workshop dump folder.
+
+Required sequence:
+
+1. identify packet and dump folder;
+2. verify current repo state and packet base;
+3. read stale-check result;
+4. read return manifest first if present;
+5. list every returned file;
+6. inspect every returned file;
+7. disposition each returned item before save/adoption.
+
+## Blocked moves
+
+- Do not treat mule output as command authority.
+- Do not cherry-pick one mule recommendation before full return inventory.
 - Do not rewrite doctrine.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.
 - Do not create dashboard, automation, runtime, knowledge graph, or full lesson index.
+- Do not promote tools, suits, stale checker, relation map, or report gate from this save alone.
+- Do not keep creating support-rule loops instead of processing the mule return.
+
+## Boundary
+
+This anchor records state and next intake route. It is not doctrine.

@@ -4245,3 +4245,30 @@ Boundary:
 
 Next move:
 - read HOUSE_WORK\TODO\BOSS_GHOST_RULE_FIRING_CYCLE_FLOW_TODO_20260520.md before repair.
+
+---
+
+## 2026-05-20 - Discussion ideas/rules lock save
+
+Base before save: e9bc566bb432817f266e6604595172f5e95afb21
+Base short: e9bc566
+Status before save: clean
+
+Saved discussion cluster:
+
+- discovery path / how-we-found-out learning;
+- rule-not-fired alarm;
+- write -> pause -> rewrite full-report trigger binding;
+- solid good fog versus dirty fog distinction;
+- placement-keying memory health test;
+- Rule-Concept-Event link map seed;
+- mule done / return intake-ready state.
+
+Current active ball after save:
+Mule return intake.
+
+Next allowed move:
+Freeze/read the mule return package from the local mule workshop dump folder, stale-check it, read manifest first, inspect all returned files, and disposition before any adoption/save.
+
+Boundary:
+No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, no tool/suit/stale-checker/relation-map promotion, and no mule output adoption in this save.
