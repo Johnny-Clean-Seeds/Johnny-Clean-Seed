@@ -42,3 +42,32 @@ It does not rewrite doctrine.
 It does not rewrite active guides.
 
 It does not rewrite CURRENT_TRUTH_INDEX.
+
+---
+
+## Live Use 001 - TODO Triage Read
+
+Status: PASS WITH GUARDRAILS / first live use.
+
+Selected keys:
+- Control state first.
+- Boss first, ghosts under it.
+- Use the tools that fit.
+- No random moves.
+
+Selected tool:
+- Direct PowerShell read only.
+
+Recovery note:
+- First save attempt stopped before commit on a generated path verification mismatch.
+- Recovery continued only after dirty status showed no unexpected dirty paths.
+
+Result:
+- selector fired before action;
+- root keys were narrowed instead of recited as a whole list;
+- direct read was used instead of broad tool use;
+- Boss/Ghost map selected Parent Boss A as remaining route;
+- next read target: HOUSE_WORK\TODO\BOSS_GHOST_RULE_FIRING_CYCLE_FLOW_TODO_20260520.md.
+
+Guardrail:
+- TODO remains open for more varied live use.

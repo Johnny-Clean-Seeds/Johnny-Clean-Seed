@@ -4205,3 +4205,43 @@ Boundary:
 
 Next move:
 - use this selector on the next nontrivial Mr.Kleen move as live-use proof.
+
+---
+
+## 2026-05-20 - Relevant Root Key Selector First Live Use
+
+Status: PASS WITH GUARDRAILS / FIRST LIVE USE / RECOVERED SAVE.
+
+Base before save: 7a9e864adfa7d2693797969bc42ca13d05ca3a37
+
+Saved:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\RELEVANT_ROOT_KEY_SELECTOR_FIRST_LIVE_USE_TODO_TRIAGE_20260520.md
+HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\RELEVANT_ROOT_KEY_SELECTOR_FIRST_LIVE_USE_INSTANTIATION_20260520.md
+PROOF_HISTORY\RELEVANT_ROOT_KEY_SELECTOR_FIRST_LIVE_USE_RECEIPT_20260520.txt
+
+Updated:
+HOUSE_WORK\TODO\RELEVANT_ROOT_KEY_AND_TOOL_USE_SELECTOR_LIVE_USE_TODO_20260520.md
+ACTIVE_ANCHOR.txt
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+- selector fired before action;
+- selected four relevant root keys instead of reciting the whole list;
+- selected direct PowerShell read only as fitting tool;
+- acted inside boundary;
+- Boss/Ghost map selected Parent Boss A as remaining route;
+- next read target is BOSS_GHOST_RULE_FIRING_CYCLE_FLOW_TODO_20260520.md.
+
+Recovery:
+- first save attempt stopped before commit due to path verification mismatch;
+- recovery allowed only expected dirty target files before continuing.
+
+Boundary:
+- no doctrine install;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no dashboard/automation/runtime/knowledge graph/full lesson index;
+- no closure or promotion from this first live use.
+
+Next move:
+- read HOUSE_WORK\TODO\BOSS_GHOST_RULE_FIRING_CYCLE_FLOW_TODO_20260520.md before repair.
