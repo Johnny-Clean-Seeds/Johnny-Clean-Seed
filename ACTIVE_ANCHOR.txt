@@ -1,29 +1,26 @@
-ACTIVE BALL: Living root words / rule activation keys refinement saved; next move must be selected cleanly.
+ACTIVE BALL: Recurring Non-Recursive Failure mule return intaken raw.
 
-RECORDED BASE BEFORE SAVE: main @ 8c124d7
+BASE BEFORE INTAKE: main @ 50c248d
+
+SOURCE:
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\HOUSE_WORK\WORK_SHED\AGENT_OUTPUTS\RECURRING_NON_RECURSIVE_FAILURE_MULE_RETURN_20260520_001
+
+DESTINATION:
+HOUSE_WORK\WORK_SHED\AGENT_OUTPUTS\RECURRING_NON_RECURSIVE_FAILURE_MULE_RETURN_20260520_001
 
 CURRENT PROVEN ITEMS:
-- Rule Activation / Work-Order Control is closed with watch.
-- Living root words are saved as support keys, not doctrine.
-- Root words must have trigger, lane, stop behavior, allowed behavior, and proof of use.
-- Weak slogans are filtered out unless made operational.
-- The operational key list supports future work-entry behavior.
-- No active guide rewrite was performed.
-- No mule pass was run.
+- Mule return files found under Desktop.
+- Six required return files copied into Mr.Kleen.
+- Intake is raw only; no adoption yet.
 
 NEXT ALLOWED MOVE:
-- Move to a fresh user-selected task.
-- Future failures can reopen Rule Activation / Work-Order Control.
-- Before next task, run control-state-first and select only relevant root keys.
+- Read MANIFEST.md first.
+- Then read FAILURE_PATTERN_REPORT.md, EVIDENCE_MATRIX.md, RECURSIVE_LINK_BREAK_DIAGNOSIS.md, FIX_CANDIDATES_DISPOSITION.md, NEXT_ACTION_RECOMMENDATION.md.
+- Disposition each item: accept, adapt, park, block, needs-proof.
+- Build smallest save package only after disposition.
 
-BLOCKED MOVES:
-- Do not keep adding fixes under the closed parent boss without a new trigger.
-- Do not run another mule pass by inertia.
-- Do not implement multiple fixes at once.
+BLOCKED:
+- Do not install mule recommendations by intake.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.
-- Do not restructure PROOF_HISTORY.
-- Do not promote tools/checkers/Soft Suits.
-- Do not build runtime/status-command.
-- Do not create /system.
-- Do not build automation, dashboard, knowledge graph, or full lesson index.
+- Do not build dashboard, automation, knowledge graph, runtime, or full lesson index.
