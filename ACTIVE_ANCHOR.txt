@@ -1,59 +1,41 @@
 # ACTIVE ANCHOR
 
 Date: 2026-05-20
-Current active ball after this save: Rule-Firing Confirmation Before Action Gate live use
+Current active ball after this save: Rule-Firing Confirmation Card live use, with Habit / Mimic-Adopt-Adapt lens parked for proof
 
 ## Last completed move
 
-Saved the narrow root fix for:
+Saved Habit Pattern / Mimic Adopt Adapt transfer learning.
 
-Rule storage mistaken for rule firing.
+This save captured:
 
-This save includes:
-
-- suit-loadout before Boss/Ghost live-use proof;
-- selected child route file;
-- Rule-Firing Confirmation Before Action Gate;
-- Rule-Firing Confirmation Card;
-- immediate live-use TODO;
-- Rule-Concept-Event map entry.
+- habits as repeated firing-pattern evidence;
+- habits as structure for good fog and growth-cycle learning;
+- mimic as same-shape transfer test;
+- adopt as proof-fit acceptance;
+- adapt as shape-preserving/context-changing transfer;
+- MAA as a support lens, not doctrine;
+- live-use TODO for first proof.
 
 ## Current control state
 
-Suit-first has one live-use proof.
-
-The root child is selected:
-
-Rule storage mistaken for rule firing.
-
-The narrow fix is selected:
+The active next operational gate remains:
 
 Rule-Firing Confirmation Before Action Gate.
 
+The habit/MAA lens is available as support when a repeated pattern or transfer decision appears.
+
 ## Next allowed move
 
-Use the Rule-Firing Confirmation Card before the next nontrivial Mr.Kleen house-touching action.
+Use Rule-Firing Confirmation Card before the next nontrivial Mr.Kleen house-touching action.
 
-The card must name:
-
-- State;
-- Intended action;
-- Fired gate;
-- Why it fired;
-- Blocked moves;
-- Proof needed;
-- Disposition.
-
-Then proceed only if allowed.
+If that action involves repeated behavior or plan transfer, also use the Habit / Mimic-Adopt-Adapt lens.
 
 ## Blocked moves
 
-- Do not save proof-only when a root mechanism is needed.
-- Do not act first and explain the rule afterward.
-- Do not create a broad support-rule stack.
+- Do not promote Habit/MAA from this capture alone.
+- Do not create a dashboard, automation, runtime, knowledge graph, or full lesson index.
 - Do not rewrite doctrine.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.
-- Do not create dashboard, automation, runtime, knowledge graph, or full lesson index.
-- Do not promote the gate from this one save.
-- Do not adopt mule output as command authority.
+- Do not copy plans across lanes without proof.

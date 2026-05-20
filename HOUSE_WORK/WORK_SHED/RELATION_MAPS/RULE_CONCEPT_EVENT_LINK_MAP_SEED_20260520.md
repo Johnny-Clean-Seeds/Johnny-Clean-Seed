@@ -235,3 +235,43 @@ Suit First Before Route; Root Problem Cleanup; Relevant Root Key Selector; No Ru
 
 Boundary:
 Not doctrine, not active guide, not automation, not dashboard.
+
+## Entry 12 - Habits As Pattern Transfer Evidence
+
+Rule:
+Repeated behavior should be treated as habit evidence: it can reveal what actually fires, what fails to fire, and what plan shape may transfer.
+
+Concept:
+Habit pattern; growth-cycle evidence; good fog compression; transfer structure.
+
+Event:
+After the Rule-Firing Confirmation Card was created, the user identified that habits show patterns, give structure, and reveal how one plan can work in other areas in different ways.
+
+Trigger phrases:
+habits; patterns; same plan in other areas; mimic; adopt; adaptation; puzzle parts.
+
+Proof state:
+Saved as support learning. Needs first live-use proof on an actual repeated pattern.
+
+Neighbor rules:
+Rule-Firing Confirmation Gate; Discovery Path learning; Rule-Concept-Event map; Good Fog; Growth Cycle.
+
+## Entry 13 - Mimic Adopt Adapt Transfer Lens
+
+Rule:
+When moving a working plan to another area, decide whether to mimic, adopt, or adapt instead of copying blindly.
+
+Concept:
+Pattern transfer; lane/context fit; anti-surface-command mimicry; better-fit adoption.
+
+Event:
+User named mimic, adopt, and adaptation as a small system that may explain how habits and plans transfer between areas.
+
+Trigger phrases:
+mimic; adopt; adapt; works in other areas; transfer; same shape different lane.
+
+Proof state:
+Captured as support lens. Needs varied live use before stronger placement.
+
+Boundary:
+Not doctrine, not active guide, not automation, not dashboard.

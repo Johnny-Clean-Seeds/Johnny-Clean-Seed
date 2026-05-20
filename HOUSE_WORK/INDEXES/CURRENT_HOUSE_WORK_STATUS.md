@@ -4389,3 +4389,28 @@ No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no
 
 Next:
 Use Rule-Firing Confirmation Card before the next nontrivial Mr.Kleen house-touching action.
+
+---
+
+## 2026-05-20 - Habit pattern / mimic-adopt-adapt transfer learning
+
+Base before save: e672c2aac40120e0f3a5d8bdefc9d80f0eb90397
+Base short: e672c2a
+Status before save: clean
+
+Saved:
+- BRAIN_LEARNING\HABIT_PATTERN_MIMIC_ADOPT_ADAPT_TRANSFER_RULE_20260520.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\HABIT_PATTERN_MIMIC_ADOPT_ADAPT_DISSECTION_20260520.md
+- HOUSE_WORK\TODO\HABIT_PATTERN_MIMIC_ADOPT_ADAPT_LIVE_USE_TODO_20260520.md
+- appended entries to HOUSE_WORK\WORK_SHED\RELATION_MAPS\RULE_CONCEPT_EVENT_LINK_MAP_SEED_20260520.md
+- updated ACTIVE_ANCHOR.txt
+- updated this status file
+
+Meaning:
+Habits are repeated firing-pattern evidence. They show what actually repeats, reveal stable or broken routes, and help decide whether a plan should mimic, adopt, or adapt when moved into another lane.
+
+Boundary:
+No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, and no promotion.
+
+Next:
+Use Rule-Firing Confirmation Card before the next nontrivial Mr.Kleen house-touching action. Use Habit/MAA lens only when repeated pattern or transfer decision appears.
