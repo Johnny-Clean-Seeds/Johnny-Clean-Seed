@@ -26,10 +26,10 @@ PASS / PARTIAL.
 Passed:
 - Rule-not-fired alarm live use.
 - Rule-Concept-Event map live use.
+- Mule return intake/disposition proof for Big Overall Job return.
 
 Still open:
 - Full report gate.
-- Future mule-return intake proof.
 - More varied proof before any promotion.
 
 ## Required live uses
@@ -48,40 +48,27 @@ OPEN / NOT TRIGGERED BY THIS EVENT.
 
 ### 2. Rule-not-fired alarm
 
-Next time a missed rule is caught:
-
-- name the missed rule;
-- name the event that exposed it;
-- name the concept family;
-- capture how it was found;
-- decide lane/disposition.
-
 Status:
 PASS AS FIRST LIVE USE.
 
 ### 3. Rule-Concept-Event map
-
-On the next real rule save or relation save:
-
-- add at least one Rule -> Concept -> Event entry;
-- include trigger phrases;
-- include proof state;
-- include authority boundary.
 
 Status:
 PASS AS FIRST LIVE USE.
 
 ### 4. Mule return intake
 
-When mule return is provided:
-
-- freeze/read manifest first;
-- inspect all returned files;
-- disposition every item;
-- keep mule output in incoming/source/support lanes until proof.
-
 Status:
-PARTIAL / WATCH. Do not close from current event.
+PASS AS INTAKE/DISPOSITION PROOF FOR BIG OVERALL JOB RETURN.
+
+Proof:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_20260520.md
+
+Receipt:
+PROOF_HISTORY\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_RECEIPT_20260520.txt
+
+Boundary:
+This pass means the return was fully read and dispositioned. It does not mean mule outputs were adopted as command authority.
 
 ## Not allowed
 
@@ -89,4 +76,4 @@ PARTIAL / WATCH. Do not close from current event.
 - Do not build dashboard or knowledge graph from this TODO alone.
 - Do not rewrite CURRENT_TRUTH_INDEX.
 - Do not use this TODO as command authority.
-- Do not close this TODO from partial proof.
+- Do not close this TODO while full report gate remains open.

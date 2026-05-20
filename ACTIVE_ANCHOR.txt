@@ -5,26 +5,27 @@ Current active ball after this save: Route selection under Rule-Firing Confirmat
 
 ## Last completed move
 
-Saved varied live-use proof for:
-
-- Relevant Root Key / Tool Use Selector;
-- No Rule King guard during selector route.
+Saved full intake/disposition proof for the Big Overall Job mule return.
 
 Verdict:
-- Relevant Root Key Selector: PASS as varied live use.
-- No Rule King: PASS / PARTIAL as guard proof.
+PASS as mule-return intake/disposition proof.
+
+Meaning:
+The mule return was fully read and dispositioned. It is now safe to use as parked support evidence. It is not command authority.
 
 ## Current control state
 
-Rule-Firing Confirmation Card has live-use proof and remains active before nontrivial Mr.Kleen house-touching action.
+Rule-Firing Confirmation Card remains active before nontrivial Mr.Kleen house-touching action.
 
-Relevant Root Key / Tool Use Selector has varied proof and remains support-only.
+Relevant Root Key / Tool Use Selector remains support-only.
 
-Habit / MAA lens has live-use proof and remains support-only.
+Habit / MAA lens remains support-only.
 
-RCE / Report Gate TODO has partial proof and remains open.
+RCE / Report Gate TODO remains PASS / PARTIAL because full report gate is still open.
 
-No Rule King has partial guard proof and remains open.
+No Rule King remains open as guard.
+
+Big Overall Job mule return is fully intaken/dispositioned and parked as support evidence.
 
 No item is promoted.
 
@@ -40,6 +41,8 @@ Use No Rule King whenever a rule, card, selector, suit, tool, TODO, map, or mule
 
 ## Blocked moves
 
+- Do not run another mule pass by inertia.
+- Do not adopt mule output as command authority.
 - Do not promote the selector from varied proof.
 - Do not promote No Rule King from partial proof.
 - Do not promote RCE map/report gate from partial proof.

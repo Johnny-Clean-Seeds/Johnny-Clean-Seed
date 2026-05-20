@@ -4505,3 +4505,31 @@ No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no
 
 Next:
 Return to route selection under Rule-Firing Confirmation Card.
+
+---
+
+## 2026-05-20 - Mule return Big Overall full disposition
+
+Base before save: 381c2ee383aba11517492768c68b6c4ae0c452ee
+Base short: 381c2ee
+Status before save: clean
+
+Saved:
+- HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\RETURNS\BIG_OVERALL_JOB_20260520_051710_RETURN_INTAKE_20260520_054120\FULL_DISPOSITION_AFTER_READ_20260520.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_20260520.md
+- updated HOUSE_WORK\TODO\RULE_CONCEPT_EVENT_LINK_MAP_AND_REPORT_GATE_LIVE_USE_TODO_20260520.md
+- appended entry to HOUSE_WORK\WORK_SHED\RELATION_MAPS\RULE_CONCEPT_EVENT_LINK_MAP_SEED_20260520.md
+- updated ACTIVE_ANCHOR.txt
+- updated this status file
+
+Verdict:
+PASS as full mule-return intake/disposition proof.
+
+Meaning:
+The Big Overall Job mule return is now fully read and dispositioned. It is useful support evidence but not command authority. Packet-time PASS is preserved as packet evidence; later STALE/BLOCKED result and current HEAD movement block blind adoption.
+
+Boundary:
+No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, no promotion, and no mule output adoption.
+
+Next:
+Return to route selection under Rule-Firing Confirmation Card.

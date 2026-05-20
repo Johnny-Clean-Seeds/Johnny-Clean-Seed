@@ -355,3 +355,23 @@ Partial guard proof saved. Full No Rule King TODO remains open.
 
 Boundary:
 No promotion, no doctrine, no active guide.
+
+## Entry 18 - Mule Return Big Overall Full Disposition
+
+Rule:
+Mule return output must be read, stale/custody checked, and dispositioned item-by-item before adoption or parking.
+
+Concept:
+Worker custody; outside output as support evidence; stale proof boundary; no mule command authority.
+
+Event:
+The Big Overall Job mule return was imported into brain custody, then manifest/index files and remaining JOB_00 through JOB_06 outputs were read. The final disposition applied, adapted, parked, rejected, or marked needs-proof for each return item without adopting mule output as command authority.
+
+Trigger phrases:
+mule return; full disposition; stale check; known path; outside worker; output is support only.
+
+Proof state:
+Full intake/disposition proof saved for this mule return. No adoption or promotion.
+
+Boundary:
+Not doctrine, not active guide, not dashboard, not automation.
