@@ -4590,3 +4590,37 @@ No CURRENT_TRUTH_INDEX rewrite.
 No doctrine promotion.
 No dashboard, automation, runtime, knowledge graph, or full lesson index.
 No fake substitute output package.
+
+---
+
+## RCE Full-Report Gate First Full Use Proof
+
+Status: SAVED
+Date: 2026-05-20
+Base before save: c0252f8
+
+Verdict:
+PASS WITH WATCH / FIRST FULL-REPORT GATE LIVE USE PROVEN.
+
+Loaded evidence:
+- HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\RETURNS\BOSS_RUN_6_LOOP_RETURN_20260520_082813
+- HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\RETURNS\WEB_RESEARCH_BOSS_WAVES_RETURN_20260520_085049
+
+Updated:
+- HOUSE_WORK\TODO\RULE_CONCEPT_EVENT_LINK_MAP_AND_REPORT_GATE_LIVE_USE_TODO_20260520.md
+
+Saved:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\RCE_FULL_REPORT_GATE_FIRST_FULL_USE_PROOF_20260520.md
+- PROOF_HISTORY\RCE_FULL_REPORT_GATE_FIRST_FULL_USE_RECEIPT_20260520.txt
+
+Meaning:
+The full-report gate fired for this event and received first claim-scoped proof.
+The broader TODO remains open for varied proof before any promotion.
+
+Boundary:
+No ACTIVE_GUIDES rewrite.
+No CURRENT_TRUTH_INDEX rewrite.
+No ACTIVE_ANCHOR rewrite.
+No doctrine promotion.
+No dashboard/runtime/automation/knowledge graph/full lesson index.
+No mule pass by inertia.

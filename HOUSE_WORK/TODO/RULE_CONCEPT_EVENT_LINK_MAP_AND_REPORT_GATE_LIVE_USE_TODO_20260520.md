@@ -2,7 +2,7 @@
 
 Date: 2026-05-20
 Lane: HOUSE_WORK / TODO
-Status: partial live-use proof recorded / still open
+Status: first full-report gate proof recorded / still open for varied proof
 Parent Boss: Rule Activation / Work-Order Control
 Related Boss: Memory Health / Placement-Keying / Good Fog Compression
 
@@ -29,8 +29,10 @@ Passed:
 - Mule return intake/disposition proof for Big Overall Job return.
 
 Still open:
-- Full report gate.
 - More varied proof before any promotion.
+
+Newly passed:
+- Full report gate first live use.
 
 ## Required live uses
 
@@ -44,7 +46,13 @@ Next time user asks for house walk / feel report / full report / step back / do 
 - do not push commands unless the report proves a command is needed.
 
 Status:
-OPEN / NOT TRIGGERED BY THIS EVENT.
+PASS WITH WATCH / FIRST FULL-REPORT GATE LIVE USE PROVEN.
+
+Proof:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\RCE_FULL_REPORT_GATE_FIRST_FULL_USE_PROOF_20260520.md
+
+Receipt:
+PROOF_HISTORY\RCE_FULL_REPORT_GATE_FIRST_FULL_USE_RECEIPT_20260520.txt
 
 ### 2. Rule-not-fired alarm
 
@@ -77,3 +85,4 @@ This pass means the return was fully read and dispositioned. It does not mean mu
 - Do not rewrite CURRENT_TRUTH_INDEX.
 - Do not use this TODO as command authority.
 - Do not close this TODO while full report gate remains open.
+
