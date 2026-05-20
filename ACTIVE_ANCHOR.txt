@@ -1,22 +1,21 @@
-ACTIVE BALL: Filing Cabinet and Relation Method candidates homed.
+CURRENT MR.KLEEN POSITION
 
-BASE BEFORE SAVE: main @ 82f4e1d
+After Whole-House Double-Pass Mule Critique Return raw intake.
 
-CURRENT PROVEN ITEMS:
-- Filing Cabinet / Reusable Workflow Skeleton Method has a Gear Rack home.
-- Relation Method / Across-the-Board Relation Lens has an Idea Bag home.
-- Shared live-use TODO created.
-- Sorting Bench dissection saved.
-- These are candidates/support methods, not doctrine or active guides.
+Current ball:
+- Raw mule return has been copied into Mr.Kleen AGENT_OUTPUTS.
+- All 12 required files were present, readable, copied, and hash-verified.
+- Intake is evidence custody only.
 
-NEXT ALLOWED MOVE:
-- Upload/read the deep local house scan report if still needed.
-- On the next repeated local workflow, try Filing Cabinet before generating from scratch.
-- On the next across-the-board issue, run Relation Method before judging.
-- Keep After-Fix Carryover Latch active on meaningful fixes.
+Next allowed move:
+- Read and disposition mule return.
+- Decide ACCEPT / ADAPT / PARK / BLOCK / NEEDS-PROOF.
+- Choose smallest clean next action after disposition.
 
-BLOCKED:
+Blocked moves:
+- Do not adopt mule recommendations from intake alone.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.
-- Do not promote these candidates without live-use proof.
-- Do not build dashboard, automation, runtime, knowledge graph, or full lesson index.
+- Do not promote doctrine.
+- Do not install dashboard, automation, runtime, knowledge graph, or full lesson index.
+- Do not mix failed common-sense pending save into this intake.

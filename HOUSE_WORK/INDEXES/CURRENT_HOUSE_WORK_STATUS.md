@@ -3503,3 +3503,34 @@ Boundary:
 - No doctrine promotion.
 - No runtime/tool install.
 - No dashboard, automation, knowledge graph, or full lesson index.
+
+---
+
+## 2026-05-20 — Whole-House Double-Pass Mule Critique Return Raw Intake
+
+Status: PASS AS RAW RETURN INTAKE ONLY.
+
+Saved raw mule return folder:
+
+HOUSE_WORK\WORK_SHED\AGENT_OUTPUTS\WHOLE_HOUSE_DOUBLE_PASS_MULE_CRITIQUE_RETURN_20260520_001
+
+Receipt:
+
+PROOF_HISTORY\WHOLE_HOUSE_DOUBLE_PASS_MULE_CRITIQUE_RETURN_INTAKE_RECEIPT_20260520.txt
+
+Meaning:
+- all 12 required mule return files were copied from Desktop source into Mr.Kleen;
+- source/destination hashes matched;
+- intake preserved evidence only;
+- mule recommendations are not adopted yet.
+
+Next move:
+- read/disposition mule return before any installation or follow-up save.
+
+Boundary:
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no doctrine promotion;
+- no tool/checker promotion;
+- no automation/dashboard/knowledge graph/full lesson index;
+- no common-sense pending save mixed into this intake.
