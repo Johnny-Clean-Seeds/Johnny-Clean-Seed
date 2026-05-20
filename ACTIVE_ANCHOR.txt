@@ -1,24 +1,31 @@
 CURRENT MR.KLEEN POSITION
 
-After Growth Cycle mule review disposition/unload and Whole-House Soft Suit Trigger Event 001.
+After Compose-Review-Reflect-Capture rule save.
+
+Base before save:
+ef66d12b9bbe2b756f35f107dbbc0282954c283c
 
 Current ball:
-- Growth Cycle mule review return has been read and dispositioned.
-- Growth Cycle is parked as high-value source ore.
-- Stage-Readiness / Scaffold-Exit is held as one future live-use lens only.
-- Prior Growth Cycle return disposition TODO is closed.
-- Whole-House Double-Pass Mule Critique Soft Suit Trigger Event 001 is marked after proof.
+- Growth Cycle unload / Soft Suit event work is complete at prior position if current hash was ef66d12.
+- Compose-Review-Reflect-Capture rule is now saved as a behavior rule.
+- Affected concept list is parked in Sorting Bench.
+- Live-use TODO is open.
+
+Meaning:
+- Significant drafts must now be reviewed for newly revealed structure before sending.
+- Newly revealed structure must be captured or parked.
+- Parked ideas may be worn as Soft Suit / live-use candidates.
+- Proof is still required before safe mark, trigger-event mark, promotion, gate extraction, or doctrine.
+- Injection happens at the right save/update/code moment, not by excitement.
 
 Next allowed move:
 - Continue normal work.
-- Wear the Whole-House Soft Suit naturally.
-- Use Growth Cycle Stage-Readiness / Scaffold-Exit only when a natural maturity/promotion/compression/expansion/scaffold-exit decision appears.
+- Use this rule on the next significant draft, prompt, handoff, code, or unload.
+- Prove live use before any promotion.
 
 Blocked moves:
-- Do not install Growth Cycle now.
-- Do not split the Soft Suit.
-- Do not extract gates.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.
-- Do not promote doctrine.
-- Do not install dashboard, automation, runtime, knowledge graph, or full lesson index.
+- Do not install doctrine.
+- Do not split Soft Suits.
+- Do not create dashboard, automation, runtime, knowledge graph, or full lesson index.

@@ -3678,3 +3678,35 @@ Next move:
 - continue normal work;
 - wear suit naturally;
 - use Growth Cycle only on natural maturity/promotion/compression/expansion/scaffold-exit trigger.
+
+---
+
+## 2026-05-20 — Compose-Review-Reflect-Capture Rule Save
+
+Status: PASS.
+
+Base before save:
+ef66d12b9bbe2b756f35f107dbbc0282954c283c
+
+Saved:
+BRAIN_LEARNING\COMPOSE_REVIEW_REFLECT_CAPTURE_RULE_20260520.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\COMPOSE_REVIEW_REFLECT_CAPTURE_AFFECTED_CONCEPT_LIST_20260520.md
+HOUSE_WORK\TODO\COMPOSE_REVIEW_REFLECT_CAPTURE_LIVE_USE_TODO_20260520.md
+PROOF_HISTORY\COMPOSE_REVIEW_REFLECT_CAPTURE_RULE_RECEIPT_20260520.txt
+
+Meaning:
+- significant drafts now require a reflect/capture check before send;
+- newly revealed structure must be captured or parked;
+- parked material may be worn as Soft Suit / live-use candidate;
+- proof is still required before safe mark, trigger-event mark, promotion, gate extraction, or doctrine;
+- injection waits for the correct save/update/code moment.
+
+Boundary:
+- no doctrine install;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no Soft Suit split;
+- no dashboard/automation/runtime/knowledge graph/full lesson index.
+
+Next move:
+- use this rule on the next significant draft/prompt/code/unload and leave proof if it fires.

@@ -1,0 +1,62 @@
+# Compose-Review-Reflect-Capture Rule Receipt
+
+Date: 2026-05-20
+
+## Result
+
+PASS: Compose-Review-Reflect-Capture rule saved.
+
+## Base Before Save
+
+Branch: main
+HEAD before save: ef66d12b9bbe2b756f35f107dbbc0282954c283c
+origin/main before save: ef66d12b9bbe2b756f35f107dbbc0282954c283c
+
+## Files Saved
+
+- BRAIN_LEARNING\COMPOSE_REVIEW_REFLECT_CAPTURE_RULE_20260520.md | bytes=3211 | sha256=53122E0DAA027C590A14F0C27564F5805374FB7C3F970FEE9739BA2BA092B763
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\COMPOSE_REVIEW_REFLECT_CAPTURE_AFFECTED_CONCEPT_LIST_20260520.md | bytes=4465 | sha256=D08015568CA5197E7A91C3C92AAAFEA4BBC0C9E92C65620C8CC99A770189E39F
+- HOUSE_WORK\TODO\COMPOSE_REVIEW_REFLECT_CAPTURE_LIVE_USE_TODO_20260520.md | bytes=1157 | sha256=6B3528B4EA9D2EFA9C68156260E9A796C0CDDF809B0BA01F5F8816E2C84C55BA
+
+## Updated
+
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+## Meaning
+
+The assistant must now use the draft/review holding point as a Stop-and-Reflect moment.
+
+If the draft reveals new structure, affected concepts, missing lane, proof condition, parking behavior, injection timing, Soft Suit candidate, or skeleton candidate, the assistant must capture or park it.
+
+Parked material may be worn immediately as a Soft Suit / live-use candidate, but proof is required before marking safe, trigger-event marking, promotion, gate extraction, or doctrine.
+
+Injection happens when the correct save/update/code moment naturally arrives, not by excitement.
+
+## Boundary
+
+No doctrine install.
+
+No active guide rewrite.
+
+No CURRENT_TRUTH_INDEX rewrite.
+
+No Soft Suit split.
+
+No dashboard.
+
+No automation.
+
+No runtime.
+
+No knowledge graph.
+
+No full lesson index.
+
+## Proof Standard
+
+This receipt proves the files were written, checked, committed, pushed, and final-cleaned.
+
+It does not prove future live use yet.
+
+Future live use must be proven separately.
