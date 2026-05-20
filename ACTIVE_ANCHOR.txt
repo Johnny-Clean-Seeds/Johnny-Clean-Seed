@@ -1,29 +1,27 @@
 CURRENT MR.KLEEN POSITION
 
-After PowerShell Delivery Lint / Weakest-Link TODO route.
+After Handoff Safe Save Method lock.
 
 Base before save:
-324cde2858681855899ebc2bfa8d584ee1cddd64
+b7289e2c4347c3094022b7bd3815214356cf64ff
 
 Current ball:
-- TODO weakest-link triage selected PowerShell Command Safety / Copy Delivery Lint as top route.
-- Paste block lint checklist moved from parked to active because delivery failures repeated.
-- Long PowerShell/code must be delivery-linted before send.
-- Downloaded ps1 files should include process-scope execution-policy bypass run command.
-- Code Cabinet and save package skeleton were patched for delivery-lint.
-- This save used a recovery path after a required-text check mismatch stopped the first run before git add/commit.
-- Recovery V1 stopped safely because dirty-path parsing wrapped the path list as one object; Recovery V2 fixed the parser and allowed only the expected dirty paths.
+- Future handoff assistants have a saved safe save method card.
+- Long Mr.Kleen save scripts should use Code Cabinet and downloadable ps1 delivery.
+- Downloaded ps1 run commands should include process-scope execution-policy bypass and parser/lint check before execution when possible.
+- Partial failures before commit require narrow expected-dirty-path recovery.
+- PowerShell delivery/lint weakness is now captured as handoff method, not just a one-off fix.
 
 Next allowed move:
 - Continue TODO weakest-link triage on remaining open TODOs.
-- Use delivery lint on the next PowerShell/code delivery.
-- Use Code Cabinet for long scripts.
+- Use the handoff safe save method for future long scripts.
 - Use quiet source-note proof for notes.
 - Use Artifact Self-Check for created/sent artifacts.
 
 Blocked moves:
-- Do not resend the same unsafe delivery style after paste failures repeat.
+- Do not use giant unsafe chat-copy PowerShell when delivery errors have repeated.
 - Do not put prose or Markdown fence text into PowerShell copy material.
+- Do not rerun blindly after partial failure.
 - Do not promote this into automation/runtime/tooling.
 - Do not install doctrine.
 - Do not rewrite active guides.

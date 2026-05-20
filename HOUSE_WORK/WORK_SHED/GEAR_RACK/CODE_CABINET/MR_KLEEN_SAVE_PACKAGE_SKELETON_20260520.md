@@ -115,3 +115,17 @@ If using a downloaded ps1 file, include:
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force; & "$env:USERPROFILE\Downloads\FILE.ps1"
 
 Do not let prose, Markdown fence text, or explanatory chat become part of PowerShell input.
+
+---
+
+## 2026-05-20 - Handoff Save Method Step
+
+For handoff-ready long save scripts, add this before final send:
+
+- downloadable ps1 preferred for long scripts;
+- one run command only;
+- process-scope execution-policy bypass;
+- parser/lint check before execution when possible;
+- no prose or Markdown fence text in PowerShell input;
+- recovery path must allow only expected dirty paths;
+- final proof must show HEAD equals origin/main and status clean.

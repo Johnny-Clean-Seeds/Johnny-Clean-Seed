@@ -373,3 +373,19 @@ Disposition:
 Next:
 - use delivery lint on the next PowerShell/code delivery;
 - continue TODO weakest-link triage on remaining open TODOs.
+
+---
+
+## 2026-05-20 - Handoff Safe Save Method Locked
+
+Status: SUPPORT METHOD LOCKED.
+
+Meaning:
+- future handoff assistants must use the safe save method for long Mr.Kleen save scripts;
+- Code Cabinet and delivery lint are the required route;
+- downloadable ps1 plus parser/lint run command is preferred for long scripts;
+- partial failures recover only through expected-dirty-path proof;
+- no giant unsafe chat-copy PowerShell when delivery errors repeat.
+
+Next:
+- continue TODO weakest-link triage on remaining open TODOs.

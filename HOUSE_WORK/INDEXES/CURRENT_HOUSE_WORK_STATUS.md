@@ -3966,3 +3966,45 @@ Boundary:
 Next move:
 - continue TODO weakest-link triage on remaining open TODOs;
 - use delivery lint on next PowerShell/code delivery.
+
+
+---
+
+## 2026-05-20 - Handoff Safe Save Method Lock
+
+Status: PASS WITH GUARDRAILS.
+
+Base before save:
+b7289e2c4347c3094022b7bd3815214356cf64ff
+
+Saved:
+HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\HANDOFF_SAFE_SAVE_METHOD_INSTANTIATION_20260520.md
+BRAIN_LEARNING\HANDOFF_ASSISTANT_SAFE_SAVE_METHOD_RULE_20260520.md
+HOUSE_WORK\WORK_SHED\AGENT_HANDOFFS\HANDOFF_ASSISTANT_SAFE_SAVE_METHOD_CARD_20260520.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\SAVE_METHOD_DELIVERY_LINT_HANDOFF_DISPOSITION_20260520.md
+PROOF_HISTORY\HANDOFF_ASSISTANT_SAFE_SAVE_METHOD_RECEIPT_20260520.txt
+
+Updated:
+BRAIN_LEARNING\CODE_CABINET_BRIDGE_METHOD_RULE_20260520.md
+BRAIN_LEARNING\POWERSHELL_COPY_DELIVERY_LINT_AND_SCRIPT_EXECUTION_RULE_20260520.md
+HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\MR_KLEEN_SAVE_PACKAGE_SKELETON_20260520.md
+HOUSE_WORK\TODO\TODO_CONTROL_BOARD_20260518.md
+ACTIVE_ANCHOR.txt
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+- future handoff assistants have a saved safe save method;
+- Code Cabinet plus delivery lint is required for long Mr.Kleen save scripts;
+- downloaded ps1 delivery should use process-scope execution-policy bypass and parser/lint check where possible;
+- partial failures must recover through expected-dirty-path proof only;
+- this locks the method without doctrine or runtime promotion.
+
+Boundary:
+- no doctrine install;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no dashboard/automation/runtime/knowledge graph/full lesson index;
+- no script promotion.
+
+Next move:
+- continue TODO weakest-link triage on remaining open TODOs.

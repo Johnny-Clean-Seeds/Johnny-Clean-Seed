@@ -99,3 +99,15 @@ This rule does not rewrite active guides.
 This rule does not rewrite CURRENT_TRUTH_INDEX.
 
 This rule is delivery safety for PowerShell/code work.
+
+---
+
+## 2026-05-20 - Handoff Parser Lint Patch
+
+Downloaded ps1 delivery should include parser/lint check before execution when possible.
+
+Standard run-command shape:
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force; $p="$env:USERPROFILE\Downloads\FILE.ps1"; $t=$null; $e=$null; [System.Management.Automation.Language.Parser]::ParseFile($p,[ref]$t,[ref]$e) | Out-Null; if($e.Count){$e | Format-List | Out-String | Write-Host; throw "Parser errors in downloaded script"}; & $p
+
+If a script fails before commit, recover narrowly from expected dirty paths only.

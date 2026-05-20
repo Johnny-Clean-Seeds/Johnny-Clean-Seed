@@ -97,3 +97,21 @@ Check:
 - final copy-back block must be clear.
 
 This patch exists because repeated copy/paste failures proved delivery form was the weakest link.
+
+---
+
+## 2026-05-20 - Handoff Safe Save Method Patch
+
+Handoff patch:
+
+New handoff assistants must use the safe save method for long Mr.Kleen save scripts.
+
+Required flow:
+
+Code Cabinet -> downloadable ps1 when long -> one run command -> parser/lint check -> execute -> receipt -> commit -> push -> fetch -> HEAD equals origin/main -> status clean.
+
+Do not rely on giant chat copy blocks for long PowerShell when delivery errors have repeated.
+
+Handoff card:
+
+HOUSE_WORK\WORK_SHED\AGENT_HANDOFFS\HANDOFF_ASSISTANT_SAFE_SAVE_METHOD_CARD_20260520.md
