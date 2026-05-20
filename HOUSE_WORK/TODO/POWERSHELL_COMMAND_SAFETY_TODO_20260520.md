@@ -80,3 +80,36 @@ This TODO item stays under Parent Boss:
 Rule Activation / Work-Order Control.
 
 It should not become an independent parent boss unless command-safety failures keep repeating after this rule is saved.
+
+---
+
+## 2026-05-20 - Paste Block Lint Activated By Repeat Failure
+
+Status: ACTIVE CHILD ISSUE / MOVED FROM PARKED TO ACTIVE.
+
+Reason:
+- command paste errors repeated after the paste guard existed;
+- prose was pasted into PowerShell;
+- Markdown fence text was pasted into PowerShell;
+- downloaded ps1 execution was blocked by execution policy until process-scope bypass was used.
+
+Action:
+- Paste block lint checklist is now active, not parked.
+- Long scripts should use Code Cabinet delivery-lint before send.
+- Downloaded ps1 scripts should include process-scope execution-policy bypass in the run command.
+- If chat copy keeps failing, escalate delivery form instead of resending the same style.
+
+Saved rule:
+BRAIN_LEARNING\POWERSHELL_COPY_DELIVERY_LINT_AND_SCRIPT_EXECUTION_RULE_20260520.md
+
+Weakest-link triage:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\POWERSHELL_DELIVERY_REPEAT_FAILURE_WEAKEST_LINK_TRIAGE_20260520.md
+
+Boundary:
+- no broad PowerShell framework;
+- no automation;
+- no dashboard;
+- no runtime;
+- no script promotion;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite.

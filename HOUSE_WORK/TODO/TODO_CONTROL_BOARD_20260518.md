@@ -349,3 +349,27 @@ Next active work:
 - run TODO weakest-link triage;
 - let the list/proof choose the top route;
 - drive that route to active, done, parked, blocked, superseded, merged, or stale review.
+
+---
+
+## 2026-05-20 - Weakest-Link Triage Result PowerShell Delivery
+
+Status: TOP ROUTE WORKED / PASS WITH GUARDRAILS.
+
+Triage result:
+- PowerShell Command Safety / Copy Delivery Lint was the proof-ranked weakest link.
+
+Reason:
+- repeated paste/delivery failures blocked current work;
+- this affected every future Mr.Kleen save package;
+- the existing TODO already had a parked paste block lint checklist waiting for repeated errors.
+
+Disposition:
+- paste block lint moved from parked to active;
+- delivery lint rule saved;
+- Code Cabinet and save skeleton patched;
+- no broad framework created.
+
+Next:
+- use delivery lint on the next PowerShell/code delivery;
+- continue TODO weakest-link triage on remaining open TODOs.

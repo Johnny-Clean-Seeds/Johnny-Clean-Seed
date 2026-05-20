@@ -78,3 +78,22 @@ It does not promote scripts to tools.
 It does not rewrite active guides.
 
 It does not rewrite CURRENT_TRUTH_INDEX.
+
+---
+
+## 2026-05-20 - Delivery Lint Bridge Patch
+
+Long-code bridge patch:
+
+Before sending long code, the Code Cabinet bridge must include delivery-lint.
+
+Check:
+
+- should this be a downloadable ps1 instead of a giant chat block;
+- if chat block, code only;
+- no prose inside the code;
+- no Markdown fence text expected to be pasted into PowerShell;
+- if downloaded ps1, include process-scope execution-policy bypass run command;
+- final copy-back block must be clear.
+
+This patch exists because repeated copy/paste failures proved delivery form was the weakest link.

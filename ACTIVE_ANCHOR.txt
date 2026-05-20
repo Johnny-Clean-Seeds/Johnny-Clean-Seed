@@ -1,31 +1,30 @@
 CURRENT MR.KLEEN POSITION
 
-After TODO Weakest-Link Selection repair.
+After PowerShell Delivery Lint / Weakest-Link TODO route.
 
 Base before save:
-ceb9a163854d4d45af5d6c2fd11653a6356e223c
+324cde2858681855899ebc2bfa8d584ee1cddd64
 
 Current ball:
-- TODO is default work source after clean re-entry.
-- TODO selection is now proof-ranked, not preference-picked.
-- "Pick one actionable TODO" was corrected as muddy language.
-- The list/proof chooses by parent boss, biggest issue, and weakest link.
-- Code Cabinet remained in use for this long save.
+- TODO weakest-link triage selected PowerShell Command Safety / Copy Delivery Lint as top route.
+- Paste block lint checklist moved from parked to active because delivery failures repeated.
+- Long PowerShell/code must be delivery-linted before send.
+- Downloaded ps1 files should include process-scope execution-policy bypass run command.
+- Code Cabinet and save package skeleton were patched for delivery-lint.
+- This save used a recovery path after a required-text check mismatch stopped the first run before git add/commit.
+- Recovery V1 stopped safely because dirty-path parsing wrapped the path list as one object; Recovery V2 fixed the parser and allowed only the expected dirty paths.
 
 Next allowed move:
-- Run TODO weakest-link triage.
-- Group TODOs by parent boss / issue family.
-- Collapse child TODOs under larger seams.
-- Rank by biggest issue / weakest link.
-- Let the proof-ranked list identify the top route.
-- Work or dispose that top route.
+- Continue TODO weakest-link triage on remaining open TODOs.
+- Use delivery lint on the next PowerShell/code delivery.
+- Use Code Cabinet for long scripts.
+- Use quiet source-note proof for notes.
+- Use Artifact Self-Check for created/sent artifacts.
 
 Blocked moves:
-- Do not hand-pick TODOs by preference.
-- Do not choose easy/recent/interesting TODOs over the weakest link.
-- Do not say "pick one TODO" as the selection method.
-- Do not treat open TODOs as scenery.
-- Do not create new TODOs or new rules to avoid doing existing TODOs.
+- Do not resend the same unsafe delivery style after paste failures repeat.
+- Do not put prose or Markdown fence text into PowerShell copy material.
+- Do not promote this into automation/runtime/tooling.
 - Do not install doctrine.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.

@@ -95,3 +95,23 @@ No automation.
 No dashboard.
 No knowledge graph.
 No full lesson index.
+
+---
+
+## 2026-05-20 - Delivery Lint Step Patch
+
+Add delivery-lint before final send:
+
+For long PowerShell/save packages, check delivery form before sending.
+
+Allowed forms:
+
+1. one-line command;
+2. code-only block;
+3. downloadable ps1 file plus one run command.
+
+If using a downloaded ps1 file, include:
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force; & "$env:USERPROFILE\Downloads\FILE.ps1"
+
+Do not let prose, Markdown fence text, or explanatory chat become part of PowerShell input.

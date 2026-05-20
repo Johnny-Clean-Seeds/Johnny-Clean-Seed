@@ -149,3 +149,30 @@ This rule does not create:
 ## Verdict
 
 PASS as a command-safety support rule when saved and proven.
+
+---
+
+## 2026-05-20 - Delivery Lint Escalation Patch
+
+Repeat-failure patch:
+
+PowerShell paste hygiene now includes delivery-lint before sending.
+
+If a long script is sent through chat and copy/paste errors repeat, do not simply resend the same style.
+
+Escalate delivery:
+
+1. one-line command for simple work;
+2. code-only block for medium work;
+3. downloadable ps1 file for long work;
+4. process-scope execution-policy bypass run command for downloaded ps1 files.
+
+Downloaded ps1 run command shape:
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force; & "$env:USERPROFILE\Downloads\FILE.ps1"
+
+Boundary:
+- this is delivery safety;
+- not automation;
+- not runtime;
+- not script/tool promotion.

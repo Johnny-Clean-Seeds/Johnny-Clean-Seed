@@ -1,0 +1,105 @@
+# PowerShell Delivery Lint Repair Receipt
+
+Date: 2026-05-20
+
+## Result
+
+PASS WITH GUARDRAILS.
+
+## Base Before Save
+
+Branch: main
+HEAD before save: 324cde2858681855899ebc2bfa8d584ee1cddd64
+origin/main before save: 324cde2858681855899ebc2bfa8d584ee1cddd64
+
+## Recovery
+
+First run stopped before git add/commit because one required-text check was too strict:
+
+Required needle:
+Downloaded ps1 files
+
+Actual saved text:
+For downloaded ps1 files
+
+Recovery V1 stopped safely because dirty-path parsing wrapped the whole path list as one object.
+
+Recovery V2 fixed the parser and allowed only the expected dirty paths from the stopped run, then completed anchor/status/receipt/save.
+
+## Files
+
+- HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\POWERSHELL_DELIVERY_LINT_REPAIR_INSTANTIATION_20260520.md | bytes=1367 | sha256=66690600F352F0064C47D009D9454412EBC9119FDC85F1E9F9C716B124E3FC93
+- BRAIN_LEARNING\POWERSHELL_COPY_DELIVERY_LINT_AND_SCRIPT_EXECUTION_RULE_20260520.md | bytes=2580 | sha256=422DA277E4047806FFEE92B0CEA30447DE8F15DD1B4E8E8C632A4440523B0FB2
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\POWERSHELL_DELIVERY_REPEAT_FAILURE_WEAKEST_LINK_TRIAGE_20260520.md | bytes=1956 | sha256=542DB6F70293E7F4C51860F3F19F1D2B663503A709F59E968D3845F9003B50CB
+- HOUSE_WORK\TODO\POWERSHELL_COMMAND_SAFETY_TODO_20260520.md | bytes=2791 | sha256=260FEC6AAC02569DA676A79399F50E36AE4B6F73B32AC45B507E82B38BA82914
+- BRAIN_LEARNING\POWERSHELL_PASTE_FALSE_SUCCESS_GUARD_20260520.md | bytes=4157 | sha256=0B33E1D0C65B70DB2802BE054D15D85DE9417C8FF0A69FFF92E8F93C2696E334
+- BRAIN_LEARNING\CODE_CABINET_BRIDGE_METHOD_RULE_20260520.md | bytes=2182 | sha256=554B2C89E1A0A01B4E697F665426F732DDCCA70882191F6E8ECA496585270608
+- HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\MR_KLEEN_SAVE_PACKAGE_SKELETON_20260520.md | bytes=2509 | sha256=5DC079E2233A505F872634A2C554DACA0C242C9E72FB4B0C8EF2DC37B835627E
+- HOUSE_WORK\TODO\TODO_CONTROL_BOARD_20260518.md | bytes=8064 | sha256=C6621F5FA1274725CF8B6CA74729C9E2C591A4790928EE6C3753B8EF41BD2D61
+- ACTIVE_ANCHOR.txt | bytes=1528 | sha256=981B72FB6BE6D1C9E332FF7FD91E8DCCDE55B1C4D7D7C15DE8B8DE57C9FAB3A1
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md | bytes=126610 | sha256=ABED5BD4F40CC1E10C617086C40F10B612CB9440CCD17FE4CABA29B1A2E39C27
+
+## Meaning
+
+TODO weakest-link triage selected PowerShell Command Safety / Copy Delivery Lint as the top route.
+
+The existing PowerShell TODO had a parked Paste block lint checklist.
+
+Repeated paste and execution-policy failures proved the parked item should become active.
+
+The delivery-lint rule was saved.
+
+PowerShell paste guard was patched.
+
+Code Cabinet bridge method was patched.
+
+Mr.Kleen save package skeleton was patched.
+
+The TODO control board records this route as worked.
+
+## Artifact Self-Check
+
+This save created and checked a real Mr.Kleen artifact package.
+
+Checks performed:
+
+- expected dirty paths only during recovery;
+- target files from the stopped run existed and were readable;
+- required inputs existed and were readable;
+- files were readable UTF-8 text;
+- files were nonempty;
+- no NUL bytes;
+- no Unicode replacement characters;
+- no placeholder markers;
+- required phrases verified;
+- branch main;
+- HEAD equals origin/main before save;
+- final commit/push/fetch requires HEAD equals origin/main and status clean.
+
+## Boundary
+
+No doctrine install.
+
+No active guide rewrite.
+
+No CURRENT_TRUTH_INDEX rewrite.
+
+No dashboard.
+
+No automation.
+
+No runtime.
+
+No knowledge graph.
+
+No full lesson index.
+
+No script promotion.
+
+## Proof Limit
+
+This receipt proves the PowerShell delivery-lint repair.
+
+It does not prove the remaining TODO board has been fully triaged.
+
+It does not close all command-safety concerns permanently.

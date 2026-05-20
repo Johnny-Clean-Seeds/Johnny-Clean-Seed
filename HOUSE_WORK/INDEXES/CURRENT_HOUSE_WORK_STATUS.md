@@ -3920,3 +3920,49 @@ Next move:
 - run TODO weakest-link triage;
 - let the proof-ranked list identify the top route;
 - work or dispose that route.
+
+
+---
+
+## 2026-05-20 - PowerShell Delivery Lint / Weakest-Link TODO Route
+
+Status: PASS WITH GUARDRAILS.
+
+Base before save:
+324cde2858681855899ebc2bfa8d584ee1cddd64
+
+Saved:
+HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\POWERSHELL_DELIVERY_LINT_REPAIR_INSTANTIATION_20260520.md
+BRAIN_LEARNING\POWERSHELL_COPY_DELIVERY_LINT_AND_SCRIPT_EXECUTION_RULE_20260520.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\POWERSHELL_DELIVERY_REPEAT_FAILURE_WEAKEST_LINK_TRIAGE_20260520.md
+PROOF_HISTORY\POWERSHELL_DELIVERY_LINT_REPAIR_RECEIPT_20260520.txt
+
+Updated:
+HOUSE_WORK\TODO\POWERSHELL_COMMAND_SAFETY_TODO_20260520.md
+BRAIN_LEARNING\POWERSHELL_PASTE_FALSE_SUCCESS_GUARD_20260520.md
+BRAIN_LEARNING\CODE_CABINET_BRIDGE_METHOD_RULE_20260520.md
+HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\MR_KLEEN_SAVE_PACKAGE_SKELETON_20260520.md
+HOUSE_WORK\TODO\TODO_CONTROL_BOARD_20260518.md
+ACTIVE_ANCHOR.txt
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+- TODO weakest-link triage selected PowerShell delivery safety as top route;
+- paste block lint moved from parked to active due repeated errors;
+- Code Cabinet and save skeleton now require delivery-lint before long code is sent;
+- downloaded ps1 execution-policy bypass run command is captured;
+- recovery path completed after the first run stopped on an overly strict case-sensitive required-text check;
+- Recovery V1 stopped safely because dirty-path parsing wrapped the path list as one object;
+- Recovery V2 completed after checking only the expected dirty paths;
+- no broad framework was created.
+
+Boundary:
+- no doctrine install;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no dashboard/automation/runtime/knowledge graph/full lesson index;
+- no script promotion.
+
+Next move:
+- continue TODO weakest-link triage on remaining open TODOs;
+- use delivery lint on next PowerShell/code delivery.
