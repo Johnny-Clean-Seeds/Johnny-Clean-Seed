@@ -1,31 +1,30 @@
 CURRENT MR.KLEEN POSITION
 
-After Code Cabinet / Source Note Quiet Self-Proof / Artifact Self-Check first live use.
+After TODO First Work Control repair.
 
 Base before save:
-f67327ba643fa41bd308c4a59dfd75d4f96a8e80
+a75fd7c804114c9e35fe444711d42bb9153c1a7a
 
 Current ball:
-- Code Cabinet / bridge method saved.
-- Mr.Kleen save package skeleton saved in Gear Rack / Code Cabinet.
-- Pressure note source ore transcript preserved.
-- Source Note Quiet Self-Proof / Capture-Disposition rule saved.
-- Artifact Self-Check fired on a real Mr.Kleen created artifact package.
-- Artifact Self-Check has PASS WITH GUARDRAILS first live use, but remains open for varied artifacts.
-- Compose-Review-Reflect-Capture remains in live-use watch.
+- TODOs are now explicitly the default work source after clean re-entry.
+- Open TODOs are pending work, not background watch.
+- The prior operating-watch answer was classified as point-of-work selection failure.
+- "Continue normal work" now means continue or select a TODO route unless the user explicitly overrides with a live task.
+- Code Cabinet remained in use for this long save.
 
 Next allowed move:
-- Continue normal work.
-- For future long scripts, use Code Cabinet skeleton/instantiation method.
-- When user provides notes, quietly run source-note self-proof before answering.
-- When creating/sending artifacts, run Artifact Self-Check before calling ready.
-- Do not promote from this one package alone.
+- Run TODO board triage.
+- Pick one actionable TODO from the board.
+- Drive it to active, done, parked, blocked, superseded, merged, or stale review.
+- Use Code Cabinet for long scripts.
+- Use quiet source-note proof for notes.
+- Use Artifact Self-Check for created/sent artifacts.
 
 Blocked moves:
+- Do not treat open TODOs as scenery.
+- Do not say "we need real work" while actionable TODOs are visible.
+- Do not create new TODOs or new rules to avoid doing existing TODOs.
 - Do not install doctrine.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.
-- Do not promote mottos.
-- Do not rebuild mule workshop from this note alone.
-- Do not split Soft Suits.
 - Do not create dashboard, automation, runtime, knowledge graph, or full lesson index.

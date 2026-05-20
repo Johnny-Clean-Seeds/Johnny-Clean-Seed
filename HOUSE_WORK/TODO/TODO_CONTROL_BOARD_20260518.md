@@ -285,3 +285,33 @@ Front Door / Authority Group is linked for this scope.
 Next boss is not automatically selected by this receipt.
 
 Selection must come from current user command or ACTIVE_ANCHOR.
+
+---
+
+## 2026-05-20 — TODO First Work Control Correction
+
+Status: ACTIVE CONTROL CORRECTION.
+
+Correction:
+- TODO is the default work source after clean re-entry.
+- Open TODOs are pending work, not background watch.
+- The phrase "we need real work" is invalid when actionable TODOs are visible.
+- "Continue normal work" means continue or select a TODO route unless the user explicitly overrides with a live task.
+
+Required re-entry behavior:
+1. Read anchor/status.
+2. Read TODO board/index.
+3. Identify open TODOs.
+4. Select the active TODO if clear.
+5. If unclear, triage the board.
+6. Drive one TODO to active, done, parked, blocked, superseded, merged, or stale review.
+
+Anti-bloat:
+- do not create a new TODO to avoid doing an existing TODO;
+- do not create a new rule to avoid triage;
+- do not open a new boss when an actionable TODO exists.
+
+Next active work:
+- run TODO board triage;
+- pick one actionable TODO;
+- work it or dispose it with proof.

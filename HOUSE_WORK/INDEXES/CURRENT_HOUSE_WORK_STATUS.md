@@ -3841,3 +3841,42 @@ Next move:
 - use Code Cabinet for future long save scripts;
 - use quiet self-proof for future user notes;
 - use Artifact Self-Check on future created/sent artifacts.
+
+
+---
+
+## 2026-05-20 — TODO First Work Control Repair
+
+Status: PASS WITH GUARDRAILS.
+
+Base before save:
+a75fd7c804114c9e35fe444711d42bb9153c1a7a
+
+Saved:
+HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\TODO_FIRST_WORK_CONTROL_REPAIR_INSTANTIATION_20260520.md
+BRAIN_LEARNING\TODO_FIRST_WORK_CONTROL_RULE_20260520.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\TODO_NOT_BACKGROUND_OPERATING_WATCH_FAILURE_20260520.md
+PROOF_HISTORY\TODO_FIRST_WORK_CONTROL_REPAIR_RECEIPT_20260520.txt
+
+Updated:
+HOUSE_WORK\TODO\TODO_CONTROL_BOARD_20260518.md
+ACTIVE_ANCHOR.txt
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+- fixed the mistaken operating-watch interpretation;
+- TODO is now explicit default work source after clean re-entry;
+- open TODOs must be worked, triaged, parked, blocked, superseded, merged, marked stale, or closed;
+- "we need real work" is invalid when actionable TODOs are visible;
+- next move is TODO board triage, not abstract watch.
+
+Boundary:
+- no doctrine install;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no dashboard/automation/runtime/knowledge graph/full lesson index;
+- no TODO or rule creation as substitute for doing TODO work.
+
+Next move:
+- run TODO board triage;
+- pick one actionable TODO and drive it to a real state.
