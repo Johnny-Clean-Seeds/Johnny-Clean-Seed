@@ -2824,3 +2824,36 @@ Boundary:
 
 Next move:
 - Hold as tested candidate. Use it on the next real route-choice situation before considering promotion.
+
+## 2026-05-19 - Anchor queue state sync after Soft Suit test
+
+Base before sync: main @ 3854a3b.
+
+Updated:
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\WORK_SHED\QUEUE\CURRENT_WORK_QUEUE.md
+- PROOF_HISTORY\ANCHOR_QUEUE_STATE_SYNC_AFTER_SOFT_SUIT_TEST_RECEIPT_20260519.txt
+
+Reason:
+- ACTIVE_ANCHOR.txt still pointed at the older root CHECK_*.ps1 checker-batch next move.
+- The queue shows that checker lane is DONE and Q-20260519-009 is ACTIVE.
+- The Prior-Mistake Retrieval Soft Suit live test is complete and held as tested candidate.
+
+Verdict:
+- PASS: anchor and queue header synced to current working state.
+
+Boundary:
+- State sync only.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX change.
+- No tool promotion.
+- No checker promotion.
+- No Soft Suit promotion.
+- No automation.
+- No full lesson index.
+- No knowledge graph.
+- No dashboard.
+
+Next move:
+- Inspect the Whole-House Review outside-review handoff/current target from current state.

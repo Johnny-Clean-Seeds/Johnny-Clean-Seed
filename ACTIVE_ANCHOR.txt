@@ -1,53 +1,68 @@
 ACTIVE BALL:
-Whirlpool follow-through after PowerShell tool candidate text inspection
+Q-20260519-009 - Whole-House Review / outside-review handoff
 
-RECORDED CURRENT BASE:
-main @ ff30400
+RECORDED ANCHOR BASE:
+main @ 3854a3b before anchor/queue state sync
 
 STATUS:
-ACTIVE ANCHOR REFRESHED AFTER TOOL-CANDIDATE REPAIR
+ACTIVE ANCHOR REFRESHED AFTER PRIOR-MISTAKE SOFT SUIT TEST
 
-CURRENT PROVEN BASE:
-main @ ff30400
+CURRENT PROVEN BASE BEFORE THIS SYNC:
+main @ 3854a3b
+3854a3b64844f9995c7b3bf86f4f0fe6915a25e3
 
 CURRENT PROVEN ITEMS:
-- Queue / Adapt repair is saved and pushed.
-- MULE report intake is saved and pushed.
-- PowerShell tool candidates were inspected as text.
-- Ten ignored PowerShell files were hashed and classified without execution.
-- HOUSE_WORK/TOOLS/Invoke-DailyHouseWalkDigestGate.ps1 was repaired as text and saved as the only force-added tool candidate in that repair.
-- The repaired digest gate parser check passed.
-- No ignored root CHECK_*.ps1 script was executed or force-added.
-- Work Shed and incoming parking remain support lanes, not authority.
+- Prior-Mistake Retrieval And Route Selection Gate Soft Suit candidate was created.
+- Prior-Mistake Retrieval And Route Selection Gate live test returned PASS WITH WATCH.
+- The Soft Suit remains a tested candidate only.
+- No Hard Suit promotion happened.
+- No doctrine rewrite happened.
+- No active guide rewrite happened.
+- No CURRENT_TRUTH_INDEX change happened.
+- No tool promotion happened.
+- No automation, full lesson index, knowledge graph, or dashboard was built.
+- Predictive-learning mule return was intaken, classified, and reduced to the smallest safe candidate.
+- Root CHECK_*.ps1 checker batch lane is already closed/parked as tested checker-candidate batch.
+- Queue says Q-20260519-009 is the active item unless the current user command selects another boss.
 
 CURRENT WORK POSITION:
 Use the queue to keep the active ball narrow.
-Use incoming-file parking to sort PC-only material before trust, execution, promotion, or deletion.
-Use receipts and commit contents as proof for saved file work.
+Use ACTIVE_ANCHOR.txt for active ball, next allowed move, and blocked moves.
+Use CURRENT_TRUTH_INDEX.txt before broader house navigation.
+Treat Work Shed, source ore, receipts, outside reports, mule returns, and tool candidates as support material unless separately promoted by proof.
 
 NEXT ALLOWED MOVE:
-Review the nine root CHECK_*.ps1 scripts as a read-only checker batch.
+Inspect the Whole-House Review outside-review handoff/current target from current state.
 
 Required shape:
-- inspect as text,
-- hash,
-- check risk words,
-- understand exact assertions,
-- decide lane per checker.
+- read the existing handoff target,
+- verify current base/state/boundaries/output folder,
+- decide whether it is send-ready, needs a current-state refresh, or should stay held,
+- keep mule/outside reviewer bounded to report-only output.
 
-Do not execute them yet.
-Do not blanket force-add ignored scripts.
+Do not send stale handoff wording.
+Do not let the outside reviewer edit doctrine.
+Do not let the outside reviewer promote tools.
+Do not treat outside report/source ore as authority.
 
 HOT GUARDS:
-- Read CURRENT_TRUTH_INDEX.txt first.
-- Read ACTIVE_ANCHOR.txt after the index.
+- Read CURRENT_TRUTH_INDEX.txt first for source routing.
+- Read ACTIVE_ANCHOR.txt second for active ball.
 - Confirm repo root before PowerShell/git work.
 - Wrong folder, failed guard, git nonzero, unset required variable, or PowerShell continuation prompt means FOG / CUSTODY FAIL stop.
 - Inspect means read as text; execute means run. Keep them separate.
 - Save only when loss risk, reuse, state change, proof, or safe resume need beats motion cost.
-- Outside reports, critiques, and captured ideas are source material, not authority.
+- If visible read-only output points to the next safe action, act directly instead of saving a map first.
+- Outside reports, critiques, captured ideas, mule returns, and source ore are source material, not authority.
 
 BLOCKED MOVES:
+Do not reopen the root CHECK_*.ps1 checker batch unless the user explicitly selects it.
+Do not promote checker candidates.
+Do not promote the Prior-Mistake Retrieval Soft Suit.
+Do not build the full lesson index yet.
+Do not build a knowledge graph.
+Do not build automation.
+Do not build dashboard work.
 Do not start runtime build.
 Do not create /system.
 Do not create live runtime files.
@@ -56,7 +71,6 @@ Do not compress doctrine.
 Do not restructure PROOF_HISTORY.
 Do not rewrite public Git history.
 Do not treat source ore as command.
-Do not promote Desktop 123 material.
 Do not install bitstring doctrine.
 Do not install algorithm doctrine.
 Do not run ignored PowerShell scripts unless selected by current task and proof need.
@@ -66,9 +80,8 @@ Do not let Work Shed material promote itself.
 Do not continue downstream of failed proof.
 Do not walk away from blocked work without a bookmark.
 Do not put git add, commit, or push in Phase 1 of risky proof work.
-Do not promote front-shelf helpers without separate proof.
 Do not rewrite active guides from this refresh.
-Do not treat support maps, indexes, receipts, TODO, SYSTEM_LINKS, Work Shed, front shelf, source ore, outside reports, or tool candidates as command authority.
+Do not treat support maps, indexes, receipts, TODO, SYSTEM_LINKS, Work Shed, front shelf, source ore, outside reports, mule returns, or tool candidates as command authority.
 
 AUTHORITY NOTE:
 ACTIVE_ANCHOR.txt holds the current active ball, next allowed move, and blocked moves.

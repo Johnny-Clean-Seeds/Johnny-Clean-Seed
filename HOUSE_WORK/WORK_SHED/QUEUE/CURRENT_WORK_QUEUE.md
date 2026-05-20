@@ -1,12 +1,14 @@
 # Current Work Queue
 
 Last updated: 2026-05-19.
-Current base when synced: main @ 56fb238.
+Current base when synced: main @ 3854a3b before anchor/queue state sync.
 Authority: Work Shed queue / attention control.
 
 ## Re-entry Readback
 
-Current base: verify with git before action. Current closed lane position: main @ 56fb238.
+Anchor sync after prior-mistake Soft Suit test: root checker-batch next move is closed/parked; Q-20260519-009 remains active unless the user selects another boss.
+
+Current base: verify with git before action. Current closed lane position: main @ 3854a3b before anchor/queue state sync.
 Active item: Q-20260519-009 - Whole-House Review / outside-review handoff.
 Hot guard: point-of-work readback before any PowerShell/git task.
 Do not touch yet: automation, broad cleanup, deleting incoming material, full dashboard, full TODO system, promoting checker candidates, or pulling older source-ore back without a reason.
@@ -67,5 +69,6 @@ Outside report is not command.
 Classification is not promotion.
 
 Visible read-only output may be enough to continue when the next step is safe and independently checkable.
+
 
 
