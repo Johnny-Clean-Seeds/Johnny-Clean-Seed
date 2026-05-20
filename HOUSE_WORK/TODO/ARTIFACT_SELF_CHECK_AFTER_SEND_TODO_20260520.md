@@ -65,3 +65,26 @@ This TODO is support only.
 It does not become active work by existence.
 
 It does not rewrite active guides or doctrine.
+
+---
+
+## 2026-05-20 — Disposition After Compose-Review First Live Use
+
+Status: STILL OPEN / DISTINCT CHILD TODO.
+
+Disposition:
+Artifact Self-Check is not closed by Compose-Review-Reflect-Capture.
+
+Reason:
+- Compose-Review-Reflect-Capture checks significant drafts before sending.
+- Artifact Self-Check checks created/sent user-facing artifacts before calling them ready.
+- After-Fix Carryover fires after a meaningful fix/correction if a reusable lesson was exposed.
+
+Next proof needed:
+- a later created/sent artifact is checked for existence, readability, expected size/lines/pages/slides/sheets, required sections, source carryover, no stale scope, no missing wording, no placeholders, no truncation, no NUL/replacement characters, no contradiction with current house state, and correct output format.
+
+Boundary:
+- support TODO only;
+- no active guide rewrite;
+- no doctrine;
+- no CURRENT_TRUTH_INDEX rewrite.

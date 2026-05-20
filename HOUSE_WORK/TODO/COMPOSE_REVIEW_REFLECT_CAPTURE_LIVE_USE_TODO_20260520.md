@@ -54,3 +54,37 @@ Do not use this TODO to justify:
 - knowledge graph;
 - full lesson index;
 - promotion without proof.
+
+---
+
+## 2026-05-20 — Compose-Review-Reflect-Capture First Live Use 001
+
+Status: PASS WITH GUARDRAILS AS FIRST LIVE USE.
+
+Drafted artifact:
+- read/disposition packet for Compose-Review-Reflect-Capture and Artifact Self-Check relation.
+
+Reflected structure:
+- Artifact Self-Check is distinct from Compose-Review-Reflect-Capture and After-Fix Carryover.
+- It remains open as concrete artifact-output check.
+- Compose captures draft/review structure before send.
+- After-Fix handles lesson carryover after meaningful repair.
+
+Routed home:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\COMPOSE_REVIEW_REFLECT_CAPTURE_FIRST_LIVE_USE_ARTIFACT_SELF_CHECK_DISPOSITION_20260520.md
+
+Injection decision:
+- no new rule stack;
+- no doctrine;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no Soft Suit split;
+- no closure of Artifact Self-Check.
+
+Proof:
+- this TODO was read;
+- reflected structure was captured;
+- save receipt records commit/push/fetch/clean proof.
+
+Watch remains open:
+- need more varied live uses before promotion.

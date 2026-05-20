@@ -1,29 +1,31 @@
 CURRENT MR.KLEEN POSITION
 
-After Compose-Review-Reflect-Capture rule save.
+After Compose-Review-Reflect-Capture First Live Use 001.
 
 Base before save:
-ef66d12b9bbe2b756f35f107dbbc0282954c283c
+28daff64813aa287a96455b6aee07819b3064c91
 
 Current ball:
-- Growth Cycle unload / Soft Suit event work is complete at prior position if current hash was ef66d12.
-- Compose-Review-Reflect-Capture rule is now saved as a behavior rule.
-- Affected concept list is parked in Sorting Bench.
-- Live-use TODO is open.
+- Compose-Review-Reflect-Capture first live use has PASS WITH GUARDRAILS.
+- Artifact Self-Check remains open as distinct child TODO.
+- After-Fix Carryover remains neighbor rule for meaningful fixes.
+- No new rule stack was created.
 
 Meaning:
-- Significant drafts must now be reviewed for newly revealed structure before sending.
-- Newly revealed structure must be captured or parked.
-- Parked ideas may be worn as Soft Suit / live-use candidates.
-- Proof is still required before safe mark, trigger-event mark, promotion, gate extraction, or doctrine.
-- Injection happens at the right save/update/code moment, not by excitement.
+- The draft/review holding point was used.
+- Newly revealed structure was captured.
+- Premature injection was avoided.
+- Artifact Self-Check was not falsely closed.
 
 Next allowed move:
 - Continue normal work.
-- Use this rule on the next significant draft, prompt, handoff, code, or unload.
-- Prove live use before any promotion.
+- Use Artifact Self-Check on the next created/sent user-facing artifact.
+- Use Compose-Review-Reflect-Capture on significant drafts.
+- Use After-Fix Carryover when a meaningful correction/fix exposes a reusable lesson.
 
 Blocked moves:
+- Do not promote Compose-Review-Reflect-Capture yet.
+- Do not close Artifact Self-Check until a real artifact check proves it.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.
 - Do not install doctrine.
