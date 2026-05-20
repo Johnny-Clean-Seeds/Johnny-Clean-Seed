@@ -3230,3 +3230,42 @@ Boundary:
 - No automation, dashboard, knowledge graph, or full lesson index.
 - No PROOF_HISTORY restructuring.
 - No mule pass run.
+## Mule Short Kickoff / Packet-Scoped Start Card Rule
+
+Status: SAVED
+Date: 2026-05-20
+Base before save: main @ dc320c8
+Parent Boss: Rule Activation / Work-Order Control
+
+Saved:
+- BRAIN_LEARNING\MULE_SHORT_KICKOFF_AND_START_CARD_RULE_20260520.md
+- HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\TEMPLATES\PACKET_SCOPED_MULE_START_CARD_TEMPLATE_20260520.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\MULE_SHORT_KICKOFF_START_CARD_DISSECTION_20260520.md
+- HOUSE_WORK\TODO\MULE_START_CARD_AND_SHORT_KICKOFF_TODO_20260520.md
+- PROOF_HISTORY\MULE_SHORT_KICKOFF_START_CARD_RULE_RECEIPT_20260520.txt
+
+Verified existing mule instruction files:
+- HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\README_MULE_WORKSHOP.md
+- HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\MULE_WORKSHOP_ACCESS_MAP.md
+- HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\INSTRUCTION_REFERENCES\HOUSE_WALK_DEEP_REVISED_HELD_20260520.md
+
+Updated:
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+- Mule kickoff overpacking is saved as a child issue under Rule Activation / Work-Order Control.
+- If mule instructions already exist in files, kickoff should be a short pointer, not a duplicate instruction dump.
+- Packet-scoped start card template is saved for future bounded mule passes.
+- The start card is not authority, not dashboard, not active packet, and not a mule command by itself.
+- No mule pass was run.
+
+Boundary:
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX rewrite.
+- No doctrine compression.
+- No runtime build.
+- No /system.
+- No tool/checker/Soft Suit promotion.
+- No automation, dashboard, knowledge graph, or full lesson index.
+- No PROOF_HISTORY restructuring.

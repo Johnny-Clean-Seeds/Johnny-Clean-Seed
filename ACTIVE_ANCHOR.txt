@@ -1,18 +1,19 @@
-ACTIVE BALL: PowerShell paste / false-success guard saved under Rule Activation / Work-Order Control.
+ACTIVE BALL: Mule short kickoff / packet-scoped start-card rule saved under Rule Activation / Work-Order Control.
 
-RECORDED BASE BEFORE SAVE: main @ 9ff1e20
+RECORDED BASE BEFORE SAVE: main @ dc320c8
 
 CURRENT PROVEN ITEMS:
-- Control-state-first / boss-ghost / cycle-flow package is already saved.
-- PowerShell paste / false-success child issue is now saved under the same parent boss.
-- Printed PASS is not proof after an earlier error.
-- Root-level file writing must be supported by safe helpers.
-- Recovery blocks must verify expected dirty paths before completing a save.
-- No tool framework or automation was created.
+- Control-state-first / boss-ghost / cycle-flow package is saved.
+- PowerShell paste / false-success guard is saved.
+- Mule short kickoff rule is saved.
+- Packet-scoped mule start-card template is saved.
+- Mule kickoff should point to files when files already hold the instructions.
+- Do not send mule to fix issues already fixed.
+- No mule pass was run.
 
 NEXT ALLOWED MOVE:
-- Continue to address remaining child issues under Rule Activation / Work-Order Control only if selected.
-- Possible next candidates: packet-scoped mule start card, narrow queue header wording cleanup, future packet top-block rule, or living-rules/root-words package refinement.
+- Continue to address remaining child issues only if selected.
+- Possible next candidates: narrow queue header wording cleanup, future packet top-block rule, or living-rules/root-words package refinement.
 - Before next task, run control-state-first and rule confirmation.
 
 BLOCKED MOVES:
