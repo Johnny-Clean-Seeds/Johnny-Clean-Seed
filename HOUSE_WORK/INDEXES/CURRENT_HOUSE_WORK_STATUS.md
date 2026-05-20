@@ -3534,3 +3534,34 @@ Boundary:
 - no tool/checker promotion;
 - no automation/dashboard/knowledge graph/full lesson index;
 - no common-sense pending save mixed into this intake.
+
+---
+
+## 2026-05-20 — Whole-House Double-Pass Mule Critique Soft Suit Adoption
+
+Status: PASS AS ONE SOFT SUIT WORKING UNIT.
+
+Soft Suit:
+
+HOUSE_WORK\WORK_SHED\SOFT_SUITS\WHOLE_HOUSE_DOUBLE_PASS_MULE_CRITIQUE_SOFT_SUIT_UNIT_20260520.md
+
+Receipt:
+
+PROOF_HISTORY\WHOLE_HOUSE_DOUBLE_PASS_MULE_SOFT_SUIT_ADOPTION_RECEIPT_20260520.txt
+
+Meaning:
+- the intaken mule return is now usable as one whole-house Soft Suit;
+- no individual gates were installed;
+- no mule recommendation became doctrine;
+- no active guide or CURRENT_TRUTH_INDEX rewrite occurred.
+
+Next move:
+- wear the suit as one unit on the next appropriate decision;
+- prove whether the unit improves work before extracting gates.
+
+Boundary:
+- no doctrine promotion;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no dashboard/automation/runtime/knowledge graph/full lesson index;
+- no common-sense pending save mixed into this adoption.
