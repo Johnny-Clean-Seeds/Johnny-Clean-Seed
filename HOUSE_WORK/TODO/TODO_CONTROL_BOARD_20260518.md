@@ -315,3 +315,37 @@ Next active work:
 - run TODO board triage;
 - pick one actionable TODO;
 - work it or dispose it with proof.
+
+---
+
+## 2026-05-20 - TODO Weakest-Link Selection Correction
+
+Status: ACTIVE SELECTION-METHOD CORRECTION.
+
+Correction:
+- TODO is default work source after clean re-entry.
+- TODO selection is not preference picking.
+- The proof-ranked list chooses the route.
+- The top route is the biggest issue / weakest link.
+
+Required triage method:
+1. Group TODOs by parent boss / issue family.
+2. Separate parent bosses from child tasks, symptoms, tools, tests, and stale notes.
+3. Collapse duplicate or child TODOs under the larger seam.
+4. Rank parent bosses by impact and proof.
+5. Let the strongest evidence select the top route.
+6. State why the top route outranks alternatives.
+7. Work or dispose the top route.
+
+Bad language:
+- "pick one actionable TODO."
+
+Correct language:
+- "run TODO weakest-link triage";
+- "the current weakest link is";
+- "the proof-ranked top route is."
+
+Next active work:
+- run TODO weakest-link triage;
+- let the list/proof choose the top route;
+- drive that route to active, done, parked, blocked, superseded, merged, or stale review.

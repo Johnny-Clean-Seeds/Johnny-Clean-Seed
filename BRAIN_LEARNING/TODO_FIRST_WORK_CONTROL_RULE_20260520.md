@@ -112,3 +112,30 @@ This rule does not create runtime.
 This rule does not make TODOs authority above ACTIVE_ANCHOR.
 
 It makes TODOs active work-control evidence that must be processed.
+
+---
+
+## 2026-05-20 - Weakest-Link Selection Patch
+
+Correction:
+
+The phrase "pick one actionable TODO" must not mean preference selection.
+
+TODO selection must be proof-ranked.
+
+The list chooses through evidence:
+
+1. group TODOs by parent boss;
+2. collapse child symptoms/tools/tests under the larger seam;
+3. rank parent bosses by biggest issue / weakest link;
+4. select the top route from proof;
+5. state why it outranks alternatives;
+6. work or dispose that route.
+
+Correct next-action language:
+
+"Run TODO weakest-link triage."
+
+Not:
+
+"Pick one TODO."

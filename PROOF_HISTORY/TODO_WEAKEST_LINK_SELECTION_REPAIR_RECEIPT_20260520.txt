@@ -1,0 +1,110 @@
+# TODO Weakest-Link Selection Repair Receipt
+
+Date: 2026-05-20
+
+## Result
+
+PASS WITH GUARDRAILS.
+
+## Base Before Save
+
+Branch: main
+HEAD before save: ceb9a163854d4d45af5d6c2fd11653a6356e223c
+origin/main before save: ceb9a163854d4d45af5d6c2fd11653a6356e223c
+
+## Files
+
+- HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\TODO_WEAKEST_LINK_SELECTION_REPAIR_INSTANTIATION_20260520.md | bytes=3023 | sha256=648A16863CBE6C5B894D90C5BE169B35DE1C6371975865F9A722718F1347E716
+- BRAIN_LEARNING\TODO_PROOF_RANKED_WEAKEST_LINK_SELECTION_RULE_20260520.md | bytes=2538 | sha256=7ADEBBD47C105B6B597C0F818D83390B18D18ACEEB1C0416755EAC9AC03284F0
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\TODO_PICK_LANGUAGE_MUD_CORRECTION_20260520.md | bytes=3213 | sha256=EC3A90AA5CDF5138929A2E1FD4DB77DA268A9CB7A2A668A5FAB2422810517C34
+- BRAIN_LEARNING\TODO_FIRST_WORK_CONTROL_RULE_20260520.md | bytes=3615 | sha256=5CFCC2CF5266CDCF6A3E0A4638C24320D66BB6F2A69F829BF8BD6E4951F3EAFA
+- HOUSE_WORK\TODO\TODO_CONTROL_BOARD_20260518.md | bytes=7340 | sha256=DEF20E7F0022219E12B67CA55C69EF7AEA6A91A9A2C41307C160563BAA5684CB
+- ACTIVE_ANCHOR.txt | bytes=1182 | sha256=15A9A11302FB044F4AA340708C97E84F8555C44EE4F91F85B84D2F11B30EC9C8
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md | bytes=124762 | sha256=631620CE4D8AE0752E2BF20E90AECA01CD9789C32EE7503FA5496A404EA138F4
+
+## Meaning
+
+The muddy "pick one actionable TODO" language was repaired.
+
+TODO remains the default work source after clean re-entry.
+
+TODO selection is now proof-ranked.
+
+The list/proof selects by parent boss, biggest issue, and weakest link.
+
+The next move is TODO weakest-link triage.
+
+## TODO Evidence Snapshot
+
+- HOUSE_WORK\TODO\TODO_CONTROL_BOARD_20260518.md | bytes=6282 | modified=05/20/2026 03:44:30
+- HOUSE_WORK\TODO\ARTIFACT_SELF_CHECK_AFTER_SEND_TODO_20260520.md | bytes=3269 | modified=05/20/2026 03:33:55
+- HOUSE_WORK\TODO\COMPOSE_REVIEW_REFLECT_CAPTURE_LIVE_USE_TODO_20260520.md | bytes=4234 | modified=05/20/2026 03:33:55
+- HOUSE_WORK\TODO\SOURCE_NOTE_SELF_PROOF_CAPTURE_DISPOSITION_LIVE_USE_TODO_20260520.md | bytes=1071 | modified=05/20/2026 03:33:55
+- HOUSE_WORK\TODO\GROWTH_CYCLE_RETURN_DISPOSITION_BEFORE_TRIGGER_EVENT_TODO_20260520.md | bytes=1014 | modified=05/20/2026 03:00:22
+- HOUSE_WORK\TODO\GROWTH_CYCLE_STAGE_READINESS_SCAFFOLD_EXIT_LIVE_USE_TODO_20260520.md | bytes=1253 | modified=05/20/2026 03:00:22
+- HOUSE_WORK\TODO\FILING_CABINET_AND_RELATION_METHOD_LIVE_USE_TODO_20260520.md | bytes=1347 | modified=05/20/2026 01:08:34
+- HOUSE_WORK\TODO\LIVING_ROOT_WORDS_REFINEMENT_TODO_20260520.md | bytes=1307 | modified=05/19/2026 23:37:05
+- HOUSE_WORK\TODO\PACKET_TOP_BLOCK_DENSE_HANDOFF_TODO_20260520.md | bytes=1207 | modified=05/19/2026 23:30:54
+- HOUSE_WORK\TODO\MULE_START_CARD_AND_SHORT_KICKOFF_TODO_20260520.md | bytes=1228 | modified=05/19/2026 23:25:23
+- HOUSE_WORK\TODO\POWERSHELL_COMMAND_SAFETY_TODO_20260520.md | bytes=1695 | modified=05/19/2026 23:22:23
+- HOUSE_WORK\TODO\BOSS_GHOST_RULE_FIRING_CYCLE_FLOW_TODO_20260520.md | bytes=2888 | modified=05/19/2026 23:17:58
+- HOUSE_WORK\TODO\TODO_INDEX_20260518.md | bytes=6328 | modified=05/18/2026 05:40:03
+- HOUSE_WORK\TODO\TODO_TRACE_TRIAGE_GATE_20260518.md | bytes=3422 | modified=05/18/2026 05:40:03
+- HOUSE_WORK\TODO\README.md | bytes=1527 | modified=05/18/2026 05:21:51
+- HOUSE_WORK\TODO\TODO_CAPTURE_INBOX_20260518.md | bytes=912 | modified=05/18/2026 05:13:11
+
+## Artifact Self-Check
+
+This save created and checked a real Mr.Kleen artifact package:
+
+- Code Cabinet instantiation;
+- TODO proof-ranked weakest-link selection rule;
+- failure dissection;
+- existing TODO First Work Control rule patch;
+- TODO control board update;
+- anchor update;
+- status update;
+- receipt.
+
+Checks performed:
+
+- target files did not already exist before writing;
+- required inputs existed and were readable;
+- files were readable UTF-8 text;
+- files were nonempty;
+- no NUL bytes;
+- no Unicode replacement characters;
+- no placeholder markers;
+- required phrases verified;
+- branch main;
+- HEAD equals origin/main before save;
+- clean status before save;
+- final commit/push/fetch requires HEAD equals origin/main and status clean.
+
+## Boundary
+
+No doctrine install.
+
+No active guide rewrite.
+
+No CURRENT_TRUTH_INDEX rewrite.
+
+No dashboard.
+
+No automation.
+
+No runtime.
+
+No knowledge graph.
+
+No full lesson index.
+
+No TODO pile expansion as substitute for doing TODO work.
+
+## Proof Limit
+
+This receipt proves the selection-method repair.
+
+It does not prove the TODO board has been triaged yet.
+
+It does not close any existing TODO by itself.

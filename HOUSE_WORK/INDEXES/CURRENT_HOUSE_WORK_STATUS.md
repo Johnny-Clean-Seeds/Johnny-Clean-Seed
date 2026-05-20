@@ -3880,3 +3880,43 @@ Boundary:
 Next move:
 - run TODO board triage;
 - pick one actionable TODO and drive it to a real state.
+
+
+---
+
+## 2026-05-20 - TODO Weakest-Link Selection Repair
+
+Status: PASS WITH GUARDRAILS.
+
+Base before save:
+ceb9a163854d4d45af5d6c2fd11653a6356e223c
+
+Saved:
+HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\TODO_WEAKEST_LINK_SELECTION_REPAIR_INSTANTIATION_20260520.md
+BRAIN_LEARNING\TODO_PROOF_RANKED_WEAKEST_LINK_SELECTION_RULE_20260520.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\TODO_PICK_LANGUAGE_MUD_CORRECTION_20260520.md
+PROOF_HISTORY\TODO_WEAKEST_LINK_SELECTION_REPAIR_RECEIPT_20260520.txt
+
+Updated:
+BRAIN_LEARNING\TODO_FIRST_WORK_CONTROL_RULE_20260520.md
+HOUSE_WORK\TODO\TODO_CONTROL_BOARD_20260518.md
+ACTIVE_ANCHOR.txt
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+- corrected muddy "pick one TODO" language;
+- TODO selection is now proof-ranked, not preference-picked;
+- TODO triage must group by parent boss, collapse child issues, rank biggest issue / weakest link, and let proof select the top route;
+- next move is TODO weakest-link triage.
+
+Boundary:
+- no doctrine install;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no dashboard/automation/runtime/knowledge graph/full lesson index;
+- no new TODO or rule creation as substitute for doing TODO work.
+
+Next move:
+- run TODO weakest-link triage;
+- let the proof-ranked list identify the top route;
+- work or dispose that route.
