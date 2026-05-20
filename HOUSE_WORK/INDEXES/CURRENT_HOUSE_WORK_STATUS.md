@@ -2768,3 +2768,32 @@ Boundary:
 
 Next move:
 - Create one Soft Suit card and one lightweight tag template candidate.
+
+## 2026-05-19 - Prior-Mistake Retrieval Route Selection Soft Suit candidate
+
+Base: main @ 2ade133.
+
+Saved:
+- HOUSE_WORK\WORK_SHED\GEAR_RACK\SOFT_SUIT_CANDIDATES\PRIOR_MISTAKE_RETRIEVAL_ROUTE_SELECTION_GATE_SOFT_SUIT_20260519.md
+- HOUSE_WORK\WORK_SHED\GEAR_RACK\SOFT_SUIT_CANDIDATES\PRIOR_MISTAKE_LESSON_TAG_TEMPLATE_CANDIDATE_20260519.md
+- PROOF_HISTORY\PRIOR_MISTAKE_RETRIEVAL_ROUTE_SELECTION_SOFT_SUIT_CANDIDATE_RECEIPT_20260519.txt
+
+Purpose:
+- Created the smallest safe candidate from the predictive-learning mule return classification.
+- Added Soft Suit candidate for Prior-Mistake Retrieval And Route Selection Gate.
+- Added lightweight lesson tag template candidate.
+
+Boundary:
+- Candidate creation only.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX change.
+- No tool promotion.
+- No automation.
+- No full lesson index.
+- No knowledge graph.
+- No dashboard.
+- No Hard Suit promotion.
+
+Next move:
+- Run one real test of the Soft Suit against a route-choice situation.
