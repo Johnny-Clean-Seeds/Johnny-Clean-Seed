@@ -4362,3 +4362,30 @@ No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no
 
 Next:
 Build/read current suit loadout for this moment before downstream Boss/Ghost TODO work.
+
+---
+
+## 2026-05-20 - Rule-firing root fix confirmation gate
+
+Base before save: 21ee27e1fcb69b5bf0fc639ee25702f1cc057de9
+Base short: 21ee27e
+Status before save: clean
+
+Saved:
+- suit-loadout before Boss/Ghost live-use proof;
+- selected child route: Rule storage mistaken for rule firing;
+- Rule-Firing Confirmation Before Action Gate;
+- Rule-Firing Confirmation Card;
+- immediate live-use TODO;
+- appended Rule-Concept-Event entry;
+- updated Suit Loadout TODO;
+- updated ACTIVE_ANCHOR.
+
+Why:
+Saving proof of suit-first was not enough. The live root was rule storage mistaken for rule firing. User caught the aha moment: the root fix is a small before-action confirmation gate so stored rules must fire before action.
+
+Boundary:
+No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, no suit/tool/stale-checker/relation-map promotion, and no mule output adoption.
+
+Next:
+Use Rule-Firing Confirmation Card before the next nontrivial Mr.Kleen house-touching action.

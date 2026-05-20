@@ -212,3 +212,26 @@ Reaffirmed during correction root-fix save. Needs future mule-return intake proo
 
 Neighbor rules:
 Known-path mule pickup; return intake; stale/custody check; no doctrine/guide/index rewrite.
+
+## Entry 11 - Rule-Firing Confirmation Before Action Gate
+
+Rule:
+Before nontrivial Mr.Kleen house-touching action, confirm the active rule/suit/order that fired using a small card: state, intended action, fired gate, why it fired, blocked moves, proof needed, and disposition.
+
+Concept:
+Rule storage mistaken for rule firing; activation gate; point-of-work confirmation; narrow root repair.
+
+Event:
+After suit-first was correctly selected before Boss/Ghost, the assistant almost saved only the live-use proof. User caught the aha chance: the real fix was to repair the mechanism so stored rules fire before action.
+
+Trigger phrases:
+did you do this; aha chance; can fix this; rule storage mistaken for rule firing; confirm before action; rule not firing; not broad repair.
+
+Proof state:
+Saved as support rule and TODO. Needs next live proof.
+
+Neighbor rules:
+Suit First Before Route; Root Problem Cleanup; Relevant Root Key Selector; No Rule King; Boss/Ghost map.
+
+Boundary:
+Not doctrine, not active guide, not automation, not dashboard.

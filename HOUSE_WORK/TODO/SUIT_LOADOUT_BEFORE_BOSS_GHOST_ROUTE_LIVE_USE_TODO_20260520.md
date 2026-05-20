@@ -2,7 +2,7 @@
 
 Date: 2026-05-20
 Lane: HOUSE_WORK / TODO
-Status: open / immediate live-use needed
+Status: live-use proof recorded / still open for varied proof
 Parent Boss: Rule Activation / Work-Order Control
 Related Boss: Tool-Suit-Rule Lifecycle / Mule Return Intake
 
@@ -12,35 +12,37 @@ Prove the corrected order:
 
 Suit fit -> current worn loadout -> then Boss/Ghost TODO route.
 
-## Trigger
+## First live use recorded
 
-This TODO is triggered now because:
+Date: 2026-05-20
 
-- mule return was imported/read;
-- mule recommended Boss/Ghost first read target;
-- user corrected that next must be the suit;
-- correction fits the build;
-- root cleanup has been saved.
+Proof saved:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\SUIT_LOADOUT_BEFORE_BOSS_GHOST_LIVE_USE_PROOF_20260520.md
 
-## Required next live use
+Receipt:
+PROOF_HISTORY\RULE_FIRING_ROOT_FIX_CONFIRMATION_GATE_RECEIPT_20260520.txt
 
-Before reading/repairing `BOSS_GHOST_RULE_FIRING_CYCLE_FLOW_TODO_20260520.md`, produce a suit/loadout fit check that names:
+Result:
+PASS as one live-use proof.
 
-1. active suit/supports being worn;
-2. why each one is active now;
-3. what is parked;
-4. what cannot become king;
-5. what proof would show the suit helped;
-6. what stop condition prevents support-rule whirlpool;
-7. whether Boss/Ghost TODO remains the downstream route.
+What passed:
+- suit/loadout was read before Boss/Ghost TODO;
+- Boss/Ghost was treated as downstream, not king;
+- mule recommendation was treated as support evidence, not command;
+- one child route was selected after read;
+- no promotion occurred.
 
-## Pass condition
+Selected downstream child:
+Rule storage mistaken for rule firing.
 
-The next real work uses the named suit/loadout before the downstream route.
+Root fix selected:
+Rule-Firing Confirmation Before Action Gate.
 
-## Fail condition
+## Still open
 
-The assistant jumps directly to Boss/Ghost TODO or another task without naming the current suit/loadout.
+Do not close this TODO from one proof.
+
+Future varied proof should show suit-first ordering on a different downstream route.
 
 ## Boundary
 

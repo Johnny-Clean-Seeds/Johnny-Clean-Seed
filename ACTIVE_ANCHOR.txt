@@ -1,55 +1,59 @@
 # ACTIVE ANCHOR
 
 Date: 2026-05-20
-Current active ball after this save: Suit loadout before Boss/Ghost route
+Current active ball after this save: Rule-Firing Confirmation Before Action Gate live use
 
 ## Last completed move
 
-Saved correction root cleanup and suit-first ordering after the assistant incorrectly treated the mule's Boss/Ghost first-read recommendation as the immediate next move.
+Saved the narrow root fix for:
 
-Saved:
+Rule storage mistaken for rule firing.
 
-- root problem cleanup after correction;
-- no air-freshener patchwork rule;
-- suit first before route loadout rule;
-- dissection of the correction event;
-- Rule-Concept-Event map entries;
-- immediate live-use TODO for suit loadout before Boss/Ghost route.
+This save includes:
+
+- suit-loadout before Boss/Ghost live-use proof;
+- selected child route file;
+- Rule-Firing Confirmation Before Action Gate;
+- Rule-Firing Confirmation Card;
+- immediate live-use TODO;
+- Rule-Concept-Event map entry.
 
 ## Current control state
 
-Mule return is imported/read as support evidence.
+Suit-first has one live-use proof.
 
-Mule output is not command authority.
+The root child is selected:
 
-The next route is not "Boss/Ghost TODO naked."
+Rule storage mistaken for rule firing.
 
-The next route is:
+The narrow fix is selected:
 
-Suit fit -> current worn loadout -> then Boss/Ghost TODO if still selected.
+Rule-Firing Confirmation Before Action Gate.
 
 ## Next allowed move
 
-Build/read the current suit loadout for this exact moment.
+Use the Rule-Firing Confirmation Card before the next nontrivial Mr.Kleen house-touching action.
 
-The loadout must say:
+The card must name:
 
-1. what support/suit pieces are active now;
-2. why each is active;
-3. what stays parked;
-4. what cannot become king;
-5. what proof shows the suit helped;
-6. what stop condition prevents support-rule whirlpool;
-7. whether `HOUSE_WORK\TODO\BOSS_GHOST_RULE_FIRING_CYCLE_FLOW_TODO_20260520.md` remains the downstream route.
+- State;
+- Intended action;
+- Fired gate;
+- Why it fired;
+- Blocked moves;
+- Proof needed;
+- Disposition.
+
+Then proceed only if allowed.
 
 ## Blocked moves
 
-- Do not jump directly to Boss/Ghost TODO without suit/loadout fit.
-- Do not treat mule output as command authority.
-- Do not save apology-only patches.
-- Do not create another mule pass by inertia.
+- Do not save proof-only when a root mechanism is needed.
+- Do not act first and explain the rule afterward.
+- Do not create a broad support-rule stack.
 - Do not rewrite doctrine.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.
 - Do not create dashboard, automation, runtime, knowledge graph, or full lesson index.
-- Do not promote suit-first, stale checker, relation map, tools, or suits from this one event.
+- Do not promote the gate from this one save.
+- Do not adopt mule output as command authority.
