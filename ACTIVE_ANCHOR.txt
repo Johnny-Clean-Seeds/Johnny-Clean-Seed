@@ -1,23 +1,21 @@
 CURRENT MR.KLEEN POSITION
 
-After long-code and Soft Suit trigger-event rule fix.
+After Growth Cycle mule review disposition/unload and Whole-House Soft Suit Trigger Event 001.
 
 Current ball:
-- Growth Cycle mule review return remains raw evidence only.
-- The premature Soft Suit Trigger Event 001 code is parked / not approved / not run.
-- Long Code Draft-Review-Send Gate Rule is saved.
-- Reusable Script Skeleton Pull Rule is saved.
-- Soft Suit Trigger Event Proof-Before-Mark Rule is saved.
-- TODO is open to read/disposition Growth Cycle return before any event mark.
+- Growth Cycle mule review return has been read and dispositioned.
+- Growth Cycle is parked as high-value source ore.
+- Stage-Readiness / Scaffold-Exit is held as one future live-use lens only.
+- Prior Growth Cycle return disposition TODO is closed.
+- Whole-House Double-Pass Mule Critique Soft Suit Trigger Event 001 is marked after proof.
 
 Next allowed move:
-- Read and disposition Growth Cycle mule review return.
-- Only after proof, judge whether a Soft Suit trigger event should be marked.
+- Continue normal work.
+- Wear the Whole-House Soft Suit naturally.
+- Use Growth Cycle Stage-Readiness / Scaffold-Exit only when a natural maturity/promotion/compression/expansion/scaffold-exit decision appears.
 
 Blocked moves:
-- Do not run the previously generated trigger-event code.
-- Do not mark Trigger Event 001 before read/disposition proof.
-- Do not install Growth Cycle.
+- Do not install Growth Cycle now.
 - Do not split the Soft Suit.
 - Do not extract gates.
 - Do not rewrite active guides.
