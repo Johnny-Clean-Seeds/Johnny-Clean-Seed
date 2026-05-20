@@ -109,3 +109,100 @@ This TODO is support only.
 It does not command work by itself.
 It does not start mule.
 It does not authorize dashboard, runtime, automation, doctrine rewrite, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, knowledge graph, full lesson index, or broad status-file rewrite.
+
+---
+
+## 2026-05-20 - Growth Substrate Sorting Mule Return Intake
+
+Status: RETURN INTAKEN / DISPOSITION STILL NEEDED.
+
+Return folder:
+HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\RETURNS\GROWTH_SUBSTRATE_SORTING_RETURN_20260520
+
+Intake note:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\GROWTH_SUBSTRATE_SORTING_RETURN_AND_DEEP_WEB_SOURCE_ORE_INTAKE_20260520.md
+
+Verdict:
+VALID / COMPLETE / SUPPORT EVIDENCE ONLY.
+
+Meaning:
+The mule returned the requested eight-file growth-substrate sorting package. It is preserved for house-side disposition. It does not adopt itself and does not authorize broad rewrite.
+
+Next natural action:
+If selected, perform house-side disposition and choose whether to do one manual pilot substrate record.
+
+Boundary:
+No dashboard, runtime, automation, knowledge graph, full lesson index, doctrine rewrite, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, ACTIVE_ANCHOR rewrite, broad status/history rewrite, or mule-output promotion.
+"
+
+    Add-Content -LiteralPath HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md -Encoding UTF8 -Value @"
+
+---
+
+## Growth Substrate Sorting Return + Deep Web Source-Ore Intake
+
+Status: SAVED AS RAW RETURN INTAKE + SOURCE-ORE PARK
+Date: 2026-05-20
+Base before intake: f63e5e4
+
+Primary return intaken:
+HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\RETURNS\GROWTH_SUBSTRATE_SORTING_RETURN_20260520
+
+Disposition:
+Valid complete growth-substrate sorting return. Support evidence only. Not adopted.
+
+Secondary return intaken:
+HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\RETURNS\DEEP_WEB_BOSS_WAVES_RETURN_20260520_133235
+
+Disposition:
+Valid complete deep web boss-wave return. Parked as source-ore support because its RCE read-only recommendation is stale against later house state.
+
+Saved intake note:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\GROWTH_SUBSTRATE_SORTING_RETURN_AND_DEEP_WEB_SOURCE_ORE_INTAKE_20260520.md
+
+Receipt:
+PROOF_HISTORY\GROWTH_SUBSTRATE_SORTING_RETURN_AND_DEEP_WEB_SOURCE_ORE_INTAKE_RECEIPT_20260520.txt
+
+Next:
+House-side disposition of the Growth return if selected. Likely smallest next proof is one manual pilot substrate record on one non-active support item.
+
+Boundary:
+No adoption.
+No promotion.
+No doctrine rewrite.
+No ACTIVE_GUIDES rewrite.
+No CURRENT_TRUTH_INDEX rewrite.
+No ACTIVE_ANCHOR rewrite.
+No dashboard/runtime/automation/knowledge graph/full lesson index.
+No broad status/history rewrite.
+"
+
+@"
+# ACTIVE ANCHOR
+
+Recorded base after latest confirmed save:
+main @ f63e5e4
+
+Current active ball:
+Growth Substrate Sorting return intake/disposition.
+
+Current evidence:
+- Growth Substrate Sorting return is present and valid as current sorting job support evidence.
+- Deep Web Boss Waves return is present and valid as source-ore support.
+- Deep Web RCE recommendation is stale against later house state and must not rewind the house.
+
+Next allowed move:
+House-side disposition of the Growth Substrate Sorting return, if selected.
+
+Likely smallest next action:
+One manual pilot substrate record on one existing non-active support item, only after disposition.
+
+Blocked moves:
+- Do not adopt mule output by return identity.
+- Do not run another mule pass by inertia.
+- Do not rewrite doctrine.
+- Do not rewrite ACTIVE_GUIDES.
+- Do not rewrite CURRENT_TRUTH_INDEX.
+- Do not build dashboard, runtime, automation, knowledge graph, or full lesson index.
+- Do not broadly rewrite status/history.
+- Do not treat Deep Web RCE recommendation as current command.
