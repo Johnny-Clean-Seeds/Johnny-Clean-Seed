@@ -4333,3 +4333,32 @@ Custody import only. No mule output adopted. No doctrine rewrite. No active guid
 
 Next:
 Read imported mule return files in order and build full disposition before any adoption/save.
+
+---
+
+## 2026-05-20 - Correction root fix and suit-first ordering
+
+Base before save: bf71e4adf25ff6a5d2cc2775e6d5610927daf4f7
+Base short: bf71e4a
+Status before save: clean
+
+Saved:
+- BRAIN_LEARNING\ROOT_PROBLEM_CLEANUP_AND_CORRECTION_CAPTURE_RULE_20260520.md
+- BRAIN_LEARNING\SUIT_FIRST_BEFORE_ROUTE_LOADOUT_RULE_20260520.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\CORRECTION_ROOT_FIX_SUIT_FIRST_DISSECTION_20260520.md
+- HOUSE_WORK\TODO\SUIT_LOADOUT_BEFORE_BOSS_GHOST_ROUTE_LIVE_USE_TODO_20260520.md
+- appended Rule-Concept-Event entries to HOUSE_WORK\WORK_SHED\RELATION_MAPS\RULE_CONCEPT_EVENT_LINK_MAP_SEED_20260520.md
+- updated ACTIVE_ANCHOR.txt
+- updated this status file
+
+Why:
+After mule return intake, the assistant treated the mule's Boss/Ghost first-read recommendation as the immediate next move. User corrected that next needed to be the suit. Correction fits the build.
+
+Meaning:
+Corrections that fit the build must trigger root cleanup, not apology-only patchwork. The current next order is suit fit -> current worn loadout -> then Boss/Ghost route if still selected.
+
+Boundary:
+No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, no suit/tool/relation-map/stale-checker promotion, and no mule output adoption.
+
+Next:
+Build/read current suit loadout for this moment before downstream Boss/Ghost TODO work.

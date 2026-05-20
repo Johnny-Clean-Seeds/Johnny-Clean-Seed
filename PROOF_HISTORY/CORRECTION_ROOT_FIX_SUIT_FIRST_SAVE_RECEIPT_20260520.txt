@@ -1,0 +1,52 @@
+CORRECTION ROOT FIX AND SUIT-FIRST SAVE RECEIPT
+Date: 2026-05-20
+Repo: C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+Base HEAD: bf71e4adf25ff6a5d2cc2775e6d5610927daf4f7
+Base short: bf71e4a
+origin/main: bf71e4adf25ff6a5d2cc2775e6d5610927daf4f7
+Status before save: clean
+
+Saved:
+- BRAIN_LEARNING\ROOT_PROBLEM_CLEANUP_AND_CORRECTION_CAPTURE_RULE_20260520.md
+- BRAIN_LEARNING\SUIT_FIRST_BEFORE_ROUTE_LOADOUT_RULE_20260520.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\CORRECTION_ROOT_FIX_SUIT_FIRST_DISSECTION_20260520.md
+- HOUSE_WORK\TODO\SUIT_LOADOUT_BEFORE_BOSS_GHOST_ROUTE_LIVE_USE_TODO_20260520.md
+- HOUSE_WORK\WORK_SHED\RELATION_MAPS\RULE_CONCEPT_EVENT_LINK_MAP_SEED_20260520.md
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Core correction:
+The assistant treated the mule's Boss/Ghost first-read recommendation as immediate next action. User corrected that next needed to be the suit. The correction fits the build, so it was dissected and saved as a root fix.
+
+Adopt/adapt/park/reject:
+- APPLY: correction must trigger root cleanup, not apology-only patchwork.
+- APPLY: no air-freshener patchwork for real root problems.
+- APPLY WITH GUARDRAILS: suit fit before route when active loadout matters.
+- ADAPT: mule's Boss/Ghost first-read target becomes downstream-after-suit, not immediate command.
+- PARK: dashboard/knowledge graph/full lesson index pressure.
+- REJECT: mule-output-as-command and support-rule whirlpool.
+- NEEDS PROOF: next live suit loadout before Boss/Ghost route.
+
+Hashes:
+- BRAIN_LEARNING\ROOT_PROBLEM_CLEANUP_AND_CORRECTION_CAPTURE_RULE_20260520.md | sha256=80FBAD0A434302213FD4D18D708769E275D260495ECBA570BD4D8FCABEF30EA6
+- BRAIN_LEARNING\SUIT_FIRST_BEFORE_ROUTE_LOADOUT_RULE_20260520.md | sha256=EB533A0F4C305777CC2F82F00FDF1B7EDD4B5539273B26C1D066B8D5E0B7C0BC
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\CORRECTION_ROOT_FIX_SUIT_FIRST_DISSECTION_20260520.md | sha256=58660AD3840D6B733CB4FE9A30EE68CEDCC8A36DEE88303A359944F84934BC25
+- HOUSE_WORK\TODO\SUIT_LOADOUT_BEFORE_BOSS_GHOST_ROUTE_LIVE_USE_TODO_20260520.md | sha256=2357D0AE6F4ADE373AD0AEFBC65B700A71F371CE582F15258DD5922532DE9DF9
+- HOUSE_WORK\WORK_SHED\RELATION_MAPS\RULE_CONCEPT_EVENT_LINK_MAP_SEED_20260520.md | sha256=3617E8367AA01BD61C3DDDA10C29D5227331975EAC8CF1EFE54F066CAD40B9B6
+- ACTIVE_ANCHOR.txt | sha256=4D6F60EDEC6E164ABFBEB58BAD8E2A26277E158C74FBB4E3DEDEF95E8DAC405D
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md | sha256=00F9A73FC02F01B4A18AD40E7C90D39F78210FC53416A3D287F804122FAE7279
+
+Boundary held:
+- no doctrine rewrite;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no dashboard;
+- no automation;
+- no runtime;
+- no knowledge graph;
+- no full lesson index;
+- no suit/tool/relation-map/stale-checker promotion;
+- no mule output adoption.
+
+Next move:
+Build/read current suit loadout for this moment before downstream Boss/Ghost TODO work.

@@ -152,3 +152,63 @@ Seed map created; needs first real use before promotion or expansion.
 
 Neighbor rules:
 No dashboard unless selected; no knowledge graph unless selected; support index only.
+
+## Entry 08 - Correction Must Trigger Root Fix
+
+Rule:
+When the user or assistant catches a real problem and the correction fits the build, the system must separate, dissect, capture, adopt/adapt, and fix the root instead of leaving the issue as a chat apology.
+
+Concept:
+Root problem cleanup; anti-patchwork; rule activation; doctor posture.
+
+Event:
+After mule return intake, assistant agreed that suit should be next but had not yet converted the correction into a saved root fix. User clarified that problems should not linger or be covered with air freshener; they must be cleaned at the root.
+
+Trigger phrases:
+correct yourself; I correct you; fits the build; not patchwork; fix the root; do not let it linger; clean it now; adopt adapt push on.
+
+Proof state:
+Saved as support rule. Needs future live-use proof on next correction event.
+
+Neighbor rules:
+Dissect Rule; Rule-not-fired alarm; No Rule King; Discovery Path learning; FREEZE -> CAPTURE -> POWER PLAY.
+
+## Entry 09 - Suit First Before Route
+
+Rule:
+When current work depends on active supports, lifecycle state, mule-return boundaries, or multiple watches, run suit/loadout fit before downstream route work.
+
+Concept:
+Suit theory; active loadout; wrong-order prevention; tool-suit-rule lifecycle.
+
+Event:
+Mule recommended Boss/Ghost TODO as first read target. User corrected that next needed to be the suit. Assistant recognized the correction fit the build.
+
+Trigger phrases:
+next needs to be the suit; what are we wearing; loadout; suit first; do not go in naked; approach it with the suit.
+
+Proof state:
+Saved as support rule and immediate TODO. Needs live proof before promotion.
+
+Neighbor rules:
+Mule output is support only; Relevant Root Key selector; No Rule King; Boss/Ghost map; unload map retrieval/disposition.
+
+## Entry 10 - Mule Recommendation Is Downstream Evidence, Not Command
+
+Rule:
+A mule recommendation can identify a downstream route, but the house decides whether predecessor steps are required before action.
+
+Concept:
+Mule sharpens, house decides; custody boundary; authority translation; source output not command.
+
+Event:
+The assistant treated the mule's first-read recommendation as immediate next action. The user corrected the order to suit-first.
+
+Trigger phrases:
+mule says; output says; next target; but the house needs; suit before; not command authority.
+
+Proof state:
+Reaffirmed during correction root-fix save. Needs future mule-return intake proof.
+
+Neighbor rules:
+Known-path mule pickup; return intake; stale/custody check; no doctrine/guide/index rewrite.
