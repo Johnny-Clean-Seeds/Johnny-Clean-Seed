@@ -1,0 +1,65 @@
+CONTROL-STATE-FIRST / BOSS-GHOST / CYCLE-FLOW LOCK RECEIPT
+Date: 2026-05-20
+
+Branch before save:
+main
+
+HEAD before save:
+460ccd452b4b62be19c517a52a8379e8ec07af7c
+
+origin/main before save:
+460ccd452b4b62be19c517a52a8379e8ec07af7c
+
+Saved:
+- BRAIN_LEARNING\CONTROL_STATE_FIRST_RULE_FIRING_AND_BOSS_GHOST_GATE_20260520.md
+  SHA256: 0FADB4622B192E6551F89F775A428C0AA887D3E890BC6846E062C4FB8CE0F26B
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\CONTROL_STATE_FIRST_BOSS_GHOST_CYCLE_FLOW_DISSECTION_20260520.md
+  SHA256: 07CA7D662A355C54240DC1A2107FBAD8F5C0AA33F2CB8B7FB8D0AFF1B9629F32
+- HOUSE_WORK\TODO\BOSS_GHOST_RULE_FIRING_CYCLE_FLOW_TODO_20260520.md
+  SHA256: FC8975E32AA7D51E7476E025E49A88D9EF9BB0AF1E21051A054B4124A8F4AD7A
+- HOUSE_WORK\WORK_SHED\IDEA_BAG\RULE_FIRING_BOSS_GHOST_ROOT_KEYS_HOT_LIST_20260520.md
+  SHA256: 08837E746CACECE8212AA3B390295266E15F2662E6B40DC69C03A54762CD0B01
+- PROOF_HISTORY\CONTROL_STATE_FIRST_BOSS_GHOST_CYCLE_FLOW_LOCK_RECEIPT_20260520.txt
+
+Updated:
+- ACTIVE_ANCHOR.txt
+  SHA256: 57994FDBD65593F46F489593DAE79AEDEE4D453AB180552468C6786AC635296D
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+  SHA256: 1A7DC83B2883C1665E43ADBDDFEF8D4606AFDB17F8FF5CE88450A35F123ECF27
+
+Required checks:
+Brain rule has Control-State-First Gate
+Brain rule has Boss/Ghost Sorting Gate
+Brain rule has Mule Duplicate-Work Guard
+Brain rule blocks mimic-only behavior
+Sort note names parent boss
+Sort note has cycle flow
+TODO has parent boss
+TODO has boss ghost method
+Hot list has root key Rule exists
+Hot list has Worker present hands off
+
+Verdict:
+PASS
+
+Meaning:
+- Control-state-first gate saved.
+- Pre-action rule confirmation gate saved.
+- Boss/ghost sorting gate saved for TODO and idea capture.
+- Mule duplicate-work guard saved.
+- Completion-standard gate saved.
+- Relevant-tool-use/no-loose-ideas rule saved.
+- Cycle-flow route saved.
+- Mimic-only behavior blocked.
+- Package ghost-proofed by separating parent boss from ghosts/children.
+
+Boundary:
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX rewrite.
+- No doctrine compression.
+- No runtime build.
+- No /system.
+- No tool/checker/Soft Suit promotion.
+- No automation, dashboard, knowledge graph, or full lesson index.
+- No PROOF_HISTORY restructuring.
+- No mule pass run.

@@ -1,18 +1,22 @@
-ACTIVE BALL: Deep revised house walkthrough saved as mule workshop reference; next move must be selected cleanly.
+ACTIVE BALL: Control-state-first / boss-ghost / rule-firing package saved; next move must be selected cleanly.
 
-RECORDED BASE BEFORE SAVE: main @ 22c25de
+RECORDED BASE BEFORE SAVE: main @ 460ccd4
 
 CURRENT PROVEN ITEMS:
-- Permanent mule workshop README exists.
-- Mule workshop access map exists.
-- Deep revised held house walkthrough has been placed as a separate mule workshop instruction reference.
-- The reference file is not the active packet and does not command work by itself.
-- No implementation was performed by this save.
+- Control-state-first gate saved.
+- Rule-firing confirmation gate saved.
+- Boss/ghost sorting gate saved for TODO and idea capture.
+- Mule duplicate-work guard saved.
+- Completion-standard gate saved.
+- Relevant-tool-use and no-loose-ideas rule saved.
+- Cycle-flow route saved.
+- Mimic-only behavior blocked.
+- No mule pass was run.
 
 NEXT ALLOWED MOVE:
-- Choose the next clean task from current user command or disposition.
-- Candidate options remain: living-rules/root-words list, packet-scoped mule start card, future packet top-block rule, or narrow queue header wording cleanup.
-- Before next task, run task-scoped rule + neighbor search.
+- Use this gate before future house work.
+- If mule returns later, intake must dedupe against current house state before accepting work.
+- Candidate options still include packet-scoped mule start card, future packet top-block rule, narrow queue header wording cleanup, or PowerShell paste hygiene if selected.
 
 BLOCKED MOVES:
 - Do not run another mule pass by inertia.

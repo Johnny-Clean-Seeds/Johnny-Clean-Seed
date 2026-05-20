@@ -3162,3 +3162,37 @@ Boundary:
 - No automation, dashboard, knowledge graph, or full lesson index.
 - No PROOF_HISTORY restructuring.
 - No mule pass run.
+## Control-State-First / Boss-Ghost / Cycle-Flow Lock
+
+Status: SAVED
+Date: 2026-05-20
+Base before save: main @ 460ccd4
+
+Saved:
+- BRAIN_LEARNING\CONTROL_STATE_FIRST_RULE_FIRING_AND_BOSS_GHOST_GATE_20260520.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\CONTROL_STATE_FIRST_BOSS_GHOST_CYCLE_FLOW_DISSECTION_20260520.md
+- HOUSE_WORK\TODO\BOSS_GHOST_RULE_FIRING_CYCLE_FLOW_TODO_20260520.md
+- HOUSE_WORK\WORK_SHED\IDEA_BAG\RULE_FIRING_BOSS_GHOST_ROOT_KEYS_HOT_LIST_20260520.md
+- PROOF_HISTORY\CONTROL_STATE_FIRST_BOSS_GHOST_CYCLE_FLOW_LOCK_RECEIPT_20260520.txt
+
+Updated:
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+- Parent Boss identified as Rule Activation / Work-Order Control.
+- Worker-custody slip, mule duplicate-work risk, mimic-only behavior, flat TODO lists, completion drift, loose idea/tool debris, and cycle disconnect are treated as ghosts/children under that parent boss.
+- Boss/ghost sorting is now required for TODO and large idea capture.
+- Mule duplicate-work guard is saved so future mule output is deduped against current house fixes before acceptance.
+- Cycle flow route connects work entry, idea capture, TODO, mule, proof, learning, and tightening cycles.
+- No mule pass was run.
+
+Boundary:
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX rewrite.
+- No doctrine compression.
+- No runtime build.
+- No /system.
+- No tool/checker/Soft Suit promotion.
+- No automation, dashboard, knowledge graph, or full lesson index.
+- No PROOF_HISTORY restructuring.
