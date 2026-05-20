@@ -1,25 +1,24 @@
-ACTIVE BALL: Mule workshop desk installed, ready for bounded mule pass only if user chooses to run it.
+ACTIVE BALL: Mule return intaken and saved; next move must be selected from disposition, not mule inertia.
 
-RECORDED BASE BEFORE SAVE: main @ 2f773c7
+RECORDED BASE BEFORE SAVE: main @ c03ec16
 
 CURRENT PROVEN ITEMS:
-- Task-scoped rule + neighbor search is already locked.
-- File-first long kickoff / mule handoff rule is already locked.
-- Mule no-endless/default-cycle correction is already locked.
-- Mule workshop room is now installed under HOUSE_WORK/WORK_SHED/MULE_WORKSHOP.
-- Active mule packet is placed at HOUSE_WORK/WORK_SHED/MULE_WORKSHOP/ACTIVE_DESK/MULE_FILE_ACTIVE_20260520_001.txt.
-- Workshop access map is placed at HOUSE_WORK/WORK_SHED/MULE_WORKSHOP/MULE_WORKSHOP_ACCESS_MAP.md.
-- Mule output remains routed to HOUSE_WORK/WORK_SHED/AGENT_OUTPUTS.
+- Mule return folder exists at HOUSE_WORK/WORK_SHED/AGENT_OUTPUTS/MULE_FILE_REVIEW_RETURN_20260520_001.
+- Required return files are present.
+- Mule return verdict: PASS WITH GUARDRAILS.
+- Mule recommends NO immediate second mule pass.
+- Return package was saved as received.
+- Intake receipt was saved.
+- No fixes were implemented by this intake save.
 
 NEXT ALLOWED MOVE:
-- If user chooses, run one bounded mule pass using the active mule packet.
-- Otherwise return to the selected real job.
-- Before any next task, run task-scoped rule + neighbor search.
+- Choose one small next fix or candidate from the mule disposition.
+- Top candidates are receipt supersession/disposition note, packet-scoped mule start card, future packet top-block rule, or narrow queue header wording cleanup.
+- If the living-rules/root-words list remains selected, rerun task-scoped rule + neighbor search from this clean base before saving it.
 
 BLOCKED MOVES:
-- Do not use mule as endless/default cycle.
-- Do not let mule supervise the house.
-- Do not send mule by inertia.
+- Do not run another mule pass by inertia.
+- Do not implement multiple fixes at once.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.
 - Do not promote tools/checkers/Soft Suits.

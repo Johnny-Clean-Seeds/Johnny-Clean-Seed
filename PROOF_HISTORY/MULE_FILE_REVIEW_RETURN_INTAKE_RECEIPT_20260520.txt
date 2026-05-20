@@ -1,0 +1,60 @@
+MULE FILE REVIEW RETURN INTAKE RECEIPT
+Date: 2026-05-20
+
+Branch before save:
+main
+
+HEAD before save:
+c03ec16d84f0a470eed7d4f2ed27a897f7773c4d
+
+origin/main before save:
+c03ec16d84f0a470eed7d4f2ed27a897f7773c4d
+
+Return folder:
+HOUSE_WORK/WORK_SHED/AGENT_OUTPUTS/MULE_FILE_REVIEW_RETURN_20260520_001
+
+Saved return files:
+- HOUSE_WORK\WORK_SHED\AGENT_OUTPUTS\MULE_FILE_REVIEW_RETURN_20260520_001\MANIFEST.md
+  SHA256: A2B0B338396787475F23EB92B3C69E303C77E8A2B261F993DBFE96CA4D036DAB
+- HOUSE_WORK\WORK_SHED\AGENT_OUTPUTS\MULE_FILE_REVIEW_RETURN_20260520_001\REVIEW_REPORT.md
+  SHA256: F509DA5AEEDF71D17E602C6ACE5D414E02788BC9BD664181A3842909E34D1CC2
+- HOUSE_WORK\WORK_SHED\AGENT_OUTPUTS\MULE_FILE_REVIEW_RETURN_20260520_001\DISPOSITION_MATRIX.md
+  SHA256: 72435239C2F4B8D49A7A8885A203086897DC6524CA508899BD72175F8B4E2FAB
+- HOUSE_WORK\WORK_SHED\AGENT_OUTPUTS\MULE_FILE_REVIEW_RETURN_20260520_001\WORKSHOP_GAP_REVIEW.md
+  SHA256: F2247F4994EAE1F380168C7072CFAEC172161E9E3F9D27F6CDB80B9BF1F64F0C
+- HOUSE_WORK\WORK_SHED\AGENT_OUTPUTS\MULE_FILE_REVIEW_RETURN_20260520_001\NEXT_ACTION_RECOMMENDATION.md
+  SHA256: 676CBF3EE37B65CA2B0E21DEED3BB02EA352A3FE50BB2974D4F3C5F8F611072C
+
+Intake verdict:
+PASS WITH GUARDRAILS
+
+Mule return summary:
+- Return package is valid and complete.
+- Mule recommends NO immediate second mule pass.
+- Workshop is usable with guardrails.
+- Strongest issue: receipt hygiene / prior blank-hash false PASS risk.
+- Secondary issues: mule-start friction, dense packet format, stale queue header wording.
+- Recommended next house-side move: intake/disposition first, then choose one small fix.
+
+Accepted now:
+- Save mule return package as received.
+- Record intake verdict.
+- Do not implement fixes yet.
+
+Parked candidates:
+- Receipt supersession/disposition note.
+- Packet-scoped mule start card.
+- Future packet top block.
+- Narrow queue header wording cleanup.
+- Controlled tag row only if later proven useful.
+
+Blocked:
+- Another mule pass by inertia.
+- Active guide rewrite.
+- CURRENT_TRUTH_INDEX rewrite.
+- Doctrine compression.
+- Tool/checker/Soft Suit promotion.
+- Runtime/status-command build.
+- /system creation.
+- Automation, dashboard, knowledge graph, or full lesson index.
+- PROOF_HISTORY restructuring.

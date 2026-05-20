@@ -3056,3 +3056,42 @@ Boundary:
 - No tool/checker/Soft Suit promotion.
 - No runtime build.
 - No /system.
+## Mule File Review Return Intake
+
+Status: SAVED
+Date: 2026-05-20
+Base before save: main @ c03ec16
+
+Saved:
+- HOUSE_WORK/WORK_SHED/AGENT_OUTPUTS/MULE_FILE_REVIEW_RETURN_20260520_001/MANIFEST.md
+- HOUSE_WORK/WORK_SHED/AGENT_OUTPUTS/MULE_FILE_REVIEW_RETURN_20260520_001/REVIEW_REPORT.md
+- HOUSE_WORK/WORK_SHED/AGENT_OUTPUTS/MULE_FILE_REVIEW_RETURN_20260520_001/DISPOSITION_MATRIX.md
+- HOUSE_WORK/WORK_SHED/AGENT_OUTPUTS/MULE_FILE_REVIEW_RETURN_20260520_001/WORKSHOP_GAP_REVIEW.md
+- HOUSE_WORK/WORK_SHED/AGENT_OUTPUTS/MULE_FILE_REVIEW_RETURN_20260520_001/NEXT_ACTION_RECOMMENDATION.md
+- PROOF_HISTORY/MULE_FILE_REVIEW_RETURN_INTAKE_RECEIPT_20260520.txt
+
+Updated:
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+
+Intake verdict:
+PASS WITH GUARDRAILS
+
+Meaning:
+- Mule return package is valid and complete.
+- Mule says NO immediate second mule pass.
+- Workshop is usable with guardrails.
+- Main next issue is receipt hygiene / blank-hash false PASS risk.
+- Other candidates are packet-scoped mule start card, future packet top block, and narrow queue header wording cleanup.
+- No fixes were implemented by this intake save.
+
+Boundary:
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX rewrite.
+- No doctrine compression.
+- No runtime build.
+- No /system.
+- No tool/checker/Soft Suit promotion.
+- No automation, dashboard, knowledge graph, or full lesson index.
+- No PROOF_HISTORY restructuring.
+- No second mule pass.
