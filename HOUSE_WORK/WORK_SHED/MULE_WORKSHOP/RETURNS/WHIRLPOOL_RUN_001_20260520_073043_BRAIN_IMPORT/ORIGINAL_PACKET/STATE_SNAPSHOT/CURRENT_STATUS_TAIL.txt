@@ -1,0 +1,220 @@
+Status before save: clean
+
+Saved:
+- BRAIN_LEARNING\ROOT_PROBLEM_CLEANUP_AND_CORRECTION_CAPTURE_RULE_20260520.md
+- BRAIN_LEARNING\SUIT_FIRST_BEFORE_ROUTE_LOADOUT_RULE_20260520.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\CORRECTION_ROOT_FIX_SUIT_FIRST_DISSECTION_20260520.md
+- HOUSE_WORK\TODO\SUIT_LOADOUT_BEFORE_BOSS_GHOST_ROUTE_LIVE_USE_TODO_20260520.md
+- appended Rule-Concept-Event entries to HOUSE_WORK\WORK_SHED\RELATION_MAPS\RULE_CONCEPT_EVENT_LINK_MAP_SEED_20260520.md
+- updated ACTIVE_ANCHOR.txt
+- updated this status file
+
+Why:
+After mule return intake, the assistant treated the mule's Boss/Ghost first-read recommendation as the immediate next move. User corrected that next needed to be the suit. Correction fits the build.
+
+Meaning:
+Corrections that fit the build must trigger root cleanup, not apology-only patchwork. The current next order is suit fit -> current worn loadout -> then Boss/Ghost route if still selected.
+
+Boundary:
+No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, no suit/tool/relation-map/stale-checker promotion, and no mule output adoption.
+
+Next:
+Build/read current suit loadout for this moment before downstream Boss/Ghost TODO work.
+
+---
+
+## 2026-05-20 - Rule-firing root fix confirmation gate
+
+Base before save: 21ee27e1fcb69b5bf0fc639ee25702f1cc057de9
+Base short: 21ee27e
+Status before save: clean
+
+Saved:
+- suit-loadout before Boss/Ghost live-use proof;
+- selected child route: Rule storage mistaken for rule firing;
+- Rule-Firing Confirmation Before Action Gate;
+- Rule-Firing Confirmation Card;
+- immediate live-use TODO;
+- appended Rule-Concept-Event entry;
+- updated Suit Loadout TODO;
+- updated ACTIVE_ANCHOR.
+
+Why:
+Saving proof of suit-first was not enough. The live root was rule storage mistaken for rule firing. User caught the aha moment: the root fix is a small before-action confirmation gate so stored rules must fire before action.
+
+Boundary:
+No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, no suit/tool/stale-checker/relation-map promotion, and no mule output adoption.
+
+Next:
+Use Rule-Firing Confirmation Card before the next nontrivial Mr.Kleen house-touching action.
+
+---
+
+## 2026-05-20 - Habit pattern / mimic-adopt-adapt transfer learning
+
+Base before save: e672c2aac40120e0f3a5d8bdefc9d80f0eb90397
+Base short: e672c2a
+Status before save: clean
+
+Saved:
+- BRAIN_LEARNING\HABIT_PATTERN_MIMIC_ADOPT_ADAPT_TRANSFER_RULE_20260520.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\HABIT_PATTERN_MIMIC_ADOPT_ADAPT_DISSECTION_20260520.md
+- HOUSE_WORK\TODO\HABIT_PATTERN_MIMIC_ADOPT_ADAPT_LIVE_USE_TODO_20260520.md
+- appended entries to HOUSE_WORK\WORK_SHED\RELATION_MAPS\RULE_CONCEPT_EVENT_LINK_MAP_SEED_20260520.md
+- updated ACTIVE_ANCHOR.txt
+- updated this status file
+
+Meaning:
+Habits are repeated firing-pattern evidence. They show what actually repeats, reveal stable or broken routes, and help decide whether a plan should mimic, adopt, or adapt when moved into another lane.
+
+Boundary:
+No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, and no promotion.
+
+Next:
+Use Rule-Firing Confirmation Card before the next nontrivial Mr.Kleen house-touching action. Use Habit/MAA lens only when repeated pattern or transfer decision appears.
+
+---
+
+## 2026-05-20 - Rule-Firing Confirmation Card and Habit/MAA first live use
+
+Base before save: 0cdae63ba8075224e51502b25d01846fdedb7314
+Base short: 0cdae63
+Status before save: clean
+
+Saved:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\RULE_FIRING_CONFIRMATION_CARD_FIRST_LIVE_USE_PROOF_20260520.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\HABIT_MAA_LENS_FIRST_LIVE_USE_RULE_FIRING_PATTERN_20260520.md
+- updated HOUSE_WORK\TODO\RULE_STORAGE_MISTAKEN_FOR_RULE_FIRING_CONFIRMATION_GATE_LIVE_USE_TODO_20260520.md
+- updated HOUSE_WORK\TODO\HABIT_PATTERN_MIMIC_ADOPT_ADAPT_LIVE_USE_TODO_20260520.md
+- appended entries to HOUSE_WORK\WORK_SHED\RELATION_MAPS\RULE_CONCEPT_EVENT_LINK_MAP_SEED_20260520.md
+- updated ACTIVE_ANCHOR.txt
+- updated this status file
+
+Meaning:
+The Rule-Firing Confirmation Card fired before the next nontrivial Mr.Kleen action. The action stayed read-only and did not become a save/repair/promotion. Habit/MAA lens also fired because repeated rule-firing misses formed a visible habit pattern.
+
+Boundary:
+No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, and no promotion.
+
+Next:
+Use Rule-Firing Confirmation Card before the next nontrivial Mr.Kleen house-touching action. Use Habit/MAA lens only when repeated pattern or transfer decision appears.
+
+---
+
+## 2026-05-20 - Rule-Concept-Event / Report Gate partial live use
+
+Base before save: 867eb4afb617396d7d95f4a02cf15087f9a058f0
+Base short: 867eb4a
+Status before save: clean
+
+Saved:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\RULE_CONCEPT_EVENT_REPORT_GATE_PARTIAL_LIVE_USE_PROOF_20260520.md
+- updated HOUSE_WORK\TODO\RULE_CONCEPT_EVENT_LINK_MAP_AND_REPORT_GATE_LIVE_USE_TODO_20260520.md
+- updated ACTIVE_ANCHOR.txt
+- updated this status file
+
+Verdict:
+PASS / PARTIAL.
+
+Passed:
+- Rule-not-fired alarm live use.
+- Rule-Concept-Event map live use.
+
+Still open:
+- Full report gate.
+- Future mule-return intake proof.
+- More varied proof before promotion.
+
+Meaning:
+The RCE/report gate TODO became action instead of another stored-but-unfired rule. It was read, judged, and claim-scoped. The map proof passed because recent RCE entries include rule, concept, event, trigger phrases, proof state, and boundary.
+
+Boundary:
+No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, and no promotion.
+
+Next:
+Return to route selection under Rule-Firing Confirmation Card.
+
+---
+
+## 2026-05-20 - Relevant Root Key Selector varied live use
+
+Base before save: d872fd0a2abe3c98924f85d54e926208c79df7cd
+Base short: d872fd0
+Status before save: clean
+
+Saved:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\RELEVANT_ROOT_KEY_SELECTOR_VARIED_LIVE_USE_PROOF_20260520.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\NO_RULE_KING_GUARD_DURING_SELECTOR_ROUTE_PROOF_20260520.md
+- updated HOUSE_WORK\TODO\RELEVANT_ROOT_KEY_AND_TOOL_USE_SELECTOR_LIVE_USE_TODO_20260520.md
+- updated HOUSE_WORK\TODO\NO_RULE_KING_BETTER_FIT_PROMOTION_LIVE_USE_TODO_20260520.md
+- appended entries to HOUSE_WORK\WORK_SHED\RELATION_MAPS\RULE_CONCEPT_EVENT_LINK_MAP_SEED_20260520.md
+- updated ACTIVE_ANCHOR.txt
+- updated this status file
+
+Verdict:
+- Relevant Root Key Selector: PASS as varied live use.
+- No Rule King: PASS / PARTIAL guard proof.
+
+Meaning:
+Route selection used only the relevant keys/tools, blocked newest-file pressure, kept the selector support-only, and read No Rule King to prevent selector monarchy.
+
+Boundary:
+No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, and no promotion.
+
+Next:
+Return to route selection under Rule-Firing Confirmation Card.
+
+---
+
+## 2026-05-20 - Mule return Big Overall full disposition
+
+Base before save: 381c2ee383aba11517492768c68b6c4ae0c452ee
+Base short: 381c2ee
+Status before save: clean
+
+Saved:
+- HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\RETURNS\BIG_OVERALL_JOB_20260520_051710_RETURN_INTAKE_20260520_054120\FULL_DISPOSITION_AFTER_READ_20260520.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_20260520.md
+- updated HOUSE_WORK\TODO\RULE_CONCEPT_EVENT_LINK_MAP_AND_REPORT_GATE_LIVE_USE_TODO_20260520.md
+- appended entry to HOUSE_WORK\WORK_SHED\RELATION_MAPS\RULE_CONCEPT_EVENT_LINK_MAP_SEED_20260520.md
+- updated ACTIVE_ANCHOR.txt
+- updated this status file
+
+Verdict:
+PASS as full mule-return intake/disposition proof.
+
+Meaning:
+The Big Overall Job mule return is now fully read and dispositioned. It is useful support evidence but not command authority. Packet-time PASS is preserved as packet evidence; later STALE/BLOCKED result and current HEAD movement block blind adoption.
+
+Boundary:
+No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, no promotion, and no mule output adoption.
+
+Next:
+Return to route selection under Rule-Firing Confirmation Card.
+
+---
+
+## 2026-05-20 - TODO control surface stale-heading repair
+
+Base before save: 392208c1965174d2a59252afff88cd00351cdd7d
+Base short: 392208c
+Status before save: clean
+
+Saved:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\TODO_CONTROL_SURFACE_STALE_HEADING_REPAIR_20260520.md
+- updated HOUSE_WORK\TODO\TODO_CONTROL_BOARD_20260518.md
+- updated HOUSE_WORK\TODO\TODO_INDEX_20260518.md
+- updated ACTIVE_ANCHOR.txt
+- updated this status file
+
+Verdict:
+PASS as narrow stale-heading repair.
+
+Meaning:
+TODO control surfaces already said support-only, but old live-looking wording such as Current Recommended Next Move, Current Recommended Next Boss, and Next active work could still misroute starts. These were demoted to historical support wording without changing doctrine, active guides, CURRENT_TRUTH_INDEX, boss order, or TODO states.
+
+Boundary:
+No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, and no promotion.
+
+Next:
+Return to route selection under Rule-Firing Confirmation Card.

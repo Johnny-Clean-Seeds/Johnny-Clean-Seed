@@ -1,0 +1,66 @@
+# Rule-Firing Confirmation Card - First Live Use Proof
+
+Date: 2026-05-20
+Lane: HOUSE_WORK / WORK_SHED / SORTING_BENCH
+Status: first live-use proof / no promotion
+Base HEAD before save: 0cdae63ba8075224e51502b25d01846fdedb7314
+Authority: proof of one live use only
+
+## What happened
+
+After saving the Rule-Firing Confirmation Before Action Gate, the next nontrivial Mr.Kleen house-touching action was a route read.
+
+Before the read, the assistant used the confirmation card:
+
+- State: main @ 0cdae63, clean by last proof.
+- Intended action: read current anchor plus active gate/TODO state and choose next route.
+- Fired gate: Rule-Firing Confirmation Before Action Gate.
+- Why it fired: the saved gate requires confirmation before nontrivial Mr.Kleen house-touching action.
+- Blocked: no save, no doctrine, no active guide, no CURRENT_TRUTH_INDEX, no dashboard, no automation, no runtime, no knowledge graph, no promotion.
+- Proof needed: HEAD == origin/main, status clean, active anchor read, active TODO/gate context read.
+- Disposition: read-only route selection.
+
+The user then ran the read command.
+
+## Files read in live use
+
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\RULE_FIRING_CONFIRMATION_CARD_20260520.md
+- HOUSE_WORK\TODO\HABIT_PATTERN_MIMIC_ADOPT_ADAPT_LIVE_USE_TODO_20260520.md
+- HOUSE_WORK\TODO\RULE_STORAGE_MISTAKEN_FOR_RULE_FIRING_CONFIRMATION_GATE_LIVE_USE_TODO_20260520.md
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+## Result
+
+PASS as first live-use proof.
+
+The card fired before action.
+
+The card validated the action as read-only.
+
+The card blocked immediate save/repair/promotion.
+
+The action read the active anchor, card, habit/MAA TODO, rule-firing TODO, and current status tail.
+
+## What this proves
+
+It proves one instance of the confirmation card working as an interruption point before action.
+
+It does not prove promotion.
+
+It does not prove the gate is closed.
+
+It does not prove all future rules will fire.
+
+## Boundary
+
+No doctrine rewrite.
+
+No active guide rewrite.
+
+No CURRENT_TRUTH_INDEX rewrite.
+
+No dashboard, automation, runtime, knowledge graph, or full lesson index.
+
+No promotion from this proof.
+

@@ -4561,32 +4561,3 @@ No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no
 Next:
 Return to route selection under Rule-Firing Confirmation Card.
 
----
-
-## Whirlpool Run 001 Brain Import / Soft Loadout
-
-Status: SAVED
-Date: 2026-05-20
-Base before save: 6b9336b
-
-Imported:
-- HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\RETURNS\WHIRLPOOL_RUN_001_20260520_073043_BRAIN_IMPORT\ORIGINAL_PACKET
-
-Saved:
-- BRAIN_LEARNING\WHIRLPOOL_RUN_001_SOFT_LOADOUT_RULE_20260520.md
-- HOUSE_WORK\WORK_SHED\SORTING_BENCH\WHIRLPOOL_RUN_001_BRAIN_IMPORT_AND_SOFT_LOADOUT_20260520.md
-- PROOF_HISTORY\WHIRLPOOL_RUN_001_BRAIN_IMPORT_RECEIPT_20260520.txt
-
-Meaning:
-- Whirlpool packet files were loaded into Mr.Kleen brain;
-- useful Whirlpool/mule rules are held as soft working loadout;
-- source files are preferred over duplicate/generated helper copies;
-- mule is not for mundane local search/cleanup;
-- no mule output is command authority by itself.
-
-Boundary:
-No active guide rewrite.
-No CURRENT_TRUTH_INDEX rewrite.
-No doctrine promotion.
-No dashboard, automation, runtime, knowledge graph, or full lesson index.
-No fake substitute output package.
