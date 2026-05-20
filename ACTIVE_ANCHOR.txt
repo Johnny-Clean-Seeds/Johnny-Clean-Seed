@@ -1,39 +1,50 @@
 # ACTIVE ANCHOR
 
 Date: 2026-05-20
-Current active ball after this save: Rule-Firing Confirmation Card varied live use / next route selection
+Current active ball after this save: Route selection under Rule-Firing Confirmation Card
 
 ## Last completed move
 
-Saved first live-use proof for:
+Saved partial live-use proof for:
 
-- Rule-Firing Confirmation Card;
-- Habit / Mimic-Adopt-Adapt lens applied to the repeated rule-firing pattern.
+Rule-Concept-Event Link Map And Report Gate Live Use.
+
+Verdict:
+PASS / PARTIAL.
+
+Passed:
+- Rule-not-fired alarm live use.
+- Rule-Concept-Event map live use.
+
+Still open:
+- Full report gate.
+- Future mule-return intake proof.
+- more varied proof before promotion.
 
 ## Current control state
 
-Rule-Firing Confirmation Card has one live-use proof.
+Rule-Firing Confirmation Card has live-use proof and remains active before nontrivial Mr.Kleen house-touching action.
 
-Habit / MAA lens has one live-use proof.
+Habit / MAA lens has live-use proof and remains support-only.
 
-Neither is promoted.
+RCE / Report Gate TODO has partial proof and remains open.
 
-The card remains the active gate before nontrivial Mr.Kleen house-touching actions.
+No item is promoted.
 
 ## Next allowed move
 
-Use Rule-Firing Confirmation Card before the next nontrivial Mr.Kleen house-touching action.
+Return to route selection under the Rule-Firing Confirmation Card.
 
-If the next move involves a repeated pattern or transfer decision, use Habit / MAA lens.
+Select one route by current anchor/status and active proof need, not newest-file pressure.
 
-Then select one route by current anchor/status, not by newest file or support pressure.
+Use Habit / MAA only when repeated pattern or transfer decision appears.
 
 ## Blocked moves
 
-- Do not promote the card from one proof.
-- Do not promote Habit/MAA from one proof.
+- Do not promote RCE map/report gate from partial proof.
+- Do not promote the card from limited proof.
+- Do not promote Habit/MAA from limited proof.
 - Do not create dashboard, automation, runtime, knowledge graph, or full lesson index.
 - Do not rewrite doctrine.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.
-- Do not copy plans across lanes without proof.

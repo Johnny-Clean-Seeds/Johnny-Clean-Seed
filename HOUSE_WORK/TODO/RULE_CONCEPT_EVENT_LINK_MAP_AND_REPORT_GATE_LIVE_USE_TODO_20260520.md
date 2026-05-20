@@ -2,13 +2,35 @@
 
 Date: 2026-05-20
 Lane: HOUSE_WORK / TODO
-Status: open / live-use proof needed
+Status: partial live-use proof recorded / still open
 Parent Boss: Rule Activation / Work-Order Control
 Related Boss: Memory Health / Placement-Keying / Good Fog Compression
 
 ## Purpose
 
 Prove that the discussion save becomes action, not another stored-but-unfired rule.
+
+## Partial live use recorded
+
+Date: 2026-05-20
+
+Proof:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\RULE_CONCEPT_EVENT_REPORT_GATE_PARTIAL_LIVE_USE_PROOF_20260520.md
+
+Receipt:
+PROOF_HISTORY\RULE_CONCEPT_EVENT_REPORT_GATE_PARTIAL_LIVE_USE_RECEIPT_20260520.txt
+
+Verdict:
+PASS / PARTIAL.
+
+Passed:
+- Rule-not-fired alarm live use.
+- Rule-Concept-Event map live use.
+
+Still open:
+- Full report gate.
+- Future mule-return intake proof.
+- More varied proof before any promotion.
 
 ## Required live uses
 
@@ -21,8 +43,8 @@ Next time user asks for house walk / feel report / full report / step back / do 
 - rewrite final report;
 - do not push commands unless the report proves a command is needed.
 
-Pass condition:
-The final answer visibly reflects the rewritten report quality and does not behave like a one-pass reaction.
+Status:
+OPEN / NOT TRIGGERED BY THIS EVENT.
 
 ### 2. Rule-not-fired alarm
 
@@ -34,8 +56,8 @@ Next time a missed rule is caught:
 - capture how it was found;
 - decide lane/disposition.
 
-Pass condition:
-The miss becomes a learning/disposition object before normal work continues.
+Status:
+PASS AS FIRST LIVE USE.
 
 ### 3. Rule-Concept-Event map
 
@@ -46,8 +68,8 @@ On the next real rule save or relation save:
 - include proof state;
 - include authority boundary.
 
-Pass condition:
-The map improves retrieval without becoming a dashboard, knowledge graph, or doctrine surface.
+Status:
+PASS AS FIRST LIVE USE.
 
 ### 4. Mule return intake
 
@@ -58,8 +80,8 @@ When mule return is provided:
 - disposition every item;
 - keep mule output in incoming/source/support lanes until proof.
 
-Pass condition:
-No single mule recommendation is applied before full return inventory and stale/custody check.
+Status:
+PARTIAL / WATCH. Do not close from current event.
 
 ## Not allowed
 
@@ -67,3 +89,4 @@ No single mule recommendation is applied before full return inventory and stale/
 - Do not build dashboard or knowledge graph from this TODO alone.
 - Do not rewrite CURRENT_TRUTH_INDEX.
 - Do not use this TODO as command authority.
+- Do not close this TODO from partial proof.

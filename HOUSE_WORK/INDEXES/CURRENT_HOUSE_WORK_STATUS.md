@@ -4440,3 +4440,38 @@ No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no
 
 Next:
 Use Rule-Firing Confirmation Card before the next nontrivial Mr.Kleen house-touching action. Use Habit/MAA lens only when repeated pattern or transfer decision appears.
+
+---
+
+## 2026-05-20 - Rule-Concept-Event / Report Gate partial live use
+
+Base before save: 867eb4afb617396d7d95f4a02cf15087f9a058f0
+Base short: 867eb4a
+Status before save: clean
+
+Saved:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\RULE_CONCEPT_EVENT_REPORT_GATE_PARTIAL_LIVE_USE_PROOF_20260520.md
+- updated HOUSE_WORK\TODO\RULE_CONCEPT_EVENT_LINK_MAP_AND_REPORT_GATE_LIVE_USE_TODO_20260520.md
+- updated ACTIVE_ANCHOR.txt
+- updated this status file
+
+Verdict:
+PASS / PARTIAL.
+
+Passed:
+- Rule-not-fired alarm live use.
+- Rule-Concept-Event map live use.
+
+Still open:
+- Full report gate.
+- Future mule-return intake proof.
+- More varied proof before promotion.
+
+Meaning:
+The RCE/report gate TODO became action instead of another stored-but-unfired rule. It was read, judged, and claim-scoped. The map proof passed because recent RCE entries include rule, concept, event, trigger phrases, proof state, and boundary.
+
+Boundary:
+No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, and no promotion.
+
+Next:
+Return to route selection under Rule-Firing Confirmation Card.
