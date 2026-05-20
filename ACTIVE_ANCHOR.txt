@@ -1,29 +1,27 @@
-ACTIVE BALL: Rule Activation / Work-Order Control parent boss close check saved; parent is CLOSED WITH WATCH for current repair run.
+ACTIVE BALL: Living root words / rule activation keys refinement saved; next move must be selected cleanly.
 
-RECORDED BASE BEFORE SAVE: main @ c462b18
+RECORDED BASE BEFORE SAVE: main @ 8c124d7
 
 CURRENT PROVEN ITEMS:
-- Receipt hygiene / claim-scoped proof is saved.
-- Control-state-first / boss-ghost / cycle-flow package is saved.
-- PowerShell paste / false-success guard is saved.
-- Mule short kickoff / packet-scoped start-card rule is saved.
-- Queue active-inertia wording cleanup is saved.
-- Packet top-block / read-order rule is saved.
-- Parent Boss: Rule Activation / Work-Order Control is CLOSED WITH WATCH for this repair run.
+- Rule Activation / Work-Order Control is closed with watch.
+- Living root words are saved as support keys, not doctrine.
+- Root words must have trigger, lane, stop behavior, allowed behavior, and proof of use.
+- Weak slogans are filtered out unless made operational.
+- The operational key list supports future work-entry behavior.
+- No active guide rewrite was performed.
+- No mule pass was run.
 
 NEXT ALLOWED MOVE:
-- Move to a fresh user-selected task or a parked candidate only if selected.
-- Remaining parked candidate: living-rules/root-words package refinement if still wanted.
+- Move to a fresh user-selected task.
 - Future failures can reopen Rule Activation / Work-Order Control.
-- Before next task, run control-state-first and rule confirmation.
+- Before next task, run control-state-first and select only relevant root keys.
 
 BLOCKED MOVES:
+- Do not keep adding fixes under the closed parent boss without a new trigger.
 - Do not run another mule pass by inertia.
-- Do not keep adding child fixes under this parent boss without a new trigger.
 - Do not implement multiple fixes at once.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.
-- Do not rewrite old packets just to add top blocks.
 - Do not restructure PROOF_HISTORY.
 - Do not promote tools/checkers/Soft Suits.
 - Do not build runtime/status-command.

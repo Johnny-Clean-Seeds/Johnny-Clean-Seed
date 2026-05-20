@@ -3370,3 +3370,37 @@ Boundary:
 - No automation, dashboard, knowledge graph, or full lesson index.
 - No PROOF_HISTORY restructuring.
 - No mule pass run.
+## Living Root Words / Rule Activation Keys Refinement
+
+Status: SAVED
+Date: 2026-05-20
+Base before save: main @ 8c124d7
+Parent Boss supported: Rule Activation / Work-Order Control
+
+Saved:
+- BRAIN_LEARNING\LIVING_ROOT_WORDS_AND_RULE_ACTIVATION_KEYS_20260520.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\LIVING_ROOT_WORDS_REFINEMENT_DISSECTION_20260520.md
+- HOUSE_WORK\WORK_SHED\IDEA_BAG\LIVING_ROOT_WORDS_OPERATIONAL_KEY_LIST_20260520.md
+- HOUSE_WORK\TODO\LIVING_ROOT_WORDS_REFINEMENT_TODO_20260520.md
+- PROOF_HISTORY\LIVING_ROOT_WORDS_REFINEMENT_RECEIPT_20260520.txt
+
+Updated:
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+- Living root words are saved as operational support keys.
+- Root words must trigger behavior, not act as slogans.
+- Root keys include control state first, worker present hands off, rule exists is not rule fired, boss first ghosts under it, complete means proven to task standard, use the tools that fit, open intake bounded authority, mule sharpens house decides, source ore is not command, proof is claim-scoped, and no random moves.
+- This supports the closed-with-watch parent boss but does not reopen it.
+
+Boundary:
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX rewrite.
+- No doctrine compression.
+- No runtime build.
+- No /system.
+- No tool/checker/Soft Suit promotion.
+- No automation, dashboard, knowledge graph, or full lesson index.
+- No PROOF_HISTORY restructuring.
+- No mule pass run.
