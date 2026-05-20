@@ -4171,3 +4171,37 @@ Boundary:
 
 Next move:
 - continue choosing the next proof-ranked route using unload map and Boss/Ghost map.
+
+---
+
+## 2026-05-20 - Relevant Root Key And Tool Use Selector
+
+Status: PASS WITH GUARDRAILS / POINT-OF-WORK SELECTOR SAVE.
+
+Base before save: e7212b2883a730e58516e83f2acf1f9594d15681
+
+Saved:
+BRAIN_LEARNING\RELEVANT_ROOT_KEY_AND_TOOL_USE_SELECTOR_RULE_20260520.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\RELEVANT_ROOT_KEY_AND_TOOL_USE_SELECTOR_DISPOSITION_20260520.md
+HOUSE_WORK\WORK_SHED\IDEA_BAG\RELEVANT_ROOT_KEY_AND_TOOL_USE_POCKET_LIST_20260520.md
+HOUSE_WORK\TODO\RELEVANT_ROOT_KEY_AND_TOOL_USE_SELECTOR_LIVE_USE_TODO_20260520.md
+HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\RELEVANT_ROOT_KEY_AND_TOOL_USE_SELECTOR_INSTANTIATION_20260520.md
+PROOF_HISTORY\RELEVANT_ROOT_KEY_AND_TOOL_USE_SELECTOR_RECEIPT_20260520.txt
+
+Meaning:
+- Living Root Words stays support / operating key layer;
+- no root key becomes king;
+- no tool is used just because it exists;
+- before nontrivial work, select two to five relevant root keys and fitting tools;
+- selected keys/tools must change routing, stopping, proof, placement, or action;
+- better-fit proof can narrow, replace, or supersede this selector.
+
+Boundary:
+- no doctrine install;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no dashboard/automation/runtime/knowledge graph/full lesson index;
+- no promotion of Living Root Words to active guide.
+
+Next move:
+- use this selector on the next nontrivial Mr.Kleen move as live-use proof.

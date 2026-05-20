@@ -1,0 +1,90 @@
+# Relevant Root Key And Tool Use Selector Receipt
+
+Date: 2026-05-20
+
+## Result
+
+PASS WITH GUARDRAILS / POINT-OF-WORK SELECTOR SAVE.
+
+## Base Before Save
+
+Branch: main
+HEAD before save: e7212b2883a730e58516e83f2acf1f9594d15681
+origin/main before save: e7212b2883a730e58516e83f2acf1f9594d15681
+
+## Files
+
+- BRAIN_LEARNING\RELEVANT_ROOT_KEY_AND_TOOL_USE_SELECTOR_RULE_20260520.md | bytes=2742 | sha256=E2A8A9F350478A93621F1EB8B82F1F5E7341791648417DBAA11CDAFB092DFDE1
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\RELEVANT_ROOT_KEY_AND_TOOL_USE_SELECTOR_DISPOSITION_20260520.md | bytes=1272 | sha256=7D415BC09E7A5AF6FB4CD816FA5AC31EEC1AF5D943EDB04802CC2251E6324A4B
+- HOUSE_WORK\WORK_SHED\IDEA_BAG\RELEVANT_ROOT_KEY_AND_TOOL_USE_POCKET_LIST_20260520.md | bytes=1495 | sha256=2A003FB734B26BEE768AC4CAB6419E829A2E8EFE6910A4F98EBC6C7E5C2DBF6C
+- HOUSE_WORK\TODO\RELEVANT_ROOT_KEY_AND_TOOL_USE_SELECTOR_LIVE_USE_TODO_20260520.md | bytes=1087 | sha256=2C6D7BBE3AA61F031BE3EB8A312EAE513A59085C226CA6F50866EB7A0097E0E7
+- HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\RELEVANT_ROOT_KEY_AND_TOOL_USE_SELECTOR_INSTANTIATION_20260520.md | bytes=736 | sha256=196A64897604C8B311F26D5F86B52538AACFD6915C54263BE1F096810D65FF56
+- ACTIVE_ANCHOR.txt | bytes=1028 | sha256=E264ACA08BE41C6D3414075AB7A6854472F99F949B4D3C40FEDA953A3B9E16C7
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md | bytes=135652 | sha256=5653B626C0D00AB2C98276F83647A4A1EEA0E64F490A6CD9277FBA8BD8F7FE60
+
+## Source Checks
+
+Checked Living Root Words source:
+
+- Root words are not slogans.
+- Do not recite the whole list unless the task is about the list.
+
+Checked No Rule King source:
+
+- No single rule becomes absolute ruler of the house.
+- If it fits and works, promote through proof.
+
+## Meaning
+
+This save turns Living Root Words into a practical relevant-use selector while keeping it below doctrine and active guide authority.
+
+The selector says to choose two to five relevant root keys and only fitting tools before nontrivial work.
+
+It blocks whole-list recitation, tool-for-tool's-sake behavior, and rule monarchy.
+
+## Boundary
+
+No doctrine install.
+
+No active guide rewrite.
+
+No CURRENT_TRUTH_INDEX rewrite.
+
+No dashboard.
+
+No automation.
+
+No runtime.
+
+No knowledge graph.
+
+No full lesson index.
+
+No promotion of Living Root Words to active guide.
+
+## Artifact Self-Check
+
+This save created and checked a real Mr.Kleen artifact package.
+
+Checks performed:
+
+- target files did not already exist before writing;
+- required inputs existed and were readable;
+- generated artifacts checked for required phrases;
+- files readable as UTF-8 text;
+- files nonempty;
+- no NUL bytes;
+- no Unicode replacement characters;
+- no placeholder markers;
+- branch main;
+- HEAD equals origin/main before save;
+- clean status before save;
+- final commit/push/fetch requires HEAD equals origin/main and status clean.
+
+## Proof Limit
+
+This receipt proves the point-of-work selector save.
+
+It does not prove live-use success yet.
+
+It does not promote the selector to active guide.

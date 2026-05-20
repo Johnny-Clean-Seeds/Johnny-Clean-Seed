@@ -1,26 +1,26 @@
 CURRENT MR.KLEEN POSITION
 
-After No Rule King / Better-Fit Promotion clarification.
+After Relevant Root Key And Tool Use Selector save.
 
-Base before save: 81804ff744eee707a2b226ac4fa84ba31303e4fa
+Base before save: e7212b2883a730e58516e83f2acf1f9594d15681
 
 Current ball:
-- No single rule is king of the house.
-- Rules, tools, suits, concepts, ideas, maps, TODOs, and proof receipts must work as neighbors.
-- New items can supersede older items when proof shows better fit, lower bloat, cleaner neighbor behavior, and stronger point-of-work behavior.
-- Old rules are not sacred by age alone.
-- New ideas are not promoted by excitement alone.
+- Living Root Words was rechecked under No Rule King.
+- It stays support / operating key layer.
+- A narrow relevant-use selector was saved.
+- Before nontrivial Mr.Kleen work, select two to five relevant root keys and fitting tools.
+- Selected keys/tools must change routing, stopping, proof, placement, or action.
+- Do not recite whole lists or use tools just because they exist.
 
 Next allowed move:
-- Continue choosing the next proof-ranked route using unload map and Boss/Ghost map.
-- Use the Better-Fit Promotion Gate when a newer item appears better than an older one.
+- Use this selector on the next nontrivial Mr.Kleen move as live-use proof.
+- Continue proof-ranked routing with unload map and Boss/Ghost map.
 
 Blocked moves:
-- Do not make any one rule king.
-- Do not promote from excitement alone.
-- Do not protect weaker old rules from better proof.
-- Do not delete useful prior meaning without copy-continuity.
-- Do not install doctrine.
-- Do not rewrite active guides.
+- Do not crown Living Root Words.
+- Do not crown No Rule King.
+- Do not crown any tool.
+- Do not promote this selector to active guide.
+- Do not rewrite doctrine.
 - Do not rewrite CURRENT_TRUTH_INDEX.
 - Do not create dashboard, automation, runtime, knowledge graph, or full lesson index.
