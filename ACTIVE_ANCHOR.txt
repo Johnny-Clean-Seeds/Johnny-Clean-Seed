@@ -1,32 +1,29 @@
 CURRENT MR.KLEEN POSITION
 
-After Boss/Ghost TODO Board Triage Map plus downloaded ps1 resolver/source-validation fix.
+After Artifact Self-Check second live use.
 
 Base before save:
-57b58e60f967978553dee7103cbff05ad64d9e5c
+cf98cba068ab6ed8968ddf77aa4b98145c82d5cb
 
 Current ball:
-- Boss/Ghost Rule-Firing Cycle Flow was worked as a map/disposition pass.
-- TODO board flat-list risk is now mapped into parent boss groups.
-- Parent Boss A remains Rule Activation / Work-Order Control.
-- Downloaded ps1 run method now requires a resolver, parser check, then run.
-- Save scripts should avoid brittle exact source-text validation.
-- PowerShell Delivery Lint and Handoff Safe Save Method are patched with this fix.
-- Next route must still be selected by weakest-link proof from the map.
+- Artifact Self-Check After Send recorded a second/varied live-use proof.
+- The artifact case was downloaded PowerShell delivery plus Mr.Kleen save package.
+- V1/V2 failures were used as evidence, but V3 delivered the clean proof.
+- Artifact Self-Check remains open for more varied artifacts.
+- Compose-Review-Reflect-Capture remains related but distinct and open.
+- Boss/Ghost map remains the TODO triage map.
+- Downloaded ps1 resolver/source-validation fix remains active method.
 
 Next allowed move:
 - Continue TODO weakest-link triage using the boss/ghost map.
 - Let proof select the next top route.
-- Use the resolver run shape for future downloaded ps1 files.
-- Use quiet source-note proof for notes.
+- Use resolver-first downloaded ps1 delivery.
 - Use Artifact Self-Check for created/sent artifacts.
 
 Blocked moves:
-- Do not treat the map as authority.
-- Do not repair every boss from the map.
-- Do not bypass ACTIVE_ANCHOR.
-- Do not hardcode only Downloads exact-name ps1 paths.
-- Do not use brittle exact source-text checks against old/source files.
+- Do not close Artifact Self-Check from this second live-use alone.
+- Do not promote Artifact Self-Check.
+- Do not close Compose-Review from this proof.
 - Do not install doctrine.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.

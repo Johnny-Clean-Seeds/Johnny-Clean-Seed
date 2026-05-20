@@ -4055,3 +4055,42 @@ Boundary:
 
 Next move:
 - continue TODO weakest-link triage using the boss/ghost map.
+
+
+---
+
+## 2026-05-20 - Artifact Self-Check Second Live Use
+
+Status: PASS WITH GUARDRAILS AS SECOND / VARIED LIVE USE.
+
+Base before save:
+cf98cba068ab6ed8968ddf77aa4b98145c82d5cb
+
+Saved:
+HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\ARTIFACT_SELF_CHECK_SECOND_LIVE_USE_INSTANTIATION_20260520.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\ARTIFACT_SELF_CHECK_SECOND_LIVE_USE_POWERSHELL_DELIVERY_20260520.md
+PROOF_HISTORY\ARTIFACT_SELF_CHECK_SECOND_LIVE_USE_RECEIPT_20260520.txt
+
+Updated:
+HOUSE_WORK\TODO\ARTIFACT_SELF_CHECK_AFTER_SEND_TODO_20260520.md
+HOUSE_WORK\TODO\COMPOSE_REVIEW_REFLECT_CAPTURE_LIVE_USE_TODO_20260520.md
+ACTIVE_ANCHOR.txt
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+- Artifact Self-Check fired on downloaded PowerShell delivery plus Mr.Kleen save package;
+- V1/V2 failures were preserved as evidence of artifact-check pressure;
+- V3 clean proof supplied the successful live-use;
+- Artifact Self-Check remains open for more varied artifacts;
+- Compose-Review remains distinct and open.
+
+Boundary:
+- no doctrine install;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no dashboard/automation/runtime/knowledge graph/full lesson index;
+- no script promotion;
+- no closure/promotion of Artifact Self-Check.
+
+Next move:
+- continue TODO weakest-link triage using the boss/ghost map.

@@ -119,3 +119,26 @@ Checks:
 Disposition:
 - Artifact Self-Check fired successfully on a real Mr.Kleen artifact package.
 - TODO remains open for more varied future artifacts.
+
+---
+
+## 2026-05-20 - Artifact Self-Check Second Live Use
+
+Status: PASS WITH GUARDRAILS AS SECOND / VARIED LIVE USE.
+
+Artifact type:
+- downloadable PowerShell script delivery plus Mr.Kleen save package.
+
+Evidence:
+- V1 stopped before writing because exact source-text validation was brittle;
+- V2 proved downloaded ps1 resolver was needed and stopped before writing because source regex validation was still brittle;
+- V3 used resolver-first delivery, parser check, non-brittle source validation, generated-artifact checks, receipt, commit, push, fetch, HEAD equals origin/main, and final clean status.
+
+Routed home:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\ARTIFACT_SELF_CHECK_SECOND_LIVE_USE_POWERSHELL_DELIVERY_20260520.md
+
+Disposition:
+- stronger second live-use proof;
+- TODO remains open for more varied artifact types;
+- no closure;
+- no promotion.

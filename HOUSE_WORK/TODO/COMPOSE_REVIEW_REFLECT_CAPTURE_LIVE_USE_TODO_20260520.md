@@ -147,3 +147,17 @@ Boundary:
 - no active guide rewrite;
 - no CURRENT_TRUTH_INDEX rewrite;
 - no promotion.
+
+---
+
+## 2026-05-20 - Artifact Self-Check Second Live Use Relation
+
+Status: RELATED PROOF ONLY / WATCH REMAINS OPEN.
+
+Meaning:
+- Artifact Self-Check recorded a second varied live use on downloaded PowerShell delivery plus save package.
+- Compose-Review-Reflect-Capture remains related but distinct.
+- This update does not close Compose-Review and does not promote it.
+
+Related proof:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\ARTIFACT_SELF_CHECK_SECOND_LIVE_USE_POWERSHELL_DELIVERY_20260520.md
