@@ -1,0 +1,48 @@
+GROWTH SUBSTRATE SORTING ONE-ITEM PILOT RECORD FINAL RECOVERY RECEIPT
+Date: 2026-05-20T17:44:10.2343843-04:00
+
+Base before recovery:
+95301e6b225fbc15572755e3902274e673aa86ac
+
+Verdict:
+PASS WITH WATCH / ONE TINY PILOT RECORD CREATED / FINAL RECOVERY
+
+Recovery:
+The pilot save stopped because CURRENT_HOUSE_WORK_STATUS.md was required by the guard, but Git showed no net staged status change. This final recovery records the actual package only.
+
+Pilot artifact:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\GROWTH_SUBSTRATE_SORTING_ONE_ITEM_PILOT_RECORD_20260520.md
+SHA256:
+71E2B91853DF53BC677AF38E6659C817EF11421D8F7136BDD3C43A101C687746
+
+Source item:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\GROWTH_SUBSTRATE_SORTING_RETURN_AND_DEEP_WEB_SOURCE_ORE_INTAKE_20260520.md
+SHA256:
+C55B23264A8FBF9D1505A8D2AFFAF27200F0C0EA03DD8AEEC220516BD684654D
+
+Updated TODO:
+HOUSE_WORK\TODO\GROWTH_SUBSTRATE_SORTING_MTER_MULE_SUPPORT_TODO_20260520.md
+SHA256:
+3090359D5878C841C16675C39C6C3EDB6C77B28DAF80926D4CA139ECB9157815
+
+Status note:
+CURRENT_HOUSE_WORK_STATUS.md had no net staged change and is not claimed as part of this commit.
+
+Decision:
+The tiny seven-field shape worked as a pilot on one mixed non-active support item.
+The long substrate form is not adopted as default.
+The seven-field shape remains an occasional helper for mixed/current-looking/authority-sensitive support material.
+
+Boundary:
+No adoption of whole mule output.
+No broad status/history rewrite.
+No doctrine rewrite.
+No ACTIVE_GUIDES rewrite.
+No CURRENT_TRUTH_INDEX rewrite.
+No ACTIVE_ANCHOR rewrite.
+No dashboard.
+No runtime.
+No automation.
+No knowledge graph.
+No full lesson index.
+No mule pass by inertia.

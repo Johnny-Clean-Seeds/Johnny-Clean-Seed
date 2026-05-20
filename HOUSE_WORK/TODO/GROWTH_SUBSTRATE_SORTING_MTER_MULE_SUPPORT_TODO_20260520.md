@@ -302,3 +302,113 @@ Blocked moves:
 - Do not broadly rewrite status/history.
 - Do not build dashboard, runtime, automation, knowledge graph, or full lesson index.
 - Do not treat Deep Web RCE recommendation as current command.
+
+---
+
+## 2026-05-20 - One Tiny Growth-Substrate Pilot Record
+
+Status: PILOT RECORD CREATED / JUDGMENT NEEDED.
+
+Pilot:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\GROWTH_SUBSTRATE_SORTING_ONE_ITEM_PILOT_RECORD_20260520.md
+
+Source item:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\GROWTH_SUBSTRATE_SORTING_RETURN_AND_DEEP_WEB_SOURCE_ORE_INTAKE_20260520.md
+
+Verdict:
+PASS WITH WATCH.
+
+Meaning:
+The tiny seven-field shape worked on one mixed support item without adopting the mule output or creating the full long form as default.
+
+Next:
+Judge whether to keep the seven-field shape as an occasional helper, not a mandatory bureaucracy.
+
+Boundary:
+No broad status/history rewrite, dashboard, runtime, automation, knowledge graph, full lesson index, doctrine rewrite, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, ACTIVE_ANCHOR rewrite, or mule-output promotion.
+"
+
+    Add-Content -LiteralPath HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md -Encoding UTF8 -Value @"
+
+---
+
+## Growth Substrate Sorting One-Item Pilot Record
+
+Status: PILOT RECORD CREATED / PASS WITH WATCH
+Date: 2026-05-20
+Base before pilot: 95301e6
+
+Pilot:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\GROWTH_SUBSTRATE_SORTING_ONE_ITEM_PILOT_RECORD_20260520.md
+
+Source:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\GROWTH_SUBSTRATE_SORTING_RETURN_AND_DEEP_WEB_SOURCE_ORE_INTAKE_20260520.md
+
+Meaning:
+One tiny seven-field pilot record was created on a mixed non-active support item. It preserved source/proof/authority/placement/blocked-move clarity without using the heavy long substrate form.
+
+Next:
+Judge whether the seven-field shape should remain an occasional helper for mixed support items.
+
+Boundary:
+No adoption of whole mule output.
+No broad status/history rewrite.
+No doctrine rewrite.
+No ACTIVE_GUIDES rewrite.
+No CURRENT_TRUTH_INDEX rewrite.
+No ACTIVE_ANCHOR rewrite.
+No dashboard/runtime/automation/knowledge graph/full lesson index.
+"
+
+     = (Get-FileHash -LiteralPath HOUSE_WORK\WORK_SHED\SORTING_BENCH\GROWTH_SUBSTRATE_SORTING_ONE_ITEM_PILOT_RECORD_20260520.md -Algorithm SHA256).Hash
+     = (Get-FileHash -LiteralPath HOUSE_WORK\TODO\GROWTH_SUBSTRATE_SORTING_MTER_MULE_SUPPORT_TODO_20260520.md -Algorithm SHA256).Hash
+     = (Get-FileHash -LiteralPath HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md -Algorithm SHA256).Hash
+
+@"
+GROWTH SUBSTRATE SORTING ONE-ITEM PILOT RECORD RECEIPT
+Date: 2026-05-20T17:42:24.4144455-04:00
+
+Base before pilot:
+95301e6b225fbc15572755e3902274e673aa86ac
+
+Verdict:
+PASS WITH WATCH / ONE TINY PILOT RECORD CREATED
+
+Pilot artifact:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\GROWTH_SUBSTRATE_SORTING_ONE_ITEM_PILOT_RECORD_20260520.md
+SHA256:
+
+
+Source item:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\GROWTH_SUBSTRATE_SORTING_RETURN_AND_DEEP_WEB_SOURCE_ORE_INTAKE_20260520.md
+SHA256:
+C55B23264A8FBF9D1505A8D2AFFAF27200F0C0EA03DD8AEEC220516BD684654D
+
+Updated TODO:
+HOUSE_WORK\TODO\GROWTH_SUBSTRATE_SORTING_MTER_MULE_SUPPORT_TODO_20260520.md
+SHA256:
+
+
+Updated status:
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+SHA256:
+
+
+Decision:
+The tiny seven-field shape worked as a pilot on one mixed non-active support item.
+The long substrate form is not adopted as default.
+The seven-field shape remains an occasional helper for mixed/current-looking/authority-sensitive support material.
+
+Boundary:
+No adoption of whole mule output.
+No broad status/history rewrite.
+No doctrine rewrite.
+No ACTIVE_GUIDES rewrite.
+No CURRENT_TRUTH_INDEX rewrite.
+No ACTIVE_ANCHOR rewrite.
+No dashboard.
+No runtime.
+No automation.
+No knowledge graph.
+No full lesson index.
+No mule pass by inertia.
