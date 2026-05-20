@@ -4761,3 +4761,67 @@ No knowledge graph.
 No full lesson index.
 No MTER promotion.
 No broad status/history rewrite.
+
+---
+
+## Growth Substrate Sorting Return Simple Disposition Recovery
+
+Status: DISPOSITION COMPLETE / SIMPLE PILOT SELECTED
+Date: 2026-05-20
+Base before recovery: 13d427b
+
+Disposition note:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\GROWTH_SUBSTRATE_SORTING_RETURN_SIMPLE_DISPOSITION_20260520.md
+
+Meaning:
+The Growth return is accepted as support evidence. The full long substrate form is not adopted as default. The next pilot uses a tiny 7-field shape.
+
+Next:
+One tiny pilot record on one existing non-active support item, if selected.
+
+Boundary:
+No adoption of whole mule output.
+No broad status/history rewrite.
+No doctrine rewrite.
+No ACTIVE_GUIDES rewrite.
+No CURRENT_TRUTH_INDEX rewrite.
+No ACTIVE_ANCHOR rewrite.
+No dashboard/runtime/automation/knowledge graph/full lesson index.
+"
+
+@"
+# ACTIVE ANCHOR
+
+Recorded base before this recovery:
+main @ 13d427b
+
+Current active ball:
+Growth Substrate Sorting simple pilot candidate.
+
+What is complete:
+- Growth Substrate Sorting return has been intaken.
+- Deep Web Boss Waves return has been parked as source ore.
+- Growth return simple house disposition is complete.
+
+Next allowed move:
+If selected, create one tiny pilot record on one existing non-active support item using:
+
+SOURCE:
+WHAT IT SAYS:
+WHAT IT PROVES:
+AUTHORITY STATE:
+WHERE IT BELONGS:
+WHAT IT MUST NOT DO:
+NEXT ACTION:
+
+Blocked moves:
+- Do not adopt the whole mule output.
+- Do not promote the substrate method.
+- Do not use the full long record as default.
+- Do not run another mule pass by inertia.
+- Do not rewrite doctrine.
+- Do not rewrite ACTIVE_GUIDES.
+- Do not rewrite CURRENT_TRUTH_INDEX.
+- Do not broadly rewrite status/history.
+- Do not build dashboard, runtime, automation, knowledge graph, or full lesson index.
+- Do not treat Deep Web RCE recommendation as current command.

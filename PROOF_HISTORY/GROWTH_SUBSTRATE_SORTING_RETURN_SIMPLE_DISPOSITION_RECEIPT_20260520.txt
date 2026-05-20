@@ -1,0 +1,49 @@
+GROWTH SUBSTRATE RETURN SIMPLE DISPOSITION FINAL RECOVERY RECEIPT
+Date: 2026-05-20T17:28:01.9509650-04:00
+
+Base before recovery:
+13d427b4d7b850c8abeaa5fcc23911f0f4c19a06
+
+Verdict:
+PASS WITH GUARDRAILS / SIMPLE PILOT SELECTED / FINAL RECOVERY
+
+Recovery:
+The simple disposition save stopped because the guard required ACTIVE_ANCHOR.txt to be staged. Git reported no net staged anchor change. This final recovery records that condition and commits the actual disposition package.
+
+Disposition note:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\GROWTH_SUBSTRATE_SORTING_RETURN_SIMPLE_DISPOSITION_20260520.md
+SHA256:
+E6B05BAF43607ABF399F5CB7F1A17AA13E2D283B9D3481F80EC6099F0CC044F0
+
+Updated TODO:
+HOUSE_WORK\TODO\GROWTH_SUBSTRATE_SORTING_MTER_MULE_SUPPORT_TODO_20260520.md
+SHA256:
+2C1A9A22D043355EC6D4E51489161EED700F21824B3348740F00517F24E97679
+
+Updated status:
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+SHA256:
+67E2AF14A5FE3ECCE116CFD39EB196C30DD33CAD54B9FE94F591F159C02CE94A
+
+Anchor note:
+ACTIVE_ANCHOR.txt was checked in the previous recovery path, but Git showed no net staged anchor change. It is not claimed as part of this commit.
+
+Decision:
+The Growth return is accepted as support evidence.
+The full long substrate form is not adopted as default.
+The next pilot uses the tiny 7-field shape:
+SOURCE / WHAT IT SAYS / WHAT IT PROVES / AUTHORITY STATE / WHERE IT BELONGS / WHAT IT MUST NOT DO / NEXT ACTION.
+
+Boundary:
+No adoption of whole mule output.
+No broad status/history rewrite.
+No doctrine rewrite.
+No ACTIVE_GUIDES rewrite.
+No CURRENT_TRUTH_INDEX rewrite.
+No ACTIVE_ANCHOR rewrite claim.
+No dashboard.
+No runtime.
+No automation.
+No knowledge graph.
+No full lesson index.
+No mule pass by inertia.
