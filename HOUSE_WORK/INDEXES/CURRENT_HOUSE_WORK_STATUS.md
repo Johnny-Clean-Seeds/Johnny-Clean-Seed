@@ -2964,3 +2964,37 @@ Boundary:
 Next move:
 - Run a self-house walk from the final commit after this save.
 - Decide from proof whether the Whole-House Review mule is needed.
+## Task-Scoped Rule / File-First / Mule-Cycle Correction Lock
+
+Status: SAVED
+Base before save: main @ 1a63c4e
+Date: 2026-05-19
+
+Saved files:
+- BRAIN_LEARNING\TASK_SCOPED_RULE_NEIGHBOR_SEARCH_AND_FILE_FIRST_RULE_20260519.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\TASK_SCOPED_RULE_NEIGHBOR_SEARCH_FILE_FIRST_CAPTURE_20260519.md
+- PROOF_HISTORY\TASK_SCOPED_RULE_NEIGHBOR_SEARCH_FILE_FIRST_LOCK_RECEIPT_20260519.txt
+
+Updated files:
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\WORK_SHED\QUEUE\CURRENT_WORK_QUEUE.md
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+- Long kickoffs, mule handoffs, and dense reusable instruction packs are file-first by default.
+- Chat should carry only the short pointer/summary unless the user asks for the full body.
+- Before any important task, the assistant must run a task-scoped rule + neighbor search.
+- The search must cover the task lane, governing rules, neighbor rules, affected lanes, active anchor/status/queue when relevant, blocked moves, proof needs, and prior related failures.
+- This is targeted retrieval, not whole-house hunting.
+- Mule is not a go-to endless cycle.
+- House finds issues, uses/applies/tests fitting fixes, then decides whether a bounded mule pass is useful.
+
+Boundary:
+- No mule send happened.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX change.
+- No tool/checker/Soft Suit promotion.
+- No runtime build.
+- No /system.
+- No automation, dashboard, knowledge graph, or full lesson index.

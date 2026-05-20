@@ -1,0 +1,70 @@
+TASK SCOPED RULE / FILE FIRST / MULE CYCLE LOCK RECEIPT
+Date: 2026-05-19
+
+Branch before save:
+main
+
+HEAD before save:
+1a63c4e13bb9fdd9f96f249ce13fc1fd4f2fe75b
+
+origin/main before save:
+1a63c4e13bb9fdd9f96f249ce13fc1fd4f2fe75b
+
+Saved:
+- BRAIN_LEARNING\TASK_SCOPED_RULE_NEIGHBOR_SEARCH_AND_FILE_FIRST_RULE_20260519.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\TASK_SCOPED_RULE_NEIGHBOR_SEARCH_FILE_FIRST_CAPTURE_20260519.md
+- PROOF_HISTORY\TASK_SCOPED_RULE_NEIGHBOR_SEARCH_FILE_FIRST_LOCK_RECEIPT_20260519.txt
+
+Updated:
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\WORK_SHED\QUEUE\CURRENT_WORK_QUEUE.md
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Hashes:
+- BRAIN_LEARNING\TASK_SCOPED_RULE_NEIGHBOR_SEARCH_AND_FILE_FIRST_RULE_20260519.md
+  SHA256: 3B4C6FC6D386B9A48F2914FA459032747A552F66F402334070F81955565D690B
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\TASK_SCOPED_RULE_NEIGHBOR_SEARCH_FILE_FIRST_CAPTURE_20260519.md
+  SHA256: 4F6E92AE6B49FD54DFF8BB35819C2DFB9AC7BF7A4FDFB731C430502A623170FE
+- ACTIVE_ANCHOR.txt
+  SHA256: A802970A62F1F89360AF215B150FA853116A87C95B9C61DA18B9272F720800D3
+- HOUSE_WORK\WORK_SHED\QUEUE\CURRENT_WORK_QUEUE.md
+  SHA256: 9D3733E49ADB51AC08AD2DADFA321902E1A2FEB3A520F0AED7C7DA196BD79539
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+  SHA256: 940387BA4D7D5FF94256D0572D7C77A1AEC66BE1A9A7D27347447B43F7716A17
+
+Proof checks:
+- Brain rule exists: PASS
+- Brain rule names task-scoped retrieval: PASS
+- Brain rule names file-first long kickoff behavior: PASS
+- Brain rule blocks mule endless/default cycle: PASS
+- Capture note records the failure shape: PASS
+- Anchor returns to real job: PASS
+- Anchor blocks mule inertia: PASS
+- Queue removes active-by-inertia mule item: PASS
+- Queue parks Q-20260519-009: PASS
+- Status addendum saved: PASS
+- No CURRENT_TRUTH_INDEX edit in expected package: PASS
+- No active guide edit in expected package: PASS
+- No runtime/system path in expected package: PASS
+
+Verdict:
+PASS
+
+Meaning:
+- Task-scoped rule + neighbor search saved as support behavior.
+- Long kickoff / mule handoff file-first rule saved.
+- Mule no-endless/default-cycle correction saved.
+- Queue no longer treats Q-20260519-009 as active by inertia.
+- Anchor now returns to the real job after this correction.
+- Status index records the save.
+
+Boundary:
+- No mule send.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX rewrite.
+- No tool/checker/Soft Suit promotion.
+- No runtime build.
+- No /system.
+- No automation, dashboard, knowledge graph, or full lesson index.
+- No PROOF_HISTORY restructuring.
