@@ -88,3 +88,33 @@ Proof:
 
 Watch remains open:
 - need more varied live uses before promotion.
+
+---
+
+## 2026-05-20 — Compose-Review-Reflect-Capture Second Live Use 002
+
+Status: PASS AS SECOND LIVE USE / SELF-PROOF TRIGGER.
+
+Drafted artifact:
+- chat response/report answering what should prove a true trigger.
+
+Reflected structure:
+- assistant-originated synthesis can itself trigger Compose-Review-Reflect-Capture;
+- the assistant must capture useful structure it generated, not only rules the user explicitly dictates;
+- this proves the model must check itself against the model.
+
+Routed home:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\COMPOSE_REVIEW_REFLECT_CAPTURE_SECOND_LIVE_USE_SELF_PROOF_RESPONSE_TRIGGER_20260520.md
+
+Injection decision:
+- record live-use proof only;
+- no new rule stack;
+- no doctrine;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no Soft Suit split;
+- no Artifact Self-Check closure;
+- no promotion.
+
+Watch remains open:
+- more varied live uses needed before promotion.

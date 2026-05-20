@@ -1,31 +1,31 @@
 CURRENT MR.KLEEN POSITION
 
-After Compose-Review-Reflect-Capture First Live Use 001.
+After Compose-Review-Reflect-Capture Second Live Use 002.
 
 Base before save:
-28daff64813aa287a96455b6aee07819b3064c91
+b3b60e774eba518f5c2cfa2db4492d78d667411e
 
 Current ball:
-- Compose-Review-Reflect-Capture first live use has PASS WITH GUARDRAILS.
-- Artifact Self-Check remains open as distinct child TODO.
-- After-Fix Carryover remains neighbor rule for meaningful fixes.
-- No new rule stack was created.
+- Compose-Review-Reflect-Capture has a second live-use proof.
+- Second use proves assistant-originated synthesis can trigger capture.
+- Artifact Self-Check remains open because no real file/package artifact was checked.
+- No promotion occurred.
 
 Meaning:
-- The draft/review holding point was used.
-- Newly revealed structure was captured.
-- Premature injection was avoided.
-- Artifact Self-Check was not falsely closed.
+- The model generated useful structure.
+- The model noticed the structure.
+- The structure was routed to Sorting Bench and TODO proof.
+- Premature injection and promotion were avoided.
 
 Next allowed move:
 - Continue normal work.
-- Use Artifact Self-Check on the next created/sent user-facing artifact.
-- Use Compose-Review-Reflect-Capture on significant drafts.
-- Use After-Fix Carryover when a meaningful correction/fix exposes a reusable lesson.
+- Use Compose-Review-Reflect-Capture on significant responses, prompts, handoffs, long code, and unloads.
+- Use Artifact Self-Check on the next created/sent user-facing file/package/artifact.
+- Do not promote Compose-Review-Reflect-Capture yet.
 
 Blocked moves:
+- Do not close Artifact Self-Check from this event.
 - Do not promote Compose-Review-Reflect-Capture yet.
-- Do not close Artifact Self-Check until a real artifact check proves it.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.
 - Do not install doctrine.

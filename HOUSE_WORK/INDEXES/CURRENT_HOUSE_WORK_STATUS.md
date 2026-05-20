@@ -3750,3 +3750,43 @@ Next move:
 - continue normal work;
 - use Artifact Self-Check on the next created/sent artifact;
 - use Compose-Review-Reflect-Capture on significant drafts.
+
+
+---
+
+## 2026-05-20 — Compose-Review-Reflect-Capture Second Live Use 002
+
+Status: PASS AS SECOND LIVE USE / SELF-PROOF TRIGGER.
+
+Base before save:
+b3b60e774eba518f5c2cfa2db4492d78d667411e
+
+Saved:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\COMPOSE_REVIEW_REFLECT_CAPTURE_SECOND_LIVE_USE_SELF_PROOF_RESPONSE_TRIGGER_20260520.md
+PROOF_HISTORY\COMPOSE_REVIEW_REFLECT_CAPTURE_SECOND_LIVE_USE_SELF_PROOF_RECEIPT_20260520.txt
+
+Updated:
+HOUSE_WORK\TODO\COMPOSE_REVIEW_REFLECT_CAPTURE_LIVE_USE_TODO_20260520.md
+ACTIVE_ANCHOR.txt
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+- Compose-Review-Reflect-Capture fired on an assistant-originated synthesis/report;
+- the assistant generated useful structure, noticed it, and captured it;
+- this proves the rule can make the model check itself against the model;
+- Artifact Self-Check remains open because no file/package artifact was created and checked;
+- no new rule stack was created;
+- no promotion occurred.
+
+Boundary:
+- no doctrine install;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no Soft Suit split;
+- no dashboard/automation/runtime/knowledge graph/full lesson index;
+- Artifact Self-Check TODO not closed.
+
+Next move:
+- continue normal work;
+- use Artifact Self-Check on the next created/sent file/package artifact;
+- keep Compose-Review-Reflect-Capture in live-use watch.
