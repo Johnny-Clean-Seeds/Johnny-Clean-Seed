@@ -2,7 +2,7 @@
 
 Date: 2026-05-20
 Lane: HOUSE_WORK / TODO
-Status: open live-use watch / support TODO, not authority
+Status: better-fit live-use proof recorded / still support TODO, not authority
 Parent: Rule Activation / Work-Order Control
 
 ## Purpose
@@ -60,3 +60,36 @@ Result:
 
 Still open:
 No better-fit item was adopted, adapted, parked, blocked, or superseded in this event.
+
+## Better-Fit Use 002 - Bonus Vs Six Did Not Become King
+
+Date: 2026-05-20
+
+Status:
+PASS WITH GUARDRAILS / BETTER-FIT LIVE USE PROVEN.
+
+Proof:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\NO_RULE_KING_BETTER_FIT_BONUS_VS_SIX_PROOF_20260520.md
+
+Receipt:
+PROOF_HISTORY\NO_RULE_KING_BETTER_FIT_BONUS_VS_SIX_RECEIPT_20260520.txt
+
+Event:
+The six-loop boss return and bonus web boss-waves return were compared before adoption.
+
+Disposition:
+- Six-loop return stayed baseline boss evidence.
+- Bonus web return became sharpening support / upgraded report-gate shape.
+- Web sources stayed candidate fuel, not authority.
+- Mule output stayed support evidence, not command authority.
+- No package became king by age, size, novelty, or outside-source pressure.
+
+Boundary:
+No active guide rewrite.
+No CURRENT_TRUTH_INDEX rewrite.
+No ACTIVE_ANCHOR rewrite.
+No doctrine promotion.
+No dashboard/runtime/automation/knowledge graph/full lesson index.
+
+Still open:
+No Rule King remains support/watch for future higher-risk better-fit events. This proof does not promote the rule.

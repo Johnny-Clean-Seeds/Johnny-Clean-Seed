@@ -4624,3 +4624,39 @@ No ACTIVE_ANCHOR rewrite.
 No doctrine promotion.
 No dashboard/runtime/automation/knowledge graph/full lesson index.
 No mule pass by inertia.
+
+---
+
+## No Rule King / Better-Fit Bonus-vs-Six Live Use
+
+Status: SAVED
+Date: 2026-05-20
+Base before save: f0b9b5d
+
+Verdict:
+PASS WITH GUARDRAILS / BETTER-FIT LIVE USE PROVEN.
+
+Event:
+The six-loop boss return and the bonus web boss-waves return were compared.
+
+Result:
+- six-loop return stayed baseline evidence;
+- bonus web return became sharpening support / upgraded report-gate shape;
+- web sources did not become authority;
+- mule output did not become command;
+- No Rule King received live-use proof but was not promoted.
+
+Updated:
+- HOUSE_WORK\TODO\NO_RULE_KING_BETTER_FIT_PROMOTION_LIVE_USE_TODO_20260520.md
+
+Saved:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\NO_RULE_KING_BETTER_FIT_BONUS_VS_SIX_PROOF_20260520.md
+- PROOF_HISTORY\NO_RULE_KING_BETTER_FIT_BONUS_VS_SIX_RECEIPT_20260520.txt
+
+Boundary:
+No ACTIVE_GUIDES rewrite.
+No CURRENT_TRUTH_INDEX rewrite.
+No ACTIVE_ANCHOR rewrite.
+No doctrine promotion.
+No dashboard/runtime/automation/knowledge graph/full lesson index.
+No mule pass by inertia.
