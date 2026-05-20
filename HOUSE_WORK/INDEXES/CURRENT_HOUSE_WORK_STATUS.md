@@ -4094,3 +4094,47 @@ Boundary:
 
 Next move:
 - continue TODO weakest-link triage using the boss/ghost map.
+
+---
+
+## 2026-05-20 - Proven Suit / Tool / Idea Unload Map
+
+Status: PASS WITH GUARDRAILS / UNLOAD MAP ONLY.
+
+Base before save: e58584f0c10345195a4ffb7af70031dcacd0a4ce
+
+Saved:
+HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\PROVEN_SUIT_TOOL_IDEA_UNLOAD_INSTANTIATION_20260520.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\PROVEN_SUIT_TOOL_IDEA_UNLOAD_MAP_20260520.md
+HOUSE_WORK\WORK_SHED\INDEXES\PROVEN_SUIT_TOOL_IDEA_UNLOAD_INDEX_20260520.md
+PROOF_HISTORY\PROVEN_SUIT_TOOL_IDEA_UNLOAD_RECEIPT_20260520.txt
+
+Updated:
+ACTIVE_ANCHOR.txt
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Counts by kind:
+- Rule / Learning: 84
+- Tool / Gear: 46
+- Source Ore: 24
+- Soft Suit: 23
+- TODO / Live-use Watch: 20
+- Idea / Candidate: 7
+
+Meaning:
+- proven suit concepts, tools, ideas, live-use watches, source ore, and support rules were grouped into one unload map;
+- candidate count: 204;
+- dispositions were assigned as keep active support, proven/watch, saved reference, live-use watch, parked/source ore, TODO triage, or review;
+- no promotion or closure occurred.
+
+Boundary:
+- no doctrine install;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no dashboard/automation/runtime/knowledge graph/full lesson index;
+- no script promotion;
+- no source-ore promotion;
+- no live-use watch closure.
+
+Next move:
+- choose the next proof-ranked route using the unload map and Boss/Ghost map.

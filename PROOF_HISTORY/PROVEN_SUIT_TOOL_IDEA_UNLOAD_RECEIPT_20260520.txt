@@ -1,0 +1,116 @@
+# Proven Suit / Tool / Idea Unload Receipt
+
+Date: 2026-05-20
+
+## Result
+
+PASS WITH GUARDRAILS / UNLOAD MAP ONLY.
+
+## Base Before Save
+
+Branch: main
+HEAD before save: e58584f0c10345195a4ffb7af70031dcacd0a4ce
+origin/main before save: e58584f0c10345195a4ffb7af70031dcacd0a4ce
+
+## Files
+
+- HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\PROVEN_SUIT_TOOL_IDEA_UNLOAD_INSTANTIATION_20260520.md | bytes=1172 | sha256=487CCAD6C842550B68F978BFD0B8CCB588FCB463F61F9E77E43D85BAFDA961BB
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\PROVEN_SUIT_TOOL_IDEA_UNLOAD_MAP_20260520.md | bytes=71605 | sha256=C782F7DA6B4F9C827147E72B67CD7DF4F29B40496903EEE153D218CE3A6A27C2
+- HOUSE_WORK\WORK_SHED\INDEXES\PROVEN_SUIT_TOOL_IDEA_UNLOAD_INDEX_20260520.md | bytes=1067 | sha256=8D29465C67F248D86E8EC3EC56F2A69E3DE2857D779B7249B983714BCC342D74
+- ACTIVE_ANCHOR.txt | bytes=1240 | sha256=8F791AED59F9AF761AD3D23FD508928C9AE73459985FEC8CDCD7AB2DB5002ADB
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md | bytes=132949 | sha256=C128C8C8AC88E5A8C3AEC64D8FCBD07F055DD040894D940F6275ABB1A8115201
+
+## Counts
+
+Candidate count: 204
+
+### By kind
+
+- Rule / Learning: 84
+- Tool / Gear: 46
+- Source Ore: 24
+- Soft Suit: 23
+- TODO / Live-use Watch: 20
+- Idea / Candidate: 7
+
+### By proof tier
+
+- Saved / Locked: 80
+- Parked / Source ore: 53
+- Proven / PASS with guardrails: 39
+- Unclear / Needs review: 21
+- Live-use / Watch: 11
+
+### By disposition
+
+- KEEP SAVED / USE AS REFERENCE: 80
+- PARK / DO NOT PROMOTE: 53
+- KEEP ACTIVE SUPPORT / USE AT POINT OF WORK: 17
+- KEEP AS PROVEN SOFT SUIT / WATCH BEFORE PROMOTION: 14
+- REVIEW BEFORE USE: 13
+- KEEP WATCH / NEED MORE VARIED LIVE USE: 11
+- REVIEW / SORT LATER: 10
+- TRIAGE BY BOSS/GHOST MAP: 6
+
+## Meaning
+
+This save unloads proven suits, tools, concepts, ideas, live-use watches, source ore, and support rules into a retrieval/disposition map.
+
+It does not promote anything.
+
+It does not close live-use watches.
+
+It does not merge source ore into doctrine.
+
+## Boundary
+
+No doctrine install.
+
+No active guide rewrite.
+
+No CURRENT_TRUTH_INDEX rewrite.
+
+No dashboard.
+
+No automation.
+
+No runtime.
+
+No knowledge graph.
+
+No full lesson index.
+
+No script promotion.
+
+No source-ore promotion.
+
+No live-use watch closure.
+
+## Artifact Self-Check
+
+This save created and checked a real Mr.Kleen artifact package.
+
+Checks performed:
+
+- target files did not already exist before writing;
+- source files validated for custody/readability;
+- generated artifacts checked for required phrases;
+- files readable as UTF-8 text;
+- files nonempty;
+- no NUL bytes;
+- no Unicode replacement characters;
+- no placeholder markers;
+- branch main;
+- HEAD equals origin/main before save;
+- clean status before save;
+- final commit/push/fetch requires HEAD equals origin/main and status clean.
+
+## Proof Limit
+
+This receipt proves the unload map and index save.
+
+It does not prove promotion.
+
+It does not prove closure.
+
+It does not prove all source ore is mature.

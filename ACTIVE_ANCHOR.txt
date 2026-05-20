@@ -1,30 +1,26 @@
 CURRENT MR.KLEEN POSITION
 
-After Artifact Self-Check second live use.
+After Proven Suit / Tool / Idea Unload Map.
 
-Base before save:
-cf98cba068ab6ed8968ddf77aa4b98145c82d5cb
+Base before save: e58584f0c10345195a4ffb7af70031dcacd0a4ce
 
 Current ball:
-- Artifact Self-Check After Send recorded a second/varied live-use proof.
-- The artifact case was downloaded PowerShell delivery plus Mr.Kleen save package.
-- V1/V2 failures were used as evidence, but V3 delivered the clean proof.
-- Artifact Self-Check remains open for more varied artifacts.
-- Compose-Review-Reflect-Capture remains related but distinct and open.
-- Boss/Ghost map remains the TODO triage map.
-- Downloaded ps1 resolver/source-validation fix remains active method.
+- Proven suit concepts, tools, ideas, live-use watches, source ore, and support rules were unloaded into a saved map.
+- Candidate count: 204
+- Main map: HOUSE_WORK\WORK_SHED\SORTING_BENCH\PROVEN_SUIT_TOOL_IDEA_UNLOAD_MAP_20260520.md
+- Index: HOUSE_WORK\WORK_SHED\INDEXES\PROVEN_SUIT_TOOL_IDEA_UNLOAD_INDEX_20260520.md
+- This is a grouping/disposition map only.
+- No promotion, closure, doctrine, active guide rewrite, or CURRENT_TRUTH_INDEX rewrite occurred.
 
 Next allowed move:
-- Continue TODO weakest-link triage using the boss/ghost map.
-- Let proof select the next top route.
-- Use resolver-first downloaded ps1 delivery.
-- Use Artifact Self-Check for created/sent artifacts.
+- Use the unload map to choose the next proof-ranked route.
+- Continue TODO weakest-link triage using Boss/Ghost map if no direct unload route is selected.
+- Keep proven tools/rules as point-of-work support.
+- Keep Soft Suit items in proven/watch unless explicit promotion proof exists.
+- Keep source ore parked unless selected through adopt gate.
 
 Blocked moves:
-- Do not close Artifact Self-Check from this second live-use alone.
-- Do not promote Artifact Self-Check.
-- Do not close Compose-Review from this proof.
-- Do not install doctrine.
-- Do not rewrite active guides.
-- Do not rewrite CURRENT_TRUTH_INDEX.
+- Do not promote from the unload map.
+- Do not close live-use watches from the unload map alone.
+- Do not merge source ore into doctrine.
 - Do not create dashboard, automation, runtime, knowledge graph, or full lesson index.
