@@ -1,54 +1,49 @@
 # ACTIVE ANCHOR
 
 Date: 2026-05-20
-Base before save: e9bc566bb432817f266e6604595172f5e95afb21
-Current active ball after this save: Mule return intake after discussion idea/rule lock save
+Base before recovery save: fe54daee837b79210ca1ba07dca57b6ee4ead280
+Current active ball after this save: Mule return imported into brain custody; read/disposition next
 
 ## Last completed move
 
-Saved the dense discussion learning cluster:
+Recovered the known-path mule return import after the first import script stopped on an exact verification-needle mismatch.
 
-- discovery path / how-we-found-out learning;
-- rule-not-fired alarm;
-- report gate trigger binding;
-- solid good fog distinction;
-- placement-keying memory health;
-- rule-concept-event link map seed;
-- mule done / return intake state.
+Known/latest local packet:
+C:\Users\13527\Desktop\MR_KLEEN_MULE_WORKSHOP_LOCAL\BIG_OVERALL_JOB_20260520_051710
+
+Imported brain lane:
+HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\RETURNS\BIG_OVERALL_JOB_20260520_051710_RETURN_INTAKE_20260520_054120
+
+Rule added/repaired:
+BRAIN_LEARNING\MULE_RETURN_KNOWN_PATH_PICKUP_AND_BRAIN_IMPORT_RULE_20260520.md
 
 ## Current control state
 
-Mule is reported done.
+Mule return files are now in the brain as raw custody material.
 
-Mule output has not yet been ingested.
+They are not adopted.
 
-The house should process mule return next through intake, not by blind adoption.
+The return was created from an older packet base than the current discussion-learning save, so it must be treated as custody/source material until read and dispositioned.
 
 ## Next allowed move
 
-Freeze/read the mule return package from the local mule workshop dump folder.
+Read the imported intake report and raw return files in order.
 
-Required sequence:
+Start with:
 
-1. identify packet and dump folder;
-2. verify current repo state and packet base;
-3. read stale-check result;
-4. read return manifest first if present;
-5. list every returned file;
-6. inspect every returned file;
-7. disposition each returned item before save/adoption.
+1. HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\RETURNS\BIG_OVERALL_JOB_20260520_051710_RETURN_INTAKE_20260520_054120\INTAKE_REPORT.md
+2. HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\RETURNS\BIG_OVERALL_JOB_20260520_051710_RETURN_INTAKE_20260520_054120\INITIAL_DISPOSITION_MATRIX.md
+3. raw return manifest/summary files if present
+4. all remaining raw return files
+
+Then create a full return disposition before applying any recommendation.
 
 ## Blocked moves
 
 - Do not treat mule output as command authority.
-- Do not cherry-pick one mule recommendation before full return inventory.
+- Do not cherry-pick one recommendation before reading the full imported return.
 - Do not rewrite doctrine.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.
 - Do not create dashboard, automation, runtime, knowledge graph, or full lesson index.
-- Do not promote tools, suits, stale checker, relation map, or report gate from this save alone.
-- Do not keep creating support-rule loops instead of processing the mule return.
-
-## Boundary
-
-This anchor records state and next intake route. It is not doctrine.
+- Do not promote stale checker, relation map, tools, suits, or rules from custody import alone.

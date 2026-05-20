@@ -1,0 +1,19 @@
+# RETURN MANIFEST TEMPLATE
+
+Packet base HEAD: 
+e9bc566bb432817f266e6604595172f5e95afb21
+Stale checker result: PASS / STALE-BLOCKED
+
+## Files Returned
+
+| File | Job | Disposition | Notes |
+|---|---|---|---|
+| JOB_00_STALE_CHECKER_REVIEW.md | 00 |  |  |
+| JOB_01_WHOLE_HOUSE_DRIFT_AND_META_LOOP_AUDIT.md | 01 |  |  |
+| JOB_02_REAL_WORK_QUEUE_TOP_10.md | 02 |  |  |
+| JOB_03_TODO_ROOM_BOSS_GHOST_COLLAPSE.md | 03 |  |  |
+| JOB_04_TOOL_SUIT_RULE_LIFECYCLE_AUDIT.md | 04 |  |  |
+| JOB_05_MULE_WORKSHOP_CONTRACT_UPGRADE.md | 05 |  |  |
+| JOB_06_RECEIPT_AND_STALE_PROOF_HYGIENE.md | 06 |  |  |
+| JOB_07_BIG_OVERALL_RECOMMENDATION.md | 07 |  |  |
+| NEXT_ACTION_RECOMMENDATION.md | final |  |  |

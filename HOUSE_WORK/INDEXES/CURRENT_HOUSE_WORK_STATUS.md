@@ -4272,3 +4272,64 @@ Freeze/read the mule return package from the local mule workshop dump folder, st
 
 Boundary:
 No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, no tool/suit/stale-checker/relation-map promotion, and no mule output adoption in this save.
+
+---
+
+## 2026-05-20 - Mule return known-path import
+
+Base before save: fe54daee837b79210ca1ba07dca57b6ee4ead280
+Base short: fe54dae
+Status before save: clean
+
+Known mule packet:
+C:\Users\13527\Desktop\MR_KLEEN_MULE_WORKSHOP_LOCAL\BIG_OVERALL_JOB_20260520_051710
+
+Known mule dump:
+C:\Users\13527\Desktop\MR_KLEEN_MULE_WORKSHOP_LOCAL\BIG_OVERALL_JOB_20260520_051710\MULE_OUTPUT_DUMP_ONLY
+
+Imported brain return lane:
+HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\RETURNS\BIG_OVERALL_JOB_20260520_051710_RETURN_INTAKE_20260520_054120
+
+Saved rule:
+BRAIN_LEARNING\MULE_RETURN_KNOWN_PATH_PICKUP_AND_BRAIN_IMPORT_RULE_20260520.md
+
+Meaning:
+The assistant knew the mule path and should have auto-used it. The known-path pickup/import rule now reflects the real routine: locate the local workshop, get the dump files with PowerShell, place custody copies in the brain, preserve originals, create intake report/disposition, and only then read/adopt.
+
+Boundary:
+Custody import only. No mule output adopted. No doctrine rewrite. No active guide rewrite. No CURRENT_TRUTH_INDEX rewrite. No dashboard, automation, runtime, knowledge graph, full lesson index, or promotion.
+
+Next:
+Read imported mule return files in order and build full disposition before any adoption/save.
+
+---
+
+## 2026-05-20 - Mule return known-path import recovery
+
+Base before recovery save: fe54daee837b79210ca1ba07dca57b6ee4ead280
+Base short: fe54dae
+Status before recovery: dirty only in allowed mule return import paths
+
+Known/latest mule packet:
+C:\Users\13527\Desktop\MR_KLEEN_MULE_WORKSHOP_LOCAL\BIG_OVERALL_JOB_20260520_051710
+
+Known/latest mule dump:
+C:\Users\13527\Desktop\MR_KLEEN_MULE_WORKSHOP_LOCAL\BIG_OVERALL_JOB_20260520_051710\MULE_OUTPUT_DUMP_ONLY
+
+Imported brain return lane:
+HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\RETURNS\BIG_OVERALL_JOB_20260520_051710_RETURN_INTAKE_20260520_054120
+
+Saved/repaired rule:
+BRAIN_LEARNING\MULE_RETURN_KNOWN_PATH_PICKUP_AND_BRAIN_IMPORT_RULE_20260520.md
+
+Failure repaired:
+The first import script stopped after writes but before commit because an exact verification needle was too strict. Recovery checked dirty state, allowed only mule return import paths, rewrote the rule with exact stale-boundary wording, and completed the custody import.
+
+Meaning:
+The assistant knew the mule path and should have auto-used it. The known-path pickup/import rule now reflects the real routine: locate the local workshop, get the dump files with PowerShell, place custody copies in the brain, preserve originals, create intake report/disposition, and only then read/adopt.
+
+Boundary:
+Custody import only. No mule output adopted. No doctrine rewrite. No active guide rewrite. No CURRENT_TRUTH_INDEX rewrite. No dashboard, automation, runtime, knowledge graph, full lesson index, or promotion.
+
+Next:
+Read imported mule return files in order and build full disposition before any adoption/save.

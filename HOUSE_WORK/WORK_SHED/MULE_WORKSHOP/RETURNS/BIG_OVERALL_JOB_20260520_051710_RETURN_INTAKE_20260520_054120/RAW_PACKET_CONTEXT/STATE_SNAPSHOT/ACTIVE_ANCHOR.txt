@@ -1,0 +1,28 @@
+CURRENT MR.KLEEN POSITION
+
+After Relevant Root Key Selector First Live Use.
+
+Base before save: 7a9e864adfa7d2693797969bc42ca13d05ca3a37
+
+Current ball:
+- Relevant Root Key And Tool Use Selector has first live-use proof.
+- Recovery was required because the first save attempt stopped before commit on a path verification mismatch.
+- Dirty-state recovery allowed only expected target files before continuing.
+- The live use selected four keys: Control state first, Boss first ghosts under it, Use the tools that fit, No random moves.
+- Tool choice was direct PowerShell read only.
+- Boss/Ghost map selected Parent Boss A as the remaining route.
+- Selector TODO remains open for more varied live use.
+
+Next allowed move:
+- Read HOUSE_WORK\TODO\BOSS_GHOST_RULE_FIRING_CYCLE_FLOW_TODO_20260520.md before repair.
+- Keep using selector: pick only relevant keys/tools.
+
+Blocked moves:
+- Do not close selector TODO from one live use.
+- Do not promote selector or Living Root Words.
+- Do not hand-pick TODOs by newest file order.
+- Do not rewrite doctrine.
+- Do not rewrite active guides.
+- Do not rewrite CURRENT_TRUTH_INDEX.
+- Do not create dashboard, automation, runtime, knowledge graph, or full lesson index.
+

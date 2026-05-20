@@ -1,0 +1,12 @@
+e9bc566 Record root selector first live use
+7a9e864 Add relevant root key tool selector
+e7212b2 Clarify no rule king better fit promotion
+81804ff Unload proven suits tools and ideas
+e58584f Record artifact self check second use
+cf98cba Map boss ghost TODO and fix script delivery
+57b58e6 Lock handoff safe save method
+b7289e2 Add PowerShell delivery lint guard
+324cde2 Fix TODO weakest link selection
+ceb9a16 Fix TODO first work control
+a75fd7c Save code cabinet source note self proof
+f67327b Record compose review self proof trigger
