@@ -1,5 +1,5 @@
 ACTIVE BALL:
-Q-20260519-009 - Whole-House Review / outside-review handoff
+Predictive Learning Mule Return finalization leak repair
 
 RECORDED ANCHOR BASE:
 main @ 3854a3b before anchor/queue state sync
@@ -32,7 +32,7 @@ Use CURRENT_TRUTH_INDEX.txt before broader house navigation.
 Treat Work Shed, source ore, receipts, outside reports, mule returns, and tool candidates as support material unless separately promoted by proof.
 
 NEXT ALLOWED MOVE:
-Run final send-readiness check on the refreshed Whole-House Review outside-review handoff. If clean, prepare the bounded mule kickoff message.
+Commit the Predictive Learning mule return finalization matrix. If clean, return to Q-20260519-009 Whole-House Review with the final commit as send position and do not re-refresh solely for base-label churn.
 
 Required shape:
 - read the existing handoff target,
@@ -86,4 +86,5 @@ Do not treat support maps, indexes, receipts, TODO, SYSTEM_LINKS, Work Shed, fro
 AUTHORITY NOTE:
 ACTIVE_ANCHOR.txt holds the current active ball, next allowed move, and blocked moves.
 Current user command may select the next boss.
+
 

@@ -2891,3 +2891,38 @@ Boundary:
 Next move:
 - Run final send-readiness check on the refreshed Whole-House Review outside-review handoff.
 - If clean, prepare the bounded mule kickoff message.
+
+## 2026-05-19 - Predictive Learning mule return finalization
+
+Base before finalization: main @ e5e9dce.
+
+Input:
+- HOUSE_WORK\WORK_SHED\AGENT_OUTPUTS\PREDICTIVE_LEARNING_AND_MULE_FLOW_RETURN_20260519_001
+
+Saved:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\PREDICTIVE_LEARNING_MULE_RETURN_FINALIZATION_MATRIX_20260519.md
+- BRAIN_LEARNING\MULE_RETURN_FINALIZATION_GATE_RULE_20260519.md
+- PROOF_HISTORY\PREDICTIVE_LEARNING_MULE_RETURN_FINALIZATION_RECEIPT_20260519.txt
+
+Verdict:
+- PASS: mule return finalized as an accounted source package.
+- Completion-boundary leak repaired.
+- All six returned files were read in manifest order.
+- Material suggestions were dispositioned as applied, tested, adapted, parked/source-ore, rejected, not-yet, or needs proof.
+
+Boundary:
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX change.
+- No tool promotion.
+- No checker promotion.
+- No Soft Suit promotion.
+- No automation.
+- No full lesson index.
+- No knowledge graph.
+- No dashboard.
+
+Next move:
+- Return to Q-20260519-009 Whole-House Review with the final commit as send position.
+- Do not re-refresh the Whole-House Review handoff solely because this finalization creates a newer commit.
+- Use a base-label guardrail instead.
