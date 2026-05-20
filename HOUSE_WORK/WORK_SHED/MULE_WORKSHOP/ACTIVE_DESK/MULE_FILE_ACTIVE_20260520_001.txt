@@ -1,0 +1,854 @@
+MULE_FILE_CLEAN
+Clean Seed / Mr.Kleen — Bounded Mule Workshop Handoff
+House-Walk Critique, Fix-Finding, Workshop Access Review, and Next-Fix Recommendation
+
+Prepared for desktop use as: MULE_FILE
+Prepared after local lock/save: main @ 2f773c7
+Full saved commit known from user proof: 2f773c785623114f1db379ce7c40ecd4aa8fb6ff
+Known final state from user proof: HEAD == origin/main, final git status clean
+Purpose: give the mule one clean current packet with the real task, rules, house-walk substance, boundaries, and output contract.
+
+================================================================================
+0. READ THIS FIRST
+================================================================================
+
+This is one bounded mule/workshop pass.
+
+The mule is being asked to critique the house-walk list hard, compare it against the local Mr.Kleen files, find missing issues and better fixes, and return an ordered critique package.
+
+This is not an endless cycle.
+
+The mule is not the supervisor of the house.
+The mule is not final authority.
+The mule is not a doctrine installer.
+The mule is not a tool promoter.
+The mule is not a command authority.
+The mule is not a substitute for the house learning and acting first.
+
+Correct mule rhythm:
+
+1. The house finds issues.
+2. The house uses, applies, or tests fitting fixes where appropriate.
+3. The house decides whether one bounded mule pass is useful.
+4. The mule sharpens the selected target.
+5. The mule return is intaken and dispositioned.
+6. The house acts, tests, parks, rejects, or saves from proof.
+7. Mule stops unless a new bounded pass is justified by specific proof.
+
+This file is that one bounded pass.
+
+================================================================================
+1. CURRENT KNOWN STATE
+================================================================================
+
+The latest confirmed local save before this handoff locked:
+
+- Task-Scoped Rule + Neighbor Search.
+- File-first long kickoff / mule handoff behavior.
+- Mule no-endless/default-cycle correction.
+- Queue no longer treats Q-20260519-009 as active by inertia.
+- Anchor returns to the real job.
+
+Known saved position from user-provided proof:
+
+main @ 2f773c7
+Full commit:
+2f773c785623114f1db379ce7c40ecd4aa8fb6ff
+
+Known final proof from user-provided terminal output:
+
+- Branch: main
+- HEAD: 2f773c785623114f1db379ce7c40ecd4aa8fb6ff
+- origin/main: 2f773c785623114f1db379ce7c40ecd4aa8fb6ff
+- Status: clean
+
+Important caveat:
+A script path guard produced a false "Unexpected changed paths" stop because git status emitted forward-slash paths while expected paths used Windows backslash paths. The later commit/push/fetch/status checks passed cleanly. Treat this as a later script/guard repair lesson, not as a failed save.
+
+================================================================================
+2. LOCAL FILE TRUTH / BRIDGE RULE
+================================================================================
+
+Expected local home:
+
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+
+Before judging anything, verify:
+
+1. You are inside the local repo home.
+2. `.git` exists.
+3. Current branch.
+4. Current local HEAD.
+5. Current origin/main HEAD.
+6. Whether local HEAD equals origin/main.
+7. Whether working tree status is clean.
+8. Whether public/browser/URL files disagree with local files.
+9. Whether this handoff still matches the live local files.
+
+The local Mr.Kleen repo is the working truth only when it is clean and synced with origin/main, or when a mismatch is explicitly understood and reported.
+
+Public GitHub / browser / URL files are a comparison window, not automatic room truth.
+
+The mule does not have the assistant's private brain or memory.
+
+If brain-only context matters, it must be bridged through actual local files, receipts, handoffs, or explicit input. Do not depend on what the assistant "probably knows." If the local repo lacks a needed bridge, report that as a bridge gap.
+
+================================================================================
+3. TASK-SCOPED RULE + NEIGHBOR SEARCH REQUIRED
+================================================================================
+
+Before making recommendations, run a task-scoped rule + neighbor search.
+
+This is not whole-house hunting.
+This is not random crawling.
+This is targeted retrieval so the mule knows the local law touching this task.
+
+Task lane:
+Mule handoff / house-walk critique / workshop access review / next-fix recommendation.
+
+Search/read the relevant governing and neighboring material, including:
+
+- CURRENT_TRUTH_INDEX.txt
+- ACTIVE_ANCHOR.txt
+- AGENTS.md
+- ACTIVE_GUIDES
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+- HOUSE_WORK\WORK_SHED\QUEUE\CURRENT_WORK_QUEUE.md
+- BRAIN_LEARNING rules touching:
+  - mule worker/not supervisor
+  - task-scoped rule + neighbor search
+  - file-first long kickoff / handoff packaging
+  - Adapt/Adopt Critique Learning Gate
+  - Anti-Agreement / Proof-in-Pudding
+  - Better-Fit Adoption / Recursive Disposition
+  - Gear-Up Before House Work
+  - Think Before Work / intake pause
+  - queue loss prevention
+  - assistant-originated pattern use
+  - tool/checker boundaries
+- HOUSE_WORK\WORK_SHED\IDEA_BAG
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH
+- HOUSE_WORK\WORK_SHED\AGENT_HANDOFFS
+- HOUSE_WORK\WORK_SHED\AGENT_OUTPUTS
+- relevant PROOF_HISTORY receipts
+- relevant SOURCE_ORE only when a finding needs it
+- prior mule returns only when they affect this target
+
+Use existing house material before inventing new frameworks.
+
+If existing helpers are insufficient, propose a new helper only as a candidate and explain:
+- why existing helpers are insufficient,
+- what exact gap it fills,
+- what lane it belongs in,
+- what authority it does not have,
+- how it will be tested,
+- and how it avoids becoming bloat.
+
+================================================================================
+4. MISSION
+================================================================================
+
+Critique the latest house-walk list as a proof object.
+
+Do not merely agree.
+Do not summarize lightly.
+Do not flatter the house.
+Do not flatter the assistant.
+Do not flatter the user.
+
+Stress-test the walk against local files.
+
+Find:
+- missed issues,
+- weak links,
+- stale state,
+- contradictions,
+- unsupported claims,
+- better routes,
+- smaller routes,
+- overbuilt routes,
+- underbuilt routes,
+- places where existing house material should have been used,
+- places where the mule/workshop access model is weak,
+- and the next concrete fixes the house should apply/test/park/reject.
+
+The goal is not endless critique.
+
+The goal is to help the house become better at using its own files, notes, tools, proof, ideas, handy bags, benches, receipts, and rules to work cleanly.
+
+================================================================================
+5. BOUNDARIES
+================================================================================
+
+Do not:
+
+- rewrite doctrine,
+- rewrite active guides,
+- rewrite CURRENT_TRUTH_INDEX,
+- change ACTIVE_ANCHOR unless separately authorized,
+- change queue/status unless separately authorized,
+- promote tools,
+- promote checker candidates,
+- promote Soft Suit,
+- create /system,
+- create runtime/live command files,
+- build automation,
+- build dashboard,
+- build knowledge graph,
+- build full lesson index,
+- restructure proof history,
+- delete proof,
+- treat source ore as command,
+- treat mule output as authority,
+- treat public URL as local truth,
+- call final PASS for the house,
+- start another mule cycle by default,
+- edit repo files unless separately authorized.
+
+Default output is a critique package only.
+
+Candidate text, candidate patches, or proposed helpers must be returned as candidates, clearly labeled. Do not install them.
+
+================================================================================
+6. WORKSHOP ACCESS CHECK
+================================================================================
+
+Judge whether the mule workshop is actually usable.
+
+The mule should be able to find and use, as relevant:
+
+- tools,
+- ideas,
+- source ore,
+- proof/evidence,
+- handy bags,
+- idea bags,
+- sorting benches,
+- prior critiques,
+- receipts,
+- active anchor,
+- current truth/index,
+- current status,
+- current queue,
+- agent handoffs,
+- agent outputs,
+- BRAIN_LEARNING rule packs,
+- ACTIVE_GUIDES,
+- local-vs-public bridge guidance.
+
+If the workshop is hard to use, report exactly why.
+
+If a mule-start index, worker-start map, or compact workshop access card is needed, propose it as a candidate only. Do not install it.
+
+The candidate must say:
+- what it would point to,
+- what authority it would not have,
+- how it would help mule work without making mule supervisor,
+- and how it would stay current without becoming a dashboard or bloat.
+
+================================================================================
+7. HOUSE-WALK SUBSTANCE TO CRITIQUE
+================================================================================
+
+The latest house-walk found the following major claims and issues. Treat these as the critique target. Verify them against local files.
+
+7.1 Mule is not the next default
+
+Clean order:
+
+house first -> find issues -> use/apply/test fitting fixes where clear -> decide whether a bounded mule pass is worth it.
+
+Mule is not:
+- endless cycle,
+- supervisor,
+- "send because handoff exists",
+- replacement for the house learning to work better.
+
+7.2 Public/URL house walk was PASS WITH GUARDRAILS, not full local PASS
+
+The earlier walk could inspect public repo/files and visible commits, but could not prove local working tree state until PowerShell proof arrived.
+
+After the later lock/save, local proof was provided:
+- main @ 2f773c7
+- HEAD == origin/main
+- status clean.
+
+The mule must verify this locally.
+
+7.3 Earlier BRAIN_LEARNING mismatch was corrected
+
+An earlier concern that BRAIN_LEARNING looked incomplete was resolved as a public-view / inspection-depth issue, not a proven repo problem.
+
+The deeper pass found many later BRAIN_LEARNING rules visible, including:
+- Adapt/Adopt,
+- Anti-Agreement,
+- Assistant-Originated Rule,
+- Awareness,
+- Better-Fit Adoption,
+- Clean Salvage,
+- Queue Loss Prevention,
+- Guard-Fail Stop Card,
+- Mule Return Finalization,
+- Mule Worker Not Supervisor,
+- Pink Pony Diner,
+- Stop-and-Tool,
+- Think Before Work,
+- Weigh Options Before Code,
+- and related behavior rules.
+
+Mule should verify actual local BRAIN_LEARNING contents.
+
+7.4 Strongest house strength
+
+The house has learned boundaries:
+- source vs authority,
+- proof vs doctrine,
+- public window vs local room,
+- mule/Codex vs final judge,
+- done vs PASS,
+- runtime proposal vs live runtime.
+
+7.5 Biggest remaining risk
+
+The biggest remaining risk is process gravity:
+The house has many smart lanes, gates, tools, receipts, candidates, handoffs, indexes, and helper rules. They matter only if they fire at the point of work.
+
+If they sit as decorative archives, the assistant can still fail while having beautiful proof-history around the failure.
+
+7.6 The house must use what it has
+
+Proof history, notes, ideas, handy bags, bitstrings, receipts, failed runs, successful runs, outside-review reports, old scripts, parked candidates, and source ore are growth material.
+
+They should improve:
+- next action,
+- classification,
+- proof,
+- recovery,
+- lane choice,
+- and failure prevention.
+
+They should not become passive archives or command authority.
+
+7.7 Front door / current truth
+
+The front door is strong:
+- local repo home is the real room when synced/clean,
+- public reach is not authority,
+- read order is clear:
+  1. CURRENT_TRUTH_INDEX.txt
+  2. ACTIVE_ANCHOR.txt
+  3. ACTIVE_GUIDES
+  4. AGENTS.md only for local file-lane / Codex-style work.
+
+Weakness:
+The assistant must actually obey the read order. Signs do not help if skipped.
+
+7.8 CURRENT_TRUTH_INDEX
+
+CURRENT_TRUTH_INDEX routes source/authority and is not a hidden work queue.
+
+Concern:
+It may contain dense old patch-history text. That is not automatically dirty, but can create fog. Do not rewrite casually. If ever repaired, use cleaner orientation plus archived patch history, not deletion.
+
+7.9 ACTIVE_ANCHOR
+
+ACTIVE_ANCHOR is the best live instruction witness when current.
+
+Earlier walk found it said:
+- active ball: house-first walk after mule role / anti-agreement / better-fit lock,
+- next allowed move: self-house walk,
+- blocked: Whole-House Review mule before self-walk.
+
+After the later save, anchor should now return to the real job and require task-scoped rule + neighbor search before the next move.
+
+Mule must verify the live local anchor.
+
+7.10 Queue
+
+Earlier queue had inertia:
+Q-20260519-009 Whole-House Review / outside-review handoff remained active even after anchor moved to house-first.
+
+Later save reportedly corrected this:
+Queue no longer treats Q-20260519-009 as active by inertia.
+
+Mule must verify current queue.
+
+Key principle:
+Queue prevents loss. Queue should not force old work to stay active when anchor/user selects another boss.
+
+7.11 Active guides
+
+Active guides remain strong and should probably not be rewritten now.
+
+They hold:
+- start small,
+- one seed/home/route/proof/failure/recovery/parking/promotion/close condition,
+- rule existing is not proof that rule fired,
+- Deep Clean requires report/receipt/ledger/exact checked state,
+- PASS vocabulary,
+- done is not PASS,
+- movement is not proof,
+- confidence is not proof.
+
+Latest improvements should live in BRAIN_LEARNING / Work Shed first, then be tested, then promoted only if repeatedly proven.
+
+7.12 BRAIN_LEARNING
+
+BRAIN_LEARNING is becoming the behavior-growth room.
+
+Strength:
+It carries behavioral learning without forcing everything into doctrine.
+
+Risk:
+Too many behavior rules can create rule haze unless the assistant gears up and pulls the right rule by lane.
+
+Potential need:
+A small current hot strip / point-of-work loadout may help. Not a full dashboard. Not a giant lesson index. Just the right rules for the task.
+
+Mule should judge whether this is needed now, later, or not at all.
+
+7.13 Handy Idea Bag / No Random Moves
+
+The Handy Idea Bag fits the instruction to explore doing things differently and find better routes.
+
+Boundaries:
+- support tool, not command authority,
+- not mandatory before every tiny action,
+- not random idea pile,
+- not doctrine.
+
+It opens when there is:
+- repeated issue,
+- unclear fix,
+- multiple plausible fixes,
+- high neighbor impact,
+- proof-gate risk,
+- patch-loop smell,
+- source/proof/authority/lifecycle/status/anchor/word-key work,
+- known prior pattern risk.
+
+No Random Moves says candidate fixes must be calculated from:
+- active issue,
+- lane,
+- current state,
+- authority boundary,
+- neighbor shape,
+- known pattern,
+- fit slot,
+- proof path.
+
+Mule should check whether the walk used this enough.
+
+7.14 Adapt/Adopt
+
+Adapt/Adopt is central.
+
+It says critiques, proof history, notes, ideas, handy bags, bitstrings, receipts, failed runs, successful runs, outside-review reports, old scripts, and parked candidates are growth material.
+
+It also says not to blindly copy the newest critique and not to let latest report win by freshness alone.
+
+User corrections should be treated as high-value input, then adopted/adapted only when fit/proof says so.
+
+7.15 Anti-Agreement
+
+Corrections should be verified, not flattered.
+
+When the user corrects the assistant, verify against:
+- files,
+- receipts,
+- active rules,
+- current state,
+- prior mistakes,
+- boundaries,
+- outside research when relevant.
+
+The mule correction passed the local model check because it matched anchor, mule worker rule, Adapt/Adopt, and queue/loss prevention.
+
+Mule should verify that claim.
+
+7.16 Better-Fit Adoption
+
+When a new idea is cleaner, fits better with neighbors, reduces drag, or produces better proof, adopt it through the correct gates.
+
+Old ideas should not be deleted by reflex. They should be dispositioned:
+- parked/source-ore,
+- superseded,
+- helper-only,
+- historical,
+- rejected-as-active,
+- not-yet,
+- needs proof.
+
+The older "prepare/send mule" path is not trash. It becomes held tool / conditional outside review.
+
+7.17 Assistant-Originated Pattern Use
+
+The assistant should not wait for the user to name every missing rule.
+
+If the work exposes a real repeated need, the assistant may propose rules/fixes/helpers/candidates in the proper lane and proof path.
+
+Idea Bag and Suit are active tools, not decoration.
+
+Important correction:
+When a later improvement appears during a current task, capture it without contaminating the current task. Then return to it after the task is finished or safely parked.
+
+7.18 Source Ore
+
+Source Ore is full and useful.
+
+Risk:
+Source Ore should feed candidates by fit slot, not by random grabbing or "find a bunch of stuff" when the task does not need it.
+
+Source Ore is not command authority.
+
+7.19 Sorting Bench
+
+Sorting Bench is the lane for messy but important dissection.
+
+It is not doctrine.
+It is not command.
+It is where candidates are taken apart before becoming rules, cards, templates, or parked material.
+
+7.20 Agent Handoffs
+
+Agent Handoffs are tools on shelves.
+
+Risk:
+Handoff existence can create false pressure to use them.
+
+A handoff file is not a go signal.
+
+7.21 Proof History
+
+Proof History is large and valuable.
+
+Risk:
+Proof-history volume can overwhelm or intimidate.
+
+Fix is not deletion.
+
+Fix is claim-specific retrieval:
+current claim first, then only receipts that prove/disprove that claim.
+
+7.22 Checker / tool candidates
+
+Checker candidates can pass without being promoted.
+
+Prior status reportedly showed:
+- scripts inspected as text,
+- repaired as text,
+- safe candidate runs,
+- nine checker candidates found,
+- eight PASS,
+- one PASS WITH GUARDRAILS,
+- no tool promotion,
+- no doctrine rewrite,
+- no active guide rewrite.
+
+Mule should verify if relevant.
+
+7.23 Mule history
+
+Mule work has produced value, especially predictive-learning mule returns and finalized source packages.
+
+Risk:
+Mule work creates cycle pressure.
+
+The house must digest, apply, test, and decide. Do not keep sending.
+
+7.24 Predictive-learning mule return pattern
+
+A good standard:
+All returned files should be read in manifest order and material suggestions dispositioned as:
+- applied,
+- tested,
+- adapted,
+- parked/source-ore,
+- rejected,
+- not-yet,
+- needs proof.
+
+No "mule said it, so do it."
+No half-used mule pile.
+No endless return loop.
+
+7.25 Blocked moves
+
+Keep blocked unless separately authorized:
+
+- no Whole-House Review mule by inertia,
+- no checker promotion,
+- no Prior-Mistake Soft Suit promotion,
+- no full lesson index,
+- no knowledge graph,
+- no automation,
+- no dashboard,
+- no runtime build,
+- no /system,
+- no live runtime files,
+- no status-command runtime work,
+- no doctrine compression,
+- no PROOF_HISTORY restructuring,
+- no source ore as command,
+- no bitstring/algorithm doctrine,
+- no ignored PowerShell scripts unless selected by current task and proof need.
+
+7.26 Things the house-walk wanted next
+
+Earlier walk wanted:
+1. Queue sync after walk.
+2. Mule handoff held/conditional, not active by inertia.
+3. Use house tools/notes/ideas/handy bags across important tasks.
+4. Later rule issues captured without contaminating current task.
+5. Mule no-endless/default-cycle wording sharpened.
+6. Gear-Up before important house work.
+7. Handy Idea Bag when bells ring, not as ceremony.
+8. Adapt/Adopt to learn from corrections, not merely store them.
+9. Memory continuity distinguished from Mr.Kleen lock/save.
+10. No local PASS without local git proof.
+
+Later lock/save reportedly handled several of these.
+
+Mule must verify what is now handled and what remains open.
+
+7.27 Better routes considered by the walk
+
+Route A:
+Send Whole-House mule immediately.
+Rejected. Handoff existence is not a go signal.
+
+Route B:
+Rewrite active guides.
+Rejected. Too heavy without repeated proof.
+
+Route C:
+Build automation/dashboard/lesson index.
+Rejected. Blocked and too broad.
+
+Route D:
+Finish house-first evaluation, identify seams, and hold later adoption issue.
+Chosen.
+
+Route E:
+Local PowerShell state proof.
+Needed for full PASS and later obtained.
+
+Mule should critique whether those route decisions still hold after local state verification.
+
+7.28 Refined boss / weak-link list from the walk
+
+1. State witness sync boss.
+Anchor, queue, status, receipts, and commit history must not silently disagree.
+
+2. Mule-cycle boss.
+Mule is useful but must not become an expensive default loop.
+
+3. Point-of-work rule firing boss.
+The house has many good rules; they must fire at the moment of action.
+
+4. Gear selection boss.
+Before important house work, assistant should choose the correct gear/lens.
+
+5. Adapt/Adopt behavior boss.
+Corrections, notes, source ore, mule reports, and proof history must become behavior changes only when fit/proof says so.
+
+6. No-random-candidate boss.
+Better routes must be calculated by fit slot, not grabbed randomly.
+
+7. Queue inertia boss.
+Queue should prevent loss, not force old work to stay active by inertia.
+
+8. Proof-history retrieval boss.
+Proof history must be claim-specific.
+
+9. Support-vs-authority boss.
+Work Shed, Source Ore, notes, handoffs, mule reports, and tool candidates must not command action by existence.
+
+10. Local-vs-public proof boss.
+Public GitHub can orient; local synced clean repo proves room truth.
+
+11. Save-threshold boss.
+Not every visible output needs a save. Save when loss/reuse/state/proof/resume need beats motion cost.
+
+12. Lifecycle-state boss.
+Candidate, tested, worn, installed, promoted, parked, blocked, and support-only must remain distinct.
+
+13. Tool-promotion boss.
+Checker candidates can pass without becoming tools.
+
+14. Runtime-gravity boss.
+Runtime/status-command work remains blocked unless explicitly selected and approved.
+
+15. Dense-input dissection boss.
+Dense corrections must be split into immediate task, later rule, parked idea, and proof need.
+
+16. Memory-vs-Mr.Kleen boss.
+Memory continuity is not repo lock/save.
+
+17. Current-status support boss.
+CURRENT_HOUSE_WORK_STATUS is support and must not outrank anchor or live git state.
+
+18. Active-guide restraint boss.
+Do not rewrite doctrine when BRAIN_LEARNING/support rule is enough.
+
+19. Handoff shelf boss.
+A handoff file is a tool on a shelf, not a go signal.
+
+20. Anti-agreement boss.
+Corrections should be verified, not flattered or rejected reflexively.
+
+================================================================================
+8. QUESTIONS THE MULE MUST ANSWER
+================================================================================
+
+Answer these directly:
+
+1. Is the house-walk list accurate against the current local repo?
+2. What did the list get right?
+3. What did it miss?
+4. What did it overstate?
+5. What did it understate?
+6. What is stale after the 2f773c7 save?
+7. What still lacks proof?
+8. Did the house apply the task-scoped rule correctly after saving it?
+9. Does the workshop give the mule easy enough access to tools/ideas/proof/handy bags/benches?
+10. Is a mule-start index or workshop map needed?
+11. If yes, what is the smallest non-bloat version?
+12. What should be fixed immediately?
+13. What should be tested first?
+14. What should be parked/source-ore?
+15. What should be rejected?
+16. What should remain blocked?
+17. What is the single best next move after this mule return?
+18. Should mule be used again immediately?
+
+================================================================================
+9. OUTPUT CONTRACT
+================================================================================
+
+Return one ordered output folder:
+
+HOUSE_WORK\WORK_SHED\AGENT_OUTPUTS\MULE_FILE_REVIEW_RETURN_20260520_001
+
+Inside that folder, create:
+
+1. MANIFEST.md
+
+List every returned file in read order with a one-line purpose.
+
+2. REVIEW_REPORT.md
+
+Include:
+- executive verdict,
+- local state proof,
+- local-vs-public/URL sync finding,
+- workshop adequacy finding,
+- what was checked,
+- what the house-walk list got right,
+- what it missed,
+- what it overstated,
+- what it understated,
+- contradictions/stale pointers,
+- proof gaps,
+- better route options,
+- immediate fixes,
+- later fixes,
+- parked/source-ore items,
+- rejected ideas with reasons,
+- mule-use verdict.
+
+3. DISPOSITION_MATRIX.md
+
+For every finding/recommendation:
+- item ID,
+- finding,
+- evidence/source,
+- lane,
+- disposition:
+  - apply now,
+  - test now,
+  - adapt,
+  - park/source-ore,
+  - reject,
+  - not-yet,
+  - needs proof,
+- reason,
+- proof needed,
+- neighbor risk,
+- smallest safe next action.
+
+4. WORKSHOP_GAP_REVIEW.md
+
+Judge whether the mule workshop is usable.
+
+Include:
+- what workshop lanes exist,
+- what was easy to find,
+- what was hard to find,
+- what is missing,
+- whether a mule-start index is needed,
+- whether a full-house access map is needed,
+- how to bridge assistant brain/context into files cleanly,
+- how to keep local files and URL/public files aligned,
+- what not to expose to future mules/assistants because it is not task-relevant.
+
+5. NEXT_ACTION_RECOMMENDATION.md
+
+Give:
+- one best next move,
+- at most two alternate moves,
+- what remains blocked,
+- proof required before save/promotion,
+- whether ACTIVE_ANCHOR, CURRENT_WORK_QUEUE, CURRENT_HOUSE_WORK_STATUS, or mule role rule should be updated,
+- whether another mule pass is needed or not.
+
+Optional support files may be added only if necessary. Do not create junk files.
+
+================================================================================
+10. STYLE
+================================================================================
+
+Be blunt.
+
+Do not flatter.
+
+Do not use vague "consider improving" language when a concrete fix is visible.
+
+Use direct verdicts:
+- PASS
+- PASS WITH GUARDRAILS
+- PARTIAL
+- FAIL
+- INVALID
+- BLOCKED
+- NEEDS PROOF
+- PARK
+
+Separate evidence from inference.
+
+If unsure, say exactly what evidence would settle it.
+
+================================================================================
+11. FINAL MULE-USE VERDICT REQUIRED
+================================================================================
+
+At the end, answer:
+
+Should the mule be used again immediately?
+
+Allowed answers:
+
+- NO — house should apply/test current fixes first.
+- YES — one more bounded pass is justified because [specific reason].
+- BLOCKED — cannot decide until [specific proof].
+- NOT-YET — park mule until [specific condition].
+
+Do not recommend another mule pass just because more review could always be done.
+
+================================================================================
+12. FINAL REMINDER
+================================================================================
+
+The mule helps sharpen the house.
+
+The mule does not become the house.

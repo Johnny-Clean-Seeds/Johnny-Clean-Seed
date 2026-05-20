@@ -3032,3 +3032,27 @@ Boundary:
 - No /system.
 - No automation, dashboard, knowledge graph, or full lesson index.
 - No PROOF_HISTORY restructuring.
+## Mule Workshop Active Packet Placement
+
+Status: SAVED
+Date: 2026-05-20
+Base before placement: 40bf39ce899d9e34b4284ec9ce9cd3b359a16cb2
+
+Placed:
+- HOUSE_WORK/WORK_SHED/MULE_WORKSHOP/ACTIVE_DESK/MULE_FILE_ACTIVE_20260520_001.txt
+- PROOF_HISTORY/MULE_WORKSHOP_ACTIVE_PACKET_PLACEMENT_RECEIPT_20260520.txt
+
+Meaning:
+- Mule workshop was previously only PARTIAL because the active packet was missing.
+- Active packet is now placed in the mule desk.
+- Mule remains bounded and not an endless/default cycle.
+
+Boundary:
+- No mule pass run.
+- No mule output created.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX rewrite.
+- No tool/checker/Soft Suit promotion.
+- No runtime build.
+- No /system.
