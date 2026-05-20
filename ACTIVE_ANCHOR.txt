@@ -1,28 +1,32 @@
 CURRENT MR.KLEEN POSITION
 
-After Handoff Safe Save Method lock.
+After Boss/Ghost TODO Board Triage Map plus downloaded ps1 resolver/source-validation fix.
 
 Base before save:
-b7289e2c4347c3094022b7bd3815214356cf64ff
+57b58e60f967978553dee7103cbff05ad64d9e5c
 
 Current ball:
-- Future handoff assistants have a saved safe save method card.
-- Long Mr.Kleen save scripts should use Code Cabinet and downloadable ps1 delivery.
-- Downloaded ps1 run commands should include process-scope execution-policy bypass and parser/lint check before execution when possible.
-- Partial failures before commit require narrow expected-dirty-path recovery.
-- PowerShell delivery/lint weakness is now captured as handoff method, not just a one-off fix.
+- Boss/Ghost Rule-Firing Cycle Flow was worked as a map/disposition pass.
+- TODO board flat-list risk is now mapped into parent boss groups.
+- Parent Boss A remains Rule Activation / Work-Order Control.
+- Downloaded ps1 run method now requires a resolver, parser check, then run.
+- Save scripts should avoid brittle exact source-text validation.
+- PowerShell Delivery Lint and Handoff Safe Save Method are patched with this fix.
+- Next route must still be selected by weakest-link proof from the map.
 
 Next allowed move:
-- Continue TODO weakest-link triage on remaining open TODOs.
-- Use the handoff safe save method for future long scripts.
+- Continue TODO weakest-link triage using the boss/ghost map.
+- Let proof select the next top route.
+- Use the resolver run shape for future downloaded ps1 files.
 - Use quiet source-note proof for notes.
 - Use Artifact Self-Check for created/sent artifacts.
 
 Blocked moves:
-- Do not use giant unsafe chat-copy PowerShell when delivery errors have repeated.
-- Do not put prose or Markdown fence text into PowerShell copy material.
-- Do not rerun blindly after partial failure.
-- Do not promote this into automation/runtime/tooling.
+- Do not treat the map as authority.
+- Do not repair every boss from the map.
+- Do not bypass ACTIVE_ANCHOR.
+- Do not hardcode only Downloads exact-name ps1 paths.
+- Do not use brittle exact source-text checks against old/source files.
 - Do not install doctrine.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.

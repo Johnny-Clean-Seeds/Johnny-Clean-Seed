@@ -111,3 +111,23 @@ Standard run-command shape:
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force; $p="$env:USERPROFILE\Downloads\FILE.ps1"; $t=$null; $e=$null; [System.Management.Automation.Language.Parser]::ParseFile($p,[ref]$t,[ref]$e) | Out-Null; if($e.Count){$e | Format-List | Out-String | Write-Host; throw "Parser errors in downloaded script"}; & $p
 
 If a script fails before commit, recover narrowly from expected dirty paths only.
+
+---
+
+## 2026-05-20 - Non-Brittle Source Validation Patch
+
+Delivery lint now includes two added checks:
+
+1. Use a downloaded-script resolver before parser-checking.
+2. Do not require brittle exact source phrases from existing files.
+
+Old/source files:
+- existence;
+- readable UTF-8;
+- nonempty;
+- no NUL;
+- no replacement characters;
+- no obvious placeholders.
+
+Current-run artifacts:
+- exact required text checks allowed.

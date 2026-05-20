@@ -73,3 +73,29 @@ When adding future TODO items:
 This TODO file does not start work by itself.
 
 It only supports future selection and prevents flat-list drift.
+
+---
+
+## 2026-05-20 - Boss/Ghost TODO Board Triage Map
+
+Status: MAP PRODUCED / NO BROAD REPAIR.
+
+Saved map:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\BOSS_GHOST_TODO_BOARD_TRIAGE_MAP_20260520.md
+
+Meaning:
+- TODO board was grouped into parent boss families;
+- child/ghost items were placed under larger seams;
+- flat-list risk was addressed by map/disposition only;
+- no whole-house reorder occurred.
+
+Boundary:
+- no doctrine;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no dashboard;
+- no automation;
+- no runtime;
+- no knowledge graph;
+- no full lesson index;
+- no repair-every-boss action.

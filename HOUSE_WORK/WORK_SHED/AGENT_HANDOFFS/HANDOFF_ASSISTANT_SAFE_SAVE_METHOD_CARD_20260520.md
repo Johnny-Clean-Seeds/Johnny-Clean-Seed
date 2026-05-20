@@ -53,3 +53,17 @@ It is not an active guide.
 It is not CURRENT_TRUTH_INDEX.
 
 It is not automation or runtime.
+
+---
+
+## 2026-05-20 - Resolver Run Command Patch
+
+For downloaded ps1 files, use a resolver command:
+
+- search expected locations;
+- accept browser-renamed copies;
+- print FOUND SCRIPT path;
+- parser-check the resolved path;
+- run the resolved path.
+
+Do not use hardcoded Downloads exact-path commands as the only route.

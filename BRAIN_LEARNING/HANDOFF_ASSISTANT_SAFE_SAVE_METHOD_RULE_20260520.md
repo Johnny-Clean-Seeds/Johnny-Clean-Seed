@@ -69,3 +69,19 @@ This rule does not create runtime.
 This rule does not promote scripts to tools.
 
 It is a handoff/save-method safety rule.
+
+---
+
+## 2026-05-20 - Downloaded ps1 Resolver and Source Validation Patch
+
+Downloaded ps1 commands must resolve the file before parser-checking.
+
+Do not assume the file is only at Downloads with an exact filename.
+
+Use a resolver that searches expected locations and accepts browser-renamed copies such as (1).
+
+Save scripts should not use brittle exact-text checks against existing source files.
+
+Source file checks should prove custody/readability/nonempty/no obvious corruption.
+
+Exact text checks should be reserved for artifacts created or patched by the current script.

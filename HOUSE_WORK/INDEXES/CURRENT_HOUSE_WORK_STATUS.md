@@ -4008,3 +4008,50 @@ Boundary:
 
 Next move:
 - continue TODO weakest-link triage on remaining open TODOs.
+
+
+---
+
+## 2026-05-20 - Boss/Ghost TODO Board Triage Map plus Delivery Fix
+
+Status: PASS WITH GUARDRAILS / MAP PLUS DELIVERY-FIX PATCH.
+
+Base before save:
+57b58e60f967978553dee7103cbff05ad64d9e5c
+
+Saved:
+HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\BOSS_GHOST_TODO_TRIAGE_MAP_INSTANTIATION_20260520.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\BOSS_GHOST_TODO_BOARD_TRIAGE_MAP_20260520.md
+BRAIN_LEARNING\DOWNLOADED_PS1_RESOLVER_AND_SOURCE_VALIDATION_RULE_20260520.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\DOWNLOADED_PS1_RESOLVER_SOURCE_VALIDATION_FIX_20260520.md
+PROOF_HISTORY\BOSS_GHOST_TODO_TRIAGE_MAP_AND_DELIVERY_FIX_RECEIPT_20260520.txt
+
+Updated:
+HOUSE_WORK\TODO\BOSS_GHOST_RULE_FIRING_CYCLE_FLOW_TODO_20260520.md
+HOUSE_WORK\TODO\TODO_CONTROL_BOARD_20260518.md
+BRAIN_LEARNING\HANDOFF_ASSISTANT_SAFE_SAVE_METHOD_RULE_20260520.md
+HOUSE_WORK\WORK_SHED\AGENT_HANDOFFS\HANDOFF_ASSISTANT_SAFE_SAVE_METHOD_CARD_20260520.md
+BRAIN_LEARNING\POWERSHELL_COPY_DELIVERY_LINT_AND_SCRIPT_EXECUTION_RULE_20260520.md
+HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\MR_KLEEN_SAVE_PACKAGE_SKELETON_20260520.md
+ACTIVE_ANCHOR.txt
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+- Boss/Ghost top route was worked as a map/disposition pass;
+- TODO flat-list risk was mapped into parent boss groups;
+- child/ghost TODOs were grouped under larger seams;
+- V1 stopped safely before writing because of brittle exact source-text validation;
+- V2 proved the need for a downloaded ps1 resolver and then stopped safely before writing because source regex validation was still brittle;
+- V3 removed brittle source text validation, kept generated-artifact validation, and saved the resolver/source-validation patch;
+- no broad repair or whole-house reorder occurred.
+
+Boundary:
+- no doctrine install;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no dashboard/automation/runtime/knowledge graph/full lesson index;
+- no repair-every-boss action;
+- no script promotion.
+
+Next move:
+- continue TODO weakest-link triage using the boss/ghost map.

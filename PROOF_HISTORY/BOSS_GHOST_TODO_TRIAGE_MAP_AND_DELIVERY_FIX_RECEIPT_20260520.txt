@@ -1,0 +1,100 @@
+# Boss/Ghost TODO Triage Map and Delivery Fix Receipt
+
+Date: 2026-05-20
+
+## Result
+
+PASS WITH GUARDRAILS / MAP PLUS DELIVERY-FIX PATCH.
+
+## Base Before Save
+
+Branch: main
+HEAD before save: 57b58e60f967978553dee7103cbff05ad64d9e5c
+origin/main before save: 57b58e60f967978553dee7103cbff05ad64d9e5c
+
+## V1 / V2 Stops
+
+V1 stopped safely before writing because an exact text source check was too brittle.
+
+V2 proved the downloaded ps1 resolver was needed because the browser-created copy had a renamed path.
+
+V2 then stopped safely before writing because source regex validation was still too brittle.
+
+## Files
+
+- HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\BOSS_GHOST_TODO_TRIAGE_MAP_INSTANTIATION_20260520.md | bytes=1220 | sha256=836100066550E4814D1ECB04ACFAADF53060B44FDFB9D12652372AB65F1497C0
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\BOSS_GHOST_TODO_BOARD_TRIAGE_MAP_20260520.md | bytes=5586 | sha256=CF97CC2F68E87D1EA84B27F00A69375D61B05F4996259809BBE6606D5C534DAC
+- BRAIN_LEARNING\DOWNLOADED_PS1_RESOLVER_AND_SOURCE_VALIDATION_RULE_20260520.md | bytes=2411 | sha256=5C4336110A9AA5E0F8F0984412C4BE475423084CBDF214408E5AFE1AD7B3028D
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\DOWNLOADED_PS1_RESOLVER_SOURCE_VALIDATION_FIX_20260520.md | bytes=1074 | sha256=15E2C648617BB3DD53BFE0C661FCDAF16AABDF112B11294F813743DFCEAD0965
+- HOUSE_WORK\TODO\BOSS_GHOST_RULE_FIRING_CYCLE_FLOW_TODO_20260520.md | bytes=3494 | sha256=04EFEF7DD64B243BBD346FB3A8834E26C0ACC705B5FD7465254C5B4CFA66C09F
+- HOUSE_WORK\TODO\TODO_CONTROL_BOARD_20260518.md | bytes=9275 | sha256=3BBE03C2FD737DD87F674C88F2CBB3FF1106DED73C7F4BBFC72B28BE94FA0152
+- BRAIN_LEARNING\HANDOFF_ASSISTANT_SAFE_SAVE_METHOD_RULE_20260520.md | bytes=2929 | sha256=23E4C0C8D7579D873AE9E0D79AF7A8D5990DBF3F75755178791E20D1F83F276F
+- HOUSE_WORK\WORK_SHED\AGENT_HANDOFFS\HANDOFF_ASSISTANT_SAFE_SAVE_METHOD_CARD_20260520.md | bytes=1834 | sha256=D347C825EE91A427775221AAAC0035F51042C4B3F215758CF285D5AE1A0FC85C
+- BRAIN_LEARNING\POWERSHELL_COPY_DELIVERY_LINT_AND_SCRIPT_EXECUTION_RULE_20260520.md | bytes=3584 | sha256=FF6DB57E710ECD663D0F650E2F036E4FC088C25D78F80ADCFA479B533DA50613
+- HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\MR_KLEEN_SAVE_PACKAGE_SKELETON_20260520.md | bytes=3344 | sha256=59E7EC960F88E71092B0A93EE637DC8D9E3757C41CF799B82926165B20EF10C0
+- ACTIVE_ANCHOR.txt | bytes=1409 | sha256=7F25CC6422825B2EB8A8ECB5E74BAD7A538FAF7A045D1607EEAD0DE7A7E57815
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md | bytes=130210 | sha256=0127F72B4FC70EA8FE89FA509DCB43181312B87C663C2478B9C14C822EF0CF4C
+
+## Meaning
+
+Boss/Ghost Rule-Firing Cycle Flow was worked as the proof-ranked next route.
+
+The output is a TODO-board boss/ghost triage map, not a broad repair.
+
+The safe save method is also patched so future downloaded ps1 commands use a resolver and future save scripts avoid brittle source text checks.
+
+## Boundary
+
+No doctrine install.
+
+No active guide rewrite.
+
+No CURRENT_TRUTH_INDEX rewrite.
+
+No dashboard.
+
+No automation.
+
+No runtime.
+
+No knowledge graph.
+
+No full lesson index.
+
+No repair-every-boss action.
+
+No script promotion.
+
+The map does not bypass ACTIVE_ANCHOR.
+
+## Artifact Self-Check
+
+This save created and checked a real Mr.Kleen artifact package.
+
+Checks performed:
+
+- target files did not already exist before writing;
+- required inputs existed and were readable;
+- source files were validated for custody/readability, not brittle exact phrasing;
+- generated artifacts were checked for required phrases;
+- files were readable UTF-8 text;
+- files were nonempty;
+- no NUL bytes;
+- no Unicode replacement characters;
+- no placeholder markers;
+- branch main;
+- HEAD equals origin/main before save;
+- clean status before save;
+- final commit/push/fetch requires HEAD equals origin/main and status clean.
+
+## Proof Limit
+
+This receipt proves the map/disposition pass and delivery-method patch.
+
+It does not close all TODOs.
+
+It does not prove the remaining TODO board has been fully triaged.
+
+It does not promote the map to authority.
+
+It does not promote a script to tool.

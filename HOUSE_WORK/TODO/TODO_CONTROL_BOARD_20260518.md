@@ -389,3 +389,24 @@ Meaning:
 
 Next:
 - continue TODO weakest-link triage on remaining open TODOs.
+
+---
+
+## 2026-05-20 - Boss/Ghost TODO Map Completed
+
+Status: MAP ONLY / PASS WITH GUARDRAILS.
+
+Meaning:
+- Boss/Ghost Rule-Firing Cycle Flow was worked as a map/disposition pass;
+- TODO items are now grouped into parent boss families for future proof-ranked routing;
+- PowerShell delivery lint remains worked;
+- Handoff safe save method remains locked;
+- downloaded ps1 resolver/source-validation patch is now saved;
+- next route must still be selected by weakest-link proof, not hand-pick.
+
+Map:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\BOSS_GHOST_TODO_BOARD_TRIAGE_MAP_20260520.md
+
+Next:
+- continue TODO weakest-link triage from the map;
+- do not repair every boss from the board alone.

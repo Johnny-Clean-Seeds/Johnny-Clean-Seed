@@ -129,3 +129,17 @@ For handoff-ready long save scripts, add this before final send:
 - no prose or Markdown fence text in PowerShell input;
 - recovery path must allow only expected dirty paths;
 - final proof must show HEAD equals origin/main and status clean.
+
+---
+
+## 2026-05-20 - Resolver and Source Validation Step
+
+For future long ps1 saves:
+
+- deliver as downloadable ps1;
+- run with file resolver;
+- parser-check resolved path;
+- avoid brittle source exact-text validation;
+- reserve exact checks for generated/patched artifacts;
+- stop before writes on dirty repo;
+- final proof must show HEAD equals origin/main and status clean.
