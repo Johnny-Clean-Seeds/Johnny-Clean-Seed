@@ -1,0 +1,80 @@
+# Code Cabinet / Bridge Method Rule
+
+Date: 2026-05-20
+
+## Status
+
+ACTIVE BEHAVIOR RULE.
+
+## Problem
+
+Long PowerShell/save scripts have been too often generated as giant one-off cousin scripts.
+
+That creates risk:
+
+- stale assumptions;
+- repeated helper code drift;
+- proof claims that do not match timing;
+- source-custody overclaim;
+- too much screen/copy burden;
+- no reusable bridge for future saves.
+
+## Rule
+
+Before sending a long code artifact, the assistant must use a Code Cabinet / bridge method.
+
+The working pattern is:
+
+saved skeleton -> task instantiation -> task variables -> content blocks -> proof blocks -> artifact self-check -> final copy block
+
+## Required Behavior
+
+For long code, the assistant must identify:
+
+1. Workflow family.
+2. Skeleton or closest cousin.
+3. Task-specific variables.
+4. Files to create.
+5. Files to update.
+6. Required inputs.
+7. Boundaries.
+8. Proof checks.
+9. Artifact Self-Check conditions.
+10. Final claim.
+
+## Skeleton Rule
+
+If no suitable skeleton exists and the task family is recurring, create a skeleton in the Gear Rack / Code Cabinet.
+
+A skeleton is not a runtime tool.
+
+A skeleton is not doctrine.
+
+A skeleton is a reusable construction bridge.
+
+## Bridge Rule
+
+A code bridge must make the long script easier to assemble and audit.
+
+It should separate:
+
+- preflight;
+- paths;
+- content blocks;
+- validation;
+- updates;
+- receipt;
+- git save;
+- final proof.
+
+## Boundary
+
+This rule does not install automation.
+
+It does not create runtime.
+
+It does not promote scripts to tools.
+
+It does not rewrite active guides.
+
+It does not rewrite CURRENT_TRUTH_INDEX.

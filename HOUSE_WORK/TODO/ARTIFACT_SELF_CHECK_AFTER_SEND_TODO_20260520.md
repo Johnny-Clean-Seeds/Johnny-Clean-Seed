@@ -88,3 +88,34 @@ Boundary:
 - no active guide rewrite;
 - no doctrine;
 - no CURRENT_TRUTH_INDEX rewrite.
+
+---
+
+## 2026-05-20 — Code Cabinet Source Note Quiet Self-Proof / Artifact Self-Check First Live Use
+
+Status: PASS WITH GUARDRAILS AS FIRST LIVE USE.
+
+Artifact package checked:
+- Code Cabinet rule;
+- save package skeleton;
+- skeleton instantiation;
+- source note source-ore transcript;
+- quiet self-proof behavior rule;
+- disposition note;
+- live-use TODO;
+- artifact self-check proof note;
+- receipt after writing.
+
+Checks:
+- exists;
+- readable UTF-8 text;
+- nonempty;
+- no NUL;
+- no replacement characters;
+- no placeholder markers;
+- required phrases verified;
+- final git proof required clean synced state.
+
+Disposition:
+- Artifact Self-Check fired successfully on a real Mr.Kleen artifact package.
+- TODO remains open for more varied future artifacts.

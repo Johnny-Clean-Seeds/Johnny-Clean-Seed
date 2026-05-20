@@ -1,33 +1,31 @@
 CURRENT MR.KLEEN POSITION
 
-After Compose-Review-Reflect-Capture Second Live Use 002.
+After Code Cabinet / Source Note Quiet Self-Proof / Artifact Self-Check first live use.
 
 Base before save:
-b3b60e774eba518f5c2cfa2db4492d78d667411e
+f67327ba643fa41bd308c4a59dfd75d4f96a8e80
 
 Current ball:
-- Compose-Review-Reflect-Capture has a second live-use proof.
-- Second use proves assistant-originated synthesis can trigger capture.
-- Artifact Self-Check remains open because no real file/package artifact was checked.
-- No promotion occurred.
-
-Meaning:
-- The model generated useful structure.
-- The model noticed the structure.
-- The structure was routed to Sorting Bench and TODO proof.
-- Premature injection and promotion were avoided.
+- Code Cabinet / bridge method saved.
+- Mr.Kleen save package skeleton saved in Gear Rack / Code Cabinet.
+- Pressure note source ore transcript preserved.
+- Source Note Quiet Self-Proof / Capture-Disposition rule saved.
+- Artifact Self-Check fired on a real Mr.Kleen created artifact package.
+- Artifact Self-Check has PASS WITH GUARDRAILS first live use, but remains open for varied artifacts.
+- Compose-Review-Reflect-Capture remains in live-use watch.
 
 Next allowed move:
 - Continue normal work.
-- Use Compose-Review-Reflect-Capture on significant responses, prompts, handoffs, long code, and unloads.
-- Use Artifact Self-Check on the next created/sent user-facing file/package/artifact.
-- Do not promote Compose-Review-Reflect-Capture yet.
+- For future long scripts, use Code Cabinet skeleton/instantiation method.
+- When user provides notes, quietly run source-note self-proof before answering.
+- When creating/sending artifacts, run Artifact Self-Check before calling ready.
+- Do not promote from this one package alone.
 
 Blocked moves:
-- Do not close Artifact Self-Check from this event.
-- Do not promote Compose-Review-Reflect-Capture yet.
+- Do not install doctrine.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.
-- Do not install doctrine.
+- Do not promote mottos.
+- Do not rebuild mule workshop from this note alone.
 - Do not split Soft Suits.
 - Do not create dashboard, automation, runtime, knowledge graph, or full lesson index.

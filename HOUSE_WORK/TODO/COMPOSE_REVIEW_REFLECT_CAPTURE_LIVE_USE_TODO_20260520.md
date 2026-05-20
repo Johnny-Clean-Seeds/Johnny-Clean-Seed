@@ -118,3 +118,32 @@ Injection decision:
 
 Watch remains open:
 - more varied live uses needed before promotion.
+
+---
+
+## 2026-05-20 — Code Cabinet Source Note Quiet Self-Proof / Artifact Self-Check First Live Use
+
+Status: PASS WITH GUARDRAILS.
+
+Meaning:
+- user pressure note was treated as real source material;
+- already-captured parts were identified;
+- uncaptured quiet self-proof behavior was saved;
+- source ore transcript was preserved;
+- Code Cabinet / bridge method was installed and used;
+- no premature injection occurred.
+
+Routed:
+- BRAIN_LEARNING\CODE_CABINET_BRIDGE_METHOD_RULE_20260520.md
+- HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\MR_KLEEN_SAVE_PACKAGE_SKELETON_20260520.md
+- HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\SOURCE_NOTE_SELF_PROOF_SAVE_INSTANTIATION_20260520.md
+- SOURCE_ORE\PRESSURE_NOTES\CAN_U_FEEL_THE_PRESSURE_SOURCE_ORE_20260520.md
+- BRAIN_LEARNING\SOURCE_NOTE_QUIET_SELF_PROOF_CAPTURE_DISPOSITION_RULE_20260520.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\SOURCE_NOTE_PRESSURE_CAPTURE_TEST_DISPOSITION_20260520.md
+- HOUSE_WORK\TODO\SOURCE_NOTE_SELF_PROOF_CAPTURE_DISPOSITION_LIVE_USE_TODO_20260520.md
+
+Boundary:
+- no doctrine;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no promotion.
