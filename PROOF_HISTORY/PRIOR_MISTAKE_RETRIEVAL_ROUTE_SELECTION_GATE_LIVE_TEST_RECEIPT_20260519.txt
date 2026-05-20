@@ -1,0 +1,41 @@
+PRIOR-MISTAKE RETRIEVAL ROUTE SELECTION GATE LIVE TEST RECEIPT
+
+Date:
+2026-05-19
+
+Base:
+main @ f177584
+
+Inputs:
+HOUSE_WORK\WORK_SHED\GEAR_RACK\SOFT_SUIT_CANDIDATES\PRIOR_MISTAKE_RETRIEVAL_ROUTE_SELECTION_GATE_SOFT_SUIT_20260519.md
+HOUSE_WORK\WORK_SHED\GEAR_RACK\SOFT_SUIT_CANDIDATES\PRIOR_MISTAKE_LESSON_TAG_TEMPLATE_CANDIDATE_20260519.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\PREDICTIVE_LEARNING_MULE_RETURN_CLASSIFICATION_20260519.md
+
+Saved:
+HOUSE_WORK\WORK_SHED\GEAR_RACK\LIVE_TESTS\PRIOR_MISTAKE_RETRIEVAL_ROUTE_SELECTION_GATE_LIVE_TEST_20260519.md
+
+Verdict:
+PASS WITH WATCH.
+
+Result:
+The Soft Suit selected the smaller safe route:
+- test the card now,
+- do not build the full lesson index yet,
+- do not build automation,
+- do not promote,
+- do not rewrite active guides.
+
+Boundary:
+Live behavior test only.
+No doctrine rewrite.
+No active guide rewrite.
+No CURRENT_TRUTH_INDEX change.
+No tool promotion.
+No automation.
+No full lesson index.
+No knowledge graph.
+No dashboard.
+No Hard Suit promotion.
+
+Next move:
+Hold as tested candidate. Use it on the next real route-choice situation before considering promotion.

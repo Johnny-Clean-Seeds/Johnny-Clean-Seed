@@ -2797,3 +2797,30 @@ Boundary:
 
 Next move:
 - Run one real test of the Soft Suit against a route-choice situation.
+
+## 2026-05-19 - Prior-Mistake Retrieval Route Selection Gate live test
+
+Base: main @ f177584.
+
+Saved:
+- HOUSE_WORK\WORK_SHED\GEAR_RACK\LIVE_TESTS\PRIOR_MISTAKE_RETRIEVAL_ROUTE_SELECTION_GATE_LIVE_TEST_20260519.md
+- PROOF_HISTORY\PRIOR_MISTAKE_RETRIEVAL_ROUTE_SELECTION_GATE_LIVE_TEST_RECEIPT_20260519.txt
+
+Verdict:
+- PASS WITH WATCH.
+- The Soft Suit selected the smaller safe route and blocked premature lesson-index / automation / doctrine movement.
+
+Boundary:
+- Live behavior test only.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX change.
+- No tool promotion.
+- No automation.
+- No full lesson index.
+- No knowledge graph.
+- No dashboard.
+- No Hard Suit promotion.
+
+Next move:
+- Hold as tested candidate. Use it on the next real route-choice situation before considering promotion.
