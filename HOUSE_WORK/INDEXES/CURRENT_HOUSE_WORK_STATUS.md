@@ -2739,3 +2739,32 @@ Boundary:
 
 Next move:
 - Read MANIFEST.md and REVIEW_REPORT.md, then classify recommendations before adoption.
+
+## 2026-05-19 - Predictive learning mule return classification
+
+Base: main @ 2036d05.
+
+Input:
+- HOUSE_WORK\WORK_SHED\AGENT_OUTPUTS\PREDICTIVE_LEARNING_AND_MULE_FLOW_RETURN_20260519_001
+
+Saved:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\PREDICTIVE_LEARNING_MULE_RETURN_CLASSIFICATION_20260519.md
+- PROOF_HISTORY\PREDICTIVE_LEARNING_MULE_RETURN_CLASSIFICATION_RECEIPT_20260519.txt
+
+Verdict:
+- PASS AS CLASSIFICATION.
+- Adopt name correction: Prior-Mistake Retrieval And Route Selection Gate.
+- Test only as Soft Suit next.
+- Park larger systems.
+- Reject active automation/promotion/doctrine changes.
+
+Boundary:
+- Classification only.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX change.
+- No tool promotion.
+- No integration yet.
+
+Next move:
+- Create one Soft Suit card and one lightweight tag template candidate.
