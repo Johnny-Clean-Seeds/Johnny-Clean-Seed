@@ -1,24 +1,21 @@
 CURRENT MR.KLEEN POSITION
 
-After Whole-House Double-Pass Mule Critique Soft Suit adoption.
+After Growth Cycle mule review return raw intake.
 
 Current ball:
-- Whole-House Double-Pass Mule Critique return is adopted as one Soft Suit working unit.
-- It is usable as a critique/work lens.
-- It is not doctrine.
-- It is not an active guide.
-- It is not CURRENT_TRUTH_INDEX.
-- No individual gate was installed.
+- Growth Cycle mule review return has been copied into Mr.Kleen AGENT_OUTPUTS.
+- All 6 required output files were present, readable, hash-matched against the mule report, copied, and re-hash-verified.
+- Intake is evidence custody only.
 
 Next allowed move:
-- Wear the Soft Suit as one unit on the next appropriate current-boss or whole-house decision.
-- Test whether it improves work.
-- Do not split into gates until the unit proves a stable shape.
+- Read and disposition Growth Cycle mule review return.
+- Decide ACCEPT / ADAPT / PARK / BLOCK / NEEDS-PROOF.
+- Decide from proof whether this is a new Whole-House Soft Suit triggered event.
 
 Blocked moves:
-- Do not adopt mule recommendations as doctrine from this adoption.
+- Do not adopt mule recommendations from intake alone.
+- Do not split the Soft Suit into gates.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.
-- Do not promote individual gates yet.
+- Do not promote doctrine.
 - Do not install dashboard, automation, runtime, knowledge graph, or full lesson index.
-- Do not mix failed common-sense pending save into this lane.

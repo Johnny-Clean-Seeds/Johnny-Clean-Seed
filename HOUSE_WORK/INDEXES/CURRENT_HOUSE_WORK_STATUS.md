@@ -3565,3 +3565,37 @@ Boundary:
 - no CURRENT_TRUTH_INDEX rewrite;
 - no dashboard/automation/runtime/knowledge graph/full lesson index;
 - no common-sense pending save mixed into this adoption.
+
+---
+
+## 2026-05-20 — Growth Cycle Mule Review Return Raw Intake
+
+Status: PASS AS RAW RETURN INTAKE ONLY.
+
+Saved raw mule review return folder:
+
+HOUSE_WORK\WORK_SHED\AGENT_OUTPUTS\GROWTH_CYCLE_MULE_REVIEW_RETURN_20260520_001
+
+Receipt:
+
+PROOF_HISTORY\GROWTH_CYCLE_MULE_REVIEW_RETURN_INTAKE_RECEIPT_20260520.txt
+
+Meaning:
+- all 6 required mule output files were copied from Desktop source into Mr.Kleen;
+- source files matched mule-reported hashes;
+- source/destination hashes matched after copy;
+- intake preserved evidence only;
+- mule recommendations are not adopted yet;
+- Soft Suit trigger event is not marked yet.
+
+Next move:
+- read/disposition Growth Cycle mule return;
+- decide from proof whether this is a new Whole-House Soft Suit triggered event.
+
+Boundary:
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no doctrine promotion;
+- no gate extraction;
+- no Soft Suit split;
+- no dashboard/automation/runtime/knowledge graph/full lesson index.
