@@ -1,28 +1,27 @@
-ACTIVE BALL: Mule return intaken and saved; next move must be selected from disposition, not mule inertia.
+ACTIVE BALL: Receipt hygiene supersession note saved; next move must be selected cleanly.
 
-RECORDED BASE BEFORE SAVE: main @ c03ec16
+RECORDED BASE BEFORE SAVE: main @ 22152a9
 
 CURRENT PROVEN ITEMS:
-- Mule return folder exists at HOUSE_WORK/WORK_SHED/AGENT_OUTPUTS/MULE_FILE_REVIEW_RETURN_20260520_001.
-- Required return files are present.
-- Mule return verdict: PASS WITH GUARDRAILS.
-- Mule recommends NO immediate second mule pass.
-- Return package was saved as received.
-- Intake receipt was saved.
-- No fixes were implemented by this intake save.
+- Mule return was intaken and saved.
+- Mule identified receipt hygiene / blank-hash false PASS risk as the main next issue.
+- Receipt hygiene note now marks the older mule workshop desk install receipt as PARTIAL / SUPERSEDED for active-packet placement proof.
+- Later active packet placement receipt remains trusted for active-packet placement proof.
+- No proof history was rewritten or deleted.
+- No fixes beyond claim-scoped disposition were implemented.
 
 NEXT ALLOWED MOVE:
-- Choose one small next fix or candidate from the mule disposition.
-- Top candidates are receipt supersession/disposition note, packet-scoped mule start card, future packet top-block rule, or narrow queue header wording cleanup.
-- If the living-rules/root-words list remains selected, rerun task-scoped rule + neighbor search from this clean base before saving it.
+- Choose one next candidate from the saved disposition list.
+- Candidate options include packet-scoped mule start card, future packet top-block rule, narrow queue header wording cleanup, or living-rules/root-words list if still selected.
+- Before next task, run task-scoped rule + neighbor search.
 
 BLOCKED MOVES:
 - Do not run another mule pass by inertia.
 - Do not implement multiple fixes at once.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.
+- Do not restructure PROOF_HISTORY.
 - Do not promote tools/checkers/Soft Suits.
 - Do not build runtime/status-command.
 - Do not create /system.
 - Do not build automation, dashboard, knowledge graph, or full lesson index.
-- Do not restructure PROOF_HISTORY.

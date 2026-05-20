@@ -3095,3 +3095,36 @@ Boundary:
 - No automation, dashboard, knowledge graph, or full lesson index.
 - No PROOF_HISTORY restructuring.
 - No second mule pass.
+## Mule Workshop Receipt Hygiene Supersession Note
+
+Status: SAVED
+Date: 2026-05-20
+Base before save: main @ 22152a9
+
+Saved:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\MULE_WORKSHOP_RECEIPT_HYGIENE_SUPERSESSION_NOTE_20260520.md
+- PROOF_HISTORY\MULE_WORKSHOP_RECEIPT_HYGIENE_SUPERSESSION_NOTE_RECEIPT_20260520.txt
+
+Updated:
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+- Mule review's main next issue was receipt hygiene / blank-hash false PASS risk.
+- Earlier mule workshop desk install receipt is now claim-scoped as PARTIAL / SUPERSEDED for active-packet placement proof.
+- Later active packet placement receipt remains trusted for active-packet placement proof.
+- Mule return intake receipt remains trusted for mule return intake proof.
+- No proof history was rewritten or deleted.
+
+Boundary:
+- No PROOF_HISTORY restructuring.
+- No receipt deletion.
+- No receipt rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX rewrite.
+- No doctrine compression.
+- No runtime build.
+- No /system.
+- No tool/checker/Soft Suit promotion.
+- No automation, dashboard, knowledge graph, or full lesson index.
+- No second mule pass.
