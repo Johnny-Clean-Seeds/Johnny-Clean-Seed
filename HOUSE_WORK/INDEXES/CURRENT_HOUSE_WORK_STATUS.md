@@ -4138,3 +4138,36 @@ Boundary:
 
 Next move:
 - choose the next proof-ranked route using the unload map and Boss/Ghost map.
+
+---
+
+## 2026-05-20 - No Rule King / Better-Fit Promotion Clarification
+
+Status: PASS WITH GUARDRAILS / CLARIFICATION SAVE.
+
+Base before save: 81804ff744eee707a2b226ac4fa84ba31303e4fa
+
+Saved:
+BRAIN_LEARNING\NO_RULE_KING_BETTER_FIT_PROMOTION_RULE_20260520.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\NO_RULE_KING_BETTER_FIT_PROMOTION_CLARIFICATION_20260520.md
+HOUSE_WORK\TODO\NO_RULE_KING_BETTER_FIT_PROMOTION_LIVE_USE_TODO_20260520.md
+HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\NO_RULE_KING_BETTER_FIT_PROMOTION_INSTANTIATION_20260520.md
+PROOF_HISTORY\NO_RULE_KING_BETTER_FIT_PROMOTION_RECEIPT_20260520.txt
+
+Meaning:
+- no single rule is king of the house;
+- rules, tools, suits, concepts, and ideas must work together as neighbors;
+- new ideas/rules may supersede older ones only by better-fit proof;
+- old rules are not sacred by age alone;
+- new ideas are not promoted by excitement alone;
+- copy-continuity and anti-bloat checks still apply.
+
+Boundary:
+- no doctrine install;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no dashboard/automation/runtime/knowledge graph/full lesson index;
+- no promotion from this clarification alone.
+
+Next move:
+- continue choosing the next proof-ranked route using unload map and Boss/Ghost map.

@@ -1,0 +1,77 @@
+# No Rule King / Better-Fit Promotion Receipt
+
+Date: 2026-05-20
+
+## Result
+
+PASS WITH GUARDRAILS / CLARIFICATION SAVE.
+
+## Base Before Save
+
+Branch: main
+HEAD before save: 81804ff744eee707a2b226ac4fa84ba31303e4fa
+origin/main before save: 81804ff744eee707a2b226ac4fa84ba31303e4fa
+
+## Files
+
+- BRAIN_LEARNING\NO_RULE_KING_BETTER_FIT_PROMOTION_RULE_20260520.md | bytes=2385 | sha256=8AFB271B5B4007E98375C6118CD6FEFC8DC0443782A3BDFBC4D11827276FA15C
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\NO_RULE_KING_BETTER_FIT_PROMOTION_CLARIFICATION_20260520.md | bytes=1379 | sha256=514D14FD044386A049F81126F66F498FEC59DBB9BA7E1125D204FF934074F077
+- HOUSE_WORK\TODO\NO_RULE_KING_BETTER_FIT_PROMOTION_LIVE_USE_TODO_20260520.md | bytes=1021 | sha256=75319371F7D4D8136F0FBBE336B9C740022653B52D5A5272A784F070BC5D8772
+- HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\NO_RULE_KING_BETTER_FIT_PROMOTION_INSTANTIATION_20260520.md | bytes=733 | sha256=DC9405360BCE335E6C930E022915470BBBAFD90919DCB5182B64C1A4AF2263EE
+- ACTIVE_ANCHOR.txt | bytes=1136 | sha256=0BEE594CFE068F829F6AF5690653FA8EE2DCC5ED2D098969A6EDDED57561B1D8
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md | bytes=134229 | sha256=9807971E6E2715749D5D7E12489A7EAE04BA85B9D23DA2B65F2CB842266F7EDF
+
+## Meaning
+
+The house now has a saved clarification that no single rule is king.
+
+Rules, tools, suits, concepts, and ideas work as neighbors.
+
+A new item can supersede an older item only when better-fit proof shows core fit, lane fit, neighbor fit, non-bloat, stronger point-of-work behavior, copy-continuity, and clean authority boundary.
+
+## Boundary
+
+No doctrine install.
+
+No active guide rewrite.
+
+No CURRENT_TRUTH_INDEX rewrite.
+
+No dashboard.
+
+No automation.
+
+No runtime.
+
+No knowledge graph.
+
+No full lesson index.
+
+No promotion from this clarification alone.
+
+## Artifact Self-Check
+
+This save created and checked a real Mr.Kleen artifact package.
+
+Checks performed:
+
+- target files did not already exist before writing;
+- required inputs existed and were readable;
+- generated artifacts checked for required phrases;
+- files readable as UTF-8 text;
+- files nonempty;
+- no NUL bytes;
+- no Unicode replacement characters;
+- no placeholder markers;
+- branch main;
+- HEAD equals origin/main before save;
+- clean status before save;
+- final commit/push/fetch requires HEAD equals origin/main and status clean.
+
+## Proof Limit
+
+This receipt proves the clarification save.
+
+It does not promote a new doctrine.
+
+It does not close the live-use TODO.

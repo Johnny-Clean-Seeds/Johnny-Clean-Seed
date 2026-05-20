@@ -1,26 +1,26 @@
 CURRENT MR.KLEEN POSITION
 
-After Proven Suit / Tool / Idea Unload Map.
+After No Rule King / Better-Fit Promotion clarification.
 
-Base before save: e58584f0c10345195a4ffb7af70031dcacd0a4ce
+Base before save: 81804ff744eee707a2b226ac4fa84ba31303e4fa
 
 Current ball:
-- Proven suit concepts, tools, ideas, live-use watches, source ore, and support rules were unloaded into a saved map.
-- Candidate count: 204
-- Main map: HOUSE_WORK\WORK_SHED\SORTING_BENCH\PROVEN_SUIT_TOOL_IDEA_UNLOAD_MAP_20260520.md
-- Index: HOUSE_WORK\WORK_SHED\INDEXES\PROVEN_SUIT_TOOL_IDEA_UNLOAD_INDEX_20260520.md
-- This is a grouping/disposition map only.
-- No promotion, closure, doctrine, active guide rewrite, or CURRENT_TRUTH_INDEX rewrite occurred.
+- No single rule is king of the house.
+- Rules, tools, suits, concepts, ideas, maps, TODOs, and proof receipts must work as neighbors.
+- New items can supersede older items when proof shows better fit, lower bloat, cleaner neighbor behavior, and stronger point-of-work behavior.
+- Old rules are not sacred by age alone.
+- New ideas are not promoted by excitement alone.
 
 Next allowed move:
-- Use the unload map to choose the next proof-ranked route.
-- Continue TODO weakest-link triage using Boss/Ghost map if no direct unload route is selected.
-- Keep proven tools/rules as point-of-work support.
-- Keep Soft Suit items in proven/watch unless explicit promotion proof exists.
-- Keep source ore parked unless selected through adopt gate.
+- Continue choosing the next proof-ranked route using unload map and Boss/Ghost map.
+- Use the Better-Fit Promotion Gate when a newer item appears better than an older one.
 
 Blocked moves:
-- Do not promote from the unload map.
-- Do not close live-use watches from the unload map alone.
-- Do not merge source ore into doctrine.
+- Do not make any one rule king.
+- Do not promote from excitement alone.
+- Do not protect weaker old rules from better proof.
+- Do not delete useful prior meaning without copy-continuity.
+- Do not install doctrine.
+- Do not rewrite active guides.
+- Do not rewrite CURRENT_TRUTH_INDEX.
 - Do not create dashboard, automation, runtime, knowledge graph, or full lesson index.
