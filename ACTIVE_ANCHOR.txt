@@ -1,19 +1,20 @@
-ACTIVE BALL: Queue active-inertia wording clarified; next move must be selected cleanly.
+ACTIVE BALL: Packet top-block / read-order rule saved under Rule Activation / Work-Order Control.
 
-RECORDED BASE BEFORE SAVE: main @ 888984d
+RECORDED BASE BEFORE SAVE: main @ 2c1b14a
 
 CURRENT PROVEN ITEMS:
 - Control-state-first / boss-ghost / cycle-flow package is saved.
 - PowerShell paste / false-success guard is saved.
 - Mule short kickoff / packet-scoped start-card rule is saved.
-- Queue now states that no queue item becomes active by inertia.
-- Q-20260519-009 remains parked unless explicitly selected or ACTIVE_ANCHOR selects it later.
-- Boss/ghost sorting must be used before promoting a queue item.
-- No queue item was opened, closed, reordered, or rewritten by this cleanup.
+- Queue active-inertia wording cleanup is saved.
+- Packet top-block / read-order rule is now saved.
+- Future dense packets should expose task, control state, authority/lane, read order, output lane, hard bans, completion standard, and stop condition at the top.
+- No old packet rewrite was performed.
+- No mule pass was run.
 
 NEXT ALLOWED MOVE:
-- Continue to address remaining child issues only if selected.
-- Possible next candidates: future packet top-block rule, living-rules/root-words package refinement, or another explicitly selected child under Rule Activation / Work-Order Control.
+- Continue only with a selected child issue or a fresh user task.
+- Possible remaining candidate: living-rules/root-words package refinement, if still selected.
 - Before next task, run control-state-first and rule confirmation.
 
 BLOCKED MOVES:
@@ -21,6 +22,7 @@ BLOCKED MOVES:
 - Do not implement multiple fixes at once.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.
+- Do not rewrite old packets just to add top blocks.
 - Do not restructure PROOF_HISTORY.
 - Do not promote tools/checkers/Soft Suits.
 - Do not build runtime/status-command.

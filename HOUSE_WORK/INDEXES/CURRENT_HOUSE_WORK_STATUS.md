@@ -3301,3 +3301,38 @@ Boundary:
 - No automation, dashboard, knowledge graph, or full lesson index.
 - No PROOF_HISTORY restructuring.
 - No mule pass run.
+## Packet Top-Block / Read-Order Rule
+
+Status: SAVED
+Date: 2026-05-20
+Base before save: main @ 2c1b14a
+Parent Boss: Rule Activation / Work-Order Control
+
+Saved:
+- BRAIN_LEARNING\PACKET_TOP_BLOCK_AND_READ_ORDER_RULE_20260520.md
+- HOUSE_WORK\WORK_SHED\TEMPLATES\PACKET_TOP_BLOCK_TEMPLATE_20260520.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\PACKET_TOP_BLOCK_DENSE_PACKET_DISSECTION_20260520.md
+- HOUSE_WORK\TODO\PACKET_TOP_BLOCK_DENSE_HANDOFF_TODO_20260520.md
+- PROOF_HISTORY\PACKET_TOP_BLOCK_AND_READ_ORDER_RULE_RECEIPT_20260520.txt
+
+Updated:
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+- Dense packet entry friction is saved as a child issue under Rule Activation / Work-Order Control.
+- Future dense packets should begin with a compact control-state top block.
+- The top block should expose task, authority/lane, read order, output lane, hard bans, completion standard, and stop condition before the body.
+- This rule does not rewrite old packets and does not create a dashboard.
+- No mule pass was run.
+
+Boundary:
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX rewrite.
+- No doctrine compression.
+- No old packet rewrite.
+- No runtime build.
+- No /system.
+- No tool/checker/Soft Suit promotion.
+- No automation, dashboard, knowledge graph, or full lesson index.
+- No PROOF_HISTORY restructuring.
