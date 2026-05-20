@@ -3474,3 +3474,32 @@ Boundary:
 - No dashboard, automation, runtime, knowledge graph, or full lesson index.
 - No broad whole-house review.
 - No motto-wheel doctrine promotion.
+## Filing Cabinet + Relation Method Home Save
+
+Status: SAVED
+Date: 2026-05-20
+Base before save: main @ 82f4e1d
+
+Saved:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\FILING_CABINET_RELATION_METHOD_HOME_DISSECTION_20260520.md
+- HOUSE_WORK\WORK_SHED\GEAR_RACK\FILING_CABINET_REUSABLE_WORKFLOW_TEMPLATE_METHOD_20260520.md
+- HOUSE_WORK\WORK_SHED\IDEA_BAG\RELATION_METHOD_ACROSS_THE_BOARD_LENS_CARD_20260520.md
+- HOUSE_WORK\TODO\FILING_CABINET_AND_RELATION_METHOD_LIVE_USE_TODO_20260520.md
+- PROOF_HISTORY\FILING_CABINET_RELATION_METHOD_HOME_RECEIPT_20260520.txt
+
+Updated:
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+- Filing Cabinet / Reusable Workflow Skeleton Method received a Gear Rack home.
+- Relation Method / Across-the-Board Relation Lens received an Idea Bag home.
+- A shared live-use TODO now tracks first proof for both.
+- Sorting Bench captured why these are across-the-board candidates, not deep-scan-only notes.
+
+Boundary:
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX rewrite.
+- No doctrine promotion.
+- No runtime/tool install.
+- No dashboard, automation, knowledge graph, or full lesson index.

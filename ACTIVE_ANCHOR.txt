@@ -1,23 +1,22 @@
-ACTIVE BALL: After-Fix Carryover Latch saved from mule disposition.
+ACTIVE BALL: Filing Cabinet and Relation Method candidates homed.
 
-BASE BEFORE SAVE: main @ 4e0b434
+BASE BEFORE SAVE: main @ 82f4e1d
 
 CURRENT PROVEN ITEMS:
-- Mule return was intaken raw at HOUSE_WORK\WORK_SHED\AGENT_OUTPUTS\RECURRING_NON_RECURSIVE_FAILURE_MULE_RETURN_20260520_001.
-- Mule disposition accepted: SAVE SMALL NOW.
-- Parent boss captured: Recursive Carryover / Point-of-Work Link Failure.
-- Parent rule saved: After-Fix Carryover Latch.
-- Child TODO saved: Artifact Self-Check After Send Gate.
-- Memory is not house capture unless explicitly scoped that way.
-- No broad system build adopted.
+- Filing Cabinet / Reusable Workflow Skeleton Method has a Gear Rack home.
+- Relation Method / Across-the-Board Relation Lens has an Idea Bag home.
+- Shared live-use TODO created.
+- Sorting Bench dissection saved.
+- These are candidates/support methods, not doctrine or active guides.
 
 NEXT ALLOWED MOVE:
-- Use the latch on the next meaningful fix/artifact.
-- Keep Soft Suit broader candidates held for later comparison.
-- Do not run another mule pass by inertia.
+- Upload/read the deep local house scan report if still needed.
+- On the next repeated local workflow, try Filing Cabinet before generating from scratch.
+- On the next across-the-board issue, run Relation Method before judging.
+- Keep After-Fix Carryover Latch active on meaningful fixes.
 
 BLOCKED:
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.
-- Do not build dashboard, automation, knowledge graph, runtime, or full lesson index.
-- Do not treat this save as proof that future behavior has already passed live use.
+- Do not promote these candidates without live-use proof.
+- Do not build dashboard, automation, runtime, knowledge graph, or full lesson index.
