@@ -3437,3 +3437,40 @@ Boundary:
 - No active guide rewrite.
 - No CURRENT_TRUTH_INDEX rewrite.
 - No dashboard, automation, knowledge graph, runtime, or full lesson index.
+## After-Fix Carryover Latch Save
+
+Status: SAVED
+Date: 2026-05-20
+Base before save: main @ 4e0b434
+
+Source:
+- HOUSE_WORK\WORK_SHED\AGENT_OUTPUTS\RECURRING_NON_RECURSIVE_FAILURE_MULE_RETURN_20260520_001
+
+Saved:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\RECURRING_NON_RECURSIVE_FAILURE_DISSECTION_20260520.md
+- BRAIN_LEARNING\AFTER_FIX_CARRYOVER_LATCH_RULE_20260520.md
+- HOUSE_WORK\TODO\ARTIFACT_SELF_CHECK_AFTER_SEND_TODO_20260520.md
+- PROOF_HISTORY\RECURRING_NON_RECURSIVE_FAILURE_CAPTURE_RECEIPT_20260520.txt
+
+Updated:
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Mule verdict accepted:
+- SAVE SMALL NOW.
+- Split into parent latch and child artifact TODO.
+
+Meaning:
+- Parent boss captured: Recursive Carryover / Point-of-Work Link Failure.
+- After-Fix Carryover Latch saved as BRAIN_LEARNING support behavior.
+- Artifact Self-Check After Send saved as TODO/live-use test case.
+- Memory Is Not House Capture, TODO Capture After User Rule Trigger, and No Close Until Carryover Disposition were adapted into the parent latch.
+- Broader Soft Suit candidates remain held/parked for later comparison.
+
+Boundary:
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX rewrite.
+- No doctrine compression.
+- No dashboard, automation, runtime, knowledge graph, or full lesson index.
+- No broad whole-house review.
+- No motto-wheel doctrine promotion.
