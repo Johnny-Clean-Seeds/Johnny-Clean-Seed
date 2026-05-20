@@ -442,3 +442,68 @@ Boundary:
 - no full lesson index;
 - no promotion.
 
+
+---
+
+## 2026-05-20 - Growth Substrate Sorting / MTER Mule Support TODO
+
+Status: OPEN / HOUSE-SIDE SOURCE READY / MULE NOT STARTED.
+
+Parent Boss:
+Rule Activation / Work-Order Control.
+
+Related Bosses:
+- Recursive Carryover / Point-of-Work Link Failure.
+- Growth / Candidate Maturity / Scaffold Exit.
+- Mule / Handoff Flow.
+
+TODO:
+HOUSE_WORK\TODO\GROWTH_SUBSTRATE_SORTING_MTER_MULE_SUPPORT_TODO_20260520.md
+
+Source files:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\MTER_DEBUG_HARNESS_CLEAN_FINAL_20260520.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\WHOLE_HOUSE_WALK_DIGESTION_STAGE_VERDICT_20260520.md
+- HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\ACTIVE_DESK\GROWTH_SUBSTRATE_SORTING_MULE_SOURCE_PACKET_20260520.md
+
+Meaning:
+The chat-held MTER debug harness and whole-house digestion-stage verdict are now preserved as house-side source material for the later growth-substrate sorting job.
+
+Boundary:
+This does not start mule.
+This does not promote MTER.
+This does not rewrite doctrine, ACTIVE_GUIDES, or CURRENT_TRUTH_INDEX.
+This does not create dashboard, runtime, automation, knowledge graph, or full lesson index.
+"
+
+@"
+# ACTIVE ANCHOR
+
+Recorded base after house-side tie-up:
+main @ pending save from 31f2ea4
+
+Current active ball:
+Growth-substrate sorting source packet is parked and ready for later mule-supported sorting.
+
+What just happened:
+The chat-held MTER clean final and whole-house digestion-stage verdict were saved into Mr.Kleen as source material.
+A support TODO and mule-ready source packet were created.
+The mule was not started.
+
+Next allowed move:
+When the user says to start the mule or start the sorting job, use the saved source packet:
+HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\ACTIVE_DESK\GROWTH_SUBSTRATE_SORTING_MULE_SOURCE_PACKET_20260520.md
+
+Until then:
+Hold this as parked support material.
+Do not force tests.
+Do not start mule by inertia.
+
+Blocked moves:
+- Do not rewrite doctrine.
+- Do not rewrite ACTIVE_GUIDES.
+- Do not rewrite CURRENT_TRUTH_INDEX.
+- Do not build dashboard, runtime, automation, knowledge graph, or full lesson index.
+- Do not bulldoze status/history.
+- Do not promote MTER from this save.
+- Do not treat the mule packet as a command to run mule.
+- Do not treat TODO/support surfaces as active command authority.

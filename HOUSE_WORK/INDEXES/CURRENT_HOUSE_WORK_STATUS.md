@@ -4660,3 +4660,104 @@ No ACTIVE_ANCHOR rewrite.
 No doctrine promotion.
 No dashboard/runtime/automation/knowledge graph/full lesson index.
 No mule pass by inertia.
+
+---
+
+## MTER / Whole-House Walk / Growth-Substrate Source Packet Tie-Up
+
+Status: SAVED AS HOUSE-SIDE SOURCE MATERIAL
+Date: 2026-05-20
+Base before save: 31f2ea4
+
+Saved:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\MTER_DEBUG_HARNESS_CLEAN_FINAL_20260520.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\WHOLE_HOUSE_WALK_DIGESTION_STAGE_VERDICT_20260520.md
+- HOUSE_WORK\TODO\GROWTH_SUBSTRATE_SORTING_MTER_MULE_SUPPORT_TODO_20260520.md
+- HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\ACTIVE_DESK\GROWTH_SUBSTRATE_SORTING_MULE_SOURCE_PACKET_20260520.md
+- PROOF_HISTORY\MTER_HOUSE_WALK_GROWTH_SUBSTRATE_SOURCE_PACKET_RECEIPT_20260520.txt
+- ACTIVE_ANCHOR.txt
+
+Meaning:
+The chat-held MTER debug harness and whole-house digestion-stage verdict were preserved without starting mule.
+
+Next:
+Use the saved mule source packet only when the user starts the growth-substrate sorting / mule-support job.
+
+Boundary:
+No mule pass started.
+No doctrine rewrite.
+No ACTIVE_GUIDES rewrite.
+No CURRENT_TRUTH_INDEX rewrite.
+No dashboard, runtime, automation, knowledge graph, or full lesson index.
+No MTER promotion.
+"
+
+     = (Get-FileHash -LiteralPath HOUSE_WORK\WORK_SHED\SORTING_BENCH\MTER_DEBUG_HARNESS_CLEAN_FINAL_20260520.md -Algorithm SHA256).Hash
+     = (Get-FileHash -LiteralPath HOUSE_WORK\WORK_SHED\SORTING_BENCH\WHOLE_HOUSE_WALK_DIGESTION_STAGE_VERDICT_20260520.md -Algorithm SHA256).Hash
+     = (Get-FileHash -LiteralPath HOUSE_WORK\TODO\GROWTH_SUBSTRATE_SORTING_MTER_MULE_SUPPORT_TODO_20260520.md -Algorithm SHA256).Hash
+     = (Get-FileHash -LiteralPath HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\ACTIVE_DESK\GROWTH_SUBSTRATE_SORTING_MULE_SOURCE_PACKET_20260520.md -Algorithm SHA256).Hash
+     = (Get-FileHash -LiteralPath HOUSE_WORK\TODO\TODO_CONTROL_BOARD_20260518.md -Algorithm SHA256).Hash
+     = (Get-FileHash -LiteralPath ACTIVE_ANCHOR.txt -Algorithm SHA256).Hash
+     = (Get-FileHash -LiteralPath HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md -Algorithm SHA256).Hash
+
+@"
+MTER / HOUSE-WALK / GROWTH-SUBSTRATE SOURCE PACKET RECEIPT
+Date: 2026-05-20T10:00:28.1798432-04:00
+
+Base before save:
+31f2ea415df0130e6124c8703973d884da170612
+
+Verdict:
+PASS WITH GUARDRAILS / HOUSE-SIDE SOURCE TIE-UP COMPLETE
+
+Saved source files:
+
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\MTER_DEBUG_HARNESS_CLEAN_FINAL_20260520.md
+SHA256:
+
+
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\WHOLE_HOUSE_WALK_DIGESTION_STAGE_VERDICT_20260520.md
+SHA256:
+
+
+HOUSE_WORK\TODO\GROWTH_SUBSTRATE_SORTING_MTER_MULE_SUPPORT_TODO_20260520.md
+SHA256:
+
+
+HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\ACTIVE_DESK\GROWTH_SUBSTRATE_SORTING_MULE_SOURCE_PACKET_20260520.md
+SHA256:
+
+
+Updated support files:
+
+HOUSE_WORK\TODO\TODO_CONTROL_BOARD_20260518.md
+SHA256:
+
+
+ACTIVE_ANCHOR.txt
+SHA256:
+
+
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+SHA256:
+
+
+Meaning:
+The chat-held MTER clean final and whole-house digestion-stage verdict were saved as source material.
+A growth-substrate sorting TODO was opened.
+A mule-ready source packet was placed for later use.
+The mule was not started.
+
+Boundary:
+No mule pass started.
+No mule output adopted.
+No doctrine rewrite.
+No ACTIVE_GUIDES rewrite.
+No CURRENT_TRUTH_INDEX rewrite.
+No dashboard.
+No runtime.
+No automation.
+No knowledge graph.
+No full lesson index.
+No MTER promotion.
+No broad status/history rewrite.
