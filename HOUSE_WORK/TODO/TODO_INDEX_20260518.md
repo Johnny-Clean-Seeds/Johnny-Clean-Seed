@@ -4,6 +4,9 @@ Status: ACTIVE SUPPORT INDEX
 Role: sorted TODO map
 Authority: support only; not command authority
 
+Current-control note:
+ACTIVE_ANCHOR.txt and the current user command select active work. Any older "Current Recommended" or item-level "Next action" wording in this index is historical support unless selected again by ACTIVE_ANCHOR.txt or current user command.
+
 ## Current Rule
 
 TODOs stored here are not commands.
@@ -138,7 +141,7 @@ Proof needed before save:
 - current recommended boss named
 - blocked repairs preserved
 
-## Current Recommended Next Boss
+## Historical Support Recommendation - Not Current Active Boss
 
 Boss 1:
 
@@ -261,3 +264,31 @@ SOURCE_ORE/TODO_METHOD_CANDIDATES_PARKED_20260518.md
 Rule:
 
 Raw input may be captured, but it cannot become structured TODO work, a boss candidate, an active boss, or a repair until it passes trace and triage.
+
+---
+
+## 2026-05-20 - Stale-Heading Demotion Repair
+
+Status: NARROW WORDING REPAIR / SUPPORT INDEX ONLY.
+
+Reason:
+This index contained a "Current Recommended Next Boss" section from an older route. The section can stay as historical context, but it must not sound like current command authority.
+
+Repair:
+- Added a current-control note under authority.
+- Demoted "Current Recommended Next Boss" to historical support wording.
+
+Current rule:
+ACTIVE_ANCHOR.txt and current user command select active work. This index is a sorted support map only.
+
+Boundary:
+- no doctrine;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no dashboard;
+- no automation;
+- no runtime;
+- no knowledge graph;
+- no full lesson index;
+- no promotion.
+

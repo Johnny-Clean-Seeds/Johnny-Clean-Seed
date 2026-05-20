@@ -4533,3 +4533,30 @@ No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no
 
 Next:
 Return to route selection under Rule-Firing Confirmation Card.
+
+---
+
+## 2026-05-20 - TODO control surface stale-heading repair
+
+Base before save: 392208c1965174d2a59252afff88cd00351cdd7d
+Base short: 392208c
+Status before save: clean
+
+Saved:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\TODO_CONTROL_SURFACE_STALE_HEADING_REPAIR_20260520.md
+- updated HOUSE_WORK\TODO\TODO_CONTROL_BOARD_20260518.md
+- updated HOUSE_WORK\TODO\TODO_INDEX_20260518.md
+- updated ACTIVE_ANCHOR.txt
+- updated this status file
+
+Verdict:
+PASS as narrow stale-heading repair.
+
+Meaning:
+TODO control surfaces already said support-only, but old live-looking wording such as Current Recommended Next Move, Current Recommended Next Boss, and Next active work could still misroute starts. These were demoted to historical support wording without changing doctrine, active guides, CURRENT_TRUTH_INDEX, boss order, or TODO states.
+
+Boundary:
+No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, and no promotion.
+
+Next:
+Return to route selection under Rule-Firing Confirmation Card.

@@ -5,13 +5,20 @@ Current active ball after this save: Route selection under Rule-Firing Confirmat
 
 ## Last completed move
 
-Saved full intake/disposition proof for the Big Overall Job mule return.
+Saved narrow stale-heading repair for TODO control surfaces.
+
+Files repaired:
+- HOUSE_WORK\TODO\TODO_CONTROL_BOARD_20260518.md
+- HOUSE_WORK\TODO\TODO_INDEX_20260518.md
+
+Proof:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\TODO_CONTROL_SURFACE_STALE_HEADING_REPAIR_20260520.md
 
 Verdict:
-PASS as mule-return intake/disposition proof.
+PASS as narrow wording repair.
 
 Meaning:
-The mule return was fully read and dispositioned. It is now safe to use as parked support evidence. It is not command authority.
+Old "current recommended" and "next active work" labels were demoted to historical support wording so they cannot compete with ACTIVE_ANCHOR.txt or current user command.
 
 ## Current control state
 
@@ -27,13 +34,15 @@ No Rule King remains open as guard.
 
 Big Overall Job mule return is fully intaken/dispositioned and parked as support evidence.
 
+TODO control board/index are support surfaces only and no longer carry live-looking current recommendation headings.
+
 No item is promoted.
 
 ## Next allowed move
 
 Return to route selection under the Rule-Firing Confirmation Card.
 
-Select one route by current anchor/status and active proof need, not newest-file pressure.
+Select one route by current anchor/status and active proof need, not newest-file pressure or stale support-surface wording.
 
 Use Habit / MAA only when repeated pattern or transfer decision appears.
 

@@ -4,6 +4,9 @@ Status: ACTIVE SUPPORT BOARD
 Role: central TODO control board for ranking bosses and organizing group-level TODOs
 Authority: support only; not command authority
 
+Current-control note:
+ACTIVE_ANCHOR.txt and the current user command select active work. Any older "current recommended" or "next active work" wording in this board is historical support unless ACTIVE_ANCHOR.txt selects it again.
+
 ## Core Rule
 
 This board organizes TODO work.
@@ -222,7 +225,7 @@ Do not use this board to bypass ACTIVE_ANCHOR.txt.
 
 Do not use this board to promote source ore, critique, TODOs, or parked risks into active repairs.
 
-## Current Recommended Next Move
+## Historical Support Recommendation - Not Current Active Move
 
 Run Front Door / Authority Group link audit.
 
@@ -257,7 +260,7 @@ First repair applied:
 - README now routes to ACTIVE_ANCHOR.txt after CURRENT_TRUTH_INDEX.txt when present.
 - ACTIVE_ANCHOR now uses recorded anchor base language instead of live current position language.
 
-Next recommended move:
+Historical next recommendation at time of that board entry:
 
 Post-repair link walk.
 
@@ -311,7 +314,7 @@ Anti-bloat:
 - do not create a new rule to avoid triage;
 - do not open a new boss when an actionable TODO exists.
 
-Next active work:
+Historical correction next-work note:
 - run TODO board triage;
 - pick one actionable TODO;
 - work it or dispose it with proof.
@@ -345,7 +348,7 @@ Correct language:
 - "the current weakest link is";
 - "the proof-ranked top route is."
 
-Next active work:
+Historical correction next-work note:
 - run TODO weakest-link triage;
 - let the list/proof choose the top route;
 - drive that route to active, done, parked, blocked, superseded, merged, or stale review.
@@ -410,3 +413,32 @@ HOUSE_WORK\WORK_SHED\SORTING_BENCH\BOSS_GHOST_TODO_BOARD_TRIAGE_MAP_20260520.md
 Next:
 - continue TODO weakest-link triage from the map;
 - do not repair every boss from the board alone.
+
+---
+
+## 2026-05-20 - Stale-Heading Demotion Repair
+
+Status: NARROW WORDING REPAIR / SUPPORT SURFACE ONLY.
+
+Reason:
+This board contained old "current recommended" and "next active work" wording. That wording could misroute future starts by sounding like live command authority.
+
+Repair:
+- Added a current-control note under authority.
+- Demoted "Current Recommended Next Move" to a historical support recommendation.
+- Demoted "Next recommended move" and "Next active work" labels to historical wording.
+
+Current rule:
+ACTIVE_ANCHOR.txt and current user command select active work. This board ranks and preserves context only.
+
+Boundary:
+- no doctrine;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no dashboard;
+- no automation;
+- no runtime;
+- no knowledge graph;
+- no full lesson index;
+- no promotion.
+
