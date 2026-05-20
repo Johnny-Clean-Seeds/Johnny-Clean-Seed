@@ -3196,3 +3196,37 @@ Boundary:
 - No tool/checker/Soft Suit promotion.
 - No automation, dashboard, knowledge graph, or full lesson index.
 - No PROOF_HISTORY restructuring.
+## PowerShell Paste / False-Success Guard
+
+Status: SAVED
+Date: 2026-05-20
+Base before save: main @ 9ff1e20
+Parent Boss: Rule Activation / Work-Order Control
+
+Saved:
+- BRAIN_LEARNING\POWERSHELL_PASTE_FALSE_SUCCESS_GUARD_20260520.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\POWERSHELL_PASTE_FAILURE_DISSECTION_20260520.md
+- HOUSE_WORK\TODO\POWERSHELL_COMMAND_SAFETY_TODO_20260520.md
+- PROOF_HISTORY\POWERSHELL_PASTE_FALSE_SUCCESS_GUARD_RECEIPT_20260520.txt
+
+Updated:
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+- PowerShell paste / false-success guard is saved as a child fix under the current parent boss.
+- Printed PASS is not proof after an earlier error.
+- Root-level file path writing must be supported by safe helpers.
+- Recovery blocks must be narrower than original blocks and verify expected dirty paths.
+- Final proof still requires commit, push, fetch, HEAD equals origin/main, and clean status.
+
+Boundary:
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX rewrite.
+- No doctrine compression.
+- No runtime build.
+- No /system.
+- No tool/checker/Soft Suit promotion.
+- No automation, dashboard, knowledge graph, or full lesson index.
+- No PROOF_HISTORY restructuring.
+- No mule pass run.

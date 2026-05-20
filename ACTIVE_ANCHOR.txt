@@ -1,22 +1,19 @@
-ACTIVE BALL: Control-state-first / boss-ghost / rule-firing package saved; next move must be selected cleanly.
+ACTIVE BALL: PowerShell paste / false-success guard saved under Rule Activation / Work-Order Control.
 
-RECORDED BASE BEFORE SAVE: main @ 460ccd4
+RECORDED BASE BEFORE SAVE: main @ 9ff1e20
 
 CURRENT PROVEN ITEMS:
-- Control-state-first gate saved.
-- Rule-firing confirmation gate saved.
-- Boss/ghost sorting gate saved for TODO and idea capture.
-- Mule duplicate-work guard saved.
-- Completion-standard gate saved.
-- Relevant-tool-use and no-loose-ideas rule saved.
-- Cycle-flow route saved.
-- Mimic-only behavior blocked.
-- No mule pass was run.
+- Control-state-first / boss-ghost / cycle-flow package is already saved.
+- PowerShell paste / false-success child issue is now saved under the same parent boss.
+- Printed PASS is not proof after an earlier error.
+- Root-level file writing must be supported by safe helpers.
+- Recovery blocks must verify expected dirty paths before completing a save.
+- No tool framework or automation was created.
 
 NEXT ALLOWED MOVE:
-- Use this gate before future house work.
-- If mule returns later, intake must dedupe against current house state before accepting work.
-- Candidate options still include packet-scoped mule start card, future packet top-block rule, narrow queue header wording cleanup, or PowerShell paste hygiene if selected.
+- Continue to address remaining child issues under Rule Activation / Work-Order Control only if selected.
+- Possible next candidates: packet-scoped mule start card, narrow queue header wording cleanup, future packet top-block rule, or living-rules/root-words package refinement.
+- Before next task, run control-state-first and rule confirmation.
 
 BLOCKED MOVES:
 - Do not run another mule pass by inertia.
