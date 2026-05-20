@@ -32,7 +32,7 @@ Use CURRENT_TRUTH_INDEX.txt before broader house navigation.
 Treat Work Shed, source ore, receipts, outside reports, mule returns, and tool candidates as support material unless separately promoted by proof.
 
 NEXT ALLOWED MOVE:
-Inspect the Whole-House Review outside-review handoff/current target from current state.
+Run final send-readiness check on the refreshed Whole-House Review outside-review handoff. If clean, prepare the bounded mule kickoff message.
 
 Required shape:
 - read the existing handoff target,
@@ -86,3 +86,4 @@ Do not treat support maps, indexes, receipts, TODO, SYSTEM_LINKS, Work Shed, fro
 AUTHORITY NOTE:
 ACTIVE_ANCHOR.txt holds the current active ball, next allowed move, and blocked moves.
 Current user command may select the next boss.
+

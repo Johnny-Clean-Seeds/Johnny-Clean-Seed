@@ -2857,3 +2857,37 @@ Boundary:
 
 Next move:
 - Inspect the Whole-House Review outside-review handoff/current target from current state.
+
+## 2026-05-19 - Whole-House Outside Review handoff current-state refresh
+
+Base before refresh: main @ 4c0f29f.
+
+Updated:
+- HOUSE_WORK\WORK_SHED\AGENT_HANDOFFS\WHOLE_HOUSE_OUTSIDE_REVIEW_HANDOFF_20260519.md
+- ACTIVE_ANCHOR.txt
+- PROOF_HISTORY\WHOLE_HOUSE_OUTSIDE_REVIEW_HANDOFF_CURRENT_STATE_REFRESH_RECEIPT_20260519.txt
+
+Reason:
+- Send-readiness inspection found stale base wording and missing exact contract phrases.
+- Refreshed handoff to current state and explicit bounded-review wording.
+
+Verdict:
+- PASS: handoff refreshed to current state and exact bounded-review contract wording.
+
+Boundary:
+- Handoff/current-state refresh only.
+- No outside report received yet.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX change.
+- No tool promotion.
+- No checker promotion.
+- No Soft Suit promotion.
+- No automation.
+- No full lesson index.
+- No knowledge graph.
+- No dashboard.
+
+Next move:
+- Run final send-readiness check on the refreshed Whole-House Review outside-review handoff.
+- If clean, prepare the bounded mule kickoff message.
