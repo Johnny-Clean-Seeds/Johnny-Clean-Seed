@@ -1,18 +1,17 @@
-ACTIVE BALL: Receipt hygiene supersession note saved; next move must be selected cleanly.
+ACTIVE BALL: Deep revised house walkthrough saved as mule workshop reference; next move must be selected cleanly.
 
-RECORDED BASE BEFORE SAVE: main @ 22152a9
+RECORDED BASE BEFORE SAVE: main @ 22c25de
 
 CURRENT PROVEN ITEMS:
-- Mule return was intaken and saved.
-- Mule identified receipt hygiene / blank-hash false PASS risk as the main next issue.
-- Receipt hygiene note now marks the older mule workshop desk install receipt as PARTIAL / SUPERSEDED for active-packet placement proof.
-- Later active packet placement receipt remains trusted for active-packet placement proof.
-- No proof history was rewritten or deleted.
-- No fixes beyond claim-scoped disposition were implemented.
+- Permanent mule workshop README exists.
+- Mule workshop access map exists.
+- Deep revised held house walkthrough has been placed as a separate mule workshop instruction reference.
+- The reference file is not the active packet and does not command work by itself.
+- No implementation was performed by this save.
 
 NEXT ALLOWED MOVE:
-- Choose one next candidate from the saved disposition list.
-- Candidate options include packet-scoped mule start card, future packet top-block rule, narrow queue header wording cleanup, or living-rules/root-words list if still selected.
+- Choose the next clean task from current user command or disposition.
+- Candidate options remain: living-rules/root-words list, packet-scoped mule start card, future packet top-block rule, or narrow queue header wording cleanup.
 - Before next task, run task-scoped rule + neighbor search.
 
 BLOCKED MOVES:

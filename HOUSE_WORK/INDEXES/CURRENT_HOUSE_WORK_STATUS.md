@@ -3128,3 +3128,37 @@ Boundary:
 - No tool/checker/Soft Suit promotion.
 - No automation, dashboard, knowledge graph, or full lesson index.
 - No second mule pass.
+## Mule Workshop Deep Revised Walk Reference Save
+
+Status: SAVED
+Date: 2026-05-20
+Base before save: main @ 22c25de
+
+Saved:
+- HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\INSTRUCTION_REFERENCES\HOUSE_WALK_DEEP_REVISED_HELD_20260520.md
+- PROOF_HISTORY\MULE_WORKSHOP_DEEP_REVISED_WALK_REFERENCE_SAVE_RECEIPT_20260520.txt
+
+Verified existing permanent mule instruction files:
+- HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\README_MULE_WORKSHOP.md
+- HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\MULE_WORKSHOP_ACCESS_MAP.md
+
+Updated:
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+- The deep revised house walkthrough is saved as a separate mule workshop instruction reference.
+- Existing mule README and access map remain the permanent mule-workshop instruction pair.
+- The saved reference is support material, not doctrine, not active authority, and not a command to run mule.
+- No implementation was performed by this save.
+
+Boundary:
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX rewrite.
+- No doctrine compression.
+- No runtime build.
+- No /system.
+- No tool/checker/Soft Suit promotion.
+- No automation, dashboard, knowledge graph, or full lesson index.
+- No PROOF_HISTORY restructuring.
+- No mule pass run.
