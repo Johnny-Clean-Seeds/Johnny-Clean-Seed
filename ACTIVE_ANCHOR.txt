@@ -1,20 +1,25 @@
 CURRENT MR.KLEEN POSITION
 
-After Growth Cycle mule review return raw intake.
+After long-code and Soft Suit trigger-event rule fix.
 
 Current ball:
-- Growth Cycle mule review return has been copied into Mr.Kleen AGENT_OUTPUTS.
-- All 6 required output files were present, readable, hash-matched against the mule report, copied, and re-hash-verified.
-- Intake is evidence custody only.
+- Growth Cycle mule review return remains raw evidence only.
+- The premature Soft Suit Trigger Event 001 code is parked / not approved / not run.
+- Long Code Draft-Review-Send Gate Rule is saved.
+- Reusable Script Skeleton Pull Rule is saved.
+- Soft Suit Trigger Event Proof-Before-Mark Rule is saved.
+- TODO is open to read/disposition Growth Cycle return before any event mark.
 
 Next allowed move:
 - Read and disposition Growth Cycle mule review return.
-- Decide ACCEPT / ADAPT / PARK / BLOCK / NEEDS-PROOF.
-- Decide from proof whether this is a new Whole-House Soft Suit triggered event.
+- Only after proof, judge whether a Soft Suit trigger event should be marked.
 
 Blocked moves:
-- Do not adopt mule recommendations from intake alone.
-- Do not split the Soft Suit into gates.
+- Do not run the previously generated trigger-event code.
+- Do not mark Trigger Event 001 before read/disposition proof.
+- Do not install Growth Cycle.
+- Do not split the Soft Suit.
+- Do not extract gates.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.
 - Do not promote doctrine.

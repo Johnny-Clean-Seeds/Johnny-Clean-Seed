@@ -1,0 +1,65 @@
+# Long Code And Trigger Event Rule Fix Receipt
+
+Date: 2026-05-20
+
+## Result
+
+PASS: long-code generation and premature trigger-event marking failure repaired as behavior rules and parking record.
+
+## Files Saved
+
+- BRAIN_LEARNING\LONG_CODE_DRAFT_REVIEW_SEND_GATE_RULE_20260520.md | bytes=2583 | sha256=3C0FDA17EB313223799ACE9EC12DA4C0941A714EB576DE206FF79AC388021EC4
+- BRAIN_LEARNING\REUSABLE_SCRIPT_SKELETON_PULL_RULE_20260520.md | bytes=1864 | sha256=A0BBF32385721CE70803845B929672C1F29143B9E16C5C896C718010EA47DC83
+- BRAIN_LEARNING\SOFT_SUIT_TRIGGER_EVENT_PROOF_BEFORE_MARK_RULE_20260520.md | bytes=1697 | sha256=B09AD4E6F8830951A9BB669145B594125D3F39E13D33C395ECA4C760B0B0D0BB
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\PARKED_PREMATURE_SOFT_SUIT_TRIGGER_EVENT_CODE_20260520.md | bytes=1496 | sha256=5EA4B1D05B0C623C3319E1B26C1EE30C70E3F5BD1E8132466BA4C54B7708F78F
+- HOUSE_WORK\TODO\GROWTH_CYCLE_RETURN_DISPOSITION_BEFORE_TRIGGER_EVENT_TODO_20260520.md | bytes=1024 | sha256=9107AD6DEFD82AD720F08E797E933B06E4BA2F5C89432EA1A3D397BDC3E9434E
+
+## What Changed
+
+Saved:
+
+- Long Code Draft-Review-Send Gate Rule.
+- Reusable Script Skeleton Pull Rule.
+- Soft Suit Trigger Event Proof-Before-Mark Rule.
+- Parked Premature Soft Suit Trigger Event Code record.
+- Growth Cycle Return Disposition Before Trigger Event TODO.
+
+## Meaning
+
+The previously generated Soft Suit Trigger Event code is parked.
+
+It is not approved.
+
+It was not run.
+
+Future long scripts/prompts must be drafted, reviewed, checked against lane/proof/boundary/failure modes/copy burden, and checked against reusable skeletons before being sent.
+
+Future Soft Suit trigger events require proof after read/disposition. Raw intake alone is not enough.
+
+## Boundary
+
+No Growth Cycle install.
+
+No Soft Suit split.
+
+No trigger event marked.
+
+No active guide rewrite.
+
+No CURRENT_TRUTH_INDEX rewrite.
+
+No doctrine promotion.
+
+No dashboard.
+
+No automation.
+
+No runtime.
+
+No knowledge graph.
+
+No full lesson index.
+
+## Next Move
+
+Read and disposition the Growth Cycle mule review return before any event mark.

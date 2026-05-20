@@ -3599,3 +3599,41 @@ Boundary:
 - no gate extraction;
 - no Soft Suit split;
 - no dashboard/automation/runtime/knowledge graph/full lesson index.
+
+---
+
+## 2026-05-20 — Long-Code And Trigger Event Rule Fix
+
+Status: PASS.
+
+Saved:
+
+BRAIN_LEARNING\LONG_CODE_DRAFT_REVIEW_SEND_GATE_RULE_20260520.md
+BRAIN_LEARNING\REUSABLE_SCRIPT_SKELETON_PULL_RULE_20260520.md
+BRAIN_LEARNING\SOFT_SUIT_TRIGGER_EVENT_PROOF_BEFORE_MARK_RULE_20260520.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\PARKED_PREMATURE_SOFT_SUIT_TRIGGER_EVENT_CODE_20260520.md
+HOUSE_WORK\TODO\GROWTH_CYCLE_RETURN_DISPOSITION_BEFORE_TRIGGER_EVENT_TODO_20260520.md
+
+Receipt:
+
+PROOF_HISTORY\LONG_CODE_AND_TRIGGER_EVENT_RULE_FIX_RECEIPT_20260520.txt
+
+Meaning:
+- premature Soft Suit Trigger Event 001 code is parked / not approved / not run;
+- long code must now pass Draft-Review-Send before being sent;
+- repeated long scripts/prompts must check for reusable skeletons first;
+- Soft Suit trigger events require proof after read/disposition;
+- raw intake alone is not event proof.
+
+Next move:
+- read/disposition Growth Cycle mule review return before any trigger-event mark.
+
+Boundary:
+- no Growth Cycle install;
+- no Soft Suit split;
+- no trigger event marked;
+- no gate extraction;
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no doctrine promotion;
+- no dashboard/automation/runtime/knowledge graph/full lesson index.
