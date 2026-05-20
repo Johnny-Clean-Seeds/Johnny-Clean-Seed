@@ -1,0 +1,52 @@
+QUEUE HEADER ACTIVE-INERTIA WORDING CLEANUP RECEIPT
+Date: 2026-05-20
+
+Branch before save:
+main
+
+HEAD before save:
+888984d79a799e47096384d5ec2507612fe526b9
+
+origin/main before save:
+888984d79a799e47096384d5ec2507612fe526b9
+
+Saved / clarified:
+- HOUSE_WORK\WORK_SHED\QUEUE\CURRENT_WORK_QUEUE.md
+  SHA256 before: 9D3733E49ADB51AC08AD2DADFA321902E1A2FEB3A520F0AED7C7DA196BD79539
+  SHA256 after:  3F1A9C2031D002CE1E7B844F6DB1E900917E7AB3B16B2B475AEAFA5A90D454A9
+- PROOF_HISTORY\QUEUE_HEADER_ACTIVE_INERTIA_WORDING_CLEANUP_RECEIPT_20260520.txt
+
+Updated:
+- ACTIVE_ANCHOR.txt
+  SHA256: A7AA545A6787676B8B60AFA48574E2AE0A2C46784357920908EE1BDCED5FB55D
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+  SHA256: 9A03BDCCA51A56C7B26FE4CF859F663A6EF47C317B8E3D2D23BCF9E686DDB54A
+
+Required checks:
+Queue says no item active by inertia
+Queue says Q-009 remains parked unless selected
+Queue says ACTIVE_ANCHOR controls active ball
+Queue says boss/ghost sorting before promotion
+Queue says no reorder rewrite open close
+
+Verdict:
+PASS
+
+Meaning:
+- Queue active-inertia wording clarified.
+- No queue item becomes active by inertia.
+- Q-20260519-009 remains parked unless explicitly selected or ACTIVE_ANCHOR selects it later.
+- ACTIVE_ANCHOR controls current active ball.
+- Boss/ghost sorting must be used before queue item promotion.
+- No queue item was opened, closed, reordered, or rewritten.
+
+Boundary:
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX rewrite.
+- No doctrine compression.
+- No runtime build.
+- No /system.
+- No tool/checker/Soft Suit promotion.
+- No automation, dashboard, knowledge graph, or full lesson index.
+- No PROOF_HISTORY restructuring.
+- No mule pass run.

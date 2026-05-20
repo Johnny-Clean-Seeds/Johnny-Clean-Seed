@@ -1,12 +1,22 @@
 # Current Work Queue
 
+<!-- BEGIN_QUEUE_CONTROL_NOTE_20260520 -->
+## Current Queue Control Note — 2026-05-20
+
+- No queue item becomes active by inertia.
+- Q-20260519-009 remains parked unless the user explicitly selects it or ACTIVE_ANCHOR selects it later.
+- ACTIVE_ANCHOR controls the current active ball; the queue is support, parking, and re-entry.
+- Boss/ghost sorting must be used before promoting a queue item to active work.
+- This note clarifies queue control only; it does not reorder, rewrite, open, or close queue items.
+<!-- END_QUEUE_CONTROL_NOTE_20260520 -->
+
 Last updated: 2026-05-19.
 Current base when synced: main @ 3854a3b before anchor/queue state sync.
 Authority: Work Shed queue / attention control.
 
 ## Re-entry Readback
 
-Anchor sync after prior-mistake Soft Suit test: root checker-batch next move is closed/parked; Q-20260519-009 remains active unless the user selects another boss.
+- Q-20260519-009 is PARKED and does not remain active by inertia; it can become active only by explicit user selection or ACTIVE_ANCHOR selection.
 
 Current base: verify with git before action. Current closed lane position: main @ 3854a3b before anchor/queue state sync.
 Active item: none by inertia. Q-20260519-009 - Whole-House Review / outside-review handoff is held/parked unless the user explicitly selects a bounded mule pass after house-side fixes/tests.

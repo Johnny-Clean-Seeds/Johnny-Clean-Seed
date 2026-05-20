@@ -3269,3 +3269,35 @@ Boundary:
 - No tool/checker/Soft Suit promotion.
 - No automation, dashboard, knowledge graph, or full lesson index.
 - No PROOF_HISTORY restructuring.
+## Queue Header Active-Inertia Wording Cleanup
+
+Status: SAVED
+Date: 2026-05-20
+Base before save: main @ 888984d
+Parent Boss: Rule Activation / Work-Order Control
+
+Saved / clarified:
+- HOUSE_WORK\WORK_SHED\QUEUE\CURRENT_WORK_QUEUE.md
+- PROOF_HISTORY\QUEUE_HEADER_ACTIVE_INERTIA_WORDING_CLEANUP_RECEIPT_20260520.txt
+
+Updated:
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+- Queue now clearly states that no queue item becomes active by inertia.
+- Q-20260519-009 remains parked unless explicitly selected or ACTIVE_ANCHOR selects it later.
+- ACTIVE_ANCHOR controls the current active ball.
+- Boss/ghost sorting is required before promoting queue items.
+- No queue item was opened, closed, reordered, or rewritten by this cleanup.
+
+Boundary:
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX rewrite.
+- No doctrine compression.
+- No runtime build.
+- No /system.
+- No tool/checker/Soft Suit promotion.
+- No automation, dashboard, knowledge graph, or full lesson index.
+- No PROOF_HISTORY restructuring.
+- No mule pass run.
