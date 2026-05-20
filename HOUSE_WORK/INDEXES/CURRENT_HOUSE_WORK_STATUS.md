@@ -2998,3 +2998,37 @@ Boundary:
 - No runtime build.
 - No /system.
 - No automation, dashboard, knowledge graph, or full lesson index.
+## Mule Workshop Desk Install
+
+Status: SAVED
+Base before save: main @ 2f773c7
+Date: 2026-05-20
+
+Saved:
+- HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\README_MULE_WORKSHOP.md
+- HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\MULE_WORKSHOP_ACCESS_MAP.md
+- HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\ACTIVE_DESK\MULE_FILE_ACTIVE_20260520_001.txt
+- PROOF_HISTORY\MULE_WORKSHOP_DESK_INSTALL_RECEIPT_20260520.txt
+
+Updated:
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+- Mule now has a simple go-to Work Shed room.
+- Active mule packet is placed in the mule desk.
+- Workshop map points to the existing tools, ideas, concepts, proof/evidence, handy bags, benches, BRAIN_LEARNING, SOURCE_ORE, ACTIVE_GUIDES, queue/status/anchor, and output lanes.
+- Mule remains bounded worker/sharpener, not supervisor.
+- This install does not create an endless mule cycle.
+
+Boundary:
+- No mule output was created.
+- No mule pass was run by this save.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX rewrite.
+- No tool/checker/Soft Suit promotion.
+- No runtime build.
+- No /system.
+- No automation, dashboard, knowledge graph, or full lesson index.
+- No PROOF_HISTORY restructuring.

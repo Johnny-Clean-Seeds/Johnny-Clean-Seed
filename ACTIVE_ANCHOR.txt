@@ -1,23 +1,25 @@
-ACTIVE BALL: Return to the real job after task-scoped rule / file-first / mule-cycle correction lock.
+ACTIVE BALL: Mule workshop desk installed, ready for bounded mule pass only if user chooses to run it.
 
-RECORDED ANCHOR BASE: main @ 1a63c4e before this save.
-
-STATUS: LOCKING TASK-SCOPED RULE SEARCH, FILE-FIRST LONG KICKOFF RULE, AND MULE NO-ENDLESS-CYCLE CORRECTION.
+RECORDED BASE BEFORE SAVE: main @ 2f773c7
 
 CURRENT PROVEN ITEMS:
-- House-first walk found that mule should not be sent by inertia.
-- Mule is worker/sharpener only, not supervisor or endless cycle.
-- Long kickoffs, mule handoffs, and dense reusable instruction packs belong in file-first packaging by default.
-- Before acting on any important task, assistant must identify the task lane and check governing rules, neighbor rules, affected lanes, blocked moves, proof needs, and prior related failures.
-- Later adoption/rule issues should be captured without hijacking the active task.
+- Task-scoped rule + neighbor search is already locked.
+- File-first long kickoff / mule handoff rule is already locked.
+- Mule no-endless/default-cycle correction is already locked.
+- Mule workshop room is now installed under HOUSE_WORK/WORK_SHED/MULE_WORKSHOP.
+- Active mule packet is placed at HOUSE_WORK/WORK_SHED/MULE_WORKSHOP/ACTIVE_DESK/MULE_FILE_ACTIVE_20260520_001.txt.
+- Workshop access map is placed at HOUSE_WORK/WORK_SHED/MULE_WORKSHOP/MULE_WORKSHOP_ACCESS_MAP.md.
+- Mule output remains routed to HOUSE_WORK/WORK_SHED/AGENT_OUTPUTS.
 
 NEXT ALLOWED MOVE:
-- Return to the real job from the current user-selected lane.
-- Before making the next move, run the task-scoped rule + neighbor search for that lane.
+- If user chooses, run one bounded mule pass using the active mule packet.
+- Otherwise return to the selected real job.
+- Before any next task, run task-scoped rule + neighbor search.
 
 BLOCKED MOVES:
-- Do not send the mule just because a handoff exists.
-- Do not use the mule as an endless/default cycle.
+- Do not use mule as endless/default cycle.
+- Do not let mule supervise the house.
+- Do not send mule by inertia.
 - Do not rewrite active guides.
 - Do not rewrite CURRENT_TRUTH_INDEX.
 - Do not promote tools/checkers/Soft Suits.
