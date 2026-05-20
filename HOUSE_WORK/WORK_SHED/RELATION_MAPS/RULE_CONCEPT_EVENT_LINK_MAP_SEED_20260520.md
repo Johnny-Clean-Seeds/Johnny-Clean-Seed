@@ -315,3 +315,43 @@ First live-use proof saved. Needs varied pattern proof.
 
 Boundary:
 Support lens only, not doctrine.
+
+## Entry 16 - Relevant Root Key Selector Varied Live Use
+
+Rule:
+Before route work, select only the relevant root keys and tools instead of reciting or crowning the whole stack.
+
+Concept:
+Relevant root key selection; tool fit; anti-newest-file pressure; support rule not authority.
+
+Event:
+After RCE / Report Gate partial proof, the assistant selected the Relevant Root Key / Tool Use Selector route under the Rule-Firing Confirmation Card and read only the selector TODO, No Rule King TODO, and status tail.
+
+Trigger phrases:
+route selection; relevant keys; tool selector; newest-file pressure; support-rule pressure; no random moves.
+
+Proof state:
+Second varied live-use proof saved. No promotion.
+
+Boundary:
+Support selector only; not doctrine, not active guide, not automation.
+
+## Entry 17 - No Rule King Guard During Selector Route
+
+Rule:
+A selector, card, TODO, map, mule output, or support lens must not become king merely because it is useful.
+
+Concept:
+No Rule King; better fit; neighbor rules; support hierarchy control.
+
+Event:
+During route selection, the assistant read No Rule King alongside the selector because the selector itself could become a hidden authority if not checked.
+
+Trigger phrases:
+no rule king; selector becoming king; support pressure; better fit; do not crown.
+
+Proof state:
+Partial guard proof saved. Full No Rule King TODO remains open.
+
+Boundary:
+No promotion, no doctrine, no active guide.

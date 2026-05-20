@@ -5,29 +5,26 @@ Current active ball after this save: Route selection under Rule-Firing Confirmat
 
 ## Last completed move
 
-Saved partial live-use proof for:
+Saved varied live-use proof for:
 
-Rule-Concept-Event Link Map And Report Gate Live Use.
+- Relevant Root Key / Tool Use Selector;
+- No Rule King guard during selector route.
 
 Verdict:
-PASS / PARTIAL.
-
-Passed:
-- Rule-not-fired alarm live use.
-- Rule-Concept-Event map live use.
-
-Still open:
-- Full report gate.
-- Future mule-return intake proof.
-- more varied proof before promotion.
+- Relevant Root Key Selector: PASS as varied live use.
+- No Rule King: PASS / PARTIAL as guard proof.
 
 ## Current control state
 
 Rule-Firing Confirmation Card has live-use proof and remains active before nontrivial Mr.Kleen house-touching action.
 
+Relevant Root Key / Tool Use Selector has varied proof and remains support-only.
+
 Habit / MAA lens has live-use proof and remains support-only.
 
 RCE / Report Gate TODO has partial proof and remains open.
+
+No Rule King has partial guard proof and remains open.
 
 No item is promoted.
 
@@ -39,8 +36,12 @@ Select one route by current anchor/status and active proof need, not newest-file
 
 Use Habit / MAA only when repeated pattern or transfer decision appears.
 
+Use No Rule King whenever a rule, card, selector, suit, tool, TODO, map, or mule output risks becoming king.
+
 ## Blocked moves
 
+- Do not promote the selector from varied proof.
+- Do not promote No Rule King from partial proof.
 - Do not promote RCE map/report gate from partial proof.
 - Do not promote the card from limited proof.
 - Do not promote Habit/MAA from limited proof.

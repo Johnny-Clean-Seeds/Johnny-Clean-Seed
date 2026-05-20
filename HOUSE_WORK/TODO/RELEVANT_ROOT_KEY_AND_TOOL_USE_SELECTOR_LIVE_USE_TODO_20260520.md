@@ -71,3 +71,35 @@ Result:
 
 Guardrail:
 - TODO remains open for more varied live use.
+
+---
+
+## Live Use 002 - Route Selection Under Confirmation Card
+
+Status: PASS / varied live use.
+
+Proof:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\RELEVANT_ROOT_KEY_SELECTOR_VARIED_LIVE_USE_PROOF_20260520.md
+
+Selected keys:
+- Rule-Firing Confirmation Card;
+- Relevant Root Key / Tool Use Selector;
+- No Rule King guard.
+
+Held:
+- Habit / MAA lens unless repeated pattern or transfer decision appears.
+- RCE/report gate because it is PASS/PARTIAL and not current active route.
+
+Selected tool:
+- Direct PowerShell read only.
+
+Result:
+- selector fired before route action;
+- newest-file pressure was blocked;
+- support-rule pressure was blocked;
+- only relevant TODOs were read;
+- No Rule King guard was included to prevent selector monarchy.
+
+Guardrail:
+- TODO remains open.
+- No promotion from second proof.

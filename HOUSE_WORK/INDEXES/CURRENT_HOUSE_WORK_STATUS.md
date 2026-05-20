@@ -4475,3 +4475,33 @@ No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no
 
 Next:
 Return to route selection under Rule-Firing Confirmation Card.
+
+---
+
+## 2026-05-20 - Relevant Root Key Selector varied live use
+
+Base before save: d872fd0a2abe3c98924f85d54e926208c79df7cd
+Base short: d872fd0
+Status before save: clean
+
+Saved:
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\RELEVANT_ROOT_KEY_SELECTOR_VARIED_LIVE_USE_PROOF_20260520.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\NO_RULE_KING_GUARD_DURING_SELECTOR_ROUTE_PROOF_20260520.md
+- updated HOUSE_WORK\TODO\RELEVANT_ROOT_KEY_AND_TOOL_USE_SELECTOR_LIVE_USE_TODO_20260520.md
+- updated HOUSE_WORK\TODO\NO_RULE_KING_BETTER_FIT_PROMOTION_LIVE_USE_TODO_20260520.md
+- appended entries to HOUSE_WORK\WORK_SHED\RELATION_MAPS\RULE_CONCEPT_EVENT_LINK_MAP_SEED_20260520.md
+- updated ACTIVE_ANCHOR.txt
+- updated this status file
+
+Verdict:
+- Relevant Root Key Selector: PASS as varied live use.
+- No Rule King: PASS / PARTIAL guard proof.
+
+Meaning:
+Route selection used only the relevant keys/tools, blocked newest-file pressure, kept the selector support-only, and read No Rule King to prevent selector monarchy.
+
+Boundary:
+No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, and no promotion.
+
+Next:
+Return to route selection under Rule-Firing Confirmation Card.

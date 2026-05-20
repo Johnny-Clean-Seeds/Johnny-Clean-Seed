@@ -39,3 +39,24 @@ It does not rewrite doctrine.
 It does not rewrite active guides.
 
 It does not rewrite CURRENT_TRUTH_INDEX.
+
+---
+
+## Guard Use 001 - Selector Route Did Not Become King
+
+Status: PASS / PARTIAL.
+
+Proof:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\NO_RULE_KING_GUARD_DURING_SELECTOR_ROUTE_PROOF_20260520.md
+
+Trigger:
+The Relevant Root Key / Tool Use Selector was selected as a route, which could have made the selector itself into a hidden king.
+
+Result:
+- selector stayed support-only;
+- card remained point-of-work gate;
+- route stayed read-only;
+- no item was promoted.
+
+Still open:
+No better-fit item was adopted, adapted, parked, blocked, or superseded in this event.
