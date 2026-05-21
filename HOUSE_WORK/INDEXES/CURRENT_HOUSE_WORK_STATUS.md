@@ -5045,3 +5045,20 @@ ZIP SHA256:
 
 Boundary:
 No doctrine install, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no bridge permission expansion.
+
+## 20260521_025529 - Broad-Bite Rule Machine installed
+
+Current position before save: main @ 14298c15c652578fcdf983e8e7ca60babd1bc8a8
+
+Installed house learning/rule-machine package:
+
+- BRAIN_LEARNING\BROAD_BITE_RULE_MACHINE_RULE_20260521.md
+- HOUSE_WORK\WORK_SHED\GEAR_RACK\RULE_MACHINES\LIVE_REPAIR_ACTIVATION_SOFT_SUIT_20260521.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\BROAD_BITE_RULE_MACHINE_INSTALL_REVIEW_20260521.md
+- PROOF_HISTORY\BROAD_BITE_RULE_MACHINE_INSTALL_RECEIPT_20260521.txt
+
+Verdict target: PASS WITH SOFT SUIT WATCH.
+
+Boundary: no doctrine rewrite, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no bridge permission expansion, no junction/symlink teleporter.
+
+Next move: use Broad-Bite Rule Machine on the next rule repair or proof-gap moment.

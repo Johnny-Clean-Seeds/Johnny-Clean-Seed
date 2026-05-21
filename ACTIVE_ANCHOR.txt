@@ -1,18 +1,24 @@
-# ACTIVE ANCHOR
+ACTIVE ANCHOR
 
-Recorded base before this save:
-main @ 3246f10
+Current position:
+main @ pending Broad-Bite Rule Machine install save
 
-Current active ball:
-Sam review packet for Child Shell + Recursive Core Architecture has been locked to git as a public-review proof packet.
+Current boss:
+Broad-Bite Rule Machine / Live Repair Activation Soft Suit install.
+
+Current verdict target:
+PASS WITH SOFT SUIT WATCH.
+
+Installed intent:
+Use small, stout, dense rules that catch choice-families instead of narrow symptoms.
 
 Next allowed move:
-Choose public review route, or run next bridge hardening test. Do not expand bridge power without separate proof.
+Use Broad-Bite Rule Machine on the next rule repair/proof-gap moment and watch for ghost/boss confusion.
 
 Blocked moves:
-- Do not call this production-security proof.
-- Do not install doctrine from the packet.
-- Do not rewrite ACTIVE_GUIDES.
-- Do not rewrite CURRENT_TRUTH_INDEX.
+- Do not treat Soft Suit as doctrine.
+- Do not rewrite ACTIVE_GUIDES from this install.
+- Do not rewrite CURRENT_TRUTH_INDEX from this install.
 - Do not expand bridge permissions.
-- Do not expose private paths beyond what the packet intentionally contains.
+- Do not create junction/symlink teleporters.
+- Do not claim source-ore authority without proof.
