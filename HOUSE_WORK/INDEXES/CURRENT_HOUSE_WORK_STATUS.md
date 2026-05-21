@@ -5138,3 +5138,21 @@ Meaning: dropped childjob consumption works through watcher route once watcher i
 Guardrail: PID 13240 was stale/dead during proof; watcher restart produced new PID 8908 before receipt appeared. Unattended watcher persistence remains PARTIAL and should be treated as the next durability boss if selected.
 
 Boundary: no assistant-direct local execution claim, no Level2/Level3 promotion, no raw shell expansion, no broad filesystem crawl, no delete, no permission expansion, no junction/symlink teleporter.
+
+## 20260521 — Watcher liveness / stale-PID durability lock
+
+Verdict: PASS / WATCHER LIVENESS DURABILITY SAVED.
+
+Proof: stale PID value 999999 was detected as STALE_OR_STOPPED; watcher restarted at PID 13520; restarted watcher consumed CHILDJOB-20260521-000006-WATCHER-LIVENESS-STALE-PID-RESTART.
+
+Validated proof receipt: C:\Users\13527\Desktop\123\COMMAND_CENTER\RECEIPTS\CHILD_SHELL_WATCHER_LIVENESS_STALE_PID_DURABILITY_RECEIPT_20260521_041759.txt.
+
+Validated proof receipt SHA256: AD85F61684B74BC8A4DD852ADE014B9E1546FEB351EB452814E4F9877C6B3D42.
+
+Watcher PID at save time: 13520.
+
+Watcher state at save time: RUNNING.
+
+Next: Level 2 approved-helper route selected next, but not installed.
+
+Boundary: no assistant-direct local execution claim, no Level2/Level3 promotion, no raw shell expansion, no broad filesystem crawl, no delete, no permission expansion, no junction/symlink teleporter.

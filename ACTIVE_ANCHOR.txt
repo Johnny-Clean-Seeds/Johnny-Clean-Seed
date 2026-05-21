@@ -1,19 +1,20 @@
 Current active ball:
-No-script Child Shell watcher drop proof locked with liveness guardrail.
+Watcher liveness / stale-PID restart durability locked and saved. Level 2 approved-helper route selected next, not installed.
 
 Current proof:
 Level 0 PASS.
 Level 1 PASS.
-Watcher PID collision repair PASS.
-No-script drop job 000005 PASS after watcher restart.
-Watcher unattended persistence PARTIAL / liveness durability not fully proved.
+No-script drop job 000005 PASS and saved.
+Watcher liveness/stale-PID restart job 000006 PASS.
+Watcher PID at save time: 13520.
+Watcher state at save time: RUNNING.
 Level 2 not installed.
 Level 3 not installed.
 
 Next allowed boss:
-Repair watcher liveness/stale-PID restart durability, or separately design Level 2 approved-helper route.
+Design smallest Level 2 approved-helper route with explicit allowlist, helper hash checks, receipts, and no arbitrary shell.
 
 Boundary:
 Do not claim assistant-direct local execution from chat.
-Do not claim Level 2/Level 3 execution.
+Do not claim Level 2/Level 3 execution before proof.
 Do not skip to house-save execution through Child Shell.
