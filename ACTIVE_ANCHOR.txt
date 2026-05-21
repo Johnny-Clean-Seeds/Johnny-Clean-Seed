@@ -1,25 +1,15 @@
-ACTIVE ANCHOR
+Current active ball:
+Child Shell Level 0, Level 1, watcher trigger, PID collision repair, and related Problem Solver/Collapse/Artifact-balance rules have been locked as an apply-all save.
 
-Current position:
-main @ pending Data Order / Ouroboros Ledger save
+Current proof:
+Level 0 PASS.
+Level 1 PASS.
+Watcher trigger PASS after PID collision repair.
+Level 2 not installed.
+Level 3 not installed.
 
-Current boss:
-Data Order / Ouroboros Ledger architecture.
+Next allowed boss:
+Use watcher route for Level 1 read-status childjob drops only, or design Level 2 approved-helper route as a separate bounded boss.
 
-Current verdict target:
-PASS WITH LEDGER-LOOP WATCH.
-
-Installed intent:
-Use Data Collection -> Inventory -> Housekeeping -> Data Management -> Workflow -> return as the ordered loop for ledgered intake and stale-check replacement.
-
-Next allowed move:
-Use the Intake Ledger Ouroboros Card on the next bulky file, incoming packet, rule stack, source-ore job, or correction cluster.
-
-Blocked moves:
-- Do not treat this as doctrine.
-- Do not rewrite ACTIVE_GUIDES from this install.
-- Do not rewrite CURRENT_TRUTH_INDEX from this install.
-- Do not install a runtime checker from this save.
-- Do not expand bridge permissions.
-- Do not create junction/symlink teleporters.
-- Do not use pi/golden ratio as proof uniqueness by itself.
+Boundary:
+No raw shell expansion. No Command Center house-save execution. No Level 2/Level 3 promotion without separate proof.

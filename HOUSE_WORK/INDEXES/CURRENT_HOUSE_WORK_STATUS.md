@@ -5106,3 +5106,19 @@ No doctrine rewrite, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, n
 
 Next move:
 Use the Intake Ledger Ouroboros Card on the next bulky file, incoming packet, rule stack, source-ore job, or correction cluster.
+
+## 20260521 — Child Shell watcher and Problem Solver apply-all save
+
+Verdict: PASS / APPLY ALL ACCEPTED STACK SAVED.
+
+Proof locked:
+- Level 0 Child Shell probe job consumption.
+- Level 1 Command Center read-status job consumption.
+- Watcher trigger route after PowerShell PID collision repair.
+- File-first artifact balance rule.
+- Problem Solver Sweep.
+- Single-Boss Collapse Analysis Gate.
+
+Next: Level 1 watcher read-status drops are allowed. Level 2/Level 3 remain blocked until separately installed and proved.
+
+Boundary: no doctrine rewrite, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no raw shell expansion, no permission expansion, no junction/symlink teleporter, no broad filesystem crawl.
