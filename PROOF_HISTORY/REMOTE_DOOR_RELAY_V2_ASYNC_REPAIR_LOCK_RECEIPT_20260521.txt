@@ -1,0 +1,96 @@
+REMOTE DOOR RELAY V2 ASYNC REPAIR LOCK RECEIPT
+
+Created:
+2026-05-21T14:14:25.3650869-04:00
+
+Run ID:
+REMOTE_DOOR_RELAY_V2_20260521_141101
+
+Verdict:
+PASS / ASYNC PROBE AND RECEIPT POLLING REPAIR SAVED
+
+Repo:
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+
+Base HEAD:
+fc21912
+
+Base full HEAD:
+fc21912f9f636155b46e0d28f409b1413f4ad0c9
+
+Base origin/main:
+fc21912f9f636155b46e0d28f409b1413f4ad0c9
+
+Base status:
+clean
+
+Remote Door Relay V2 root:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\REMOTE_DOOR_RELAY_V2
+
+Server:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\REMOTE_DOOR_RELAY_V2\SERVER\remote_door_v2_server.py
+
+Local bind:
+127.0.0.1
+
+Local port:
+8792
+
+Tunnel method:
+Cloudflare quick tunnel
+
+Endpoints:
+/door/v2/status
+/door/v2/probe_async
+/door/v2/receipt
+
+Local async proof:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\REMOTE_DOOR_RELAY_V2\RECEIPTS\REMOTE_DOOR_V2_LOCAL_SELF_TEST_20260521_141302.json
+
+Local async proof SHA256:
+A8131739AD5477F2351D8D04E9103CD6C2E50962E261E47891C981E2CC316039
+
+Local async job:
+CHILDJOB-20260521-141256-REMOTE-DOOR-V2-ASYNC-PROBE
+
+Local async receipt:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\CHILD_SHELL\OUTBOX\CHILDJOB-20260521-141256-REMOTE-DOOR-V2-ASYNC-PROBE.receipt.txt
+
+Local async receipt SHA256:
+7B72E34516379058B2B6E3A242F686AB23D4621D86E742405055E01CFA383A4B
+
+Mule external method:
+Jina Reader external fetch service
+
+Mule external proof:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\REMOTE_DOOR_RELAY_V2\RECEIPTS\REMOTE_DOOR_V2_MULE_EXTERNAL_ASYNC_TEST_20260521_1413.json
+
+Mule external proof SHA256:
+6E75665431660DE48465F0EB245D2EBB6625343A80F0D2011CC8FE4348FDD7A4
+
+Mule external job:
+CHILDJOB-20260521-141351-REMOTE-DOOR-V2-ASYNC-PROBE
+
+Mule external receipt:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\CHILD_SHELL\OUTBOX\CHILDJOB-20260521-141351-REMOTE-DOOR-V2-ASYNC-PROBE.receipt.txt
+
+Mule external receipt SHA256:
+F45E8163253F84D573079ABA5C37A712CCB760AA5D4D9D8EB9E033D9F0272EB9
+
+Direct ChatGPT proof state:
+READY FOR CHATGPT FINAL TEST / NOT YET CLAIMED
+
+ChatGPT-only nonce handling:
+Generated after mule external proof, verified absent from nonce ledger, returned only in live task response, not committed to Mr.Kleen.
+
+Files created in Mr.Kleen:
+BRAIN_LEARNING\REMOTE_DOOR_RELAY_V2_ASYNC_PROBE_RECEIPT_POLLING_RULE_20260521.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\REMOTE_DOOR_RELAY_V2_ASYNC_PROBE_REPAIR_REVIEW_20260521.md
+PROOF_HISTORY\REMOTE_DOOR_RELAY_V2_ASYNC_REPAIR_LOCK_RECEIPT_20260521.txt
+
+Files updated in Mr.Kleen:
+ACTIVE_ANCHOR.txt
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Boundary:
+No assistant arbitrary shell. No raw shell. No broad crawl. No delete. No cleanup. No repo write through V2. No git through V2. No Level 3 through V2. No ACTIVE_GUIDES rewrite. No CURRENT_TRUTH_INDEX rewrite. No doctrine rewrite. No permission expansion. No junction/symlink teleporter.

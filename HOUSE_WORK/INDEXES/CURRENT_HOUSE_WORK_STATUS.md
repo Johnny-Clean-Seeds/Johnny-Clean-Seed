@@ -5317,3 +5317,55 @@ Remote Door Relay V2 is a narrow transport proof: token, expiry, single-use nonc
 Boundary:
 
 No assistant arbitrary shell, raw shell, broad crawl, delete, cleanup, repo write through V2, git through V2, Level 3 through V2, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, permission expansion, or junction/symlink teleporter.
+
+---
+
+## 20260521 - Remote Door Relay V2 async probe repair
+
+Status: READY FOR CHATGPT FINAL TEST / NOT YET CLAIMED
+
+Base before save: main @ fc21912
+
+Repair:
+
+Remote Door Relay V2 now uses `/door/v2/probe_async` plus `/door/v2/receipt` polling so external clients do not need one long-held probe request.
+
+Local proof:
+
+`C:\Users\13527\Desktop\123\COMMAND_CENTER\REMOTE_DOOR_RELAY_V2\RECEIPTS\REMOTE_DOOR_V2_LOCAL_SELF_TEST_20260521_141302.json`
+
+Local proof SHA256:
+
+`A8131739AD5477F2351D8D04E9103CD6C2E50962E261E47891C981E2CC316039`
+
+Local async job:
+
+`CHILDJOB-20260521-141256-REMOTE-DOOR-V2-ASYNC-PROBE`
+
+Local async receipt SHA256:
+
+`7B72E34516379058B2B6E3A242F686AB23D4621D86E742405055E01CFA383A4B`
+
+Mule external proof:
+
+`C:\Users\13527\Desktop\123\COMMAND_CENTER\REMOTE_DOOR_RELAY_V2\RECEIPTS\REMOTE_DOOR_V2_MULE_EXTERNAL_ASYNC_TEST_20260521_1413.json`
+
+Mule external proof SHA256:
+
+`6E75665431660DE48465F0EB245D2EBB6625343A80F0D2011CC8FE4348FDD7A4`
+
+Mule external job:
+
+`CHILDJOB-20260521-141351-REMOTE-DOOR-V2-ASYNC-PROBE`
+
+Mule external receipt SHA256:
+
+`F45E8163253F84D573079ABA5C37A712CCB760AA5D4D9D8EB9E033D9F0272EB9`
+
+Meaning:
+
+The async door repair passed local proof and mule external proof. Direct ChatGPT-to-PC proof is not claimed until ChatGPT consumes the reserved unused nonce and receipt polling confirms the Child Shell receipt.
+
+Boundary:
+
+No assistant arbitrary shell, raw shell, broad crawl, delete, cleanup, repo write through V2, git through V2, Level 3 through V2, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, permission expansion, or junction/symlink teleporter.

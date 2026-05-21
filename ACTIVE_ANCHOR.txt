@@ -82,3 +82,35 @@ assistant arbitrary shell, raw shell, broad crawl, delete, cleanup, repo write t
 Next clean step:
 
 Use a fresh nonce for a direct ChatGPT call while the temporary tunnel and token are alive, or stop the V2 tunnel/server.
+
+---
+
+# Active Anchor Update - Remote Door Relay V2 Async Probe Repair - 2026-05-21T14:14:25.3650869-04:00
+
+Current position before this save:
+
+main @ fc21912
+
+Current active fact:
+
+Remote Door Relay V2 now supports async remote proof:
+
+`/door/v2/probe_async` creates the bounded Child Shell job and returns quickly; `/door/v2/receipt` is polled for `PENDING`, `PROCESSED / PASS`, `REJECTED`, or `MISSING`.
+
+Clean meaning:
+
+External clients no longer need to hold one long `/probe` request open while Child Shell produces an OUTBOX receipt.
+
+Proof:
+
+Local async test passed status, wrong-token rejection, duplicate nonce rejection, quick `ACCEPTED`, initial `PENDING`, and final receipt `PASS`.
+
+Mule external async proof through Jina Reader created `CHILDJOB-20260521-141351-REMOTE-DOOR-V2-ASYNC-PROBE` and receipt SHA256 `F45E8163253F84D573079ABA5C37A712CCB760AA5D4D9D8EB9E033D9F0272EB9`.
+
+Important caveat:
+
+READY FOR CHATGPT FINAL TEST / NOT YET CLAIMED. Direct ChatGPT proof requires ChatGPT itself to call the reserved unused `/probe_async` URL and then poll `/receipt`.
+
+Still blocked:
+
+assistant arbitrary shell, raw shell, broad crawl, delete, cleanup, repo write through V2, git through V2, Level 3 through V2, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, permission expansion, and junction/symlink teleporter.
