@@ -5001,3 +5001,27 @@ No doctrine, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, runtime, dashbo
 
 Next:
 Use the sorting formula and bridge front door on the next real note/bridge-assisted task as live-use proof.
+
+---
+
+## Child Shell Actuator Live Test
+
+Status: PASS WITH WATCH / SUPPORT RULE SAVED
+Date: 2026-05-21
+Base before save: main @ bde77ea
+
+Meaning:
+The Local Hard Bridge should expose a Child Shell / Sub-PowerShell actuator, not raw PowerShell. The child shell allows named safe functions only and returns responses/receipts.
+
+Proof:
+- house_front_door returned clean git state;
+- a new file was written inside bridge WORKSPACE;
+- a second write to the same target was blocked;
+- raw shell action was blocked;
+- receipts were created.
+
+Watch:
+The first test had request-name order inversion. Future dependent tests need ordered IDs or separate phases.
+
+Boundary:
+No doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, bridge permission expansion, house write, runtime, dashboard, automation, network service, git commit/push from bridge.
