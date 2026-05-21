@@ -58,3 +58,11 @@ Verified proof:
 
 Boundary remains:
 Level 2 approved-helper only. Level 3 remains blocked. No arbitrary shell, no raw shell expansion, no git or Mr.Kleen repo writes through Child Shell.
+
+## STALE UPDATE - LEVEL3 VERIFIED - 20260521
+
+This file previously said or implied Level 3 was blocked, not installed, or not proved.
+
+Update: bounded Level 3 approved house-save package routing is now installed and proved by CHILDJOB-20260521-000011-LEVEL3-BOUNDED-HOUSE-SAVE.
+
+Boundary remains: Level 3 is exact approved package save only. It does not allow assistant-direct local execution from chat, arbitrary shell, raw shell expansion, broad filesystem crawl, delete, permission expansion, unrestricted repo write, uncontrolled git, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, or junction/symlink teleporter.

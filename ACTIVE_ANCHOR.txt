@@ -1,22 +1,29 @@
 Current active ball:
-Level 2 approved-helper route has been repaired, proved, saved, pushed, and independently verified.
+Bridge complete through bounded Level 3. The 123 -> Command Center -> Child Shell bridge is proved through Level 1 read-status, Level 2 approved-helper, and Level 3 exact approved house-save package routing.
 
-Current position:
-main @ e9c9bf1
-Full hash: e9c9bf170b68c2553a7fbad8f13fcdbf3792d219
-origin/main: e9c9bf1
-status: clean
+Current proof:
+Level 0 PASS.
+Level 1 PASS, including regression job CHILDJOB-20260521-000009-LEVEL1-REGRESSION-READ-STATUS.
+Level 2 PASS, including regression job CHILDJOB-20260521-000010-LEVEL2-REGRESSION-APPROVED-HELPER.
+Watcher ensure PASS; watcher running before Level3 package.
+Dispatcher routes Level 1, Level 2, and Level 3 actions.
+Level 3 bounded house-save package selected and proved by CHILDJOB-20260521-000011-LEVEL3-BOUNDED-HOUSE-SAVE.
 
 Current bridge state:
-123 -> Command Center -> Child Shell works through Level 2 approved-helper jobs.
+123 is the doorway. Command Center carries working state. Child Shell consumes approved jobs. Mr.Kleen saves happen only through exact approved Level3 packages.
+
+Next allowed boss:
+Use the bridge conservatively for bounded approved jobs. Any broader power requires separate design, proof, and explicit selection.
 
 Blocked:
-Level 3 remains blocked.
 Assistant-direct local execution from chat is not proved.
 Arbitrary shell is not allowed.
 Raw shell expansion is not allowed.
-Git through Child Shell is not allowed.
-Mr.Kleen repo writes through Child Shell are not allowed.
-
-Next clean step:
-Pause, run a small house status read, or design Level 3 separately later as its own boss.
+Broad filesystem crawl is not allowed.
+Delete is not allowed.
+Permission expansion is not allowed.
+Unrestricted repo write is not allowed.
+Uncontrolled git is not allowed.
+ACTIVE_GUIDES rewrite is not allowed by this proof.
+CURRENT_TRUTH_INDEX rewrite is not allowed by this proof.
+Doctrine rewrite is not allowed by this proof.
