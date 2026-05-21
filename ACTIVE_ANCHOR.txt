@@ -1,20 +1,22 @@
 Current active ball:
-Watcher liveness / stale-PID restart durability locked and saved. Level 2 approved-helper route selected next, not installed.
+Level 2 approved-helper route repaired, proved with fresh job 000008, and saved. Level 3 remains not installed.
 
 Current proof:
 Level 0 PASS.
 Level 1 PASS.
 No-script drop job 000005 PASS and saved.
-Watcher liveness/stale-PID restart job 000006 PASS.
-Watcher PID at save time: 13520.
+Watcher liveness/stale-PID restart job 000006 PASS and saved.
+Level 2 approved-helper job 000008 PASS and saved.
+Watcher PID at save time: 10380.
 Watcher state at save time: RUNNING.
-Level 2 not installed.
 Level 3 not installed.
 
 Next allowed boss:
-Design smallest Level 2 approved-helper route with explicit allowlist, helper hash checks, receipts, and no arbitrary shell.
+Treat Level 2 approved-helper route as saved. Any Level 3 work requires separate design, install, proof, and explicit selection.
 
 Boundary:
 Do not claim assistant-direct local execution from chat.
-Do not claim Level 2/Level 3 execution before proof.
+Do not claim arbitrary shell execution.
+Do not claim Level 3 execution before proof.
 Do not skip to house-save execution through Child Shell.
+Do not allow git or Mr.Kleen repo writes through Child Shell.

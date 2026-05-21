@@ -5139,6 +5139,29 @@ Guardrail: PID 13240 was stale/dead during proof; watcher restart produced new P
 
 Boundary: no assistant-direct local execution claim, no Level2/Level3 promotion, no raw shell expansion, no broad filesystem crawl, no delete, no permission expansion, no junction/symlink teleporter.
 
+## 20260521 - Child Shell Level 2 approved-helper proof lock
+
+Verdict: PASS / LEVEL2 APPROVED HELPER ROUTE REPAIRED AND SAVED.
+
+Repair: `RUN_CHILD_SHELL_LEVEL2_APPROVED_HELPER_ONCE.ps1` no longer rejects an approved PowerShell helper by stale `$LASTEXITCODE`; the helper invocation is wrapped in try/catch and success is validated by required output and hashes before receipt.
+
+Fresh proof job: CHILDJOB-20260521-000008-LEVEL2-APPROVED-HELPER-RETEST.
+
+Validated receipt: C:\Users\13527\Desktop\123\COMMAND_CENTER\CHILD_SHELL\OUTBOX\CHILDJOB-20260521-000008-LEVEL2-APPROVED-HELPER-RETEST.receipt.txt.
+
+Validated receipt SHA256: BD1AD5D313A42E2727C70CA4FBBEEA0AD96DA339DA1016293F19944219EB86D7.
+
+Helper output SHA256: 9240B449D018A055379C12CBAA52C06B634D7D2BA301779A444AB2D07B4378FB.
+
+Saved:
+- BRAIN_LEARNING\CHILD_SHELL_LEVEL2_APPROVED_HELPER_ROUTE_PROOF_RULE_20260521.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\CHILD_SHELL_LEVEL2_APPROVED_HELPER_REPAIR_AND_PROOF_REVIEW_20260521.md
+- PROOF_HISTORY\CHILD_SHELL_LEVEL2_APPROVED_HELPER_LOCK_RECEIPT_20260521.txt
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Boundary: Level 2 proves only one named allowlisted helper. No assistant-direct local execution claim, no arbitrary shell, no raw shell expansion, no git or Mr.Kleen repo write through Child Shell, no Level 3, no doctrine rewrite, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no delete, no broad filesystem crawl, no permission expansion, no junction/symlink teleporter.
+
 ## 20260521 — Watcher liveness / stale-PID durability lock
 
 Verdict: PASS / WATCHER LIVENESS DURABILITY SAVED.
