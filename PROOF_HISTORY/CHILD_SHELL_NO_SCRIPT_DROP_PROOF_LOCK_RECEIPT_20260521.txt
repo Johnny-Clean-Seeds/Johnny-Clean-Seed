@@ -1,0 +1,56 @@
+CHILD SHELL NO-SCRIPT DROP PROOF LOCK RECEIPT
+Date: 2026-05-21T04:14:33.0609591-04:00
+
+Verdict:
+PASS WITH WATCHER-LIVENESS GUARDRAIL / SAVED
+
+Branch before save:
+main
+
+HEAD before save:
+1830e30
+
+HEAD full before save:
+1830e30ef5ed86303deeb2f2a427e6bcdece61a6
+
+Saved files:
+BRAIN_LEARNING\CHILD_SHELL_NO_SCRIPT_DROP_PROOF_AND_WATCHER_LIVENESS_GUARDRAIL_20260521.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\CHILD_SHELL_NO_SCRIPT_DROP_PROOF_REVIEW_20260521.md
+PROOF_HISTORY\CHILD_SHELL_NO_SCRIPT_DROP_PROOF_LOCK_RECEIPT_20260521.txt
+ACTIVE_ANCHOR.txt
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Validated no-script drop receipt:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\CHILD_SHELL\OUTBOX\CHILDJOB-20260521-000005-NO-SCRIPT-DROP-READ-STATUS.receipt.txt
+
+Validated no-script drop receipt SHA256:
+B947A9ECA13905EAF28550EAAE32423246B200A1E6D6F5BF27D81EF59E060225
+
+Watcher PID file at save time:
+8908
+
+Watcher process state at save time:
+RUNNING
+
+Proof meaning:
+A dropped childjob can be consumed by the Child Shell watcher route and routed through Level 1 read-status once the watcher is live.
+
+Guardrail:
+The watcher was stale/dead before restart during proof, so unattended watcher persistence is not fully proved.
+
+Boundary:
+No assistant-direct local execution from chat.
+No arbitrary local execution.
+No Level 2 approved-helper execution.
+No Level 3 Mr.Kleen house-save execution.
+No raw shell expansion.
+No broad filesystem crawl.
+No delete.
+No permission expansion.
+No junction/symlink teleporter.
+No doctrine rewrite.
+No ACTIVE_GUIDES rewrite.
+No CURRENT_TRUTH_INDEX rewrite.
+
+Next:
+Watcher liveness/stale-PID restart durability is the next clean durability boss, unless Level 2 approved-helper route is deliberately selected.

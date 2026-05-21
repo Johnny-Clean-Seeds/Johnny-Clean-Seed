@@ -5122,3 +5122,19 @@ Proof locked:
 Next: Level 1 watcher read-status drops are allowed. Level 2/Level 3 remain blocked until separately installed and proved.
 
 Boundary: no doctrine rewrite, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no raw shell expansion, no permission expansion, no junction/symlink teleporter, no broad filesystem crawl.
+
+## 20260521 — No-script Child Shell watcher drop proof
+
+Verdict: PASS WITH WATCHER-LIVENESS GUARDRAIL.
+
+Active target: CHILDJOB-20260521-000005-NO-SCRIPT-DROP-READ-STATUS.
+
+Proof receipt: C:\Users\13527\Desktop\123\COMMAND_CENTER\CHILD_SHELL\OUTBOX\CHILDJOB-20260521-000005-NO-SCRIPT-DROP-READ-STATUS.receipt.txt.
+
+Proof receipt SHA256: B947A9ECA13905EAF28550EAAE32423246B200A1E6D6F5BF27D81EF59E060225.
+
+Meaning: dropped childjob consumption works through watcher route once watcher is live.
+
+Guardrail: PID 13240 was stale/dead during proof; watcher restart produced new PID 8908 before receipt appeared. Unattended watcher persistence remains PARTIAL and should be treated as the next durability boss if selected.
+
+Boundary: no assistant-direct local execution claim, no Level2/Level3 promotion, no raw shell expansion, no broad filesystem crawl, no delete, no permission expansion, no junction/symlink teleporter.

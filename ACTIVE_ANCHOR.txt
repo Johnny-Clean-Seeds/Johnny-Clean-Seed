@@ -1,15 +1,19 @@
 Current active ball:
-Child Shell Level 0, Level 1, watcher trigger, PID collision repair, and related Problem Solver/Collapse/Artifact-balance rules have been locked as an apply-all save.
+No-script Child Shell watcher drop proof locked with liveness guardrail.
 
 Current proof:
 Level 0 PASS.
 Level 1 PASS.
-Watcher trigger PASS after PID collision repair.
+Watcher PID collision repair PASS.
+No-script drop job 000005 PASS after watcher restart.
+Watcher unattended persistence PARTIAL / liveness durability not fully proved.
 Level 2 not installed.
 Level 3 not installed.
 
 Next allowed boss:
-Use watcher route for Level 1 read-status childjob drops only, or design Level 2 approved-helper route as a separate bounded boss.
+Repair watcher liveness/stale-PID restart durability, or separately design Level 2 approved-helper route.
 
 Boundary:
-No raw shell expansion. No Command Center house-save execution. No Level 2/Level 3 promotion without separate proof.
+Do not claim assistant-direct local execution from chat.
+Do not claim Level 2/Level 3 execution.
+Do not skip to house-save execution through Child Shell.
