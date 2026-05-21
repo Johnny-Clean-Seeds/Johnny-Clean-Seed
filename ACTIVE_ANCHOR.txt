@@ -1,19 +1,18 @@
 # ACTIVE ANCHOR
 
 Recorded base before this save:
-main @ bde77ea
+main @ 3246f10
 
 Current active ball:
-Child Shell / Sub-PowerShell actuator first live test passed with watch and was saved as support evidence.
+Sam review packet for Child Shell + Recursive Core Architecture has been locked to git as a public-review proof packet.
 
 Next allowed move:
-Run an ordered Child Shell dependent request test or a path-traversal/extension-block test before any bridge permission expansion.
+Choose public review route, or run next bridge hardening test. Do not expand bridge power without separate proof.
 
 Blocked moves:
-- Do not expose raw PowerShell.
-- Do not add arbitrary shell.
-- Do not add delete, overwrite, house write, git commit, git push, runtime, dashboard, automation, or network service.
-- Do not promote Child Shell to doctrine yet.
+- Do not call this production-security proof.
+- Do not install doctrine from the packet.
 - Do not rewrite ACTIVE_GUIDES.
 - Do not rewrite CURRENT_TRUTH_INDEX.
-- Do not ignore the request-order watch item.
+- Do not expand bridge permissions.
+- Do not expose private paths beyond what the packet intentionally contains.

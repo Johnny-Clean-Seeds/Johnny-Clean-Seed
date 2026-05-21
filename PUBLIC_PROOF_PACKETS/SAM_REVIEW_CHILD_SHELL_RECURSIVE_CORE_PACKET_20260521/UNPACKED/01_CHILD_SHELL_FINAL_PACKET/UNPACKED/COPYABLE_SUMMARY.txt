@@ -1,0 +1,26 @@
+Child Shell is a bounded local actuator pattern for safe AI-to-PC work.
+
+Formula:
+AI request -> policy gate -> child action -> local function -> response + receipt
+
+The assistant does not get raw terminal access. It gets named child actions only.
+
+V1 proof passed:
+- allowed workspace write passed
+- overwrite blocked
+- raw shell blocked
+- path traversal blocked
+- .ps1 write blocked
+- read-only file access worked
+- file hashing worked
+- front door clean before and after
+- HEAD == origin/main before and after
+
+Evidence report SHA256:
+1F44E8E77457EDFFB65A3C0E1B2591DDED9D70C1AD7FC299D8985E303BC23850
+
+Precise claim:
+A bounded local bridge can expose named child actions instead of raw terminal access, perform allowed work, block unsafe requests, produce auditable proof, and leave the working state clean.
+
+Boundary:
+Prototype behavior proved. Production hardening not claimed.

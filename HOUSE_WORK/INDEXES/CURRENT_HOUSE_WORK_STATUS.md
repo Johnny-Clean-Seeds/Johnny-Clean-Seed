@@ -5025,3 +5025,23 @@ The first test had request-name order inversion. Future dependent tests need ord
 
 Boundary:
 No doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, bridge permission expansion, house write, runtime, dashboard, automation, network service, git commit/push from bridge.
+
+---
+
+## Sam Review Packet - Child Shell + Recursive Core
+
+Status: PACKET LOCKED TO GIT
+Date: 2026-05-21
+Base before save: main @ 3246f10
+
+Packet:
+PUBLIC_PROOF_PACKETS\SAM_REVIEW_CHILD_SHELL_RECURSIVE_CORE_PACKET_20260521
+
+Meaning:
+Public-review packet for Child Shell, Recursive Core Architecture, LocalBot machine evidence, and doctrine visuals.
+
+ZIP SHA256:
+62FA95B55CB8B8F52B5D39EFEC002957BFB6D7489B304C6499F9C4D234A6056C
+
+Boundary:
+No doctrine install, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no bridge permission expansion.
