@@ -1,22 +1,22 @@
 Current active ball:
-Level 2 approved-helper route repaired, proved with fresh job 000008, and saved. Level 3 remains not installed.
+Level 2 approved-helper route has been repaired, proved, saved, pushed, and independently verified.
 
-Current proof:
-Level 0 PASS.
-Level 1 PASS.
-No-script drop job 000005 PASS and saved.
-Watcher liveness/stale-PID restart job 000006 PASS and saved.
-Level 2 approved-helper job 000008 PASS and saved.
-Watcher PID at save time: 10380.
-Watcher state at save time: RUNNING.
-Level 3 not installed.
+Current position:
+main @ e9c9bf1
+Full hash: e9c9bf170b68c2553a7fbad8f13fcdbf3792d219
+origin/main: e9c9bf1
+status: clean
 
-Next allowed boss:
-Treat Level 2 approved-helper route as saved. Any Level 3 work requires separate design, install, proof, and explicit selection.
+Current bridge state:
+123 -> Command Center -> Child Shell works through Level 2 approved-helper jobs.
 
-Boundary:
-Do not claim assistant-direct local execution from chat.
-Do not claim arbitrary shell execution.
-Do not claim Level 3 execution before proof.
-Do not skip to house-save execution through Child Shell.
-Do not allow git or Mr.Kleen repo writes through Child Shell.
+Blocked:
+Level 3 remains blocked.
+Assistant-direct local execution from chat is not proved.
+Arbitrary shell is not allowed.
+Raw shell expansion is not allowed.
+Git through Child Shell is not allowed.
+Mr.Kleen repo writes through Child Shell are not allowed.
+
+Next clean step:
+Pause, run a small house status read, or design Level 3 separately later as its own boss.

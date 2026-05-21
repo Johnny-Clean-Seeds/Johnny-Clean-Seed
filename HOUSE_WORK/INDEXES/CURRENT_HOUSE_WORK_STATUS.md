@@ -5179,3 +5179,21 @@ Watcher state at save time: RUNNING.
 Next: Level 2 approved-helper route selected next, but not installed.
 
 Boundary: no assistant-direct local execution claim, no Level2/Level3 promotion, no raw shell expansion, no broad filesystem crawl, no delete, no permission expansion, no junction/symlink teleporter.
+
+## 20260521 — Post-Level2 progress and stale rule update
+
+Verdict: PASS / LEVEL2 VERIFIED AND STALE RULES UPDATED.
+
+Current position: main @ e9c9bf1.
+
+Full hash: e9c9bf170b68c2553a7fbad8f13fcdbf3792d219.
+
+Repo proof receipt SHA256: 6F851F7E88234DDFD3632F9B842C22355360FF16A82BEE2163D3A42894A91EFA.
+
+Level2 receipt SHA256: BD1AD5D313A42E2727C70CA4FBBEEA0AD96DA339DA1016293F19944219EB86D7.
+
+Bridge state: 123 -> Command Center -> Child Shell works through Level 2 approved-helper routing.
+
+Stale update: earlier Level2 selected-next / not-installed notes were updated where present.
+
+Boundary: Level3 remains blocked; no assistant-direct local execution claim; no arbitrary shell; no raw shell expansion; no git or Mr.Kleen repo writes through Child Shell.

@@ -99,3 +99,18 @@ This does not allow arbitrary shell execution, raw shell expansion, broad filesy
 Level 2 approved-helper route is selected next, but it must be separately designed, bounded, allowlisted, tested, and saved.
 
 Do not skip directly to Level 3.
+
+## STALE UPDATE — LEVEL2 VERIFIED — 20260521
+
+This file previously described Level 2 as selected next / not installed.
+
+Update: Level 2 approved-helper route is now verified and saved at main @ e9c9bf1.
+
+Verified proof:
+- Repo proof receipt: PROOF_HISTORY\CHILD_SHELL_LEVEL2_APPROVED_HELPER_LOCK_RECEIPT_20260521.txt
+- Repo proof receipt SHA256: 6F851F7E88234DDFD3632F9B842C22355360FF16A82BEE2163D3A42894A91EFA
+- Level2 receipt: C:\Users\13527\Desktop\123\COMMAND_CENTER\CHILD_SHELL\OUTBOX\CHILDJOB-20260521-000008-LEVEL2-APPROVED-HELPER-RETEST.receipt.txt
+- Level2 receipt SHA256: BD1AD5D313A42E2727C70CA4FBBEEA0AD96DA339DA1016293F19944219EB86D7
+
+Boundary remains:
+Level 2 approved-helper only. Level 3 remains blocked. No arbitrary shell, no raw shell expansion, no git or Mr.Kleen repo writes through Child Shell.
