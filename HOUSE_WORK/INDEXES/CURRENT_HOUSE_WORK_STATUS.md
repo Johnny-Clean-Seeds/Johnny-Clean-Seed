@@ -5239,3 +5239,23 @@ Allowlist SHA256 after repair: E500C2F1CD9B9FAE8047FD7F2355CB57FC5E1FF674C4F77ED
 Meaning: Level3 proof requires both bounded save commit/push and Child Shell OUTBOX receipt. This package records the repair and final receipt proof without widening permissions.
 
 Boundary: no assistant-direct local execution claim, no arbitrary shell, no raw shell expansion, no broad filesystem crawl, no delete, no permission expansion, no unrestricted repo write, no uncontrolled git, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no doctrine rewrite.
+
+---
+
+## Assistant Door Relay Local Manual Intake Proof â€” 2026-05-21T13:29:18.0373098-04:00
+
+State: PASS / LOCAL MANUAL ASSISTANT-DOOR RELAY PROVED
+
+Bridge remains complete through bounded Level 3 at base 678af1.
+
+New proof added: Assistant Door Relay hotfix and fresh probe proved local manual intake into Child Shell.
+
+Hotfix job: CHILDJOB-20260521-131016-ASSISTANT-DOOR-READ-STATUS-HOTFIX
+Hotfix receipt SHA256: $HotfixChildReceiptHash
+
+Fresh probe job: CHILDJOB-20260521-132249-ASSISTANT-DOOR-FRESH-PROBE
+Fresh probe receipt SHA256: $FreshReceiptHash
+
+Meaning: assistant-created/local-relayed Level 1 read-status jobs can enter Child Shell and produce OUTBOX receipts.
+
+Boundary: this is not assistant-direct execution from chat and not zero-copy phone-to-PC execution. Arbitrary shell, raw command expansion, broad crawl, delete, uncontrolled git, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, and doctrine rewrite remain blocked.

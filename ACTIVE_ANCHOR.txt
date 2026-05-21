@@ -24,3 +24,27 @@ Uncontrolled git is not allowed.
 ACTIVE_GUIDES rewrite is not allowed by this proof.
 CURRENT_TRUTH_INDEX rewrite is not allowed by this proof.
 Doctrine rewrite is not allowed by this proof.
+
+---
+
+# Active Anchor Update â€” Assistant Door Relay Local Manual Intake Proof â€” 2026-05-21T13:29:18.0373098-04:00
+
+Current position before this save:
+
+main @ a678af1
+
+Current active fact:
+
+Assistant Door Relay local manual intake is proved by hotfix job CHILDJOB-20260521-131016-ASSISTANT-DOOR-READ-STATUS-HOTFIX and fresh probe job CHILDJOB-20260521-132249-ASSISTANT-DOOR-FRESH-PROBE.
+
+Clean meaning:
+
+The bridge can now consume a bounded assistant-door local manual relay job through Child Shell and produce an OUTBOX receipt.
+
+Still blocked:
+
+assistant-direct execution from chat, zero-copy phone-to-PC execution, arbitrary shell, raw command expansion, broad crawl, delete, permission expansion, unrestricted repo write, uncontrolled git, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, and junction/symlink teleporter.
+
+Next clean step:
+
+Either stop/pause, or design Remote Door Relay V2 as a separate boss if no-copy phone-to-PC use is desired.
