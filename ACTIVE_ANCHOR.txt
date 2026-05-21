@@ -48,3 +48,37 @@ assistant-direct execution from chat, zero-copy phone-to-PC execution, arbitrary
 Next clean step:
 
 Either stop/pause, or design Remote Door Relay V2 as a separate boss if no-copy phone-to-PC use is desired.
+
+---
+
+# Active Anchor Update - Remote Door Relay V2 Quiet Ear / Mouth - 2026-05-21T13:56:21.8027179-04:00
+
+Current position before this save:
+
+main @ 5cd4a6e
+
+Current active fact:
+
+Remote Door Relay V2 is built under `C:\Users\13527\Desktop\123\COMMAND_CENTER\REMOTE_DOOR_RELAY_V2` as a loopback-only local server with optional temporary Cloudflare quick tunnel exposure.
+
+Clean meaning:
+
+The PC can receive a token/nonce-gated public request, create one bounded Child Shell Level 1 `read_command_center_status` job, and return compact receipt proof.
+
+Proof:
+
+Local self-test passed status, wrong-token rejection, duplicate-nonce rejection, and local probe receipt creation.
+
+External fetch proof through Jina Reader created Child Shell job `CHILDJOB-20260521-135454-REMOTE-DOOR-V2-PROBE` and receipt SHA256 `298A63824400AB4A605B3EA5AD5D4FC0C560177533E6D21DD65E0F7C65912AF6`.
+
+Important caveat:
+
+This save does not claim direct ChatGPT web-fetch proof. Direct ChatGPT proof requires ChatGPT itself to call the temporary public URL with a fresh nonce.
+
+Still blocked:
+
+assistant arbitrary shell, raw shell, broad crawl, delete, cleanup, repo write through V2, git through V2, Level 3 through V2, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, permission expansion, and junction/symlink teleporter.
+
+Next clean step:
+
+Use a fresh nonce for a direct ChatGPT call while the temporary tunnel and token are alive, or stop the V2 tunnel/server.

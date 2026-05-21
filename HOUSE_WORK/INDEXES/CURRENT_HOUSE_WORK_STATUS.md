@@ -5259,3 +5259,61 @@ Fresh probe receipt SHA256: $FreshReceiptHash
 Meaning: assistant-created/local-relayed Level 1 read-status jobs can enter Child Shell and produce OUTBOX receipts.
 
 Boundary: this is not assistant-direct execution from chat and not zero-copy phone-to-PC execution. Arbitrary shell, raw command expansion, broad crawl, delete, uncontrolled git, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, and doctrine rewrite remain blocked.
+
+---
+
+## 20260521 - Remote Door Relay V2 quiet ear / mouth
+
+Status: PASS / PUBLIC TUNNEL EXTERNAL FETCH CREATED CHILD SHELL RECEIPT
+
+Direct ChatGPT web-fetch proof: NOT CLAIMED
+
+Base before save: main @ 5cd4a6e
+
+V2 root:
+
+`C:\Users\13527\Desktop\123\COMMAND_CENTER\REMOTE_DOOR_RELAY_V2`
+
+Local server:
+
+`C:\Users\13527\Desktop\123\COMMAND_CENTER\REMOTE_DOOR_RELAY_V2\SERVER\remote_door_v2_server.py`
+
+Local bind:
+
+`127.0.0.1:8792`
+
+Tunnel method:
+
+Cloudflare quick tunnel.
+
+Local proof:
+
+`C:\Users\13527\Desktop\123\COMMAND_CENTER\REMOTE_DOOR_RELAY_V2\RECEIPTS\REMOTE_DOOR_V2_LOCAL_SELF_TEST_20260521_135212.json`
+
+Local proof SHA256:
+
+`8AEF699160EF5312B9C7A982D790A507AE55E2F8671E275BEEFA331DD994E187`
+
+External proof:
+
+`C:\Users\13527\Desktop\123\COMMAND_CENTER\REMOTE_DOOR_RELAY_V2\RECEIPTS\REMOTE_DOOR_V2_EXTERNAL_JINA_PROOF_20260521_135454.json`
+
+External proof SHA256:
+
+`E528268CFBEE5A78239135D8A3426D972F22BC36688C44D4F9F91553B00332AE`
+
+External Child Shell job:
+
+`CHILDJOB-20260521-135454-REMOTE-DOOR-V2-PROBE`
+
+External Child Shell receipt SHA256:
+
+`298A63824400AB4A605B3EA5AD5D4FC0C560177533E6D21DD65E0F7C65912AF6`
+
+Meaning:
+
+Remote Door Relay V2 is a narrow transport proof: token, expiry, single-use nonce, one action only, compact proof mouth, and normal Child Shell Level 1 receipt.
+
+Boundary:
+
+No assistant arbitrary shell, raw shell, broad crawl, delete, cleanup, repo write through V2, git through V2, Level 3 through V2, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, permission expansion, or junction/symlink teleporter.

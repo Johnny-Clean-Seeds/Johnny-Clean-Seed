@@ -1,0 +1,100 @@
+REMOTE DOOR RELAY V2 EXTERNAL FETCH LOCK RECEIPT
+
+Created:
+2026-05-21T13:56:21.8027179-04:00
+
+Run ID:
+REMOTE_DOOR_RELAY_V2_20260521_135115
+
+Verdict:
+PASS / REMOTE DOOR V2 PUBLIC TUNNEL EXTERNAL FETCH CREATED CHILD SHELL RECEIPT
+
+Repo:
+C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+
+Base HEAD:
+5cd4a6e
+
+Base full HEAD:
+5cd4a6ee85ec8d55ca382244122e230eab6ef930
+
+Base origin/main:
+5cd4a6ee85ec8d55ca382244122e230eab6ef930
+
+Base status:
+clean
+
+Remote Door Relay V2 root:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\REMOTE_DOOR_RELAY_V2
+
+Server:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\REMOTE_DOOR_RELAY_V2\SERVER\remote_door_v2_server.py
+
+Local bind:
+127.0.0.1
+
+Local port:
+8792
+
+Tunnel method:
+Cloudflare quick tunnel
+
+cloudflared version:
+2026.5.0
+
+cloudflared SHA256:
+F141CDED099C239171AD2CEA6FB5DA0FDAA2BD36104C3074D883F9546519EBA7
+
+Local self-test proof:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\REMOTE_DOOR_RELAY_V2\RECEIPTS\REMOTE_DOOR_V2_LOCAL_SELF_TEST_20260521_135212.json
+
+Local self-test proof SHA256:
+8AEF699160EF5312B9C7A982D790A507AE55E2F8671E275BEEFA331DD994E187
+
+Local probe job:
+CHILDJOB-20260521-135206-REMOTE-DOOR-V2-PROBE
+
+Local probe receipt:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\CHILD_SHELL\OUTBOX\CHILDJOB-20260521-135206-REMOTE-DOOR-V2-PROBE.receipt.txt
+
+Local probe receipt SHA256:
+F5B43893D5AF035F0FD9F8249B1E6A9D7EDCFB796E67023C1BE12CF214C1F568
+
+External request method:
+Jina Reader fetch service to Cloudflare quick tunnel.
+
+External proof caveat:
+This proves external public reachability and PC Child Shell receipt creation from that external fetch. It is not direct ChatGPT web-fetch proof.
+
+External proof file:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\REMOTE_DOOR_RELAY_V2\RECEIPTS\REMOTE_DOOR_V2_EXTERNAL_JINA_PROOF_20260521_135454.json
+
+External proof SHA256:
+E528268CFBEE5A78239135D8A3426D972F22BC36688C44D4F9F91553B00332AE
+
+External probe job:
+CHILDJOB-20260521-135454-REMOTE-DOOR-V2-PROBE
+
+External processed childjob:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\CHILD_SHELL\PROCESSED\CHILDJOB-20260521-135454-REMOTE-DOOR-V2-PROBE.childjob.json
+
+External probe receipt:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\CHILD_SHELL\OUTBOX\CHILDJOB-20260521-135454-REMOTE-DOOR-V2-PROBE.receipt.txt
+
+External probe receipt SHA256:
+298A63824400AB4A605B3EA5AD5D4FC0C560177533E6D21DD65E0F7C65912AF6
+
+Files created in Mr.Kleen:
+BRAIN_LEARNING\REMOTE_DOOR_RELAY_V2_QUIET_EAR_MOUTH_RULE_20260521.md
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\REMOTE_DOOR_RELAY_V2_EXTERNAL_FETCH_REVIEW_20260521.md
+PROOF_HISTORY\REMOTE_DOOR_RELAY_V2_EXTERNAL_FETCH_LOCK_RECEIPT_20260521.txt
+
+Files updated in Mr.Kleen:
+ACTIVE_ANCHOR.txt
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Boundary:
+No assistant arbitrary shell. No raw shell. No broad crawl. No delete. No cleanup. No repo write through V2. No git through V2. No Level 3 through V2. No ACTIVE_GUIDES rewrite. No CURRENT_TRUTH_INDEX rewrite. No doctrine rewrite. No permission expansion. No junction/symlink teleporter.
+
+Meaning:
+Remote Door Relay V2 can accept a temporary token/nonce-gated public request, create a bounded Level 1 Child Shell read-status job, and return compact proof. Direct ChatGPT-call proof remains a separate final call with a fresh nonce.
