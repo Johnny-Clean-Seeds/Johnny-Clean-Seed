@@ -1,28 +1,20 @@
 # ACTIVE ANCHOR
 
 Recorded base before this save:
-main @ 
-07bcc2d
+main @ fbfdba8
 
 Current active ball:
-HNS Mesh V2 mule revision handoff from 123 outside storage unit, plus adopt/adapt found-fix repair.
-
-Current active handoff:
-HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\ACTIVE_HANDOFFS\HNS_MESH_V2_REVISION_HANDOFF_20260520_20260520_205251
-
-Read-first file:
-HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\ACTIVE_HANDOFFS\HNS_MESH_V2_REVISION_HANDOFF_20260520_20260520_205251\READ_FIRST_FOR_MULE_HNS_MESH_V2_20260520.md
+HNS Mesh V2 and Common Sense mule returns have been intaken and saved as support evidence; next clean move is Assistant-Mule Exchange Bridge save into Mule Workshop.
 
 Next allowed move:
-Mule reads active handoff first, completes V2 revision packet, returns outputs to the named RETURNS lane. House must read/disposition mule output before adoption.
+Run the Assistant-Mule Exchange Bridge save helper or rebuild it if needed, now that the mule returns are no longer loose dirty state after this save.
 
 Blocked moves:
-- Do not treat 123 as authority.
-- Do not treat mule output as command.
 - Do not install HNS Mesh as doctrine.
+- Do not install Common Sense Gate as doctrine.
 - Do not rewrite ACTIVE_GUIDES.
 - Do not rewrite CURRENT_TRUTH_INDEX.
-- Do not build runtime, dashboard, automation, or permanent alarm feed from this handoff.
-- Do not leave old handoffs mixed with current handoffs.
-- Do not continue using a known-failing route after a better fix is found.
-- Keep No Alarm King.
+- Do not build runtime, dashboard, automation, permanent alarm feed, or knowledge graph.
+- Do not treat mule output as authority.
+- Do not skip tiny tests before promotion.
+- Do not let source research become command.

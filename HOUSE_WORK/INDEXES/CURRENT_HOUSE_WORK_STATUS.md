@@ -4916,3 +4916,35 @@ Meaning:
 
 Boundary:
 No doctrine, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no runtime, no automation, no dashboard, no mule-as-authority.
+
+---
+
+## HNS Mesh V2 And Common Sense Mule Returns Intake
+
+Status: RETURNS SAVED AS SUPPORT EVIDENCE / NO ADOPTION
+Date: 2026-05-21
+Base before save: main @ fbfdba8
+
+HNS return:
+HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\RETURNS\HNS_MESH_V2_REVISION_RETURN_20260520
+
+Common Sense return:
+HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\RETURNS\COMMON_SENSE_DEEP_RESEARCH_RETURN_20260521
+
+Intake note:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\HNS_AND_COMMON_SENSE_MULE_RETURNS_INTAKE_DISPOSITION_20260521.md
+
+Direction note:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\MODEL_SPINE_FOCUS_COMMON_SENSE_DIRECTION_CLARITY_20260521.md
+
+TODO:
+HOUSE_WORK\TODO\MODEL_SPINE_FOCUS_COMMON_SENSE_NEXT_TINY_TESTS_TODO_20260521.md
+
+Meaning:
+The two returns establish a clearer direction: Model Spine plus Focus Nerve plus Common Sense Gate. These are support evidence and save/lock candidates, not installed doctrine.
+
+Next:
+Save Assistant-Mule Exchange Bridge into Mule Workshop after this intake commit is clean.
+
+Boundary:
+No doctrine, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no runtime, no dashboard, no automation, no permanent alarm feed, no mule-as-authority.
