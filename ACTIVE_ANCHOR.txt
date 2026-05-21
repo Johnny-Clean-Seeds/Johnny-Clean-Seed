@@ -1,86 +1,32 @@
 # ACTIVE ANCHOR
 
-Date: 2026-05-20
-Current active ball after this save: Route selection under Rule-Firing Confirmation Card
+Recorded base before this save:
+main @ 4893da1
 
-## Last completed move
+Current active ball:
+Valence Council / Gated Valence Torus source-pattern candidate.
 
-Saved narrow stale-heading repair for TODO control surfaces.
+Current status:
+Saved as source-pattern architecture, not doctrine.
 
-Files repaired:
-- HOUSE_WORK\TODO\TODO_CONTROL_BOARD_20260518.md
-- HOUSE_WORK\TODO\TODO_INDEX_20260518.md
+Next allowed move:
+Use one tiny natural cycle only when a real task calls for autonomy, personality, valence, growth-stage timing, conflicting-drive, polarity, contamination, or this-feels-off judgment.
 
-Proof:
-HOUSE_WORK\WORK_SHED\SORTING_BENCH\TODO_CONTROL_SURFACE_STALE_HEADING_REPAIR_20260520.md
+Tiny cycle:
+TRIGGER -> MEMBRANE -> SALIENCE -> PERCEPTION -> AFFORDANCE -> RELEVANT INFLUENCES -> POLARITY/COUNTERWEIGHT -> VALENCE -> MOTIVATION -> ACTION OPTION -> AUTHORITY/PROOF/BOUNDARY -> RESULT -> FEEDBACK ROUTE -> BRAKE/DECAY/STRENGTHEN/WEAKEN -> MEMORY RESIDUE -> ATTRACTOR/ESCAPE PATH -> STOP CONDITION
 
-Verdict:
-PASS as narrow wording repair.
-
-Meaning:
-Old "current recommended" and "next active work" labels were demoted to historical support wording so they cannot compete with ACTIVE_ANCHOR.txt or current user command.
-
-## Current control state
-
-Rule-Firing Confirmation Card remains active before nontrivial Mr.Kleen house-touching action.
-
-Relevant Root Key / Tool Use Selector remains support-only.
-
-Habit / MAA lens remains support-only.
-
-RCE / Report Gate TODO remains PASS / PARTIAL because full report gate is still open.
-
-No Rule King remains open as guard.
-
-Big Overall Job mule return is fully intaken/dispositioned and parked as support evidence.
-
-TODO control board/index are support surfaces only and no longer carry live-looking current recommendation headings.
-
-No item is promoted.
-
-## Next allowed move
-
-Return to route selection under the Rule-Firing Confirmation Card.
-
-Select one route by current anchor/status and active proof need, not newest-file pressure or stale support-surface wording.
-
-Use Habit / MAA only when repeated pattern or transfer decision appears.
-
-Use No Rule King whenever a rule, card, selector, suit, tool, TODO, map, or mule output risks becoming king.
-
-## Blocked moves
-
-- Do not run another mule pass by inertia.
-- Do not adopt mule output as command authority.
-- Do not promote the selector from varied proof.
-- Do not promote No Rule King from partial proof.
-- Do not promote RCE map/report gate from partial proof.
-- Do not promote the card from limited proof.
-- Do not promote Habit/MAA from limited proof.
-- Do not create dashboard, automation, runtime, knowledge graph, or full lesson index.
-- Do not rewrite doctrine.
-- Do not rewrite active guides.
+Blocked moves:
+- Do not install doctrine.
+- Do not rewrite ACTIVE_GUIDES.
 - Do not rewrite CURRENT_TRUTH_INDEX.
-
----
-
-## Whirlpool Run 001 Brain Import / Soft Loadout
-
-Date: 2026-05-20
-Status: LOADED AS SOURCE PACKET EVIDENCE + SOFT WORKING LOADOUT
-
-Imported:
-HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\RETURNS\WHIRLPOOL_RUN_001_20260520_073043_BRAIN_IMPORT\ORIGINAL_PACKET
-
-Soft loadout:
-BRAIN_LEARNING\WHIRLPOOL_RUN_001_SOFT_LOADOUT_RULE_20260520.md
-
-Meaning:
-- Whirlpool packet files are now in Mr.Kleen brain;
-- use source files, not duplicate helper copies;
-- Whirlpool rhythm is worn operationally;
-- mule remains worker/sharpener, not supervisor;
-- no doctrine/guide/CTI promotion happened.
-
-Current active ball after this import:
-Use the loaded Whirlpool soft loadout while continuing current work. Do not run another mule pass by inertia.
+- Do not build runtime, automation, dashboard, knowledge graph, or full autonomy layer.
+- Do not create active personality engine.
+- Do not assign fixed assistant zodiac identity.
+- Do not let any planet/influence/loop become command authority.
+- Do not use all planets on every task.
+- Do not run feedback without routing.
+- Do not accelerate without brake/decay.
+- Do not create attractor without escape path.
+- Do not confuse stillness with freeze.
+- Do not use the unrevealed later part.
+- Keep No Rule King.

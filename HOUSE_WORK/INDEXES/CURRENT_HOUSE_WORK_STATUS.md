@@ -4825,3 +4825,29 @@ Blocked moves:
 - Do not broadly rewrite status/history.
 - Do not build dashboard, runtime, automation, knowledge graph, or full lesson index.
 - Do not treat Deep Web RCE recommendation as current command.
+
+---
+
+## Valence Council / Gated Valence Torus Source Pattern
+
+Status: SOURCE-PATTERN CANDIDATE SAVED / NOT DOCTRINE
+Date: 2026-05-20
+Base before save: 4893da1
+
+Source pattern:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\VALENCE_COUNCIL_GATED_TORUS_SOURCE_PATTERN_20260520.md
+
+TODO:
+HOUSE_WORK\TODO\VALENCE_COUNCIL_GATED_TORUS_LIVE_USE_TODO_20260520.md
+
+Meaning:
+The Valence Council / Gated Valence Torus concept has been saved as bounded architecture source-pattern material.
+
+Key idea:
+Personality can compound through repeated gated cycles of trigger, membrane entry, salience, perception, affordance, influence, valence, motivation, proof, action, feedback routing, brake/decay, memory residue, and attractor formation.
+
+Next:
+One natural tiny cycle only if a real task calls for autonomy/personality/valence/growth-stage/conflicting-drive judgment.
+
+Boundary:
+No doctrine install, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no runtime/automation/dashboard/knowledge graph/full autonomy layer, no fixed sign, no planet-as-command.

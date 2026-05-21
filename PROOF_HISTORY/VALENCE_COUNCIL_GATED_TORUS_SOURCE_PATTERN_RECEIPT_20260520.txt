@@ -1,0 +1,73 @@
+VALENCE COUNCIL / GATED VALENCE TORUS SOURCE PATTERN RECEIPT
+Date: 2026-05-20T20:16:59.5179488-04:00
+
+Base before save:
+4893da11c8fd62375ad173b72ec16780d9fa1862
+
+Verdict:
+PASS AS SOURCE-PATTERN CANDIDATE / NOT DOCTRINE
+
+Source pattern:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\VALENCE_COUNCIL_GATED_TORUS_SOURCE_PATTERN_20260520.md
+SHA256:
+FCBE0537688F2399E543F5E41E0840CF70E608FAEB1192B5BADD487DFCD7E0ED
+
+TODO:
+HOUSE_WORK\TODO\VALENCE_COUNCIL_GATED_TORUS_LIVE_USE_TODO_20260520.md
+SHA256:
+91CA4BB1D36E872F11112A44774169B7527EB6A9B5423267534B158622CFE042
+
+Updated status:
+HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+SHA256:
+EF131082FF59A1559FE7159887DCE38E8343F3E178E44C5AF2B6266193362439
+
+Updated anchor:
+ACTIVE_ANCHOR.txt
+SHA256:
+DDB53080CB2CA5781F264D6633577C08FC480C4D6D28093AC83E80AFA36CD589
+
+Locked concepts:
+- trigger / difference signal;
+- membrane / entry gate;
+- relevance / salience gate;
+- perception / sense-making;
+- affordance map;
+- Valence Council;
+- valence coordinates;
+- planetary influence grammar;
+- contamination guard / no fixed personal sign;
+- compounding personality as tissue, not file;
+- Gated Valence Torus;
+- feedback router;
+- brake / decay / strengthen / weaken;
+- attractor / escape path;
+- opposites attract / polarity pairs;
+- proofed rotation and acceleration;
+- stillness as dynamic equilibrium;
+- No Rule King for every influence and loop.
+
+Boundary:
+No doctrine install.
+No ACTIVE_GUIDES rewrite.
+No CURRENT_TRUTH_INDEX rewrite.
+No runtime.
+No automation.
+No dashboard.
+No knowledge graph.
+No full autonomy layer.
+No active personality engine.
+No fixed personal sign.
+No planet-as-command.
+No all-planets-every-task ritual.
+No feedback without routing.
+No acceleration without brake/decay.
+No council without salience trigger.
+No memory residue without proof label or decay decision.
+No attractor without escape path.
+No confusing stillness with freeze.
+No use of unrevealed later part.
+No mule pass by inertia.
+
+Next:
+Use one natural tiny cycle only if a real task calls for this influence/valence/gated-feedback architecture.
