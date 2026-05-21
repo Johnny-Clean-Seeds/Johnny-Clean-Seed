@@ -1,24 +1,25 @@
 ACTIVE ANCHOR
 
 Current position:
-main @ pending Rule Bloom and Stack Capture save
+main @ pending Data Order / Ouroboros Ledger save
 
 Current boss:
-Rule Bloom and Stack Capture / provisional rule-growth handling.
+Data Order / Ouroboros Ledger architecture.
 
 Current verdict target:
-PASS WITH RULE-BLOOM WATCH.
+PASS WITH LEDGER-LOOP WATCH.
 
 Installed intent:
-When an issue, idea, fix, rule, or correction is addressed, capture it as active provisional rule/idea unless deliberately rejected. If there is a stack, collect the stack before collapse.
+Use Data Collection -> Inventory -> Housekeeping -> Data Management -> Workflow -> return as the ordered loop for ledgered intake and stale-check replacement.
 
 Next allowed move:
-Use this on the next correction/proof-gap/rule-growth moment.
+Use the Intake Ledger Ouroboros Card on the next bulky file, incoming packet, rule stack, source-ore job, or correction cluster.
 
 Blocked moves:
-- Do not treat rule bloom as final doctrine.
-- Do not collapse stacks too early.
-- Do not ignore related stack items.
+- Do not treat this as doctrine.
 - Do not rewrite ACTIVE_GUIDES from this install.
 - Do not rewrite CURRENT_TRUTH_INDEX from this install.
-- Do not promote Soft Suit to Hard Suit without proof.
+- Do not install a runtime checker from this save.
+- Do not expand bridge permissions.
+- Do not create junction/symlink teleporters.
+- Do not use pi/golden ratio as proof uniqueness by itself.
