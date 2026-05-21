@@ -5062,3 +5062,25 @@ Verdict target: PASS WITH SOFT SUIT WATCH.
 Boundary: no doctrine rewrite, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no bridge permission expansion, no junction/symlink teleporter.
 
 Next move: use Broad-Bite Rule Machine on the next rule repair or proof-gap moment.
+
+## 20260521_030002 - Rule Bloom and Stack Capture installed
+
+Start position: main @ e3acd2d4580eedcae1da73b17359a2fd9351e40d
+
+Installed support package:
+
+- BRAIN_LEARNING\RULE_BLOOM_STACK_CAPTURE_RULE_20260521_030002.md
+- HOUSE_WORK\WORK_SHED\GEAR_RACK\RULE_MACHINES\RULE_BLOOM_STACK_CAPTURE_SOFT_SUIT_20260521_030002.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\RULE_BLOOM_STACK_CAPTURE_INSTALL_REVIEW_20260521_030002.md
+- PROOF_HISTORY\RULE_BLOOM_STACK_CAPTURE_INSTALL_RECEIPT_20260521_030002.txt
+
+Verdict target: PASS WITH RULE-BLOOM WATCH.
+
+Meaning:
+Addressed issues become active provisional rules or held ideas unless deliberately rejected. Related stacks must be collected before collapse.
+
+Boundary:
+No doctrine rewrite, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no bridge permission expansion, no junction/symlink teleporter, no Hard Suit promotion.
+
+Next move:
+Use this on the next correction/proof-gap/rule-growth moment.

@@ -1,24 +1,24 @@
 ACTIVE ANCHOR
 
 Current position:
-main @ pending Broad-Bite Rule Machine install save
+main @ pending Rule Bloom and Stack Capture save
 
 Current boss:
-Broad-Bite Rule Machine / Live Repair Activation Soft Suit install.
+Rule Bloom and Stack Capture / provisional rule-growth handling.
 
 Current verdict target:
-PASS WITH SOFT SUIT WATCH.
+PASS WITH RULE-BLOOM WATCH.
 
 Installed intent:
-Use small, stout, dense rules that catch choice-families instead of narrow symptoms.
+When an issue, idea, fix, rule, or correction is addressed, capture it as active provisional rule/idea unless deliberately rejected. If there is a stack, collect the stack before collapse.
 
 Next allowed move:
-Use Broad-Bite Rule Machine on the next rule repair/proof-gap moment and watch for ghost/boss confusion.
+Use this on the next correction/proof-gap/rule-growth moment.
 
 Blocked moves:
-- Do not treat Soft Suit as doctrine.
+- Do not treat rule bloom as final doctrine.
+- Do not collapse stacks too early.
+- Do not ignore related stack items.
 - Do not rewrite ACTIVE_GUIDES from this install.
 - Do not rewrite CURRENT_TRUTH_INDEX from this install.
-- Do not expand bridge permissions.
-- Do not create junction/symlink teleporters.
-- Do not claim source-ore authority without proof.
+- Do not promote Soft Suit to Hard Suit without proof.
