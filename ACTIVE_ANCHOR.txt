@@ -176,3 +176,39 @@ Mule external V2F proof job `CHILDJOB-20260521-171334-REMOTE-DOOR-V2E-PRINT-PROB
 Still blocked:
 
 assistant arbitrary shell, raw shell, broad crawl, delete, repo write through V2, git through V2, Level 2 through V2, Level 3 through V2, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, permission expansion, and junction/symlink teleporter.
+
+---
+
+# Active Anchor Update - V2F WAI and Codex CLI Bridge Seed Parking - 2026-05-21
+
+Current position before this save:
+
+main @ 89a635d
+
+Current active fact:
+
+Remote Door V2F is parked as working as intended for the proven Level 1 read-status door, and the Codex CLI bridge seed is parked as source/proof only.
+
+Codex seed status:
+
+PARKED / PROVED SEED / NOT INTEGRATED
+
+V2F final proof recorded:
+
+`CHILDJOB-20260521-172249-REMOTE-DOOR-V2E-PRINT-PROBE` read back as `PASS / RECEIPT FOUND`, state `PROCESSED_PASS`, receipt SHA256 `7E0CF0D4621A12E61A4F795E925A29F8994F24024DD27608D74DFFBCCECB373D`.
+
+V2F WAI repeat proof recorded:
+
+`CHILDJOB-20260521-174223-REMOTE-DOOR-V2E-PRINT-PROBE` read back as `PASS / RECEIPT FOUND`, state `PROCESSED_PASS`, receipt SHA256 `FBCD831B0B6726071D2CACE2297F7830D228FA23337AFA34E15959AA6E26AAE9`.
+
+Stopped-state recorded:
+
+`STOP_ATTEMPTED`; tunnel `TUNNEL_STOPPED`; server `stopped:7164`; time `2026-05-21T21:44:57.2045118+00:00`. Narrow local check during save found no listener on port `7164`; no tunnel/server restart occurred.
+
+Codex CLI seed proofs recorded:
+
+Codex version `codex-cli 0.133.0`; receipt-capture output SHA256 `86DD8C872DE3A3AC1EEAC9B1601BCCAADEF0EAD530FB82715B72C1FA6A348000`; mailbox output SHA256 `879C9A66743089DAE6A6477ECB5F954ECF9226E0C69FB51A613D8245DF3845B8`; mailbox receipt verdict `PASS / CODEX MAILBOX JOB CAPTURED`.
+
+Boundary:
+
+Codex is not connected to Remote Door. Codex is not active project bridge authority. No Remote Door V2F change, Level 2, Level 3, shell, repo write through V2, git through V2, automation, raw shell, arbitrary shell, broad crawl, deletion, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, permission expansion, or junction/symlink teleporter is authorized.

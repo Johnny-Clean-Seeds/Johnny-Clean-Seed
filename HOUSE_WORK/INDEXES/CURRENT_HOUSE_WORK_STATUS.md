@@ -5418,3 +5418,35 @@ Proof:
 
 Boundary:
 No active print, next print, local secret, vault file, used-print ledger, checkpoint file, tunnel token, or active tunnel URL is saved as authority. No assistant arbitrary shell, raw shell, broad crawl, delete, repo write through V2, git through V2, Level 2 through V2, Level 3 through V2, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, permission expansion, or junction/symlink teleporter.
+
+---
+
+## 20260521 - V2F WAI and Codex CLI bridge seed parking
+
+Status: PASS / BRIDGE PROOF STATE PARKED AND LOCKED
+
+Base before save: main @ 89a635d
+
+Saved:
+- PROOF_HISTORY\V2F_WAI_AND_CODEX_CLI_BRIDGE_SEED_PARK_LOCK_RECEIPT_20260521.txt
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\V2F_WAI_AND_CODEX_CLI_BRIDGE_SEED_PARKING_REVIEW_20260521.md
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+Remote Door V2F remains working as intended for the proven Level 1 read-status door. Codex CLI bridge seed is parked as `PARKED / PROVED SEED / NOT INTEGRATED`.
+
+V2F proof recorded:
+- Final ChatGPT-created job `CHILDJOB-20260521-172249-REMOTE-DOOR-V2E-PRINT-PROBE`, request `REQ-20260521-172249-67464D`, readback `PASS / RECEIPT FOUND`, state `PROCESSED_PASS`, receipt SHA256 `7E0CF0D4621A12E61A4F795E925A29F8994F24024DD27608D74DFFBCCECB373D`.
+- WAI repeat job `CHILDJOB-20260521-174223-REMOTE-DOOR-V2E-PRINT-PROBE`, request `REQ-20260521-174223-7D1313`, readback `PASS / RECEIPT FOUND`, state `PROCESSED_PASS`, receipt SHA256 `FBCD831B0B6726071D2CACE2297F7830D228FA23337AFA34E15959AA6E26AAE9`.
+- Stop proof recorded as `STOP_ATTEMPTED`, tunnel `TUNNEL_STOPPED`, server `stopped:7164`, time `2026-05-21T21:44:57.2045118+00:00`; narrow local check found no listener on port `7164`.
+
+Codex CLI seed proof recorded:
+- Version proof: `codex-cli 0.133.0`.
+- Direct PowerShell answer from task payload: `CODEX_POWERSHELL_PROBE_PASS`.
+- One-shot exec answer from task payload: `CODEX_EXEC_PROBE_PASS`.
+- Receipt-capture output SHA256: `86DD8C872DE3A3AC1EEAC9B1601BCCAADEF0EAD530FB82715B72C1FA6A348000`; receipt verdict `PASS / CODEX OUTPUT CAPTURED`.
+- Mailbox seed output SHA256: `879C9A66743089DAE6A6477ECB5F954ECF9226E0C69FB51A613D8245DF3845B8`; receipt verdict `PASS / CODEX MAILBOX JOB CAPTURED`; ExitCode `0`; ContainsExpectedString `True`.
+
+Boundary:
+No active print, next print, local secret, used print file, vault ledger, checkpoint file, recovery receipt, tunnel secret, Codex session secret, Codex auth/cache file, browser profile data, AppData auth material, raw active print URL, or raw active secret material is saved as authority. Codex is not connected to Remote Door and is not active project, write, shell, automation, or bridge authority. Assistant arbitrary shell, raw shell, broad crawl, delete, repo write through V2, git through V2, Level 2 through V2, Level 3 through V2, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, permission expansion, and junction/symlink teleporter remain blocked.
