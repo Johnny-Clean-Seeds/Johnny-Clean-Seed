@@ -114,3 +114,35 @@ READY FOR CHATGPT FINAL TEST / NOT YET CLAIMED. Direct ChatGPT proof requires Ch
 Still blocked:
 
 assistant arbitrary shell, raw shell, broad crawl, delete, cleanup, repo write through V2, git through V2, Level 3 through V2, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, permission expansion, and junction/symlink teleporter.
+
+---
+
+# Active Anchor Update - Remote Door Relay V2E Print Door - 2026-05-21T16:18:45-04:00
+
+Current position before this save:
+
+main @ b7de646
+
+Current active fact:
+
+Remote Door Relay V2E now uses a self-rotating one-use print flow:
+
+`/door/v2/status -> /door/v2/probe/<print> -> /door/v2/status`
+
+Clean meaning:
+
+The PC makes current/next prints, status exposes the next safe print route at runtime, probe accepts the current print once, Child Shell receives exactly one Level 1 `read_command_center_status` job, and the print is burned and rotated after the job is safely written.
+
+Proof:
+
+Local print proof job `CHILDJOB-20260521-161442-REMOTE-DOOR-V2E-PRINT-PROBE` produced receipt SHA256 `9CD0D7CD6C7F00A4DF876BCB9E0C9BD1EE7BEA2A661461FA20F721B491BAD664`.
+
+Mule external print proof job `CHILDJOB-20260521-161715-REMOTE-DOOR-V2E-PRINT-PROBE` produced receipt SHA256 `55FD9377628CD7D1CB8583DE313006EF0A1F0017AA7DF2F548C598393AA96012`.
+
+Important caveat:
+
+V2E mule external proof is passed. Direct ChatGPT proof is not claimed until ChatGPT consumes the reserved unused final print URL and status readback confirms the Child Shell receipt.
+
+Still blocked:
+
+assistant arbitrary shell, raw shell, broad crawl, delete, cleanup through V2 except local proved checkpoint archive, repo write through V2, git through V2, Level 3 through V2, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, permission expansion, and junction/symlink teleporter.

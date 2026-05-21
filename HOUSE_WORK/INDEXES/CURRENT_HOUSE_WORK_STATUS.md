@@ -5318,8 +5318,6 @@ Boundary:
 
 No assistant arbitrary shell, raw shell, broad crawl, delete, cleanup, repo write through V2, git through V2, Level 3 through V2, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, permission expansion, or junction/symlink teleporter.
 
----
-
 ## 20260521 - Remote Door Relay V2 async probe repair
 
 Status: READY FOR CHATGPT FINAL TEST / NOT YET CLAIMED
@@ -5369,3 +5367,28 @@ The async door repair passed local proof and mule external proof. Direct ChatGPT
 Boundary:
 
 No assistant arbitrary shell, raw shell, broad crawl, delete, cleanup, repo write through V2, git through V2, Level 3 through V2, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, permission expansion, or junction/symlink teleporter.
+
+---
+
+## 20260521 - Remote Door Relay V2E print door
+
+Status: PASS / V2E SELF-ROTATING PRINT DOOR SAVED AFTER LOCAL AND MULE EXTERNAL PROOF
+
+Base before save: main @ b7de646
+
+Saved:
+- BRAIN_LEARNING\REMOTE_DOOR_RELAY_V2E_PRINT_DOOR_RULE_20260521.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\REMOTE_DOOR_RELAY_V2E_PRINT_DOOR_REVIEW_20260521.md
+- PROOF_HISTORY\REMOTE_DOOR_RELAY_V2E_PRINT_DOOR_LOCK_RECEIPT_20260521.txt
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+Remote Door V2E uses `/door/v2/status` as the print mouth and `/door/v2/probe/<print>` as the one-use print door. Accepted proof remains bounded to Level 1 `read_command_center_status`.
+
+Proof:
+- Local job `CHILDJOB-20260521-161442-REMOTE-DOOR-V2E-PRINT-PROBE` receipt SHA256 `9CD0D7CD6C7F00A4DF876BCB9E0C9BD1EE7BEA2A661461FA20F721B491BAD664`.
+- Mule external job `CHILDJOB-20260521-161715-REMOTE-DOOR-V2E-PRINT-PROBE` receipt SHA256 `55FD9377628CD7D1CB8583DE313006EF0A1F0017AA7DF2F548C598393AA96012`.
+
+Boundary:
+No active print, next print, local secret, vault file, tunnel token, or active tunnel URL is saved as authority. No assistant arbitrary shell, raw shell, broad crawl, delete, repo write through V2, git through V2, Level 3 through V2, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, permission expansion, or junction/symlink teleporter.
