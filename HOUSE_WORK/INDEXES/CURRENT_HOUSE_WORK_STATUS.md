@@ -4874,3 +4874,45 @@ Temporary helper = delete after successful proof.
 
 Boundary:
 No doctrine rewrite, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no runtime, no automation.
+
+---
+
+## 123 Outside Storage Unit + HNS Mesh Mule Handoff + Adopt/Adapt Repair
+
+Status: RULES SAVED / ACTIVE MULE HANDOFF PLACED
+Date: 2026-05-20
+Base before save: 
+07bcc2d
+
+123 outside storage unit:
+C:\Users\13527\Desktop\123
+
+123 rule:
+BRAIN_LEARNING\ASSISTANT_123_OUTSIDE_STORAGE_UNIT_RULE_20260520.md
+
+Adopt/adapt rule:
+BRAIN_LEARNING\ADOPT_ADAPT_FOUND_FIX_LIVE_APPLICATION_RULE_20260520.md
+
+Failure capture:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\FOUND_FIX_NOT_APPLIED_TO_LIVE_LANE_FAILURE_20260520.md
+
+Active mule handoff:
+HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\ACTIVE_HANDOFFS\HNS_MESH_V2_REVISION_HANDOFF_20260520_20260520_205251
+
+Read-first file:
+HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\ACTIVE_HANDOFFS\HNS_MESH_V2_REVISION_HANDOFF_20260520_20260520_205251\READ_FIRST_FOR_MULE_HNS_MESH_V2_20260520.md
+
+Pointer:
+HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\ACTIVE_HANDOFFS\CURRENT_ACTIVE_HANDOFF_POINTER.md
+
+Archived old active handoffs:
+NO
+
+Archive bucket:
+
+
+Meaning:
+123 is the assistant outside storage unit for user-dropped files. It is support/storage, not authority. HNS Mesh repair packet files were copied into a clean mule active handoff room. The found-fix adoption failure was captured as an active behavior rule.
+
+Boundary:
+No doctrine, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no runtime, no automation, no dashboard, no mule-as-authority.

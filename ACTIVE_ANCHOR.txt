@@ -1,32 +1,28 @@
 # ACTIVE ANCHOR
 
 Recorded base before this save:
-main @ 4893da1
+main @ 
+07bcc2d
 
 Current active ball:
-Valence Council / Gated Valence Torus source-pattern candidate.
+HNS Mesh V2 mule revision handoff from 123 outside storage unit, plus adopt/adapt found-fix repair.
 
-Current status:
-Saved as source-pattern architecture, not doctrine.
+Current active handoff:
+HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\ACTIVE_HANDOFFS\HNS_MESH_V2_REVISION_HANDOFF_20260520_20260520_205251
+
+Read-first file:
+HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\ACTIVE_HANDOFFS\HNS_MESH_V2_REVISION_HANDOFF_20260520_20260520_205251\READ_FIRST_FOR_MULE_HNS_MESH_V2_20260520.md
 
 Next allowed move:
-Use one tiny natural cycle only when a real task calls for autonomy, personality, valence, growth-stage timing, conflicting-drive, polarity, contamination, or this-feels-off judgment.
-
-Tiny cycle:
-TRIGGER -> MEMBRANE -> SALIENCE -> PERCEPTION -> AFFORDANCE -> RELEVANT INFLUENCES -> POLARITY/COUNTERWEIGHT -> VALENCE -> MOTIVATION -> ACTION OPTION -> AUTHORITY/PROOF/BOUNDARY -> RESULT -> FEEDBACK ROUTE -> BRAKE/DECAY/STRENGTHEN/WEAKEN -> MEMORY RESIDUE -> ATTRACTOR/ESCAPE PATH -> STOP CONDITION
+Mule reads active handoff first, completes V2 revision packet, returns outputs to the named RETURNS lane. House must read/disposition mule output before adoption.
 
 Blocked moves:
-- Do not install doctrine.
+- Do not treat 123 as authority.
+- Do not treat mule output as command.
+- Do not install HNS Mesh as doctrine.
 - Do not rewrite ACTIVE_GUIDES.
 - Do not rewrite CURRENT_TRUTH_INDEX.
-- Do not build runtime, automation, dashboard, knowledge graph, or full autonomy layer.
-- Do not create active personality engine.
-- Do not assign fixed assistant zodiac identity.
-- Do not let any planet/influence/loop become command authority.
-- Do not use all planets on every task.
-- Do not run feedback without routing.
-- Do not accelerate without brake/decay.
-- Do not create attractor without escape path.
-- Do not confuse stillness with freeze.
-- Do not use the unrevealed later part.
-- Keep No Rule King.
+- Do not build runtime, dashboard, automation, or permanent alarm feed from this handoff.
+- Do not leave old handoffs mixed with current handoffs.
+- Do not continue using a known-failing route after a better fix is found.
+- Keep No Alarm King.
