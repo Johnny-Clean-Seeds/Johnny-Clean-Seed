@@ -1,19 +1,16 @@
 Current active ball:
-Bridge complete through bounded Level 3. The 123 -> Command Center -> Child Shell bridge is proved through Level 1 read-status, Level 2 approved-helper, and Level 3 exact approved house-save package routing.
+Bridge complete through bounded Level 3, with final Child Shell OUTBOX receipt proof selected as CHILDJOB-20260521-000012-LEVEL3-FINAL-RECEIPT-PROOF.
 
 Current proof:
 Level 0 PASS.
 Level 1 PASS, including regression job CHILDJOB-20260521-000009-LEVEL1-REGRESSION-READ-STATUS.
 Level 2 PASS, including regression job CHILDJOB-20260521-000010-LEVEL2-REGRESSION-APPROVED-HELPER.
-Watcher ensure PASS; watcher running before Level3 package.
+Watcher ensure PASS.
 Dispatcher routes Level 1, Level 2, and Level 3 actions.
-Level 3 bounded house-save package selected and proved by CHILDJOB-20260521-000011-LEVEL3-BOUNDED-HOUSE-SAVE.
+Level 3 bounded house-save package route PASS after final receipt repair.
 
-Current bridge state:
-123 is the doorway. Command Center carries working state. Child Shell consumes approved jobs. Mr.Kleen saves happen only through exact approved Level3 packages.
-
-Next allowed boss:
-Use the bridge conservatively for bounded approved jobs. Any broader power requires separate design, proof, and explicit selection.
+Evidence note:
+000011 is preserved as a partial success/final-receipt failure: it committed and pushed the first Level3 package, then failed result emission. 000012 is the final Level3 receipt proof.
 
 Blocked:
 Assistant-direct local execution from chat is not proved.
