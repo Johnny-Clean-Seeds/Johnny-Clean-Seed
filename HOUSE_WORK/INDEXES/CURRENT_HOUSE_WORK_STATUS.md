@@ -4851,3 +4851,26 @@ One natural tiny cycle only if a real task calls for autonomy/personality/valenc
 
 Boundary:
 No doctrine install, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no runtime/automation/dashboard/knowledge graph/full autonomy layer, no fixed sign, no planet-as-command.
+
+---
+
+## Desktop Helper Delivery Hygiene Rule
+
+Status: ACTIVE BEHAVIOR RULE SAVED
+Date: 2026-05-20
+Base before save: 11bf30e
+
+Rule:
+BRAIN_LEARNING\DESKTOP_IS_NOT_A_PARKING_LANE_HELPER_RULE_20260520.md
+
+Failure capture:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\DESKTOP_HELPER_LEFT_BEHIND_DELIVERY_FAILURE_20260520.md
+
+Meaning:
+Desktop is not a parking lane. One-time helper scripts/files generated for Desktop use must self-clean after successful proof, be routed into Mr.Kleen as tool/tool-candidate material with receipt, or be explicitly marked for the user to keep.
+
+Default:
+Temporary helper = delete after successful proof.
+
+Boundary:
+No doctrine rewrite, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no runtime, no automation.
