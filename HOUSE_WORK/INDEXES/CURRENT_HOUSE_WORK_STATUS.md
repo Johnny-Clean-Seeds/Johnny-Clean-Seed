@@ -4974,3 +4974,30 @@ The assistant and mule now have a project-house exchange room in Mule Workshop. 
 
 Boundary:
 No doctrine, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no runtime, no automation, no dashboard, no mule-as-authority.
+
+---
+
+## Front Door And Work Request Sorting Rules
+
+Status: SUPPORT RULES SAVED / LIVE-USE REQUIRED
+Date: 2026-05-21
+Base before save: main @ 81e2e65
+
+Saved:
+- Work Request Sorting Formula and Place Finder Rule.
+- Local Hard Bridge Front Door Use Rule.
+- Gear Rack reusable cards.
+- Sorting Bench dissection.
+- TODO live-use queue.
+
+Meaning:
+Future assistant requests must be sorted by object, intent, mode, place, authority, stale state, proof, disposition, output, and close before action when routing matters.
+
+Bridge meaning:
+Local Hard Bridge V1 is a local-only PowerShell-backed front door and carrier. It can support house reads and workspace writes, but it is not authority and V1 cannot write house files.
+
+Boundary:
+No doctrine, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, runtime, dashboard, automation, bridge house-write expansion, or all-places scatter.
+
+Next:
+Use the sorting formula and bridge front door on the next real note/bridge-assisted task as live-use proof.

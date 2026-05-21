@@ -1,20 +1,21 @@
 # ACTIVE ANCHOR
 
 Recorded base before this save:
-main @ 44d0202
+main @ 81e2e65
 
 Current active ball:
-Assistant Mule Exchange Bridge saved into Mule Workshop so assistant and mule can interchange files cleanly.
+Front Door Bridge use rule and Work Request Sorting Formula have been saved as support rules; next use should test them on a real note or bridge-assisted task.
 
 Next allowed move:
-Use the exchange bridge for the next mule packet or mule return intake. If mule returns current HNS work, put/read through MULE_TO_ASSISTANT and update footprint ledger before disposition.
+Use Local Hard Bridge V1 front door plus Work Request Sorting Formula on the next real job/note before writing or saving. If the bridge is used, inspect house_front_door first and require clean git state before save.
 
 Blocked moves:
-- Do not treat 123 as the working bridge home for assistant-mule exchange.
-- Do not treat mule output as authority.
-- Do not adopt returns without proof/disposition.
-- Do not install doctrine.
+- Do not promote these support rules to doctrine.
 - Do not rewrite ACTIVE_GUIDES.
 - Do not rewrite CURRENT_TRUTH_INDEX.
-- Do not build runtime, automation, or dashboard from this move.
-- Do not leave exchange packets loose without cleanup/archive path.
+- Do not expand Local Hard Bridge V1 into house write mode without separate proof.
+- Do not build runtime, dashboard, automation, network service, or permanent bridge process.
+- Do not treat bridge output as authority.
+- Do not treat mule output as authority.
+- Do not scatter rules into all places literally; use appropriate lanes only.
+- Do not skip Place Finder before writing when routing matters.
