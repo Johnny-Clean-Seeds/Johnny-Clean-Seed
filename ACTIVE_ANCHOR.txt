@@ -1,20 +1,20 @@
 # ACTIVE ANCHOR
 
 Recorded base before this save:
-main @ fbfdba8
+main @ 44d0202
 
 Current active ball:
-HNS Mesh V2 and Common Sense mule returns have been intaken and saved as support evidence; next clean move is Assistant-Mule Exchange Bridge save into Mule Workshop.
+Assistant Mule Exchange Bridge saved into Mule Workshop so assistant and mule can interchange files cleanly.
 
 Next allowed move:
-Run the Assistant-Mule Exchange Bridge save helper or rebuild it if needed, now that the mule returns are no longer loose dirty state after this save.
+Use the exchange bridge for the next mule packet or mule return intake. If mule returns current HNS work, put/read through MULE_TO_ASSISTANT and update footprint ledger before disposition.
 
 Blocked moves:
-- Do not install HNS Mesh as doctrine.
-- Do not install Common Sense Gate as doctrine.
+- Do not treat 123 as the working bridge home for assistant-mule exchange.
+- Do not treat mule output as authority.
+- Do not adopt returns without proof/disposition.
+- Do not install doctrine.
 - Do not rewrite ACTIVE_GUIDES.
 - Do not rewrite CURRENT_TRUTH_INDEX.
-- Do not build runtime, dashboard, automation, permanent alarm feed, or knowledge graph.
-- Do not treat mule output as authority.
-- Do not skip tiny tests before promotion.
-- Do not let source research become command.
+- Do not build runtime, automation, or dashboard from this move.
+- Do not leave exchange packets loose without cleanup/archive path.

@@ -4948,3 +4948,29 @@ Save Assistant-Mule Exchange Bridge into Mule Workshop after this intake commit 
 
 Boundary:
 No doctrine, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no runtime, no dashboard, no automation, no permanent alarm feed, no mule-as-authority.
+
+---
+
+## Assistant Mule Exchange Bridge
+
+Status: ACTIVE PROJECT STRUCTURE SAVED / MULE WORKSHOP EXCHANGE
+Date: 2026-05-21
+Base before save: main @ 44d0202
+
+Exchange root:
+HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\BRIDGES\ASSISTANT_MULE_EXCHANGE_BRIDGE
+
+Pointer:
+HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\CURRENT_ASSISTANT_MULE_EXCHANGE_POINTER.md
+
+Rule:
+BRAIN_LEARNING\ASSISTANT_MULE_EXCHANGE_BRIDGE_RULE_20260521.md
+
+Failure repair:
+HOUSE_WORK\WORK_SHED\SORTING_BENCH\FRONT_DOOR_BRIDGE_WRONG_123_PLACEMENT_REPAIR_20260521.md
+
+Meaning:
+The assistant and mule now have a project-house exchange room in Mule Workshop. 123 remains porch/storage. Mule is a real guest worker with rooms, return lanes, footprint ledger, and cleanup/archive path.
+
+Boundary:
+No doctrine, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no runtime, no automation, no dashboard, no mule-as-authority.
