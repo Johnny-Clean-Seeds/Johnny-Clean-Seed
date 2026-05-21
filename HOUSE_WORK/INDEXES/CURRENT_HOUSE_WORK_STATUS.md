@@ -5392,3 +5392,29 @@ Proof:
 
 Boundary:
 No active print, next print, local secret, vault file, tunnel token, or active tunnel URL is saved as authority. No assistant arbitrary shell, raw shell, broad crawl, delete, repo write through V2, git through V2, Level 3 through V2, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, permission expansion, or junction/symlink teleporter.
+
+---
+
+## 20260521 - Remote Door Relay V2F receipt-bound readback
+
+Status: PASS / V2F RECEIPT-BOUND READBACK SAVED AFTER LOCAL AND MULE EXTERNAL PROOF
+
+Base before save: main @ eaeb68b
+
+Saved:
+- BRAIN_LEARNING\REMOTE_DOOR_RELAY_V2F_RECEIPT_BOUND_READBACK_RULE_20260521.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\REMOTE_DOOR_RELAY_V2F_RECEIPT_BOUND_READBACK_REVIEW_20260521.md
+- PROOF_HISTORY\REMOTE_DOOR_RELAY_V2F_RECEIPT_BOUND_READBACK_LOCK_RECEIPT_20260521.txt
+- ACTIVE_ANCHOR.txt
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Meaning:
+Remote Door V2F adds `/door/v2/readback/<job_id>` so final proof can bind to the exact Child Shell job created by the exact print probe.
+
+Proof:
+- Prior ChatGPT-created V2E job `CHILDJOB-20260521-162420-REMOTE-DOOR-V2E-PRINT-PROBE` readback receipt SHA256 `9ACB76C2011491A083CC3BE397FE8826FD2AC251F7081C9A112B1B3A128B369B`.
+- Local V2F job `CHILDJOB-20260521-171245-REMOTE-DOOR-V2E-PRINT-PROBE` readback receipt SHA256 `99FB2925C5C1661D881C28C5CA42FC890CD143FFAA37D1A66EE33EE341E4CEAE`.
+- Mule external V2F job `CHILDJOB-20260521-171334-REMOTE-DOOR-V2E-PRINT-PROBE` readback receipt SHA256 `663B4EA12F702B1395A720A4D04E3DDACADD907FD581E6D95A581326C11DBD50`.
+
+Boundary:
+No active print, next print, local secret, vault file, used-print ledger, checkpoint file, tunnel token, or active tunnel URL is saved as authority. No assistant arbitrary shell, raw shell, broad crawl, delete, repo write through V2, git through V2, Level 2 through V2, Level 3 through V2, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, permission expansion, or junction/symlink teleporter.

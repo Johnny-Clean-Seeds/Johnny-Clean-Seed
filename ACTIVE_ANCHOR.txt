@@ -146,3 +146,33 @@ V2E mule external proof is passed. Direct ChatGPT proof is not claimed until Cha
 Still blocked:
 
 assistant arbitrary shell, raw shell, broad crawl, delete, cleanup through V2 except local proved checkpoint archive, repo write through V2, git through V2, Level 3 through V2, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, permission expansion, and junction/symlink teleporter.
+
+---
+
+# Active Anchor Update - Remote Door Relay V2F Receipt-Bound Readback - 2026-05-21T17:14:06-04:00
+
+Current position before this save:
+
+main @ eaeb68b
+
+Current active fact:
+
+Remote Door V2F adds job-bound proof readback:
+
+`/door/v2/readback/<job_id>`
+
+Clean meaning:
+
+The general `/door/v2/status` mouth remains useful, but final proof can now bind to the exact Child Shell job created by the exact print probe. Accepted print probes return `readback_url` and `job_bound_readback_url`.
+
+Proof:
+
+Prior ChatGPT-created V2E job `CHILDJOB-20260521-162420-REMOTE-DOOR-V2E-PRINT-PROBE` read back as `PASS / RECEIPT FOUND` with receipt SHA256 `9ACB76C2011491A083CC3BE397FE8826FD2AC251F7081C9A112B1B3A128B369B`.
+
+Local V2F proof job `CHILDJOB-20260521-171245-REMOTE-DOOR-V2E-PRINT-PROBE` read back as `PASS / RECEIPT FOUND` with receipt SHA256 `99FB2925C5C1661D881C28C5CA42FC890CD143FFAA37D1A66EE33EE341E4CEAE`.
+
+Mule external V2F proof job `CHILDJOB-20260521-171334-REMOTE-DOOR-V2E-PRINT-PROBE` read back as `PASS / RECEIPT FOUND` with receipt SHA256 `663B4EA12F702B1395A720A4D04E3DDACADD907FD581E6D95A581326C11DBD50`.
+
+Still blocked:
+
+assistant arbitrary shell, raw shell, broad crawl, delete, repo write through V2, git through V2, Level 2 through V2, Level 3 through V2, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, permission expansion, and junction/symlink teleporter.

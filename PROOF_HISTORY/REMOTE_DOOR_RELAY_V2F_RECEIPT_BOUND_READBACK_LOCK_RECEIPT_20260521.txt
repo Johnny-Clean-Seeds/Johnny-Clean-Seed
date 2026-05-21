@@ -1,0 +1,82 @@
+Remote Door Relay V2F Receipt-Bound Readback Lock Receipt
+
+Date: 2026-05-21
+Base before save: main @ eaeb68b
+
+Verdict:
+PASS / V2F RECEIPT-BOUND READBACK PROVED LOCALLY AND THROUGH MULE EXTERNAL TUNNEL
+
+V2 root:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\REMOTE_DOOR_RELAY_V2
+
+Server:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\REMOTE_DOOR_RELAY_V2\SERVER\remote_door_v2_server.py
+
+Server SHA256:
+FCDC0D530DC5F46F3562E28462EAA788C8C7978900AA832EC3B6CB749477FDFE
+
+Patch:
+Accepted `/door/v2/probe/<print>` responses now include `readback_url` and `job_bound_readback_url`.
+
+New endpoint:
+/door/v2/readback/<job_id>
+
+Readback proof rule:
+The endpoint checks only exact matching job, receipt, processed, and rejected paths for the supplied job id. It does not use latest status as proof.
+
+Prior ChatGPT-created V2E job:
+CHILDJOB-20260521-162420-REMOTE-DOOR-V2E-PRINT-PROBE
+
+Prior ChatGPT-created job receipt SHA256:
+9ACB76C2011491A083CC3BE397FE8826FD2AC251F7081C9A112B1B3A128B369B
+
+Local V2F proof job:
+CHILDJOB-20260521-171245-REMOTE-DOOR-V2E-PRINT-PROBE
+
+Local V2F readback verdict:
+PASS / RECEIPT FOUND
+
+Local V2F receipt:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\CHILD_SHELL\OUTBOX\CHILDJOB-20260521-171245-REMOTE-DOOR-V2E-PRINT-PROBE.receipt.txt
+
+Local V2F receipt SHA256:
+99FB2925C5C1661D881C28C5CA42FC890CD143FFAA37D1A66EE33EE341E4CEAE
+
+Mule external V2F proof job:
+CHILDJOB-20260521-171334-REMOTE-DOOR-V2E-PRINT-PROBE
+
+Mule external V2F readback verdict:
+PASS / RECEIPT FOUND
+
+Mule external V2F receipt:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\CHILD_SHELL\OUTBOX\CHILDJOB-20260521-171334-REMOTE-DOOR-V2E-PRINT-PROBE.receipt.txt
+
+Mule external V2F receipt SHA256:
+663B4EA12F702B1395A720A4D04E3DDACADD907FD581E6D95A581326C11DBD50
+
+Verified behavior:
+- status returned READY
+- print probe returned readback_url
+- exact-job readback returned PASS / RECEIPT FOUND
+- wrong print rejected
+- used print rejected
+- legacy /probe and /probe_async remained present behind token gate
+- external tunnel proof used public status, public probe, and public readback
+
+Not saved:
+No active print, next print, local secret, vault file, used-print ledger, checkpoint file, tunnel token, or active tunnel URL is saved in this receipt.
+
+Boundary:
+assistant arbitrary shell blocked
+raw shell blocked
+broad crawl blocked
+delete blocked
+repo write through V2 blocked
+git through V2 blocked
+Level 2 through V2 blocked
+Level 3 through V2 blocked
+ACTIVE_GUIDES rewrite blocked
+CURRENT_TRUTH_INDEX rewrite blocked
+doctrine rewrite blocked
+permission expansion blocked
+junction/symlink teleporter blocked
