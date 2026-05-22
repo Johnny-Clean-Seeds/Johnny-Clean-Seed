@@ -5737,3 +5737,22 @@ Current guard line:
 
 Next planned work: Cargo Cult Science -> Form Is Not Function / Anti-Fake-PASS Gate, with proof boundary preserved: missing proof blocks PASS; only positive disproof kills.
 <!-- END NO_SOURCE_GETS_THRONE_SOURCE_VEIN_RULE_20260522 -->
+
+## 20260522 — Dual Project + Chat Cockpit Capture Rule
+
+Position before commit: b5544c72c55ee663e6e8a0526b256c1d42b61eea
+
+Saved:
+- BRAIN_LEARNING/DUAL_PROJECT_AND_CHAT_COCKPIT_CAPTURE_RULE_20260522.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/DUAL_PROJECT_CHAT_COCKPIT_CAPTURE_FAILURE_CAPTURE_20260522.md
+- HOUSE_WORK/CHAT_COCKPIT/CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- PROOF_HISTORY/DUAL_PROJECT_CHAT_COCKPIT_CAPTURE_RULE_RECEIPT_20260522.txt
+
+Verdict:
+PASS - DUAL PROJECT CHAT COCKPIT CAPTURE RULE SAVED
+
+Boundary:
+Project-wide capture-and-route behavior rule plus chat cockpit addendum only. No doctrine promotion. No active guide rewrite. No CURRENT_TRUTH_INDEX rewrite. No automation.
+
+Short form:
+Project-relevant rule/concept/idea gets routed. Assistant-facing rule gets cockpit visibility too. Review previous reply before answering. No floating project gold.
