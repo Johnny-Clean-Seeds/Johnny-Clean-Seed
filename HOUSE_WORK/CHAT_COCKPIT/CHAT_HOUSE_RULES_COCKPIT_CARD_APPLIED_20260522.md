@@ -253,3 +253,32 @@ Does not apply to:
 
 Short form:
 Desktop drops get V names. House files do not.
+---
+
+## 2.32 Multi-Rule Batch Compatibility Apply Gate
+
+When several rules are created or installed together, do not just bundle and commit them.
+
+Run them against each other first.
+
+Check:
+- scope;
+- authority;
+- local+URL versus local-only;
+- Desktop-drop naming versus house naming;
+- no-parking fit decision;
+- cockpit/drop-copy update;
+- source custody;
+- proof receipts;
+- Final Judge Gate;
+- blocked promotions;
+- bounded exceptions.
+
+Required output:
+compatibility matrix, apply-gate receipt section, cross-check table, or explicit fit/conflict/refine/block list.
+
+Verdicts:
+FITS / FITS WITH BOUNDED EXCEPTION / NEEDS REFINEMENT / CONFLICTS / BLOCKED / PARK WITH RETURN TRIGGER.
+
+Short form:
+Several rules at once means apply gate. Run the rules against each other before commit.
