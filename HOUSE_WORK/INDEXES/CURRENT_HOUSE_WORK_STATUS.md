@@ -5695,3 +5695,7 @@ Saved source-safe Git intake record for 6LP3n9V7H_8. Full raw transcript remains
 
 ## 20260522 - Four-source reviewed source-ore map saved
 Saved reviewed map for structured awareness, odd identity-frame pressure, communication syntax, and biology perception source ore. Boundary: no raw transcript commit; no doctrine promotion; no active guide rewrite; no CURRENT_TRUTH_INDEX rewrite.
+
+
+## 20260522 - Rule-fit and clean BLOAT behavior fix saved
+Saved Rule-Fit / No Side-Mutation Gate and Clean-Placed Growth / Clean BLOAT Rule. Captured failure where source-pickup correction wrongly mutated code-delivery behavior. Boundary: behavior rules only; no doctrine promotion; no active guide rewrite; no CURRENT_TRUTH_INDEX rewrite; no automation.
