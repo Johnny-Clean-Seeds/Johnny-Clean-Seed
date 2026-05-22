@@ -5917,3 +5917,28 @@ Save-routing/reporting rule, correction capture, cockpit update, and labeled CHA
 
 Short form:
 Project-durable saves go local + URL by default. Local operational artifacts stay local unless routed. If special, user says so. Always report the split.
+
+## 20260522 — No Parking Fit Decision + Save Location Rules
+
+Position before commit: d08a907cff6f23425a4fd84c878e3fa4a10ad044
+
+Saved:
+- BRAIN_LEARNING/NO_PARKING_WITHOUT_FIT_DECISION_RULE_20260522.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/NO_PARKING_WITHOUT_FIT_DECISION_CAPTURE_20260522.md
+- BRAIN_LEARNING/SAVE_LOCATION_DEFAULT_LOCAL_AND_URL_RULE_20260522.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/SAVE_LOCATION_DEFAULT_LOCAL_AND_URL_CAPTURE_20260522.md
+- HOUSE_WORK/CHAT_COCKPIT/CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- PROOF_HISTORY/NO_PARKING_FIT_DECISION_AND_SAVE_LOCATION_RULES_RECEIPT_20260522.txt
+
+Exported local-only:
+- C:\Users\13527\Desktop\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- C:\Users\13527\Desktop\123\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+
+Verdict:
+PASS - NO PARKING FIT DECISION AND SAVE LOCATION RULES SAVED
+
+Boundary:
+No-parking/fit-decision rule, save-location default rule, correction captures, cockpit update, and labeled CHAT drop-copy export only. No doctrine promotion. No active guide rewrite. No CURRENT_TRUTH_INDEX rewrite. No automation.
+
+Short form:
+No indefinite parking. Every new project object gets fit decision and route. Project-durable saves go local + URL by default. Local operational artifacts stay local unless routed.

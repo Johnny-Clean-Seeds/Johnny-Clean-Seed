@@ -35,14 +35,3 @@ Local operational support artifacts stay local unless explicitly routed.
 The assistant must report the split.
 
 The user can override by saying a case is special or no URL.
-
-## Repair
-
-This save adds a rule, updates the chat cockpit, and exports the updated CHAT drop-copy.
-
-## Guardrail
-
-This is not permission to push everything.
-
-It is a classification rule:
-durable project file versus local operational artifact.

@@ -99,27 +99,6 @@ Before saving, classify each object as:
 - sensitive/private/raw/source-heavy: ask, park, or keep local;
 - unclear: classify and ask or park.
 
-## Failure Pattern
-
-Dirty pattern:
-Saying "saved" without saying whether it is local, URL, or local-only.
-
-Worse dirty pattern:
-Treating local-only artifacts as if they are on the URL.
-
-Worst dirty pattern:
-Failing to push durable project rules because the assistant confused them with local tools, or pushing local-only operational junk because the assistant failed to classify.
-
-## Clean Pattern
-
-Clean pattern:
-
-1. Classify material.
-2. Durable project rule/capture/receipt/status goes local repo + URL push.
-3. Operational tools/receipts/dropboxes/drop-copies stay local-only.
-4. User special overrides default.
-5. Final report explicitly splits local+URL from local-only.
-
 ## Short Form
 
 Project-durable saves go local + URL by default.

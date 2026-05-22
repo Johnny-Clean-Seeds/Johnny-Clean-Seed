@@ -147,6 +147,8 @@ Short form:
 Drop means event. Folder means package. Move, receipt, and YOU GOT MAIL trigger.
 ---
 
+---
+
 ## 2.28 Save Location Default — Local + URL Unless Special
 
 Durable project saves default to both:
@@ -172,3 +174,27 @@ Every save report must split:
 
 Short form:
 Project-durable saves go local + URL by default. Local operational artifacts stay local unless routed. If special, user says so.
+---
+
+## 2.29 No Parking Without Fit Decision Rule
+
+No floating project gold.
+
+Every new project-related rule, concept, idea, correction, tool, handoff, file, packet, method, receipt, map, mule output, helper, or package gets a fit decision.
+
+Decision:
+1. fits now -> route/save/update;
+2. fits after refinement -> refine then route;
+3. does not fit -> reject or park with reason;
+4. dangerous/important -> hold only with reason, lane, risk, next action, and return trigger;
+5. unknown -> review lane with receipt and return trigger.
+
+Blocked:
+- no parking piles and forgetting them;
+- no loose downloads/handoffs/scripts;
+- no "later" without lane and return trigger;
+- no chat-created artifacts left only in chat/downloads;
+- no cockpit rule left unexported when assistant-facing.
+
+Short form:
+Make it fit clean, route it, or block/hold it with proof. No indefinite parking.
