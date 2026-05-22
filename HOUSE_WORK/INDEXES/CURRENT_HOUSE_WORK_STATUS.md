@@ -5756,3 +5756,26 @@ Project-wide capture-and-route behavior rule plus chat cockpit addendum only. No
 
 Short form:
 Project-relevant rule/concept/idea gets routed. Assistant-facing rule gets cockpit visibility too. Review previous reply before answering. No floating project gold.
+
+## 20260522 — Chat Cockpit Drop-Copy Export Protocol
+
+Position before commit: e13ce1e3c97d279189ba27d793e49f150f6a851a
+
+Saved:
+- BRAIN_LEARNING/CHAT_COCKPIT_DROP_COPY_EXPORT_PROTOCOL_20260522.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/CHAT_COCKPIT_DROP_COPY_EXPORT_FRAMING_CAPTURE_20260522.md
+- HOUSE_WORK/CHAT_COCKPIT/CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- PROOF_HISTORY/CHAT_COCKPIT_DROP_COPY_EXPORT_PROTOCOL_RECEIPT_20260522.txt
+
+Exported:
+- C:\Users\13527\Desktop\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- C:\Users\13527\Desktop\123\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+
+Verdict:
+PASS - CHAT COCKPIT DROP COPY EXPORT PROTOCOL SAVED
+
+Boundary:
+Chat-cockpit visibility/export protocol, cockpit addendum, and labeled CHAT drop-copy export only. No doctrine promotion. No active guide rewrite. No CURRENT_TRUTH_INDEX rewrite. No automation. Does not create new house rules by itself.
+
+Short form:
+If chat cockpit changes, export a clearly labeled CHAT drop-copy. It obeys closer; it does not start making new house rules.

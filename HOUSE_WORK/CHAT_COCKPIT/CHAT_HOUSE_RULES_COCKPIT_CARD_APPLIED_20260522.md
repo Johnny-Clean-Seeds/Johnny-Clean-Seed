@@ -35,3 +35,30 @@ Blocked:
 
 Short form:
 Project-relevant rule/concept/idea gets routed. Assistant-facing rule gets cockpit visibility too.
+---
+
+## 2.24 Chat Cockpit Drop-Copy Export Protocol
+
+This cockpit card is not a new-house-rule generator.
+
+Its job is to bring already-relevant assistant-facing project rules closer to the live chat so the assistant obeys them more reliably.
+
+When this cockpit card is updated, the updated file must also be exported as clearly labeled CHAT drop-copies.
+
+Canonical saved project file:
+HOUSE_WORK/CHAT_COCKPIT/CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+
+Desktop chat drop-copy:
+C:\Users\<user>\Desktop\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+
+Desktop\123 chat transfer copy:
+C:\Users\<user>\Desktop\123\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+
+Blocked:
+- do not frame this card as doctrine;
+- do not frame it as creating new house rules by itself;
+- do not update repo cockpit without creating the visible Desktop CHAT drop-copy;
+- do not leave the user guessing which file belongs in chat.
+
+Short form:
+If chat cockpit changes, export a clearly labeled CHAT drop-copy. It obeys closer; it does not start making new house rules.
