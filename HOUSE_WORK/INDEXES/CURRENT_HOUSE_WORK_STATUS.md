@@ -5587,3 +5587,18 @@ Promotion: none
 Authority changes: none
 Next allowed move: use the firing card before the next durable artifact/save packet and record firing quality.
 Blocked: no doctrine/guide/index rewrite, no automation install, no promotion, no broad Whirlpool from this target alone.
+
+## 20260522 — Rule Quality / Wording Coverage Second Alarm-Cabinet Repair Target
+
+Base before save: main @ 2ccee62
+Full base hash: 2ccee62dce83abc7cef16ca962e5bc4878443479
+State: PASS WITH GUARDRAILS / SECOND ALARM CABINET REPAIR TARGET SAVED / NO PROMOTION
+Saved target: HOUSE_WORK/WORK_SHED/GEAR_RACK/ALARM_DEBUGGER_CABINET/REPAIR_TARGETS/RULE_QUALITY_WORDING_COVERAGE_SECOND_REPAIR_TARGET_20260522_050634.md
+Saved firing card: HOUSE_WORK/WORK_SHED/SORTING_BENCH/RULE_QUALITY_WORDING_COVERAGE_ALARM_FIRING_CARD_20260522_050634.md
+Saved TODO: HOUSE_WORK/TODO/RULE_QUALITY_WORDING_COVERAGE_REPAIR_TODO_20260522_050634.md
+Receipt: PROOF_HISTORY/RULE_QUALITY_WORDING_COVERAGE_SECOND_REPAIR_TARGET_RECEIPT_20260522_050634.txt
+Source chain: Alarm Debugger Cabinet Inventory; Source/Lane/Artifact Placement first repair target; Completion Revision rule; Linking Papers rule.
+Promotion: none
+Authority changes: none
+Next allowed move: use the firing card on the next durable house artifact or handoff; likely next cabinet target is Tool / Script / Copy Safety.
+Blocked: no doctrine/guide/index rewrite, no automation install, no promotion, no skipped revision, no orphan artifacts.

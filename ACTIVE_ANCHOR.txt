@@ -1,26 +1,26 @@
 ACTIVE ANCHOR
 
 Current position:
-main after Source / Lane / Artifact Placement first alarm repair target save
+main after Rule Quality / Wording Coverage second alarm-cabinet repair target save
 
 Base before save:
-main @ 446689f
+main @ 2ccee62
 
 Saved:
-Source / Lane / Artifact Placement first alarm repair target.
-Source / Lane / Artifact Placement firing card.
+Rule Quality / Wording Coverage second repair target.
+Rule Quality / Wording Coverage firing card.
 Followup TODO and receipt.
 
 Verdict:
-PASS WITH GUARDRAILS / FIRST ALARM CABINET REPAIR TARGET SAVED / NO PROMOTION
+PASS WITH GUARDRAILS / SECOND ALARM CABINET REPAIR TARGET SAVED / NO PROMOTION
 
 Next allowed move:
-Use the Source / Lane / Artifact Placement firing card before the next durable artifact, rule, handoff, report, or save packet and record whether it fires before delivery.
+Use the firing card on the next durable house artifact or handoff. Likely next cabinet target is Tool / Script / Copy Safety.
 
 Blocked:
-Do not promote this alarm group.
+Do not promote the repair target.
 Do not rewrite doctrine.
 Do not rewrite ACTIVE_GUIDES.
 Do not rewrite CURRENT_TRUTH_INDEX.
 Do not install automation.
-Do not run broad Whirlpool from this target alone.
+Do not skip revision or evidence-chain links on durable house work.
