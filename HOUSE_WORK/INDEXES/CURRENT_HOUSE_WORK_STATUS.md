@@ -5714,3 +5714,6 @@ Saved active behavior rule: long PowerShell scripts should be delivered as file/
 
 ## 20260522 - Jumping spider brain source intake gathered
 Saved source-safe Git intake record for Dgbci0GC1vk. Full raw transcript remains in Desktop\123; Git stores note, receipt copy, hashes, record, index/status update, and proof only. Boundary: no doctrine promotion, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no medical-advice install.
+
+## 20260522 - Feynman V2 source-ore research map saved
+Saved Richard Phillips Feynman V2 source-ore research map and linked-pair TODO. Boundary: source-ore only; no doctrine promotion; no active guide rewrite; no CURRENT_TRUTH_INDEX rewrite; no automation.
