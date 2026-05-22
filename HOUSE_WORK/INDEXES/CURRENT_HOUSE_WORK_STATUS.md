@@ -5707,3 +5707,7 @@ Saved rule requiring important raw ideas/source notes/user wording to remain as 
 
 ## 20260522 - 6LP3n9V7H_8 founding-original clean-translation pair saved
 Saved source-safe linked pair for 6LP3n9V7H_8: Founding Original / Source Root -> Mechanism Before Myth / Repurposed Structure / Evolutionary Baggage Lens. Boundary: no raw transcript commit; no doctrine promotion; no active guide rewrite; no CURRENT_TRUTH_INDEX rewrite; no automation.
+
+
+## 20260522 - PowerShell delivery no long tall code boxes rule saved
+Saved active behavior rule: long PowerShell scripts should be delivered as file/script packets or short wide launchers when practical. Boundary: delivery behavior rule only; no doctrine promotion; no active guide rewrite; no CURRENT_TRUTH_INDEX rewrite; no automation.
