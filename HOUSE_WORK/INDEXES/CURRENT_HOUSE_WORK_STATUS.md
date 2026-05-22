@@ -5602,3 +5602,17 @@ Promotion: none
 Authority changes: none
 Next allowed move: use the firing card on the next durable house artifact or handoff; likely next cabinet target is Tool / Script / Copy Safety.
 Blocked: no doctrine/guide/index rewrite, no automation install, no promotion, no skipped revision, no orphan artifacts.
+
+## 20260522 — Tool / Script / Copy Safety Third Alarm-Cabinet Repair Target
+
+Base before save: main @ 7c8e0a1
+Full base hash: 7c8e0a10c3c94074fb17bd2bba8659defd9d483e
+State: PASS WITH GUARDRAILS / THIRD ALARM CABINET REPAIR TARGET SAVED / NO PROMOTION
+Saved target: HOUSE_WORK/WORK_SHED/GEAR_RACK/ALARM_DEBUGGER_CABINET/REPAIR_TARGETS/TOOL_SCRIPT_COPY_SAFETY_THIRD_REPAIR_TARGET_20260522_050951.md
+Saved firing card: HOUSE_WORK/WORK_SHED/SORTING_BENCH/TOOL_SCRIPT_COPY_SAFETY_ALARM_FIRING_CARD_20260522_050951.md
+Saved TODO: HOUSE_WORK/TODO/TOOL_SCRIPT_COPY_SAFETY_REPAIR_TARGET_TODO_20260522_050951.md
+Receipt: PROOF_HISTORY/TOOL_SCRIPT_COPY_SAFETY_THIRD_REPAIR_TARGET_RECEIPT_20260522_050951.txt
+Promotion: none
+Authority changes: none
+Next allowed move: use this alarm to prefer .ps1 artifact delivery plus short launchers for large local scripts.
+Blocked: no stale script runs, no automation install, no doctrine/guide/index rewrite, no promotion.

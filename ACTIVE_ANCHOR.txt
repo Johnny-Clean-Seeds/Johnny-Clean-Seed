@@ -1,26 +1,27 @@
 ACTIVE ANCHOR
 
 Current position:
-main after Rule Quality / Wording Coverage second alarm-cabinet repair target save
+main after Tool / Script / Copy Safety third alarm-cabinet repair target save
 
 Base before save:
-main @ 2ccee62
+main @ 7c8e0a1
 
 Saved:
-Rule Quality / Wording Coverage second repair target.
-Rule Quality / Wording Coverage firing card.
+Tool / Script / Copy Safety third repair target.
+Tool / Script / Copy Safety firing card.
 Followup TODO and receipt.
 
 Verdict:
-PASS WITH GUARDRAILS / SECOND ALARM CABINET REPAIR TARGET SAVED / NO PROMOTION
+PASS WITH GUARDRAILS / THIRD ALARM CABINET REPAIR TARGET SAVED / NO PROMOTION
 
 Next allowed move:
-Use the firing card on the next durable house artifact or handoff. Likely next cabinet target is Tool / Script / Copy Safety.
+Use the Tool / Script / Copy Safety alarm for large local scripts and prefer .ps1 artifact delivery plus short launcher commands.
 
 Blocked:
-Do not promote the repair target.
+Do not promote this target.
+Do not install automation.
 Do not rewrite doctrine.
 Do not rewrite ACTIVE_GUIDES.
 Do not rewrite CURRENT_TRUTH_INDEX.
-Do not install automation.
-Do not skip revision or evidence-chain links on durable house work.
+Do not run stale scripts after base changes.
+Do not use long screen-filling code blocks unless requested.
