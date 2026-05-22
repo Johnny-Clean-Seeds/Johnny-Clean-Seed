@@ -88,6 +88,8 @@ Short form:
 Every object gets a job. Every gate gets judged. The Final Judge Gate starts the gate run and ends it.
 ---
 
+---
+
 ## 2.26 Porch Watcher / Move-Not-Copy Housekeeping Rule
 
 Porch is not storage.

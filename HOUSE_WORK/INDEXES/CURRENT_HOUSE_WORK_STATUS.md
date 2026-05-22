@@ -5831,3 +5831,32 @@ Project-wide housekeeping rule, correction capture, cockpit addendum, labeled CH
 
 Short form:
 No loose packages. Default route is MOVE, not COPY. Copy only when explicitly labeled.
+
+## 20260522 — Porch Watcher / Move-Not-Copy Housekeeping Rule
+
+Position before commit: 16b344da3918ec7daaf344d16bb554276b4077e9
+
+Saved:
+- BRAIN_LEARNING/PORCH_WATCHER_MOVE_NOT_COPY_HOUSEKEEPING_RULE_20260522.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/PORCH_WATCHER_MOVE_NOT_COPY_FAILURE_CAPTURE_20260522.md
+- HOUSE_WORK/CHAT_COCKPIT/CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- PROOF_HISTORY/PORCH_WATCHER_MOVE_NOT_COPY_HOUSEKEEPING_RULE_RECEIPT_20260522.txt
+
+Exported:
+- C:\Users\13527\Desktop\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- C:\Users\13527\Desktop\123\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+
+Installed local one-shot porch dropper:
+- C:\Users\13527\Desktop\123\PORCH_WATCHER\TOOLS\RUN_PORCH_MOVE_DROPPER_ONCE.ps1
+
+Local porch receipt:
+- C:\Users\13527\Desktop\123\PORCH_WATCHER\RECEIPTS\PORCH_MOVE_DROPPER_RECEIPT_20260522_162208.txt
+
+Verdict:
+PASS - PORCH WATCHER MOVE NOT COPY HOUSEKEEPING RULE SAVED
+
+Boundary:
+Project-wide housekeeping rule, correction capture, cockpit addendum, labeled CHAT drop-copy export, and local one-shot porch dropper install only. No doctrine promotion. No active guide rewrite. No CURRENT_TRUTH_INDEX rewrite. No background automation. No delete action.
+
+Short form:
+No loose packages. Default route is MOVE, not COPY. Copy only when explicitly labeled.
