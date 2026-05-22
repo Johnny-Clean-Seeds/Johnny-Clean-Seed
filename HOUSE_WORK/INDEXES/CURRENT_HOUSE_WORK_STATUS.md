@@ -5703,3 +5703,7 @@ Saved Rule-Fit / No Side-Mutation Gate and Clean-Placed Growth / Clean BLOAT Rul
 
 ## 20260522 - Founding original plus clean translation linked pair rule saved
 Saved rule requiring important raw ideas/source notes/user wording to remain as Founding Original / Source Root linked to Clean Concept Translation / Working Use Form. Boundary: behavior rule and capture only; no doctrine promotion; no active guide rewrite; no CURRENT_TRUTH_INDEX rewrite; no automation.
+
+
+## 20260522 - 6LP3n9V7H_8 founding-original clean-translation pair saved
+Saved source-safe linked pair for 6LP3n9V7H_8: Founding Original / Source Root -> Mechanism Before Myth / Repurposed Structure / Evolutionary Baggage Lens. Boundary: no raw transcript commit; no doctrine promotion; no active guide rewrite; no CURRENT_TRUTH_INDEX rewrite; no automation.
