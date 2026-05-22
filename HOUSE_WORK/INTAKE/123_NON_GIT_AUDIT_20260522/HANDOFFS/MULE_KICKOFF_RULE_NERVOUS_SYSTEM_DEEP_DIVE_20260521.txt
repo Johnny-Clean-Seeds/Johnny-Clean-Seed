@@ -1,0 +1,21 @@
+MULE KICKOFF
+
+Read this handoff first:
+
+MULE_HANDOFF_RULE_NERVOUS_SYSTEM_DEEP_DIVE_20260521.md
+
+Then read:
+
+RULE_NERVOUS_SYSTEM_EVENT_TRACE_BROADENER_POLISHED_ISSUE_PACKET_20260521.md
+
+Your job is to deep dive the rule-firing problem: clear proved fix save/lock, all-bases loophole broadening, triggered/fired event tracing, mule repair intelligence, link map anti-haunting, and first poolrun trace harness.
+
+Do not just diagnose. Return candidate fixes, proof needed, blocked moves, save/lock candidates, and what the house must decide.
+
+Return outputs only to:
+
+HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\RETURNS\RULE_NERVOUS_SYSTEM_DEEP_DIVE_RETURN_20260521
+
+Do not install doctrine, runtime, dashboard, automation, ACTIVE_GUIDES, or CURRENT_TRUTH_INDEX changes.
+
+You support Mr.Kleen. You do not command Mr.Kleen.

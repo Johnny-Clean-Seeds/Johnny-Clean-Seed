@@ -1,0 +1,34 @@
+# Manifest - Rule Nervous System Mule Deep Dive Packet
+
+Date: 2026-05-21
+Status: DOWNLOADABLE PACKET FOR 123 / NOT HOUSE SAVE
+
+## Files
+
+1. RULE_NERVOUS_SYSTEM_EVENT_TRACE_BROADENER_POLISHED_ISSUE_PACKET_20260521.md
+Role: polished issue packet / draft refinement
+SHA256: 677FA947F4C21CE84AA443BDF629D70C0788CCEADF48E9C1DBA5BF10D5AA258F
+
+2. MULE_HANDOFF_RULE_NERVOUS_SYSTEM_DEEP_DIVE_20260521.md
+Role: mule read-first handoff
+SHA256: 6B0F6F5F394178786A6031EBB85438C3D19DBA016A1B30069FD6B5C9DF8A0B9B
+
+3. MULE_KICKOFF_RULE_NERVOUS_SYSTEM_DEEP_DIVE_20260521.txt
+Role: short kickoff text
+SHA256: D26EBB229BF1EF1DABFB58F95AA0CF51E2CA5A709C5A5DF48B7B337D62D84DAF
+
+## Intended use
+
+User drops this packet into Desktop\123.
+
+Mule reads the handoff first, then the polished issue packet.
+
+## Boundary
+
+Not doctrine.
+Not runtime.
+Not dashboard.
+Not automation.
+Not ACTIVE_GUIDES.
+Not CURRENT_TRUTH_INDEX.
+Mule supports, not commands.
