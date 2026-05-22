@@ -5675,3 +5675,7 @@ Promotion: none
 Authority changes: none
 Next allowed move: continue normal project work using full method stack; classify future issues by alarm group, phase severity, and house placement.
 Blocked: no broad rule piles without a real task, no cosmetic Whirlpool, no chat/memory/mule/source-ore authority, no doctrine/guide/index rewrite, no automation install, no promotion without proof.
+
+
+## 20260522 - Source-safe work-order reframe candidates saved
+Saved candidate/source-ore reframes for YvyUdcVk_gA Frame Hygiene and Wn-qgHg5JhE Future-Self / Reward-Loop lens, plus source-safe placement, correction handling, multi-item save completeness, and Git push default rules. Boundary: no raw transcript commit, no doctrine promotion, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no automation.
