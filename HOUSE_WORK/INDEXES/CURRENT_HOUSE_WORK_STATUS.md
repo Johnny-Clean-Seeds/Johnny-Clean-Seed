@@ -5648,3 +5648,17 @@ Promotion: none
 Authority changes: none
 Next allowed move: continue project work with corrected scope; project-related rules go into the project/house when accepted, final Clean Seed Build form comes later through proof/compression/wrap.
 Blocked: no chat-only project rules, no memory-only durable project rules, no forced final-build doctrine, no doctrine/guide/index rewrite, no automation install, no promotion without proof.
+
+## 20260522 — Build Keeps Form / Conceptual Same-Treatment Save
+
+Base before save: main @ 0dcc8b4
+Full base hash: 0dcc8b4ba19b06ce6fea980a26433645b48c4b93
+State: PASS WITH GUARDRAILS / CONCEPTUAL SAME-TREATMENT FORM ADDENDUM SAVED / NO PROMOTION
+Saved rule: BRAIN_LEARNING/BUILD_KEEPS_FORM_CONCEPTUAL_SAME_TREATMENT_RULE_20260522.md
+Saved dissection: HOUSE_WORK/WORK_SHED/SORTING_BENCH/BUILD_KEEPS_FORM_CONCEPTUAL_SAME_TREATMENT_DISSECTION_20260522_052540.md
+Saved TODO: HOUSE_WORK/TODO/BUILD_KEEPS_FORM_CONCEPTUAL_SAME_TREATMENT_TODO_20260522_052540.md
+Receipt: PROOF_HISTORY/BUILD_KEEPS_FORM_CONCEPTUAL_SAME_TREATMENT_RECEIPT_20260522_052540.txt
+Promotion: none
+Authority changes: none
+Next allowed move: continue current project-to-build-Clean-Seed work while treating the build with form discipline.
+Blocked: no shapeless intake, no pretending current project is final Clean Seed Build, no authority/proof blur, no doctrine/guide/index rewrite, no automation install, no promotion without proof.

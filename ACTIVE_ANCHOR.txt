@@ -1,26 +1,25 @@
 ACTIVE ANCHOR
 
 Current position:
-main after project scope and rule-placement repair
+main after Build Keeps Form conceptual same-treatment save
 
 Base before save:
-main @ 45fb1a8
+main @ 0dcc8b4
 
 Saved:
-Project Rule Placement / No Chat Rules Rule.
-Project To Build Clean Seed / Clean Seed Build Scope Boundary Rule.
-Repair note, TODO, and receipt.
+Build Keeps Form / Conceptual Same-Treatment Rule.
+Dissection, TODO, and receipt.
 
 Verdict:
-PASS WITH GUARDRAILS / PROJECT SCOPE REPAIR SAVED / NO PROMOTION
+PASS WITH GUARDRAILS / CONCEPTUAL SAME-TREATMENT FORM ADDENDUM SAVED / NO PROMOTION
 
 Next allowed move:
-Continue project work with the corrected scope: project-related rules belong in the project/house when accepted; final Clean Seed Build form comes later through proof, compression, and wrap.
+Continue project-to-build-Clean-Seed work while treating the build with form discipline: lanes, custody, proof, phase, scaffolds, ladders, parking, recovery, and compression route.
 
 Blocked:
-Do not call project rules chat rules.
-Do not leave durable project rules only in memory.
-Do not force current project scaffolds into final Clean Seed Build doctrine.
+Do not use scope shift as permission for shapeless intake.
+Do not pretend the current project is the final Clean Seed Build.
+Do not blur authority or proof.
 Do not rewrite doctrine.
 Do not rewrite ACTIVE_GUIDES.
 Do not rewrite CURRENT_TRUTH_INDEX.
