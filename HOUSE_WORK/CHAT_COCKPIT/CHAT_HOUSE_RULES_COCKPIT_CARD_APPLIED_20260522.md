@@ -116,3 +116,32 @@ Blocked:
 
 Short form:
 No loose packages. Move to lane. Copy only when explicitly labeled.
+---
+
+## 2.27 Porch Drop Event Trigger + Package Intake Rule
+
+Drop means event.
+
+When a file, folder, or package is dropped, write a YOU GOT MAIL event where the assistant walks in.
+
+Default trigger lane:
+Desktop\123\COMMAND_CENTER\CURRENT_CONTEXT_CART\YOU_GOT_MAIL__PORCH_EVENT_TRIGGER_<timestamp>.md
+
+The event must include:
+- object name;
+- object type;
+- source path;
+- classification;
+- route;
+- action taken;
+- destination;
+- receipt;
+- next assistant action.
+
+Folder/package rule:
+If a folder is dropped, record the folder name as the package identity first.
+Move the whole folder as a package.
+Do not scatter internal files before opening/reviewing the package.
+
+Short form:
+Drop means event. Folder means package. Move, receipt, and YOU GOT MAIL trigger.

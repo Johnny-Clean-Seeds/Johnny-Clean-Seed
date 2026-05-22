@@ -5860,3 +5860,37 @@ Project-wide housekeeping rule, correction capture, cockpit addendum, labeled CH
 
 Short form:
 No loose packages. Default route is MOVE, not COPY. Copy only when explicitly labeled.
+
+## 20260522 — Porch Drop Event Trigger + Package Intake Rule
+
+Position before commit: ea7378773cc6de9d807295b9f675b05f8d33caa1
+
+Saved:
+- BRAIN_LEARNING/PORCH_DROP_EVENT_TRIGGER_AND_PACKAGE_INTAKE_RULE_20260522.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/PORCH_DROP_EVENT_TRIGGER_PACKAGE_INTAKE_CAPTURE_20260522.md
+- HOUSE_WORK/CHAT_COCKPIT/CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- PROOF_HISTORY/PORCH_DROP_EVENT_TRIGGER_PACKAGE_INTAKE_RECEIPT_20260522.txt
+
+Local event trigger:
+- C:\Users\13527\Desktop\123\COMMAND_CENTER\CURRENT_CONTEXT_CART\YOU_GOT_MAIL__PORCH_EVENT_TRIGGER_20260522_163725.md
+
+Local receipt:
+- C:\Users\13527\Desktop\123\PORCH_WATCHER\RECEIPTS\PORCH_EVENT_TRIGGER_PACKAGE_RECEIPT_20260522_163725.txt
+
+Local plan:
+- C:\Users\13527\Desktop\123\PORCH_WATCHER\PLANS\PORCH_EVENT_TRIGGER_ROOT_CLEAN_PLAN_20260522_163725.csv
+
+Installed tool:
+- C:\Users\13527\Desktop\123\PORCH_WATCHER\TOOLS\RUN_PORCH_EVENT_DROPPER_ONCE.ps1
+
+DropBox:
+- C:\Users\13527\Desktop\123\PORCH_WATCHER\DROPBOX_DROP_FILES_OR_FOLDERS_HERE
+
+Verdict:
+PASS - PORCH DROP EVENT TRIGGER PACKAGE INTAKE RULE SAVED
+
+Boundary:
+Project-wide drop event trigger/package intake rule, correction capture, cockpit update, chat drop-copy export, local dropbox/event-dropper install, and local root residual plan only. No doctrine promotion. No active guide rewrite. No CURRENT_TRUTH_INDEX rewrite. No background automation. No delete action.
+
+Short form:
+Drop means event. Folder means package. Move, receipt, and YOU GOT MAIL trigger.
