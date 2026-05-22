@@ -5687,3 +5687,7 @@ Saved source-safe Git intake records for ZtOxCJqEHjY and vH0njQMF_gc. Full raw t
 
 ## 20260522 - Communication syntax source intake gathered
 Saved source-safe Git intake record for Hm9ADZ28Wgo. Full raw transcript remains in Desktop\123; Git stores note, receipt copy, hashes, record, index/status update, and proof only. Boundary: no doctrine promotion, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite.
+
+
+## 20260522 - Biology perception source intake gathered
+Saved source-safe Git intake record for 6LP3n9V7H_8. Full raw transcript remains in Desktop\123; Git stores note, receipt copy, hashes, record, index/status update, and proof only. Boundary: no doctrine promotion, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no medical-advice install.

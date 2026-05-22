@@ -13,3 +13,7 @@ Status: SOURCE ORE / INTAKE ONLY. Not doctrine. Not active guide. Not CURRENT_TR
 
 ## Hm9ADZ28Wgo - Communication Syntax / Nonhuman Signal Source
 Source-safe intake added for sperm-whale phonetic alphabet / communication syntax material. Full transcript remains in Desktop\123. Git stores source-safe record, note, receipt copy, and hashes only.
+
+
+## 6LP3n9V7H_8 - Biology / Perception / Third-Eye Boundary Source
+Source-safe intake added for biology/perception/pineal-eye/sensory architecture material. Full transcript remains in Desktop\123. Git stores source-safe record, note, receipt copy, and hashes only.
