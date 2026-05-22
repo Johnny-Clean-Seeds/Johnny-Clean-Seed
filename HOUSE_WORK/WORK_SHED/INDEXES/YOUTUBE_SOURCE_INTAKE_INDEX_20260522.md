@@ -9,3 +9,7 @@ Included sources:
 Source safety: full raw transcripts remain in Desktop\123. Git receives intake records, user/odd notes, capture receipts, hashes, and source-safe framing.
 
 Status: SOURCE ORE / INTAKE ONLY. Not doctrine. Not active guide. Not CURRENT_TRUTH_INDEX. Not automation.
+
+
+## Hm9ADZ28Wgo - Communication Syntax / Nonhuman Signal Source
+Source-safe intake added for sperm-whale phonetic alphabet / communication syntax material. Full transcript remains in Desktop\123. Git stores source-safe record, note, receipt copy, and hashes only.
