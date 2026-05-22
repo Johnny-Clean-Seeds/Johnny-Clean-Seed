@@ -1,32 +1,28 @@
 ACTIVE ANCHOR
 
 Current position:
-main after mule filing, save trigger, revision, and linking method save
+main after Alarm / Debugger Filing Cabinet inventory save
 
 Base before save:
-main @ f62bd3d
+main @ 85bd89c
 
 Saved:
-Local + Git Save Trigger.
-Mule Filing-Cabinet Deep Handoff Method.
-Completion Revision / Second-Pass Editing Rule.
-Linking Papers / Evidence Chain Rule.
-Gear Rack mule filing handoff template.
-Dissection, TODO, and receipt.
+Alarm / Debugger Filing Cabinet Inventory.
+Sorting Bench intake/dissection.
+Followup TODO.
+Proof receipt.
 
 Verdict:
-PASS WITH GUARDRAILS / FULL METHOD STACK SAVED / NO PROMOTION
+PASS WITH GUARDRAILS / ALARM DEBUGGER CABINET INVENTORY SAVED / NO PROMOTION
 
 Next allowed move:
-Use the full method stack on durable house-relevant work: save locally and to Git, revise before delivery/save, and preserve evidence links.
+Use the cabinet as the starting object for mule deep review or internal house inspection. Classify alarms by firing proof and add clean-bloat candidates only where they expand real coverage.
 
 Blocked:
-Do not skip revision for durable work.
-Do not leave artifacts orphaned.
-Do not skip Git push for durable house saves.
-Do not treat mule output as authority.
+Do not promote the alarm/debugger inventory.
 Do not rewrite doctrine.
 Do not rewrite ACTIVE_GUIDES.
 Do not rewrite CURRENT_TRUTH_INDEX.
 Do not install automation.
-Do not promote without a separate proof route.
+Do not run broad Whirlpool.
+Do not treat this inventory as final wrap-form.
