@@ -221,3 +221,35 @@ It is a context reset before clean task entry.
 
 Short form:
 Switching gears means smoke break, light house walk, right room, then focused work.
+---
+
+## 2.31 Desktop Drop Version Naming Rule
+
+Desktop/drop/download/export items created for the user must use visible version names.
+
+Use:
+- V1
+- V1.1 through V1.9
+- V2.0
+- V2.1
+- continue as needed
+
+Applies to:
+- downloadable scripts;
+- Desktop helper files;
+- ZIP packs;
+- handoff drops;
+- transfer packs;
+- user-facing exported files.
+
+Does not apply to:
+- internal repo files;
+- BRAIN_LEARNING files;
+- HOUSE_WORK files;
+- PROOF_HISTORY files;
+- ACTIVE_ANCHOR;
+- CURRENT_TRUTH_INDEX;
+- ACTIVE_GUIDES.
+
+Short form:
+Desktop drops get V names. House files do not.
