@@ -5699,3 +5699,7 @@ Saved reviewed map for structured awareness, odd identity-frame pressure, commun
 
 ## 20260522 - Rule-fit and clean BLOAT behavior fix saved
 Saved Rule-Fit / No Side-Mutation Gate and Clean-Placed Growth / Clean BLOAT Rule. Captured failure where source-pickup correction wrongly mutated code-delivery behavior. Boundary: behavior rules only; no doctrine promotion; no active guide rewrite; no CURRENT_TRUTH_INDEX rewrite; no automation.
+
+
+## 20260522 - Founding original plus clean translation linked pair rule saved
+Saved rule requiring important raw ideas/source notes/user wording to remain as Founding Original / Source Root linked to Clean Concept Translation / Working Use Form. Boundary: behavior rule and capture only; no doctrine promotion; no active guide rewrite; no CURRENT_TRUTH_INDEX rewrite; no automation.
