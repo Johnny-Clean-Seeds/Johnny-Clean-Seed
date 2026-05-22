@@ -1,27 +1,28 @@
 ACTIVE ANCHOR
 
 Current position:
-main after Build Keeps Form conceptual same-treatment save
+main after scope/form/alarm/growth current-route checkpoint
 
 Base before save:
-main @ 0dcc8b4
+main @ 17e27ef
 
 Saved:
-Build Keeps Form / Conceptual Same-Treatment Rule.
-Dissection, TODO, and receipt.
+Scope/Form/Alarm/Growth current route checkpoint.
+Next route TODO.
+Receipt.
 
 Verdict:
-PASS WITH GUARDRAILS / CONCEPTUAL SAME-TREATMENT FORM ADDENDUM SAVED / NO PROMOTION
+PASS WITH GUARDRAILS / CURRENT ROUTE CHECKPOINT SAVED / NO PROMOTION
 
 Next allowed move:
-Continue project-to-build-Clean-Seed work while treating the build with form discipline: lanes, custody, proof, phase, scaffolds, ladders, parking, recovery, and compression route.
+Continue normal project work using the full method stack. When the next issue appears, classify it by alarm group, phase severity, and house placement. Save durable project material locally and to Git.
 
 Blocked:
-Do not use scope shift as permission for shapeless intake.
-Do not pretend the current project is the final Clean Seed Build.
-Do not blur authority or proof.
+Do not open broad new rule piles without a real task.
+Do not run broad Whirlpool for cosmetic cleanup.
+Do not treat chat, memory, mule output, or source ore as authority by itself.
 Do not rewrite doctrine.
 Do not rewrite ACTIVE_GUIDES.
 Do not rewrite CURRENT_TRUTH_INDEX.
 Do not install automation.
-Do not promote without proof.
+Do not promote without separate proof.
