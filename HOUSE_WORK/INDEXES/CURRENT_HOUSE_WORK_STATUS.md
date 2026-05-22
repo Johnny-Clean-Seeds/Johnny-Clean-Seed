@@ -5779,3 +5779,26 @@ Chat-cockpit visibility/export protocol, cockpit addendum, and labeled CHAT drop
 
 Short form:
 If chat cockpit changes, export a clearly labeled CHAT drop-copy. It obeys closer; it does not start making new house rules.
+
+## 20260522 — Final Judge Gate Alpha/Omega Role Rule
+
+Position before commit: 0489d77a22d11793bf870ac79cbdd694a46f296b
+
+Saved:
+- BRAIN_LEARNING/FINAL_JUDGE_GATE_ALPHA_OMEGA_ROLE_RULE_20260522.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/FINAL_JUDGE_GATE_ALPHA_OMEGA_ROLE_CAPTURE_20260522.md
+- HOUSE_WORK/CHAT_COCKPIT/CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- PROOF_HISTORY/FINAL_JUDGE_GATE_ALPHA_OMEGA_ROLE_RULE_RECEIPT_20260522.txt
+
+Exported:
+- C:\Users\13527\Desktop\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- C:\Users\13527\Desktop\123\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+
+Verdict:
+PASS - FINAL JUDGE GATE ALPHA OMEGA ROLE RULE SAVED
+
+Boundary:
+Final Judge Gate alpha/omega role rule, correction capture, cockpit addendum, and labeled CHAT drop-copy export only. No doctrine promotion. No active guide rewrite. No CURRENT_TRUTH_INDEX rewrite. No automation. Does not make any source, handoff, document, mule, or helper the throne. Does not make Final Judge Gate a monarchy.
+
+Short form:
+Every object gets a job. Every gate gets judged. The Final Judge Gate starts the gate run and ends it.

@@ -62,3 +62,27 @@ Blocked:
 
 Short form:
 If chat cockpit changes, export a clearly labeled CHAT drop-copy. It obeys closer; it does not start making new house rules.
+---
+
+## 2.25 Final Judge Gate Alpha/Omega Role Rule
+
+The issue is not only whether a document, source, mule report, or handoff becomes house authority.
+
+The issue is whether every object is doing the job it is supposed to do.
+
+The Final Judge Gate judges the gates.
+
+Alpha/Omega meaning:
+- Alpha: start the gate run;
+- Omega: end the gate run;
+- open the gate-evaluation question;
+- identify which gates should fire;
+- check whether each gate stayed in lane;
+- check whether each gate judged the right thing;
+- check whether any gate overreached, underreached, skipped proof, killed growth, allowed fake PASS, or promoted early;
+- close the run only when object role, gate role, proof, and boundary line up.
+
+This is role-fidelity judgment, not monarchy.
+
+Short form:
+Every object gets a job. Every gate gets judged. The Final Judge Gate starts the gate run and ends it.
