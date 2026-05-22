@@ -5679,3 +5679,7 @@ Blocked: no broad rule piles without a real task, no cosmetic Whirlpool, no chat
 
 ## 20260522 - Source-safe work-order reframe candidates saved
 Saved candidate/source-ore reframes for YvyUdcVk_gA Frame Hygiene and Wn-qgHg5JhE Future-Self / Reward-Loop lens, plus source-safe placement, correction handling, multi-item save completeness, and Git push default rules. Boundary: no raw transcript commit, no doctrine promotion, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no automation.
+
+
+## 20260522 - YouTube structured-awareness and odd-source intake gathered
+Saved source-safe Git intake records for ZtOxCJqEHjY and vH0njQMF_gc. Full raw transcripts remain in Desktop\123; Git stores notes, receipts, hashes, records, and index only. Boundary: no doctrine promotion, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite.
