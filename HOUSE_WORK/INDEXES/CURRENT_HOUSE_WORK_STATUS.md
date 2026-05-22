@@ -5570,3 +5570,20 @@ Promotion: none
 Authority changes: none
 Next allowed move: use cabinet for mule deep review or internal inspection; classify alarms by firing proof and add clean-bloat candidates only where they expand real coverage.
 Blocked: no doctrine/guide/index rewrite, no automation install, no broad Whirlpool, no promotion, no final-wrap treatment.
+
+## 20260522 — Source / Lane / Artifact Placement First Alarm Repair Target
+
+Base before save: main @ 446689f
+Full base hash: 446689fb420e001e2215c1339cc21072964fc6f0
+State: PASS WITH GUARDRAILS / FIRST ALARM CABINET REPAIR TARGET SAVED / NO PROMOTION
+Source cabinet: HOUSE_WORK/WORK_SHED/GEAR_RACK/ALARM_DEBUGGER_CABINET/ALARM_DEBUGGER_FILING_CABINET_INVENTORY_20260522.md
+Source cabinet SHA256: E36CC2EAC48F3E083E9EA5A7076A8FB8A61DD779124D821FFDD70BB7F8636149
+Source cabinet receipt: PROOF_HISTORY/ALARM_DEBUGGER_FILING_CABINET_INVENTORY_SAVE_RECEIPT_20260522_050130.txt
+Saved target: HOUSE_WORK/WORK_SHED/GEAR_RACK/ALARM_DEBUGGER_CABINET/REPAIR_TARGETS/SOURCE_LANE_ARTIFACT_PLACEMENT_FIRST_REPAIR_TARGET_20260522_050405.md
+Saved firing card: HOUSE_WORK/WORK_SHED/SORTING_BENCH/SOURCE_LANE_ARTIFACT_PLACEMENT_ALARM_FIRING_CARD_20260522_050405.md
+Saved TODO: HOUSE_WORK/TODO/SOURCE_LANE_ARTIFACT_PLACEMENT_ALARM_REPAIR_TODO_20260522_050405.md
+Receipt: PROOF_HISTORY/SOURCE_LANE_ARTIFACT_PLACEMENT_FIRST_REPAIR_TARGET_RECEIPT_20260522_050405.txt
+Promotion: none
+Authority changes: none
+Next allowed move: use the firing card before the next durable artifact/save packet and record firing quality.
+Blocked: no doctrine/guide/index rewrite, no automation install, no promotion, no broad Whirlpool from this target alone.

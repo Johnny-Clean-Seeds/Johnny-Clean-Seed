@@ -1,28 +1,26 @@
 ACTIVE ANCHOR
 
 Current position:
-main after Alarm / Debugger Filing Cabinet inventory save
+main after Source / Lane / Artifact Placement first alarm repair target save
 
 Base before save:
-main @ 85bd89c
+main @ 446689f
 
 Saved:
-Alarm / Debugger Filing Cabinet Inventory.
-Sorting Bench intake/dissection.
-Followup TODO.
-Proof receipt.
+Source / Lane / Artifact Placement first alarm repair target.
+Source / Lane / Artifact Placement firing card.
+Followup TODO and receipt.
 
 Verdict:
-PASS WITH GUARDRAILS / ALARM DEBUGGER CABINET INVENTORY SAVED / NO PROMOTION
+PASS WITH GUARDRAILS / FIRST ALARM CABINET REPAIR TARGET SAVED / NO PROMOTION
 
 Next allowed move:
-Use the cabinet as the starting object for mule deep review or internal house inspection. Classify alarms by firing proof and add clean-bloat candidates only where they expand real coverage.
+Use the Source / Lane / Artifact Placement firing card before the next durable artifact, rule, handoff, report, or save packet and record whether it fires before delivery.
 
 Blocked:
-Do not promote the alarm/debugger inventory.
+Do not promote this alarm group.
 Do not rewrite doctrine.
 Do not rewrite ACTIVE_GUIDES.
 Do not rewrite CURRENT_TRUTH_INDEX.
 Do not install automation.
-Do not run broad Whirlpool.
-Do not treat this inventory as final wrap-form.
+Do not run broad Whirlpool from this target alone.
