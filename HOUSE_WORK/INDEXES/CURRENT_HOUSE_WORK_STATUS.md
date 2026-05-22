@@ -5501,3 +5501,22 @@ Promotion: none
 Authority changes: none
 Next allowed move: use the unit naturally on the next meaningful ambiguous or multi-rule action and capture one more live-use event if it helps.
 Blocked: no doctrine rewrite, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no automation install, no promotion from one event.
+
+## 20260522 — Broad Growth Rule Package Save
+
+Base before save: main @ 1788d74
+Full base hash: 1788d74cc1bd82c1c72bcb86602d6d1bd240830e
+State: PASS WITH WATCH / BROAD GROWTH RULE PACKAGE SAVED / NO PROMOTION
+Saved directive separation rule: BRAIN_LEARNING/DIRECTIVE_TO_ARTIFACT_SEPARATION_RULE_20260522.md
+Saved fix-and-park rule: BRAIN_LEARNING/FIX_AND_PARK_EVERY_ENCOUNTERED_PROBLEM_RULE_20260522.md
+Saved growth bloat tolerance rule: BRAIN_LEARNING/CURRENT_GROWTH_BLOAT_TOLERANCE_POLISH_THEN_WHIRLPOOL_RULE_20260522.md
+Saved Whirlpool powerplay rule: BRAIN_LEARNING/WHIRLPOOL_POWERPLAY_DENSE_GROWTH_RULE_20260522.md
+Saved broad words rule: BRAIN_LEARNING/BROAD_WORDS_CONCEPT_FAMILY_COVERAGE_RULE_20260522.md
+Saved dissection: HOUSE_WORK/WORK_SHED/SORTING_BENCH/BROAD_GROWTH_RULE_PACKAGE_DISSECTION_20260522_035009.md
+Saved second three-boss live test: HOUSE_WORK/WORK_SHED/GEAR_RACK/LIVE_TESTS/THREE_BOSS_SOFT_SUIT_LIVE_USE_TEST_BROAD_GROWTH_RULE_PACKAGE_20260522_035009.md
+Saved TODO: HOUSE_WORK/TODO/BROAD_GROWTH_WHIRLPOOL_FOLLOWUP_TODO_20260522_035009.md
+Receipt: PROOF_HISTORY/BROAD_GROWTH_RULE_PACKAGE_SAVE_RECEIPT_20260522_035009.txt
+Promotion: none
+Authority changes: none
+Next allowed move: continue build work with useful-bloat tolerance, directive separation, fix-and-park capture, and powerplay-seeking Whirlpool awareness.
+Blocked: no cosmetic Whirlpool, no useful-bloat deletion by default, no live-directive injection into artifacts, no false linearity, no doctrine/guide/index rewrite, no automation install, no promotion without separate proof.

@@ -1,27 +1,27 @@
 ACTIVE ANCHOR
 
 Current position:
-main after three-boss Soft Suit live-use test
+main after broad growth rule package save
 
 Base before save:
-main @ 63dc958
+main @ 1788d74
 
-New save target:
-Three-boss Soft Suit live-use test saved as evidence only.
-
-Test unit:
-Rule-Firing Confirmation Card + Relevant Root Key Selector + Fog Alarm
+Saved:
+Broad growth rules, Whirlpool powerplay rule, directive-to-artifact separation, fix-and-park problem capture, and second three-boss live-use evidence.
 
 Verdict:
-PASS WITH WATCH / ONE LIVE EVENT CAPTURED / NO PROMOTION
+PASS WITH WATCH / BROAD GROWTH RULE PACKAGE SAVED / NO PROMOTION
 
 Next allowed move:
-Use the three-boss unit naturally on the next meaningful ambiguous or multi-rule action and capture one more live-use event if it helps.
+Use these rules during continuing build work. Preserve useful bloat, polish before intake, park encountered problems, and seek powerplays when repeated pressure appears.
 
 Blocked:
-Do not promote from this single live-use test.
+Do not run broad Whirlpool merely for cosmetic cleanup.
+Do not delete useful bloat by default.
+Do not inject live task instructions into artifacts.
+Do not make recursive growth falsely linear.
 Do not rewrite doctrine.
 Do not rewrite ACTIVE_GUIDES.
 Do not rewrite CURRENT_TRUTH_INDEX.
 Do not install automation.
-Do not treat mule return or this test as authority.
+Do not promote without a separate proof route.
