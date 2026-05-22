@@ -1,30 +1,28 @@
 ACTIVE ANCHOR
 
 Current position:
-main after whole-group alarm/debugger batch map save
+main after project scope and rule-placement repair
 
 Base before save:
-main @ 2db751f
+main @ 45fb1a8
 
 Saved:
-Memory Update Is Not House Rule trigger.
-Whole-group Alarm/Debugger Batch Repair Map.
-Alarm/Debugger Scaffolds and Ladders.
-Alarm/Debugger Resource and Evidence Link Map.
-Whole-group firing card.
-Followup TODO and receipt.
+Project Rule Placement / No Chat Rules Rule.
+Project To Build Clean Seed / Clean Seed Build Scope Boundary Rule.
+Repair note, TODO, and receipt.
 
 Verdict:
-PASS WITH GUARDRAILS / WHOLE-GROUP BATCH MAP SAVED / NO PROMOTION
+PASS WITH GUARDRAILS / PROJECT SCOPE REPAIR SAVED / NO PROMOTION
 
 Next allowed move:
-Use the whole-group batch map before creating more individual alarm repair targets. Use firing evidence to decide whether a group is working, late, partial, decorative/no-proof, or failed-to-fire.
+Continue project work with the corrected scope: project-related rules belong in the project/house when accepted; final Clean Seed Build form comes later through proof, compression, and wrap.
 
 Blocked:
-Do not promote the cabinet.
-Do not treat memory update as house proof.
-Do not skip revision or evidence links.
+Do not call project rules chat rules.
+Do not leave durable project rules only in memory.
+Do not force current project scaffolds into final Clean Seed Build doctrine.
 Do not rewrite doctrine.
 Do not rewrite ACTIVE_GUIDES.
 Do not rewrite CURRENT_TRUTH_INDEX.
 Do not install automation.
+Do not promote without proof.

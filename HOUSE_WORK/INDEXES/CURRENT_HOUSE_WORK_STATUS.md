@@ -5633,3 +5633,18 @@ Promotion: none
 Authority changes: none
 Next allowed move: use the whole-group batch map before creating more individual alarm repair targets and gather real firing evidence.
 Blocked: no cabinet promotion, no memory-as-proof, no skipped revision, no orphan artifacts, no doctrine/guide/index rewrite, no automation install.
+
+## 20260522 — Project Scope and Rule-Placement Repair
+
+Base before save: main @ 45fb1a8
+Full base hash: 45fb1a8e7a7aa3e1dc4dbba4ee2bf17cd36385fa
+State: PASS WITH GUARDRAILS / PROJECT SCOPE AND RULE PLACEMENT REPAIR SAVED / NO PROMOTION
+Saved project rule placement: BRAIN_LEARNING/PROJECT_RULE_PLACEMENT_NO_CHAT_RULES_RULE_20260522.md
+Saved project scope boundary: BRAIN_LEARNING/PROJECT_TO_BUILD_CLEAN_SEED_SCOPE_BOUNDARY_RULE_20260522.md
+Saved repair note: HOUSE_WORK/WORK_SHED/SORTING_BENCH/PROJECT_SCOPE_SHIFT_RULE_PLACEMENT_REPAIR_20260522_052118.md
+Saved TODO: HOUSE_WORK/TODO/PROJECT_SCOPE_RULE_PLACEMENT_FOLLOWUP_TODO_20260522_052118.md
+Receipt: PROOF_HISTORY/PROJECT_SCOPE_RULE_PLACEMENT_REPAIR_RECEIPT_20260522_052118.txt
+Promotion: none
+Authority changes: none
+Next allowed move: continue project work with corrected scope; project-related rules go into the project/house when accepted, final Clean Seed Build form comes later through proof/compression/wrap.
+Blocked: no chat-only project rules, no memory-only durable project rules, no forced final-build doctrine, no doctrine/guide/index rewrite, no automation install, no promotion without proof.
