@@ -1,27 +1,25 @@
 ACTIVE ANCHOR
 
 Current position:
-main after broad growth rule package save
+main after Clean Seed Build vs Other Noise phase-boundary save
 
 Base before save:
-main @ 1788d74
+main @ 29e9262
 
 Saved:
-Broad growth rules, Whirlpool powerplay rule, directive-to-artifact separation, fix-and-park problem capture, and second three-boss live-use evidence.
+Clean Seed Build vs Other Noise phase-boundary rule.
 
 Verdict:
-PASS WITH WATCH / BROAD GROWTH RULE PACKAGE SAVED / NO PROMOTION
+PASS WITH GUARDRAILS / PHASE BOUNDARY SAVED / NO PROMOTION
 
 Next allowed move:
-Use these rules during continuing build work. Preserve useful bloat, polish before intake, park encountered problems, and seek powerplays when repeated pressure appears.
+Continue current Clean Seed Build work. Admit current-fit material into proper lanes and park Other Noise until its phase opens.
 
 Blocked:
-Do not run broad Whirlpool merely for cosmetic cleanup.
-Do not delete useful bloat by default.
-Do not inject live task instructions into artifacts.
-Do not make recursive growth falsely linear.
+Do not let Other Noise bleed into active artifacts.
+Do not discard useful source ore by default.
+Do not promote current-fit material without proof.
 Do not rewrite doctrine.
 Do not rewrite ACTIVE_GUIDES.
 Do not rewrite CURRENT_TRUTH_INDEX.
 Do not install automation.
-Do not promote without a separate proof route.

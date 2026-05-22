@@ -1,0 +1,27 @@
+CLEAN SEED BUILD VS OTHER NOISE PHASE BOUNDARY RECEIPT
+
+Date:
+20260522_035244
+
+Base before save:
+29e9262be904eccd17b23bef7315fc895abf7677
+
+Saved files:
+BRAIN_LEARNING/CLEAN_SEED_BUILD_VS_OTHER_NOISE_PHASE_BOUNDARY_RULE_20260522.md
+HOUSE_WORK/WORK_SHED/SORTING_BENCH/CLEAN_SEED_BUILD_VS_OTHER_NOISE_PHASE_BOUNDARY_DISSECTION_20260522_035244.md
+HOUSE_WORK/TODO/CLEAN_SEED_BUILD_VS_OTHER_NOISE_PHASE_BOUNDARY_TODO_20260522_035244.md
+
+Verdict:
+PASS WITH GUARDRAILS / PHASE BOUNDARY SAVED / NO DOCTRINE PROMOTION
+
+Boundary:
+No doctrine rewrite.
+No ACTIVE_GUIDES rewrite.
+No CURRENT_TRUTH_INDEX rewrite.
+No automation install.
+No broad Whirlpool run.
+No promotion.
+No authority transfer.
+
+Core rule:
+Clean Seed Build material may enter the current working house when it fits the active model, proof flow, boundaries, and growth stage. Other Noise is preserved only when useful and parked until the correct phase opens.

@@ -5520,3 +5520,17 @@ Promotion: none
 Authority changes: none
 Next allowed move: continue build work with useful-bloat tolerance, directive separation, fix-and-park capture, and powerplay-seeking Whirlpool awareness.
 Blocked: no cosmetic Whirlpool, no useful-bloat deletion by default, no live-directive injection into artifacts, no false linearity, no doctrine/guide/index rewrite, no automation install, no promotion without separate proof.
+
+## 20260522 — Clean Seed Build vs Other Noise Phase Boundary Save
+
+Base before save: main @ 29e9262
+Full base hash: 29e9262be904eccd17b23bef7315fc895abf7677
+State: PASS WITH GUARDRAILS / PHASE BOUNDARY SAVED / NO PROMOTION
+Saved rule: BRAIN_LEARNING/CLEAN_SEED_BUILD_VS_OTHER_NOISE_PHASE_BOUNDARY_RULE_20260522.md
+Saved dissection: HOUSE_WORK/WORK_SHED/SORTING_BENCH/CLEAN_SEED_BUILD_VS_OTHER_NOISE_PHASE_BOUNDARY_DISSECTION_20260522_035244.md
+Saved TODO: HOUSE_WORK/TODO/CLEAN_SEED_BUILD_VS_OTHER_NOISE_PHASE_BOUNDARY_TODO_20260522_035244.md
+Receipt: PROOF_HISTORY/CLEAN_SEED_BUILD_VS_OTHER_NOISE_PHASE_BOUNDARY_RECEIPT_20260522_035244.txt
+Promotion: none
+Authority changes: none
+Next allowed move: continue current Clean Seed Build work; admit current-fit material into proper lanes and park Other Noise until its phase opens.
+Blocked: no Other Noise bleed into active artifacts, no useful source-ore deletion by default, no doctrine/guide/index rewrite, no automation install, no promotion without proof.
