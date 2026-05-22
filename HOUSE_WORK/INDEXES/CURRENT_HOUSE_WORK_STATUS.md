@@ -5711,3 +5711,6 @@ Saved source-safe linked pair for 6LP3n9V7H_8: Founding Original / Source Root -
 
 ## 20260522 - PowerShell delivery no long tall code boxes rule saved
 Saved active behavior rule: long PowerShell scripts should be delivered as file/script packets or short wide launchers when practical. Boundary: delivery behavior rule only; no doctrine promotion; no active guide rewrite; no CURRENT_TRUTH_INDEX rewrite; no automation.
+
+## 20260522 - Jumping spider brain source intake gathered
+Saved source-safe Git intake record for Dgbci0GC1vk. Full raw transcript remains in Desktop\123; Git stores note, receipt copy, hashes, record, index/status update, and proof only. Boundary: no doctrine promotion, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no medical-advice install.
