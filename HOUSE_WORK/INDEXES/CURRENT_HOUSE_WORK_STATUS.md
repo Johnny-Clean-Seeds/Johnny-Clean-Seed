@@ -5717,3 +5717,6 @@ Saved source-safe Git intake record for Dgbci0GC1vk. Full raw transcript remains
 
 ## 20260522 - Feynman V2 source-ore research map saved
 Saved Richard Phillips Feynman V2 source-ore research map and linked-pair TODO. Boundary: source-ore only; no doctrine promotion; no active guide rewrite; no CURRENT_TRUTH_INDEX rewrite; no automation.
+
+## 20260522 - Growth-safe gate judge and role-boundary rules saved
+Saved Growth-Safe Undisproved Candidate Rule and Gate Judge / Gate Role Boundary Rule. These distinguish unproven from disproven and require each gate to do only its own job, receive from the prior gate, and prepare clean output for the next gate. Boundary: behavior rules and foundation repair only; no doctrine promotion; no active guide rewrite; no CURRENT_TRUTH_INDEX rewrite; no automation.
