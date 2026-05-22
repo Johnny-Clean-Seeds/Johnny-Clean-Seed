@@ -5473,3 +5473,16 @@ Current holding:
 - Blocked moves remain hard stops.
 
 Next move: choose one follow-up proof route from HOUSE_WORK/TODO/FULL_SUIT_LOAD_FOLLOWUP_TODO_20260522.md.
+
+## 20260522 — Full Suit Next-Disposition Mule Return Intake
+
+Base before save: main @ 6c18c49
+Full base hash: 6c18c49c15b8da25a2695eaf28fb5d3e09b55607
+State: PASS / MULE RETURN INTAKE SAVED AS EVIDENCE ONLY
+Promotion: none
+Authority changes: none
+Saved return: HOUSE_WORK/WORK_SHED/MULE_WORKSHOP/RETURNS/FULL_SUIT_NEXT_DISPOSITION_RETURN_20260522_032930/MULE_RETURN_FULL_SUIT_NEXT_DISPOSITION_REPORT.md
+Saved manifest: HOUSE_WORK/WORK_SHED/MULE_WORKSHOP/RETURNS/FULL_SUIT_NEXT_DISPOSITION_RETURN_20260522_032930/MANIFEST.md
+Receipt: PROOF_HISTORY/FULL_SUIT_NEXT_DISPOSITION_MULE_RETURN_INTAKE_RECEIPT_20260522_032930.txt
+Next allowed move: read the saved mule return and choose the next single disposition route.
+Blocked: no doctrine rewrite, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no automation install, no promotion without separate proof.

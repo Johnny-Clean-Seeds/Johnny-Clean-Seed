@@ -1,69 +1,21 @@
 ACTIVE ANCHOR
 
-Base before this save:
-main @ b643057
-Full hash: b643057a7a350b092007c169f718f1ea0d022c2c
+Current position:
+main after full suit next-disposition mule return intake
 
-Current active lane:
-Full Suit + Hands + Parked + Blocked Combined Load Test
+Base before intake:
+main @ 6c18c49
 
-Current state:
-PASS WITH GUARDRAILS / house inventory + combined load test saved only
-
-Hands:
-- Orientation only.
-- No unsent file.
-- No hidden edit.
-- No active repo mutation.
-
-Hard Suit:
-- Pause-before-work.
-- Task-scoped rule + neighbor search before action.
-- Dense-idea intake.
-- Proof-before-PASS.
-- No doctrine/guide/index rewrite without routed proof.
-- File-first for large packets.
-- Artifact self-check.
-- Clean copy-block discipline.
-- PowerShell param first.
-- External issue stays external.
-- Bridge lifecycle cleanup.
-
-Soft Suit candidate rack:
-- Rule-Firing Confirmation Card.
-- Relevant Root Key Selector.
-- Provenance / Chain-of-Custody Thread Lens.
-- Gear Rack Load Gate.
-- Boss/Ghost rule firing cycle.
-- Fog Alarm.
-- Broad-Bite / solidifying condensation.
-- Stale-checker route attachment fix.
-- Hub watcher quiet-window batch digestion.
-- Broken-bridge disintegration lifecycle.
-- Compounding personality / Planetary Influence / Valence Council lane.
-
-Parked / intake-ready:
-- Dreamforger/Suno source ore.
-- Mule return material.
-- 123_NON_GIT_AUDIT_20260522 intake batch.
-- Command Center local-only material.
-- Public/Neocities review lane.
-- Exact Chat Wake Bridge proof.
-- Older/superseded bridge scripts.
-
-Blocked:
-- Treating public files as local truth.
-- Promoting source ore into doctrine.
-- Rewriting active guides/current truth index from a candidate.
-- Installing dashboard/runtime/automation without separate route.
-- Calling first-use tests promoted.
-- Assuming anything newer than this base without fresh proof.
+New save target:
+Mule return intake saved as evidence only.
 
 Next allowed move:
-Choose one proof-ranked follow-up route from HOUSE_WORK/TODO/FULL_SUIT_LOAD_FOLLOWUP_TODO_20260522.md.
+Read the saved mule return and decide the next single disposition route.
 
-Previous ACTIVE_ANCHOR backup:
-PROOF_HISTORY\ACTIVE_ANCHOR_BEFORE_FULL_SUIT_LOAD_TEST_20260522_031227.txt
-
-Boundary:
-This anchor does not promote the batch, install doctrine, rewrite active guides, rewrite CURRENT_TRUTH_INDEX, create runtime, create dashboard, or create automation.
+Blocked:
+Do not promote from the mule return without separate proof.
+Do not rewrite doctrine.
+Do not rewrite ACTIVE_GUIDES.
+Do not rewrite CURRENT_TRUTH_INDEX.
+Do not install automation.
+Do not treat the mule return as authority.
