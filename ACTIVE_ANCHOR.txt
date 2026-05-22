@@ -1,21 +1,27 @@
 ACTIVE ANCHOR
 
 Current position:
-main after full suit next-disposition mule return intake
+main after three-boss Soft Suit live-use test
 
-Base before intake:
-main @ 6c18c49
+Base before save:
+main @ 63dc958
 
 New save target:
-Mule return intake saved as evidence only.
+Three-boss Soft Suit live-use test saved as evidence only.
+
+Test unit:
+Rule-Firing Confirmation Card + Relevant Root Key Selector + Fog Alarm
+
+Verdict:
+PASS WITH WATCH / ONE LIVE EVENT CAPTURED / NO PROMOTION
 
 Next allowed move:
-Read the saved mule return and decide the next single disposition route.
+Use the three-boss unit naturally on the next meaningful ambiguous or multi-rule action and capture one more live-use event if it helps.
 
 Blocked:
-Do not promote from the mule return without separate proof.
+Do not promote from this single live-use test.
 Do not rewrite doctrine.
 Do not rewrite ACTIVE_GUIDES.
 Do not rewrite CURRENT_TRUTH_INDEX.
 Do not install automation.
-Do not treat the mule return as authority.
+Do not treat mule return or this test as authority.

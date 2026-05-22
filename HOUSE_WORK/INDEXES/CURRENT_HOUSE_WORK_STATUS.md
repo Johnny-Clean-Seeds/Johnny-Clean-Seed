@@ -5486,3 +5486,18 @@ Saved manifest: HOUSE_WORK/WORK_SHED/MULE_WORKSHOP/RETURNS/FULL_SUIT_NEXT_DISPOS
 Receipt: PROOF_HISTORY/FULL_SUIT_NEXT_DISPOSITION_MULE_RETURN_INTAKE_RECEIPT_20260522_032930.txt
 Next allowed move: read the saved mule return and choose the next single disposition route.
 Blocked: no doctrine rewrite, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no automation install, no promotion without separate proof.
+
+## 20260522 — Three-Boss Soft Suit Live-Use Test
+
+Base before save: main @ 63dc958
+Full base hash: 63dc9582c5a21a56e364e2d3ce14967005bf71c0
+State: PASS WITH WATCH / ONE LIVE EVENT CAPTURED / NO PROMOTION
+Unit tested: Rule-Firing Confirmation Card + Relevant Root Key Selector + Fog Alarm
+Saved test: HOUSE_WORK/WORK_SHED/GEAR_RACK/LIVE_TESTS/THREE_BOSS_SOFT_SUIT_LIVE_USE_TEST_20260522_033519.md
+Saved card: HOUSE_WORK/WORK_SHED/SORTING_BENCH/THREE_BOSS_SOFT_SUIT_DISPOSITION_CARD_20260522_033519.md
+Saved TODO: HOUSE_WORK/TODO/THREE_BOSS_SOFT_SUIT_FOLLOWUP_TODO_20260522_033519.md
+Receipt: PROOF_HISTORY/THREE_BOSS_SOFT_SUIT_LIVE_USE_TEST_RECEIPT_20260522_033519.txt
+Promotion: none
+Authority changes: none
+Next allowed move: use the unit naturally on the next meaningful ambiguous or multi-rule action and capture one more live-use event if it helps.
+Blocked: no doctrine rewrite, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no automation install, no promotion from one event.
