@@ -6070,3 +6070,15 @@ Files:
 - HOUSE_WORK\WORK_SHED\SORTING_BENCH\STOP_ISSUE_NOTE_OPTION_WEIGHT_ACTIVE_BREAK_CAPTURE_20260522.md
 Boundary: no doctrine promotion, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no automation, no dashboard, no broad cleanup.
 Next: read receipt; then use the gate shape before any further task movement.
+
+---
+
+## Smoke Break Focus Reset / Problem-to-Power-Play — 20260522_195627
+
+Status: saved as brain learning and sorting-bench capture.
+Old base: f8534acc49239116369290d0ef36bf3e2ce55759
+Files:
+- BRAIN_LEARNING\SMOKE_BREAK_FOCUS_RESET_POWER_PLAY_RULE_20260522.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\SMOKE_BREAK_FOCUS_RESET_POWER_PLAY_CAPTURE_20260522.md
+Boundary: no doctrine promotion, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no automation, no dashboard, no broad cleanup.
+Next: use smoke break as a focus reset only if it returns to the same active issue; adverse effects become evidence in the gate loop.
