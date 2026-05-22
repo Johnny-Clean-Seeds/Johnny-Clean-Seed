@@ -6058,3 +6058,15 @@ Files:
 - HOUSE_WORK\WORK_SHED\SORTING_BENCH\SAME_SHAPE_HOUSE_WALK_WEARING_FEEL_CAPTURE_20260522.md
 Boundary: no doctrine promotion, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no automation, no dashboard, no broad cleanup.
 Next: use the same-shape before/after method when stateful direction comparison matters; keep the heavy route trigger-based.
+
+---
+
+## Stop Issue Note Option Weight Gate — 20260522_193628
+
+Status: saved as brain learning and sorting-bench capture.
+Old base: 8d8787d790d2565f368e13d74192566155f04b57
+Files:
+- BRAIN_LEARNING\STOP_ISSUE_NOTE_OPTION_WEIGHT_GATE_20260522.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\STOP_ISSUE_NOTE_OPTION_WEIGHT_ACTIVE_BREAK_CAPTURE_20260522.md
+Boundary: no doctrine promotion, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no automation, no dashboard, no broad cleanup.
+Next: read receipt; then use the gate shape before any further task movement.
