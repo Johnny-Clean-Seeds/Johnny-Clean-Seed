@@ -6046,3 +6046,15 @@ Desktop drop naming repair, correction capture, compatibility matrix, cockpit up
 
 Short form:
 Desktop drops = short name + V. House files = house naming. No assumed exceptions.
+
+---
+
+## Same-Shape Direction-Feel Rule Capture — 20260522_191542
+
+Status: saved as brain learning and sorting-bench capture.
+Old base: dc53fe67b4557bb41f618059e98cccc56bfe3cd9
+Files:
+- BRAIN_LEARNING\BEFORE_AFTER_SAME_SHAPE_HOUSE_WALK_DIRECTION_FEEL_RULE_20260522.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\SAME_SHAPE_HOUSE_WALK_WEARING_FEEL_CAPTURE_20260522.md
+Boundary: no doctrine promotion, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no automation, no dashboard, no broad cleanup.
+Next: use the same-shape before/after method when stateful direction comparison matters; keep the heavy route trigger-based.
