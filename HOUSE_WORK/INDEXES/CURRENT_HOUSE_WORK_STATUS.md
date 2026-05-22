@@ -5720,3 +5720,20 @@ Saved Richard Phillips Feynman V2 source-ore research map and linked-pair TODO. 
 
 ## 20260522 - Growth-safe gate judge and role-boundary rules saved
 Saved Growth-Safe Undisproved Candidate Rule and Gate Judge / Gate Role Boundary Rule. These distinguish unproven from disproven and require each gate to do only its own job, receive from the prior gate, and prepare clean output for the next gate. Boundary: behavior rules and foundation repair only; no doctrine promotion; no active guide rewrite; no CURRENT_TRUTH_INDEX rewrite; no automation.
+
+<!-- START NO_SOURCE_GETS_THRONE_SOURCE_VEIN_RULE_20260522 -->
+## 20260522 — No Source Gets the Throne / Source Vein Lane Rule
+
+Current save packet:
+- `BRAIN_LEARNING/NO_SOURCE_GETS_THRONE_SOURCE_VEIN_LANE_RULE_20260522.md`
+- `HOUSE_WORK/WORK_SHED/SORTING_BENCH/FOUNDING_ROOTS_AND_SOURCE_VEINS_MAP_20260522.md`
+- `PROOF_HISTORY/NO_SOURCE_GETS_THRONE_SOURCE_VEIN_RULE_RECEIPT_20260522.txt`
+
+Verdict: source integration boundary saved as authority-placement support. No doctrine promotion. No active guide rewrite. No `CURRENT_TRUTH_INDEX` rewrite. No automation.
+
+Current guard line:
+
+**No source gets the throne. Every source gets a lane.**
+
+Next planned work: Cargo Cult Science -> Form Is Not Function / Anti-Fake-PASS Gate, with proof boundary preserved: missing proof blocks PASS; only positive disproof kills.
+<!-- END NO_SOURCE_GETS_THRONE_SOURCE_VEIN_RULE_20260522 -->
