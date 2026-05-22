@@ -145,3 +145,30 @@ Do not scatter internal files before opening/reviewing the package.
 
 Short form:
 Drop means event. Folder means package. Move, receipt, and YOU GOT MAIL trigger.
+---
+
+## 2.28 Save Location Default — Local + URL Unless Special
+
+Durable project saves default to both:
+
+1. local Mr.Kleen repo files; and
+2. remote URL/GitHub push.
+
+Unless the user says a case is special, local-only, no URL, no push, no commit, or no Git, durable project rules/captures/receipts/status updates should be committed and pushed.
+
+Local-only by default:
+- Desktop chat drop-copies;
+- Desktop\123 transfer copies;
+- porch watcher receipts/plans;
+- dropboxes;
+- one-shot local helper tools;
+- local event/mail triggers;
+- backup versions;
+- raw/source-heavy material unless routed.
+
+Every save report must split:
+- Local + URL: committed/pushed repo files.
+- Local-only: tools, receipts, dropboxes, event triggers, exported copies.
+
+Short form:
+Project-durable saves go local + URL by default. Local operational artifacts stay local unless routed. If special, user says so.

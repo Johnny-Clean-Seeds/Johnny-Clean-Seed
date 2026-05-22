@@ -5894,3 +5894,26 @@ Project-wide drop event trigger/package intake rule, correction capture, cockpit
 
 Short form:
 Drop means event. Folder means package. Move, receipt, and YOU GOT MAIL trigger.
+
+## 20260522 — Save Location Default Local + URL Rule
+
+Position before commit: 9318c0b2fc4e3c8d0b4dc33e2a776d10af5b894c
+
+Saved:
+- BRAIN_LEARNING/SAVE_LOCATION_DEFAULT_LOCAL_AND_URL_RULE_20260522.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/SAVE_LOCATION_DEFAULT_LOCAL_AND_URL_CAPTURE_20260522.md
+- HOUSE_WORK/CHAT_COCKPIT/CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- PROOF_HISTORY/SAVE_LOCATION_DEFAULT_LOCAL_AND_URL_RULE_RECEIPT_20260522.txt
+
+Exported local-only:
+- C:\Users\13527\Desktop\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- C:\Users\13527\Desktop\123\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+
+Verdict:
+PASS - SAVE LOCATION DEFAULT LOCAL AND URL RULE SAVED
+
+Boundary:
+Save-routing/reporting rule, correction capture, cockpit update, and labeled CHAT drop-copy export only. No doctrine promotion. No active guide rewrite. No CURRENT_TRUTH_INDEX rewrite. No automation.
+
+Short form:
+Project-durable saves go local + URL by default. Local operational artifacts stay local unless routed. If special, user says so. Always report the split.
