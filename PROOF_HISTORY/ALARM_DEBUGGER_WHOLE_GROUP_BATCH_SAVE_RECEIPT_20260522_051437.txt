@@ -1,0 +1,36 @@
+ALARM DEBUGGER WHOLE-GROUP BATCH SAVE RECEIPT
+
+Date:
+20260522_051437
+
+Base before save:
+2db751f63a450908ffa4edec355855d666b0bd56
+
+Saved files:
+BRAIN_LEARNING/MEMORY_UPDATE_IS_NOT_HOUSE_RULE_SAVE_REPAIR_TRIGGER_20260522.md
+HOUSE_WORK/WORK_SHED/GEAR_RACK/ALARM_DEBUGGER_CABINET/ALARM_DEBUGGER_WHOLE_GROUP_BATCH_REPAIR_MAP_20260522_051437.md
+HOUSE_WORK/WORK_SHED/GEAR_RACK/ALARM_DEBUGGER_CABINET/SCAFFOLDS_AND_LADDERS/ALARM_DEBUGGER_SCAFFOLDS_AND_LADDERS_20260522_051437.md
+HOUSE_WORK/WORK_SHED/GEAR_RACK/ALARM_DEBUGGER_CABINET/ALARM_DEBUGGER_RESOURCE_AND_EVIDENCE_LINK_MAP_20260522_051437.md
+HOUSE_WORK/WORK_SHED/SORTING_BENCH/ALARM_DEBUGGER_WHOLE_GROUP_BATCH_FIRING_CARD_20260522_051437.md
+HOUSE_WORK/TODO/ALARM_DEBUGGER_WHOLE_GROUP_BATCH_FOLLOWUP_TODO_20260522_051437.md
+
+Verdict:
+PASS WITH GUARDRAILS / WHOLE-GROUP ALARM DEBUGGER BATCH MAP SAVED / NO PROMOTION
+
+Boundary:
+No doctrine rewrite.
+No ACTIVE_GUIDES rewrite.
+No CURRENT_TRUTH_INDEX rewrite.
+No automation install.
+No broad Whirlpool run.
+No promotion.
+No authority transfer.
+
+Revision applied:
+Yes. Draft view, second-pass revision, final revised view, links, tools/resources, scaffolds, and ladders included.
+
+Linking applied:
+Yes. Resource/evidence link map saved and source/support files named with presence/hash where available.
+
+Memory correction applied:
+Yes. Memory update is a signal, not a house rule, and house-relevant memory must trigger local plus Git save/repair when appropriate.

@@ -1,27 +1,30 @@
 ACTIVE ANCHOR
 
 Current position:
-main after Tool / Script / Copy Safety third alarm-cabinet repair target save
+main after whole-group alarm/debugger batch map save
 
 Base before save:
-main @ 7c8e0a1
+main @ 2db751f
 
 Saved:
-Tool / Script / Copy Safety third repair target.
-Tool / Script / Copy Safety firing card.
+Memory Update Is Not House Rule trigger.
+Whole-group Alarm/Debugger Batch Repair Map.
+Alarm/Debugger Scaffolds and Ladders.
+Alarm/Debugger Resource and Evidence Link Map.
+Whole-group firing card.
 Followup TODO and receipt.
 
 Verdict:
-PASS WITH GUARDRAILS / THIRD ALARM CABINET REPAIR TARGET SAVED / NO PROMOTION
+PASS WITH GUARDRAILS / WHOLE-GROUP BATCH MAP SAVED / NO PROMOTION
 
 Next allowed move:
-Use the Tool / Script / Copy Safety alarm for large local scripts and prefer .ps1 artifact delivery plus short launcher commands.
+Use the whole-group batch map before creating more individual alarm repair targets. Use firing evidence to decide whether a group is working, late, partial, decorative/no-proof, or failed-to-fire.
 
 Blocked:
-Do not promote this target.
-Do not install automation.
+Do not promote the cabinet.
+Do not treat memory update as house proof.
+Do not skip revision or evidence links.
 Do not rewrite doctrine.
 Do not rewrite ACTIVE_GUIDES.
 Do not rewrite CURRENT_TRUTH_INDEX.
-Do not run stale scripts after base changes.
-Do not use long screen-filling code blocks unless requested.
+Do not install automation.

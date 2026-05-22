@@ -5616,3 +5616,20 @@ Promotion: none
 Authority changes: none
 Next allowed move: use this alarm to prefer .ps1 artifact delivery plus short launchers for large local scripts.
 Blocked: no stale script runs, no automation install, no doctrine/guide/index rewrite, no promotion.
+
+## 20260522 — Alarm/Debugger Whole-Group Batch Map Save
+
+Base before save: main @ 2db751f
+Full base hash: 2db751f63a450908ffa4edec355855d666b0bd56
+State: PASS WITH GUARDRAILS / WHOLE-GROUP ALARM DEBUGGER BATCH MAP SAVED / NO PROMOTION
+Saved memory trigger: BRAIN_LEARNING/MEMORY_UPDATE_IS_NOT_HOUSE_RULE_SAVE_REPAIR_TRIGGER_20260522.md
+Saved batch map: HOUSE_WORK/WORK_SHED/GEAR_RACK/ALARM_DEBUGGER_CABINET/ALARM_DEBUGGER_WHOLE_GROUP_BATCH_REPAIR_MAP_20260522_051437.md
+Saved scaffolds/ladders: HOUSE_WORK/WORK_SHED/GEAR_RACK/ALARM_DEBUGGER_CABINET/SCAFFOLDS_AND_LADDERS/ALARM_DEBUGGER_SCAFFOLDS_AND_LADDERS_20260522_051437.md
+Saved links/resources: HOUSE_WORK/WORK_SHED/GEAR_RACK/ALARM_DEBUGGER_CABINET/ALARM_DEBUGGER_RESOURCE_AND_EVIDENCE_LINK_MAP_20260522_051437.md
+Saved firing card: HOUSE_WORK/WORK_SHED/SORTING_BENCH/ALARM_DEBUGGER_WHOLE_GROUP_BATCH_FIRING_CARD_20260522_051437.md
+Saved TODO: HOUSE_WORK/TODO/ALARM_DEBUGGER_WHOLE_GROUP_BATCH_FOLLOWUP_TODO_20260522_051437.md
+Receipt: PROOF_HISTORY/ALARM_DEBUGGER_WHOLE_GROUP_BATCH_SAVE_RECEIPT_20260522_051437.txt
+Promotion: none
+Authority changes: none
+Next allowed move: use the whole-group batch map before creating more individual alarm repair targets and gather real firing evidence.
+Blocked: no cabinet promotion, no memory-as-proof, no skipped revision, no orphan artifacts, no doctrine/guide/index rewrite, no automation install.
