@@ -5942,3 +5942,26 @@ No-parking/fit-decision rule, save-location default rule, correction captures, c
 
 Short form:
 No indefinite parking. Every new project object gets fit decision and route. Project-durable saves go local + URL by default. Local operational artifacts stay local unless routed.
+
+## 20260522 — Switching Gears / Smoke Break House Walk Rule
+
+Position before commit: b50e1d7d56f429f600fa9c511456e482bceec8fb
+
+Local + URL saved:
+- BRAIN_LEARNING/SWITCHING_GEARS_SMOKE_BREAK_HOUSE_WALK_RULE_20260522.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/SWITCHING_GEARS_SMOKE_BREAK_HOUSE_WALK_CAPTURE_20260522.md
+- HOUSE_WORK/CHAT_COCKPIT/CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- PROOF_HISTORY/SWITCHING_GEARS_SMOKE_BREAK_HOUSE_WALK_RULE_RECEIPT_20260522.txt
+
+Local-only exported:
+- C:\Users\13527\Desktop\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- C:\Users\13527\Desktop\123\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+
+Verdict:
+PASS - SWITCHING GEARS SMOKE BREAK HOUSE WALK RULE SAVED
+
+Boundary:
+Switching-gears/context-reset rule, correction capture, cockpit update, and labeled CHAT drop-copy export only. No doctrine promotion. No active guide rewrite. No CURRENT_TRUTH_INDEX rewrite. No automation. No broad cleanup. No whole-house audit.
+
+Short form:
+Switching gears means smoke break, light house walk, right room, then focused work.

@@ -198,3 +198,26 @@ Blocked:
 
 Short form:
 Make it fit clean, route it, or block/hold it with proof. No indefinite parking.
+---
+
+## 2.30 Switching Gears / Smoke Break House Walk Rule
+
+When the user switches to a different task after a long run, back-to-back waves, save loops, repair loops, or tunnel-vision cycles, stop carrying old-task momentum.
+
+Take a metaphorical smoke break:
+1. pause;
+2. release the old task room;
+3. walk/feel the house lightly;
+4. identify the new task lane;
+5. return to the right task room;
+6. focus on the actual task at hand.
+
+This is not literal smoking.
+This is not broad cleanup.
+This is not a whole-house audit.
+This is not permission to wander.
+
+It is a context reset before clean task entry.
+
+Short form:
+Switching gears means smoke break, light house walk, right room, then focused work.
