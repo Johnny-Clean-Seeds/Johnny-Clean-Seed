@@ -1730,10 +1730,10 @@ Saved:
 - Today's daily house-walk digest log.
 
 Files:
-- 
-- 
-- 
-- 
+-
+-
+-
+-
 
 Boundary:
 - Code/session-gate behavior only.
@@ -4881,7 +4881,7 @@ No doctrine rewrite, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, n
 
 Status: RULES SAVED / ACTIVE MULE HANDOFF PLACED
 Date: 2026-05-20
-Base before save: 
+Base before save:
 07bcc2d
 
 123 outside storage unit:
@@ -5450,3 +5450,26 @@ Codex CLI seed proof recorded:
 
 Boundary:
 No active print, next print, local secret, used print file, vault ledger, checkpoint file, recovery receipt, tunnel secret, Codex session secret, Codex auth/cache file, browser profile data, AppData auth material, raw active print URL, or raw active secret material is saved as authority. Codex is not connected to Remote Door and is not active project, write, shell, automation, or bridge authority. Assistant arbitrary shell, raw shell, broad crawl, delete, repo write through V2, git through V2, Level 2 through V2, Level 3 through V2, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, permission expansion, and junction/symlink teleporter remain blocked.
+
+---
+
+## Full Suit + Hands + Parked + Blocked Combined Load Test - 20260522
+
+Base before save: main @ b643057
+Full base hash: b643057a7a350b092007c169f718f1ea0d022c2c
+State: PASS WITH GUARDRAILS / SAVED AS INVENTORY + COMBINED LOAD TEST ONLY
+Promotion: none
+Authority changes: none
+Files:
+- HOUSE_WORK/WORK_SHED/GEAR_RACK/SUIT_LOAD_TESTS/FULL_SUIT_HANDS_PARKED_BLOCKED_COMBINED_LOAD_TEST_20260522.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/SUIT_HANDS_PARKED_BLOCKED_INVENTORY_MAP_20260522.md
+- HOUSE_WORK/TODO/FULL_SUIT_LOAD_FOLLOWUP_TODO_20260522.md
+
+Current holding:
+- Hands clear/orientation only.
+- Hard Suit guardrails active.
+- Soft Suit candidates tested together as a combined rack, not promoted.
+- Parked/intake material held without authority.
+- Blocked moves remain hard stops.
+
+Next move: choose one follow-up proof route from HOUSE_WORK/TODO/FULL_SUIT_LOAD_FOLLOWUP_TODO_20260522.md.
