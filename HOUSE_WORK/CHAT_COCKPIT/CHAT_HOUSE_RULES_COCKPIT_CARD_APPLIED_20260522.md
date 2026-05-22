@@ -282,3 +282,32 @@ FITS / FITS WITH BOUNDED EXCEPTION / NEEDS REFINEMENT / CONFLICTS / BLOCKED / PA
 
 Short form:
 Several rules at once means apply gate. Run the rules against each other before commit.
+---
+
+## 2.33 Desktop Drop Naming Repair
+
+Desktop/drop/download/export names must be short, direct, and versioned.
+
+Use:
+- NAME_V1.ext
+- NAME_V1.1.ext
+- NAME_V1.2.ext
+- through V1.9
+- then V2.0, V2.1, onward
+
+Keep the name to the point.
+
+Good:
+- SAVE_DESKTOP_NAMING_REPAIR_V1.1.ps1
+- MULE_HANDOFF_V1.md
+- CHAT_COCKPIT_V1.md
+- ROBOCOP_SETUP_V1.zip
+
+Do not use Desktop V style for internal house/repo files.
+
+Do not assume broad Desktop exceptions.
+A current-pointer exception needs explicit user approval.
+
+Short form:
+Desktop drops = short name + V.
+House files = house naming.

@@ -6017,3 +6017,32 @@ Multi-rule batch compatibility/apply gate, correction capture, recent-rule compa
 
 Short form:
 Several rules at once means apply gate. Run rules against each other. Fit, refine, block, or bounded exception before commit.
+
+## 20260522 — Desktop Drop Naming Repair
+
+Position before commit: f8c02736668e693c82e7c26967ca3ce06fa8ee1f
+
+Local + URL saved:
+- BRAIN_LEARNING/DESKTOP_DROP_VERSION_NAMING_RULE_REPAIR_20260522.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/DESKTOP_DROP_VERSION_NAMING_REPAIR_CAPTURE_20260522.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/DESKTOP_DROP_NAMING_REPAIR_COMPATIBILITY_MATRIX_20260522.md
+- HOUSE_WORK/CHAT_COCKPIT/CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- PROOF_HISTORY/DESKTOP_DROP_VERSION_NAMING_REPAIR_RECEIPT_20260522.txt
+
+Local-only exported:
+- C:\Users\13527\Desktop\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- C:\Users\13527\Desktop\123\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- C:\Users\13527\Desktop\CHAT_COCKPIT_V1.md
+- C:\Users\13527\Desktop\123\CHAT_COCKPIT_V1.md
+
+Verdict:
+PASS WITH REPAIR - DESKTOP DROP NAMING REPAIR SAVED
+
+Compatibility Result:
+PASS WITH REPAIR. Desktop names now require short/direct names plus V suffix. Internal house files keep normal house naming. The prior current-pointer exception is not assumed; it requires explicit user approval.
+
+Boundary:
+Desktop drop naming repair, correction capture, compatibility matrix, cockpit update, and labeled local exports only. No doctrine promotion. No active guide rewrite. No CURRENT_TRUTH_INDEX rewrite. No automation. No internal house/repo file renaming.
+
+Short form:
+Desktop drops = short name + V. House files = house naming. No assumed exceptions.
