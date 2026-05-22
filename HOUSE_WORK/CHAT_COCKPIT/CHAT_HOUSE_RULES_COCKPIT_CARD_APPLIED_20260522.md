@@ -86,3 +86,31 @@ This is role-fidelity judgment, not monarchy.
 
 Short form:
 Every object gets a job. Every gate gets judged. The Final Judge Gate starts the gate run and ends it.
+---
+
+## 2.26 Porch Watcher / Move-Not-Copy Housekeeping Rule
+
+Porch is not storage.
+
+Default intake/routing is MOVE, not COPY.
+
+When a project file is dropped, downloaded, generated, or left at the porch:
+
+1. read the filename;
+2. classify the object;
+3. identify the lane;
+4. move it to that lane;
+5. write a receipt;
+6. if unknown, move it to a sorting table with a reason.
+
+Copy is allowed only for intentional labeled exports, mirrors, backups, or drop-copies.
+
+Blocked:
+- do not copy files into place and leave the original hanging;
+- do not leave generated scripts/downloads/handoffs at the porch;
+- do not make the user hunt for the real file;
+- do not route without receipt;
+- do not delete to clean the porch.
+
+Short form:
+No loose packages. Move to lane. Copy only when explicitly labeled.
