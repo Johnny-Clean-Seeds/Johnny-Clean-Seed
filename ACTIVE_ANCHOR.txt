@@ -1,25 +1,32 @@
 ACTIVE ANCHOR
 
 Current position:
-main after Clean Seed Build vs Other Noise phase-boundary save
+main after mule filing, save trigger, revision, and linking method save
 
 Base before save:
-main @ 29e9262
+main @ f62bd3d
 
 Saved:
-Clean Seed Build vs Other Noise phase-boundary rule.
+Local + Git Save Trigger.
+Mule Filing-Cabinet Deep Handoff Method.
+Completion Revision / Second-Pass Editing Rule.
+Linking Papers / Evidence Chain Rule.
+Gear Rack mule filing handoff template.
+Dissection, TODO, and receipt.
 
 Verdict:
-PASS WITH GUARDRAILS / PHASE BOUNDARY SAVED / NO PROMOTION
+PASS WITH GUARDRAILS / FULL METHOD STACK SAVED / NO PROMOTION
 
 Next allowed move:
-Continue current Clean Seed Build work. Admit current-fit material into proper lanes and park Other Noise until its phase opens.
+Use the full method stack on durable house-relevant work: save locally and to Git, revise before delivery/save, and preserve evidence links.
 
 Blocked:
-Do not let Other Noise bleed into active artifacts.
-Do not discard useful source ore by default.
-Do not promote current-fit material without proof.
+Do not skip revision for durable work.
+Do not leave artifacts orphaned.
+Do not skip Git push for durable house saves.
+Do not treat mule output as authority.
 Do not rewrite doctrine.
 Do not rewrite ACTIVE_GUIDES.
 Do not rewrite CURRENT_TRUTH_INDEX.
 Do not install automation.
+Do not promote without a separate proof route.

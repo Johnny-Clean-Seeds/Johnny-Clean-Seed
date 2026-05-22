@@ -5534,3 +5534,21 @@ Promotion: none
 Authority changes: none
 Next allowed move: continue current Clean Seed Build work; admit current-fit material into proper lanes and park Other Noise until its phase opens.
 Blocked: no Other Noise bleed into active artifacts, no useful source-ore deletion by default, no doctrine/guide/index rewrite, no automation install, no promotion without proof.
+
+## 20260522 — Mule Filing / Save Trigger / Revision / Linking Method Save
+
+Base before save: main @ f62bd3d
+Full base hash: f62bd3d9a49e0ee9604861c91e7e945cb6073ace
+State: PASS WITH GUARDRAILS / FULL METHOD STACK SAVED / NO PROMOTION
+Saved local-Git save trigger: BRAIN_LEARNING/LOCAL_GIT_SAVE_TRIGGER_RULE_20260522.md
+Saved mule filing method: BRAIN_LEARNING/MULE_FILING_CABINET_DEEP_HANDOFF_METHOD_RULE_20260522.md
+Saved completion revision rule: BRAIN_LEARNING/COMPLETION_REVISION_SECOND_PASS_EDITING_RULE_20260522.md
+Saved linking papers rule: BRAIN_LEARNING/LINKING_PAPERS_EVIDENCE_CHAIN_RULE_20260522.md
+Saved handoff template: HOUSE_WORK/WORK_SHED/GEAR_RACK/HANDOFF_METHODS/MULE_FILING_CABINET_DEEP_HANDOFF_TEMPLATE_20260522.md
+Saved dissection: HOUSE_WORK/WORK_SHED/SORTING_BENCH/MULE_FILING_SAVE_REVISION_LINKING_METHOD_DISSECTION_20260522_045333.md
+Saved TODO: HOUSE_WORK/TODO/MULE_FILING_SAVE_REVISION_LINKING_METHOD_TODO_20260522_045333.md
+Receipt: PROOF_HISTORY/MULE_FILING_SAVE_REVISION_LINKING_METHOD_RECEIPT_20260522_045333.txt
+Promotion: none
+Authority changes: none
+Next allowed move: use the full method stack on durable house work: save local plus Git, revise before delivery/save, and preserve evidence-chain links.
+Blocked: no skipped revision, no orphan artifacts, no skipped Git push for durable saves, no mule-output authority, no doctrine/guide/index rewrite, no automation install, no promotion without proof.
