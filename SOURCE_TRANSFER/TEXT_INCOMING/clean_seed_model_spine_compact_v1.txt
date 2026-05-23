@@ -1,0 +1,254 @@
+CLEAN SEED MODEL SPINE COMPACT V1
+Purpose: Compact orientation spine so the mule does not need to read every older guide file.
+Status: Inventory/overlay summary. Not doctrine. Not final model. Not merge authority.
+
+CENTER
+Clean Seed is a field-to-mode alignment system for growth.
+
+Clean:
+purpose-preserving action; next step gets stronger; next system pays less tax; growth is protected without being sterilized.
+
+Dirty:
+purpose is lost; next system pays tax; growth is blocked, faked, poisoned, hijacked, overgrown, or misaligned.
+
+Malalignment:
+right piece, wrong field/target/timing/authority/boundary/strike distance.
+
+OPERATING FORMULA
+FIELD -> MODE -> MACHINE -> MOVE -> TEST -> RECEIPT -> DRIFT CHECK
+
+CORE ANCHORS
+Growth
+Alignment
+Malalignment
+Field
+Mode
+Machine
+Move
+Authority
+Boundary
+Evidence
+Priority
+Defense
+Attack
+Strike Distance
+Nursery
+Test
+Disproof
+Receipt
+Handoff
+Drift
+Merge
+Park
+False Friend
+Cycle
+Neighbor
+Cousin
+Bridge
+Tax
+Promotion Gate
+Growth Protection
+Orientation Correction
+Dead-eye Precision
+Truth Auto-aim
+
+MAIN MODES ALREADY PRESENT
+capture
+bridge
+nursery
+defense
+attack
+test
+repair
+handoff
+park
+yield
+reset
+merge candidate
+drift review
+
+CURRENT BOARD SECTIONS ALREADY PRESENT
+Center
+Main tension
+Big modes
+Growth protection
+Growth promoters
+Growth blockers
+Growth detectors
+False growth detectors
+Clean/dirty/other states
+Front steps before evidence
+Evidence layer
+Authority layer
+Boundary layer
+Priority layer
+Attack layer
+Strike distance
+Clean attack plan
+Dirty attack paths
+Defense layer
+Fortnite / worm / guerrilla model
+Biology
+Medicine
+Mechanics
+Detective / forensics
+Science
+Food / kitchen
+Aviation
+Law / court
+Accounting
+Software / DevOps
+Archives / library
+Manufacturing / QA
+Emergency / incident response
+Teaching / parenting
+Sports / training
+Game design
+Military / strategy
+Gardening / ecology
+Clean next step candidates
+Dirty failure patterns
+Things that must stay alive
+Phrases worth holding
+Conversation meta-rules
+
+FIELD BLOCKS ALREADY CAPTURED OR PARTLY CAPTURED
+NASA / space operations
+Military / mission command / rules of engagement
+Plumbing / flow / sanitation / pressure
+Mining / extraction / collapse risk
+Electrical / power distribution
+Firefighting / HazMat
+Maritime / ships / ports / storms
+Rail / switching / dispatch / signals
+Air traffic control
+Nuclear / high-reliability operations
+Chemical process safety
+Sanitation / wastewater / recycling / public health
+Logistics / warehousing / supply chain
+Weather / forecasting / storm tracking
+Structural engineering / load paths / inspection
+Robotics / control / sensors
+Journalism / investigation / editing
+Diplomacy / negotiation
+Insurance / underwriting / claims
+Economics / markets / incentives
+Search and rescue
+Theater / stage management
+Libraries / indexing / retrieval
+Farming / livestock / soil
+Music / ensemble / practice
+Martial arts / controlled force
+Cities / zoning / utilities
+Lean / Six Sigma / quality improvement
+Human factors / fatigue / interface safety
+Maintenance / reliability
+Project/program management
+Ritual / moral practice / community memory
+Therapy / behavior change / trauma recovery
+Teaching / curriculum / assessment
+Small trade / reputation
+Textiles / sewing / repair
+Cartography / survey / wayfinding
+Archaeology / excavation / historical evidence
+Printing / publishing / proofing
+Databases / schemas / records / governance
+
+IMPORTANT EXISTING MODEL WARNINGS
+Growth is central.
+Clean is not sterile.
+Defense is not hiding.
+Attack is not damage.
+Receipt is not truth.
+Proof is not authority unless field/authority match.
+Coverage is not operation.
+Operation is not alignment.
+The first link is not truth; it opens a neighborhood.
+Do not turn nursery into courtroom.
+Do not merge during capture.
+Do not cut weak living ideas too early.
+
+SOFT LINK OVERLAY
+GROWTH
+same-house: life, seed, living truth, stronger next step, less tax
+neighbors: nursery, growth protection, repair, handoff
+false friends: sterile, bloat, overgrowth, fantasy, rot
+cycle: seed -> root -> growth -> fruit -> seed
+
+ALIGNMENT
+same-house: purpose-preserving action, clean next step, field-to-mode switchboard
+neighbors: authority, boundary, priority, evidence, machine, move
+false friends: order without priority, proof without field, receipt without truth
+cycle: signal -> field -> mode -> machine -> move -> test -> receipt -> drift check
+
+AUTHORITY
+same-house: what can decide truth here, user authority, source authority, field authority
+neighbors: boundary, evidence, priority, strike distance, promotion gate
+false friends: receipt as truth, confidence as authority, polished prose as authority
+
+BOUNDARY
+same-house: scope, allowed move, forbidden crossing, containment
+neighbors: defense, test, quarantine, cleanout, cutoff, abort criteria
+false friends: boundary as fear, protection as hiding, sterile as clean
+
+EVIDENCE
+same-house: proof, source, lineage, integrity, relevance, completeness
+neighbors: forensics, science, medicine, accounting, archives, software tests
+false friends: clue/proof, receipt/truth, artifact/source, existence/authority
+
+ATTACK
+same-house: directed growth force, pressure, strike, probe, breakthrough
+neighbors: target, field, blocker, advantage, smallest strike, reset
+false friends: attack/damage, aggression/growth, domination/repair
+cycle: target -> plan -> strike distance -> move -> result -> reset -> learning
+
+DEFENSE
+same-house: protection, containment, quarantine, shield, holding ground
+neighbors: nursery, boundary, immune system, firefighting, incident response
+false friends: defense/hiding, quarantine/abandonment, safety/stagnation
+
+RECEIPT / HANDOFF
+same-house: next gate, manifest, hash, boundary note, authority note, test result
+neighbors: software deploy, archives, accounting, forensics chain of custody
+false friends: receipt/truth, log/understanding, copy/source
+
+PARK / NURSERY
+same-house: alive but not ready, weak living signal, preserve without promoting
+neighbors: capture mode, growth protection, merge plan
+false friends: parked/rejected, weak/false, unfinished/dirty
+
+MISSION / COMMAND NEIGHBORHOOD
+members: military mission command, NASA mission control, aviation crew resource management, emergency incident command, surgery team roles, theater stage management, software incident commander, parenting teach-the-why, sports coaching under pressure
+possible parent: intent-preserving coordination under changing conditions
+
+FLOW / BLOCKAGE NEIGHBORHOOD
+members: plumbing, electrical circuits, logistics, blood flow, network traffic, roads, rail, sanitation, queues
+possible parent: controlled movement through constrained channels
+
+EVIDENCE / PROOF NEIGHBORHOOD
+members: forensics, science, medicine, accounting, archives, journalism, law, software tests, archaeology
+possible parent: truth-preserving chain from signal to decision
+
+GROWTH / NURSERY NEIGHBORHOOD
+members: biology, gardening, parenting, education, therapy, farming, apprenticeship, animal care
+possible parent: protected development under changing conditions
+
+FAILURE / SAFETY NEIGHBORHOOD
+members: aviation, nuclear, chemical process, firefighting, HazMat, mining, structural engineering, incident response
+possible parent: high-consequence boundary management with abort/containment
+
+USEFUL NEXT REGISTERS TO BUILD LATER
+false-friend register
+chunk registry
+neighborhood review list
+merge candidate register
+parked-alive file
+receipt only for actual promotion/move
+
+WHAT IS NOT COMPLETE
+Full link map is not complete.
+Neighbor/cousin families are seeded, not done.
+False-friend list is not exhaustive.
+Some fields are named but not deeply mined.
+The model is alive, not normalized.
+Repeated terms do not equal final structure.

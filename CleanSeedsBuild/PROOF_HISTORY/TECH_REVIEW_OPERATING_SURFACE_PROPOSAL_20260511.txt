@@ -1,0 +1,71 @@
+﻿TECHNICIAN REVIEW — OPERATING SURFACE PROPOSAL 20260511
+
+Created:
+2026-05-11 02:46:39 -04:00
+
+Status:
+Proof-history-only technician review capture.
+Not active guide doctrine.
+Not current truth.
+Not promotion.
+Not cleanup authority.
+Not final PASS.
+
+Reviewed target:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\OPERATING_SURFACE_PROPOSAL_20260511.txt
+
+Reviewed target SHA256:
+FCDB3EAA64A9DB1A9211A5518A203923233957EC6AB58487DDB62D86A5CD4D02
+
+Related original receipt:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_OPERATING_SURFACE_PROPOSAL_20260511.txt
+
+Current original receipt SHA256:
+171F2C416773861413CFE546CA06C532F48F175852FDB99E421B310F31B8AD0D
+
+Related incident receipt:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\INCIDENT_OPERATING_SURFACE_PROPOSAL_DUPLICATE_RUN_20260511.txt
+
+Incident receipt SHA256:
+3A407D1FC642CF21992EF9E634DECFD950E65E9D6AF8F9C12B80305B4EBEB6A7
+
+Technician verdict:
+PARTIAL PASS WITH GUARDRAILS as proof-history-only.
+
+Accepted clean findings:
+- The proposal clearly says the operating surface is a view, not a new boss.
+- The proposal protects CURRENT_TRUTH_INDEX.txt, ACTIVE_GUIDES, AGENTS.md, receipts, user approval, and final judgment.
+- The proposal fields are practical: active ball, target, mode, boundary, protected items, allowed actions, blocked actions, evidence, lane/status, next gate, expected return proof, and close condition.
+- The proposal helps reduce repeated chat bloat by letting the rule source stay in the folder while a chat only opens the correct door.
+
+Accepted weak findings:
+- The original proposal receipt says Existing files overwritten: NO, but the incident receipt proves the receipt was rewritten during duplicate run.
+- STOP, DREAM, and GROW are useful proposal-mode words, but require term-role / collision review before active use.
+- The proposal self-verdict must remain proposal wording only, not final PASS or promotion.
+- The future home is not proven. Current-conduct/front-door placement remains candidate only.
+
+Receipt-status follow-up:
+Do not edit the original receipt.
+The original receipt remains historical save evidence.
+The incident receipt qualifies the overwrite/no-overwrite mismatch.
+The clean current state is:
+- Proposal content hash stayed stable.
+- Original receipt hash changed during duplicate run.
+- Incident receipt records that mismatch.
+- Proposal remains proof-history-only.
+- No active guide, current truth, AGENTS, folder, cleanup, deletion, move, rename, or promotion change is accepted from this review.
+
+Blocked actions:
+No ACTIVE_GUIDES edit.
+No CURRENT_TRUTH_INDEX edit.
+No AGENTS.md edit.
+No file movement.
+No deletion.
+No folder creation.
+No cleanup.
+No promotion.
+No final PASS.
+
+Next clean action:
+Hold OPERATING_SURFACE_PROPOSAL_20260511 as proof-history-only with guardrails.
+Next likely target is TECHNICIAN_FRONT_DOOR_20260511 or a revised operating-surface placement review, only if user chooses.

@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Watering Can Rules</title>
+  <style>
+:root { --brown:#5b3528; --rose:#8e244c; --cream:#fff3c9; --gold:#f0cf72; --ink:#3f241b; --leaf:#6e944d; }
+* { box-sizing: border-box; }
+body { margin:0; color:var(--ink); background: linear-gradient(180deg,#ffe5f1 0%,#fff4c5 35%,#d7edb5 72%,#7fa868 100%); font-family:"Times New Roman", Georgia, serif; }
+a { color:#7a1717; font-weight:bold; }
+.top-crawl { text-align:center; padding:8px 12px; border-top:3px ridge #b8577e; border-bottom:3px ridge #6e944d; background:linear-gradient(90deg,#ffe4f1,#fff6b7 34%,#d9f2b8 68%,#ffe4f1); color:#8e244c; font:900 16px "Courier New", monospace; text-shadow:1px 1px 0 #fff4bd; animation:softFlash 1.45s steps(2,end) infinite; }
+.top-crawl span { display:inline-block; padding-left:0; animation:none; }
+@keyframes softFlash { 0%,100% { filter:saturate(1) brightness(1); } 50% { filter:saturate(1.28) brightness(1.08); } } }
+.wrap { width:100%; padding:16px; }
+.mast { text-align:center; padding:18px 12px; border:5px ridge #8d5b2a; background:linear-gradient(180deg,#fff3bd,#e9bb62); box-shadow:5px 5px 0 rgba(72,34,12,.25); }
+.mast h1 { margin:0 0 8px; color:#7b2020; font-size:clamp(2.3rem,6vw,4.8rem); text-shadow:2px 2px 0 #ffd98a,4px 4px 0 rgba(77,35,16,.28); }
+.mast p { max-width:900px; margin:0 auto; font-size:1.18rem; }
+.nav { display:flex; flex-wrap:wrap; gap:8px; justify-content:center; margin:14px 0; }
+.nav a { display:inline-block; padding:8px 12px; border:3px outset #e7c46e; background:#fff0a4; color:#691717; text-decoration:none; font-family:Arial, sans-serif; }
+.grid { display:grid; grid-template-columns: 1fr 1fr; gap:14px; }
+.card { min-height:190px; padding:14px; border:4px ridge #8d5b2a; background:linear-gradient(180deg, rgba(255,246,188,.98), rgba(238,194,110,.95)); box-shadow:5px 5px 0 rgba(76,40,15,.28); font-size:1.08rem; line-height:1.38; }
+.card h2 { margin:0 0 8px; color:#7b2020; font-size:1.7rem; text-decoration:underline; }
+.note { border:3px dotted #7b2020; background:#fff6cc; padding:10px; font-family:Arial, sans-serif; font-weight:700; }
+.fakebox { margin:12px 0; padding:10px; border:3px inset #8d5b2a; background:#fffbe2; font-family:"Courier New", monospace; color:#234018; }
+.footer { text-align:center; margin:18px auto; padding:12px; border:4px ridge #8d5b2a; background:#ffe8a6; }
+@media (max-width:760px){ .grid { grid-template-columns:1fr; } }
+</style>
+</head>
+<body>
+  <div class="top-crawl" aria-hidden="true"><span>UNDER CONSTRUCTION • UNDER CONSTRUCTION • UNDER CONSTRUCTION • UNDER CONSTRUCTION •</span></div>
+  <main class="wrap">
+    <header class="mast">
+      <h1>Watering Can Rules</h1>
+      <p>A soft pour, a clean route, and no drowning the little things just because they finally started growing.</p>
+    </header>
+    <nav class="nav" aria-label="Mom page links">
+      <a href="index.html#gate">Front Porch</a>
+      <a href="index.html#loginAnchor">Public Reader Login</a>
+      <a href="warm-beds.html">Warm Beds</a>
+      <a href="potting-bench.html">Potting Bench</a>
+      <a href="screen-door.html">Screen Door</a>
+      <a href="guestbook.html">Guestbook</a>
+    </nav>
+    <section class="grid">
+      <article class="card"><h2>Rule One</h2><p>Water the root, not the whole porch. Mom says too much attention in the wrong place makes a mess, even when you mean well.</p></article>
+<article class="card"><h2>Rule Two</h2><p>If the soil is already wet, wait. If the row is unlabeled, label it. If the packet looks suspiciously pretty, do not trust it by looks alone.</p></article>
+<article class="card"><h2>Rule Three</h2><p>Warm beds are good. Flooded beds are not. Mom likes steady hands and clean little pours.</p></article>
+<article class="card"><h2>Can Note</h2><p class="note">A watering can is not a fire hose. Mom has said this to both gardeners and computers.</p></article>
+    </section>
+    <footer class="footer">Mom says the real notes are still behind the porch login. These pages are just where the flowers flirt with the wiring.</footer>
+  </main>
+</body>
+</html>

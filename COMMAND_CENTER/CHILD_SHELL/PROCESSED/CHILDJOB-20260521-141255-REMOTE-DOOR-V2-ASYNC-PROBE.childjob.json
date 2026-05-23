@@ -1,0 +1,25 @@
+{
+  "job_id": "CHILDJOB-20260521-141255-REMOTE-DOOR-V2-ASYNC-PROBE",
+  "id": "CHILDJOB-20260521-141255-REMOTE-DOOR-V2-ASYNC-PROBE",
+  "created_at": "2026-05-21T14:12:55.537418-04:00",
+  "requested_by": "remote_door_relay_v2",
+  "route": "REMOTE_DOOR_RELAY_V2_ASYNC_TO_CHILD_SHELL",
+  "request_id": "REQ-20260521-141255-20825E",
+  "run_id": "REMOTE_DOOR_RELAY_V2_20260521_141101",
+  "action": "read_command_center_status",
+  "allowed_action": "read_command_center_status",
+  "type": "read_command_center_status",
+  "target_path": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER",
+  "expected_receipt": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\OUTBOX\\CHILDJOB-20260521-141255-REMOTE-DOOR-V2-ASYNC-PROBE.receipt.txt",
+  "boundary": [
+    "Level 1 read-status only",
+    "no repo write",
+    "no git write",
+    "no delete",
+    "no cleanup",
+    "no broad crawl",
+    "no arbitrary shell",
+    "no raw command",
+    "no Level 3 save"
+  ]
+}

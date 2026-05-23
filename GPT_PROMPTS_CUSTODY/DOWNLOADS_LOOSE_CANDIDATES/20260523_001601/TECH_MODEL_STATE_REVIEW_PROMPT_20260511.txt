@@ -1,0 +1,41 @@
+TECH MODEL STATE REVIEW PROMPT 20260511
+
+Purpose:
+Review the current Clean Seed project state as a model, not as a cleanup task.
+Return enough for ChatGPT to understand where the model stands overall without producing a giant report.
+
+Read only what is needed:
+1. CURRENT_TRUTH_INDEX.txt
+2. AGENTS.md
+3. ACTIVE_GUIDES
+4. CHATGPT_MODEL_DOCTRINE_UPDATE_PACK_20260511.txt if present
+5. Only the specific proof-history files needed to explain major gaps
+
+Return this compact assessment:
+
+VERDICT:
+MODEL SHAPE:
+WHAT IS STRONG:
+WHAT IS WEAK:
+WHAT IS BLOATED:
+WHAT IS MISSING:
+WHAT IS NOT ACTIVE TRUTH:
+BIGGEST DRIFT RISK:
+BIGGEST PRECISION WIN:
+DOES THE MODEL LOOK LIKE A WORKING SYSTEM OR A RULE PILE:
+ONE BEST NEXT ACTION:
+FILES READ:
+FILES NOT READ:
+BOUNDARIES KEPT:
+
+Boundaries:
+Do not edit files.
+Do not move files.
+Do not delete files.
+Do not rename files.
+Do not overwrite files.
+Do not promote material into active truth.
+Do not create folders.
+Do not run scripts.
+Do not call final PASS.
+Keep the answer short but complete.

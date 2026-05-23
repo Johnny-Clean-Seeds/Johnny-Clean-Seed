@@ -1,0 +1,562 @@
+{
+    "Generated":  "2026-05-11 18:05:32",
+    "ActiveBall":  "Build CLEAN SEED MODEL V1",
+    "Station":  "CAPTURE/COLLECT -\u003e INVENTORY -\u003e SORT -\u003e REPORT",
+    "NextGate":  "Upload CURRENT_STATE.txt, PROJECT_MANIFEST.json, SHED_INDEX.json, and NEXT_GATE.txt to ChatGPT, or expose CleanSeed_Model_Output through a read-only reachable URL.",
+    "Project":  {
+                    "Exists":  true,
+                    "Path":  "[LOCAL_PATH_REMOVED]",
+                    "Folders":  192,
+                    "Files":  670,
+                    "SizeBytes":  16720904,
+                    "SizeMB":  15.946
+                },
+    "Shed":  {
+                 "Exists":  true,
+                 "Path":  "[LOCAL_PATH_REMOVED]",
+                 "Folders":  7,
+                 "Files":  113,
+                 "SizeBytes":  33443378,
+                 "SizeMB":  31.894
+             },
+    "ActiveAuthorityFiles":  [
+                                 {
+                                     "SafeFile":  "SAFE_001_CURRENT_TRUTH_INDEX.txt",
+                                     "SourcePath":  "[LOCAL_PATH_REMOVED]",
+                                     "Role":  "SOURCE_OF_TRUTH_INDEX",
+                                     "Exists":  true,
+                                     "SizeBytes":  3870,
+                                     "Modified":  "2026-05-10 16:43:52",
+                                     "SHA256":  "6CDD8E83AE95AE76F4658188452B799633B8CE76B4AEB93346E2E1C3FC715408"
+                                 },
+                                 {
+                                     "SafeFile":  "SAFE_002_AGENTS.md",
+                                     "SourcePath":  "[LOCAL_PATH_REMOVED]",
+                                     "Role":  "LOCAL_WORKER_CONTROL",
+                                     "Exists":  true,
+                                     "SizeBytes":  3315,
+                                     "Modified":  "2026-05-11 07:10:02",
+                                     "SHA256":  "6766D1A52B02F8489448017928D794A08CB281FDE728A4BFAAEB1311A990AD5E"
+                                 },
+                                 {
+                                     "SafeFile":  "SAFE_003_README_START_HERE.txt",
+                                     "SourcePath":  "[LOCAL_PATH_REMOVED]",
+                                     "Role":  "ACTIVE_GUIDE_README",
+                                     "Exists":  true,
+                                     "SizeBytes":  74249,
+                                     "Modified":  "2026-05-10 16:43:52",
+                                     "SHA256":  "EFF0CE517F5647016E04715761F505DBB3D5B0023E51256EBB8750AFABDDEFF1"
+                                 },
+                                 {
+                                     "SafeFile":  "SAFE_004_CLEAN_SEED_WRAP_GUIDE.txt",
+                                     "SourcePath":  "[LOCAL_PATH_REMOVED]",
+                                     "Role":  "ACTIVE_GUIDE_WRAP",
+                                     "Exists":  true,
+                                     "SizeBytes":  207152,
+                                     "Modified":  "2026-05-11 06:34:48",
+                                     "SHA256":  "94A6D202315247B69D3DA49A9F26B2DC3BB7A8DCC9BFAECB005B9E42B16D468C"
+                                 },
+                                 {
+                                     "SafeFile":  "SAFE_005_CLEAN_SEED_ALIGNMENT_CHECK.txt",
+                                     "SourcePath":  "[LOCAL_PATH_REMOVED]",
+                                     "Role":  "ACTIVE_GUIDE_ALIGNMENT",
+                                     "Exists":  true,
+                                     "SizeBytes":  240020,
+                                     "Modified":  "2026-05-11 06:34:48",
+                                     "SHA256":  "168E475F1D62B31143E6104E617220E603712D0ADB6695F01863238247381962"
+                                 }
+                             ],
+    "ProjectTopLevel":  [
+                            {
+                                "Name":  "ACTIVE_GUIDES",
+                                "Type":  "DIR",
+                                "Files":  3,
+                                "Folders":  0,
+                                "SizeMB":  0.497,
+                                "Modified":  "2026-05-09 17:23:31",
+                                "RoleGuess":  "UNKNOWN"
+                            },
+                            {
+                                "Name":  "LIVE_SEED_TEST_001",
+                                "Type":  "DIR",
+                                "Files":  33,
+                                "Folders":  0,
+                                "SizeMB":  0.039,
+                                "Modified":  "2026-05-11 07:17:57",
+                                "RoleGuess":  "LIVE_TEST_EVIDENCE"
+                            },
+                            {
+                                "Name":  "PROOF_HISTORY",
+                                "Type":  "DIR",
+                                "Files":  632,
+                                "Folders":  189,
+                                "SizeMB":  15.404,
+                                "Modified":  "2026-05-11 16:45:43",
+                                "RoleGuess":  "PROOF_HISTORY"
+                            },
+                            {
+                                "Name":  "AGENTS.md",
+                                "Type":  "FILE",
+                                "Files":  1,
+                                "Folders":  0,
+                                "SizeMB":  0.003,
+                                "Modified":  "2026-05-11 07:10:02",
+                                "RoleGuess":  "LOCAL_WORKER_CONTROL"
+                            },
+                            {
+                                "Name":  "CURRENT_TRUTH_INDEX.txt",
+                                "Type":  "FILE",
+                                "Files":  1,
+                                "Folders":  0,
+                                "SizeMB":  0.004,
+                                "Modified":  "2026-05-10 16:43:52",
+                                "RoleGuess":  "SOURCE_OF_TRUTH_INDEX"
+                            }
+                        ],
+    "ShedTopLevel":  [
+                         {
+                             "Name":  "Clean_Milk_CHAT_DROP_CURRENT_STATE_20260510",
+                             "Type":  "DIR",
+                             "Files":  16,
+                             "Folders":  0,
+                             "SizeMB":  0.524,
+                             "Modified":  "2026-05-11 05:00:28",
+                             "RoleGuess":  "UNKNOWN"
+                         },
+                         {
+                             "Name":  "LOCALbot",
+                             "Type":  "DIR",
+                             "Files":  14,
+                             "Folders":  0,
+                             "SizeMB":  0.247,
+                             "Modified":  "2026-05-07 03:44:57",
+                             "RoleGuess":  "UNKNOWN"
+                         },
+                         {
+                             "Name":  "LOCALbot - Copy",
+                             "Type":  "DIR",
+                             "Files":  34,
+                             "Folders":  0,
+                             "SizeMB":  14.422,
+                             "Modified":  "2026-05-10 17:50:56",
+                             "RoleGuess":  "UNKNOWN"
+                         },
+                         {
+                             "Name":  "LOCALbot FALLBACK",
+                             "Type":  "DIR",
+                             "Files":  14,
+                             "Folders":  0,
+                             "SizeMB":  0.247,
+                             "Modified":  "2026-05-07 03:44:49",
+                             "RoleGuess":  "UNKNOWN"
+                         },
+                         {
+                             "Name":  "OldSchool",
+                             "Type":  "DIR",
+                             "Files":  28,
+                             "Folders":  2,
+                             "SizeMB":  16.228,
+                             "Modified":  "2026-05-10 17:49:16",
+                             "RoleGuess":  "UNKNOWN"
+                         },
+                         {
+                             "Name":  "123pickupsticks.txt",
+                             "Type":  "FILE",
+                             "Files":  1,
+                             "Folders":  0,
+                             "SizeMB":  0.011,
+                             "Modified":  "2026-05-10 21:30:50",
+                             "RoleGuess":  "UNKNOWN"
+                         },
+                         {
+                             "Name":  "check_point.txt",
+                             "Type":  "FILE",
+                             "Files":  1,
+                             "Folders":  0,
+                             "SizeMB":  0,
+                             "Modified":  "2026-05-10 21:39:49",
+                             "RoleGuess":  "UNKNOWN"
+                         },
+                         {
+                             "Name":  "CHECKPOINT_KNOWLEDGE_STACK_1B_REVIEW_HOLD_20260510.txt",
+                             "Type":  "FILE",
+                             "Files":  1,
+                             "Folders":  0,
+                             "SizeMB":  0.001,
+                             "Modified":  "2026-05-10 21:38:22",
+                             "RoleGuess":  "UNKNOWN"
+                         },
+                         {
+                             "Name":  "DREAMFORGER_SUNO_SYMBOLIC_OUTPUT_FORENSICS_GUIDE.txt",
+                             "Type":  "FILE",
+                             "Files":  1,
+                             "Folders":  0,
+                             "SizeMB":  0.008,
+                             "Modified":  "2026-05-09 13:43:11",
+                             "RoleGuess":  "UNKNOWN"
+                         },
+                         {
+                             "Name":  "in the name of Anyma.txt",
+                             "Type":  "FILE",
+                             "Files":  1,
+                             "Folders":  0,
+                             "SizeMB":  0.178,
+                             "Modified":  "2026-05-10 04:28:49",
+                             "RoleGuess":  "UNKNOWN"
+                         },
+                         {
+                             "Name":  "LOCALbot_FILE_CHECK_REPORT.txt",
+                             "Type":  "FILE",
+                             "Files":  1,
+                             "Folders":  0,
+                             "SizeMB":  0.025,
+                             "Modified":  "2026-05-07 15:30:25",
+                             "RoleGuess":  "UNKNOWN"
+                         },
+                         {
+                             "Name":  "LOCALbot_HANDOFF_STACK_CHECK_REPORT.txt",
+                             "Type":  "FILE",
+                             "Files":  1,
+                             "Folders":  0,
+                             "SizeMB":  0.004,
+                             "Modified":  "2026-05-07 15:32:10",
+                             "RoleGuess":  "UNKNOWN"
+                         }
+                     ],
+    "NewestProofHistory":  [
+                               {
+                                   "Name":  "RECEIPT_PARK_BATCH_THEN_DRIFT_REVIEW_WORKING_RULE_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\RECEIPT_PARK_BATCH_THEN_DRIFT_REVIEW_WORKING_RULE_20260511.txt",
+                                   "SizeBytes":  1034,
+                                   "Modified":  "2026-05-11 16:45:43",
+                                   "RoleGuess":  "RECEIPT",
+                                   "SHA256":  "1E1A2651152A9F3E9122CCE90D73D096A2FFFC05A67A2976A0428E29D2D3676C"
+                               },
+                               {
+                                   "Name":  "PARK_BATCH_THEN_DRIFT_REVIEW_WORKING_RULE_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\PARK_BATCH_THEN_DRIFT_REVIEW_WORKING_RULE_20260511.txt",
+                                   "SizeBytes":  2626,
+                                   "Modified":  "2026-05-11 16:45:43",
+                                   "RoleGuess":  "PROOF_HISTORY",
+                                   "SHA256":  "ACC0D6DDDFC02A7579FCCBFFEB535DC8F67949CA308E5AF16488524D7732320A"
+                               },
+                               {
+                                   "Name":  "RECEIPT_SIDE_EVIDENCE_INDEX_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\RECEIPT_SIDE_EVIDENCE_INDEX_20260511.txt",
+                                   "SizeBytes":  11828,
+                                   "Modified":  "2026-05-11 16:45:14",
+                                   "RoleGuess":  "RECEIPT",
+                                   "SHA256":  "D0A0A9E5717DFEE9B30246BF55DC9836EF04109BE2C62526F2D5736D8900DC9E"
+                               },
+                               {
+                                   "Name":  "SIDE_EVIDENCE_INDEX_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\SIDE_EVIDENCE_INDEX_20260511.txt",
+                                   "SizeBytes":  21932,
+                                   "Modified":  "2026-05-11 16:45:14",
+                                   "RoleGuess":  "INDEX_OR_MAP",
+                                   "SHA256":  "A9C3396C94E6E231E220B78839DE18600826874E47374479F0025292A89756B9"
+                               },
+                               {
+                                   "Name":  "RECEIPT_RETROACTIVE_RULE_FIRE_REVIEW_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\RECEIPT_RETROACTIVE_RULE_FIRE_REVIEW_20260511.txt",
+                                   "SizeBytes":  1068,
+                                   "Modified":  "2026-05-11 16:44:47",
+                                   "RoleGuess":  "RECEIPT",
+                                   "SHA256":  "6BC2F5D2584DB72002842394B66FD866913184339899110E8E5C1239B68A2280"
+                               },
+                               {
+                                   "Name":  "RETROACTIVE_RULE_FIRE_REVIEW_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\RETROACTIVE_RULE_FIRE_REVIEW_20260511.txt",
+                                   "SizeBytes":  5823,
+                                   "Modified":  "2026-05-11 16:44:47",
+                                   "RoleGuess":  "PROOF_HISTORY",
+                                   "SHA256":  "2EEF9AD38533D922BD8230634C0472F3FED24A86916BB9142C7FF1DE28FDDBB6"
+                               },
+                               {
+                                   "Name":  "RECEIPT_PARKED_RULE_APPLICATION_CHECKPOINT_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\RECEIPT_PARKED_RULE_APPLICATION_CHECKPOINT_20260511.txt",
+                                   "SizeBytes":  2052,
+                                   "Modified":  "2026-05-11 16:43:47",
+                                   "RoleGuess":  "RECEIPT",
+                                   "SHA256":  "CFA32E399ED5421A61D297A8BF5326EB10EB4A9BDFA037696B3EF0B0820F1FB4"
+                               },
+                               {
+                                   "Name":  "PARKED_RULE_APPLICATION_CHECKPOINT_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\PARKED_RULE_APPLICATION_CHECKPOINT_20260511.txt",
+                                   "SizeBytes":  3851,
+                                   "Modified":  "2026-05-11 16:43:47",
+                                   "RoleGuess":  "PARKED",
+                                   "SHA256":  "8464B7B311A6235F730B139E56C2AAB8B53804BD47CF30AB081CF79C389AD444"
+                               },
+                               {
+                                   "Name":  "BACKUP_RECEIPT_SIDE_EVIDENCE_INDEX_BEFORE_PARKED_RULE_APPLICATION_ROW_20260511_1644.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\BACKUP_RECEIPT_SIDE_EVIDENCE_INDEX_BEFORE_PARKED_RULE_APPLICATION_ROW_20260511_1644.txt",
+                                   "SizeBytes":  10344,
+                                   "Modified":  "2026-05-11 16:42:12",
+                                   "RoleGuess":  "RECEIPT",
+                                   "SHA256":  "1F2D80255907A7E22C7672D2E95854B97D9FEC51D9B9743B44D8183A72D941B4"
+                               },
+                               {
+                                   "Name":  "BACKUP_SIDE_EVIDENCE_INDEX_BEFORE_PARKED_RULE_APPLICATION_ROW_20260511_1644.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\BACKUP_SIDE_EVIDENCE_INDEX_BEFORE_PARKED_RULE_APPLICATION_ROW_20260511_1644.txt",
+                                   "SizeBytes":  20694,
+                                   "Modified":  "2026-05-11 16:42:12",
+                                   "RoleGuess":  "BACKUP",
+                                   "SHA256":  "9850BEFDE52DC012FC82C19E594E31CADC4A2B519609229A648F0B008D4CFC88"
+                               },
+                               {
+                                   "Name":  "BACKUP_RECEIPT_SIDE_EVIDENCE_INDEX_BEFORE_RULE_CANDIDATE_ROWS_20260511_1655.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\BACKUP_RECEIPT_SIDE_EVIDENCE_INDEX_BEFORE_RULE_CANDIDATE_ROWS_20260511_1655.txt",
+                                   "SizeBytes":  8787,
+                                   "Modified":  "2026-05-11 16:40:52",
+                                   "RoleGuess":  "RECEIPT",
+                                   "SHA256":  "3088D1C7A8A3262198721F07423D61EB38B873369837CF76D962A8782245967A"
+                               },
+                               {
+                                   "Name":  "BACKUP_SIDE_EVIDENCE_INDEX_BEFORE_RULE_CANDIDATE_ROWS_20260511_1655.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\BACKUP_SIDE_EVIDENCE_INDEX_BEFORE_RULE_CANDIDATE_ROWS_20260511_1655.txt",
+                                   "SizeBytes":  17560,
+                                   "Modified":  "2026-05-11 16:40:52",
+                                   "RoleGuess":  "BACKUP",
+                                   "SHA256":  "4A739B1A34F93C58C2200E9B98274E0B4C1918FD7B311AC356C6A2CC8F464D11"
+                               },
+                               {
+                                   "Name":  "BACKUP_RECEIPT_SIDE_EVIDENCE_INDEX_BEFORE_LIVE_TEST_ROWS_20260511_1650.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\BACKUP_RECEIPT_SIDE_EVIDENCE_INDEX_BEFORE_LIVE_TEST_ROWS_20260511_1650.txt",
+                                   "SizeBytes":  6510,
+                                   "Modified":  "2026-05-11 16:39:42",
+                                   "RoleGuess":  "RECEIPT",
+                                   "SHA256":  "4D3017C9966C5C87CC3206B3A0018EC79934AB9E4881D292A8464AF9FDF12D4C"
+                               },
+                               {
+                                   "Name":  "BACKUP_SIDE_EVIDENCE_INDEX_BEFORE_LIVE_TEST_ROWS_20260511_1650.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\BACKUP_SIDE_EVIDENCE_INDEX_BEFORE_LIVE_TEST_ROWS_20260511_1650.txt",
+                                   "SizeBytes":  14827,
+                                   "Modified":  "2026-05-11 16:39:42",
+                                   "RoleGuess":  "BACKUP",
+                                   "SHA256":  "BCEF5047A5E2993FF5B63A8E9F3230FEEE594F04DB09233BC53DE077DCB3C52C"
+                               },
+                               {
+                                   "Name":  "BACKUP_RECEIPT_SIDE_EVIDENCE_INDEX_BEFORE_ASSEMBLY_PROOF_ROWS_20260511_1645.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\BACKUP_RECEIPT_SIDE_EVIDENCE_INDEX_BEFORE_ASSEMBLY_PROOF_ROWS_20260511_1645.txt",
+                                   "SizeBytes":  4976,
+                                   "Modified":  "2026-05-11 16:38:29",
+                                   "RoleGuess":  "RECEIPT",
+                                   "SHA256":  "253D75C5A8C3DB4FE3263F0B89A76AD8F7707B09A72D274E104FD8DEA657DA69"
+                               },
+                               {
+                                   "Name":  "BACKUP_SIDE_EVIDENCE_INDEX_BEFORE_ASSEMBLY_PROOF_ROWS_20260511_1645.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\BACKUP_SIDE_EVIDENCE_INDEX_BEFORE_ASSEMBLY_PROOF_ROWS_20260511_1645.txt",
+                                   "SizeBytes":  11722,
+                                   "Modified":  "2026-05-11 16:38:29",
+                                   "RoleGuess":  "BACKUP",
+                                   "SHA256":  "2B6E0B36525AF7EF3C664E392F4F50F0D346885C3D48B6231926503E441FC113"
+                               },
+                               {
+                                   "Name":  "BACKUP_RECEIPT_SIDE_EVIDENCE_INDEX_BEFORE_CORE_PROOF_ROWS_20260511_1640.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\BACKUP_RECEIPT_SIDE_EVIDENCE_INDEX_BEFORE_CORE_PROOF_ROWS_20260511_1640.txt",
+                                   "SizeBytes":  2928,
+                                   "Modified":  "2026-05-11 16:35:33",
+                                   "RoleGuess":  "RECEIPT",
+                                   "SHA256":  "DFAC7A4875380EAD4BC4EC0BA230C669F08E3E62E50462B4043EA8AEE9EBBC4E"
+                               },
+                               {
+                                   "Name":  "BACKUP_SIDE_EVIDENCE_INDEX_BEFORE_CORE_PROOF_ROWS_20260511_1640.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\BACKUP_SIDE_EVIDENCE_INDEX_BEFORE_CORE_PROOF_ROWS_20260511_1640.txt",
+                                   "SizeBytes":  7945,
+                                   "Modified":  "2026-05-11 16:35:33",
+                                   "RoleGuess":  "BACKUP",
+                                   "SHA256":  "A76536A08379E8EA6539DB6855CFD9C30B74E6DBB5B326F5EB21332D1BD9BB2D"
+                               },
+                               {
+                                   "Name":  "RECEIPT_DESKTOP_DROP_FOLDER_INTAKE_ARCHIVE_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\RECEIPT_DESKTOP_DROP_FOLDER_INTAKE_ARCHIVE_20260511.txt",
+                                   "SizeBytes":  8814,
+                                   "Modified":  "2026-05-11 16:00:12",
+                                   "RoleGuess":  "RECEIPT",
+                                   "SHA256":  "6C2E0C3092AA69CCF8DE8FD7049B4878D6DBA40ED3C236B64243057C5918A2AA"
+                               },
+                               {
+                                   "Name":  "INTAKE_ASSESSMENT_DESKTOP_DROP_FOLDERS_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\INTAKE_ASSESSMENT_DESKTOP_DROP_FOLDERS_20260511.txt",
+                                   "SizeBytes":  11259,
+                                   "Modified":  "2026-05-11 15:27:52",
+                                   "RoleGuess":  "PROOF_HISTORY",
+                                   "SHA256":  "961A4E83BC28B52112EBB6C3DC240115B039300D0E41E1012812BF56CF1B61D9"
+                               },
+                               {
+                                   "Name":  "RECEIPT_LOCALBOT_HIGH_QUARANTINE_IMPORT_OPTION_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\RECEIPT_LOCALBOT_HIGH_QUARANTINE_IMPORT_OPTION_20260511.txt",
+                                   "SizeBytes":  605,
+                                   "Modified":  "2026-05-11 07:25:04",
+                                   "RoleGuess":  "RECEIPT",
+                                   "SHA256":  "8846D6A71DA9A2E9C3AD2CAE1817EC064B18C6EF8289762E8346277462FF4F99"
+                               },
+                               {
+                                   "Name":  "LOCALBOT_HIGH_QUARANTINE_IMPORT_OPTION_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\LOCALBOT_HIGH_QUARANTINE_IMPORT_OPTION_20260511.txt",
+                                   "SizeBytes":  1476,
+                                   "Modified":  "2026-05-11 07:25:04",
+                                   "RoleGuess":  "BLOCKED_OR_QUARANTINED",
+                                   "SHA256":  "5EAC43B63B94B43906170772BF45308DFE5E1D14726DA29DC22FA15A830982CA"
+                               },
+                               {
+                                   "Name":  "RECEIPT_LOCALBOT_EXTERNAL_OLD_BUILD_BOUNDARY_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\RECEIPT_LOCALBOT_EXTERNAL_OLD_BUILD_BOUNDARY_20260511.txt",
+                                   "SizeBytes":  808,
+                                   "Modified":  "2026-05-11 07:23:01",
+                                   "RoleGuess":  "RECEIPT",
+                                   "SHA256":  "CBC297C6E815C7A9EDF89FA3DEE599446DA85B7E46382216911EC08165F20096"
+                               },
+                               {
+                                   "Name":  "LOCALBOT_EXTERNAL_OLD_BUILD_BOUNDARY_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\LOCALBOT_EXTERNAL_OLD_BUILD_BOUNDARY_20260511.txt",
+                                   "SizeBytes":  1508,
+                                   "Modified":  "2026-05-11 07:23:01",
+                                   "RoleGuess":  "PROOF_HISTORY",
+                                   "SHA256":  "FF4CF77A414C08712F8371AC96E06DC117F9EDA853CC783B0B09BBFA121B8356"
+                               },
+                               {
+                                   "Name":  "RECEIPT_TARGETED_SYSTEM_COVERAGE_ADDENDUM_AFTER_LIVE_TEST_009_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\RECEIPT_TARGETED_SYSTEM_COVERAGE_ADDENDUM_AFTER_LIVE_TEST_009_20260511.txt",
+                                   "SizeBytes":  654,
+                                   "Modified":  "2026-05-11 07:19:07",
+                                   "RoleGuess":  "RECEIPT",
+                                   "SHA256":  "50772B092837DCCC2DA111E558B6D68CA49DF22793D3103EDC4CE05160B66664"
+                               },
+                               {
+                                   "Name":  "TARGETED_SYSTEM_COVERAGE_ADDENDUM_AFTER_LIVE_TEST_009_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\TARGETED_SYSTEM_COVERAGE_ADDENDUM_AFTER_LIVE_TEST_009_20260511.txt",
+                                   "SizeBytes":  1211,
+                                   "Modified":  "2026-05-11 07:19:07",
+                                   "RoleGuess":  "PROOF_HISTORY",
+                                   "SHA256":  "635760DCA8A315C4912C1D268A150AD02F4E1EB08771D6361910D1E9E9AC0FB4"
+                               },
+                               {
+                                   "Name":  "RECEIPT_TARGETED_SYSTEM_COVERAGE_CHECK_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\RECEIPT_TARGETED_SYSTEM_COVERAGE_CHECK_20260511.txt",
+                                   "SizeBytes":  766,
+                                   "Modified":  "2026-05-11 07:16:32",
+                                   "RoleGuess":  "RECEIPT",
+                                   "SHA256":  "B8BA9F342482126AF766ADD2705E48D24F708E90E0DF6EDE27A6E45049D2E53F"
+                               },
+                               {
+                                   "Name":  "TARGETED_SYSTEM_COVERAGE_CHECK_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\TARGETED_SYSTEM_COVERAGE_CHECK_20260511.txt",
+                                   "SizeBytes":  3370,
+                                   "Modified":  "2026-05-11 07:16:32",
+                                   "RoleGuess":  "PROOF_HISTORY",
+                                   "SHA256":  "6FE1609331C8BBC3061D0587B527B7944C81D9951097571BB3A1BBFD88D0EFED"
+                               },
+                               {
+                                   "Name":  "BREADCRUMB_BEFORE_TARGETED_SYSTEM_COVERAGE_CHECK_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\BREADCRUMB_BEFORE_TARGETED_SYSTEM_COVERAGE_CHECK_20260511.txt",
+                                   "SizeBytes":  995,
+                                   "Modified":  "2026-05-11 07:15:12",
+                                   "RoleGuess":  "PROOF_HISTORY",
+                                   "SHA256":  "BB7979C276E1C3BE95848B7EC7AF1F7260D988DAE439665F5A2A3C108AD53F89"
+                               },
+                               {
+                                   "Name":  "RECEIPT_AGENTS_IMMEDIATE_IDEA_CAPTURE_APPLY_INSTALL_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\RECEIPT_AGENTS_IMMEDIATE_IDEA_CAPTURE_APPLY_INSTALL_20260511.txt",
+                                   "SizeBytes":  956,
+                                   "Modified":  "2026-05-11 07:10:33",
+                                   "RoleGuess":  "RECEIPT",
+                                   "SHA256":  "D643B6843E0C77A89117AC4B6948E95910A9C19ECA5411881297EE8B9F7AD45A"
+                               },
+                               {
+                                   "Name":  "RECEIPT_IMMEDIATE_IDEA_CAPTURE_APPLY_WORKING_RULE_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\RECEIPT_IMMEDIATE_IDEA_CAPTURE_APPLY_WORKING_RULE_20260511.txt",
+                                   "SizeBytes":  882,
+                                   "Modified":  "2026-05-11 07:08:34",
+                                   "RoleGuess":  "RECEIPT",
+                                   "SHA256":  "925CF9A7A60E7B7A26A3435778B3530F3D1054075676B88349DA5C1869086A12"
+                               },
+                               {
+                                   "Name":  "IMMEDIATE_IDEA_CAPTURE_APPLY_WORKING_RULE_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\IMMEDIATE_IDEA_CAPTURE_APPLY_WORKING_RULE_20260511.txt",
+                                   "SizeBytes":  1786,
+                                   "Modified":  "2026-05-11 07:08:34",
+                                   "RoleGuess":  "PROOF_HISTORY",
+                                   "SHA256":  "C91EFE908AB61561FC49AC0A28637CAC193F171CC989274A837D3E5660DBC594"
+                               },
+                               {
+                                   "Name":  "RECEIPT_LOCAL_FILE_LANE_LEAD_WORKING_JUDGE_INSTALL_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\RECEIPT_LOCAL_FILE_LANE_LEAD_WORKING_JUDGE_INSTALL_20260511.txt",
+                                   "SizeBytes":  4381,
+                                   "Modified":  "2026-05-11 06:35:59",
+                                   "RoleGuess":  "RECEIPT",
+                                   "SHA256":  "4321461848579259ABD935C85050EFE9E8367DD706DE70FBF2CE5DC62009F398"
+                               },
+                               {
+                                   "Name":  "BACKUP_AGENTS_BEFORE_IMMEDIATE_IDEA_CAPTURE_APPLY_INSTALL_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\BACKUP_AGENTS_BEFORE_IMMEDIATE_IDEA_CAPTURE_APPLY_INSTALL_20260511.txt",
+                                   "SizeBytes":  3109,
+                                   "Modified":  "2026-05-11 06:34:48",
+                                   "RoleGuess":  "BACKUP",
+                                   "SHA256":  "BB1B7B07E4F2810D9E92AF846AC652C8B37A2267B786BE9BF2AA137DF1082A5F"
+                               },
+                               {
+                                   "Name":  "RECEIPT_TINY_INSTALL_PACKET_SCOPE_COMPLETION_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\RECEIPT_TINY_INSTALL_PACKET_SCOPE_COMPLETION_20260511.txt",
+                                   "SizeBytes":  4048,
+                                   "Modified":  "2026-05-11 06:20:15",
+                                   "RoleGuess":  "RECEIPT",
+                                   "SHA256":  "44F1551038755FACD9F3662F84BD2EE0E984B58BAA54512292F4F9B46169BFC3"
+                               },
+                               {
+                                   "Name":  "BACKUP_CLEAN_SEED_ALIGNMENT_CHECK_BEFORE_LOCAL_FILE_LANE_LEAD_INSTALL_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\BACKUP_CLEAN_SEED_ALIGNMENT_CHECK_BEFORE_LOCAL_FILE_LANE_LEAD_INSTALL_20260511.txt",
+                                   "SizeBytes":  239843,
+                                   "Modified":  "2026-05-11 06:19:02",
+                                   "RoleGuess":  "ACTIVE_GUIDE_ALIGNMENT",
+                                   "SHA256":  "7DFC0BAC3954FEB860C9F64ACD74512E070F134528F36A59A83A99D5512A8901"
+                               },
+                               {
+                                   "Name":  "BACKUP_CLEAN_SEED_WRAP_GUIDE_BEFORE_LOCAL_FILE_LANE_LEAD_INSTALL_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\BACKUP_CLEAN_SEED_WRAP_GUIDE_BEFORE_LOCAL_FILE_LANE_LEAD_INSTALL_20260511.txt",
+                                   "SizeBytes":  206889,
+                                   "Modified":  "2026-05-11 06:19:01",
+                                   "RoleGuess":  "ACTIVE_GUIDE_WRAP",
+                                   "SHA256":  "9C54C4655573D5F628F84E28B04BD0B87E3A7C82A6A4B49CB7CD38BEB1B3D6A8"
+                               },
+                               {
+                                   "Name":  "BACKUP_AGENTS_BEFORE_LOCAL_FILE_LANE_LEAD_INSTALL_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\BACKUP_AGENTS_BEFORE_LOCAL_FILE_LANE_LEAD_INSTALL_20260511.txt",
+                                   "SizeBytes":  2013,
+                                   "Modified":  "2026-05-11 06:19:01",
+                                   "RoleGuess":  "BACKUP",
+                                   "SHA256":  "4703CFCCADCCCC4024FC797F588B83B3CAD8AE82DEEAA6E287AF66B419ACBB91"
+                               },
+                               {
+                                   "Name":  "RECEIPT_TINY_WORKING_PATH_INSTALL_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\RECEIPT_TINY_WORKING_PATH_INSTALL_20260511.txt",
+                                   "SizeBytes":  4892,
+                                   "Modified":  "2026-05-11 06:13:12",
+                                   "RoleGuess":  "RECEIPT",
+                                   "SHA256":  "5106DAEA63F49E996C125E71E84FAB81B68044B25C57467E871262BA1EA430B4"
+                               },
+                               {
+                                   "Name":  "BACKUP_CLEAN_SEED_ALIGNMENT_CHECK_BEFORE_TINY_INSTALL_PACKET_SCOPE_COMPLETION_20260511.txt",
+                                   "RelativePath":  "PROOF_HISTORY\\BACKUP_CLEAN_SEED_ALIGNMENT_CHECK_BEFORE_TINY_INSTALL_PACKET_SCOPE_COMPLETION_20260511.txt",
+                                   "SizeBytes":  239640,
+                                   "Modified":  "2026-05-11 06:11:41",
+                                   "RoleGuess":  "ACTIVE_GUIDE_ALIGNMENT",
+                                   "SHA256":  "60F1C29CEB74B54CDADE5C93BF4562E55E7B2CD33064F968DF62C1189E198B95"
+                               }
+                           ],
+    "BlockedActions":  [
+                           "No delete",
+                           "No move",
+                           "No rename",
+                           "No cleanup",
+                           "No active-guide edit",
+                           "No CURRENT_TRUTH_INDEX edit",
+                           "No folder creation outside MODEL OUTPUT",
+                           "No script execution beyond this snapshot script",
+                           "No proof-history promotion"
+                       ]
+}
+
+
+

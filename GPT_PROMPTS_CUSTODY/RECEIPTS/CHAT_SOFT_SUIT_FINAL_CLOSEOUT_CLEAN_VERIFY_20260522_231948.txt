@@ -1,0 +1,35 @@
+CHAT SOFT SUIT FINAL CLOSEOUT CLEAN VERIFY
+Timestamp: 20260522_231948
+Root: C:\Users\13527\Desktop\GPT_Prompts
+Current: C:\Users\13527\Desktop\GPT_Prompts\CURRENT
+Ready: C:\Users\13527\Desktop\GPT_Prompts\READY_TO_DROP_IN_CHAT
+
+Active CURRENT expected hashes:
+
+File                          ExistsInCurrent HashMatchesExpected SHA256
+----                          --------------- ------------------- ------
+CHAT_SOFT_SUIT_MAP.md                    True                True EB9215434C3773CC7F8ED40481C036055CDC30CCE7DEF328E3229…
+CHAT_SOFT_SUIT_IDEA_LEDGER.md            True                True ABCE510EBB2A39FBDC42A89D6E7DB60435F7DFB2E993ECF5BDDEF…
+
+Moved root/front-door clutter count: 2
+FINAL_CHAT_SOFT_SUIT_CLOSEOUT_CLEAN_VERIFY_V1.ps1
+INSTALL_CHAT_SOFT_SUIT_CURRENT_AUTHORITY_FIX_READY_ONLY_STANDALONE.ps1
+
+Moved CURRENT debris count: 0
+
+
+Consumed READY duplicate active files count: 2
+CHAT_SOFT_SUIT_MAP.md
+CHAT_SOFT_SUIT_IDEA_LEDGER.md
+
+Unexpected root items remaining: 0
+
+
+Old scaffold/helper files remaining in CURRENT root: 0
+
+
+Active files still waiting in READY: 0
+
+
+Boundary: local-only; no Git; no public export; no doctrine promotion; no active CURRENT map/ledger write; clutter moved to custody only.
+Verdict: PASS / CHAT SOFT SUIT CLOSED CLEAN

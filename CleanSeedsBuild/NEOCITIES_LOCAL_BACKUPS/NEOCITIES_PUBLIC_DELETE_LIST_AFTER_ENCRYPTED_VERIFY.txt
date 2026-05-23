@@ -1,0 +1,26 @@
+﻿AFTER THE ENCRYPTED VERSION IS BUILT, UPLOADED, AND VERIFIED:
+
+On Neocities only, remove old readable public copies if present.
+
+Delete folders:
+- data
+- scripts
+
+Then upload the new contents of:
+C:\CleanSeedsBuild\NEOCITIES_ENCRYPTED_SAFE_UPLOAD
+
+If you already uploaded the new folder first, delete only old readable leftovers inside Neocities:
+- CURRENT_STATE.txt
+- NEXT_GATE.txt
+- PROJECT_MANIFEST.json
+- SHED_INDEX.json
+- GAP_TODO_MATCHES.json
+- BRIDGE_OUTPUT_HASHES.json
+- state.json
+- old readable files inside data
+- old gate.js if still present
+
+Do not delete local files on C:\CleanSeedsBuild.
+Do not upload:
+C:\CleanSeedsBuild\NEOCITIES_LOCAL_BACKUPS
+C:\CleanSeedsBuild\NEOCITIES_LOCAL_BACKUPS\CURRENT_NEOCITIES_ACCESS_CODE_DO_NOT_UPLOAD.txt

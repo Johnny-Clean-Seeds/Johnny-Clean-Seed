@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>SeedGate137</title>
+<style>
+body { font-family: Arial, sans-serif; background:#111; color:#eee; padding:30px; }
+#content { display:none; }
+input, button { font-size:18px; padding:8px; }
+details { margin:14px 0; border:1px solid #444; padding:10px; border-radius:8px; }
+summary { cursor:pointer; font-size:18px; color:#7fd7ff; }
+pre { white-space:pre-wrap; word-wrap:break-word; background:#1c1c1c; padding:12px; border-radius:8px; }
+</style>
+</head>
+<body>
+<div id="gate">
+<h1>SeedGate137</h1>
+<p>Enter access code.</p>
+<input id="code" type="password" autofocus>
+<button onclick="unlock()">Open</button>
+<p id="bad" style="color:#ff7777;"></p>
+</div>
+
+<div id="content">
+<h1>SeedGate137</h1>
+<p>Wrapped one-file dashboard. Static read-only bridge.</p>
+<details><summary>CURRENT_STATE.txt — MISSING</summary><pre>File not found anywhere under C:\CleanSeedsBuild</pre></details>
+<details><summary>NEXT_GATE.txt — MISSING</summary><pre>File not found anywhere under C:\CleanSeedsBuild</pre></details>
+<details><summary>PROJECT_MANIFEST.json — MISSING</summary><pre>File not found anywhere under C:\CleanSeedsBuild</pre></details>
+<details><summary>SHED_INDEX.json — MISSING</summary><pre>File not found anywhere under C:\CleanSeedsBuild</pre></details>
+<details><summary>GAP_TODO_MATCHES.json — MISSING</summary><pre>File not found anywhere under C:\CleanSeedsBuild</pre></details>
+<details><summary>BRIDGE_OUTPUT_HASHES.json — MISSING</summary><pre>File not found anywhere under C:\CleanSeedsBuild</pre></details>
+
+</div>
+
+<script>
+function unlock() {
+  const code = document.getElementById("code").value;
+  if (code === "J0hnny137CleanSeedz*") {
+    document.getElementById("gate").style.display = "none";
+    document.getElementById("content").style.display = "block";
+  } else {
+    document.getElementById("bad").innerText = "Wrong code.";
+  }
+}
+document.getElementById("code").addEventListener("keydown", function(e) {
+  if (e.key === "Enter") unlock();
+});
+</script>
+</body>
+</html>

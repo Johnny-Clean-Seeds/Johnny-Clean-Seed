@@ -1,0 +1,93 @@
+DEEP CLEAN REPORT — BOARD MAP NOTE / PLAIN LANGUAGE LOCK
+
+Timestamp UTC:
+2026-05-10T15:53:40+00:00
+
+Active target:
+Fix the board-wide map miss and plain-language naming miss.
+
+Return point:
+Continue Clean Seed work only after board impact, map authority, and naming behavior are installed or yielded.
+
+Real issue:
+YES.
+
+Cause:
+The behavior was only saved as guidance. It was not yet installed across README, Wrap Guide, Alignment Check, and Current Truth Index.
+
+Installed update ID:
+CLEAN_SEED_UPDATE_BOARD_MAP_NOTE_LANGUAGE_LOCK_20260510
+
+Rules installed:
+- CS-RULE-BOARD-WIDE-MAP-CHECK-001
+- CS-RULE-MAP-NOTE-001
+- CS-RULE-PLAIN-PROJECT-LANGUAGE-001
+
+Board partners touched:
+- README_START_HERE.txt: changed
+- CLEAN_SEED_WRAP_GUIDE.txt: changed
+- CLEAN_SEED_ALIGNMENT_CHECK.txt: changed
+- CURRENT_TRUTH_INDEX.txt: changed
+- receipts/manifests: created
+- command routes: affected by Wrap route
+- evidence lanes: affected by Map Note source proof
+- risk/incident lanes: checked as partners, not directly rewritten beyond board check
+- parking/rest-stop/bank lanes: checked as partners in board language
+- other maps: require explicit map-authority check before future board-wide claims
+
+Plain language result:
+The user's original working terms were preserved:
+- across the board
+- map
+- tiny note
+- source
+- bank
+- return point
+- clean milk
+- dirty milk
+
+Verification:
+- README board-language marker: 1
+- WRAP board-language marker: 1
+- ALIGNMENT board-language marker: 1
+- INDEX board-language marker: 1
+- README board rule ID: 1
+- WRAP board rule ID: 1
+- ALIGN board rule ID: 1
+- README language rule ID: 1
+- WRAP language rule ID: 1
+- ALIGN language rule ID: 1
+
+Known guardrail:
+Legacy source text still contains the loaded word in old IDs, source labels, and historical rule text.
+This update stops new casual use and installs the naming rule. A separate dedicated language cleanup is needed before claiming all old wording is fully healed.
+
+Loaded-word remaining count:
+- README loaded-word remaining: 52
+- WRAP loaded-word remaining: 164
+- ALIGNMENT loaded-word remaining: 155
+- INDEX loaded-word remaining: 20
+
+File hashes:
+- README_START_HERE.txt: 43600c3042aae33f09b3970eabf8ab0d3a84d0bf0449040018148e0765052619
+- CLEAN_SEED_WRAP_GUIDE.txt: e6e18e49b37b8f3844bbae165d357bea8db79429715ecff3c5238c28a1dec1ac
+- CLEAN_SEED_ALIGNMENT_CHECK.txt: bcbf85616ee8b127c7072c60b3f5996cf3a7eac82617ff24e85413b94ae494e0
+- CURRENT_TRUTH_INDEX.txt: bad1171d851b39ae7df6e85e0991323178635b584665b14b4c7218b00c622526
+
+Files deleted:
+NO
+
+Files moved:
+NO
+
+Files renamed:
+NO
+
+Scripts run:
+NO
+
+Verdict:
+PASS WITH LANGUAGE-CLEANUP GUARDRAIL
+
+Next clean state:
+Install these updated files locally after backup, then run a dedicated language cleanup if the goal is to remove old loaded wording from active guide text while preserving exact legacy IDs only where required for evidence.

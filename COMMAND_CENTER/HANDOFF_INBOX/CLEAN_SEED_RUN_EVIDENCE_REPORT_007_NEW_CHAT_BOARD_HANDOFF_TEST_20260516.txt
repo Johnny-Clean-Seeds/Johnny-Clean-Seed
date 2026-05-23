@@ -1,0 +1,230 @@
+CLEAN SEED — RUN EVIDENCE REPORT 007
+New Chat Board Handoff Test
+Created: 2026-05-16
+Status: run evidence report / new-chat handoff test / proof-history first
+Placement: save to PROOF_HISTORY first; optional one-file publish to PUBLIC_NOTES only if John approves exact file
+Authority: not active doctrine, not cleanup approval, not active-guide install, not final parking implementation
+
+RUN NAME
+RUN_007_NEW_CHAT_BOARD_HANDOFF_TEST
+
+ACTIVE QUESTION
+Can a fresh chat resume the current Clean Seed lane from the public Current Board Front Desk and the public run report trail without dragging the whole current conversation forward?
+
+WHY THIS RUN EXISTS
+Run 004 proved the Parking Control Board prototype.
+Run 005 created the Current Board Snapshot and Report Ledger.
+Run 006 used the board once and created the standalone Current Board Front Desk.
+Run 007 tests whether that front desk can carry a fresh chat handoff.
+
+REAL PROJECT STATE
+Frozen.
+
+No cleanup.
+No publish inside this run.
+No ACTIVE_GUIDES install.
+No doctrine promotion.
+No deletion.
+No full parking-city remodel.
+No local file movement except generated artifacts.
+
+DISCOVERY BUDGET / FIELD LOCK
+Budget:
+This run may test new-chat handoff behavior.
+This run may identify missing handoff fields.
+This run may create one small New Chat Handoff Card.
+This run must stop before cleanup, active-guide install, public rewrite, or full parking remodel.
+
+Field lock:
+Only handoff quality is in scope.
+
+PUBLIC INPUT CHECK
+The public Current Board Front Desk opens on GitHub and states:
+- it is a front desk / handoff surface
+- it is display only, not doctrine
+- the next recommended test is RUN_007_NEW_CHAT_BOARD_HANDOFF_TEST
+- the active core should stay small
+- the current trail is RUN 001 through RUN 006
+- cleanup, deletion, active-guide install, full parking-city remodel, and bulk proof-history publish are blocked
+
+This is enough public input for a fresh assistant to begin without the full chat.
+
+NEW CHAT SIMULATION
+Simulated fresh-chat input:
+1. The assistant is given the Current Board Front Desk.
+2. The assistant is told to use it as a display surface, not doctrine.
+3. The assistant is told to run a staleness check.
+4. The assistant must identify active priority, active core, public-visible trail, blocked lots, next gate, and stop condition.
+5. The assistant must not assume final truth or start cleanup.
+
+TEST 1 — CAN THE NEW CHAT NAME THE ACTIVE PRIORITY?
+Expected:
+Use the front desk to carry the next move cleanly.
+
+Result:
+PASS.
+
+The front desk names the active priority and current selected next move.
+
+Boundary:
+After Run 007, the old priority becomes stale because Run 006 has already been saved/published and Run 007 now exists. That means the board requires refresh after this run.
+
+Missing item:
+Board Refresh After Handoff Test.
+
+TEST 2 — CAN THE NEW CHAT KEEP THE CORE SMALL?
+Expected:
+Use only the small active core:
+- CPT V1.2
+- Housekeeping V1.1
+- Parking Core Operating Plan V1
+- Run 001 through Run 006 trail
+
+Result:
+PASS.
+
+The front desk gives a compact core instead of asking the assistant to reload every file.
+
+Boundary:
+The fresh assistant still needs proof pull if it is asked to judge exact file hashes, local save state, or claims outside the board.
+
+Missing item:
+Proof Pull Reminder should remain in the handoff card.
+
+TEST 3 — CAN THE NEW CHAT IDENTIFY WHAT IS BLOCKED?
+Expected:
+Blocked:
+- cleanup
+- deletion
+- active-guide install
+- full parking-city remodel
+- treating board as doctrine
+- treating reports as doctrine
+- treating visible support as active authority
+- bulk proof-history publish
+
+Result:
+PASS.
+
+The front desk clearly blocks the dangerous lanes.
+
+Boundary:
+The board blocks action; it does not replace John approval.
+
+TEST 4 — CAN THE NEW CHAT FIND THE NEXT CLEAN TEST?
+Expected:
+Run 007 is the next test named by the front desk.
+
+Result:
+PASS.
+
+The front desk correctly pointed to this run.
+
+Post-run change:
+After Run 007 closes, the next recommended action changes.
+
+The new next clean action should be:
+Save/publish Run 007 and the New Chat Handoff Card.
+Then either:
+A. start a new chat using the handoff card, or
+B. run Run 008 to create a public notes index / front-door map.
+
+TEST 5 — CAN THE NEW CHAT AVOID PUBLIC/PRIVATE BLEED?
+Expected:
+Use public run reports and public front desk only.
+Do not pull private proof-history bulk.
+Do not claim local proof unless provided.
+
+Result:
+PASS WITH BOUNDARY.
+
+The public handoff can resume the lane, but it cannot verify local filesystem truth by itself.
+
+Boundary:
+Public-visible proof and local proof are different. A new chat may use public material as handoff state, but local save/publish claims still need local PowerShell proof or direct verification.
+
+TEST 6 — CAN THE NEW CHAT HANDLE A NEW IDEA?
+Expected:
+Use Field-Lock Exception Lane.
+Card only if it affects the current active priority.
+Otherwise park.
+
+Result:
+PASS.
+
+The front desk gives this behavior.
+
+TEST 7 — CAN THE NEW CHAT HANDLE A CLEANUP REQUEST?
+Expected:
+Cleanup remains blocked unless it becomes the active priority and passes exact cleanup decision map.
+
+Result:
+PASS.
+
+The front desk blocks cleanup.
+
+HANDOFF QUALITY VERDICT
+PASS WITH BOUNDARY.
+
+A fresh chat can resume from the Current Board Front Desk well enough to avoid whole-chat reload and avoid major dirty moves.
+
+But one missing artifact is needed:
+a short New Chat Handoff Card.
+
+The front desk is still a document.
+The handoff card is the doorway instruction that tells the next assistant how to use the document.
+
+OUTPUT CREATED
+CLEAN_SEED_NEW_CHAT_HANDOFF_CARD_20260516.txt
+
+Output status:
+handoff card / public-safe candidate / proof-history first / publishable if John approves.
+
+MISSING ITEMS FOUND BY RUN 007
+1. New Chat Handoff Card.
+2. Board Refresh After Handoff Test.
+3. Public Notes Index / Front Door Map is becoming useful.
+4. Local-vs-public proof boundary must stay explicit.
+5. New chat should begin with board staleness check before action.
+
+WHAT RUN 007 PROVED
+Run 007 proved the Front Desk can carry a new chat handoff.
+
+It proved that a new chat can identify:
+- active priority
+- small active core
+- public-visible report trail
+- blocked lots
+- next gate
+- stop condition
+- proof-pull boundary
+
+It proved that the front desk reduces the need to drag the whole current conversation forward.
+
+It proved the next handoff layer should be a short handoff card, not a full public site redesign yet.
+
+WHAT RUN 007 DID NOT PROVE
+Run 007 did not prove every future chat will behave correctly.
+It did not update active guides.
+It did not approve cleanup.
+It did not create a public notes index.
+It did not prove final parking architecture.
+It did not verify local filesystem state beyond the previous PowerShell proof and public GitHub visibility.
+
+NEXT CLEAN ACTION
+Save/publish:
+1. CLEAN_SEED_RUN_EVIDENCE_REPORT_007_NEW_CHAT_BOARD_HANDOFF_TEST_20260516.txt
+2. CLEAN_SEED_NEW_CHAT_HANDOFF_CARD_20260516.txt
+
+Then either:
+A. Start a new chat using the handoff card.
+B. Run RUN_008_PUBLIC_NOTES_INDEX_FRONT_DOOR_MAP.
+
+Recommended:
+Save/publish Run 007 and the handoff card, then start a new chat test.
+
+CLOSE VERDICT
+PASS WITH BOUNDARY.
+
+Clean line:
+The front desk can carry the project into a fresh chat, but the handoff card is the clean doorway.

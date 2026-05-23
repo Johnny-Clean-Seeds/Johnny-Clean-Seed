@@ -1,0 +1,69 @@
+ONE-HAND GOLD HANDLING RULE
+
+Status:
+Local durable save.
+Not installed into ACTIVE_GUIDES yet.
+Created to stop gold loss during Recycle Bin, lost-folder, proof-history, and rule-recovery work.
+
+Core rule:
+Gold cannot be carried in working memory.
+Gold must be placed visibly before continuing.
+
+One-hand limit:
+One unbanked gold item is the maximum.
+If one gold item appears, stop long enough to record it.
+If a second gold item appears before the first is recorded, YIELD or pause the active task until the first is banked/statused.
+
+Gold tray required fields:
+Gold ID:
+Source path or source message:
+Evidence pointer:
+Gold type: boulder / gold bar / nugget / dirty milk risk / unknown ore
+Status: unreviewed / banked / refined / stamped / installed / parked / blocked
+Why it matters:
+Affected area:
+Return point:
+Next action:
+
+Boulder-first rule:
+Boulders outrank gold bars.
+Gold bars outrank nuggets.
+Nuggets outrank loose interesting ideas.
+Dirty milk risk is captured separately and must not be mixed into clean gold.
+
+No invisible gold rule:
+Do not say “got it,” “saved,” “locked,” or “we have it” unless the gold is visible in the tray, locally saved, or explicitly marked chat-only with reason.
+
+Gold loss trigger:
+If gold is noticed but not recorded, treat that as a leak.
+Stop and repair the capture path before continuing.
+
+Guard trigger:
+If one-hand handling still leaks gold, add a guard layer before continuing recovery work.
+A guard layer means a separate visible checkpoint that checks:
+- all gold IDs are present
+- all gold has a status
+- no unbanked gold remains
+- return point is written
+- next action is single-target
+
+Recycle Bin use:
+During Recycle Bin recovery, every recovered item starts as ore.
+Useful findings become nuggets only after content review.
+Repeated or strong nuggets become bars only after evidence review.
+Stamped bars require ID, source, placement, status, and leak-check route.
+
+This rule connects to:
+Evidence Crime-Scene Rule Set
+Scene Freeze Rule
+Chain-of-Custody Rule
+Collision-Safe Recovery Rule
+Timeline Drift Ledger
+Ore to Nugget to Bar to Stamp Rule
+Leak Trace Rule
+Evidence Saturation Rule
+
+Next intended route:
+Use a visible gold tray before quarantine recovery.
+Do not carry gold mentally.
+Do not recover files until gold handling is stable.

@@ -1,0 +1,26 @@
+﻿LIVE TEST 006 REPAIR RECEIPT
+
+Timestamp:
+2026-05-09 18:08:12 -04:00
+
+Folder:
+C:\Users\13527\Desktop\CleanSeed_Desktop_Staging\LIVE_TEST_006_REPAIR_AND_REPLAY\REPAIR_PASS
+
+Report:
+C:\Users\13527\Desktop\CleanSeed_Desktop_Staging\LIVE_TEST_006_REPAIR_AND_REPLAY\REPAIR_PASS\FIRST_ADD_FILE_INTAKE_REPORT_006_REPAIR.txt
+
+Report hash:
+CDCC162280182A56774F1DBBF3618D6BE9A5B37285C604998418FB05EE8780B4
+
+Result:
+C:\Users\13527\Desktop\CleanSeed_Desktop_Staging\LIVE_TEST_006_REPAIR_AND_REPLAY\REPAIR_PASS\LIVE_TEST_RESULT_006_REPAIR.txt
+
+Result hash:
+4CBD11D0A22127C463F800BD732B8342ED9485FCA735A6272993CDC6C3762A14
+
+Verdict:
+PASS
+
+State boundary:
+Desktop staging only.
+Final folder routing is intentionally delayed until staged files are reviewed.

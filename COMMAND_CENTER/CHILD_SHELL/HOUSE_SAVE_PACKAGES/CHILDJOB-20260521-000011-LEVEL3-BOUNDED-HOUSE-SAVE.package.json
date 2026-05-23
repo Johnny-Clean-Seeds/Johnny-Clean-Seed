@@ -1,0 +1,110 @@
+{
+  "package_id": "CHILDJOB-20260521-000011-LEVEL3-BOUNDED-HOUSE-SAVE",
+  "created_at": "2026-05-21T05:14:13.4566868-04:00",
+  "action": "run_approved_house_save_package",
+  "helper_name": "run_bounded_mr_kleen_save_package",
+  "mr_kleen_repo": "C:\\Users\\13527\\Desktop\\Jxhnny_Kleen_C3dz",
+  "expected_base_head": "ebb6d7322da6f993137880dc3cfd5cfd52c3e4cb",
+  "commit_message": "Lock bounded level3 bridge completion",
+  "files": [
+    {
+      "relative_path": "BRAIN_LEARNING\\BRIDGE_LEVEL3_BOUNDED_HOUSE_SAVE_ROUTE_PROOF_RULE_20260521.md",
+      "mode": "create_new",
+      "content_sha256": "FD507F61210CB4669FBAF537312C480CC62070D342CF6057799EE6D606094C4B",
+      "content": "# Bridge Level3 Bounded House-Save Route Proof Rule - 20260521\n\n## Status\n\nPASS / BRIDGE COMPLETE THROUGH BOUNDED LEVEL3 AFTER PACKAGE CONSUMPTION\n\n## Rule\n\nLevel 3 is not arbitrary execution. Level 3 is one exact approved Mr.Kleen house-save package consumed by Child Shell through watcher and dispatcher.\n\nA valid Level 3 package must require:\n\n- action \run_approved_house_save_package;\n- allowlisted helper name \run_bounded_mr_kleen_save_package;\n- helper path SHA256 validation;\n- input package SHA256 validation;\n- exact file list;\n- approved write lanes only;\n- proof/support receipt material written before commit;\n- controlled git add/commit/push from the package helper;\n- final clean git status;\n- origin/main equals HEAD.\n\n## Proof Objects\n\nLevel 1 regression receipt:\nC:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\OUTBOX\\CHILDJOB-20260521-000009-LEVEL1-REGRESSION-READ-STATUS.receipt.txt\n\nLevel 1 receipt SHA256:\n671FE27951E7500C030C183FDC8B6234F1155F3261E45606DE7F7D01FAA6A8A5\n\nLevel 2 regression receipt:\nC:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\OUTBOX\\CHILDJOB-20260521-000010-LEVEL2-REGRESSION-APPROVED-HELPER.receipt.txt\n\nLevel 2 receipt SHA256:\n4601105118E7228A90D308CD8C5CAC8F7EB7868DECE419F4089C2B7D9681ACC7\n\nLevel 2 helper output SHA256:\n5F7D7B1B17A2432315AD0FDFE38C00EA4DA6723830647FED2E8F282EB276217D\n\nLevel 3 helper SHA256:\n2EFF57B7BF108FFC3778DC9E6CE0369AA3CFB70E9BE92092E1BE173F8D8C1361\n\nLevel 3 allowlist SHA256:\nC81CC71EA3BF0946CC38019B00689B9B7DB865741B13B471D9EC30A22865D1E3\n\nLevel 3 runner SHA256:\n01FA933BBC37CE2B41DCB60ADD264A05CCFB100112E129AD8D65F4EE80018586\n\nDispatcher SHA256:\n8032237EA325CCC56D1E29B9AAF0554987754678C04B537659BD2912BEC3F6D1\n\nBridge status command SHA256:\n1D9BB6DD02072CF379B6A58D0821003CD3EC94217BEDE69FCEC885F7269ABCF4\n\nBridge state card SHA256:\n8512BA8056E1078ACC3E7D6BB5939AA2D95F9711D357DEF0773FBF8DD559B6A1\n\nBridge operator guide SHA256:\n97F6EA7FFD486FFB0E1989BE6430A0595CF65A0EA230FE8EC51C2A65E6D1BA08\n\n## Boundary\n\nThis proves bounded Level 3 house-save packages only.\n\nIt does not prove assistant-direct local execution from chat.\n\nIt does not allow arbitrary shell, raw shell expansion, broad filesystem crawl, delete, permission expansion, unrestricted repo write, uncontrolled git, junction/symlink teleporter, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, or doctrine rewrite."
+    },
+    {
+      "relative_path": "HOUSE_WORK\\WORK_SHED\\SORTING_BENCH\\BRIDGE_LEVEL3_BOUNDED_HOUSE_SAVE_PROOF_REVIEW_20260521.md",
+      "mode": "create_new",
+      "content_sha256": "E661F3380BFD1F22419FD4B4166AB7F974BB577D6F663AE153AB88546EA700B8",
+      "content": "# Bridge Level3 Bounded House-Save Proof Review - 20260521\n\n## Verdict\n\nPASS / LEVEL3 PACKAGE LOCK SAVE READY\n\n## Base Before Level3 Package\n\nmain @ ebb6d73\n\nFull hash:\nebb6d7322da6f993137880dc3cfd5cfd52c3e4cb\n\norigin/main:\nebb6d7322da6f993137880dc3cfd5cfd52c3e4cb\n\n## Completed Bridge Concept\n\n1. 123 is the working doorway.\n2. Command Center carries working state.\n3. Child Shell receives approved jobs.\n4. Watcher is running and can be ensured live.\n5. Dispatcher routes by approved action.\n6. Level 1 reads bounded status.\n7. Level 2 runs named approved helpers.\n8. Level 3 consumes exact approved Mr.Kleen save packages.\n9. Start, stop, ensure, and status commands exist.\n10. Current bridge state/readback card exists.\n11. Simple operator guide exists.\n12. Failed jobs and receipts remain preserved.\n13. Level 3 package commits and pushes only after local proof writes.\n\n## Regression Proof\n\nWatcher ensure receipt:\nC:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\WATCHER\\ENSURE_CHILD_SHELL_WATCHER_LAST_RECEIPT.txt\n\nWatcher ensure SHA256:\n37693E3639072F33586D032773429257D251D803A4BF309C6CA622A056B333D1\n\nLevel 1 job:\nCHILDJOB-20260521-000009-LEVEL1-REGRESSION-READ-STATUS\n\nLevel 1 receipt SHA256:\n671FE27951E7500C030C183FDC8B6234F1155F3261E45606DE7F7D01FAA6A8A5\n\nLevel 2 job:\nCHILDJOB-20260521-000010-LEVEL2-REGRESSION-APPROVED-HELPER\n\nLevel 2 receipt SHA256:\n4601105118E7228A90D308CD8C5CAC8F7EB7868DECE419F4089C2B7D9681ACC7\n\n## Level3 Proof Target\n\nJob:\nCHILDJOB-20260521-000011-LEVEL3-BOUNDED-HOUSE-SAVE\n\nAction:\nrun_approved_house_save_package\n\nApproved helper:\nrun_bounded_mr_kleen_save_package\n\nHelper SHA256:\n2EFF57B7BF108FFC3778DC9E6CE0369AA3CFB70E9BE92092E1BE173F8D8C1361\n\nAllowlist SHA256:\nC81CC71EA3BF0946CC38019B00689B9B7DB865741B13B471D9EC30A22865D1E3\n\nInput package path:\nC:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\HOUSE_SAVE_PACKAGES\\CHILDJOB-20260521-000011-LEVEL3-BOUNDED-HOUSE-SAVE.package.json\n\n## Boundary Held\n\nNo ACTIVE_GUIDES rewrite.\nNo CURRENT_TRUTH_INDEX rewrite.\nNo doctrine rewrite.\nNo delete.\nNo arbitrary shell.\nNo raw shell expansion.\nNo broad filesystem crawl.\nNo permission expansion.\nNo junction/symlink teleporter.\nNo uncontrolled git."
+    },
+    {
+      "relative_path": "HOUSE_WORK\\WORK_SHED\\GEAR_RACK\\RULE_MACHINES\\BRIDGE_COMPLETE_THROUGH_LEVEL3_STATE_CARD_20260521.md",
+      "mode": "create_new",
+      "content_sha256": "523986D5E490AC2B54986D213FBB14CF76BB4E8171133A68CF6C3642D45EDFAF",
+      "content": "# Bridge Complete Through Bounded Level3 State Card - 20260521\n\n## Current Bridge State\n\nBRIDGE COMPLETE THROUGH BOUNDED LEVEL3.\n\n## Working Route\n\n123 -> Command Center -> Child Shell DROPZONE -> watcher -> dispatcher -> approved level runner -> OUTBOX receipt\n\n## Status\n\nLevel 0: PASS.\nLevel 1: PASS.\nLevel 2: PASS.\nWatcher: RUNNING / ensure helper proved.\nDispatcher: routes Level 1, Level 2, and Level 3 actions.\nLevel 3: bounded approved house-save package route installed and proved by CHILDJOB-20260521-000011-LEVEL3-BOUNDED-HOUSE-SAVE.\n\n## Blocked Powers\n\nAssistant-direct local execution from chat.\nArbitrary shell.\nRaw shell expansion.\nBroad filesystem crawl.\nDelete.\nPermission expansion.\nUnrestricted repo write.\nUncontrolled git.\nACTIVE_GUIDES rewrite.\nCURRENT_TRUTH_INDEX rewrite.\nDoctrine rewrite.\nJunction/symlink teleporter."
+    },
+    {
+      "relative_path": "HOUSE_WORK\\WORK_SHED\\GEAR_RACK\\RULE_MACHINES\\BRIDGE_LEVEL3_OPERATOR_GUIDE_20260521.md",
+      "mode": "create_new",
+      "content_sha256": "F93A8E0D731DAF231E424086D0BCBA486174CD88EF94CA5AC28CBA0A2D7735A6",
+      "content": "# Bridge Level3 Operator Guide - 20260521\n\n## Start\n\nUse C:\\Users\\13527\\Desktop\\123 as the working doorway.\n\nRun watcher ensure before dropping jobs:\n\nC:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\WATCHER\\ENSURE_CHILD_SHELL_WATCHER_RUNNING.ps1\n\nUse bridge status for readback:\n\nC:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\WATCHER\\STATUS_CHILD_SHELL_BRIDGE.ps1\n\n## Job Levels\n\nLevel 1 action: \read_command_center_status.\n\nLevel 2 action: \run_approved_helper with a named allowlisted helper.\n\nLevel 3 action: \run_approved_house_save_package with an exact package hash and allowlisted save helper.\n\n## Level3 Rule\n\nA Level3 package must name every write target, every content hash, the commit message, and the expected repo base. The helper rejects missing hashes, wrong helper hash, package hash mismatch, dirty repo, writes outside approved lanes, and origin/main mismatch.\n\n## Never Use This For\n\nArbitrary shell, raw shell expansion, broad scan, deletion, permission expansion, hidden doctrine changes, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, or unrestricted repo writes."
+    },
+    {
+      "relative_path": "PROOF_HISTORY\\BRIDGE_LEVEL3_BOUNDED_HOUSE_SAVE_LOCK_RECEIPT_20260521.txt",
+      "mode": "create_new",
+      "content_sha256": "2A80280B6BA3E8231C85E18A517CA39BE49D3EE2A601E7E583AE62C0ECD70188",
+      "content": "BRIDGE LEVEL3 BOUNDED HOUSE SAVE LOCK RECEIPT\nDate: 2026-05-21T05:14:13.4566868-04:00\n\nVerdict:\nPASS / LEVEL3 BOUNDED PACKAGE PROOF MATERIAL WRITTEN BEFORE COMMIT\n\nRepo before package:\nebb6d7322da6f993137880dc3cfd5cfd52c3e4cb\n\nLevel 1 regression:\nCHILDJOB-20260521-000009-LEVEL1-REGRESSION-READ-STATUS\nReceipt: C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\OUTBOX\\CHILDJOB-20260521-000009-LEVEL1-REGRESSION-READ-STATUS.receipt.txt\nReceipt SHA256: 671FE27951E7500C030C183FDC8B6234F1155F3261E45606DE7F7D01FAA6A8A5\n\nLevel 2 regression:\nCHILDJOB-20260521-000010-LEVEL2-REGRESSION-APPROVED-HELPER\nReceipt: C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\OUTBOX\\CHILDJOB-20260521-000010-LEVEL2-REGRESSION-APPROVED-HELPER.receipt.txt\nReceipt SHA256: 4601105118E7228A90D308CD8C5CAC8F7EB7868DECE419F4089C2B7D9681ACC7\nHelper output SHA256: 5F7D7B1B17A2432315AD0FDFE38C00EA4DA6723830647FED2E8F282EB276217D\n\nLevel 3 job:\nCHILDJOB-20260521-000011-LEVEL3-BOUNDED-HOUSE-SAVE\n\nLevel 3 action:\nrun_approved_house_save_package\n\nApproved helper:\nrun_bounded_mr_kleen_save_package\n\nHelper SHA256:\n2EFF57B7BF108FFC3778DC9E6CE0369AA3CFB70E9BE92092E1BE173F8D8C1361\n\nAllowlist SHA256:\nC81CC71EA3BF0946CC38019B00689B9B7DB865741B13B471D9EC30A22865D1E3\n\nPackage path:\nC:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\HOUSE_SAVE_PACKAGES\\CHILDJOB-20260521-000011-LEVEL3-BOUNDED-HOUSE-SAVE.package.json\n\nFiles in approved package:\n- BRAIN_LEARNING\\BRIDGE_LEVEL3_BOUNDED_HOUSE_SAVE_ROUTE_PROOF_RULE_20260521.md\n- HOUSE_WORK\\WORK_SHED\\SORTING_BENCH\\BRIDGE_LEVEL3_BOUNDED_HOUSE_SAVE_PROOF_REVIEW_20260521.md\n- HOUSE_WORK\\WORK_SHED\\GEAR_RACK\\RULE_MACHINES\\BRIDGE_COMPLETE_THROUGH_LEVEL3_STATE_CARD_20260521.md\n- HOUSE_WORK\\WORK_SHED\\GEAR_RACK\\RULE_MACHINES\\BRIDGE_LEVEL3_OPERATOR_GUIDE_20260521.md\n- PROOF_HISTORY\\BRIDGE_LEVEL3_BOUNDED_HOUSE_SAVE_LOCK_RECEIPT_20260521.txt\n- ACTIVE_ANCHOR.txt\n- HOUSE_WORK\\INDEXES\\CURRENT_HOUSE_WORK_STATUS.md\n- stale updates to selected Level2/Level3 blocked notes\n\nBoundary:\nBounded Level3 house-save package only. No arbitrary shell. No raw shell expansion. No broad filesystem crawl. No delete. No permission expansion. No unrestricted repo write. No uncontrolled git. No ACTIVE_GUIDES rewrite. No CURRENT_TRUTH_INDEX rewrite. No doctrine rewrite.\n\nFinal commit, push result, final status, and origin/main parity are recorded in the Child Shell OUTBOX Level3 receipt after the package helper completes."
+    },
+    {
+      "relative_path": "ACTIVE_ANCHOR.txt",
+      "mode": "replace",
+      "content_sha256": "E956E8FE07172AF449AF46AF1402B66BF5D3789BF21D53D646C369CCE15AA5EA",
+      "content": "Current active ball:\nBridge complete through bounded Level 3. The 123 -> Command Center -> Child Shell bridge is proved through Level 1 read-status, Level 2 approved-helper, and Level 3 exact approved house-save package routing.\n\nCurrent proof:\nLevel 0 PASS.\nLevel 1 PASS, including regression job CHILDJOB-20260521-000009-LEVEL1-REGRESSION-READ-STATUS.\nLevel 2 PASS, including regression job CHILDJOB-20260521-000010-LEVEL2-REGRESSION-APPROVED-HELPER.\nWatcher ensure PASS; watcher running before Level3 package.\nDispatcher routes Level 1, Level 2, and Level 3 actions.\nLevel 3 bounded house-save package selected and proved by CHILDJOB-20260521-000011-LEVEL3-BOUNDED-HOUSE-SAVE.\n\nCurrent bridge state:\n123 is the doorway. Command Center carries working state. Child Shell consumes approved jobs. Mr.Kleen saves happen only through exact approved Level3 packages.\n\nNext allowed boss:\nUse the bridge conservatively for bounded approved jobs. Any broader power requires separate design, proof, and explicit selection.\n\nBlocked:\nAssistant-direct local execution from chat is not proved.\nArbitrary shell is not allowed.\nRaw shell expansion is not allowed.\nBroad filesystem crawl is not allowed.\nDelete is not allowed.\nPermission expansion is not allowed.\nUnrestricted repo write is not allowed.\nUncontrolled git is not allowed.\nACTIVE_GUIDES rewrite is not allowed by this proof.\nCURRENT_TRUTH_INDEX rewrite is not allowed by this proof.\nDoctrine rewrite is not allowed by this proof."
+    },
+    {
+      "relative_path": "HOUSE_WORK\\INDEXES\\CURRENT_HOUSE_WORK_STATUS.md",
+      "mode": "append",
+      "content_sha256": "414CCCFBD338B0EC1EE7892595929F1AC2D226F4D08D0E3BCC42D4C6866EF791",
+      "content": "\n## 20260521 - Bridge complete through bounded Level3\n\nVerdict: PASS / BRIDGE COMPLETE THROUGH BOUNDED LEVEL3.\n\nBase before Level3 package: main @ ebb6d73.\n\nLevel 1 regression job: CHILDJOB-20260521-000009-LEVEL1-REGRESSION-READ-STATUS.\n\nLevel 1 receipt SHA256: 671FE27951E7500C030C183FDC8B6234F1155F3261E45606DE7F7D01FAA6A8A5.\n\nLevel 2 regression job: CHILDJOB-20260521-000010-LEVEL2-REGRESSION-APPROVED-HELPER.\n\nLevel 2 receipt SHA256: 4601105118E7228A90D308CD8C5CAC8F7EB7868DECE419F4089C2B7D9681ACC7.\n\nLevel 3 job: CHILDJOB-20260521-000011-LEVEL3-BOUNDED-HOUSE-SAVE.\n\nLevel 3 helper SHA256: 2EFF57B7BF108FFC3778DC9E6CE0369AA3CFB70E9BE92092E1BE173F8D8C1361.\n\nLevel 3 allowlist SHA256: C81CC71EA3BF0946CC38019B00689B9B7DB865741B13B471D9EC30A22865D1E3.\n\nMeaning: 123 -> Command Center -> Child Shell now works through Level 3 bounded approved Mr.Kleen house-save packages. The package writes only approved support/proof files, commits, pushes, and verifies clean origin/main parity.\n\nStale update: prior Level3 blocked/not-installed notes are stale after this Level3 proof and were appended where targeted. Old proof receipts remain immutable.\n\nBoundary: no assistant-direct local execution claim, no arbitrary shell, no raw shell expansion, no broad filesystem crawl, no delete, no permission expansion, no unrestricted repo write, no uncontrolled git, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no doctrine rewrite."
+    },
+    {
+      "relative_path": "BRAIN_LEARNING\\CHILD_SHELL_LEVEL2_APPROVED_HELPER_ROUTE_PROOF_RULE_20260521.md",
+      "mode": "append",
+      "content_sha256": "00D7ED6D4310430F554019A18102A27C097168AF4B93DFF8BD53B7C2F5A330BD",
+      "content": "\n## STALE UPDATE - LEVEL3 VERIFIED - 20260521\n\nThis file previously said or implied Level 3 was blocked, not installed, or not proved.\n\nUpdate: bounded Level 3 approved house-save package routing is now installed and proved by CHILDJOB-20260521-000011-LEVEL3-BOUNDED-HOUSE-SAVE.\n\nBoundary remains: Level 3 is exact approved package save only. It does not allow assistant-direct local execution from chat, arbitrary shell, raw shell expansion, broad filesystem crawl, delete, permission expansion, unrestricted repo write, uncontrolled git, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, or junction/symlink teleporter."
+    },
+    {
+      "relative_path": "HOUSE_WORK\\WORK_SHED\\SORTING_BENCH\\CHILD_SHELL_LEVEL2_APPROVED_HELPER_REPAIR_AND_PROOF_REVIEW_20260521.md",
+      "mode": "append",
+      "content_sha256": "00D7ED6D4310430F554019A18102A27C097168AF4B93DFF8BD53B7C2F5A330BD",
+      "content": "\n## STALE UPDATE - LEVEL3 VERIFIED - 20260521\n\nThis file previously said or implied Level 3 was blocked, not installed, or not proved.\n\nUpdate: bounded Level 3 approved house-save package routing is now installed and proved by CHILDJOB-20260521-000011-LEVEL3-BOUNDED-HOUSE-SAVE.\n\nBoundary remains: Level 3 is exact approved package save only. It does not allow assistant-direct local execution from chat, arbitrary shell, raw shell expansion, broad filesystem crawl, delete, permission expansion, unrestricted repo write, uncontrolled git, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, or junction/symlink teleporter."
+    },
+    {
+      "relative_path": "BRAIN_LEARNING\\POST_LEVEL2_BRIDGE_STATE_AND_STALE_RULE_UPDATE_RULE_20260521.md",
+      "mode": "append",
+      "content_sha256": "00D7ED6D4310430F554019A18102A27C097168AF4B93DFF8BD53B7C2F5A330BD",
+      "content": "\n## STALE UPDATE - LEVEL3 VERIFIED - 20260521\n\nThis file previously said or implied Level 3 was blocked, not installed, or not proved.\n\nUpdate: bounded Level 3 approved house-save package routing is now installed and proved by CHILDJOB-20260521-000011-LEVEL3-BOUNDED-HOUSE-SAVE.\n\nBoundary remains: Level 3 is exact approved package save only. It does not allow assistant-direct local execution from chat, arbitrary shell, raw shell expansion, broad filesystem crawl, delete, permission expansion, unrestricted repo write, uncontrolled git, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, or junction/symlink teleporter."
+    },
+    {
+      "relative_path": "HOUSE_WORK\\WORK_SHED\\GEAR_RACK\\RULE_MACHINES\\POST_LEVEL2_BRIDGE_STATE_CARD_20260521.md",
+      "mode": "append",
+      "content_sha256": "00D7ED6D4310430F554019A18102A27C097168AF4B93DFF8BD53B7C2F5A330BD",
+      "content": "\n## STALE UPDATE - LEVEL3 VERIFIED - 20260521\n\nThis file previously said or implied Level 3 was blocked, not installed, or not proved.\n\nUpdate: bounded Level 3 approved house-save package routing is now installed and proved by CHILDJOB-20260521-000011-LEVEL3-BOUNDED-HOUSE-SAVE.\n\nBoundary remains: Level 3 is exact approved package save only. It does not allow assistant-direct local execution from chat, arbitrary shell, raw shell expansion, broad filesystem crawl, delete, permission expansion, unrestricted repo write, uncontrolled git, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, or junction/symlink teleporter."
+    },
+    {
+      "relative_path": "HOUSE_WORK\\WORK_SHED\\QUEUE\\LEVEL2_APPROVED_HELPER_ROUTE_SELECTED_NEXT_20260521.md",
+      "mode": "append",
+      "content_sha256": "00D7ED6D4310430F554019A18102A27C097168AF4B93DFF8BD53B7C2F5A330BD",
+      "content": "\n## STALE UPDATE - LEVEL3 VERIFIED - 20260521\n\nThis file previously said or implied Level 3 was blocked, not installed, or not proved.\n\nUpdate: bounded Level 3 approved house-save package routing is now installed and proved by CHILDJOB-20260521-000011-LEVEL3-BOUNDED-HOUSE-SAVE.\n\nBoundary remains: Level 3 is exact approved package save only. It does not allow assistant-direct local execution from chat, arbitrary shell, raw shell expansion, broad filesystem crawl, delete, permission expansion, unrestricted repo write, uncontrolled git, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, or junction/symlink teleporter."
+    },
+    {
+      "relative_path": "BRAIN_LEARNING\\CHILD_SHELL_WATCHER_LIVENESS_STALE_PID_DURABILITY_RULE_20260521.md",
+      "mode": "append",
+      "content_sha256": "00D7ED6D4310430F554019A18102A27C097168AF4B93DFF8BD53B7C2F5A330BD",
+      "content": "\n## STALE UPDATE - LEVEL3 VERIFIED - 20260521\n\nThis file previously said or implied Level 3 was blocked, not installed, or not proved.\n\nUpdate: bounded Level 3 approved house-save package routing is now installed and proved by CHILDJOB-20260521-000011-LEVEL3-BOUNDED-HOUSE-SAVE.\n\nBoundary remains: Level 3 is exact approved package save only. It does not allow assistant-direct local execution from chat, arbitrary shell, raw shell expansion, broad filesystem crawl, delete, permission expansion, unrestricted repo write, uncontrolled git, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, or junction/symlink teleporter."
+    },
+    {
+      "relative_path": "HOUSE_WORK\\WORK_SHED\\SORTING_BENCH\\CHILD_SHELL_WATCHER_LIVENESS_STALE_PID_DURABILITY_REVIEW_20260521.md",
+      "mode": "append",
+      "content_sha256": "00D7ED6D4310430F554019A18102A27C097168AF4B93DFF8BD53B7C2F5A330BD",
+      "content": "\n## STALE UPDATE - LEVEL3 VERIFIED - 20260521\n\nThis file previously said or implied Level 3 was blocked, not installed, or not proved.\n\nUpdate: bounded Level 3 approved house-save package routing is now installed and proved by CHILDJOB-20260521-000011-LEVEL3-BOUNDED-HOUSE-SAVE.\n\nBoundary remains: Level 3 is exact approved package save only. It does not allow assistant-direct local execution from chat, arbitrary shell, raw shell expansion, broad filesystem crawl, delete, permission expansion, unrestricted repo write, uncontrolled git, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, doctrine rewrite, or junction/symlink teleporter."
+    }
+  ],
+  "boundary": [
+    "bounded Level3 house-save package only",
+    "exact package hash required",
+    "exact approved file list only",
+    "approved write lanes only",
+    "no delete",
+    "no arbitrary shell",
+    "no raw shell expansion",
+    "no broad filesystem crawl",
+    "no permission expansion",
+    "no junction or symlink teleporter",
+    "no ACTIVE_GUIDES rewrite",
+    "no CURRENT_TRUTH_INDEX rewrite",
+    "no doctrine rewrite"
+  ]
+}

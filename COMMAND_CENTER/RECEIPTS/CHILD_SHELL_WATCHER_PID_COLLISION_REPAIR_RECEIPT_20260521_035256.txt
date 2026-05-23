@@ -1,0 +1,64 @@
+CHILD SHELL WATCHER PID COLLISION REPAIR RECEIPT
+Date: 2026-05-21T03:52:57.9088015-04:00
+
+Verdict:
+PASS / PID COLLISION REPAIRED AND WATCHER SELF-TESTED
+
+Issue:
+PowerShell variable names are case-insensitive. Assigning to $Pid collided with read-only automatic $PID.
+
+Fix:
+Patched watcher start/stop scripts to use $WatcherPidText, $ExistingWatcherPidText, and $WatcherProcess instead of $Pid.
+
+Start watcher:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\CHILD_SHELL\WATCHER\START_CHILD_SHELL_WATCHER.ps1
+
+Start watcher SHA256:
+7608A20B79A7E3D8FB77B1DCFF69E48DA51649D5A4132ADADBE1F296C8577E19
+
+Stop watcher:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\CHILD_SHELL\WATCHER\STOP_CHILD_SHELL_WATCHER.ps1
+
+Stop watcher SHA256:
+F3AF060360B2A3447FE57A8CBDA1153FD19EBAC54A061DC2FD60F9E0B8D6DDBD
+
+Watcher loop:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\CHILD_SHELL\WATCHER\CHILD_SHELL_WATCHER_LOOP.ps1
+
+Watcher loop SHA256:
+81CA2701C280822B25B03AB40C6ADB4BA207211170FD91318A8296FB9DF979C0
+
+Level1 runner:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\CHILD_SHELL\RUNNERS\RUN_CHILD_SHELL_LEVEL1_ONCE.ps1
+
+Level1 runner SHA256:
+4AB6FAA757C918F4FA2BD5662B75A9091AD67F044CF1BF9E93AE6B2FE7DE761C
+
+Watcher PID:
+13240
+
+Self-test job:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\CHILD_SHELL\DROPZONE\CHILDJOB-20260521-000004-WATCHER-PID-REPAIR-SELFTEST.childjob.json
+
+Self-test job SHA256:
+4290364411EB9331E541298DB37B1A0DC62B6160989E6EBD98287E473230B1BE
+
+Self-test receipt:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\CHILD_SHELL\OUTBOX\CHILDJOB-20260521-000004-WATCHER-PID-REPAIR-SELFTEST.receipt.txt
+
+Self-test receipt SHA256:
+CEB432FB18B672129EA5DA5565E146E24E2F21C2501134D62254DA66E0095E6C
+
+Boundary:
+Command Center local read only.
+No Mr.Kleen repo write.
+No git.
+No doctrine install.
+No raw shell expansion.
+No delete.
+No permission expansion.
+No junction or symlink teleporter.
+No broad filesystem crawl.
+
+Next:
+Watcher trigger route is usable for Level 1 read-status childjob drops. Level 2/Level 3 still blocked until separately installed.

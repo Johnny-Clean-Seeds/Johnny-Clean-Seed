@@ -1,0 +1,48 @@
+EVIDENCE CRIME-SCENE RULE SET
+
+Status:
+Local durable save.
+Not installed into ACTIVE_GUIDES yet.
+Not final active doctrine until separately reviewed and installed.
+Created to preserve Recycle Bin / lost-folder / gold-recovery evidence rules before further recovery work.
+
+Rule 1: Scene Freeze Rule
+When a lost folder, Recycle Bin cluster, duplicate active-guide pile, sudden folder mess, proof/history rupture, or file-state confusion appears, do not clean, restore, merge, overwrite, rename, or delete first. Freeze first and inventory first.
+
+Rule 2: Chain-of-Custody Rule
+Every recovered item needs a durable ID and context record: Recycle Bin item number, original name, original path, deleted date/time, size, type, recovery location, and who/what recovered it.
+
+Rule 3: Collision-Safe Recovery Rule
+Same-name files must never be restored into one flat folder. Every recovered item needs a unique numbered quarantine folder or original-path-preserving folder to prevent collision or merge damage.
+
+Rule 4: Timeline Drift Ledger
+For each file family, sort by timestamp, original path, size, and role before judging drift. Compare README to README, Wrap to Wrap, Alignment to Alignment, receipts to receipts, and manifests to manifests.
+
+Rule 5: Negative Evidence Rule
+Capture what failed, what was blocked, what was missing, what was rejected, what was not run, and what was not changed. Failure, blocked, and no-change proof matters.
+
+Rule 6: Raw Copy Before Interpretation
+Preserve raw recovered items before extracting meaning. Keep artifact, interpretation, mechanism, and verdict separate.
+
+Rule 7: Ore to Nugget to Bar to Stamp Rule
+Recovered material starts as ore. It becomes a nugget only after useful content is identified. It becomes a bar only after repeated or strong evidence proves reusable value. It becomes stamped only after ID, source, placement, status, and leak-check route are assigned.
+
+Rule 8: Leak Trace Rule
+If a stamped bar is later not followed, trace the leak: missing trigger, wrong source, unclear wording, not installed in active guides, only saved in memory, wrong map, bad command route, or assistant execution failure.
+
+Rule 9: No Clean-Looking Means Current Rule
+A clean filename, familiar guide name, large size, or newer timestamp does not make a file active truth. Current truth requires source map, path, hash, receipt, or verified active folder.
+
+Rule 10: Evidence Saturation Rule
+When there are many similar receipts, guides, or reports, stop making loose reports and consolidate into one recovery ledger or manifest so proof does not become clutter.
+
+Next intended route:
+Freeze scene.
+Inventory.
+Collision-safe quarantine recovery.
+Timeline drift comparison.
+Gold ore extraction.
+Nugget classification.
+Gold bar refinement.
+Stamping.
+Leak check.

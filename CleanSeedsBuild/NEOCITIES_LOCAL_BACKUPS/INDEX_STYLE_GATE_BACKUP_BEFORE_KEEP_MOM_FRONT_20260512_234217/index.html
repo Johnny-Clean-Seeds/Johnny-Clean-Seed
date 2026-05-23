@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>WaKa Seed Porch</title>
+  <link rel="stylesheet" href="style.css?v=waka-redrose-20260512">
+</head>
+<body>
+  <main>
+    <section id="gate" class="gate-panel">
+      <div class="porch-shell">
+        <div class="porch-strip" aria-hidden="true">
+          <span>Homemade HTML</span>
+          <span>Mom Front Desk</span>
+          <span>WaKa Back Door</span>
+          <span>1994-ish</span>
+        </div>
+
+        <div class="mom-grid">
+          <div class="seed-art" aria-hidden="true">
+            <span class="sun"></span>
+            <span class="hill hill-a"></span>
+            <span class="hill hill-b"></span>
+            <span class="flower flower-a"></span>
+            <span class="flower flower-b"></span>
+            <span class="flower flower-c"></span>
+            <span class="label">MOM'S SEED BOX</span>
+          </div>
+
+          <div class="porch-copy">
+            <p class="eyebrow">Welcome to the front porch</p>
+            <h1>Mom's Seed Garden</h1>
+            <p class="porch-lede">
+              A little 1990s mom page for the Clean Seed bridge: garden labels on the outside,
+              back-door terminal on the inside, and absolutely no mystery jars unless WaKa says so.
+            </p>
+
+            <div class="construction">
+              <span>UNDER CONSTRUCTION: Mom is still finding the good scissors.</span>
+            </div>
+
+            <div class="mom-notes" aria-label="Mom notes">
+              <span>Best viewed after coffee</span>
+              <span>Seed packets alphabetized emotionally</span>
+              <span>Do not unplug the modem</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="login-card">
+          <p class="login-title">Private WaKa login</p>
+          <p class="login-help">For us: opens the clean bridge reader and copy station.</p>
+          <input id="code" type="password" autocomplete="off" autofocus placeholder="Enter hacker porch password">
+          <label class="remember-line"><input id="remember" type="checkbox"> Remember this browser</label>
+          <button id="openBtn" class="metal-btn">Open Back Door</button>
+          <p id="message" class="message" role="status"></p>
+        </div>
+
+        <div class="fake-counter" aria-hidden="true">VISITORS: 000094</div>
+        <div class="marquee" aria-hidden="true"><span>Welcome WaKa. The seed porch is online. Mom says no random floppies in the computer room.</span></div>
+      </div>
+    </section>
+
+    <section id="app" class="app-shell hidden">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">WaKa / Clean Seed Bridge</p>
+          <h1>1994 Back Door Reader</h1>
+          <p id="counts" class="muted"></p>
+        </div>
+        <button id="lockBtn" class="metal-btn">Main Menu</button>
+      </header>
+
+      <section class="status-grid" aria-label="Bridge summary">
+        <article class="status-card">
+          <span class="status-label">Current Ball</span>
+          <strong>Clean Seed Bridge V1</strong>
+          <p>Reports the project state without becoming the boss.</p>
+        </article>
+        <article class="status-card">
+          <span class="status-label">Data Loaded</span>
+          <strong id="dataCount">7 files</strong>
+          <p>All public data files listed in the site manifest are available here.</p>
+        </article>
+        <article class="status-card">
+          <span class="status-label">Rule</span>
+          <strong>No cleanup from this page</strong>
+          <p>Read, search, and copy. No upload, delete, move, or promotion.</p>
+        </article>
+      </section>
+
+      <section class="readme-grid">
+        <article class="panel human-panel">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Human Section</p>
+              <h2>Read Me First</h2>
+            </div>
+          </div>
+          <textarea id="humanReadme" readonly></textarea>
+          <button id="copyHumanBtn" class="metal-btn copy-under">Copy Human Read Me</button>
+          <p id="humanCopyStatus" class="copy-status" role="status"></p>
+        </article>
+
+        <article class="panel ai-panel">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">AI Section</p>
+              <h2>Structured Handoff Packet</h2>
+            </div>
+          </div>
+          <textarea id="aiPacket" readonly></textarea>
+          <div class="button-row under-row">
+            <button id="copyAiBtn" class="metal-btn copy-under">Copy AI Handoff</button>
+            <button id="copyAllBtn" class="metal-btn copy-under">Copy All Data Files</button>
+          </div>
+          <p id="copyStatus" class="copy-status" role="status"></p>
+        </article>
+      </section>
+
+      <section class="panel file-panel">
+        <div class="section-head file-head">
+          <div>
+            <p class="eyebrow">Manifest Viewer</p>
+            <h2>Browse The Data</h2>
+            <p class="muted">Search the clean public data set, open a file, then copy the text under the field.</p>
+          </div>
+          <div class="search-box">
+            <label for="search">Search files</label>
+            <input id="search" type="search" placeholder="Search file names, hashes, or loaded text">
+          </div>
+        </div>
+
+        <div class="layout">
+          <nav id="fileList" aria-label="File list"></nav>
+
+          <section class="viewerPane">
+            <h3 id="fileTitle">Choose a file</h3>
+            <p id="fileMeta" class="muted"></p>
+            <textarea id="viewer" readonly></textarea>
+            <button id="copyLoadedBtn" class="metal-btn copy-under">Copy Loaded File Text</button>
+            <p id="loadedCopyStatus" class="copy-status" role="status"></p>
+          </section>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <script src="scripts/manifest.js?v=waka-redrose-20260512"></script>
+  <script src="scripts/gate.js?v=waka-redrose-20260512"></script>
+</body>
+</html>

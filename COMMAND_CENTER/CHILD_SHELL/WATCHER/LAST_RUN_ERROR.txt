@@ -1,0 +1,2 @@
+2026-05-21T13:17:18.7983231-04:00
+STOP. Dispatch rejected malformed JSON.

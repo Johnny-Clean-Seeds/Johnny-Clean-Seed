@@ -1,0 +1,29 @@
+﻿
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, May 9, 2026 11:33:54 PM
+   Source : C:\Users\13527\Desktop\Clean Milk not-BLOAT\
+     Dest : C:\CleanSeed_Backups\CleanSeed_SourceTruth_Backup_20260509_233354\SOURCE_COPY\
+
+    Files : *.*
+	    
+  Options : *.* /NDL /NFL /S /E /DCOPY:DAT /COPY:DAT /NP /XJ /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        57        56         1         0         0         0
+   Files :       221       221         0         0         0         0
+   Bytes :    3.50 m    3.50 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            18087694 Bytes/sec.
+   Speed :            1034.986 MegaBytes/min.
+   Ended : Saturday, May 9, 2026 11:33:55 PM
+

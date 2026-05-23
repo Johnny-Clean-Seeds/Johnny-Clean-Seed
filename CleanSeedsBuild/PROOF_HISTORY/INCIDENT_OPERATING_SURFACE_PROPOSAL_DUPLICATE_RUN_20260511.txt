@@ -1,0 +1,72 @@
+﻿INCIDENT RECEIPT — OPERATING SURFACE PROPOSAL DUPLICATE RUN 20260511
+
+Created:
+2026-05-11 02:41:37 -04:00
+
+Protected active source:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+
+Incident:
+The OPERATING_SURFACE_PROPOSAL_20260511 save packet was pasted/run more than once.
+The first run created the proposal and receipt.
+The duplicate run detected that the proposal and receipt already existed, but later pasted commands still continued and rewrote the proposal/receipt content.
+
+Current proposal file:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\OPERATING_SURFACE_PROPOSAL_20260511.txt
+
+Current proposal size bytes:
+4204
+
+Current proposal SHA256:
+FCDB3EAA64A9DB1A9211A5518A203923233957EC6AB58487DDB62D86A5CD4D02
+
+Current receipt file:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_OPERATING_SURFACE_PROPOSAL_20260511.txt
+
+Current receipt size bytes:
+1185
+
+Current receipt SHA256:
+171F2C416773861413CFE546CA06C532F48F175852FDB99E421B310F31B8AD0D
+
+Known output evidence:
+First printed proposal SHA256:
+FCDB3EAA64A9DB1A9211A5518A203923233957EC6AB58487DDB62D86A5CD4D02
+
+First printed receipt SHA256:
+A2AB1630422E5B466E177303D9224D680B4305F2F3744044D74BC7056C53E5D1
+
+Final printed proposal SHA256:
+FCDB3EAA64A9DB1A9211A5518A203923233957EC6AB58487DDB62D86A5CD4D02
+
+Final printed receipt SHA256:
+171F2C416773861413CFE546CA06C532F48F175852FDB99E421B310F31B8AD0D
+
+Verdict:
+PARTIAL PASS / LOW-SEVERITY INCIDENT RECORDED.
+
+Reason:
+The proposal hash stayed the same, so proposal content appears unchanged.
+The receipt hash changed, so the receipt was rewritten during the duplicate run.
+No active guide, current truth, AGENTS, cleanup, deletion, movement, rename, folder creation, or promotion was reported.
+
+Boundaries:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+AGENTS.md edited: NO
+Project folders created: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Cleanup performed: NO
+Promotion performed: NO
+
+Corrective note:
+Future multi-line PowerShell save packets should be wrapped in an invoked scriptblock using:
+& { ... }
+
+This lets return stop the packet instead of allowing later pasted lines to continue.
+
+Next clean action:
+Send the technician the final proposal path and ask for bounded review only:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\OPERATING_SURFACE_PROPOSAL_20260511.txt

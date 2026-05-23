@@ -1,0 +1,232 @@
+FLOW ARCHITECTURE MISSING PARTS CONCEPT STACK 20260510
+
+Status:
+Proof-history concept stack only.
+Not active guide doctrine.
+Not current truth.
+Not cleanup authority.
+Not project-stack creation.
+Not approved for folder creation yet.
+
+Core problem:
+The project is not only missing cleanup organization.
+It is missing a flow architecture that lets many files, ideas, evidence items, and concept branches exist without becoming a mess.
+
+Main concept:
+The system is trying to prove AI can help make cleaner AI when the work is done through clean placement, evidence, lanes, gates, and controlled growth.
+
+Save these concepts:
+
+1. SIDECAR EVIDENCE / NO HAND-SPACE THEFT
+
+Meaning:
+During one-task full-cycle review/refinement, evidence should be collected when useful, but it must not steal the active working lane.
+
+Evidence belongs beside the job unless evidence is the job.
+
+Evidence should go into:
+- sidecar proof ledgers
+- receipts
+- source links
+- hashes
+- trace rows
+- evidence index rows
+- compact proof notes
+
+Evidence must not:
+- become the main job unless evidence is the target
+- make Codex drop the active task
+- become loose report clutter
+- become duplicate truth
+- become hoarding
+- become a fourth active guide
+- become cleanup authority by identity
+
+Clean condition:
+Evidence collection is clean when it is bounded, indexed, tied to the active claim, and does not interrupt the one active task.
+
+Dirty condition:
+Evidence collection is dirty when it takes up hand-space, makes the worker lose the target, creates loose files nobody can route, or makes proof/history act like doctrine.
+
+2. FILE COUNT IS NOT BLOAT / UNINDEXED AUTHORITY IS BLOAT
+
+Meaning:
+The number of files is not the real bloat test.
+
+Many files can be clean if the system can keep up with them.
+
+A small number of files can be dirty if their roles, authority, status, and paths are unclear.
+
+A file is clean only when it has:
+- home
+- job
+- key
+- source or parent
+- timestamp if available
+- role/status
+- evidence link
+- index row
+- next gate
+- active/reference/proof/parked/blocked state
+
+Bloat is:
+- unindexed material
+- unowned material
+- unrole-mapped files
+- unreceipted changes
+- stale copies
+- duplicate authority
+- hard-to-find proof
+- unclear active truth
+- files that exist but cannot be routed
+- evidence that becomes doctrine by identity
+
+Clean condition:
+File creation is clean when the master index, receipt system, and lane map can still route it.
+
+Dirty condition:
+File creation is dirty when the system cannot tell what the file is, why it exists, whether it is active, what it proves, or what gate controls it.
+
+3. STOP / DREAM / GROW CONTROL SYSTEM
+
+Meaning:
+The project needs explicit modes for when to stop, when to dream, and when to grow.
+
+STOP means:
+Close, hold, verify, yield, or stop expanding because the active cycle needs closure, proof, risk control, or user judgment.
+
+DREAM means:
+Generate ideas only into a parked, idea-pool, or rest-stop lane.
+Dream mode does not approve action.
+Dream mode does not edit active guides.
+Dream mode does not perform cleanup.
+Dream mode does not promote.
+Dream mode does not create active truth.
+
+GROW means:
+Deliberately build, promote, connect, or expand only after evidence, authority, bridge, approval, and next-state gates pass.
+
+Mode decision should consider:
+- active target
+- evidence state
+- risk level
+- user approval
+- cycle state
+- hand-space load
+- available clean bridge
+- whether the item is source-ore, proof, candidate, active conduct, or blocked material
+
+Clean condition:
+The system knows whether it is stopping, dreaming, or growing before it acts.
+
+Dirty condition:
+The system dreams while pretending to build, grows before proof, or stops without preserving the next gate.
+
+4. ONE-TASK FULL-CYCLE IDEA POOL / CLEAN MERGE
+
+Meaning:
+The system should still work one task at a time, but that one task can complete a full cycle.
+
+A clean full cycle can:
+- read the original
+- produce the first work product
+- review its own work against the original/current source
+- create an improvement pile
+- classify improvements
+- merge the best ideas into one cleaner plate
+- park or reject the rest
+- leave sidecar evidence
+
+This is not multitasking.
+It is one closed cycle.
+
+At most, the refinement pass should consider three paths:
+- front/current target
+- current produced work
+- old/source path that led to the current path
+
+Clean condition:
+Many possible improvements can be pooled because they are all tied to one active task.
+
+Dirty condition:
+The cycle becomes scattered, starts multiple jobs, follows unrelated branches, or merges ideas without classification.
+
+5. FILE STRUCTURE MUST MIRROR PROCESS FLOW
+
+Meaning:
+The project file structure should follow the same process the system uses.
+
+The future knowledge stack should not be random folders.
+It should be a flow map.
+
+Potential flow:
+00_FRONT_DOOR
+01_CURRENT_CONDUCT
+02_ACTIVE_TARGETS
+03_SIDE_EVIDENCE
+04_IDEA_POOL
+05_SORTED_PILES
+06_CLEAN_MERGE_PLATE
+07_BRIDGES
+08_REST_STOPS
+09_PARKING
+10_BLOCKED_QUARANTINED
+99_MASTER_INDEX
+
+Each lane should define:
+- HOME
+- JOB
+- KEY
+- PARKING
+- REST STOP if needed
+- NEXT GATE
+- what belongs there
+- what must not belong there
+- evidence required
+- dirty-milk risk
+- bridge out
+- bridge in
+
+Clean condition:
+The file structure flows with the same cycle as the work.
+
+Dirty condition:
+The folder structure becomes a pile of categories that does not help decide what to stop, dream, grow, prove, merge, park, or block.
+
+6. CLEAN BRIDGES FOR GROWTH IDEAS
+
+Meaning:
+If something does not naturally fit the current flow, do not force it in.
+Create a clean bridge only when the bridge has a job and proof need.
+
+A clean bridge names:
+- source lane
+- destination lane
+- reason for movement
+- evidence required
+- authority required
+- what changes
+- what does not change
+- what would make the bridge dirty
+- close condition
+
+Clean condition:
+A bridge serves flow without creating hidden authority.
+
+Dirty condition:
+A bridge becomes a shortcut around proof, approval, or placement.
+
+Important boundary:
+This concept stack does not create the final knowledge stack yet.
+It only saves the missing parts that Draft 1 should account for in a later refined model.
+
+Recommended next action after this local save:
+Create PROJECT_KNOWLEDGE_STACK_DRAFT_1B_REFINED_MODEL_20260510 using:
+- Draft 1 architecture
+- this concept stack
+- sidecar evidence
+- file-count-is-not-bloat rule
+- stop/dream/grow modes
+- one-task full-cycle idea pool
+- flow-mirroring file structure
+- clean bridges

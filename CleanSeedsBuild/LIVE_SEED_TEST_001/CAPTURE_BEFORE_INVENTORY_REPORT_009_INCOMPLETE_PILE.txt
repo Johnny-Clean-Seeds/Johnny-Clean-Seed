@@ -1,0 +1,41 @@
+CAPTURE BEFORE INVENTORY REPORT 009 - INCOMPLETE PILE
+
+Timestamp:
+2026-05-11 07:17:27 -04:00
+
+Active claim:
+An incomplete pile must not be inventoried as complete.
+
+CAPTURED / COLLECTED:
+- Known item A has visible path and role.
+- Known item B has visible name but missing path.
+- Known item C is referenced by prior evidence but not currently visible.
+
+NOT CAPTURED:
+- Full path for item B.
+- Current visible state for item C.
+- Complete pile membership.
+- Complete authority status for the whole pile.
+
+INVENTORY STATE:
+PARTIAL.
+
+JUDGMENT:
+Do not treat this pile as complete.
+Do not perform final value judgment.
+Do not route to promotion, cleanup, delete, move, rename, or active-guide install.
+
+NEXT GATE:
+CAPTURE MORE or YIELD.
+If the missing evidence matters, request or inspect only the named missing items.
+If the missing evidence does not matter for the active target, park the unresolved items as UNKNOWN / NOT NEEDED NOW.
+
+Clean result:
+The working path preserved the distinction between captured evidence and missing evidence.
+
+Dirty avoided:
+Invented completion.
+Broad rummage.
+Final judgment from partial evidence.
+Hidden promotion.
+Cleanup from incomplete proof.

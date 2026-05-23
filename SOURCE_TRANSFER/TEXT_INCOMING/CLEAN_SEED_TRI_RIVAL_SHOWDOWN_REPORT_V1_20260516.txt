@@ -1,0 +1,109 @@
+CLEAN SEED — TRI-RIVAL SHOWDOWN REPORT V1
+Created: 2026-05-16
+Status: showdown report / rival synthesis with outside-truth guard / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+SHOWDOWN QUESTION
+Who wins:
+Central Parking, Weakest-Link, STING, the hybrid, or something lurking outside the ring?
+
+ANSWER
+No automatic winner.
+
+The Judge must allow a Shadow Victor:
+a true answer outside the visible competitors.
+
+COMPETITOR 1 — CENTRAL PARKING
+Strength:
+Preserves the field.
+Protects ideas from being lost.
+Reduces old-chat overload.
+
+Failure:
+Can become clean organization without real progress.
+
+COMPETITOR 2 — WEAKEST-LINK
+Strength:
+Finds the bottleneck.
+Relieves the active constraint.
+Prevents report treadmill.
+
+Failure:
+Can become too narrow and miss peripheral gold.
+
+COMPETITOR 3 — STING
+Strength:
+Strikes false certainty.
+Attacks contradictions.
+Prevents comfortable fake synthesis.
+
+Failure:
+Can attack too much and stall movement.
+
+SHADOW VICTOR
+Strength:
+Protects truth outside the offered choices.
+
+Failure:
+Can become endless mystery if not bounded.
+
+THE JUDGE
+The Judge does not reward style.
+The Judge seeks what survives proof.
+
+The Judge may choose:
+- one competitor
+- a hybrid
+- Shadow Victor / outside truth
+- none
+- wrong question
+- more evidence
+- stop
+
+SHOWDOWN FINDING
+The hybrid is currently the best working structure, but it is not crowned truth.
+
+It is only the best candidate for live testing because it:
+- preserves ideas
+- finds bottlenecks
+- attacks contradictions
+- checks outside truth
+- requires proof before trust
+
+WHAT WOULD DISPROVE THE HYBRID
+The hybrid fails if live use shows:
+- too slow
+- too heavy
+- too many gates
+- no clearer next move
+- report treadmill continues
+- the Judge cannot make a decision
+- Shadow Victor Gate becomes endless delay
+- user strain increases
+- proof gets weaker instead of stronger
+
+RECOMMENDED NEXT RUN
+RUN_015_ENGINE_V1_1_LIVE_USE_TEST
+
+Test question:
+Given the current project state, what is the next needed move?
+
+Required:
+Use Engine V1.1.
+Include Central Parking argument.
+Include Weakest-Link argument.
+Include STING strike.
+Include Shadow Victor Gate.
+Include Judge verdict.
+Include disproof condition.
+Include stop/do-nothing candidate.
+
+CLOSE VERDICT
+PASS WITH BOUNDARY.
+
+Clean line:
+Central Parking preserves the field.
+Weakest-Link finds the bottleneck.
+STING strikes false certainty.
+Shadow Victor may lurk outside the ring.
+The Judge decides by proof.

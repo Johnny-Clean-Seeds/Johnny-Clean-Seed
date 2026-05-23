@@ -1,0 +1,6 @@
+MAIL_ROOM WATCHER TEST PACKAGE
+
+Verdict: PASS CANDIDATE / WATCHER SHOULD DELIVER THIS PACKAGE
+Purpose: Test whether MAIL_ROOM WATCHER V0 detects PACKAGE_V0 on clipboard and delivers it through the existing receiver.
+ExpectedResult: PASS / PACKAGE DELIVERED
+Boundary: Desktop 123 MAIL_ROOM only; watcher does not create project authority.

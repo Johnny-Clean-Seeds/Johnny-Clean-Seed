@@ -1,0 +1,25 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260513020143
+Username: DESKTOP-P9DOBMM\13527
+RunAs User: DESKTOP-P9DOBMM\13527
+Configuration Name: 
+Machine: DESKTOP-P9DOBMM (Microsoft Windows NT 10.0.19045.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionPolicy Bypass -File C:\CleanSeedsBuild\Upload-NeocitiesCleanSiteGuarded.ps1 -Auth Basic
+Process ID: 5072
+PSVersion: 5.1.19041.6456
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.6456
+BuildVersion: 10.0.19041.6456
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+attempt log: C:\CleanSeedsBuild\NEOCITIES_CLEAN_SITE_UPLOAD_ATTEMPT_20260513_020143.log
+FAIL
+index.html does not contain the expected mom-front and public-reader markers
+**********************
+Windows PowerShell transcript end
+End time: 20260513020143
+**********************

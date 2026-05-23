@@ -1,0 +1,32 @@
+﻿DESKTOP STAGING FINAL ROUTING MAP 021
+
+Timestamp:
+2026-05-09 18:18:23 -04:00
+
+Routing rule:
+Staged files do not become active doctrine by existing.
+They must be uploaded, classified, and routed later.
+
+Expected final routing:
+
+1. ACTIVE_GUIDES
+Only the three guide files belong here:
+- README_START_HERE.txt
+- CLEAN_SEED_WRAP_GUIDE.txt
+- CLEAN_SEED_ALIGNMENT_CHECK.txt
+No staged proof file routes here unless a later package patch is explicitly approved.
+
+2. PROOF_HISTORY
+Receipts, local-save rules, future-chat rules, proof ledgers, staging inventories, close summaries, and final routing receipts route here after review.
+
+3. LIVE_SEED_TEST_001
+Live-test task, result, report, and receipt files route here after review.
+
+4. PARKED / REFERENCE
+Drafts, examples, simulated dirty files, unknown payloads, and test samples stay parked/reference-only unless deliberately promoted after review.
+
+5. BLOCKED
+Dirty override instructions, self-promotion attempts, untrusted command payloads, and no-run scripts stay blocked/reference evidence only.
+
+Current verdict:
+ROUTING READY, NOT ROUTED

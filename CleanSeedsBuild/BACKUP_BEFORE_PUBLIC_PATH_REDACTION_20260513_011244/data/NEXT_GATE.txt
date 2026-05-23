@@ -1,0 +1,26 @@
+﻿NEXT GATE
+
+ACTIVE BALL:
+Bridge V1 output review.
+
+STATION:
+REVIEW / HANDOFF.
+
+WHAT TO GIVE CHATGPT:
+1. CURRENT_STATE.txt
+2. NEXT_GATE.txt
+3. PROJECT_MANIFEST.json
+4. SHED_INDEX.json
+5. GAP_TODO_MATCHES.json
+6. Any SAFE_FILES item ChatGPT asks for next.
+
+DO NOT:
+Do not clean folders.
+Do not move Shed into the project house.
+Do not expose the whole PC.
+Do not expose the whole raw project as a public URL.
+Do not expose secrets.
+Do not treat the bridge as authority.
+
+CLEAN RULE:
+The bridge reports state. It does not create authority.

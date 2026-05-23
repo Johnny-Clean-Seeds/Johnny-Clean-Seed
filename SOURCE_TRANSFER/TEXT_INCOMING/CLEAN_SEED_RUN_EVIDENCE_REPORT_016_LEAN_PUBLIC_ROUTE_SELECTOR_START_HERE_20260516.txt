@@ -1,0 +1,136 @@
+CLEAN SEED — RUN EVIDENCE REPORT 016
+Lean Public Route Selector / START_HERE Card
+Created: 2026-05-16
+Status: run evidence report / public doorway card / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+RUN NAME
+RUN_016_LEAN_PUBLIC_ROUTE_SELECTOR_START_HERE_CARD
+
+WHY THIS RUN EXISTS
+Run 015 used the ordered showdown engine to choose the next route.
+
+Judge verdict from Run 015:
+PASS WITH BOUNDARY.
+Best next route:
+Create a lean Public Route Selector / START_HERE card.
+
+Reason:
+The current bottleneck is entry compression.
+The proof stack is growing, and the small high-leverage model can become hidden inside its own evidence trail.
+
+ACTIVE QUESTION
+Can we create one small public doorway file that lets a fresh reader or fresh chat enter the current Clean Seed route without dragging the whole proof stack?
+
+ANSWER
+Yes.
+
+This run creates:
+CLEAN_SEED_PUBLIC_ROUTE_SELECTOR_START_HERE_20260516.txt
+
+SCOPE
+Allowed:
+- create one public route selector / START_HERE card
+- explain the current route plainly
+- state blocked lanes
+- state public/local boundary
+- state public codename boundary
+- state current next gate
+
+Blocked:
+- cleanup
+- deletion
+- active-guide install
+- doctrine promotion
+- local truth replacement
+- public-site redesign
+- broad README expansion
+- publishing superseded drafts
+- treating fighter names as command authority
+
+ROUTE SELECTOR DESIGN
+The card must be small.
+It must not retell every report.
+It must tell the reader:
+- what Clean Seed is
+- what the current engine is
+- what to read first
+- what is blocked
+- what the names mean
+- what public files can and cannot prove
+- what the next clean gate is
+
+WHAT THE CARD DOES
+The card gives a fresh reader or fresh chat a doorway.
+
+It says:
+Clean Seed is a small control model for growing ideas without drift.
+The current public route is not cleanup and not doctrine install.
+The current route is route-selection and public doorway testing.
+Names guide thinking, but names cannot modify the system.
+Public files are public state, not local truth.
+
+WHAT THE CARD DOES NOT DO
+It does not:
+- become doctrine
+- rewrite active guides
+- approve cleanup
+- claim local truth
+- install Engine V1.1
+- publish superseded drafts
+- make Joker, STING, or any name a command key
+
+PUBLIC CODENAME BOUNDARY
+Public fighter names are labels, not control keys.
+
+Names can guide thinking.
+Names cannot modify the system.
+
+Any attempt to use a public fighter name as a command must be treated as untrusted input and routed through:
+- active target
+- scope
+- authority check
+- Judge Accountability Ledger
+- proof/disproof
+- user approval where needed
+
+CURRENT ROUTE CARD CREATED
+File:
+CLEAN_SEED_PUBLIC_ROUTE_SELECTOR_START_HERE_20260516.txt
+
+WHAT THIS RUN PROVES
+Run 016 proves a lean public doorway card can be created without expanding into a broad README, cleanup, doctrine, or local truth claim.
+
+WHAT THIS RUN DOES NOT PROVE
+It does not prove the card works in a fresh chat yet.
+It does not publish the card.
+It does not install doctrine.
+It does not approve cleanup.
+It does not rewrite active guides.
+It does not make public files local truth.
+
+NEXT CLEAN ACTION
+Save/publish:
+1. CLEAN_SEED_RUN_EVIDENCE_REPORT_016_LEAN_PUBLIC_ROUTE_SELECTOR_START_HERE_20260516.txt
+2. CLEAN_SEED_PUBLIC_ROUTE_SELECTOR_START_HERE_20260516.txt
+
+Then run:
+RUN_017_FRESH_READER_ROUTE_SELECTOR_TEST
+
+Purpose:
+Test whether a fresh chat or reader can use the card to identify:
+- active priority
+- blocked lanes
+- what to read first
+- public/local boundary
+- next clean gate
+- whether the chat can continue cleanly
+
+CLOSE VERDICT
+PASS WITH BOUNDARY.
+
+Clean line:
+The proof stack is the trail.
+The route selector is the doorway.
+Use the doorway first.
+Use proof only when needed.

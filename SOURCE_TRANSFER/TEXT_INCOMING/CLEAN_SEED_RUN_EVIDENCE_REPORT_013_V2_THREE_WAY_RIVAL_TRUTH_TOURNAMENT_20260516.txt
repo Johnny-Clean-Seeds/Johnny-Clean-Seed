@@ -1,0 +1,207 @@
+CLEAN SEED — RUN EVIDENCE REPORT 013 V2
+Three-Way Rival Truth Tournament
+Created: 2026-05-16
+Status: run evidence report / adversarial engine tournament / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+RUN NAME
+RUN_013_V2_THREE_WAY_RIVAL_TRUTH_TOURNAMENT
+
+WHY THIS V2 EXISTS
+Run 013 V1 challenged the Central Parking and Next-Needed Engine V1 with one rival:
+Weakest-Link / Constraint Engine.
+
+Before Run 013 V1 was published, a new rival idea arrived:
+STING steps into the ring.
+
+This was playful language, but it carried a real control upgrade:
+do not let only two models define the field.
+Add a third adversarial competitor that hammers contradiction, conflict, deception, and false victory.
+
+The Judge must not pick a winner just because a contestant sounds strong.
+The Judge must know what counts as proof and may choose:
+- Central Parking
+- Weakest-Link
+- STING
+- a hybrid
+- none of them
+- a truth outside the three competitors
+
+ACTIVE QUESTION
+Does a three-way adversarial tournament expose deeper flaws than the two-engine challenge?
+
+ANSWER
+Yes.
+
+The two-way challenge found a useful rival:
+Weakest-Link prevents organized drift.
+
+The three-way challenge adds STING:
+STING prevents comfortable synthesis, false harmony, and premature victory.
+
+THREE COMPETITORS
+COMPETITOR 1 — CENTRAL PARKING / NEXT-NEEDED ENGINE
+Core job:
+Prevent idea loss, chat overload, and unparked thought fog.
+
+Core danger:
+Can become over-organized drift.
+
+COMPETITOR 2 — WEAKEST-LINK / CONSTRAINT ENGINE
+Core job:
+Find the active bottleneck and relieve it.
+
+Core danger:
+Can become too narrow and lose ideas that do not touch the current constraint.
+
+COMPETITOR 3 — STING / CONTRADICTION HAMMER ENGINE
+Core job:
+Attack assumptions, expose conflict, detect false winners, and force proof of truth.
+
+Core danger:
+Can become destructive, over-skeptical, or paralyze movement by attacking everything.
+
+STING CORE LINE
+Do not trust the clean-looking winner.
+Strike the contradiction.
+Expose the hidden falsehood.
+Force the Judge to prove why anything survives.
+
+WHAT STING ADDS
+STING asks:
+- What if all current models are wrong?
+- What contradiction is everyone avoiding?
+- What hidden assumption makes the winner look good?
+- What would make this whole tournament invalid?
+- What evidence would force the Judge to reject all three?
+- Is the winner true, or merely useful?
+- Is the model solving the real problem, or only the problem it is good at seeing?
+
+WHY STING MATTERS
+Central Parking can be too accepting.
+Weakest-Link can be too narrow.
+STING can reveal when both are optimizing the wrong frame.
+
+STING is not the final judge.
+STING is the attack dog against false certainty.
+
+THE JUDGE
+The Judge is not a fourth competitor.
+The Judge is the proof-control role.
+
+The Judge must decide:
+- what question is being judged
+- what counts as evidence
+- what counts as disproof
+- what is inside scope
+- what is outside scope
+- whether a competitor wins
+- whether a hybrid wins
+- whether none wins
+- whether the truth is outside all offered models
+
+JUDGE KNOWS WITH CAPITAL K ONLY WHEN:
+- the target question is named
+- proof standards are named
+- disproof conditions are named
+- all competitors were allowed to attack
+- hidden assumptions were surfaced
+- the winner explains the losers' strongest objections
+- the chosen result predicts the next needed move
+- the chosen result survives live verification
+- public/local truth boundaries stay intact
+- user approval and evidence agree
+
+If these are missing, the Judge does not Know.
+The Judge only suspects.
+
+TOURNAMENT LAW
+There does not have to be one of the three as victor.
+
+Possible verdicts:
+1. Central Parking wins.
+2. Weakest-Link wins.
+3. STING wins.
+4. Hybrid wins.
+5. None wins.
+6. Truth outside the competitors.
+7. More evidence needed.
+8. Field invalid / wrong question.
+
+WHY ONE TRUE VICTOR LANGUAGE IS DANGEROUS
+The user phrase says there is only one true victor because truth is one.
+
+Clean interpretation:
+There may be only one true answer to the active question.
+But the true answer may not be one of the offered models.
+
+Therefore:
+The Judge seeks truth, not contestant victory.
+
+FINDINGS AGAINST ENGINE V1
+Central Parking Engine V1 is useful but incomplete.
+
+Weakest-Link showed:
+Engine V1 can over-organize instead of relieving the bottleneck.
+
+STING showed:
+Engine V1 can create a clean-looking frame that hides whether the active question itself is wrong.
+
+Together, the rivals expose two risks:
+- organized drift
+- false-frame victory
+
+REQUIRED UPGRADE
+Before live trust, Engine V1 needs:
+1. Rival Challenger Gate
+2. Constraint-Relief Score
+3. STING Contradiction Strike
+4. Judge Proof Standard
+5. None-of-the-Above Verdict Option
+6. Disproof Condition for PASS
+7. Stop/Do-Nothing Candidate
+
+RECOMMENDED NEXT RUN
+RUN_014_ENGINE_V1_1_TRI_RIVAL_REFINEMENT
+
+Purpose:
+Revise Central Parking Engine V1 into V1.1 using:
+- Central Parking
+- Weakest-Link
+- STING
+- Judge proof standard
+
+Do not live-test V1 yet.
+
+WHAT THIS RUN PROVES
+Run 013 V2 proves the two-way rival challenge was not enough.
+A third adversarial model exposes false-frame risk.
+The Judge must be allowed to reject all contestants.
+
+WHAT THIS RUN DOES NOT PROVE
+It does not install STING as doctrine.
+It does not make play language authority.
+It does not prove STING is always right.
+It does not approve cleanup.
+It does not update active guides.
+It does not live-test the engine.
+It does not prove Engine V1.1 yet.
+
+OUTPUT CREATED
+CLEAN_SEED_THREE_WAY_RIVAL_TRUTH_TOURNAMENT_FINDINGS_V1_20260516.txt
+
+OUTPUT STATUS
+Tri-rival findings / proof-history first / publishable if approved.
+
+PUBLISH NOTE
+This V2 supersedes Run 013 V1 as the clean publish candidate.
+Do not publish Run 013 V1 unless preserving draft history is separately approved.
+
+CLOSE VERDICT
+PASS WITH TRI-RIVAL FINDINGS.
+
+Clean line:
+Central Parking preserves the field.
+Weakest-Link finds the bottleneck.
+STING strikes false certainty.
+The Judge seeks truth, not contestant victory.

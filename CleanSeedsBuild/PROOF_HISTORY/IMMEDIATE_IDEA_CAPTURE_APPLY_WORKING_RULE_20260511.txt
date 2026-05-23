@@ -1,0 +1,42 @@
+IMMEDIATE IDEA CAPTURE / APPLY WORKING RULE 20260511
+
+Timestamp:
+2026-05-11 07:08:14 -04:00
+
+Status:
+Proof-history working rule.
+Active in current session behavior by user instruction.
+Not active guide doctrine unless separately installed.
+Not CURRENT_TRUTH_INDEX.
+Not AGENTS.
+Not final PASS.
+
+Source idea:
+When a useful new idea appears during work, save it right away and apply it right away so it takes effect.
+
+Clean interpretation:
+New useful ideas should not stay only in chat.
+Capture them promptly in the correct lane.
+Apply them immediately inside the current approved scope when they do not require a blocked action.
+
+Boundary:
+Immediate apply does not override authority.
+Immediate apply does not authorize active-guide edits without approved scope.
+Immediate apply does not authorize CURRENT_TRUTH_INDEX edits without need.
+Immediate apply does not authorize AGENTS edits without approved scope.
+Immediate apply does not authorize deletion, movement, rename, folder creation, cleanup, script execution, proof-history promotion, or final PASS.
+
+Working use:
+- If the idea affects current behavior, follow it in the current session.
+- If the idea needs durable memory but is not approved active doctrine, save it as proof-history working guidance.
+- If the idea needs active doctrine, route it through active-guide placement and approval.
+- If the idea is risky, park or block it with reason.
+
+Clean state:
+Idea captured, lane named, authority boundary preserved, current behavior adjusted inside scope, next gate named.
+
+Dirty state:
+Idea stays only in chat, becomes hidden memory, gets installed without approval, or causes blocked actions.
+
+Next gate:
+Use this rule as current-session behavior. Consider active-guide placement only if repeated use proves it belongs there.

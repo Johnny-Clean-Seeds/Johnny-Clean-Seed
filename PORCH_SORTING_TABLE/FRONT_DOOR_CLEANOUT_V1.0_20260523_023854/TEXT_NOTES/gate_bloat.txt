@@ -1,0 +1,610 @@
+Read-only RECESS gatewalk. No save. No CURRENT. No PASS.
+
+Rope tied to this mystery:
+
+**How do we make gates actually useful without making another bloated gate-stack?**
+
+I used the existing map as the maze. The house already says every node/suit has a home, purpose, checks, allowed moves, blocked moves, neighbor routes, proof/status surface, return-home state, and Final Judge. It also says no node is king and every route must return home.  The old gate system says classify, route, wear the right suit, follow the fork by fit/risk/proof/boundary/active issue, execute smallest clean move, adopt/adapt/park/block live ideas, prove or stay blocked. 
+
+Big finding first:
+
+The gates do not mainly need more gates.
+
+They need **keys, neighbors, priority, and return-home discipline**.
+
+A gate without a key does not fire.
+A gate without a neighbor becomes a wall.
+A gate without priority fights other gates.
+A gate without return-home creates fog.
+A gate without proof becomes a vibe.
+A gate without Dressing Room testing becomes a costume that only looks good.
+
+So the unusual method for gates is:
+
+**Gate Keyring / Knotwalk**
+
+Every gate gets a keyring. The keyring tells me when that gate wakes up, what it accepts, what it blocks, what neighbor it hands to, what proof it needs, and how the object returns home. The Knotwalk keeps notes while we test gates across weird routes so we do not lose clues.
+
+The new gate algorithm:
+
+**KEY → OPEN → FILTER → FORK → STAMP → RETURN**
+
+KEY: what signal wakes this gate?
+OPEN: what object is allowed through?
+FILTER: what must be blocked or slowed?
+FORK: what neighbor gets the object next?
+STAMP: what proof/status mark does it leave?
+RETURN: where does the object go when the gate is done?
+
+Short bitstring:
+
+`K O F N P R`
+
+K = key found
+O = object allowed
+F = filtered
+N = neighbor chosen
+P = proof/status stamped
+R = returned home
+
+A clean gate pass is:
+
+`111111`
+
+A bad gate pass looks like:
+
+`100000` — key heard, nothing else done.
+`111000` — gate accepted object but did not route/prove/return.
+`111110` — almost done but homeless.
+`000000` — gate never fired.
+
+Now the big gate notes list.
+
+1. Router Gate
+
+Normal job: classify before acting.
+
+Clue: Router is the front brain. It decides the first lane. If Router misses object type, everything downstream gets weird.
+
+Failure: classifies the task vaguely but not the object. Example: “make kickoff” without deciding file vs chat text.
+
+Key: new task, correction, handoff, file, proof claim, mule return, RECESS request, smoke break.
+
+Upgrade: Router should ask two things, not one: “what task is this?” and “what object is in my hand?”
+
+Gate bitstring target: `KOFNPR = 111111`
+
+Cross-board use: every gate should inherit Router’s object-typing check.
+
+2. Front Door Gate
+
+Normal job: welcome dropped material, identify it, route it, leave root clean.
+
+Clue: Front Door is not storage. It is first-contact sorting.
+
+Failure: root clutter, dropped packages acting current, failed tools sitting with rule files, READY treated as CURRENT.
+
+Key: any dropped file/package, local folder material, tool output, mule return.
+
+Upgrade: Front Door should use “hello / what arrived / what it is / where next / return-home.” The Soft Suit map already says the Front Door must identify object type, route to READY/CURRENT/ledger/custody/receipt/failed tool/issue review, refuse READY as current, ring bell, and leave front door clean. 
+
+Cross-board use: every gate needs a “front door moment” before it acts.
+
+3. Links Ladder Gate
+
+Normal job: source → home → neighbor → proof → return-home → bell.
+
+Clue: this is the rope system already in the house.
+
+Failure: a gate makes a move but cannot explain source, home, proof, or return.
+
+Key: any meaningful object.
+
+Upgrade: use only needed rungs. Do not fake links. But never skip home/return on anything that changes state. The map explicitly defines these rungs and the short form `source -> home -> neighbor -> proof -> return-home -> bell if needed`. 
+
+Cross-board use: every gate output must carry at least source/home/return, and proof when it claims state.
+
+4. Stop / Fix / Verify Gate
+
+Normal job: when a problem appears, stop unrelated advancement, list issues, name active issue, weigh options, fix same problem, verify, resume or stay blocked.
+
+Clue: this is the emergency brake and repair bench.
+
+Failure: explaining instead of fixing, fixing side issue first, vague proof, future hope as fix.
+
+Key: user correction, proof mismatch, wrong surface, unclear route, repeated mistake, path/home conflict.
+
+Upgrade: Stop/Fix should not always stop the whole project. It stops unrelated advancement, fixes the active break, then resumes in smart order.
+
+Cross-board use: every gate needs a “if I fail, send to Stop/Fix” route.
+
+5. Smoke Break Gate
+
+Normal job: phase hold when tangled.
+
+Clue: Smoke Break is not a shutdown. It is a transition lung.
+
+Failure: treating smoke break as output, or treating it as stop forever.
+
+Key: phase finished but more work remains; route tangled; repeated correction; before paste/finalize; before next phase.
+
+Upgrade: after major phases: PAUSE / HOLD / WAIT BRIEFLY / DO NOT PASTE OR FINALIZE YET, review the phase, check across-board ideas, then continue.
+
+Cross-board use: all gates need mini smoke-break between phase outputs when the next step matters.
+
+6. Source-Link / Condense Gate
+
+Normal job: dense text/logs/files become linked atomic ideas.
+
+Clue: this gate is the normal digestive mouth.
+
+Failure: word-vomit carried forward, source lost, dense material compressed before harvested.
+
+Key: files, logs, transcript, mule report, big user burst.
+
+Upgrade: in normal mode it condenses. In RECESS mode it harvests first, then condenses later. Same gate, different mode order.
+
+Cross-board use: every gate that touches dense material must preserve source before digestion.
+
+7. Adopt / Adapt / Park / Block Gate
+
+Normal job: every live idea gets a route.
+
+Clue: this is the idea traffic cop.
+
+Failure: loose parking, dead parking, premature active rule, good idea lost in chat.
+
+Key: new correction, idea, metaphor, workflow change, rule candidate.
+
+Upgrade: add Priority Parking. PARK is not enough. Parked item needs source, state, priority, owner, and return trigger.
+
+Cross-board use: every gate should output ADOPT / ADAPT / PARK / BLOCK / MERGE / REVIEW, not vague “noted.”
+
+8. Idea Ledger Gate
+
+Normal job: broad ideas live in ledger; active rules live in map.
+
+Clue: ledger prevents idea loss and map bloat at the same time.
+
+Failure: every idea becomes a new active file; or ideas disappear in chat.
+
+Key: broad idea, partial idea, metaphor, warning, future method, emotional/smell signal.
+
+Upgrade: the ledger should become priority-aware. The ledger already defines states like RAW, TRIAGED, ADOPT, ADAPT, PARK, BLOCK, WATCH, MERGED, PROMOTED_TO_MAP, ARCHIVED, and RELEASED_TO_POINTER.  Add score/owner/return trigger to parked ideas.
+
+Cross-board use: any gate that cannot act now must ledger/park cleanly.
+
+9. Promotion Gate
+
+Normal job: decide whether an idea can become map behavior.
+
+Clue: promotion is the lock on the active map.
+
+Failure: good-sounding idea becomes rule too fast.
+
+Key: rule candidate, repeated useful pattern, mule-approved idea, behavior fix.
+
+Upgrade: add Dressing Room before promotion. Promotion asks what problem it solves, if already covered, type, affected node, map section, clean statement, what gets removed/merged, proof/behavior change, return-home, bell.  Dressing Room tests that before READY.
+
+Cross-board use: no big behavior rule enters map without try-on.
+
+10. Bell Gate
+
+Normal job: tell user action/triage/fog is waiting.
+
+Clue: bell is underused.
+
+Failure: assistant silently carries blocked state; user does not know action is waiting.
+
+Key: READY differs from CURRENT, ledger has RAW backlog, idea ready but not mapped, dropped file unclear, proof mismatch, fog rising, map growing spaghetti. 
+
+Upgrade: bell should fire for home/path conflict too.
+
+Current bell candidate: “BELL: Chat Soft Suit home is unresolved. READY updates stay blocked until accepted home is chosen or path-normalization is authorized.”
+
+Cross-board use: every gate should know whether user action is waiting.
+
+11. Stable Overwrite Gate
+
+Normal job: use stable names, avoid version clutter.
+
+Clue: this is anti-sprawl for files.
+
+Failure: final, final2, fixed, new, duplicate current candidates.
+
+Key: updated waiting file, repeated same-name update.
+
+Upgrade: applies to ideas too: same idea should merge, not duplicate. The Soft Suit map says stable names are `CHAT_SOFT_SUIT_MAP.md` and `CHAT_SOFT_SUIT_IDEA_LEDGER.md`, and updated waiting files overwrite same-name READY files. 
+
+Cross-board use: every repeated concept should merge into one stable object.
+
+12. Move / Sort Authorization Gate
+
+Normal job: when user says move/sort/take it away, provide local PowerShell help unless read-only/pause.
+
+Clue: user language can authorize action, but proof still matters.
+
+Failure: assistant freezes when move is authorized; or moves/claims local action without proof.
+
+Key: move, sort, take away, put there, clean up, current files are ready.
+
+Upgrade: combine with Precision Lock: object type + surface + source/destination + boundary before code.
+
+Cross-board use: any local action gate must separate authorization from proof.
+
+13. Code Delivery Gate
+
+Normal job: send clean local PowerShell only when needed, one code block when possible.
+
+Clue: this directly guards the “too many boxes / wrong surface” failure.
+
+Failure: long walls, parser traps, speech inside code, too many blocks, helper files not needed.
+
+Key: PowerShell/script/local move request.
+
+Upgrade: tie it to Delivery Surface Gate. Before code, ask: is this actually code, or is this a small kickoff text?
+
+Cross-board use: not every “make” means file/code.
+
+14. Proof / Final Judge Gate
+
+Normal job: proof must match the claim.
+
+Clue: this is the PASS lock.
+
+Failure: PASS with stale/missing/contradicted proof; DONE mistaken for PASS.
+
+Key: status report, receipt, hash, local run, mule closeout.
+
+Upgrade: make Final Judge inherit bitstring. If proof link or return-home is zero, PASS blocked.
+
+Cross-board use: every gate must end with honest state: PASS, REVIEW / NOT PASS, PARTIAL, BLOCKED, WAITING, NOT CURRENT YET.
+
+15. Blocked Moves Gate
+
+Normal job: protect boundaries.
+
+Clue: blocked moves are not “negative”; they keep the house from lying.
+
+Failure: CURRENT write without user, READY as current, Git/public/doctrine drift, root clutter, failed tools mixed with rules, old scaffold chase, duplicate map versions, hidden current truth. 
+
+Key: anything tempting but unsafe.
+
+Upgrade: blocked moves should produce a return-home state, not just “no.”
+
+Cross-board use: every gate should know its forbidden outputs.
+
+16. Support / Source Policy Gate
+
+Normal job: old 00–16 and drop-copy mirrors are source/support/custody, not active unless needed.
+
+Clue: this prevents old chat/scaffold fog without deleting old evidence.
+
+Failure: chasing old scaffold; or burning useful source too early.
+
+Key: old package, support mirror, old chat weight, source history.
+
+Upgrade: because user said don’t remove old chat weight yet, hold old chat/source as review evidence until mule judgment places it.
+
+Cross-board use: every gate should ask: active truth or source/support?
+
+17. Weight Release / Fog Gate
+
+Normal job: hold active only; release locked old weight when not needed.
+
+Clue: correct in normal mode, but currently modified by user instruction.
+
+Failure: dragging old weight forever; or releasing source before judgment.
+
+Key: old saved material, fog signs, stale citations, active slowdown.
+
+Upgrade: add “hold-for-review exception.” If user says hold old chat weight or mule must judge it, do not release yet.
+
+Cross-board use: old weight is released only after useful meaning has a safe home.
+
+18. RECESS Gate
+
+Normal job: controlled play / edge testing / weird walk.
+
+Clue: this is not normal task mode.
+
+Failure: digest before harvest; clean final model too early.
+
+Key: thought experiment, weird way, play, puzzle, go all routes, find unusual method.
+
+Upgrade: RECESS order: harvest wide, broaden, prioritize, park overflow, Black Hole Digest, return home.
+
+Cross-board use: mode changes order. Normal work loads light first; RECESS harvests first.
+
+19. Broadening Gate
+
+Normal job: expand wording and loopholes before compression.
+
+Clue: this is where hidden bypasses get caught.
+
+Failure: narrow wording; one-shape rule; no actor/action/object variants; no opposites.
+
+Key: rule writing, gate design, correction, mule instruction, prompt update.
+
+Upgrade: every gate must pass Broadening before being promoted: aliases, opposites, actor-action-object, lane/state, bypass, failure mode, compression.
+
+Cross-board use: all rules/gates/maps/handoffs should broaden first, then compress.
+
+20. Priority Gate
+
+Normal job: decide what matters more.
+
+Clue: priority is needed because many ideas can be true at once.
+
+Failure: parking as graveyard; curiosity outranks blocker; boundary risk treated as normal note.
+
+Key: idea overflow, TODO, mule return, blocked path, repeated failure.
+
+Upgrade: use score: Boundary, Blocker, Repeat, System Leverage, User Waiting, Readiness, Proof Ready, minus Risk and Bloat Cost.
+
+Cross-board use: every park/block/merge decision should carry priority.
+
+21. Black Hole Digest Gate
+
+Normal job: condense bloat into growth.
+
+Clue: black hole is not deletion.
+
+Failure: deletes source; compresses too early; becomes king gate.
+
+Key: after RECESS harvest and priority scoring.
+
+Upgrade: absorb, dedupe, cluster, rank, compress, name, route, output, archive source, return home.
+
+Cross-board use: after broad harvests, run digest before final answer or READY candidate.
+
+22. Dressing Room Gate
+
+Normal job: try contender suits before accepting important behavior fixes.
+
+Clue: prevents “first good rule wins.”
+
+Failure: Precision Lock accepted just because it sounds clean; big suit worn without testing.
+
+Key: behavior fix, pressure fix, smoke break fix, gate fix, Soft Suit change.
+
+Upgrade: compare contenders by appeal, failure, fit, surface effects, pressure behavior, bloat, proof. Wear winner, observe errors, wash.
+
+Cross-board use: all important rule candidates should go through Dressing Room.
+
+23. Precision Lock Gate
+
+Normal job: convert pressure into precision.
+
+Clue: pressure is not speed command.
+
+Failure: correction pressure -> fast patch -> wrong surface.
+
+Key: sharp correction, recent error, urgent user tone, narrow output surface.
+
+Upgrade: object type, delivery surface, boundary, one clean move.
+
+Cross-board use: use before files, kickoffs, proof claims, code, and smoke break replies.
+
+24. Delivery Surface Gate
+
+Normal job: choose correct form of output.
+
+Clue: small kickoff text is not a file.
+
+Failure: file when chat text needed; many boxes when one is needed; explanation when hold needed.
+
+Key: send file, send kickoff, paste, drop, code, pause, smoke break.
+
+Upgrade: object/surface matrix:
+file = download/drop artifact;
+kickoff = pasteable chat text;
+rule correction = behavior/update candidate;
+smoke break = state hold;
+receipt = proof artifact;
+mule packet = file or one paste block by request.
+
+Cross-board use: every output passes surface check.
+
+25. One-Box Gate
+
+Normal job: prevent fragmented output.
+
+Clue: user explicitly hates multiple boxes for one task.
+
+Failure: addendum boxes, variants, assembly burden.
+
+Key: simple pasteable task.
+
+Upgrade: one task = one copy block when a copy block is needed.
+
+Cross-board use: code, mule kickoff, commands, handoffs.
+
+26. Same-Shape Comparison Gate
+
+Normal job: know what changed by comparing the same surfaces before/after.
+
+Clue: without same-shape comparison, after-walk lies.
+
+Failure: baseline checks one thing, after checks another.
+
+Key: path decision, Soft Suit update, mule-before/mule-after, porch closeout.
+
+Upgrade: compare chosen home, CURRENT hash, READY status, support mirrors, custody, old chat weight, priority queue, return-home, final judge.
+
+Cross-board use: every change package needs before/after same-shape.
+
+27. Home/Path Gate
+
+Normal job: decide where the body lives.
+
+Clue: current boss.
+
+Failure: `Desktop\GPT_Prompts` vs `Desktop\123\GPT_Prompts` dual truth.
+
+Key: path conflict, READY blocked, map text conflict, local inspected tree mismatch.
+
+Upgrade: treat path as first-class gate. No READY content until accepted home or path-normalization plan.
+
+Cross-board use: every local system needs one primary home; secondary path must be support/pointer only.
+
+28. Return-Home Gate
+
+Normal job: nothing ends homeless.
+
+Clue: this is the law under all gates.
+
+Failure: parked with no return trigger; source without custody; READY without bell; issue without owner.
+
+Key: every object.
+
+Upgrade: no gate can call complete until object state is one of: CURRENT, READY, ledgered, custody, receipt, failed tool, issue review, blocked, waiting for user, archived, source-only.
+
+Cross-board use: universal.
+
+29. Old Chat Weight Hold Gate
+
+Normal job: hold source until judgment.
+
+Clue: current user instruction: do not remove old chat weight yet.
+
+Failure: burning/releasing sequence before mule judges pressure/smoke/dressing-room bundle.
+
+Key: live correction chain, new rule bundle, mule review pending.
+
+Upgrade: old chat weight held as source evidence until useful meaning is preserved and mule/user judgment completes.
+
+Cross-board use: burn-notes only after safe home exists.
+
+30. Gate-of-Gates Candidate
+
+This is the unusual new one.
+
+Name: **Gate Keyring / Knotwalk**
+
+Purpose: every gate gets a key, allowed object, filter, neighbor, proof stamp, and return-home.
+
+Algorithm:
+
+KEY: what wakes this gate?
+OBJECT: what does it handle?
+FILTER: what does it block?
+NEIGHBOR: where does it hand off?
+STAMP: what proof/status does it leave?
+RETURN: where does the object end?
+
+Bitstring:
+
+`K O F N P R`
+
+Rule:
+
+No new gate is accepted unless it can answer all six.
+
+This is not a king gate. It is a gate inspection method.
+
+Big list of mixed gate combinations worth testing:
+
+Router + Delivery Surface = prevents file/text mixups.
+Router + Precision Lock = prevents fast wrong output after correction.
+Router + Home/Path = prevents routing to wrong body.
+Front Door + Stable Overwrite = prevents root clutter and duplicate versions.
+Front Door + Bell = tells user when action waits.
+Links Ladder + Ariadne Rope = lets exploration go far without losing way back.
+Links Ladder + Proof Gate = prevents vibe proof.
+Stop/Fix + Same-Problem Application = prevents abstract rule writing.
+Stop/Fix + Smoke Break = reset, then return to active issue.
+Smoke Break + Across-Board Check = catches good ideas before next phase.
+Source-Link + RECESS = harvest wide without losing source.
+Source-Link + Black Hole Digest = source preserved while bloat condenses.
+Adopt/Adapt/Park/Block + Priority = no loose parking.
+Idea Ledger + Priority Queue = TODO becomes active review system.
+Promotion Gate + Dressing Room = try before installing.
+Bell + Home/Path = path contradiction becomes visible user decision.
+Blocked Moves + Final Judge = prevents false PASS.
+Weight Release + Old Chat Hold = normal release with review exception.
+Code Delivery + One-Box = fewer cluttered outputs.
+Move Authorization + Proof = local action allowed but not claimed until proof.
+Black Hole Digest + Stable Names = compressed output merges, not duplicates.
+Dressing Room + Precision Lock = pressure fix tested before wearing.
+RECESS + Broadening = weird routes allowed with controlled expansion.
+RECESS + Priority = exploration does not become curiosity swamp.
+RECESS + Black Hole = play becomes growth.
+Home/Path + Same-Shape = know when path fix actually worked.
+Return-Home + every gate = no homeless objects.
+
+Clues found inside gates:
+
+The Router wants object typing, not just task typing.
+
+The Front Door wants a greeting, not storage.
+
+Links Ladder is already the rope.
+
+Stop/Fix is not “stop forever”; it is same-problem repair.
+
+Smoke Break is not a task answer; it is phase breathing.
+
+Source-Link is normal digestion; RECESS is harvest-before-digestion.
+
+Adopt/Adapt/Park/Block needs priority added.
+
+Ledger is the bloat-safe field.
+
+Promotion needs Dressing Room.
+
+Bell is underused.
+
+Stable Overwrite applies to concepts, not just files.
+
+Delivery Surface is a real gate, not a style preference.
+
+Home/Path is the current boss.
+
+Black Hole is an organ, not a throne.
+
+Return-Home is the law under everything.
+
+Gate Keyring / Knotwalk is the best unusual method for gates.
+
+Big priority list from this gatewalk:
+
+Priority 1: Home/Path Gate.
+Reason: blocks READY and placement.
+
+Priority 2: Delivery Surface + Precision Lock.
+Reason: prevents repeated chat/file/box mistakes.
+
+Priority 3: Smoke Break Phase Hold.
+Reason: prevents premature finalize between phases.
+
+Priority 4: Priority Parking.
+Reason: prevents parked ideas from dying.
+
+Priority 5: Black Hole Digest.
+Reason: lets RECESS bloat become growth.
+
+Priority 6: Dressing Room.
+Reason: prevents first-good-rule adoption.
+
+Priority 7: Gate Keyring / Knotwalk.
+Reason: makes every gate prove its key, object, filter, neighbor, proof, return.
+
+Priority 8: Old Chat Weight Hold.
+Reason: source must stay until mule judgment.
+
+Priority 9: Same-Shape Comparison.
+Reason: proves what changed.
+
+Priority 10: Across-Board Transfer.
+Reason: good ideas must not stay trapped in one gate.
+
+The new rule candidate:
+
+**Every gate needs a keyring. Before using or creating a gate, identify its key, object, filter, neighbor, proof stamp, and return-home state. During RECESS, walk gates with Ariadne Rope: keep knot-notes, branch forward/back/side/weird, score clues, and only Black Hole Digest after the walk. A gate that cannot return home goes to Issue Review, not active law.**
+
+Shortest form:
+
+**No key, no gate. No neighbor, no route. No proof, no PASS. No return-home, no done.**
+
+Final Judge: **BIG GATE RECESS NOTES / REVIEW CANDIDATE / NOT SAVED / NOT CURRENT / NOT PASS.**

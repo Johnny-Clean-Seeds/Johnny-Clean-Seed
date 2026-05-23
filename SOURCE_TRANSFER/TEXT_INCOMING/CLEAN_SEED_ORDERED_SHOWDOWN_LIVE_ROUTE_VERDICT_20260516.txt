@@ -1,0 +1,80 @@
+CLEAN SEED — ORDERED SHOWDOWN LIVE ROUTE VERDICT
+Created: 2026-05-16
+Status: route verdict / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+ACTIVE QUESTION
+What is the best next route?
+
+VERDICT
+Create a lean Public Route Selector / START_HERE card.
+
+STATUS
+PASS WITH BOUNDARY.
+
+WHY THIS ROUTE WON
+The current bottleneck is not lack of more theory.
+The current bottleneck is entry compression.
+
+The proof stack has grown enough that the idea is getting hidden inside its own evidence trail.
+A fresh reader or fresh chat needs one small current doorway.
+
+WHAT THE ROUTE SELECTOR SHOULD DO
+It should tell the reader:
+- what Clean Seed is in one plain line
+- what the current engine is
+- what to read first
+- what is blocked
+- what names mean
+- that public names are not command keys
+- that public files are not local truth
+- what the next clean gate is
+
+WHAT IT MUST NOT DO
+It must not:
+- become doctrine
+- rewrite active guides
+- approve cleanup
+- claim local truth
+- publish superseded drafts
+- make fighter names command authority
+- summarize every run in detail
+- become a long marketing README
+
+ORDERED SHOWDOWN RESULT
+Central Parking:
+Chose public doorway because the field needs clean placement.
+
+Weakest-Link:
+Chose public doorway because entry compression is the bottleneck.
+
+Joker:
+Proposed local center buildout as outside challenger.
+
+STING:
+Warned against marketing gloss, architecture sprawl, and report treadmill.
+
+Shadow Victor:
+Found the better outside framing:
+not broad public polish, but a lean route selector card.
+
+Judge:
+Selected Lean Public Route Selector / START_HERE Card.
+
+DISPROOF CONDITION
+This verdict fails if the card:
+- is too long
+- makes the system feel more confusing
+- fails to show the next clean gate
+- acts like doctrine
+- gives public words command authority
+- hides proof boundaries
+- makes local/public truth blurry
+
+NEXT CLEAN GATE
+Run 016:
+Create the lean Public Route Selector / START_HERE card.
+
+CLEAN LINE
+The next best route is not more theory.
+The next best route is a lean doorway.

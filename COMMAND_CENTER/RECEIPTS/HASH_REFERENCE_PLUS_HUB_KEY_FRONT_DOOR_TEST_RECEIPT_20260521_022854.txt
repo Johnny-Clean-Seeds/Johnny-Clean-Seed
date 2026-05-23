@@ -1,0 +1,22 @@
+HASH REFERENCE PLUS HUB KEY FRONT-DOOR TEST RECEIPT
+Date: 2026-05-21T02:28:55.1029923-04:00
+
+Verdict: SAVED LOCAL COMMAND CENTER CARD
+
+Card:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\PICKUP\HASH_REFERENCE_PLUS_HUB_KEY_FRONT_DOOR_TEST_20260521_022854.md
+
+Card SHA256:
+EE3671F1FDD6CD4AAE3745DEBAA91826B0617F38133A66AE3020F875C2546DB4
+
+Boundary:
+COMMAND_CENTER local save only.
+No Mr.Kleen repo write.
+No git add/commit/push.
+No doctrine install.
+No junction/symlink teleporter.
+No bridge permission expansion.
+
+Core correction:
+Hash is a seal/reference, not a hub key.
+Hub key requires path + pickup card + expected hash + read order + boundary + readback proof.

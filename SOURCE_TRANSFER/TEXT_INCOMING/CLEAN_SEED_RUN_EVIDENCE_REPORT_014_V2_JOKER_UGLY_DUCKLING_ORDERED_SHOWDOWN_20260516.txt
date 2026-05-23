@@ -1,0 +1,252 @@
+CLEAN SEED — RUN EVIDENCE REPORT 014 V2
+Joker / Ugly Duckling Ordered Showdown
+Created: 2026-05-16
+Status: run evidence report / engine refinement / ordered showdown / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+RUN NAME
+RUN_014_V2_JOKER_UGLY_DUCKLING_ORDERED_SHOWDOWN
+
+WHY THIS V2 EXISTS
+Run 014 refined Engine V1 into a tri-rival model:
+- Central Parking
+- Weakest-Link
+- STING
+- Shadow Victor
+- Judge
+
+Before publishing, the user corrected the model.
+
+Correction 1:
+Do not add a Referee. The Judge already carries fairness, accountability, proof, and no-middle PASS.
+
+Correction 2:
+Joker / Wildcard is not a Judge layer. Joker goes into the fight as a fighter.
+
+Correction 3:
+Ugly Duckling, Accountability Ledger, and No-Middle PASS are Judge layers.
+
+Correction 4:
+Fighter order matters. The order changes what each fighter can see, attack, preserve, or escape.
+
+Therefore this file supersedes the unpublished Run 014 draft.
+
+ACTIVE QUESTION
+How should the showdown engine run the fighters in the right order while preserving outside ideas, protecting ugly future value, and still letting the Judge decide by proof?
+
+ANSWER
+Use an ordered showdown.
+
+Correct order:
+1. Central Parking maps and preserves the field.
+2. Weakest-Link names the active bottleneck.
+3. Joker / Wildcard introduces the outside challenger.
+4. STING attacks every visible claim, including Joker.
+5. Shadow Victor Gate checks whether truth is still outside the whole ring.
+6. Judge uses accountability ledger and rules PASS or no PASS.
+
+ORDER LAW
+The order matters because:
+- Central Parking must map the field before bottleneck judgment.
+- Weakest-Link must name the constraint before Joker can challenge or widen it.
+- Joker must enter before STING so Joker does not escape attack.
+- STING must attack before the Judge so false certainty does not reach verdict untouched.
+- Shadow Victor must run before verdict so the Judge can reject the whole visible field.
+- Judge must rule last with papers, proof, disproof, and no-middle PASS.
+
+FIGHTERS
+
+CENTRAL PARKING
+Role:
+Preserves the field and prevents idea loss.
+
+Brings:
+- idea map
+- parking status
+- active center candidate
+- what must not be lost
+
+Risk:
+Can over-organize and confuse clean placement with progress.
+
+WEAKEST-LINK
+Role:
+Finds the active bottleneck.
+
+Brings:
+- constraint claim
+- bottleneck evidence
+- smallest relieving move
+- risk if bottleneck is ignored
+
+Risk:
+Can become too narrow and miss peripheral gold.
+
+JOKER / WILDCARD
+Role:
+Throws in the outside challenger.
+
+Brings:
+- strange new idea
+- uninvited option
+- ugly possible future winner
+- frame-breaking possibility
+
+Risk:
+Can become novelty, chaos, or shiny distraction.
+
+STING
+Role:
+Strikes false certainty.
+
+Brings:
+- contradiction attack
+- hidden-assumption attack
+- strongest objection
+- disproof pressure
+
+Risk:
+Can over-attack and paralyze movement.
+
+SHADOW VICTOR GATE
+Role:
+Protects the possibility that truth is still outside the ring.
+
+Brings:
+- none-of-the-above pressure
+- wrong-question check
+- outside-truth check
+- forced-hybrid warning
+
+Risk:
+Can become endless mystery if not bounded.
+
+JUDGE
+Role:
+Allows all fighters to answer, then rules by proof.
+
+Judge layers:
+- Accountability Ledger
+- Ugly Duckling Gate
+- No-Middle PASS Rule
+- proof/disproof checklist
+- scope and boundary check
+- final verdict
+
+NO REFEREE
+No Referee is added.
+The Judge already ensures accountability.
+A Referee would be another process object and may block progress.
+
+JUDGE ACCOUNTABILITY LEDGER
+Before verdict, the Judge records:
+- active question
+- scope
+- fighter order used
+- each fighter claim
+- each fighter evidence
+- each fighter risk
+- each fighter disproof condition
+- what happens if we do nothing
+- what looks ugly but may grow
+- what is false
+- what is partial
+- what is unknown
+- what earns PASS, if anything
+
+NO-MIDDLE PASS RULE
+There is no middle PASS.
+
+Possible statuses:
+- PASS
+- FAIL
+- PARTIAL
+- YIELD
+- BLOCKED
+- PARKED
+- UGLY DUCKLING
+- UNKNOWN
+
+Only PASS gets crown/trust/use as proven.
+PARTIAL can survive.
+PARTIAL cannot wear the crown.
+
+UGLY DUCKLING GATE
+What looks bad now is not always bad later.
+
+The Judge must separate:
+- false
+- unready
+- ugly but possibly valuable
+- true enough to pass
+
+Ugly Duckling status means:
+- not proven
+- not trusted
+- not installed
+- not crowned
+- preserved with a future test condition
+
+The Judge does not crown ugly.
+The Judge does not kill ugly by appearance.
+The Judge parks it until proof shows what it becomes.
+
+ORDER FAILURE CONDITIONS
+The showdown is invalid if:
+- Joker enters after STING and escapes attack.
+- STING attacks before the claims are visible.
+- Weakest-Link names bottleneck before the field is mapped.
+- Central Parking decides truth instead of preserving the field.
+- Shadow Victor becomes endless delay.
+- Judge gives PARTIAL a PASS crown.
+- Judge rules without proof/disproof papers.
+
+WHAT THIS RUN PROVES
+Run 014 V2 proves the showdown engine needs:
+- Joker as fighter
+- Judge layers, not Referee
+- Ugly Duckling preservation
+- No-Middle PASS
+- fighter order control
+- Shadow Victor outside-truth protection
+
+WHAT THIS RUN DOES NOT PROVE
+It does not prove Engine V1.1 works in live use.
+It does not install doctrine.
+It does not update active guides.
+It does not approve cleanup.
+It does not crown Joker, STING, Central Parking, Weakest-Link, Shadow Victor, or hybrid.
+It does not publish anything by itself.
+
+OUTPUTS CREATED
+1. CLEAN_SEED_CENTRAL_PARKING_NEXT_NEEDED_ENGINE_V1_1_JOKER_ORDERED_20260516.txt
+2. CLEAN_SEED_SHOWDOWN_REPORT_V2_JOKER_UGLY_DUCKLING_ORDERED_20260516.txt
+
+OUTPUT STATUS
+Proof-history first.
+Publishable if approved.
+Candidate for Run 015 live-use test.
+
+NEXT CLEAN ACTION
+Save/publish:
+1. CLEAN_SEED_RUN_EVIDENCE_REPORT_014_V2_JOKER_UGLY_DUCKLING_ORDERED_SHOWDOWN_20260516.txt
+2. CLEAN_SEED_CENTRAL_PARKING_NEXT_NEEDED_ENGINE_V1_1_JOKER_ORDERED_20260516.txt
+3. CLEAN_SEED_SHOWDOWN_REPORT_V2_JOKER_UGLY_DUCKLING_ORDERED_20260516.txt
+
+Then run:
+RUN_015_ENGINE_V1_1_ORDERED_SHOWDOWN_LIVE_TEST
+
+Purpose:
+Feed the current project state into Engine V1.1 and force it to choose the next needed move using the ordered showdown.
+
+CLOSE VERDICT
+PASS WITH BOUNDARY.
+
+Clean line:
+Central Parking maps the field.
+Weakest-Link names the bottleneck.
+Joker throws the outside challenger.
+STING attacks every visible claim.
+Shadow Victor checks outside the ring.
+Judge rules by proof.
+Partial is not PASS.

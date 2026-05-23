@@ -1,0 +1,12 @@
+RAW TODO DROP TEST
+
+This file has no PACKAGE_V0 marker.
+
+Purpose:
+Prove MAIL_ROOM universal intake treats a normal dropped file as mail.
+
+Expected:
+PASS / RAW FILE DELIVERED
+
+Boundary:
+Desktop 123 MAIL_ROOM only.

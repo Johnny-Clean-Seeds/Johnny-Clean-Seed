@@ -1,0 +1,271 @@
+CLEAN SEED — UNSAVED IDEAS CAPTURE AFTER PARKING CORE
+Created: 2026-05-16
+Status: small-gold idea capture / parked support note / proof-history first
+Placement: save to PROOF_HISTORY
+Authority: not active doctrine, not cleanup approval, not public packet, not GitHub publish instruction
+
+PURPOSE
+Capture the useful ideas that appeared after the Parking Core Operating Plan so they do not remain loose in chat.
+
+This file is intentionally one capture file.
+Do not split these into separate rules yet.
+Do not promote them yet.
+Do not treat them as cleanup authority.
+
+SOURCE CONTEXT
+These ideas appeared while discussing:
+- normal-user front door vs under-hood technical language
+- the user becoming a general systems doctor
+- word placement
+- small gold
+- puzzle-piece parking
+- special piles for unique/unplaced material
+- family/neighbors revealing fit later
+
+1. NORMAL FRONT DOOR / GENERAL SYSTEMS DOCTOR
+Status: identity concept / product-lane support / parked
+
+The user is a normal-person front door working toward becoming a general systems doctor.
+
+Meaning:
+- the user still feels normal-user pain when technical systems expose badly placed words or confusing action layers
+- the user is learning enough under-hood logic to diagnose where the problem belongs
+- the role is not to become every specialist
+- the role is to see the whole body of the system and route symptoms correctly
+
+Clean framing:
+The general systems doctor looks across the user layer, programmer layer, AI layer, file layer, proof layer, and product layer, then names the clean next move.
+
+This is useful because the user can translate between ordinary human pain and system structure.
+
+2. WORDS ARE NOT STUPID; WORDS ARE MISUSED OR MISPLACED
+Status: word-placement concept / parked
+
+Correction:
+Words are never stupid.
+Words become dirty when they are misplaced, overloaded, or aimed at the wrong user or layer.
+
+Example:
+- push is not stupid inside Git's under-hood world
+- push is dirty at the normal-user front door if the user hears it as "put the file where I want it"
+- publish online is the cleaner front-door action word for that layer
+
+Clean framing:
+The problem is not the word itself.
+The problem is placement, overload, audience, and authority level.
+
+3. UNDER-HOOD / FRONT-DOOR TRANSLATION
+Status: product/UI concept / parked
+
+Do not latch onto under-hood words as top-layer control language.
+Do not stay ignorant of them either.
+
+Better rule:
+Know the machine word only enough to map it, then translate it into the clean human-front-door word.
+
+Examples:
+- stage = mark for checkpoint
+- commit = seal checkpoint
+- push = publish online
+- branch = split path
+- merge = combine work
+
+The danger is not knowing technical words.
+The danger is letting technical words become the words normal people have to think in.
+
+4. UNDER-HOOD WORD QUARANTINE
+Status: word-routing concept / parked
+
+Misplaced under-hood words can be treated like quarantine material for the front layer.
+
+Meaning:
+- technical words may be kept for mapping
+- technical words should not automatically become user-facing control words
+- the front door should expose human-action language
+- under-hood terms can remain visible only when needed for precision
+
+Short form:
+Map the machine word.
+Do not build the human layer out of misplaced machine words.
+
+5. KNOW / know WORD-KEY CONVENTION
+Status: chat-work notation / small-gold word key / not doctrine
+
+The user uses capitalization inside a sentence as power/authority marking.
+
+Convention:
+- know = ordinary confidence, "I believe I am right" or "likely true"
+- Know = fact-locked, proven enough to act from, "I KNOW this is fact"
+
+This does not need to be formal doctrine unless it later appears inside prompts, guides, or decision gates.
+
+Clean handling:
+Respect the notation in chat/work.
+Do not turn it into a rule file by default.
+
+6. SMALL GOLD
+Status: motto / reminder card / parked
+
+Gold does not have to be huge to be worth keeping.
+
+A small truth, small wording key, small distinction, or small reminder can still be valuable.
+
+Clean framing:
+Do not judge value only by size.
+Judge by fit, usefulness, placement, and whether it protects the work.
+
+7. IMPERFECT DOES NOT MEAN WORTHLESS
+Status: motto / reminder card / parked
+
+A thing can be valuable even when it is incomplete, awkward, rough, or missing an obvious part.
+
+Perfection can become a dirty gate.
+
+Clean reminder:
+Imperfect does not mean worthless.
+Judge the fit, not only the missing piece.
+
+This is not a license to promote weak material.
+It is a warning not to throw away useful truth because it is not fully polished.
+
+8. MOTTO CARD, NOT RULE
+Status: placement correction / parked
+
+Some ideas sound rule-like but belong as reminder notes, motto cards, or clarity cards.
+
+Example:
+Gold does not have to be huge to be worth keeping.
+Imperfect does not mean worthless.
+Judge the fit, not the missing piece.
+
+These belong in a lighter lane unless they are needed for active decisions.
+
+Clean placement:
+Not every useful sentence becomes doctrine.
+Some useful sentences become reminders.
+
+9. PUZZLE PILE / UNPLACED VALUE LOT
+Status: parking-core refinement / small-gold support concept
+
+When putting a puzzle together, you do not throw away a piece because it does not fit the current spot.
+
+You make special piles:
+- edge pieces
+- odd colors
+- strange shapes
+- unique pieces
+- duplicate-looking pieces
+- pieces that feel related but are not placeable yet
+
+This maps to Clean Seed parking.
+
+Core idea:
+A piece can be unplaced without being trash.
+
+Clean framing:
+Unique does not mean active.
+Unique does not mean gold.
+Unique does not mean trash.
+Unique means preserve, label, and wait for neighbor proof.
+
+10. FAMILY / NEIGHBOR FIT
+Status: parking-core refinement / activation trigger
+
+Some pieces need family before they reveal fit.
+
+A puzzle piece may make no sense alone.
+Later, when nearby colors, shapes, edges, themes, or family members appear, the fit becomes obvious.
+
+Clean Seed version:
+An idea, file, note, or odd item may need neighboring proof before its role appears.
+
+Activation trigger:
+A parked item may move forward when a related family, neighbor, color, shape, proof trail, role, or bridge relationship makes the fit visible.
+
+11. SPECIAL PILES FOR SPECIAL THINGS
+Status: parking-system design refinement
+
+The system needs special piles for:
+- unique items
+- unplaced value
+- odd-shaped ideas
+- strange wording keys
+- partial truths
+- orphan source notes
+- future-family clues
+- not-current but not-trash material
+
+These piles must have labels and capstones so they do not become a junk monster.
+
+Possible lot name:
+Unplaced Value Lot
+
+Job:
+Hold items that do not fit the current build but may gain meaning when family/neighbors appear.
+
+Allowed:
+- rough but promising ideas
+- small-gold concepts
+- unmatched puzzle pieces
+- partial patterns
+- weird but memorable notes
+- orphan ideas with future-fit potential
+
+Forbidden:
+- active authority
+- deletion
+- promotion without fit proof
+- vague hoarding
+- unlabeled dumping
+
+12. CLEANUP WARNING FROM PUZZLE MODEL
+Status: cleanup safety refinement
+
+Do not delete an unplaced-value item just because it does not fit the current picture.
+
+A deletion decision needs more than "I cannot place this right now."
+
+Better cleanup question:
+Is it unplaced value, duplicate/noise, risky/quarantine, retired history, source proof, or proven waste?
+
+If the answer is unknown, park it. Do not trash it.
+
+13. POSSIBLE FUTURE INSERT INTO PARKING CORE PLAN
+Status: future update candidate / not applied yet
+
+If the Parking Core Operating Plan is updated later, add a small section:
+
+UNPLACED VALUE LOT
+Job:
+Hold pieces that do not fit yet but may reveal value when neighboring pieces appear.
+
+Rule:
+Do not delete unplaced-value items just because they are not currently understood.
+
+Activation trigger:
+A nearby family, color, shape, proof trail, role, or neighbor relationship makes the fit visible.
+
+Guardrail:
+This lot is not active work and not unlimited hoarding. It needs labels, capstones, and review.
+
+14. CLEAN CLOSE
+Status: current state
+
+These ideas are now captured in one parked support note.
+
+They are not active doctrine.
+They are not new rules.
+They are not public output.
+They are not cleanup approval.
+
+They are saved as small-gold support material for later review.
+
+CLOSE VERDICT
+The unsaved ideas have one shared theme:
+
+Do not throw away useful truth because it is small, rough, technical, oddly shaped, or not placeable yet.
+
+Place it.
+Label it.
+Bridge it.
+Wait for family/neighbors to reveal fit.

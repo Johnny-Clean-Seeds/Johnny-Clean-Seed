@@ -1,0 +1,289 @@
+CLEAN SEED — RUN EVIDENCE REPORT 015
+Ordered Showdown Live Route Selection Test
+Created: 2026-05-16
+Status: live route-selection test / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+RUN NAME
+RUN_015_ORDERED_SHOWDOWN_LIVE_ROUTE_SELECTION_TEST
+
+WHY THIS RUN EXISTS
+Run 014 V2 created the ordered showdown engine:
+1. Central Parking maps the field.
+2. Weakest-Link names the bottleneck.
+3. Joker throws the outside challenger.
+4. STING attacks every visible claim.
+5. Shadow Victor checks outside the ring.
+6. Judge rules by proof.
+7. Partial is not PASS.
+
+The user asked when the project would be ready to determine the best route.
+Answer:
+Now, by test, not by declaration.
+
+ACTIVE QUESTION
+Given the current Clean Seed state, what is the best next route?
+
+CURRENT FIELD
+Known current public/proof state:
+- Runs 001 through 014 V2 are published or locked according to returned proof.
+- Run 012 created the Central Parking and Next-Needed Engine.
+- Run 013 V2 added the three-way rival truth tournament.
+- Run 014 V2 added Joker, Ugly Duckling, ordered fighter sequence, Judge Accountability Ledger, and No-Middle PASS.
+- A progress lock captured Run 012 through Run 014 V2 and the Public Codename Boundary.
+- No cleanup is approved.
+- No active-guide install is approved.
+- No doctrine promotion is approved.
+- Public fighter names are labels, not command authority.
+
+CANDIDATE ROUTES
+A. Public polish / lean START_HERE front door.
+B. Local project work / parking system buildout.
+C. Another engine-theory run.
+D. Stop and seal.
+E. Publish/rewrite active guides.
+F. Cleanup / archive work.
+
+ORDERED SHOWDOWN
+
+1. CENTRAL PARKING MAPS THE FIELD
+Central Parking says:
+The field has many valuable public proof notes, but the useful idea is now hidden inside a growing report trail.
+
+There is enough proof to show the current model shape:
+- central parking
+- weakest-link
+- Joker/Wildcard
+- STING
+- Shadow Victor
+- Judge Accountability
+- No-Middle PASS
+- Public Codename Boundary
+
+But a new visitor or fresh chat should not have to read every run report to understand the current system.
+
+Central Parking preferred route:
+A. Public polish / lean START_HERE front door.
+
+Reason:
+The public field needs a clean doorway that explains the small high-leverage idea without dragging the whole proof stack.
+
+Risk:
+If done too early or too large, it becomes another report or fake doctrine.
+
+2. WEAKEST-LINK NAMES THE BOTTLENECK
+Weakest-Link says:
+The active bottleneck is not lack of more concepts.
+The active bottleneck is route readability and entry compression.
+
+The system now has enough internal fighting roles.
+Adding more theory would increase fog.
+
+The next limiting question is:
+Can a person or fresh chat enter the repo and understand the model without old-chat weight?
+
+Weakest-Link preferred route:
+A. Public polish / lean START_HERE front door.
+
+Reason:
+A small front-door file relieves the current bottleneck more than another engine run.
+
+Risk if skipped:
+The proof stack keeps growing, but the public route remains hard to enter.
+
+3. JOKER THROWS THE OUTSIDE CHALLENGER
+Joker says:
+The outside challenger is:
+Do not make a public README yet. Make a tiny local command/control board instead so the assistant can work from the center.
+
+Joker preferred route:
+B. Local project work / parking system buildout.
+
+Reason:
+The user's deeper need is a usable center engine, not public presentation.
+
+What Joker disrupts:
+Public polish may become performance instead of machinery.
+
+Potential value:
+A local control board could make the next work more practical.
+
+Risk:
+Local buildout without a clean public front door may stay private, heavy, and hard to hand off.
+
+4. STING ATTACKS EVERY VISIBLE CLAIM
+STING attacks A:
+Public START_HERE can become marketing gloss. It may make the model look finished when it is not active doctrine and not live-tested enough.
+
+STING attacks B:
+Local parking buildout can become architecture sprawl. It can pull the user into files, folders, boards, cleanup, and tools before the route is legible.
+
+STING attacks C:
+Another theory run risks report treadmill.
+
+STING attacks D:
+Stop/seal now may freeze before the route chooser proves a practical next step.
+
+STING attacks E:
+Active-guide rewrite/publish is blocked. It risks authority drift.
+
+STING attacks F:
+Cleanup is blocked. It is not the active target.
+
+STING preferred result:
+A, but only as a lean public front door with hard boundary:
+- not doctrine
+- not active-guide install
+- not cleanup
+- not proof replacement
+- not bloated README
+- must point to current board/engine and proof trail
+
+5. SHADOW VICTOR CHECKS OUTSIDE THE RING
+Shadow Victor asks:
+What if the best route is not public polish or local buildout?
+
+Possible outside truth:
+Make a one-page route selector card first, then use it as both public front door and assistant entry card.
+
+This could beat A and B by combining only the smallest useful part of each:
+- public-readable
+- fresh-chat usable
+- center-engine compatible
+- not a giant README
+- not a local buildout
+
+Shadow Victor candidate:
+A lean ROUTE_SELECTOR / START_HERE card.
+
+6. JUDGE ACCOUNTABILITY LEDGER
+
+Active question:
+What is the best next route?
+
+Scope:
+Select next route only. No cleanup. No doctrine install. No active-guide change.
+
+Central Parking claim:
+Field needs clean public doorway.
+Evidence:
+Proof stack has grown through Runs 001-014 V2. Current idea is spread across reports.
+Risk:
+Could become polish over function.
+Disproof:
+If a lean card does not reduce entry fog, it fails.
+
+Weakest-Link claim:
+Bottleneck is entry compression, not more theory.
+Evidence:
+Current repo has many reports and proof artifacts; next work needs a usable doorway.
+Risk:
+May underbuild local machinery.
+Disproof:
+If local use remains blocked after the card, this was only partial.
+
+Joker claim:
+Local center engine may matter more than public polish.
+Evidence:
+User's deeper need is parking ideas and letting assistant work from center.
+Risk:
+Can become local sprawl before the route is legible.
+Disproof:
+If local work starts requiring more explanation than the card would prevent, Joker loses this round.
+
+STING claim:
+Avoid both marketing gloss and architecture sprawl.
+Evidence:
+Prior runs repeatedly found report treadmill and drift risks.
+Risk:
+Can over-attack and stall.
+Disproof:
+If all action is blocked despite bounded low-risk route, STING is overreaching.
+
+Shadow Victor claim:
+Best route may be a lean route-selector card, not a broad README or local buildout.
+Evidence:
+It directly reduces entry fog while preserving center-engine function.
+Risk:
+Could still become another artifact if too broad.
+Disproof:
+If it fails to choose or guide next action in fresh use, it is not enough.
+
+Stop/do-nothing candidate:
+Not selected.
+Reason:
+There is a clear low-risk next move that reduces fog.
+
+Use-existing-artifact candidate:
+Partial.
+Reason:
+Existing front-door map and board help, but the current ordered showdown state is newer and needs one clean current entry.
+
+JUDGE VERDICT
+Winner:
+Lean Public Route Selector / START_HERE Card.
+
+Status:
+PASS WITH BOUNDARY.
+
+Why not full public polish:
+Too broad.
+
+Why not local buildout:
+Too soon before entry compression.
+
+Why not more theory:
+Current bottleneck is not missing theory.
+
+Why not cleanup:
+Blocked and unrelated.
+
+Why not active-guide rewrite:
+Blocked and authority-sensitive.
+
+WHAT WOULD DISPROVE THIS VERDICT
+The route fails if the next card:
+- becomes long
+- repeats the whole proof trail
+- acts like doctrine
+- claims local truth
+- gives fighter names command authority
+- fails to tell a fresh reader what to read first and what not to touch
+- does not make the next action clearer
+
+WHAT THIS RUN PROVES
+Run 015 proves Engine V1.1 can perform a first live route-selection test and choose a bounded next route.
+
+It selected:
+Lean Public Route Selector / START_HERE Card.
+
+WHAT THIS RUN DOES NOT PROVE
+It does not prove the route selector card works yet.
+It does not install doctrine.
+It does not approve cleanup.
+It does not rewrite active guides.
+It does not prove Engine V1.1 is universally valid.
+
+OUTPUT CREATED
+CLEAN_SEED_ORDERED_SHOWDOWN_LIVE_ROUTE_VERDICT_20260516.txt
+
+NEXT CLEAN ACTION
+Run 016:
+Create the lean public route selector / START_HERE card.
+
+Hard boundaries:
+- one small file
+- plain language
+- current route only
+- not doctrine
+- not cleanup
+- not active-guide install
+- names guide thinking, names do not modify the system
+- link/point to proof reports only as needed
+
+CLOSE VERDICT
+PASS WITH BOUNDARY.
+
+Clean line:
+The next best route is not more theory.
+The next best route is a lean route-selector doorway that lets a fresh reader or fresh chat enter the current system without carrying the whole proof stack.

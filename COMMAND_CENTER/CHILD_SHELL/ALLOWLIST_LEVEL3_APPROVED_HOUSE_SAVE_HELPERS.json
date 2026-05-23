@@ -1,0 +1,36 @@
+{
+  "level": 3,
+  "allowed_action": "run_approved_house_save_package",
+  "helpers": [
+    {
+      "helper_name": "run_bounded_mr_kleen_save_package",
+      "helper_path": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\HELPERS\\HELPER_RUN_BOUNDED_MR_KLEEN_SAVE_PACKAGE_LEVEL3.ps1",
+      "helper_sha256": "631BCB8DF4D5AFAE018976C9FF171767AC97CB88A1849D2AC7FE10620DF8C47D",
+      "description": "Consume an exact approved Level3 Mr.Kleen house-save package, write only approved lanes, commit, push, and emit a bounded result.",
+      "approved_package_root": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\HOUSE_SAVE_PACKAGES",
+      "approved_repo_root": "C:\\Users\\13527\\Desktop\\Jxhnny_Kleen_C3dz",
+      "approved_write_lanes": [
+        "BRAIN_LEARNING",
+        "HOUSE_WORK\\WORK_SHED\\SORTING_BENCH",
+        "HOUSE_WORK\\WORK_SHED\\GEAR_RACK\\RULE_MACHINES",
+        "PROOF_HISTORY",
+        "ACTIVE_ANCHOR.txt",
+        "HOUSE_WORK\\INDEXES\\CURRENT_HOUSE_WORK_STATUS.md",
+        "specific stale rule/review/queue files named in helper"
+      ],
+      "blocked": [
+        "arbitrary_shell",
+        "raw_shell_expansion",
+        "broad_filesystem_crawl",
+        "delete",
+        "permission_expansion",
+        "junction_symlink_teleporter",
+        "unrestricted_repo_write",
+        "uncontrolled_git",
+        "active_guides_rewrite",
+        "current_truth_index_rewrite",
+        "doctrine_rewrite"
+      ]
+    }
+  ]
+}

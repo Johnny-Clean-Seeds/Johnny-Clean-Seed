@@ -1,0 +1,6 @@
+MAIL_ROOM SMART WATCHER TEST
+
+Verdict: PASS CANDIDATE / WATCHER SHOULD FIND EXISTING MAIL
+Purpose: Prove watcher processes an already-dropped PACKAGE_V0 file from INCOMING_PACKAGES.
+Nonce: A69420324D4B
+Boundary: Desktop 123 MAIL_ROOM only.

@@ -1,0 +1,23 @@
+{
+  "job_id": "CHILDJOB-20260521-132249-ASSISTANT-DOOR-FRESH-PROBE",
+  "id": "CHILDJOB-20260521-132249-ASSISTANT-DOOR-FRESH-PROBE",
+  "created_at": "2026-05-21T13:22:49.7724001-04:00",
+  "requested_by": "chatgpt_fresh_assistant_door_probe",
+  "route": "ASSISTANT_DOOR_FRESH_PROBE_TO_CHILD_SHELL",
+  "action": "read_command_center_status",
+  "allowed_action": "read_command_center_status",
+  "type": "read_command_center_status",
+  "target_path": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER",
+  "expected_receipt": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\OUTBOX\\CHILDJOB-20260521-132249-ASSISTANT-DOOR-FRESH-PROBE.receipt.txt",
+  "boundary": [
+    "Level 1 read-status only",
+    "no repo write",
+    "no git write",
+    "no delete",
+    "no cleanup",
+    "no broad crawl",
+    "no arbitrary shell",
+    "no raw command",
+    "no Level 3 save"
+  ]
+}

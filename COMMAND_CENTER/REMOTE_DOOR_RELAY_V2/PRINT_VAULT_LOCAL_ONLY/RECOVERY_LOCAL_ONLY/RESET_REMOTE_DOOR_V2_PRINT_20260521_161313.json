@@ -1,0 +1,25 @@
+{
+  "schema": "remote_door_relay_v2e_print_local_reset_receipt",
+  "verdict": "PASS / LOCAL ONLY PRINT RESET WRITTEN",
+  "dry_run": false,
+  "run_id": "REMOTE_DOOR_RELAY_V2_20260521_160050",
+  "time_utc": "2026-05-21T20:13:13.9902578+00:00",
+  "vault_path": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\REMOTE_DOOR_RELAY_V2\\PRINT_VAULT_LOCAL_ONLY",
+  "current_print_hash": "F30501D719CE8AE1EA905E9D613508A3CD3998EEDD48890FAAB10BE4EBC4017D",
+  "next_print_hash": "B22EA628293B0DD3B9C090A21B991BBB625F1621177C32885FBD83756F6D167E",
+  "old_current_print_hash": "BDBDB508321CE24B8E0362939511F46B87A6DCE3F0C4C7808CCEACEB3FB126C5",
+  "old_next_print_hash": "C84B2FC5C4DC73484464DA7685842570BEB4AD5E5C1E1F17428D3DF0C0C79DB9",
+  "secret_action": "PRESERVED",
+  "current_expires_at_utc": "2026-05-21T20:12:13.9495460+00:00",
+  "next_expires_at_utc": "2026-05-21T22:13:13.9856106+00:00",
+  "ledger_path": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\REMOTE_DOOR_RELAY_V2\\PRINT_VAULT_LOCAL_ONLY\\PRINT_LEDGER.jsonl",
+  "recovery_receipt_path": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\REMOTE_DOOR_RELAY_V2\\PRINT_VAULT_LOCAL_ONLY\\RECOVERY_LOCAL_ONLY\\RESET_REMOTE_DOOR_V2_PRINT_20260521_161313.json",
+  "local_only": true,
+  "blocked": [
+    "not callable through Remote Door",
+    "no git",
+    "no doctrine rewrite",
+    "no proof receipt delete",
+    "no Mr.Kleen touch"
+  ]
+}

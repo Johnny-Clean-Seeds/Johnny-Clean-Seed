@@ -1,0 +1,140 @@
+CLEAN SEED — PUBLIC FRONT-DOOR MAP V3
+Play-Drift Guard Edition
+Created: 2026-05-16
+Status: public-safe front-door map candidate
+Authority: reading map only; not doctrine, not cleanup approval, not active-guide install
+
+START HERE
+Use this order.
+
+1. CLEAN_SEED_NEW_CHAT_HANDOFF_CARD_20260516.txt
+2. CLEAN_SEED_CURRENT_BOARD_FRONT_DESK_20260516.txt
+3. This front-door map
+4. Run reports only when proof is needed
+
+That is the doorway.
+
+WHAT THIS MAP IS
+This map tells a fresh chat or reader how to enter the current Clean Seed public trail without dragging the whole old chat forward.
+
+It is a front door, not a judge.
+
+WHAT TO READ FIRST
+Read the New Chat Handoff Card first.
+
+It tells the assistant:
+- do not pull old chat weight unless asked
+- run the board staleness check first
+- name active priority
+- name blocked lanes
+- name the public trail
+- name the next clean gate
+
+WHAT TO READ SECOND
+Read the Current Board Front Desk second.
+
+It carries:
+- current board state
+- active priority
+- blocked lanes
+- public report trail
+- tool/public/local boundaries
+- staleness check
+
+WHAT TO READ ONLY AS NEEDED
+Read the run reports when proof is needed.
+
+Evidence trail:
+- CLEAN_SEED_RUN_EVIDENCE_REPORT_001_RULE_ORDER_AND_MISSING_IDEAS_20260516.txt
+- CLEAN_SEED_RUN_EVIDENCE_REPORT_002_TOURNAMENT_ALGORITHM_SPINE_20260516.txt
+- CLEAN_SEED_RUN_EVIDENCE_REPORT_003_CANDIDATE_FIELD_SWEEP_PARKING_IMPLEMENTATION_20260516.txt
+- CLEAN_SEED_RUN_EVIDENCE_REPORT_004_PARKING_CONTROL_BOARD_PROTOTYPE_20260516.txt
+- CLEAN_SEED_RUN_EVIDENCE_REPORT_005_CURRENT_BOARD_SNAPSHOT_AND_REPORT_LEDGER_20260516.txt
+- CLEAN_SEED_RUN_EVIDENCE_REPORT_006_FIRST_BOARD_USE_TEST_20260516.txt
+- CLEAN_SEED_RUN_EVIDENCE_REPORT_007_NEW_CHAT_BOARD_HANDOFF_TEST_20260516.txt
+- CLEAN_SEED_RUN_EVIDENCE_REPORT_008_PUBLIC_FRONT_DOOR_MAP_V3_PLAY_DRIFT_GUARD_20260516.txt
+
+Support note:
+- CLEAN_SEED_FREQUENCY_SENSOR_GUARD_ROPE_NOTES_20260516.txt
+
+BOARD STALENESS CHECK
+Before action, ask:
+- Is there a newer report than the board knows?
+- Has the active priority changed?
+- Has cleanup/public/tool status changed?
+- Has a file been saved or published after the board refresh?
+- Has a new idea, file, or request entered?
+
+If yes, refresh the board before acting.
+
+PLAY-DRIFT GUARD
+Play, jokes, nicknames, and wizard talk are allowed.
+
+But play is not authority.
+
+Do not create rules, files, reports, commands, doctrine, cleanup, or new missions from playful language unless there is a direct build instruction.
+
+Short guard:
+- joke is not command
+- spark is not scope
+- metaphor is not doctrine
+- nickname is not authority
+- excitement is not approval
+- return to the board before building
+
+If play starts pulling the work sideways:
+1. Pause.
+2. Name the active task.
+3. Classify the play item as joke / handle / parked idea / direct instruction.
+4. Continue only if the user clearly approves the build move.
+
+If the assistant creates a rule list from a joke, classify it:
+INVALID PLAY-DRIFT.
+Then return to the board.
+
+BLOCKED LANES
+This map does not approve:
+- cleanup
+- deletion
+- active-guide install
+- doctrine promotion
+- bulk proof-history publish
+- full public-site redesign
+- treating reports as active command
+- treating this map as authority
+- treating public files as local truth
+- treating silly roleplay as a build instruction
+
+LOCAL VS PUBLIC TRUTH
+Public files can carry handoff state.
+
+Local truth still needs local proof:
+- exact path
+- hash
+- PowerShell output
+- Git remote check
+- receipt
+- user approval
+
+HOW TO USE THIS MAP
+If the question is where to start:
+use the Handoff Card.
+
+If the question is what is active:
+use the Current Board Front Desk.
+
+If the question is how we got here:
+use the run reports.
+
+If the question is whether to delete, clean, install, merge, move, or promote:
+stop. This map does not approve that.
+
+If the conversation gets playful:
+enjoy it, but do not build from it unless directly approved.
+
+CLEAN LINE
+Doorway first.
+Board second.
+Proof only when needed.
+Play is allowed, but play is not authority.
+Bring the doorway, not the dungeon.

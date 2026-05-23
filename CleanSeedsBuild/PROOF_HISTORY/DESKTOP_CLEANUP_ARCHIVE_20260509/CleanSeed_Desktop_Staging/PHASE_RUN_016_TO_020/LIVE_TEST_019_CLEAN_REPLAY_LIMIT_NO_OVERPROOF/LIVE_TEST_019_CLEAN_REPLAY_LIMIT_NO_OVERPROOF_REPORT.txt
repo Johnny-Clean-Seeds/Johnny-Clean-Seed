@@ -1,0 +1,25 @@
+﻿LIVE TEST 019 - CLEAN REPLAY LIMIT / NO OVERPROOF
+
+Timestamp:
+2026-05-09 18:16:20 -04:00
+
+Active claim:
+Clean replay proof must not turn into exaggerated whole-system proof.
+
+State boundary:
+Desktop staging only.
+
+CLAIM: route repaired and replayed
+VERDICT: PROVEN_FOR_ROUTE_SCOPE
+
+CLAIM: whole package forever proven
+VERDICT: BLOCKED_OVERCLAIM
+
+CLAIM: future assistant behavior guaranteed
+VERDICT: BLOCKED_OVERCLAIM
+
+CLAIM: active guides unchanged during phase
+VERDICT: PROVEN_FOR_HASHED_FILES
+
+CLAIM: staged files ready for later routing
+VERDICT: PROVEN_FOR_STAGING_SCOPE

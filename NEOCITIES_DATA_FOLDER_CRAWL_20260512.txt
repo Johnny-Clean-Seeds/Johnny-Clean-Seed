@@ -1,0 +1,76 @@
+ACTIVE TARGET:
+Fix the Neocities upload structure by crawling only the local public site output folder and making the dashboard file paths match the actual files.
+
+ROOT TO CRAWL:
+C:\CleanSeedsBuild\PUBLIC_SITE_OUT
+
+PROBLEM:
+The live Neocities root shows the data files beside index.html, but index.html now references them under data/.
+The page is looking for:
+data/CURRENT_STATE.txt
+data/NEXT_GATE.txt
+data/PROJECT_MANIFEST.json
+data/SHED_INDEX.json
+data/GAP_TODO_MATCHES.json
+data/BRIDGE_OUTPUT_HASHES.json
+data/state.json
+
+REQUIRED RESULT:
+C:\CleanSeedsBuild\PUBLIC_SITE_OUT must contain:
+index.html
+not_found.html if present
+robots.txt if present
+data\CURRENT_STATE.txt
+data\NEXT_GATE.txt
+data\PROJECT_MANIFEST.json
+data\SHED_INDEX.json
+data\GAP_TODO_MATCHES.json
+data\BRIDGE_OUTPUT_HASHES.json
+data\state.json
+
+STRICT BOUNDARIES:
+Do not delete anything.
+Do not edit ACTIVE_GUIDES.
+Do not edit CURRENT_TRUTH_INDEX.txt.
+Do not scan outside C:\CleanSeedsBuild\PUBLIC_SITE_OUT.
+Do not touch Neocities credentials.
+Do not upload automatically.
+Do not move project source files.
+Do not clean the Desktop.
+Do not modify files except inside C:\CleanSeedsBuild\PUBLIC_SITE_OUT.
+
+WORK:
+1. Crawl C:\CleanSeedsBuild\PUBLIC_SITE_OUT top-level and all subfolders.
+2. Report where these files currently exist:
+   CURRENT_STATE.txt
+   NEXT_GATE.txt
+   PROJECT_MANIFEST.json
+   SHED_INDEX.json
+   GAP_TODO_MATCHES.json
+   BRIDGE_OUTPUT_HASHES.json
+   state.json
+3. Ensure C:\CleanSeedsBuild\PUBLIC_SITE_OUT\data exists.
+4. Copy the seven required data files into C:\CleanSeedsBuild\PUBLIC_SITE_OUT\data.
+5. Do not delete the root copies.
+6. Verify index.html references data/ paths.
+7. Verify each required file exists under data/.
+8. Record SHA256 hashes for index.html and all seven data files.
+9. Scan PUBLIC_SITE_OUT for exposed email/password strings and report clean/dirty.
+10. Create receipt:
+   C:\CleanSeedsBuild\PUBLIC_SITE_OUT\NEOCITIES_DATA_FOLDER_CRAWL_RECEIPT_20260512.txt
+
+REPORT BACK:
+PASS/PARTIAL/FAIL
+Exact root crawled
+Whether data folder existed or was created
+Where each required file was found
+Whether each file was copied into data/
+Final upload structure
+SHA256 hashes
+Credential scan result
+Confirm no delete happened
+Confirm no upload happened
+Next clean action
+
+NEXT CLEAN ACTION AFTER PASS:
+Upload the contents of C:\CleanSeedsBuild\PUBLIC_SITE_OUT to Neocities root, preserving the data folder.

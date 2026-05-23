@@ -1,0 +1,18 @@
+﻿NO-DELETE BACKUP RECEIPT
+Timestamp: 2026-05-09 23:32:11
+Source: C:\Users\13527\Desktop\Clean Milk not-BLOAT
+Backup copy: C:\CleanSeed_Backups\CleanSeed_SourceTruth_Backup_20260509_233207\SOURCE_COPY
+Proof folder: C:\CleanSeed_Backups\CleanSeed_SourceTruth_Backup_20260509_233207\PROOF
+Robocopy code: 1
+Source files: 221
+Backup files: 221
+Source folders: 56
+Backup folders: 56
+Source bytes: 3671802
+Backup bytes: 3671802
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Zip files extracted: NO
+Shortcuts executed: NO
+Scripts run: NO

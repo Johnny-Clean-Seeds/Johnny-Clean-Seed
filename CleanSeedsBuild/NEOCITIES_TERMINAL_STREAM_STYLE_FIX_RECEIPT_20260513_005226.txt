@@ -1,0 +1,25 @@
+NEOCITIES TERMINAL STREAM STYLE FIX RECEIPT
+STATUS: LOCAL PASS
+CREATED_AT_LOCAL: 
+2026-05-13T00:52:26.2973013-04:00
+BACKUP: C:\CleanSeedsBuild\BACKUP_BEFORE_TERMINAL_STREAM_FIX_20260513_004330
+REMOTE_UPLOAD_EXECUTED_BY_THIS_RECEIPT: NO
+REMOTE_DELETE_EXECUTED: NO
+LOCAL_DELETE_EXECUTED: NO
+
+FIXED: removed visible and source Human Read Me wording; section is Overview / Start Here
+FIXED: removed textarea boxes from unlocked reader side
+FIXED: selected file content streams into page output block
+FIXED: file list is one-column before selected output; no trapped inner file-list scroll
+FIXED: stronger lime grid, stronger red/rose borders, darker background
+FIXED: cleaner metallic shine buttons
+FIXED: bottom return text uses Mom's Sweet Flowerbeds
+
+LOCAL VERIFICATION: node --check gate.js exited 0
+LOCAL VERIFICATION: browser login succeeded with RedRose137
+LOCAL VERIFICATION: NEXT_GATE Load selected NEXT_GATE.txt
+LOCAL VERIFICATION: NEXT_GATE Copy copied file text
+
+SHA256: 13AC113C07D0E9BF0BD3ED7166E858C93C4F591CBBFAE7CC0CEF8B1683A34208  C:\CleanSeedsBuild\NEOCITIES_CLEAN_SITE\index.html
+SHA256: 9C787C84722BA6EEEDACB7DD5E62DB8801EB92EE20D6BA00C1C16E662AB4DD84  C:\CleanSeedsBuild\NEOCITIES_CLEAN_SITE\style.css
+SHA256: 10C31D442450EAB7100F7D9505873E8A7A5455A4D24CFBDEAF6D88BA450D90D8  C:\CleanSeedsBuild\NEOCITIES_CLEAN_SITE\scripts\gate.js

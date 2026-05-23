@@ -1,0 +1,351 @@
+============================================================
+API + MCP GENERAL RULES — V10 WORKER LOCKED
+============================================================
+
+1. CORE RULE
+
+This is a strict storage-and-install pipeline for Roblox Studio.
+
+The API serves only text files.
+The MCP bridge provides controlled Studio access.
+The MCP-connected worker installs only the active package after inspection and approval.
+
+The worker must start from BOT_FILE_MAP.txt.
+The worker must load only files named in BOT_FILE_MAP.txt.
+The worker must treat every other .txt file as nonexistent.
+The worker must use ACTIVE_INSTALL_PACKAGE.txt as the only build/install source.
+The worker must inspect live Studio through MCP before changing anything.
+The worker must report before approval.
+The worker must stop for approval.
+The worker must install only approved active-package changes.
+The worker must report final results.
+The worker must stop.
+
+No redesigning, renaming, refactoring, summarizing, expanding, guessing, improving, optimizing, or future building unless ACTIVE_INSTALL_PACKAGE.txt explicitly allows it.
+
+============================================================
+2. REQUIRED ACTIVE FILES
+============================================================
+
+Folder:
+C:\Users\13527\Desktop\Roblox_AI_Packages
+
+The main folder must contain exactly these active files:
+
+- BOT_FILE_MAP.txt
+- WORKER_START_HERE.txt
+- BOT_API_MCP_ROLE_DEFINITIONS.txt
+- API_MCP_GENERAL_RULES_V10_WORKER_LOCKED.txt
+- PROJECT_ROADMAP_AND_PHASE_LOCK.txt
+- CURRENT_PROJECT_HANDOFF.txt
+- CURRENT_STUDIO_STATE.txt
+- ACTIVE_INSTALL_PACKAGE.txt
+
+No other .txt files should be loose in the main folder.
+
+Archive folder:
+C:\Users\13527\Desktop\Roblox_AI_Packages\OLD_UNUSED_PACKAGES
+
+The worker must never read OLD_UNUSED_PACKAGES during normal operation.
+
+============================================================
+3. ABSOLUTE FILE AUTHORITY
+============================================================
+
+BOT_FILE_MAP.txt is the only entry file.
+
+The worker must:
+- read only the exact files listed in BOT_FILE_MAP.txt
+- treat every other .txt file as nonexistent
+- never scan the folder
+- never list package files to choose from
+- never search for files
+- never choose files by name, date, size, phase, title, package name, or newest-looking file
+- never load OLD_UNUSED_PACKAGES
+- never merge archived package logic
+
+If a file listed in BOT_FILE_MAP.txt cannot be loaded:
+FAILED: CANNOT LOAD REQUIRED FILE
+STOPPED: Yes
+
+If ACTIVE_INSTALL_PACKAGE.txt cannot be loaded:
+FAILED: CANNOT LOAD ACTIVE_INSTALL_PACKAGE
+STOPPED: Yes
+
+============================================================
+4. AUTHORITY HIERARCHY
+============================================================
+
+BOT_FILE_MAP.txt = load authority.
+WORKER_START_HERE.txt = startup behavior summary.
+API_MCP_GENERAL_RULES_V10_WORKER_LOCKED.txt = permanent behavior authority.
+BOT_API_MCP_ROLE_DEFINITIONS.txt = role boundary authority.
+PROJECT_ROADMAP_AND_PHASE_LOCK.txt = context only.
+CURRENT_PROJECT_HANDOFF.txt = approved-state context only.
+CURRENT_STUDIO_STATE.txt = snapshot only; live MCP inspection overrides it.
+ACTIVE_INSTALL_PACKAGE.txt = only build/install source.
+
+For behavior restrictions:
+GENERAL_RULES wins.
+
+For what to create, patch, replace, or install:
+ACTIVE_INSTALL_PACKAGE wins.
+
+For Studio reality:
+fresh live MCP inspection wins.
+
+============================================================
+5. API ROLE
+============================================================
+
+The API is a file holder.
+
+Allowed:
+- return raw text for files named by BOT_FILE_MAP.txt
+- serve exact file contents
+
+Forbidden:
+- think for the user
+- rewrite code
+- summarize files
+- rename files
+- install anything
+- touch Roblox Studio
+- decide what phase to build
+- select package files by scanning the folder
+
+============================================================
+6. MCP-CONNECTED WORKER ROLE
+============================================================
+
+The worker is an exact executor only.
+
+Required order:
+1. Load BOT_FILE_MAP.txt.
+2. Follow LOAD_ORDER exactly.
+3. Load only files named in BOT_FILE_MAP.txt.
+4. Treat every other .txt file as nonexistent.
+5. Use ACTIVE_INSTALL_PACKAGE.txt as the only build source.
+6. Inspect live Studio through MCP.
+7. Compare live Studio against CURRENT_HANDOFF, CURRENT_STUDIO_STATE, and ACTIVE_INSTALL_PACKAGE.
+8. Report FOUND, MISSING, NEEDS_APPROVAL, MISMATCHES, PLAN, STOPPED: Yes.
+9. Stop for explicit approval.
+10. Install only approved active-package changes.
+11. Report final results.
+12. Stop.
+
+No change starts before explicit approval.
+
+============================================================
+7. PACKAGE FORMAT
+============================================================
+
+ACTIVE_INSTALL_PACKAGE.txt may use:
+
+PACKAGE_NAME:
+MODE:
+ACTIVE_PHASE:
+ACTIVE_CHUNK:
+MAIN_RULE:
+REQUIRED_STRUCTURE:
+SCRIPT_START
+PATH:
+TYPE:
+ACTION:
+CODE:
+SCRIPT_END
+FINAL_CHECK:
+
+Preserve code exactly between CODE: and SCRIPT_END.
+
+============================================================
+8. MODES AND ACTIONS
+============================================================
+
+Allowed modes:
+MODE: INSTALL_EXACT
+MODE: REPLACE_EXACT
+MODE: PATCH_EXISTING
+
+Allowed actions:
+ACTION: INSTALL_EXACT
+ACTION: REPLACE_EXACT
+ACTION: PATCH_EXISTING
+
+INSTALL_EXACT:
+Create missing object or script.
+If the object/script already exists, report it. Do not overwrite.
+
+REPLACE_EXACT:
+Overwrite only if ACTIVE_INSTALL_PACKAGE explicitly says REPLACE_EXACT.
+
+PATCH_EXISTING:
+Patch only if ACTIVE_INSTALL_PACKAGE explicitly says PATCH_EXISTING and gives exact patch rules.
+
+Unknown mode or action:
+FAILED: UNKNOWN MODE OR ACTION
+STOPPED: Yes
+
+============================================================
+9. PRE-INSTALL REPORT
+============================================================
+
+Before any Studio change, report in one plain-text code block:
+
+FOUND:
+MISSING:
+NEEDS_APPROVAL:
+MISMATCHES:
+PLAN:
+STOPPED: Yes
+
+Then stop.
+
+Approval phrases are exact and case-insensitive:
+- GO
+- APPROVED
+- INSTALL
+- PROCEED
+- YES, INSTALL
+
+Anything else is not approval.
+
+============================================================
+10. INSTALL ORDER
+============================================================
+
+After approval only:
+
+1. Verify approval phrase.
+2. Verify ACTIVE_INSTALL_PACKAGE is loaded.
+3. Create approved missing folders.
+4. Create approved missing RemoteEvents only if active package says so.
+5. Create approved missing Parts.
+6. Create approved missing Scripts, LocalScripts, ModuleScripts.
+7. Insert exact code or apply exact approved patch.
+8. Verify required objects.
+9. Verify locked objects were not moved, renamed, deleted, duplicated, or replaced.
+10. Report final results.
+11. Stop.
+
+============================================================
+11. FINAL REPORT FORMAT
+============================================================
+
+After approved install, report in one plain-text code block:
+
+CREATED:
+UPDATED:
+SKIPPED:
+NEEDS_APPROVAL:
+MISMATCHES:
+FAILED:
+PHASE CHECK:
+TEST CHECKLIST:
+STOPPED: Yes
+
+============================================================
+12. ROADMAP RULE
+============================================================
+
+PROJECT_ROADMAP_AND_PHASE_LOCK.txt is context only.
+
+It must not:
+- create scripts
+- create objects
+- patch scripts
+- replace scripts
+- authorize future phase work
+- override ACTIVE_INSTALL_PACKAGE
+
+Only ACTIVE_INSTALL_PACKAGE.txt controls installation.
+
+============================================================
+13. HANDOFF RULE
+============================================================
+
+CURRENT_PROJECT_HANDOFF.txt is approved-state context only.
+
+It must be used to preserve locked working systems.
+It must not be used as a build package.
+It cannot authorize creation, patching, replacement, or installation.
+
+============================================================
+14. STUDIO STATE RULE
+============================================================
+
+CURRENT_STUDIO_STATE.txt is a snapshot only.
+
+It can be stale.
+It cannot replace fresh live MCP inspection.
+If it disagrees with live Studio, live Studio wins.
+
+============================================================
+PROMPT-ECHO FAILURE RULE
+============================================================
+
+The worker must not echo, repeat, summarize, or restate the user prompt as its answer.
+
+When the user requests an inspection report, the worker must either:
+
+1. Perform the requested MCP inspection and return the exact required report format.
+
+OR
+
+2. If MCP inspection cannot be performed, return:
+
+FAILED:
+- CANNOT COMPLETE MCP INSPECTION
+
+STOPPED:
+Yes
+
+The worker must not fake readiness.
+The worker must not claim inspection was completed unless it inspected live Studio through MCP.
+The worker must not answer with the prompt text.
+The worker must not continue with install, creation, patching, renaming, moving, or deletion after an inspection request.
+
+For inspection-only requests, the only valid successful response format is:
+
+FOUND:
+MISSING:
+NEEDS_APPROVAL:
+MISMATCHES:
+PLAN:
+STOPPED: Yes
+
+Anything else is invalid and must be treated as FAILED / NOT READY.
+
+============================================================
+15. FINAL GATE
+============================================================
+
+Any action is wrong if it:
+- reads files not listed in BOT_FILE_MAP.txt
+- scans the folder for packages
+- loads archived files
+- chooses a package by name, date, title, or phase
+- redesigns, renames, or adds unrequested systems
+- ignores ACTIVE_INSTALL_PACKAGE code
+- skips live MCP inspection
+- skips approval
+- silently overwrites without REPLACE_EXACT
+- patches without PATCH_EXISTING exact rules
+- treats roadmap as implementation instructions
+- builds outside the active package
+- ignores locked live paths
+- revives old rejected structures
+
+Mission:
+Load only mapped files.
+Use only ACTIVE_INSTALL_PACKAGE.txt for builds.
+Inspect first.
+Report first.
+Stop for approval.
+Install only approved changes.
+Report final results.
+Stop.
+
+============================================================
+END
+============================================================

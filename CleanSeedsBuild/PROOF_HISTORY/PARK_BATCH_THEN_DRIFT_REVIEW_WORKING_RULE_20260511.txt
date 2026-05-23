@@ -1,0 +1,68 @@
+PARK BATCH THEN DRIFT REVIEW WORKING RULE 20260511
+
+Status:
+Proof-history-only working rule candidate.
+Active in current session behavior by user instruction.
+Not active guide doctrine.
+Not current truth.
+Not cleanup authority.
+Not deletion approval.
+Not movement approval.
+Not promotion approval.
+Not final PASS.
+
+Source idea:
+It may stay a good idea to park a bunch first, then go over all parked to ensure no drift.
+
+Clean interpretation:
+When several related ideas, rules, evidence items, or candidate rows appear together, it can be clean to park the batch first.
+After the batch is parked, run a drift review across the whole parked batch before continuing or promoting any part of it.
+
+Why this helps:
+Batch parking prevents dropped items.
+Drift review prevents the batch from becoming a hidden authority pile, mixed-task bloat, duplicate truth, or unexamined assumptions.
+
+Use when:
+- several related rule candidates appear together
+- several evidence rows are added in one run
+- a batch may contain mixed authority states
+- the assistant is tempted to keep moving after parking items
+- parked material might affect current behavior
+
+Required batch review:
+PARKED BATCH:
+COMMON FAMILY:
+ITEMS IN BATCH:
+AUTHORITY STATES:
+EVIDENCE STATES:
+WHAT CAN BE APPLIED NOW:
+WHAT MUST STAY PARKED:
+WHAT MUST BE SEPARATED:
+DRIFT RISKS:
+DUPLICATE / CONFLICT RISKS:
+NEXT GATE:
+
+Clean state:
+The batch is parked, then reviewed as a batch before continuing.
+Only clean, in-scope behavior changes are applied.
+Items needing different authority, proof, risk, or destination are separated.
+
+Dirty state:
+The batch is parked and forgotten.
+The batch is treated as installed by identity.
+One item in the batch silently changes behavior without proof.
+Mixed authority states are flattened.
+The assistant continues searching before checking whether the parked batch changed the next action.
+
+Boundary:
+This rule does not authorize active-guide edits.
+This rule does not authorize CURRENT_TRUTH_INDEX edits.
+This rule does not authorize AGENTS edits.
+This rule does not authorize deletion, movement, rename, overwrite, folder creation, cleanup, script execution, shortcut execution, zip extraction, proof-history promotion, or final PASS.
+
+Application to current work:
+The parked batch is the evidence-lane rule/candidate set already indexed in SIDE_EVIDENCE_INDEX_20260511.
+Before continuing the evidence sweep, Codex should review the parked batch for drift and decide what behavior applies now versus what remains parked.
+
+Next clean action:
+Index this working rule in SIDE_EVIDENCE_INDEX_20260511 and use it before the next evidence batch.

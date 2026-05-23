@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Clean Seed Visual Map</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    --bg: #f4efe4;
+    --ink: #111;
+    --muted: #4a4a4a;
+    --line: #222;
+    --card: #fffdf7;
+    --dark: #243142;
+    --blue: #36596f;
+    --green: #496a54;
+    --purple: #5a4a6d;
+    --gold: #80713d;
+    --red: #753f3f;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  main {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 36px 22px 60px;
+  }
+  h1 {
+    margin: 0;
+    text-align: center;
+    font-size: 42px;
+    letter-spacing: -0.02em;
+  }
+  .sub {
+    text-align: center;
+    margin: 12px auto 32px;
+    max-width: 860px;
+    color: var(--muted);
+    font-size: 18px;
+    line-height: 1.45;
+  }
+  .one-line {
+    background: #fff;
+    border: 2px solid var(--line);
+    border-radius: 20px;
+    padding: 18px 22px;
+    font-size: 21px;
+    font-weight: 700;
+    text-align: center;
+    margin: 0 0 28px;
+  }
+  .cycle {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 12px;
+    margin: 0 0 34px;
+  }
+  .step {
+    min-height: 110px;
+    border: 2px solid var(--line);
+    border-radius: 18px;
+    padding: 14px;
+    background: var(--card);
+    position: relative;
+  }
+  .step b {
+    display: block;
+    font-size: 18px;
+    margin-bottom: 8px;
+  }
+  .step span {
+    color: var(--muted);
+    font-size: 14px;
+    line-height: 1.35;
+  }
+  .step::after {
+    content: "→";
+    position: absolute;
+    top: 39px;
+    right: -16px;
+    font-size: 26px;
+    font-weight: 800;
+  }
+  .step:nth-child(5)::after, .step:nth-child(10)::after { content: ""; }
+  .step:nth-child(1) { border-top: 8px solid var(--dark); }
+  .step:nth-child(2) { border-top: 8px solid var(--dark); }
+  .step:nth-child(3) { border-top: 8px solid var(--blue); }
+  .step:nth-child(4) { border-top: 8px solid var(--blue); }
+  .step:nth-child(5) { border-top: 8px solid var(--purple); }
+  .step:nth-child(6) { border-top: 8px solid var(--red); }
+  .step:nth-child(7) { border-top: 8px solid var(--purple); }
+  .step:nth-child(8) { border-top: 8px solid var(--gold); }
+  .step:nth-child(9) { border-top: 8px solid var(--green); }
+  .step:nth-child(10) { border-top: 8px solid var(--dark); }
+  .loop {
+    text-align: center;
+    font-size: 17px;
+    font-weight: 700;
+    margin: -16px 0 34px;
+  }
+  .pillars {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 18px;
+    margin: 0 0 30px;
+  }
+  .pillar {
+    border-radius: 24px;
+    border: 2px solid var(--line);
+    background: #fff;
+    padding: 20px;
+    min-height: 235px;
+  }
+  .pillar h2 {
+    font-size: 24px;
+    margin: 0 0 12px;
+  }
+  .pillar p {
+    margin: 0;
+    color: var(--muted);
+    line-height: 1.45;
+    font-size: 16px;
+  }
+  .warn { border-top: 10px solid var(--red); }
+  .proof { border-top: 10px solid var(--purple); }
+  .grow { border-top: 10px solid var(--green); }
+  .stack {
+    border: 2px solid var(--line);
+    border-radius: 26px;
+    overflow: hidden;
+    background: #fff;
+    margin-top: 28px;
+  }
+  .layer {
+    padding: 16px 22px;
+    border-bottom: 2px solid #ddd;
+    display: grid;
+    grid-template-columns: 260px 1fr;
+    gap: 18px;
+    align-items: center;
+  }
+  .layer:last-child { border-bottom: 0; }
+  .layer b { font-size: 18px; }
+  .layer span { color: var(--muted); line-height: 1.35; }
+  .layer:nth-child(1) { background: #efe7cc; }
+  .layer:nth-child(2) { background: #dfe6da; }
+  .layer:nth-child(3) { background: #dbe6ee; }
+  .layer:nth-child(4) { background: #e7deeb; }
+  .layer:nth-child(5) { background: #eadcda; }
+  .footer {
+    margin-top: 26px;
+    font-size: 14px;
+    color: var(--muted);
+    text-align: center;
+  }
+  @media (max-width: 900px) {
+    .cycle, .pillars { grid-template-columns: 1fr; }
+    .step::after { content: "↓"; top: auto; right: 20px; bottom: -28px; }
+    .step:nth-child(5)::after { content: "↓"; }
+    .step:nth-child(10)::after { content: ""; }
+    .layer { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <h1>Clean Seed Visual Map</h1>
+  <div class="sub">A simple view of the system: the build starts small, words control the route, evidence decides trust, dirty milk gets quarantined, and growth only happens after a clean close.</div>
+
+  <div class="one-line">Clean Seed is a proof cycle: control the words, certify the files, quarantine dirty milk, prove the right cause, then close before growth.</div>
+
+  <section class="cycle" aria-label="Clean Seed cycle">
+    <div class="step"><b>1. Target</b><span>Name the exact point. What are we building, judging, fixing, saving, or proving?</span></div>
+    <div class="step"><b>2. Authority</b><span>Say who owns direction, what may be touched, and what is out of bounds.</span></div>
+    <div class="step"><b>3. Object</b><span>Name the exact file, rule, receipt, command, folder, artifact, or claim.</span></div>
+    <div class="step"><b>4. Action</b><span>Only do the smallest safe move: check, patch, save, park, yield, block, or close.</span></div>
+    <div class="step"><b>5. Evidence</b><span>List what proves the claim, what would disprove it, and what evidence lane is missing.</span></div>
+    <div class="step"><b>6. Risk</b><span>Risk decides evidence burden. High risk means preserve first and verify before action.</span></div>
+    <div class="step"><b>7. Incident</b><span>Before suspect hunting, ask whether the incident even happened: real, false, stale, partial, or unknown.</span></div>
+    <div class="step"><b>8. Suspect</b><span>Find the right cause, not the easy cause. Weak “may mean” claims stay unproven.</span></div>
+    <div class="step"><b>9. Verdict</b><span>Done is not PASS. PASS needs proof. INVALID means the evidence cannot prove it.</span></div>
+    <div class="step"><b>10. Next State</b><span>Close, park, yield, quarantine, promote, or loop back to target.</span></div>
+  </section>
+
+  <div class="loop">Final check: if the next state no longer matches the starting target, the path drifted.</div>
+
+  <section class="pillars">
+    <div class="pillar warn">
+      <h2>Dirty Milk Quarantine</h2>
+      <p>Questionable input, files, receipts, rules, commands, claims, evidence, or ideas are held out of active trust until checked. Dirty milk can appear. It must not be carried forward.</p>
+    </div>
+    <div class="pillar proof">
+      <h2>Evidence Murder Board</h2>
+      <p>First prove there is a body. Then prove it was murder. Then test suspects. The goal is not any suspect; it is the right suspect, supported by evidence.</p>
+    </div>
+    <div class="pillar grow">
+      <h2>Growth After Wrap</h2>
+      <p>The seed grows only after the current loop is named, bounded, proven, closed, and ready. Nothing promotes itself. Future ideas wait in the right lane.</p>
+    </div>
+  </section>
+
+  <section class="stack" aria-label="Clean Seed load-bearing stack">
+    <div class="layer"><b>Three-file core</b><span>README starts the user. Wrap Guide controls assistant behavior. Alignment Check judges drift and proof.</span></div>
+    <div class="layer"><b>Words are keys</b><span>Words must point to the right target, action, authority, evidence, verdict, scope, trigger, and next state.</span></div>
+    <div class="layer"><b>File load certification</b><span>A file is not trusted because it exists. Check patch ID, role, suffix, receipt, manifest, and contamination risk.</span></div>
+    <div class="layer"><b>CYA / receipt</b><span>For trust-affecting changes, show what changed, how, why, affected areas, proof, hashes, and next clean state.</span></div>
+    <div class="layer"><b>Seal or keep testing</b><span>If final trust is needed, run Deep Clean. If not, keep the package bounded and test it on real small work.</span></div>
+  </section>
+
+  <div class="footer">Support file only. Not an active guide file. Active core package remains README_START_HERE.txt, CLEAN_SEED_WRAP_GUIDE.txt, and CLEAN_SEED_ALIGNMENT_CHECK.txt.</div>
+</main>
+</body>
+</html>

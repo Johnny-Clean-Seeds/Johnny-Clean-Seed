@@ -1,0 +1,343 @@
+PROJECT KNOWLEDGE STACK DRAFT 1 — ARCHITECTURE ONLY
+
+Status:
+Draft architecture only.
+No files moved.
+No cleanup performed.
+No active guide update.
+No current truth update.
+
+Goal:
+Create a clean project knowledge stack so ChatGPT can conduct the mission without getting lost, relying on memory, guessing near-right, or mixing source-ore with active truth.
+
+1. Read order and source inputs
+
+CURRENT_TRUTH_INDEX.txt read first: YES
+AGENTS.md read second: YES
+
+Listed proof-history files:
+- PROOF_HISTORY\CURRENT_IDEA_PLACEMENT_MAP_20260510.txt: READ
+- PROOF_HISTORY\MISC_UNPLACED_IDEA_PILE_20260510.txt: READ
+- PROOF_HISTORY\PROJECT_CLEANUP_DRAFT_1_SORTING_PLAN_20260510.txt: READ
+- PROOF_HISTORY\PROJECT_CLEANUP_DRAFT_2A_RULE_STRUCTURE_20260510.txt: READ
+- PROOF_HISTORY\PROJECT_CLEANUP_DRAFT_2B_CORRECTION_NOTE_20260510.txt: READ
+- PROOF_HISTORY\BRAIN_UPDATE_CLEANUP_CHECKPOINT_20260510.txt: READ
+- PROOF_HISTORY\OLDSCHOOL_INTAKE_MAP_20260510.txt: READ
+- PROOF_HISTORY\CHAT_DROP_MANIFEST_20260510.txt: MISSING
+
+Top-level inventory summary:
+- Active protected source top-level count: 5
+- ACTIVE_GUIDES top-level count: 3
+- PROOF_HISTORY top-level count: 102
+- OldSchool top-level count: 18
+
+Active protected source top-level:
+- [DIR] ACTIVE_GUIDES
+- [FILE] AGENTS.md
+- [FILE] CURRENT_TRUTH_INDEX.txt
+- [DIR] LIVE_SEED_TEST_001
+- [DIR] PROOF_HISTORY
+
+ACTIVE_GUIDES top-level:
+- [FILE] CLEAN_SEED_ALIGNMENT_CHECK.txt
+- [FILE] CLEAN_SEED_WRAP_GUIDE.txt
+- [FILE] README_START_HERE.txt
+
+OldSchool top-level:
+- [FILE] ChatGPT Image May 7, 2026, 03_18_04 AM (1).png
+- [FILE] ChatGPT Image May 7, 2026, 03_18_05 AM (2).png
+- [FILE] ChatGPT Image May 7, 2026, 03_18_05 AM (3).png
+- [FILE] ChatGPT Image May 7, 2026, 03_18_05 AM (4).png
+- [FILE] ChatGPT Image May 7, 2026, 03_18_05 AM (5).png
+- [FILE] ChatGPT Image May 7, 2026, 03_18_06 AM (6).png
+- [FILE] ChatGPT Image May 7, 2026, 03_18_06 AM (7).png
+- [FILE] ChatGPT Image May 7, 2026, 03_18_06 AM (8).png
+- [FILE] ChatGPT Image May 7, 2026, 03_18_06 AM (9).png
+- [FILE] ChatGPT Image May 7, 2026, 12_10_29 AM.png
+- [FILE] CLEAN_SEED_ALIGNMENT_CHECK.txt
+- [FILE] CLEAN_SEED_WRAP_GUIDE.txt
+- [FILE] localbot_machine_evidence.md
+- [DIR] OLDBOT OVERBUILT
+- [FILE] README_START_HERE.txt
+- [FILE] recursive_core_architecture.md
+- [SHORTCUT] Slow Bot.lnk
+- [FILE] SLOW_BOT_SETUP_README.txt
+
+2. Required future stack concept
+
+A. One master index file.
+B. Separate homes for current conduct, cleaned rules, origin concepts, evidence, notes/candidates, blocked/quarantined material, and source-ore.
+C. Every item should have label, role, source path, status, timestamp if available, evidence link, and next gate.
+D. Original files should stay preserved unless a later approved copy/archive plan says otherwise.
+E. No source-ore becomes active truth by identity.
+
+3. Proposed future folder/file structure
+
+PROJECT_KNOWLEDGE_STACK
+- 00_CURRENT_CONDUCT
+- 01_CLEANED_RULE_STACK
+- 02_ORIGIN_CONCEPTS
+- 03_EVIDENCE_AND_RECEIPTS
+- 04_NOTES_AND_CANDIDATES
+- 05_BLOCKED_AND_QUARANTINED
+- 06_OLDSCHOOL_SOURCE_ORE_INDEX
+- 99_MASTER_INDEX
+
+4. Folder definitions
+
+00_CURRENT_CONDUCT
+HOME:
+Current operating state, active route, active boundaries, load order, and next clean route.
+JOB:
+Tell ChatGPT what to load, obey, and avoid right now.
+KEY:
+CURRENT_TRUTH_INDEX, active guide references, AGENTS.md bridge limits, and explicit user scope.
+PARKING:
+Temporary current-state notes that are not yet ready for the master index.
+REST STOP:
+Clean accepted current-state items waiting for the next index update.
+NEXT GATE:
+Current-state review and user approval before any active guide or truth-index update.
+Belongs there:
+Current conduct summaries, current cleanup state, active-guide load instructions, bridge boundaries.
+Must not belong there:
+Source-ore, old guides by identity, unreviewed guesses, executable or blocked material.
+Evidence proves placement:
+Exact active path, current status, receipt, or user-approved conduct update.
+Dirty milk if:
+It treats proof-history or OldSchool material as current authority by identity.
+
+01_CLEANED_RULE_STACK
+HOME:
+Cleaned rules and concepts that have been reviewed, grouped, and statused.
+JOB:
+Preserve the organized rule stack without bloating active guides.
+KEY:
+Source link, rule family, status, evidence, and install state.
+PARKING:
+Cleaned but not installed rules.
+REST STOP:
+Accepted rules waiting for batch review.
+NEXT GATE:
+Active-guide review or proof-history-only closure.
+Belongs there:
+Mirror Law, Respect Neighbor Rules, Sorting Rules, old/new judgment method, cleanup-control rules after review.
+Must not belong there:
+Unlabeled guesses, raw source-ore, historical wording without context.
+Evidence proves placement:
+Proof-history source path, receipt, and status as cleaned/parked/installed/rejected.
+Dirty milk if:
+The stack becomes a fourth active guide or silently installs rules.
+
+02_ORIGIN_CONCEPTS
+HOME:
+Original concept sources, old wording, recovered ideas, and source lineage.
+JOB:
+Preserve where ideas came from without promoting them.
+KEY:
+Source path, source type, timestamp if available, and proof-history link.
+PARKING:
+Origin material that needs later review.
+REST STOP:
+Origin items whose value is accepted but placement is not ready.
+NEXT GATE:
+Content review, old/new comparison, or source-ore review.
+Belongs there:
+OldSchool concept references, recovered markers, older guide-looking files, concept checkpoints.
+Must not belong there:
+Active guide truth by identity, final cleaned doctrine, executable items.
+Evidence proves placement:
+Original path, intake map, receipt, and source-ore status.
+Dirty milk if:
+Old source material overrides the active guides because it looks familiar or newer.
+
+03_EVIDENCE_AND_RECEIPTS
+HOME:
+Receipts, manifests, ledgers, maps, hashes, proof files, and no-change confirmations.
+JOB:
+Make proof durable and findable.
+KEY:
+Receipt name, linked action, source/destination path, hash if available, no-change lines.
+PARKING:
+Evidence needing exact role map.
+REST STOP:
+Closed receipts waiting for indexing.
+NEXT GATE:
+Proof-history exact role map or receipt index update.
+Belongs there:
+Receipts, correction notes, cleanup drafts, intake maps, quarantine ledgers, manifests.
+Must not belong there:
+Active doctrine by identity, unproved claims, memory-only proof.
+Evidence proves placement:
+Receipt text, exact path, hash if relevant, linked report.
+Dirty milk if:
+Proof is compressed into memory or deleted because it looks repetitive.
+
+04_NOTES_AND_CANDIDATES
+HOME:
+Guesses, parked ideas, design candidates, metaphors, lane concepts, future rule candidates.
+JOB:
+Hold useful uninstalled material without giving it authority.
+KEY:
+Label, source, reason for parking, blocked action, reopen condition.
+PARKING:
+Default state for all guesses and not-ready ideas.
+REST STOP:
+Clean candidate accepted for later batch, but not installed.
+NEXT GATE:
+Candidate review, old/new comparison, bloat check, or active-guide placement review.
+Belongs there:
+Near-Right Is Not Proof, Guesses Have Parking Spots, All Lanes Have Parking, city/town metaphor candidate.
+Must not belong there:
+Current truth, delete authority, active guide replacement text, executable material.
+Evidence proves placement:
+Checkpoint file, proof-history note, user statement, or review packet.
+Dirty milk if:
+A candidate becomes active truth because it sounds right.
+
+05_BLOCKED_AND_QUARANTINED
+HOME:
+Shortcuts, scripts, command-looking items, zips, no-key material, quarantine evidence, and blocked gates.
+JOB:
+Keep risky or inert evidence visible and non-executing.
+KEY:
+Exact path, blocked reason, item type, quarantine/custody record, and user approval before any action.
+PARKING:
+Blocked evidence lane.
+REST STOP:
+None unless a blocked item is later safely reclassified.
+NEXT GATE:
+Blocked item gate, quarantine review, or exact user decision.
+Belongs there:
+.lnk, script-like, zip/archive, command-looking, no-key items, recovered quarantine indexes.
+Must not belong there:
+Active guide files, normal proof receipts misread as commands, source-ore content without blocked reason.
+Evidence proves placement:
+Extension/type, name, custody note, or blocked-item review.
+Dirty milk if:
+A shortcut or command-looking item is opened, run, extracted, renamed into use, or deleted without gate.
+
+06_OLDSCHOOL_SOURCE_ORE_INDEX
+HOME:
+OldSchool source-ore inventory and future review map.
+JOB:
+Keep OldSchool useful but separate from current Clean Seed truth.
+KEY:
+OldSchool intake map, exact path, top-level metadata, and future approved review scope.
+PARKING:
+OldSchool item parking by family: guide-looking, LocalBot, image reference, architecture notes, shortcut blocked.
+REST STOP:
+OldSchool items accepted as useful source references but not installed.
+NEXT GATE:
+OldSchool source-ore gate, content review, or hash compare only if approved.
+Belongs there:
+OldSchool top-level index, source-ore families, LocalBot/OldBot separation notes, image references.
+Must not belong there:
+Active doctrine, copied-over active guides, executed shortcuts.
+Evidence proves placement:
+OldSchool intake map, top-level metadata, later content review receipts.
+Dirty milk if:
+OldSchool becomes active truth by identity or gets changed during intake.
+
+99_MASTER_INDEX
+HOME:
+The single front index for the future knowledge stack.
+JOB:
+Tell ChatGPT where everything lives and what to load first.
+KEY:
+Approved stack creation receipt, exact stack folder, current status, and user approval.
+PARKING:
+Index update candidates waiting for approved index refresh.
+REST STOP:
+Clean index entries waiting for next batch.
+NEXT GATE:
+Master index update review and receipt.
+Belongs there:
+Load order, lane summaries, current status, stack file list, evidence links, next clean route.
+Must not belong there:
+Raw source content, unreviewed guesses, cleanup action authority without gate.
+Evidence proves placement:
+Stack build receipt and verified file existence.
+Dirty milk if:
+The master index becomes stale, vague, or silently overrides CURRENT_TRUTH_INDEX.
+
+5. Proposed future core project files
+
+These files are proposed only. They were not created.
+
+1. PROJECT_MISSION_CONTROL_INDEX.txt
+Purpose: one clean front file that tells ChatGPT what to load/use first.
+
+2. CURRENT_CONDUCT_STACK.txt
+Purpose: current operating rules, current cleanup state, active guides, bridge boundary, and next clean route.
+
+3. CLEANED_RULE_STACK_ORDERED.txt
+Purpose: cleaned rule/concept stack grouped by family, timestamp, source, status, and install state.
+
+4. ORIGIN_CONCEPT_SOURCE_MAP.txt
+Purpose: original concept files and OldSchool source-ore mapped by source, not promoted.
+
+5. EVIDENCE_AND_RECEIPT_INDEX.txt
+Purpose: receipts, manifests, maps, hashes, proof files, and what each proves.
+
+6. NOTES_CANDIDATES_AND_REST_STOPS.txt
+Purpose: guesses, parked ideas, design candidates, metaphors, lane concepts, future rule candidates.
+
+7. BLOCKED_AND_QUARANTINED_INDEX.txt
+Purpose: shortcuts, scripts, command-looking files, zips, no-key material, blocked items, and future gates.
+
+8. CLEAN_STACK_BUILD_RECEIPT.txt
+Purpose: receipt proving how the future stack was created.
+
+6. Current known rule/design candidates to preserve
+
+- Near-Right Is Not Proof / Target-Lock Before Trust
+- Guesses Have Parking Spots
+- All Lanes Have Parking
+- HOME / JOB / KEY / PARKING / REST STOP / NEXT GATE lane architecture
+- City/town metaphor candidate
+- Mirror Law / Respect Neighbor Rules
+- Sorting Rules / Pile-First Recovery
+- Fixing is not deleting / old repair-jargon boundary
+
+7. Known boundaries
+
+- ACTIVE_GUIDES remain active doctrine.
+- CURRENT_TRUTH_INDEX remains source map.
+- AGENTS.md remains local bridge guidance, not active guide.
+- PROOF_HISTORY remains proof/history, not active doctrine by identity.
+- OldSchool remains source-ore only.
+- Project Knowledge Stack draft does not create new authority until reviewed and approved.
+
+8. Recommended next step after review
+
+A. Revise this architecture draft.
+B. Create the empty PROJECT_KNOWLEDGE_STACK folder structure only.
+C. Create the master index and conduct file only.
+D. Hold.
+
+Recommended cleanest next step:
+D. Hold.
+
+Reason:
+This architecture introduces a new organizing structure. Holding for review prevents the structure from becoming accidental authority, and lets the user decide whether the stack should be revised before any folder or core file is created.
+
+9. Safety confirmation
+
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+OldSchool changed: NO
+OldSchool deeper content inspected: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Existing files overwritten: NO
+Files archived: NO
+Files parked: NO
+Files promoted: NO
+Scripts run: NO
+Zip files extracted: NO
+Shortcuts executed: NO
+Real cleanup performed: NO
+Knowledge stack folder created: NO
+Core project files created: NO

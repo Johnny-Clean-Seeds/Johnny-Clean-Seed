@@ -1,0 +1,175 @@
+CLEAN SEED — RUN EVIDENCE REPORT 014
+Engine V1.1 Tri-Rival Showdown
+Created: 2026-05-16
+Status: run evidence report / engine refinement / showdown report / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+RUN NAME
+RUN_014_ENGINE_V1_1_TRI_RIVAL_SHOWDOWN
+
+WHY THIS RUN EXISTS
+Run 012 created Central Parking and Next-Needed Engine V1.
+Run 013 V2 challenged Engine V1 with a three-way rival truth tournament:
+- Central Parking / Next-Needed Engine
+- Weakest-Link / Constraint Engine
+- STING / Contradiction Hammer Engine
+
+Run 013 V2 proved Engine V1 should not be live-trusted alone.
+It needed a tri-rival upgrade before serious use.
+
+During Run 014, the user added a critical correction:
+there could lurk in the shadows a true victor.
+
+That means the Judge must not automatically crown:
+- Central Parking
+- Weakest-Link
+- STING
+- or even the hybrid
+
+The true answer may be outside the visible competitors.
+
+ACTIVE QUESTION
+Can Engine V1 be refined into a stronger V1.1 that uses all three rivals while still allowing an outside truth to beat them all?
+
+ANSWER
+Yes.
+
+Engine V1.1 should not choose one competitor as permanent king.
+It should use each competitor as a pressure system, then force a Shadow Victor Gate before the Judge calls truth.
+
+Central Parking preserves the field.
+Weakest-Link finds the bottleneck.
+STING strikes false certainty.
+Shadow Victor Gate asks whether the real answer is outside the ring.
+The Judge decides by proof.
+
+SCOPE
+Allowed:
+- create Engine V1.1 refinement
+- create Showdown Report
+- include rival roles
+- include Shadow Victor Gate
+- include Judge proof standard
+- include none-of-the-above verdict
+- include disproof conditions
+- include stop/do-nothing candidate
+- include live-use test recommendation
+
+Blocked:
+- cleanup
+- deletion
+- active-guide install
+- doctrine promotion
+- public-site redesign
+- claiming V1.1 is proven in live use
+- treating V1.1 as authority before testing
+- treating any competitor or hybrid as final truth by style
+
+SHOWDOWN RESULT
+No visible competitor fully wins.
+
+Central Parking alone:
+Too accepting. Can organize drift.
+
+Weakest-Link alone:
+Too narrow. Can lose peripheral gold.
+
+STING alone:
+Too destructive. Can paralyze movement.
+
+Hybrid alone:
+Stronger, but still dangerous if it becomes the default winner by elegance.
+
+The current best result is not a crowned victor.
+It is a judged operating sequence with a Shadow Victor Gate:
+Parking -> Bottleneck -> Contradiction -> Outside-Truth Check -> Judge -> Proof -> Next state.
+
+ENGINE V1.1 CORE
+Park enough to prevent loss.
+Find the bottleneck before running.
+Strike the hidden contradiction.
+Ask what truth may be outside the ring.
+Judge by proof, not style.
+Run only what improves the next state.
+
+KEY V1.1 UPGRADES
+1. Short-life holding before permanent parking.
+2. Constraint-relief scoring for candidate runs.
+3. STING contradiction strike before verdict.
+4. Shadow Victor Gate before winner declaration.
+5. None-of-the-above verdict option.
+6. Disproof condition required before PASS.
+7. Stop / wait / do-nothing candidate required in every tournament.
+8. Board refresh only when route state actually changes.
+9. Engine output remains recommendation until proof and approval.
+
+SHADOW VICTOR GATE
+Before the Judge crowns any winner, ask:
+- What answer is not represented by the current competitors?
+- What would make all visible competitors wrong?
+- What hidden option would better explain the evidence?
+- Is the apparent hybrid only a neat compromise?
+- Is the truth outside the tournament field?
+- Should the Judge choose none, yield, or ask for more evidence?
+
+JUDGE STANDARD
+The Judge Knows only when:
+- active question is named
+- scope is named
+- proof standard is named
+- disproof condition is named
+- rivals were allowed to attack
+- Shadow Victor Gate was run
+- hidden assumptions were surfaced
+- winner answers the losers' strongest objections
+- winner also survives the outside-truth check
+- local/public truth boundary is protected
+- next needed move becomes clearer
+- live verification supports the result
+
+If not, the Judge suspects, tests, or yields.
+
+WHAT THIS RUN PROVES
+Run 014 proves Engine V1 can be refined into a stronger V1.1 by absorbing the tri-rival findings and the Shadow Victor warning.
+
+It proves the best current model is not a single rival and not automatic hybrid victory.
+It is a judged operating sequence with outside-truth protection.
+
+WHAT THIS RUN DOES NOT PROVE
+It does not prove Engine V1.1 works in live use.
+It does not install Engine V1.1 as doctrine.
+It does not update active guides.
+It does not approve cleanup.
+It does not replace local proof.
+It does not make STING, Weakest-Link, Central Parking, or the hybrid individually authoritative.
+
+OUTPUTS CREATED
+1. CLEAN_SEED_CENTRAL_PARKING_NEXT_NEEDED_ENGINE_V1_1_TRI_RIVAL_20260516.txt
+2. CLEAN_SEED_TRI_RIVAL_SHOWDOWN_REPORT_V1_20260516.txt
+
+OUTPUT STATUS
+Proof-history first.
+Publishable if approved.
+Candidate for Run 015 live-use test.
+
+NEXT CLEAN ACTION
+Save/publish:
+1. CLEAN_SEED_RUN_EVIDENCE_REPORT_014_ENGINE_V1_1_TRI_RIVAL_SHOWDOWN_20260516.txt
+2. CLEAN_SEED_CENTRAL_PARKING_NEXT_NEEDED_ENGINE_V1_1_TRI_RIVAL_20260516.txt
+3. CLEAN_SEED_TRI_RIVAL_SHOWDOWN_REPORT_V1_20260516.txt
+
+Then run:
+RUN_015_ENGINE_V1_1_LIVE_USE_TEST
+
+Purpose:
+Feed the current project state into Engine V1.1 and make it choose the next needed move through tri-rival tournament plus Shadow Victor Gate, not momentum.
+
+CLOSE VERDICT
+PASS WITH BOUNDARY.
+
+Clean line:
+Central Parking preserves the field.
+Weakest-Link finds the bottleneck.
+STING strikes false certainty.
+Shadow Victor may lurk outside the ring.
+The Judge decides by proof.

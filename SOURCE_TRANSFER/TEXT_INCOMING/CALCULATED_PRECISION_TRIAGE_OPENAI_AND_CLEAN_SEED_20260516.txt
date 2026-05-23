@@ -1,0 +1,199 @@
+CALCULATED PRECISION TRIAGE
+OpenAI-facing + Clean Seed-facing concept packet
+Created: 2026-05-16
+
+STATUS
+Concept packet / proposal. Not active doctrine yet. Not a cleanup approval. No file deletion authority.
+
+CORE NAME
+Calculated Precision Triage
+
+CORE SENTENCE
+Do not read everything first. Use structure to find what deserves reading.
+
+WHAT WE JUST PROVED
+A messy folder had:
+- 3,375 files
+- about 214 MB of material
+- a nested “New folder” lot with 1,235 files
+
+Phase 1 did not ask a model to read everything. It used structure:
+- file manifest
+- size-first duplicate detection
+- exact hashes only where needed
+- normalized text duplicate grouping
+- risky/skipped classification
+- empty file detection
+- review-lane assignment
+
+The key result:
+- The nested 1,235-file lot was reduced to 15 non-exact-duplicate / non-normalized-duplicate review candidates.
+- Sensitive TOKEN.txt was identified and skipped.
+- A huge bundle was identified and skipped for separate handling.
+- Smaller review candidates were surfaced in a safe snippet file.
+- No source files were deleted, moved, renamed, merged, or promoted.
+
+This is the method gold.
+
+OPENAI NEEDS
+OpenAI likely needs methods that reduce wasted context, user confusion, unsafe file handling, and model overreach in large messy projects.
+
+Useful product/research points:
+1. Structure-first triage can reduce token waste before reasoning.
+2. Local deterministic passes can identify duplicate mass without semantic reading.
+3. Sensitive-looking files can be quarantined before preview.
+4. Large bundles can be skipped and handled as special cases.
+5. Review queues can be built from evidence instead of model guessing.
+6. Smaller models or local scripts can prepare the surface for stronger reasoning models.
+7. The UI should show clear input/output separation, report folders, review lanes, and next gates.
+8. Assistants should avoid “read everything” when a structural filter can find the review edge first.
+9. The system should distinguish exact duplicate, normalized duplicate, unique review candidate, sensitive quarantine, big bundle, receipt/proof, and active doctrine.
+10. The best helper behavior is not “clean my folder.” It is “map, classify, queue, then ask before cleanup.”
+
+WHAT OPENAI COULD BUILD
+A “Project Triage” workflow for ChatGPT:
+
+Stage 1 — Read-only local/source map
+- enumerate files
+- group by file size
+- hash only size-collision groups
+- build manifest
+- detect exact duplicates
+- detect normalized text duplicates
+- flag sensitive-looking files
+- flag huge bundles
+- flag risky executable-like files
+- create report folder / report surface
+
+Stage 2 — Review queue
+- identify non-duplicate edge files
+- group by lane
+- create safe snippets
+- skip sensitive and huge files by default
+- produce a small review index
+
+Stage 3 — Reasoning review
+- stronger model reviews only the queue
+- user approves what matters
+- no deletion or promotion without explicit approval
+
+Stage 4 — Cleanup plan
+- draft only
+- no real cleanup until user approves exact actions
+
+USER / CLEAN SEED NEEDS
+The user needs the same method as a durable workflow:
+
+1. Keep the source pile frozen.
+2. Use PowerShell/local scripts for cheap structural proof.
+3. Use the model only after the pile has been reduced.
+4. Treat duplicate mass as “candidate,” not trash.
+5. Treat unique edge files as “review,” not automatic gold.
+6. Treat sensitive files as quarantine without opening.
+7. Treat receipts as proof-history, not active doctrine.
+8. Treat big bundles as special cases.
+9. Create front-row review packets instead of dumping huge outputs.
+10. Only delete/move/merge after a reviewed cleanup plan.
+
+CLEAN SEED WORDING
+This is not blind scanning.
+This is content-blind but structure-sighted triage.
+
+Better phrase:
+Calculated Precision Triage.
+
+Related phrasing:
+- structure first, meaning second
+- map before judgment
+- review edge before cleanup
+- rotate the view, not the storage
+- park everything, delete nothing until proof
+- duplicate mass is not automatically trash
+- unique edge is not automatically gold
+- sensitive means quarantine before curiosity
+
+PARKING LOT MODEL MAPPING
+Source Lot:
+The original folder. Frozen. Read-only.
+
+Report Lot:
+Manifest, duplicate reports, risky/skipped lists, review index, safe snippets.
+
+Review Lot:
+The reduced set of files that actually need human/model judgment.
+
+Quarantine Lot:
+Sensitive files, executable-like files, shortcuts, archives, tokens, unknown-risk files.
+
+Big Bundle Lot:
+Very large files that should not be pasted or previewed casually.
+
+Proof-History Lot:
+Receipts, bridge runs, Neocities upload records, manifests, logs.
+
+Gold-Risk Edge:
+Small set of not-duplicate items that may contain value or may simply be unique recordkeeping.
+
+METHOD RULES
+1. Do not start with semantic reading.
+2. Do not ask a model to inspect thousands of files before structural triage.
+3. Do not delete exact duplicates immediately; first identify keeper candidates and duplicate candidates.
+4. Do not open sensitive files just because they are unique.
+5. Do not paste huge bundles.
+6. Do not promote receipt/history files into active doctrine.
+7. Do not treat unique as automatically valuable.
+8. Do not treat duplicate as automatically worthless.
+9. Create a review queue and stop.
+10. The next model reads the queue, not the whole pile.
+
+WHY THIS MATTERS FOR USERS
+Users with messy folders are often afraid to delete anything because hidden gold may be buried inside copies and backups.
+
+Calculated Precision Triage gives them a safe middle path:
+- not hoarding
+- not deleting blindly
+- not reading everything
+- not letting the model improvise cleanup
+
+It makes the mess smaller without making dangerous decisions.
+
+WHY THIS MATTERS FOR AI SYSTEMS
+AI systems often fail on large projects because they try to reason before the state is mapped.
+
+Calculated Precision Triage separates:
+- deterministic structure work
+- sensitive/risk gating
+- review queue creation
+- meaning judgment
+- cleanup approval
+
+That reduces token use, confusion, overreach, and false confidence.
+
+WHAT TO BUILD NEXT FOR THE USER
+Recommended next local artifact:
+CALCULATED_PRECISION_TRIAGE_METHOD_V1.txt
+
+It should include:
+- mission
+- terms
+- parking lots
+- Phase 1 script route
+- report outputs
+- Phase 2 review queue route
+- sensitive quarantine rule
+- big bundle rule
+- deletion approval gate
+- example from this 3,375-file run
+
+WHAT TO OFFER OPENAI
+A concise proposal:
+“Project Triage / Calculated Precision Triage: a low-token, safety-preserving workflow for reducing large messy user file sets into evidence-backed review queues before reasoning or cleanup.”
+
+CLOSE VERDICT
+This is gold as method, not necessarily because the 15 files contain doctrine gold.
+
+The repeatable win:
+A 1,235-file nested pile was reduced to a 15-file review queue without deleting, moving, opening sensitive files, or making the model read everything.
+
+That is the product insight.
+That is the Clean Seed workflow insight.

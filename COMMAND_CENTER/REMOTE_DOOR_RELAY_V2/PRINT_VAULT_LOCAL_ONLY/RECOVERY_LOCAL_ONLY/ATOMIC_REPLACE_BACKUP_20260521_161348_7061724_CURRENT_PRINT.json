@@ -1,0 +1,12 @@
+{
+  "schema": "remote_door_relay_v2e_print",
+  "slot": "CURRENT_PRINT",
+  "run_id": "REMOTE_DOOR_RELAY_V2_20260521_160050",
+  "print_id": "PRINT-20260521-161314-4553F652",
+  "action": "read_command_center_status",
+  "issued_at_utc": "2026-05-21T20:13:14.1859361+00:00",
+  "expires_at_utc": "2026-05-21T22:13:14.1859361+00:00",
+  "random_material": "8A644B13055E149862EBE7EC40BE7652D9AA0DD2A118676261B06BBCC08AB97F",
+  "print_algorithm": "HMAC-SHA256(local_secret, run_id|action|expiry|random_material|print_id)",
+  "print_sha256": "07F176F525A5DA7905F44E79F22A0B1808DDCB0A0554D13496A417DDA3D920D0"
+}

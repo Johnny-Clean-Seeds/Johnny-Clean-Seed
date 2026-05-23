@@ -1,0 +1,539 @@
+CLEAN SEED — COMPACTION HOUSEKEEPING CLOSURE RULE V1.1
+Created: 2026-05-16
+Status: Rule candidate / housekeeping method file / ordered parking update.
+Placement: Save to PROOF_HISTORY first. Do not install into ACTIVE_GUIDES unless later reviewed and promoted.
+Purpose: prevent AI-built projects from creating a clean master file while leaving the old loose-note pile active.
+
+PRE-MAKE FIT GATE
+Before making any new file, update, packet, note, report, map, or rule candidate, run this gate.
+
+Core sentence:
+Rule before file. Fit before make. Status after make.
+
+Required check:
+- What existing rule applies?
+- Does this need a new file, or should it update an existing file?
+- Where does it fit?
+- What is its job?
+- What authority does it have?
+- What existing files does it absorb, support, retire, or leave untouched?
+- What would prove the move worked?
+- What would show the move created clutter?
+- What is the smallest clean move?
+
+Do not make files on hope.
+Make calculated moves.
+If guessing is unavoidable, make the guess educated, bounded, reversible, and evidence-aware.
+
+If the route starts producing bad leads, contradiction, confusion, clutter, or unclear authority:
+Freeze.
+Preserve evidence.
+Recalculate.
+Then continue, park, or stop.
+
+ORDERED PARKING / FIT-FIRST APPLICATION ALGORITHM
+Do not park by vibe.
+Park by fit, order, evidence, and outcome.
+
+Run this algorithm when new ideas, files, reports, rules, loose notes, or cleanup candidates appear.
+
+STEP 1 — FREEZE THE ACTIVE STATE
+Stop new action long enough to name the current object.
+No new file, cleanup, promotion, overwrite, move, or deletion until the active object and evidence state are named.
+
+STEP 2 — NAME THE ACTIVE TARGET
+Classify what is being handled:
+- idea
+- rule
+- file
+- draft
+- report
+- proof
+- cleanup candidate
+- risk item
+- public-facing product
+- active doctrine candidate
+- source note
+- evidence bundle
+
+STEP 3 — RUN PARKING FIT CHECK
+Choose the right lot before action:
+- current task
+- current master
+- source proof
+- method file
+- housekeeping rule
+- product/OpenAI lane
+- public README lane
+- evidence report
+- retired draft
+- quarantine
+- big bundle hold
+- cleanup candidate
+- parked future idea
+- blocked/unknown
+
+STEP 4 — CHECK COUSINS AND AFFECTED AREAS
+Ask what nearby systems this touches:
+- note capture
+- compaction
+- source maps
+- cleanup
+- worker/judge split
+- proof-history
+- active guides
+- public packet
+- OpenAI/product proposal
+- report folders
+- quarantine
+- user pacing
+- input/output clarity
+
+If it affects a cousin area, name that area before acting.
+
+STEP 5 — ORDER DEPENDENCIES
+Some actions must happen before others.
+
+Required order examples:
+- rule before file
+- fit before make
+- source map before cleanup
+- proof before deletion
+- quarantine before preview
+- report before judgment
+- judgment before promotion
+- status after make
+- closeout after compaction
+- user approval before move/delete/overwrite
+
+STEP 6 — BEST-FIT ROUTE SWEEP
+Before acting, compare the main possible routes.
+
+Example routes:
+- add to existing master
+- update housekeeping rule
+- make a new support file
+- park as future idea
+- leave chat-only
+- reject as bloat
+- request evidence first
+
+Judge each route by:
+- clarity gain
+- clutter risk
+- authority risk
+- evidence strength
+- reversibility
+- next-step value
+- user pacing
+- proof preservation
+- cleanup risk
+- public/product value
+
+STEP 7 — CHOOSE THE SMALLEST CLEAN MOVE
+Pick the move that solves the active problem with the least clutter, least authority drift, and best future retrieval.
+
+If two moves are close, prefer:
+- update existing file over new file
+- support note over active doctrine
+- parking over promotion
+- report over cleanup
+- small test over big build
+
+STEP 8 — APPLY BOUNDED ATTEMPT
+Act only inside the approved scope.
+Do not widen the job while doing it.
+
+If the move starts producing bad leads, confusion, contradiction, clutter, or new unclear files:
+stop the attempt and run Bad-Lead Freeze.
+
+STEP 9 — EVIDENCE CHECK
+After the move, ask:
+- Did it reduce fog?
+- Did it improve placement?
+- Did it preserve proof?
+- Did it make the next action clearer?
+- Did it reduce the active plate?
+- Did it avoid authority drift?
+- Did it avoid unsafe cleanup?
+- Did it avoid adding loose files?
+
+STEP 10 — CLOSE THE LOOP
+Immediately status every new or changed item:
+- current master
+- support rule
+- source proof
+- retired draft
+- evidence report
+- quarantine
+- big bundle hold
+- cleanup candidate
+- parked future idea
+- not active working material
+
+No file is allowed to remain loose after creation.
+
+BEST-FIT ROUTE SWEEP
+When several routes are possible, do a short comparison before acting.
+
+The goal is not endless analysis.
+The goal is to avoid stabbing in the dark.
+
+Minimum comparison:
+- Route A
+- Route B
+- Route C
+- best route
+- reason
+- risk
+- stop condition
+
+OUTCOME LADDER
+Use this ladder to choose the best route.
+
+Best outcomes:
+1. Reduces active clutter.
+2. Preserves source proof.
+3. Improves retrieval.
+4. Keeps authority clear.
+5. Protects sensitive/risky material.
+6. Makes next action obvious.
+7. Uses the smallest clean move.
+8. Remains reversible.
+9. Does not make the user hold the whole system mentally.
+10. Does not create more loose files.
+
+BAD-LEAD FREEZE RULE
+If a route produces bad leads or ugly signals, stop.
+
+Bad signals:
+- contradiction
+- growing clutter
+- unclear authority
+- too many new files
+- no clear home
+- proof missing
+- sensitive material exposed
+- user confusion rising
+- helper starts improvising
+- cleanup urge appears before proof
+
+Response:
+Freeze.
+Preserve evidence.
+Name the bad signal.
+Return to the last clean state.
+Recalculate route options.
+Continue only with a smaller clean move.
+
+
+CORE PROBLEM
+AI often helps generate useful files, summaries, drafts, reports, and packets, but then leaves the user with clutter.
+
+The work gets better, but the folder still feels messy because every older note, source file, draft, proof report, and intermediate packet remains mentally active.
+
+That is not clean closure.
+
+A clean master file is not finished until the old pile has been grouped, linked, statused, and removed from the active plate.
+
+CORE RULE
+Apply rule before file.
+Check fit before make.
+Make master only when needed.
+Map sources.
+Retire drafts.
+Park proof.
+Quarantine risk.
+Mark cleanup candidates.
+Status after make.
+Collapse active plate.
+
+Short form:
+Rule before file -> fit before make -> bounded action -> evidence check -> status after make -> active plate collapsed.
+
+TRIGGER
+Run this rule whenever any of these happen:
+- loose notes are condensed into a master file
+- several idea files are blended into one packet
+- a V1/V1.1/V1.2 chain creates a new current version
+- a report folder creates a review queue
+- a proof packet replaces chat fog
+- a method file absorbs source notes
+- an AI helper creates multiple intermediate files
+- the user asks “does this replace the others?”
+- the user says the mess is still there
+- there are old files still mentally competing with the current master
+
+DO NOT WAIT FOR CLEANUP
+This rule does not mean delete files.
+
+It means assign every related file a state so the user and assistant stop carrying everything at once.
+
+Deletion is a later gate.
+Housekeeping state comes first.
+
+REQUIRED HOUSEKEEPING STATES
+Every related file must be assigned one state.
+
+CURRENT MASTER
+The one file used as the active working source now.
+
+SOURCE PROOF
+Older source material that fed the master. Kept to prove origin, not used as active working material.
+
+RETIRED DRAFT
+Older version replaced by the current master. Kept only for rollback/history.
+
+EVIDENCE REPORT
+Reports, manifests, duplicate maps, hashes, logs, snippets, indexes, and proof data. Used only when verifying claims.
+
+QUARANTINE
+Sensitive, risky, executable-like, token, secret, shortcut, unknown-risk, or not-safe-to-preview material.
+
+BIG BUNDLE HOLD
+Large file or bundle that should not be opened, pasted, or summarized casually.
+
+CLEANUP CANDIDATE
+A file or group that may be safe to remove later, but only after proof, exact path review, and user approval.
+
+NOT ACTIVE WORKING MATERIAL
+Material that may still exist but should not be part of the current plate.
+
+BLOCKED / UNKNOWN
+Material that cannot be judged yet because evidence is missing.
+
+ABSORBED INTO MASTER
+A source note whose useful content has been carried into the master file.
+
+NOT ABSORBED / PARKED
+A source note whose useful content was not included and must stay parked for possible later review.
+
+REQUIRED CLOSEOUT MAP
+Every compaction must end with a small map.
+
+Minimum fields:
+- Current master
+- Absorbed sources
+- Source proof files
+- Retired drafts
+- Evidence report files
+- Quarantine items
+- Big bundle holds
+- Cleanup candidates
+- Not active working material
+- Still open questions
+- Next clean action
+
+ACTIVE PLATE COLLAPSE
+After compaction, the active plate must be small.
+
+The active plate should contain:
+- current master
+- next action
+- only the proof file needed for the immediate next question
+
+Everything else becomes source/proof/history/retired/quarantine/hold.
+
+If the active plate still contains all source notes, drafts, reports, and old packets, compaction is incomplete.
+
+LOOSE NOTE LINKING RULE
+Loose notes cannot just sit beside a master file unexplained.
+
+Each loose note must be linked to the master in one of these ways:
+- absorbed into master
+- partially absorbed
+- source proof only
+- parked for later
+- rejected / not used
+- duplicate of master
+- retired by master
+- evidence only
+- quarantine
+- cleanup candidate
+
+This prevents “note fog.”
+
+DRAFT VERSION RULE
+When a newer version becomes current:
+- older versions become retired drafts
+- the newest version becomes current master
+- do not keep all versions mentally active
+- do not delete older versions automatically
+- keep only the newest version in the active working view
+
+Example:
+V1 = retired draft
+V1.1 = retired draft
+V1.2 = current master
+
+SOURCE PROOF RULE
+Source files do not disappear just because a master file exists.
+
+They move from active working material to source proof.
+
+That means:
+- keep them if proof/history matters
+- do not use them as active instruction unless verifying
+- do not re-read them unless there is a reason
+- do not let them compete with the current master
+
+REPORT FILE RULE
+Report files are evidence, not active doctrine and not cleanup authority.
+
+Use them when verifying:
+- counts
+- duplicate groups
+- risky/skipped items
+- exact paths
+- proof claims
+- review queue origin
+
+Do not carry the entire report folder in the active mental plate.
+
+Good shorthand:
+Data files yes. README no. Start with review/index/summary.
+
+QUARANTINE RULE
+Sensitive files are never folded into a master file by content.
+
+They can be listed by name/path/status only.
+
+Examples:
+- TOKEN.txt
+- secrets
+- keys
+- credentials
+- .env
+- unknown executable-like files
+
+Quarantine means:
+list it, do not open it, do not paste it, do not public-copy it.
+
+CLEANUP CANDIDATE RULE
+Cleanup candidate does not mean delete.
+
+It means:
+This item may be removable later if proof shows it has no remaining function and the user approves exact action.
+
+No cleanup without:
+- exact path
+- reason
+- keeper/proof location
+- risk check
+- user approval
+- post-action verification
+
+HOUSEKEEPING CLOSEOUT TEMPLATE
+Use this template after making a master file or updating a rule.
+
+PRE-MAKE FIT RESULT:
+-
+
+CURRENT MASTER:
+-
+
+ABSORBED SOURCES:
+-
+
+SOURCE PROOF:
+-
+
+RETIRED DRAFTS:
+-
+
+EVIDENCE REPORTS:
+-
+
+QUARANTINE:
+-
+
+BIG BUNDLE HOLD:
+-
+
+CLEANUP CANDIDATES:
+-
+
+NOT ACTIVE WORKING MATERIAL:
+-
+
+STILL OPEN:
+-
+
+BAD-LEAD / STOP CONDITION:
+-
+
+ACTIVE PLATE NOW:
+-
+
+NEXT CLEAN ACTION:
+-
+
+EXAMPLE — CALCULATED PRECISION TRIAGE LANE
+CURRENT MASTER:
+- CALCULATED_PRECISION_TRIAGE_METHOD_V1_2.txt
+
+ABSORBED SOURCES:
+- CALCULATED_PRECISION_TRIAGE_OPENAI_AND_CLEAN_SEED_20260516.txt
+- CLEAN_SEED_NEW_IDEAS_AFTER_CPT_SAVE_20260516.txt
+- CLEAN_SEED_NEW_IDEAS_PARKING_CITY_NOTES_20260516.txt
+
+SOURCE PROOF:
+- The three absorbed source files above.
+- Phase 1 report files from the first real run.
+
+RETIRED DRAFTS:
+- CALCULATED_PRECISION_TRIAGE_METHOD_V1.txt
+- CALCULATED_PRECISION_TRIAGE_METHOD_V1_1.txt
+
+EVIDENCE REPORTS:
+- gold_pan_index_phase1.json
+- manifest.csv
+- duplicates.json
+- normalized_duplicates.csv
+- risky_skipped.csv
+- text_inventory.csv
+- empty_files.csv
+- NEW_FOLDER_15_REVIEW_INDEX.csv
+- NEW_FOLDER_15_SAFE_SNIPPETS.txt
+
+QUARANTINE:
+- TOKEN.txt and any sensitive/token/secret-like file.
+
+BIG BUNDLE HOLD:
+- Large skipped bundle files that require special handling.
+
+CLEANUP CANDIDATES:
+- Older local copies and retired drafts only after proof and user approval.
+
+NOT ACTIVE WORKING MATERIAL:
+- Older source notes, report bulk, retired drafts, and proof reports unless verifying a claim.
+
+ACTIVE PLATE NOW:
+- CALCULATED_PRECISION_TRIAGE_METHOD_V1_2.txt
+- this housekeeping closure rule
+- next clean action only
+
+NEXT CLEAN ACTION:
+- Save current master and this rule to PROOF_HISTORY.
+- Then create public/OpenAI-facing version or cleanup decision map, not both at once.
+
+WHY THIS MATTERS
+This rule attacks one of the biggest AI-building complaints:
+
+AI can generate useful work, but it leaves clutter behind.
+
+The cure is not “never make files.”
+The cure is:
+Every generated file must have a job, a state, a home, and a closeout path.
+
+A clean build does not end at output.
+A clean build ends when the old pile is closed.
+
+CLOSE VERDICT
+This rule is the housekeeping closure layer that Calculated Precision Triage exposed.
+
+Calculated Precision Triage reduces the pile.
+Compaction Housekeeping Closure closes the pile.
+
+Together:
+apply the rule -> check the fit -> map the mess -> make or update only if needed -> status the leftovers -> collapse the active plate.

@@ -1,0 +1,27 @@
+{
+  "job_id": "CHILDJOB-20260521-161145-REMOTE-DOOR-V2E-PRINT-PROBE",
+  "id": "CHILDJOB-20260521-161145-REMOTE-DOOR-V2E-PRINT-PROBE",
+  "created_at": "2026-05-21T16:11:45.136700-04:00",
+  "requested_by": "remote_door_relay_v2e_print",
+  "route": "REMOTE_DOOR_RELAY_V2E_PRINT_TO_CHILD_SHELL",
+  "request_id": "REQ-20260521-161145-403749",
+  "run_id": "REMOTE_DOOR_RELAY_V2_20260521_143025",
+  "action": "read_command_center_status",
+  "allowed_action": "read_command_center_status",
+  "type": "read_command_center_status",
+  "target_path": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER",
+  "expected_receipt": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\OUTBOX\\CHILDJOB-20260521-161145-REMOTE-DOOR-V2E-PRINT-PROBE.receipt.txt",
+  "pre_print_checkpoint_path": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\REMOTE_DOOR_RELAY_V2\\PRINT_VAULT_LOCAL_ONLY\\PRINT_CHECKPOINTS\\PRE_PRINT_CHECKPOINT_20260521_161145_124279_PRE_USE.json",
+  "pre_print_checkpoint_sha256": "15E297AB65D7F547F9E237D8E9D7ACE3A00E79151D99B3472BA35B3FCE5501AD",
+  "boundary": [
+    "Level 1 read-status only",
+    "no repo write",
+    "no git write",
+    "no delete",
+    "no cleanup through V2 except local proved checkpoint archive",
+    "no broad crawl",
+    "no arbitrary shell",
+    "no raw command",
+    "no Level 3 save"
+  ]
+}

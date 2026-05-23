@@ -1,0 +1,26 @@
+{
+  "level": 2,
+  "allowed_action": "run_approved_helper",
+  "helpers": [
+    {
+      "helper_name": "read_child_shell_status_summary",
+      "helper_path": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\HELPERS\\HELPER_READ_CHILD_SHELL_STATUS_SUMMARY_LEVEL2.ps1",
+      "helper_sha256": "116719AC1B8588723800B222286C4F373DA7B42C5EA5299EDD13EBF473F2F215",
+      "description": "Read a bounded summary of selected Command Center status files and write helper output only.",
+      "allowed_write_root": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\HELPER_OUTPUT",
+      "blocked": [
+        "arbitrary_shell",
+        "raw_shell_expansion",
+        "git",
+        "mr_kleen_repo_write",
+        "doctrine_install",
+        "active_guides_rewrite",
+        "current_truth_index_rewrite",
+        "delete",
+        "broad_filesystem_crawl",
+        "permission_expansion",
+        "junction_symlink_teleporter"
+      ]
+    }
+  ]
+}

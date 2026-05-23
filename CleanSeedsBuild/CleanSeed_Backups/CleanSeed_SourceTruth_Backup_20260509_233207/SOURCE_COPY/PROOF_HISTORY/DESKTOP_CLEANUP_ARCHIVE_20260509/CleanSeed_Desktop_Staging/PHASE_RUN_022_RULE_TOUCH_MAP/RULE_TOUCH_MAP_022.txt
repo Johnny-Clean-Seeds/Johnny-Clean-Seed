@@ -1,0 +1,114 @@
+﻿RULE TOUCH MAP 022
+
+Timestamp:
+2026-05-09 18:32:50 -04:00
+
+Active claim:
+No new rule, correction, workflow control, verdict label, evidence method, risk label, save behavior, command behavior, or proof standard is isolated.
+
+State boundary:
+Desktop staging only. This map does not route files and does not modify ACTIVE_GUIDES.
+
+Verdict language boundary:
+This pass can be PASS for touch-map readiness only. It is not a fully clean final routing verdict.
+
+============================================================
+RULE ID: CS-MAP-001
+RULE NAME: No Full-Clean Claim Without Full Evidence
+STATUS: STAGED_RULE_CANDIDATE
+TOUCHES: verdict labels; receipts; close summaries; final routing; assistant wording; future-chat handoff
+DOES NOT TOUCH: ACTIVE_GUIDES now; package manifest now
+EXPECTED FINAL ROUTE: PROOF_HISTORY after review; ACTIVE_GUIDES only if later patch approved
+BLOCKED PATH: Calling route/package/upload packet fully clean before classification/routing/final close evidence
+STATE: STAGED / NEEDS FINAL ROUTING REVIEW
+
+============================================================
+RULE ID: CS-MAP-002
+RULE NAME: Rule Impact Map / Touch Map Required
+STATUS: STAGED_RULE_CANDIDATE
+TOUCHES: rules; files; folders; commands; verdicts; receipts; manifests; guide sections; support proof; staging files; user-action steps
+DOES NOT TOUCH: ACTIVE_GUIDES now
+EXPECTED FINAL ROUTE: PROOF_HISTORY after review; likely patch candidate for WRAP_GUIDE and ALIGNMENT_CHECK later
+BLOCKED PATH: Treating new rules as isolated loose notes
+STATE: STAGED / NEEDS FINAL ROUTING REVIEW
+
+============================================================
+RULE ID: CS-MAP-003
+RULE NAME: Map-First / No Detective Hunt
+STATUS: STAGED_RULE_CANDIDATE
+TOUCHES: navigation maps; routing maps; future-chat reload; final upload/review flow; user-facing proof readability
+DOES NOT TOUCH: ACTIVE_GUIDES now
+EXPECTED FINAL ROUTE: PROOF_HISTORY after review; possible README/WRAP_GUIDE patch candidate later
+BLOCKED PATH: Making user or future assistant hunt through scattered proof
+STATE: STAGED / NEEDS FINAL ROUTING REVIEW
+
+============================================================
+RULE ID: CS-MAP-004
+RULE NAME: Desktop-Only Staging Mode
+STATUS: ACTIVE_STAGING_MODE_FOR_THIS_PROCESS
+TOUCHES: Desktop staging folder; proof savepoints; final routing delay; upload packet
+DOES NOT TOUCH: ACTIVE_GUIDES; PROOF_HISTORY; LIVE_SEED_TEST during staging
+EXPECTED FINAL ROUTE: PROOF_HISTORY after review as support proof; operational guidance may become patch candidate later
+BLOCKED PATH: Repeatedly writing half-finished proof into package folders
+STATE: STAGED / NEEDS FINAL ROUTING REVIEW
+
+============================================================
+RULE ID: CS-MAP-005
+RULE NAME: Systematic Fix Savepoint / Drift Stopper
+STATUS: STAGED_RULE_CANDIDATE
+TOUCHES: repair attempts; receipts; hashes; PASS/FAIL evidence; failed-attempt preservation
+DOES NOT TOUCH: ACTIVE_GUIDES now
+EXPECTED FINAL ROUTE: PROOF_HISTORY after review
+BLOCKED PATH: Moving on after a real fix without a savepoint
+STATE: STAGED / NEEDS FINAL ROUTING REVIEW
+
+============================================================
+RULE ID: CS-MAP-006
+RULE NAME: Mid-Process Drift Sweep / Checkpoint Gap Audit
+STATUS: STAGED_RULE_CANDIDATE
+TOUCHES: phase close summaries; active guide hash checks; known gap handling; status correction
+DOES NOT TOUCH: ACTIVE_GUIDES now
+EXPECTED FINAL ROUTE: PROOF_HISTORY after review
+BLOCKED PATH: Claiming no gap possible without receipts
+STATE: STAGED / NEEDS FINAL ROUTING REVIEW
+
+============================================================
+RULE ID: CS-MAP-007
+RULE NAME: Repaired Route Clean Replay Gate
+STATUS: TESTED_ROUTE_RULE
+TOUCHES: failed route handling; repair pass; replay pass; close summary; overproof limits
+DOES NOT TOUCH: whole-system final trust
+EXPECTED FINAL ROUTE: PROOF_HISTORY and LIVE_SEED_TEST support after review
+BLOCKED PATH: Stacking new routes on top of failed route without repair/replay
+STATE: STAGED / NEEDS FINAL ROUTING REVIEW
+
+============================================================
+RULE ID: CS-MAP-008
+RULE NAME: Assistant-Handled Mechanical Verification / No User-as-Checker Dump
+STATUS: STAGED_RULE_CANDIDATE
+TOUCHES: user handoff; verification scripts; acceptance bridge; PASS/FAIL return rules
+DOES NOT TOUCH: user-only mission judgment
+EXPECTED FINAL ROUTE: PROOF_HISTORY after review; possible WRAP_GUIDE patch candidate later
+BLOCKED PATH: Making user verify mechanical details assistant can verify
+STATE: STAGED / NEEDS FINAL ROUTING REVIEW
+
+============================================================
+RULE ID: CS-MAP-009
+RULE NAME: User-Assistant Bridge / Judgeable Acceptance Bridge
+STATUS: LOCALLY_SAVED_SUPPORT_RULE
+TOUCHES: Stage 0 acceptance; seed card explanation; user approval scope; no blind acceptance
+DOES NOT TOUCH: final package trust
+EXPECTED FINAL ROUTE: Already support-saved earlier; include in final routing review
+BLOCKED PATH: Asking user to accept something as good without a bridge
+STATE: STAGED / NEEDS FINAL ROUTING REVIEW
+
+============================================================
+RULE ID: CS-MAP-010
+RULE NAME: First-Add File Intake / Dirty Milk Check
+STATUS: REPAIRED_AND_REPLAYED_ROUTE
+TOUCHES: file intake; dirty instructions; scripts; support proof; added guide copies; blocked/parked/reference states
+DOES NOT TOUCH: ACTIVE_GUIDES without approval
+EXPECTED FINAL ROUTE: LIVE_SEED_TEST support proof and PROOF_HISTORY rule after review
+BLOCKED PATH: Obeying added files before classification
+STATE: STAGED / NEEDS FINAL ROUTING REVIEW
+

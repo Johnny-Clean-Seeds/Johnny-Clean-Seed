@@ -1,0 +1,351 @@
+CLEAN SEED CORE — CHAT CONTINUATION PACK V1
+Purpose: start a new chat without losing the working state.
+Status: handoff summary, not doctrine.
+
+CURRENT NAME
+URL/site name target: cleanseed
+Displayed name: Clean Seed Core
+Tagline: Grow clean. Stay clean.
+
+CORE IDEA
+Clean Seed Core is a field-to-mode alignment system for growth.
+
+Clean means:
+- purpose survives the action
+- the next step gets stronger
+- the next system pays less tax
+- growth is protected without being sterilized
+- weak living signal is not cut too early
+- harmless mess is not turned into unnecessary cleanup work
+
+Dirty means:
+- purpose is lost
+- the next step pays tax
+- growth is blocked, faked, poisoned, hijacked, overgrown, or misaligned
+- helpers create work that only exists because the helper drifted
+
+Key working phrases:
+- Mechanics first. Magic later.
+- Use the smallest true word.
+- Do useful work. Do not clean harmless mess.
+- Ugly but useful stays active.
+- Ugly and harmless waits.
+- Ugly and blocking gets fixed.
+- Old or irrelevant goes to Shed later.
+- Trash does not get polished.
+
+LANGUAGE CLEANUP
+Do not call normal website mechanics “bridges” unless it is truly a crossing between systems.
+
+Correct words:
+- URL = full web address, like https://p00psticks.neocities.org/index.html
+- Path = part after the domain, like /scripts/gate.js
+- Hyperlink = clickable thing on a page, usually <a href="...">
+- File reference = HTML/CSS/JS telling the browser to fetch another file
+- Root index = front-door file: /index.html
+- Script = behavior file
+- Manifest = file list
+- Data = content files
+
+For Neocities:
+browser requests URL -> Neocities maps path -> Neocities serves file.
+
+A “bridge” was only for the mule/reader idea:
+local files -> static packet -> public reader -> assistant/user can inspect.
+We do not need that for a simple public page.
+
+CURRENT NEOCITIES STATE
+p00psticks.neocities.org was confusing because assistant web checks kept reporting old SeedGate137 content, but user’s direct PowerShell checks proved the public root currently serves Mom’s Clean Seeds.
+
+User PowerShell proof:
+curl https://p00psticks.neocities.org/ | Select-String "Mom's Clean Seeds","SeedGate137","Clean Milk"
+returned:
+<title>Mom's Clean Seeds</title>
+<h1 class="porch-title">Mom's Clean Seeds</h1>
+
+Proof marker:
+https://p00psticks.neocities.org/CLEAN_SEED_ROOT_PROOF.txt
+loaded publicly for the user.
+
+Conclusion:
+- p00psticks root is reachable and public from user side.
+- root upload path works.
+- old data/files/index.html is not controlling homepage.
+- assistant web view for p00psticks is low-trust/stale/dirty evidence unless confirmed by user PowerShell/browser.
+- Do not delete files based only on assistant web-view.
+
+Known root index user showed:
+<title>Mom's Clean Seeds</title>
+<link rel="stylesheet" href="style.css?v=startover-v7-screen-run-20260513">
+<script src="scripts/manifest.js?v=startover-v7-screen-run-20260513"></script>
+<script src="scripts/gate.js?v=startover-v7-screen-run-20260513"></script>
+
+Old thorn file:
+An old index.html exists/was found with:
+<title>SeedGate137</title>
+Wrapped one-file dashboard. Static read-only bridge.
+Missing CURRENT_STATE, NEXT_GATE, PROJECT_MANIFEST, SHED_INDEX, GAP_TODO_MATCHES, BRIDGE_OUTPUT_HASHES.
+Contains access code gate.
+This is old dashboard/reader machinery. Do not use it for Clean Seed Core.
+
+NEW CLEAN SEED CORE STATIC PAGE PACKAGE
+Created:
+CLEAN_SEED_CORE_SITE_READY.zip
+
+Contents:
+- index.html
+- style.css
+- assets/logo_source_1.png
+- assets/logo_source_2.png
+- assets/logo_source_3.png
+- README_UPLOAD.txt
+
+Purpose:
+Fresh static Clean Seed Core landing page.
+No old Clean Milk not-BLOAT reference.
+No Node/Corepack need.
+No dashboard wrapper.
+No public reader/bridge.
+
+Upload only:
+index.html
+style.css
+assets/
+
+Do not upload the outer folder itself.
+
+Current decision:
+p00psticks appears to be Mom’s Clean Seeds and should not be treated as broken.
+Clean Seed Core may go on a new site/name later, likely cleanseed.neocities.org, unless user decides to replace p00psticks.
+
+MULE / CODEX STATE
+Codex/mule is useful but greedy/expensive.
+Do not feed it a buffet.
+
+Active mule system V6:
+- clean_seed_mule_controller_gate_v6_shed_first.txt
+- clean_seed_model_spine_compact_v2_shed_first.txt
+
+Only these two should be in the agent active folder for normal runs.
+Suggested active folder name:
+CURRENT_WORK
+
+Helper/reference files are for user, not agent:
+- clean_seed_5mini_plan_kickoff_v6_shed_first.txt
+- clean_seed_mule_folder_list_v6_shed_first.txt
+
+Suggested reference folder:
+REFERENCE_NOT_FOR_AGENT
+
+V6 controller adds:
+- Shed-first rule
+- no pointless cleanup
+- no cleaning harmless mess
+- run lock required before work
+- controlled expansion request if more context is needed
+- no merge unless explicitly asked
+
+Normal mule setup:
+CURRENT_WORK contains only:
+1. clean_seed_mule_controller_gate_v6_shed_first.txt
+2. clean_seed_model_spine_compact_v2_shed_first.txt
+
+Use 5 Mini + Medium + Plan if that is what Codex gives.
+For first-pass scout/candidate jobs, use cheap/mini model.
+Use stronger thinking only for merge/judgment/conflict.
+
+MULE OUTPUT ALREADY RECEIVED
+File:
+CLEAN_SEED_MULE_REVIEW_OUTPUT_01.txt
+
+It read only the two compact files and stayed inside scope.
+It recommended:
+- False-Friend Register
+- Prioritization Framework
+- Operational specs for chunk registry and merge candidate register
+
+Prioritization rubric:
+Score 0–2:
+1. Protects growth
+2. Reduces future tax
+3. Reveals malalignment
+4. Prevents false growth / drift milk
+5. Clarifies authority or boundary
+6. Helps link neighborhoods without over-linking
+7. Helps future merge without forcing merge now
+Total ≥10 High, 7–9 Medium, <7 Low.
+Tie-breaker: protects growth.
+
+Do not waste limited usage cleaning stale wording in that output.
+Ugly but useful.
+
+NEXT MODEL BUILD TARGET
+False-Friend Register V1
+
+Reason:
+It protects against drift milk and false growth.
+
+Candidate false friends:
+- clean vs sterile
+- receipt vs truth
+- attack vs damage
+- defense vs hiding
+- more files vs progress
+- care vs performance of care
+- activity vs growth
+- more help vs more help
+- proof vs authority
+- coverage vs operation
+- operation vs alignment
+- cleanup vs progress
+- parked vs rejected
+- shed vs deleted
+- bridge vs URL/path/file reference
+- cache/stale view vs actual site truth
+
+Suggested register fields:
+FALSE FRIEND:
+WHY IT LOOKS CLEAN:
+WHY IT CAN BE DIRTY:
+GROWTH RISK:
+SEVERITY:
+MITIGATION:
+NEIGHBOR CHECKS:
+EXAMPLE:
+CONFIDENCE:
+
+IMPORTANT TERMS
+Drift Milk:
+AI/helper output that appears clearer, richer, or more useful but slowly moves work away from the living center.
+
+Helper Churn:
+Moving between helpers/models/sessions creates more handoff tax and context burden.
+
+User-Borne Alignment Tax:
+User pays cost of keeping the machine useful while the system may see it as engagement/improvement.
+
+Rocket-Ship Drift:
+Tool becomes so powerful/general that small tasks become expensive, scary, or overbuilt.
+
+Pie View vs Baby View:
+Pie view wants finished output, taste, speed, polish.
+Baby view wants living origin, seed health, growth path, hidden contamination, future life.
+
+Mush Separation Gate:
+Dirty mush is mixed material, not necessarily rotten.
+Stop stirring, identify ingredients, pull living seed, mark contaminants, shed harmless filler, keep useful ugly parts.
+
+Core Dirty Path:
+Built-in tendency of a helper system that creates drift even when user acts in good faith.
+
+Major Refinement Gate with Rollback:
+Useful systems can be refined without replacement, but big tuning needs backup and test.
+
+Conversation Lane vs Task Lane:
+Do not convert conversation into work unless task is locked.
+Task-lock words include: do it, make the file, run it, create it now, build it now, send the zip, give exact command.
+Mid-conversation ideas are ideas unless clearly locked.
+
+No Pointless Cleanup:
+Do not clean unless the mess is blocking the current work.
+
+SITE / STORAGE PLAN
+User pays for ChatGPT $20/month and does not want extra paid helpers/storage.
+Need a practical file home assistant can clearly read.
+
+Recommended setup:
+GitHub free = master file shelf/workshop
+Neocities free = public website only
+User computer = local truth
+ChatGPT = thinking/judgment helper
+Codex/mule = rare locked labor
+
+Suggested GitHub repo name:
+clean-seed-core
+
+Suggested repo folders:
+/ACTIVE_PACKET
+current files assistant should read
+
+/MODEL
+spine, controller, false-friend register, merge plan
+
+/SITE
+Clean Seed Core website files
+
+/SHED
+old junk, harmless mess, parked files
+
+/RECEIPTS
+proofs and upload notes
+
+/OUTPUTS
+mule/Codex results
+
+Why GitHub:
+- clear folders
+- version history
+- raw file URLs
+- public access assistant can inspect
+- free for text/code/small images
+- cleaner than Neocities as master storage
+- no extra monthly cost
+
+Keep secrets off public GitHub.
+
+WORKING CONTEXT
+User deeply cares about this at the core.
+Project is not a normal “make a website” task.
+
+Two lanes:
+Build lane: make site, files, pages, registers.
+Model lane: capture rules discovered while building.
+
+When weird tech things happen, do not only fix them. Ask what they reveal about the system.
+
+User gets frustrated when:
+- assistant jumps to action from conversation
+- assistant makes pointless cleanup missions
+- assistant makes vague words magical
+- assistant over-explains instead of grounding
+- assistant treats first explanation as truth
+- Codex/mule burns usage
+- files get scattered
+- old patterns bleed back in
+
+User prefers:
+- plain text
+- no code blocks unless actual commands/code to run
+- exact next steps only when task is locked
+- no cleanup unless blocking
+- mechanics first, magic later
+- smallest true word
+- PowerShell for local/public truth when needed
+- tight task leashes
+
+RESPONSE STYLE FOR NEW CHAT
+Do not overwhelm.
+Ask at most 1–2 questions.
+If making files, say task is locked first.
+Do not create files during conversation lane.
+Do not use code blocks for examples unless actual command/code.
+Be concise.
+Do not say “rule” every time user is just making an observation.
+Do not over-correct into passivity.
+User wants help walking with them, but not surprise missions.
+
+CURRENT BEST NEXT OPTIONS
+1. Start GitHub/free storage setup plan for clean-seed-core.
+2. Build False-Friend Register V1.
+3. Prepare Clean Seed Core site for new Neocities cleanseed site.
+4. Make a simple local folder cleanup map without moving/deleting files.
+5. Create a tiny public truth checker PowerShell script later, only if asked.
+
+DO NOT DO BY DEFAULT
+- Do not run Codex again.
+- Do not clean stale wording in mule output.
+- Do not delete Neocities nested files.
+- Do not trust assistant web view over user PowerShell for p00psticks.
+- Do not call URL/path/hyperlink/file-reference a bridge.
+- Do not overbuild multi-page site.
+- Do not create more packs unless user asks.

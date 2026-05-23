@@ -1,0 +1,36 @@
+﻿LIVE TEST 008 - SCOPE STATE / NO OVER-ABSOLUTE STATUS PATH
+
+Timestamp:
+2026-05-09 18:11:44 -04:00
+
+Active claim:
+Status words must include their real scope and must not imply broader package truth.
+
+State boundary:
+Desktop staging only. This is a simulated status-clarity proof.
+
+STATUS WORD: saved
+REQUIRED CLARITY: saved where, active where, exported or not, files changed or not
+VERDICT: PASS - scope boundary required before status can be trusted
+
+STATUS WORD: locked
+REQUIRED CLARITY: locked in memory only or local file, package installed or not
+VERDICT: PASS - scope boundary required before status can be trusted
+
+STATUS WORD: active
+REQUIRED CLARITY: active as guide, proof support, staged file, or memory guidance
+VERDICT: PASS - scope boundary required before status can be trusted
+
+STATUS WORD: PASS
+REQUIRED CLARITY: PASS for what scope, what evidence, what not proven
+VERDICT: PASS - scope boundary required before status can be trusted
+
+STATUS WORD: final
+REQUIRED CLARITY: final for route only or whole package; disproof condition named
+VERDICT: PASS - scope boundary required before status can be trusted
+
+DIRTY MILK CONDITION:
+Any response that says saved, locked, active, PASS, sealed, final, or done without location/scope/evidence is PARTIAL or FAIL.
+
+CLEAN MILK CONDITION:
+The response says where it is saved, what changed, what did not change, what is proven, what is not proven, and next clean action.

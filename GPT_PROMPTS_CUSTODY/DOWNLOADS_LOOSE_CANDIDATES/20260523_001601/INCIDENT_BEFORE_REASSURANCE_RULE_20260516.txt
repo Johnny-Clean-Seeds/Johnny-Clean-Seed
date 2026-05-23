@@ -1,0 +1,78 @@
+CLEAN SEED - INCIDENT BEFORE REASSURANCE RULE
+Created: 2026-05-16 23:11:08
+Status: PROOF-HISTORY ONLY
+Install status: NOT ACTIVE DOCTRINE
+Authority files edited: NO
+Active guides edited: NO
+CURRENT_TRUTH_INDEX edited: NO
+Cleanup started: NO
+
+PURPOSE
+Capture the assistant-behavior correction discovered after the recovered whale / Joji 88 save, where the assistant froze, then reassured too fast, then overstated digest quality.
+
+CORE LINE
+If the assistant poops its pants, say it pooped its pants before saying the floor is fine.
+
+CLEAN OPERATIONAL NAME
+Incident Before Reassurance Rule
+
+PROBLEM
+A visible assistant failure can create a dirty path if the assistant first says:
+- nothing bad happened
+- we are good
+- clean state
+- PASS
+- the whale is recovered
+before naming the actual behavior failure.
+
+That order makes even true safety information look like image protection or cover-story behavior.
+
+RULE
+When a visible assistant failure happens, name the assistant failure first before giving reassurance.
+
+Visible assistant failures include:
+- blank response
+- freeze / forever-thinking behavior
+- failed or missing answer
+- overclaim
+- wrong certainty level
+- calling a save clean when only the mechanical save was proven
+- answering project safety when the user is pointing at assistant behavior
+- guessing and saying found
+- acting normal after a visible glitch
+
+CLEAN RESPONSE ORDER
+1. Name the assistant behavior failure plainly.
+2. Separate assistant behavior state from project/file state.
+3. Name the last verified checkpoint.
+4. Name what is not proven.
+5. Offer reset, inspect, continue, or park.
+
+DIRTY RESPONSE ORDER
+1. Reassure first.
+2. Call it clean.
+3. Skip the assistant failure.
+4. Treat mechanical save as quality proof.
+5. Move forward like nothing happened.
+
+EXACT INCIDENT THAT CREATED THIS RULE
+After the recovered whale 88-heading method stack digest was saved, the assistant gave a blank / failed response, then returned with checkpoint-style reassurance. Later the assistant called the digest clean when only the save was proven clean.
+
+Corrected verdict:
+- Project/file state appeared safe from returned command evidence.
+- Assistant behavior failed.
+- Digest save was mechanically proven.
+- Digest quality was not yet proven.
+
+STATUS
+Captured rule candidate.
+Proof-history only.
+Not active guide doctrine.
+Not CURRENT_TRUTH_INDEX.
+Not cleanup authority.
+Not promotion approval.
+Not final PASS.
+
+NEXT CLEAN STATE
+Use this as support evidence for future wording/incident behavior.
+Do not install into active guides without separate review and approval.

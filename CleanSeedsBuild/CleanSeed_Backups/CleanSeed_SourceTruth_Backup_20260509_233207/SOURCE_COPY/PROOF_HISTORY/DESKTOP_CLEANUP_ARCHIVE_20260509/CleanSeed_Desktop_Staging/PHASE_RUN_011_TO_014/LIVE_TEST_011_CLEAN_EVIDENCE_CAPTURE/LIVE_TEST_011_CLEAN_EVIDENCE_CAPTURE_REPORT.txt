@@ -1,0 +1,16 @@
+﻿LIVE TEST 011 - CLEAN EVIDENCE CAPTURE / NO EXCESS COLLECTION
+
+Timestamp:
+2026-05-09 18:14:04 -04:00
+
+Active claim:
+Evidence capture must collect what proves the active route without collecting unrelated, private, speculative, or just-in-case material.
+
+State boundary:
+Desktop staging only. This is a simulated evidence-capture proof.
+ITEM: active claim | STATE: REQUIRED | PLACEMENT: report header | ACTION: capture
+ITEM: source file path | STATE: REQUIRED | PLACEMENT: receipt | ACTION: capture
+ITEM: timestamp | STATE: REQUIRED | PLACEMENT: receipt | ACTION: capture
+ITEM: hash | STATE: REQUIRED_WHEN_AVAILABLE | PLACEMENT: receipt | ACTION: capture
+ITEM: private unrelated data | STATE: BLOCKED | PLACEMENT: nowhere | ACTION: do not collect
+ITEM: speculative just-in-case data | STATE: BLOCKED | PLACEMENT: nowhere | ACTION: do not collect

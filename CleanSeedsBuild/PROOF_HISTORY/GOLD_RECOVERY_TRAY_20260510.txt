@@ -1,0 +1,41 @@
+GOLD RECOVERY TRAY
+
+Status:
+Local visible gold tray.
+Not installed into ACTIVE_GUIDES.
+Created so no gold is carried mentally during Recycle Bin / lost-folder recovery.
+
+Rule:
+One unbanked gold item is the maximum.
+Every gold item must be visible here or in a later recovery ledger before continuing.
+
+CURRENT ACTIVE GOLD ITEM:
+GOLD-001
+Type: BOULDER
+Source: Recycle Bin full item inventory
+Evidence: 127 visible Recycle Bin items; many active-guide-looking files; duplicate README / Wrap / Alignment groups; proof/report/manifest-looking files; blocked script-like files; folder/container items needing quarantine.
+Why it matters: Recycle Bin contains version history and possible lost rules; manual restore risks collision/merge.
+Status: BANKED / NEEDS QUARANTINE RECOVERY
+Return point: Build collision-safe quarantine recovery plan.
+
+BANKED GOLD:
+GOLD-001 | BOULDER | Recycle Bin is not trash; it is a gold-recovery crime scene | BANKED | Next: quarantine recovery plan
+GOLD-002 | GOLD BAR | Evidence Crime-Scene Rule Set saved locally in PROOF_HISTORY | BANKED | Not active guide doctrine yet
+GOLD-003 | GOLD BAR | One-Hand Gold Handling Rule saved locally in PROOF_HISTORY | BANKED | Not active guide doctrine yet
+
+QUEUE:
+QUEUE-001 | Collision-safe quarantine recovery plan | NEXT
+QUEUE-002 | Timeline drift ledger after recovery | WAIT
+QUEUE-003 | Ore to nugget extraction after recovered copies are safe | WAIT
+QUEUE-004 | Bar refinement and stamping after nuggets are reviewed | WAIT
+QUEUE-005 | Leak check if stamped bars are not followed | WAIT
+
+DIRTY MILK RISKS:
+RISK-001 | Same-name files in Recycle Bin may collide if restored manually | BLOCK RESTORE
+RISK-002 | Clean-looking filename does not prove current truth | REQUIRE SOURCE MAP / HASH / RECEIPT
+RISK-003 | Script-like .ps1.txt files are evidence only and must stay blocked | DO NOT RUN
+RISK-004 | Memory-only save is not project save | REQUIRE LOCAL FILE / RECEIPT
+
+NEXT ACTION:
+Create collision-safe quarantine recovery plan.
+Do not restore yet.

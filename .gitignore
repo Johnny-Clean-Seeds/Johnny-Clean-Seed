@@ -3,6 +3,9 @@
 # Secrets / tokens
 TOKEN.txt
 token.txt
+*TOKEN*
+*Token*
+*token*
 *.token
 *.key
 *.pem
@@ -21,26 +24,14 @@ token.txt
 # Local/private clutter
 desktop.ini
 Thumbs.db
-*.lnk
-*.log
 *.tmp
 *.bak
 *.old
 
-# Heavy / risky bundles
-*.zip
-*.7z
-*.rar
-*.tar
-*.gz
-*.exe
-*.msi
-*.ps1
-*.bat
-*.cmd
-
-# Private proof/history by default
-PROOF_HISTORY/
-Shed/
-CleanSeed_LiveBridge_V0/
-CleanSeed_Bridge_OUT/
+# Explicitly excluded cleanup lanes
+*Shed*
+*shed*
+*SHED*
+*Bridge*
+*bridge*
+*BRIDGE*

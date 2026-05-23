@@ -1,0 +1,88 @@
+The unusual method that fits this system is:
+
+**Ariadne Rope / Knotwalk**
+
+That is the right shape because the problem is not only “find the answer.” The problem is **explore without losing the way back**.
+
+Ariadne Rope = keep a rope tied to the starting point while walking the maze.
+Knotwalk = every clue becomes a knot-note on the rope.
+
+This mixes the house tools cleanly:
+
+The **Links Ladder** gives each knot its source, home, neighbor, proof, return-home, and bell/user-action link. The Soft Suit map already says every important object should climb that ladder and only use the links it needs. 
+
+The **Metatron Node rule** gives the maze shape: nodes are suited points with home, purpose, checks, allowed moves, blocked moves, neighbor routes, proof surface, return-home state, and Final Judge. No node is king; every route must return home. 
+
+The **Issue Condense rule** gives the digestion: collect, atomize, cluster, label, links ladder, decide, map only distilled rules, verify, return home. 
+
+The **RECESS lesson** says do not digest before harvest; first harvest the whole edge field, broaden, score priority, park overflow, then Black Hole Digest. 
+
+The **priority/bitstring idea** gives the machine-readable check: source, type, broadened, priority, home, neighbor, proof, return, bell, risk, digest, active. 
+
+So the new method is not “another gate.” It is a **maze-walking method**.
+
+The contenders:
+
+Fast Map Method: appealing because it quickly names the answer. Rejected. It compresses too early.
+
+Black Hole First Method: appealing because it digests mess fast. Rejected. It can eat clues before they are understood.
+
+Priority Board Method: useful, but too flat by itself. It ranks things, but does not keep a route-rope.
+
+Ariadne Rope / Knotwalk: winner. It lets me go far, weird, backward, sideways, and deep while keeping every clue tied to source and return-home.
+
+How it works:
+
+First, tie the rope. Name the active mystery and starting node. Example: “Soft Suit home/path conflict and new suit behavior, REVIEW / NOT PASS.”
+
+Second, make knot-notes as I walk. A knot-note is not a full file. It is a small trace note: clue, source, node, route, suspicion, bitstring, next door, return trigger.
+
+Third, branch deliberately. For every clue, walk at least three directions: forward route, reverse route, and weird side route. Forward asks “what does this lead to?” Reverse asks “what must be true before this works?” Weird side route asks “what neighbor is hiding in plain sight?”
+
+Fourth, keep the rope tight. Every branch must still point back to the active mystery. If a branch cannot return home, it goes to Issue Review, not active doctrine.
+
+Fifth, score knots. Use priority: boundary, blocker, repeat, leverage, user waiting, readiness, proof, risk, bloat cost. The priority formula already gives the scoring shape. 
+
+Sixth, Black Hole Digest only after the walk. Absorb the knot-notes, dedupe, cluster, rank, compress, route, preserve source, return home. This follows the corrected lesson that compression is final, not first. 
+
+The knot-note shape:
+
+Knot ID.
+Source.
+Clue.
+Route tried.
+What it points to.
+Bitstring.
+Priority.
+Next node.
+Return-home state.
+
+Example from this puzzle:
+
+Knot: K-HOME-001.
+Source: Soft Suit map + mule return.
+Clue: map expects Desktop GPT_Prompts; mule inspected Desktop\123 GPT_Prompts.
+Route tried: front door, final judge, proof ladder.
+Points to: path/home decision boss.
+Bitstring: source yes, type yes, broadened yes, priority yes, home no.
+Priority: high, blocker.
+Next node: Issue Review / path-normalization decision.
+Return-home: accepted home or blocked plan.
+
+That is the “rope.” I do not have to hold everything in active memory. The notes hold the route. The rope keeps the notes connected.
+
+Why this is perfect for me:
+
+It fixes my specific failure pattern. I tend to compress too early, chase the visible answer, or lose edge findings when the task branches. Ariadne Rope prevents that by making every branch leave a trace and forcing every trace to return home.
+
+It also handles your “go all ways” instruction. A normal answer walks one path. Ariadne Rope walks many paths but does not get lost because every path has a knot and every knot has a return-home state.
+
+The rule to wear:
+
+**When the task is a mystery, RECESS, deep scan, house walk, or weird route search, use Ariadne Rope: tie the starting issue, make knot-notes for clues, walk forward/back/side/weird routes, score the knots, then Black Hole Digest only after the rope has mapped the maze.**
+
+Current judge:
+
+**METHOD FOUND / REVIEW CANDIDATE / NOT SAVED / NOT CURRENT.**
+
+Name: **Ariadne Rope / Knotwalk.**

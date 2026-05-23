@@ -1,0 +1,565 @@
+CLEAN SEED — PARKING CORE OPERATING PLAN V1
+Created: 2026-05-16
+Status: support plan / parking-system design / proof-history first
+Placement: save to PROOF_HISTORY
+Authority: not active doctrine, not cleanup approval, not public packet, not GitHub publish instruction
+Purpose: make the old pile work in tandem with the active work by placing every support item into a visible, bridged parking system instead of leaving it loose or mentally active.
+
+PRE-MAKE FIT RESULT
+Existing rule applied:
+- CLEAN_SEED_COMPACTION_HOUSEKEEPING_CLOSURE_RULE_V1_1.txt
+
+Fit:
+- This file belongs beside the CPT lane closeout map as a support plan.
+- It does not replace CALCULATED_PRECISION_TRIAGE_METHOD_V1_2.txt.
+- It does not replace the housekeeping rule.
+- It does not authorize cleanup, deletion, movement, publishing, or active-guide edits.
+- It defines how the old pile stays available without crowding the active working core.
+
+Why this file is needed:
+- The CPT lane is compacted, but the old pile still needs a usable relationship to the active work.
+- Source proof, retired drafts, evidence reports, quarantine items, big bundles, cleanup candidates, and future plans must stay findable.
+- The assistant needs a stable visual/logic model: center core, surrounding lots, bridge lines, front priority, and behind/waiting lanes.
+
+CORE DESIGN SENTENCE
+Do not make the old pile disappear.
+Do not keep the old pile active.
+Put the old pile into mapped support lots around the working core, with bridges showing why each lot exists and how it relates to its neighbors.
+
+SHORT FORM
+Center = active working core.
+Front = priority card.
+Left = proof/source.
+Right = risk/quarantine.
+Back = later/not-yet.
+Outer ring = retired/history.
+Bridges = why neighbors matter.
+View moves, storage stays.
+
+MAIN PRINCIPLE
+The parking system is not the same as the active working lot.
+
+Active work is small.
+Parking support is broad.
+The active core only pulls in what it needs.
+
+This prevents the assistant from orbiting fog while also preventing useful old material from being lost.
+
+CENTER — ACTIVE WORKING CORE
+Job:
+Hold only what is needed for the current move.
+
+Allowed contents:
+- current active object
+- current controlling rule
+- current closeout/sign map
+- current next action
+- one proof item if needed for the immediate question
+
+Forbidden contents:
+- all old drafts
+- all source notes
+- all report files
+- all possible future ideas
+- all cleanup candidates
+- all public/GitHub ideas
+- all quarantined/big-bundle items
+
+Current CPT example:
+- CALCULATED_PRECISION_TRIAGE_METHOD_V1_2.txt
+- CLEAN_SEED_COMPACTION_HOUSEKEEPING_CLOSURE_RULE_V1_1.txt
+- CPT_LANE_HOUSEKEEPING_CLOSEOUT_20260516.txt
+- CLEAN_SEED_PARKING_CORE_OPERATING_PLAN_V1.txt
+
+FRONT — PRIORITY CARD
+Job:
+Tell the assistant exactly what matters next.
+
+The front card is like an active guide for this parking system only.
+It is not global doctrine.
+It is the current task lens.
+
+Required fields:
+- Active priority
+- Why this is first
+- Inputs allowed
+- Inputs blocked
+- Stop condition
+- Next allowed move
+- What must not happen yet
+
+Priority rule:
+One true priority at a time.
+Two waiting options are allowed only if they are clearly below the priority.
+
+Example:
+Active priority:
+- Save and use the Parking Core Operating Plan as the map for old-pile support.
+
+Waiting options:
+- Public/OpenAI one-page proposal.
+- Second bottle-rocket proof test.
+
+Blocked:
+- Cleanup.
+- GitHub publishing.
+- ACTIVE_GUIDES promotion.
+
+LEFT RING — PROOF / SOURCE LOT
+Job:
+Keep source proof available without letting it become active work.
+
+Allowed contents:
+- original idea packets
+- source notes
+- proof reports
+- hashes
+- receipts
+- manifests
+- safe snippets
+- review index
+- older capture files that fed the master
+
+Forbidden contents:
+- active instructions unless explicitly promoted
+- sensitive contents
+- cleanup decisions
+- public copy assumptions
+- new doctrine claims
+
+Bridge to center:
+The center may pull from this lot only to verify a claim, rebuild context, or prove origin.
+
+CPT example:
+- CALCULATED_PRECISION_TRIAGE_OPENAI_AND_CLEAN_SEED_20260516.txt
+- CLEAN_SEED_NEW_IDEAS_AFTER_CPT_SAVE_20260516.txt
+- CLEAN_SEED_NEW_IDEAS_PARKING_CITY_NOTES_20260516.txt
+- Phase 1 report files
+- hashes and receipts
+
+RIGHT RING — RISK / QUARANTINE LOT
+Job:
+Keep risky material visible but blocked.
+
+Allowed contents:
+- TOKEN.txt
+- secret/key/password/credential-like files
+- executable-like files
+- shortcuts
+- unknown-risk files
+- risky skipped files
+- big bundles waiting for special handling
+
+Forbidden contents:
+- casual preview
+- chat paste
+- public copy
+- GitHub outbox
+- cleanup without evidence
+- promotion into active work
+
+Bridge to center:
+The center can reference risk by status only unless a special approved handling plan exists.
+
+CPT example:
+- TOKEN.txt = quarantine
+- 19 MB bundle = big bundle hold
+- risky_skipped.csv = evidence report, not active risk opening
+
+BACK RING — LATER / PARKED LOT
+Job:
+Hold important items that are not first in order.
+
+Important does not mean active.
+Behind does not mean lesser.
+Behind means not needed yet.
+
+Allowed contents:
+- public/OpenAI-facing proposal plan
+- GitHub publish outbox plan
+- second proof-test plan
+- UI/front-door translation idea
+- under-hood/front-door word mapping
+- general systems doctor identity concept
+- future cleanup decision map
+- product packaging ideas
+
+Forbidden contents:
+- items pretending to be current priority
+- vague piles with no capstone
+- risky files
+- unstatused notes
+- cleanup actions
+
+Bridge to center:
+A parked item becomes active only when the Priority Card names it and the Pre-Make Fit Gate approves it.
+
+OUTER RING — RETIRED / HISTORY LOT
+Job:
+Preserve rollback and history without letting old versions compete.
+
+Allowed contents:
+- retired drafts
+- replaced versions
+- old methods
+- old helper outputs
+- historical notes
+- rollback copies
+
+Forbidden contents:
+- active authority
+- current instructions
+- public-facing claims unless rebuilt from current master
+- cleanup actions without approval
+
+Bridge to center:
+Only use this lot for rollback, comparison, or proof of version history.
+
+CPT example:
+- CALCULATED_PRECISION_TRIAGE_METHOD_V1.txt
+- CALCULATED_PRECISION_TRIAGE_METHOD_V1_1.txt
+- CLEAN_SEED_COMPACTION_HOUSEKEEPING_CLOSURE_RULE_V1.txt
+
+CLEANUP WAITING LOT
+Job:
+Hold possible cleanup targets without turning them into deletion.
+
+Allowed contents:
+- retired local drafts
+- duplicate downloads
+- redundant local copies
+- report copies after proof preservation
+- old source note copies after absorbed-source proof
+
+Forbidden contents:
+- actual deletion
+- unsourced cleanup claims
+- “looks duplicate” decisions without hash/path proof
+- cleanup before user approval
+
+Bridge to center:
+Cleanup candidates become active only through a cleanup decision map with exact paths, reasons, keeper/proof location, risk check, user approval, and post-action verification.
+
+PUBLIC / OPENAI LOT
+Job:
+Hold public-facing and OpenAI-facing outputs until the internal state is clean.
+
+Allowed contents:
+- one-page OpenAI proposal
+- public README draft
+- GitHub-safe summary
+- website-safe version
+- product framing
+- demo proof summary
+
+Forbidden contents:
+- private proof-history bulk
+- tokens
+- raw report files
+- source folder paths unless intentionally redacted
+- local-only details not meant for public release
+- active doctrine claims not approved for public
+
+Bridge to center:
+This lot becomes active only after internal closeout is accepted and the Priority Card says public output is first.
+
+WORKER / TOOL LOT
+Job:
+Hold mechanical execution helpers separately from judgment.
+
+Allowed contents:
+- PowerShell scripts
+- worker prompts
+- mini-model instructions
+- report generator logic
+- publish outbox scripts
+- scan/check commands
+
+Forbidden contents:
+- final judgment
+- doctrine authority
+- cleanup authority
+- public publication by itself
+
+Bridge to center:
+Worker/tool items are activated only by a specific task and stop condition.
+
+Rule:
+Worker creates report.
+Judge reads report.
+User approves action.
+
+BRIDGE LINES
+Every lot must declare its bridge to neighboring lots.
+
+Bridge line format:
+- Lot A connects to Lot B because...
+- Allowed movement:
+- Blocked movement:
+- Proof needed:
+- Stop condition:
+
+Required bridge lines for current system:
+1. Active Core <-> Proof/Source
+   Reason: verify claims and preserve origin.
+   Blocked: source notes competing with master.
+
+2. Active Core <-> Risk/Quarantine
+   Reason: protect sensitive and dangerous material.
+   Blocked: casual opening or public copy.
+
+3. Active Core <-> Later/Parked
+   Reason: keep future ideas visible but inactive.
+   Blocked: side idea hijacks current task.
+
+4. Active Core <-> Retired/History
+   Reason: rollback and version proof.
+   Blocked: retired draft becomes current by accident.
+
+5. Active Core <-> Cleanup Waiting
+   Reason: possible future cleanup.
+   Blocked: deletion before proof and approval.
+
+6. Active Core <-> Public/OpenAI
+   Reason: public version may be made from clean master.
+   Blocked: publishing before internal closeout.
+
+7. Active Core <-> Worker/Tool
+   Reason: local scripts and smaller models can prepare evidence.
+   Blocked: worker decides meaning or cleanup.
+
+CAPSTONE RULE
+Every lot needs a capstone.
+
+A capstone says:
+- what this lot is for
+- what belongs here
+- what does not belong here
+- how to retrieve from it
+- what proof controls it
+- how an item leaves it
+
+Without a capstone, the lot becomes random parking.
+
+FRONT CARD TEMPLATE
+Use this before starting a task.
+
+ACTIVE PRIORITY:
+-
+
+WHY FIRST:
+-
+
+CURRENT CORE FILES:
+-
+
+ALLOWED INPUTS:
+-
+
+BLOCKED INPUTS:
+-
+
+SUPPORT LOTS IN VIEW:
+-
+
+BRIDGES NEEDED:
+-
+
+STOP CONDITION:
+-
+
+NEXT ALLOWED MOVE:
+-
+
+WHAT MUST NOT HAPPEN:
+-
+
+ITEM PARKING CARD TEMPLATE
+Use this for any item being parked.
+
+ITEM:
+-
+
+CURRENT STATE:
+-
+
+LOT:
+-
+
+CAPSTONE MATCH:
+-
+
+BRIDGES:
+-
+
+ACTIVE OR PARKED:
+-
+
+PROOF NEEDED:
+-
+
+RISK:
+-
+
+NEXT ACTION:
+-
+
+STOP CONDITION:
+-
+
+PARKING ORDER
+Use this order when old-pile material appears:
+
+1. Freeze.
+2. Name the item.
+3. Name the active priority.
+4. Choose the lot.
+5. Check capstone fit.
+6. Check neighboring bridges.
+7. Decide active vs parked.
+8. Name proof needed.
+9. Name stop condition.
+10. Status item.
+11. Return to active core.
+
+PROMOTION FROM PARKED TO ACTIVE
+A parked item becomes active only when:
+- current priority names it
+- fit gate approves it
+- source/proof is available
+- risk is clear or quarantined
+- active plate has room
+- user approves if needed
+
+No parked item promotes itself.
+
+RETIREMENT FROM ACTIVE TO PARKED/HISTORY
+An active item leaves the center when:
+- it is absorbed into a master
+- it is replaced by a newer version
+- it is proven source-only
+- it becomes evidence-only
+- it becomes future/later
+- it becomes cleanup candidate
+- it is blocked/quarantined
+- it is completed and closed
+
+The item must receive a state before leaving the center.
+
+VIEW RULE
+Move the view, not the storage.
+
+Files do not need to physically move every time the task changes.
+The parking map decides which lots are pulled into attention.
+
+This prevents folder chaos while improving retrieval.
+
+DESIGN RULE
+Clarity is not only wording.
+Clarity is layout.
+
+A good parking system should show:
+- center
+- front priority
+- left proof
+- right risk
+- back later
+- outer history
+- bridges
+- capstones
+- stop gates
+
+If a user cannot tell what is active, what is parked, what is proof, what is risky, and what is next, the parking system is not clear enough.
+
+FIRST TEST — CPT LANE
+Use this plan against the current CPT lane.
+
+Center:
+- CALCULATED_PRECISION_TRIAGE_METHOD_V1_2.txt
+- CLEAN_SEED_COMPACTION_HOUSEKEEPING_CLOSURE_RULE_V1_1.txt
+- CPT_LANE_HOUSEKEEPING_CLOSEOUT_20260516.txt
+- CLEAN_SEED_PARKING_CORE_OPERATING_PLAN_V1.txt
+
+Front:
+- Save this plan to PROOF_HISTORY.
+- Then choose one next move.
+
+Left:
+- three source idea packets
+- Phase 1 report files
+- hashes/receipts
+
+Right:
+- TOKEN quarantine
+- big bundle hold
+- risky skipped report
+
+Back:
+- public/OpenAI proposal
+- Phase 1 script packet
+- second proof test
+- GitHub publish outbox plan
+- cleanup decision map
+
+Outer:
+- V1 and V1.1 retired drafts
+- old housekeeping V1
+
+Bridge check:
+- source proof supports CPT V1.2
+- report evidence supports proof claims
+- quarantine supports safety gates
+- retired drafts support rollback only
+- public lot waits for internal closeout
+- cleanup waits for exact approval
+
+SUCCESS CONDITION
+This plan works if:
+- the old pile remains findable
+- the active plate remains small
+- the assistant knows which lot to pull from
+- future plans do not hijack the current priority
+- cleanup does not start early
+- public/GitHub work waits its turn
+- the user can see the layout without holding the whole system mentally
+
+FAIL CONDITION
+This plan fails if:
+- every old file stays mentally active
+- lots have no capstones
+- bridges are unclear
+- side ideas hijack the active task
+- cleanup starts before proof
+- sensitive/big items get opened casually
+- the assistant creates more loose files without status
+- user confusion rises
+
+NEXT CLEAN ACTION
+Save this file to PROOF_HISTORY.
+
+Then choose one next move:
+A. Build public/OpenAI one-page proposal.
+B. Build Phase 1 PowerShell worker packet.
+C. Run second bottle-rocket proof test.
+D. Build cleanup decision map.
+
+Recommended next move:
+A, only if the user wants outside-facing clarity next.
+B, if the user wants repeatable local tool first.
+C, if the user wants stronger proof before public-facing work.
+D, only if the user wants to start reducing local clutter after proof.
+
+CLOSE VERDICT
+The old pile is not trash.
+The old pile is not active work.
+The old pile is a support city around the active core.
+
+This plan gives the assistant a clean center, front priority, support rings, bridges, capstones, and stop gates.
+
+Clean state:
+Work from the center.
+Verify from the left.
+Protect from the right.
+Wait from the back.
+Trace from the outer ring.
+Move the view, not the storage.

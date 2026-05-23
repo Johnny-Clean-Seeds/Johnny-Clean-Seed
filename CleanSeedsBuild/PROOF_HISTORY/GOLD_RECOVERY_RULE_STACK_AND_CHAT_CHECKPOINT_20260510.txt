@@ -1,0 +1,398 @@
+GOLD RECOVERY RULE STACK + CHAT CHECKPOINT
+Date: 2026-05-10
+Status: Checkpoint file for Clean Seed / Clean Milk recovery work.
+Placement target: C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY
+Active guide install status: NOT INSTALLED INTO ACTIVE_GUIDES YET.
+Purpose: Preserve the current rules, current evidence, and next route before the chat gets too heavy.
+
+============================================================
+1. WHAT THIS FILE DOES
+============================================================
+
+This file preserves the current Gold Recovery / Recycle Bin / lost-folder recovery rules in one place.
+
+It gives the user, ChatGPT, and Codex a visible checkpoint so gold is not carried in chat memory or working memory.
+
+It records the current state:
+- Recycle Bin inventory found 127 visible items.
+- Many items are active-guide-looking README / Wrap / Alignment candidates.
+- Duplicate item-name groups exist.
+- Proof/report/manifest-looking items exist.
+- Script-like .ps1.txt items are blocked evidence only.
+- Folder/container items need quarantine recovery.
+- No Recycle Bin items were restored during inventory.
+- No files were moved, deleted, renamed, overwritten, or run during inventory.
+
+It defines the next route:
+Freeze scene.
+Use Gold Pan.
+Create collision-safe quarantine recovery plan.
+Recover only into unique numbered quarantine folders after approval.
+Build timeline drift ledger.
+Extract ore into nuggets.
+Refine nuggets into bars.
+Stamp bars with ID, source, placement, status, and leak-check route.
+Run leak trace if stamped bars are not followed.
+
+============================================================
+2. WHAT THIS FILE DOES NOT DO
+============================================================
+
+This file does not edit ACTIVE_GUIDES.
+This file does not edit CURRENT_TRUTH_INDEX.txt.
+This file does not restore Recycle Bin items.
+This file does not delete, move, rename, overwrite, extract, or run anything.
+This file does not execute shortcuts.
+This file does not make these rules active guide doctrine yet.
+This file is a checkpoint and local proof/reference target until deliberately installed.
+
+============================================================
+3. CURRENT SOURCE / BRIDGE REALITY
+============================================================
+
+ChatGPT cannot directly see the user’s PC.
+
+Codex is local hands.
+Codex can inspect or change local files only from the user’s machine, in the selected folder, under the active permissions/sandbox.
+
+The evidence chain is:
+
+User owns direction.
+ChatGPT writes the clean ticket.
+Codex performs or blocks locally.
+User returns Codex output, receipt, hash, or file.
+ChatGPT judges from returned evidence.
+
+No Codex output, no uploaded file, no receipt, no hash = unknown.
+
+Memory is a trigger map, not proof.
+
+Current protected active source confirmed by returned Codex reports:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+
+Current protected parts:
+CURRENT_TRUTH_INDEX.txt
+AGENTS.md
+ACTIVE_GUIDES
+PROOF_HISTORY
+
+CleanSeed PowerShell.lnk is blocked until separately fixed because prior evidence showed it points to C:\CleanSeedsBuild.
+
+============================================================
+4. NO ADD WITHOUT EFFECT STATEMENT RULE
+============================================================
+
+Before adding a rule, file, receipt, ledger, recovery step, or Codex instruction, state:
+
+What this add does.
+What this add does not do.
+Where it goes.
+Whether it changes ACTIVE_GUIDES.
+Whether it changes CURRENT_TRUTH_INDEX.txt.
+Whether it touches Recycle Bin items.
+Whether it creates bloat or consolidates bloat.
+What proof will show it worked.
+What the next return point is.
+
+Do not add blind.
+Do not call an add saved unless it is actually saved locally, included in a returned receipt, or explicitly marked chat-only with reason.
+
+============================================================
+5. EVIDENCE CRIME-SCENE RULE SET
+============================================================
+
+Rule 1: Scene Freeze Rule
+When a lost folder, Recycle Bin cluster, duplicate active-guide pile, sudden folder mess, proof/history rupture, or file-state confusion appears, do not clean, restore, merge, overwrite, rename, or delete first.
+Freeze first.
+Inventory first.
+
+Rule 2: Chain-of-Custody Rule
+Every recovered item needs a durable ID and context record:
+Recycle Bin item number.
+Original name.
+Original path.
+Deleted date/time.
+Size.
+Type.
+Recovery location.
+Who/what recovered it.
+
+Rule 3: Collision-Safe Recovery Rule
+Same-name files must never be restored into one flat folder.
+Every recovered item needs a unique numbered quarantine folder or original-path-preserving folder to prevent collision or merge damage.
+
+Rule 4: Timeline Drift Ledger
+For each file family, sort by timestamp, original path, size, and role before judging drift.
+Compare README to README.
+Compare Wrap to Wrap.
+Compare Alignment to Alignment.
+Compare receipts to receipts.
+Compare manifests to manifests.
+
+Rule 5: Negative Evidence Rule
+Capture what failed, what was blocked, what was missing, what was rejected, what was not run, and what was not changed.
+Failure proof matters.
+Blocked proof matters.
+No-change proof matters.
+
+Rule 6: Raw Copy Before Interpretation
+Preserve raw recovered items before extracting meaning.
+Keep artifact, interpretation, mechanism, and verdict separate.
+
+Rule 7: Ore to Nugget to Bar to Stamp Rule
+Recovered material starts as ore.
+It becomes a nugget only after useful content is identified.
+It becomes a bar only after repeated or strong evidence proves reusable value.
+It becomes stamped only after ID, source, placement, status, and leak-check route are assigned.
+
+Rule 8: Leak Trace Rule
+If a stamped bar is later not followed, trace the leak:
+missing trigger;
+wrong source;
+unclear wording;
+not installed in active guides;
+only saved in memory;
+wrong map;
+bad command route;
+assistant execution failure.
+
+Rule 9: No Clean-Looking Means Current Rule
+A clean filename, familiar guide name, large size, or newer timestamp does not make a file active truth.
+Current truth requires source map, path, hash, receipt, or verified active folder.
+
+Rule 10: Evidence Saturation Rule
+When there are many similar receipts, guides, or reports, stop making loose reports.
+Consolidate into one recovery ledger or manifest so proof does not become clutter.
+
+============================================================
+6. ONE-HAND GOLD HANDLING RULE
+============================================================
+
+Gold cannot be carried in working memory.
+
+One unbanked gold item is the maximum.
+
+If one gold item appears, stop long enough to record it.
+If a second gold item appears before the first is recorded, pause or YIELD until the first is banked/statused.
+
+Gold required fields:
+Gold ID.
+Source path or source message.
+Evidence pointer.
+Gold type: boulder / gold bar / nugget / dirty milk risk / unknown ore.
+Status: unreviewed / banked / refined / stamped / installed / parked / blocked.
+Why it matters.
+Affected area.
+Return point.
+Next action.
+
+Boulder-first rule:
+Boulders outrank gold bars.
+Gold bars outrank nuggets.
+Nuggets outrank loose interesting ideas.
+Dirty milk risk is captured separately and must not be mixed into clean gold.
+
+No Invisible Gold Rule:
+Do not say “got it,” “saved,” “locked,” or “we have it” unless the gold is visible in the Gold Pan, locally saved, recorded in a ledger, or explicitly marked chat-only with reason.
+
+Gold Loss Trigger:
+If gold is noticed but not recorded, treat that as a leak.
+Stop and repair the capture path before continuing.
+
+Guard Trigger:
+If one-hand handling still leaks gold, add a guard layer before continuing recovery work.
+A guard layer checks:
+all gold IDs are present;
+all gold has a status;
+no unbanked gold remains;
+return point is written;
+next action is single-target.
+
+============================================================
+7. GOLD PAN LANGUAGE
+============================================================
+
+Ore Bin = raw recovered mess.
+Gold Pan = visible working surface for one active ore/gold item.
+Nugget List = useful pieces found but not refined yet.
+Gold Bar Bank = refined reusable rules/facts.
+Stamp Ledger = final ID/source/status/leak-check record.
+Gold Guard = extra checker if gold keeps leaking.
+
+Recycle Bin items are ore until inspected.
+
+The folder named lost is a timeline marker and evidence anchor, not proof that the material is worthless.
+
+Manual flat restore is blocked because duplicate names can collide or merge.
+
+============================================================
+8. CURRENT GOLD PAN
+============================================================
+
+CURRENT ACTIVE GOLD ITEM:
+GOLD-001
+
+Type:
+BOULDER
+
+Source:
+Recycle Bin full item inventory.
+
+Evidence:
+127 visible Recycle Bin items.
+Many active-guide-looking files.
+Duplicate README / Wrap / Alignment groups.
+Proof/report/manifest-looking files.
+Blocked script-like files.
+Folder/container items needing quarantine.
+
+Why it matters:
+Recycle Bin contains version history and possible lost rules.
+Manual restore risks collision/merge.
+
+Status:
+BANKED / NEEDS QUARANTINE RECOVERY
+
+Return point:
+Build collision-safe quarantine recovery plan.
+
+BANKED GOLD:
+GOLD-001 | BOULDER | Recycle Bin is not trash; it is a gold-recovery crime scene | BANKED | Next: quarantine recovery plan
+GOLD-002 | GOLD BAR | Evidence Crime-Scene Rule Set saved locally in PROOF_HISTORY | BANKED | Not active guide doctrine yet
+GOLD-003 | GOLD BAR | One-Hand Gold Handling Rule saved locally in PROOF_HISTORY | BANKED | Not active guide doctrine yet
+GOLD-004 | GOLD BAR | Gold Pan language accepted as better than tray | BANKED | Needs local durable save/ledger if not already saved
+GOLD-005 | GOLD BAR | No Add Without Effect Statement Rule | BANKED | Needs local durable save/ledger if not already saved
+
+QUEUE:
+QUEUE-001 | Collision-safe quarantine recovery plan | NEXT
+QUEUE-002 | Timeline drift ledger after recovery | WAIT
+QUEUE-003 | Ore to nugget extraction after recovered copies are safe | WAIT
+QUEUE-004 | Bar refinement and stamping after nuggets are reviewed | WAIT
+QUEUE-005 | Leak check if stamped bars are not followed | WAIT
+
+DIRTY MILK RISKS:
+RISK-001 | Same-name files in Recycle Bin may collide if restored manually | BLOCK RESTORE
+RISK-002 | Clean-looking filename does not prove current truth | REQUIRE SOURCE MAP / HASH / RECEIPT
+RISK-003 | Script-like .ps1.txt files are evidence only and must stay blocked | DO NOT RUN
+RISK-004 | Memory-only save is not project save | REQUIRE LOCAL FILE / RECEIPT
+RISK-005 | Chat is heavy and may compress/drop context | USE THIS CHECKPOINT FILE
+
+============================================================
+9. RECYCLE BIN INVENTORY FACTS TO PRESERVE
+============================================================
+
+Recycle Bin visible: YES.
+Total visible items: 127.
+Inventory type: item inventory, not file count.
+Many items are text files.
+Some items are folders/containers.
+Many guide-looking files share the same names.
+Same-name collision groups exist.
+
+Major duplicate groups:
+EVIDENCE_ARCHIVE_MANIFEST.txt.
+CLEAN_SEED_ALIGNMENT_CHECK.txt.
+README_START_HERE.txt.
+CLEAN_SEED_WRAP_GUIDE.txt.
+DOCTRINE_CLOSURE_AUDIT_CLEAN_JUDGMENT.txt.
+PATCH_RECEIPT_LOGIC_SERIOUSNESS_CALIBRATION.txt.
+PATCH_RECEIPT_RULE_ID_PARTNER_SYNC.txt.
+PATCH_RECEIPT_POINT_CHECK_DECISION_LOOP.txt.
+PATCH_RECEIPT_POINT_CHECK_REPAIR_AND_METHOD_EVIDENCE.txt.
+
+Active-guide-looking items:
+Many README / Wrap / Alignment candidates across:
+C:\Users\13527\Downloads
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+C:\Users\13527\Desktop\Clean Milk not
+C:\Users\13527\Desktop\lost
+C:\CleanSeedBuilds
+
+Proof/report/manifest-looking items include:
+EVIDENCE_ARCHIVE_MANIFEST variants.
+DOCTRINE_CLOSURE_AUDIT_CLEAN_JUDGMENT.
+CLOSED_LOOP_VERIFICATION_BOARD_SCOPE_STATE_TRIGGER_LOCK.
+CLEAN_MILK_NOT_BLOAT_FOLDER_PROOF.
+Receipt/proof files.
+
+Blocked script-like evidence:
+PROMOTE_GOLD_INTAKE_PRIORITY_BOULDER_FIRST_BANK_LEAK.ps1.txt.
+RUN_VERIFY_GOLD_INTAKE_PRIORITY_FULL.ps1.txt.
+
+Folder/container items needing quarantine recovery later:
+CleanSeedBuilds.
+lost.
+
+No restore occurred during inventory.
+No deletion occurred during inventory.
+No move occurred during inventory.
+No rename occurred during inventory.
+No folder creation occurred during inventory.
+No scripts ran during inventory.
+Recycle Bin was not emptied.
+
+============================================================
+10. NEXT CODEX TASK: COLLISION-SAFE QUARANTINE RECOVERY PLAN ONLY
+============================================================
+
+What this next add does:
+Creates a plan only for safely recovering Recycle Bin items into quarantine.
+
+What this next add does not do:
+It does not restore items yet.
+It does not delete, move, rename, overwrite, or run anything.
+It does not extract zip files.
+It does not execute shortcuts.
+It does not inspect unrelated files.
+It does not alter ACTIVE_GUIDES or CURRENT_TRUTH_INDEX.txt.
+
+Next Codex ticket should ask for:
+- exact quarantine root path;
+- numbered folder shape;
+- chain-of-custody ledger shape;
+- how to prevent same-name collisions;
+- what approval is needed before restore/recovery;
+- what proof lines must come back.
+
+Preferred quarantine root:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECYCLE_BIN_QUARANTINE_20260510
+
+Preferred item folder pattern:
+ITEM_0001__original-name-safe
+ITEM_0002__original-name-safe
+ITEM_0003__original-name-safe
+
+Each item folder should contain:
+the recovered item;
+ITEM_CHAIN_OF_CUSTODY.txt;
+optional CONTENT_SCAN later, not during restore.
+
+Do not restore to original paths.
+Do not restore to one flat folder.
+Do not merge same-name files.
+Do not overwrite anything.
+
+============================================================
+11. NEXT CHAT RESUME POINT
+============================================================
+
+Resume statement for next chat:
+
+We are in Clean Seed / Clean Milk recovery.
+Active protected source is C:\Users\13527\Desktop\Clean Milk not-BLOAT.
+ChatGPT cannot see the PC directly. Codex is local hands. Claims require Codex output, receipt, hash, uploaded file, or pasted evidence.
+Recycle Bin inventory found 127 visible items and many duplicate active-guide candidates. No restore/delete/move/run occurred.
+Evidence Crime-Scene Rule Set and One-Hand Gold Handling Rule were locally saved in PROOF_HISTORY with receipts.
+Gold handling must use Gold Pan language, one-hand limit, and no invisible gold.
+Current next action is collision-safe quarantine recovery plan only. No restore yet.
+Manual restore is blocked because duplicate names can collide or merge.
+
+============================================================
+12. FINAL STATUS
+============================================================
+
+This checkpoint is a file-level handoff/reference.
+It is not active guide doctrine yet.
+It should be placed into PROOF_HISTORY or uploaded into the next chat when context gets heavy.
+
+END OF FILE

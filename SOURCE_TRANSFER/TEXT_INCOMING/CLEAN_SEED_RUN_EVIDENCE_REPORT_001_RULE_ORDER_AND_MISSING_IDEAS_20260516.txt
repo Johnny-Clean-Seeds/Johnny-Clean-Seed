@@ -1,0 +1,169 @@
+CLEAN SEED — RUN EVIDENCE REPORT 001
+Rule Order Proof / Missing-Ideas Boundary
+Created: 2026-05-16
+Status: run evidence report / proof-history first / public-note approved by John for GitHub notes
+Placement: save to PROOF_HISTORY; publish one copy to PUBLIC_NOTES if John approves exact file
+Authority: not active doctrine, not cleanup approval, not active-guide install, not final proof of completeness
+
+RUN NAME
+RUN_001_RULE_ORDER_AND_MISSING_IDEAS_BOUNDARY
+
+ACTIVE QUESTION
+Why is the proposed source/read/order stack justified, and why can we not claim that no ideas or concepts are missing yet?
+
+SOURCE STACK USED
+1. Core Clean Seed model / active authority boundary.
+2. Calculated Precision Triage Method V1.2.
+3. Compaction Housekeeping Closure Rule V1.1.
+4. Old proof/history as evidence only.
+5. Parking Core / new idea layers.
+6. Rule Cluster Sequence Tournament controls.
+
+ORDER TESTED
+1. Core authority / master model.
+2. Current method proof.
+3. Housekeeping / closure control.
+4. Proof-history as evidence, not active thought.
+5. Parking-core and new idea layers.
+6. Sequence tournament controls.
+
+WHY THIS ORDER WAS CHOSEN
+The order follows dependency.
+
+The core model must come first because it defines authority, user direction, evidence, and boundary.
+
+Calculated Precision Triage comes next because it gives the main method spine:
+structure first, meaning second; map before judgment; review edge before cleanup.
+
+Housekeeping closure comes next because once a method/master exists, the old pile must be grouped, linked, statused, and removed from the active plate.
+
+Proof/history comes next as evidence because old reports, receipts, hashes, and indexes can support claims, but must not become active authority by default.
+
+Parking-core concepts come next because the system needs a way to make the old pile work in tandem with the active core without making everything mentally active.
+
+Sequence tournament controls come last in this stack because they decide how to install the next large rule cluster without one good-sounding rule corrupting the next.
+
+WHAT THIS RUN PROVED
+This run proved that the chosen order is justified as the best current starting order.
+
+It showed a clear dependency chain:
+- authority before method
+- method before closeout
+- closeout before parking remodel
+- evidence before cleanup
+- parking before large idea implementation
+- tournament before clustered rule installation
+
+It also proved that the next stage cannot honestly claim completeness until a Candidate Field Sweep is run.
+
+WHAT THIS RUN DID NOT PROVE
+This run did not prove that zero ideas are missing.
+
+It did not prove the final parking architecture is complete.
+
+It did not prove the public/GitHub note set is complete.
+
+It did not prove the rule cluster sequence tournament is ready for active-guide installation.
+
+It did not prove that every old proof/history item has been considered.
+
+It did not install any rule into ACTIVE_GUIDES.
+
+It did not approve cleanup.
+
+It did not approve deletion, movement, merging, renaming, or broad publishing.
+
+MISSING IDEAS NOT RULED OUT
+Missing concepts may still exist in:
+- old proof-history
+- unsurfaced source notes
+- retired drafts
+- uploaded files not currently pulled forward
+- chat context not yet carded
+- parking-core support ideas
+- public/OpenAI framing ideas
+- worker/tool implementation ideas
+- cleanup and proof-report procedures
+- frequency/sensor/guard/rope notes
+- future stress-test results
+
+This is not a failure.
+It is the reason the next run exists.
+
+KEY DISCOVERY
+The inability to prove zero missing ideas is itself evidence.
+
+It proves that the next proper task is not direct implementation.
+The next proper task is Candidate Field Sweep.
+
+EACH RUN NEEDS A REPORT
+A run is not proof unless it leaves a report.
+
+Every future tournament/parking/implementation run should leave a Run Evidence Report with:
+- run name
+- active question
+- candidate field used
+- source stack used
+- order tested
+- why that order was chosen
+- what it proved
+- what it did not prove
+- missing ideas not ruled out
+- dropped routes and why they dropped
+- missing-step discoveries
+- winner/loser proof
+- next clean action
+
+RUN REPORT RULE
+No run becomes proof unless it leaves a report.
+
+This prevents:
+- “I think we learned something” from becoming false proof
+- missing ideas from being hidden
+- failed routes from being discarded without classification
+- good but ugly routes from being killed too early
+- future assistants from relying on vague memory
+- chat progress from turning into background static
+
+EVIDENCE STATUS
+This report is evidence of the reasoning state at the end of this run.
+
+It is not doctrine.
+It is not final proof.
+It is not a master rule.
+It is a receipt for what was tested, what was proven, and what remains open.
+
+NEXT CLEAN ACTION
+Run Candidate Field Sweep.
+
+Candidate Field Sweep should:
+1. Name every candidate concept currently allowed into the parking implementation field.
+2. Turn raw concepts into cards.
+3. Classify each card by type, lot, dependency, risk, proof need, and activation trigger.
+4. Compare against master-rule families.
+5. Identify missing lots, missing gates, missing bridge lines, and duplicate concepts.
+6. Produce its own Run Evidence Report.
+
+CLOSE VERDICT
+The order is justified.
+Completeness is not proven.
+That is why Candidate Field Sweep is the next clean run.
+
+Clean line:
+The order is proven as the best current starting order.
+Completeness is not proven yet.
+Completeness is the next test.
+
+RUN STATUS
+PASS WITH BOUNDARY.
+
+Proved:
+- starting order is justified
+- missing-idea completeness is not proven
+- future runs need evidence reports
+
+Blocked:
+- no implementation yet
+- no cleanup
+- no active-guide install
+- no claim of complete parking architecture

@@ -1,0 +1,4 @@
+NEOCITIES CLEAN SITE SOFT CODE - DO NOT UPLOAD
+created_utc=2026-05-12T23:03:13.127Z
+site_folder=C:/CleanSeedsBuild/NEOCITIES_CLEAN_SITE
+soft_code=yard-8d821553db7e

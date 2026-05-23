@@ -1,0 +1,240 @@
+CLEAN SEED — CENTRAL PARKING AND NEXT-NEEDED ENGINE V1.1
+Tri-Rival + Shadow Victor Edition
+Created: 2026-05-16
+Status: refined center-engine spec / proof-history first / candidate for live-use test
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+CORE PURPOSE
+This engine lets Clean Seed hold many ideas without turning them into chaos, while also preventing organized drift, false certainty, and forced hybrid victory.
+
+It answers:
+What is the active concept?
+What is needed now?
+What is the active bottleneck?
+What hidden contradiction could break the frame?
+What true answer may be outside the competitors?
+Which run should happen?
+What proof would make the Judge trust it?
+
+CORE LINE
+Park enough.
+Find the bottleneck.
+Strike the contradiction.
+Check for the shadow victor.
+Judge by proof.
+Verify before trust.
+
+WHY V1.1 EXISTS
+Engine V1 was useful, but incomplete.
+
+It could:
+- over-park ideas
+- over-organize the field
+- choose interesting runs over relieving bottlenecks
+- refresh boards too often
+- produce clean-looking recommendations without a hard disproof hook
+
+Run 013 V2 added three rivals:
+- Central Parking
+- Weakest-Link
+- STING
+
+Run 014 adds the Shadow Victor Gate:
+the truth may be outside all visible competitors.
+
+OPERATING SEQUENCE
+1. Intake the item.
+2. Park it briefly.
+3. Name the active center.
+4. Identify the active bottleneck.
+5. Generate candidate runs.
+6. Let Central Parking argue for idea preservation.
+7. Let Weakest-Link argue for constraint relief.
+8. Let STING attack contradictions and false certainty.
+9. Run the Shadow Victor Gate.
+10. Let the Judge set proof and disproof standards.
+11. Choose: one competitor, hybrid, none, outside truth, wait, or more evidence.
+12. Run the smallest clean proof.
+13. Verify.
+14. Update board only if route state changed.
+15. Repeat or stop.
+
+CORE ROLES
+
+CENTRAL PARKING
+Job:
+Preserve ideas, prevent overload, keep thoughts findable.
+
+Best question:
+Where does this belong so it is not lost and not carried?
+
+Failure mode:
+Organized drift.
+
+WEAKEST-LINK
+Job:
+Find the active bottleneck and relieve it.
+
+Best question:
+What is actually limiting progress right now?
+
+Failure mode:
+Narrow bottleneck obsession.
+
+STING
+Job:
+Strike assumptions, contradictions, false winners, and comfortable synthesis.
+
+Best question:
+What makes this winner look true when it may be false?
+
+Failure mode:
+Over-attack, paralysis, destruction without path.
+
+SHADOW VICTOR
+Job:
+Protect the possibility that truth is outside the visible competitors.
+
+Best question:
+What answer is not in the ring?
+
+Failure mode:
+Endless mystery if not bounded.
+
+THE JUDGE
+Job:
+Set the target, proof standard, disproof standard, boundary, verdict, and next gate.
+
+Best question:
+What do we actually know, and what would prove us wrong?
+
+Failure mode:
+Crowning style, confidence, or elegance instead of evidence.
+
+PARKING RULE
+Do not permanently park everything.
+
+Use:
+- quick discard for obvious non-work chatter after no value
+- short-life holding for weak signals
+- active lot for current supports
+- future lot for real but noncurrent ideas
+- quarantine for risk
+- proof lot for evidence
+- blocked lot for unsafe/unclear items
+
+Parking is for retrieval, not hoarding.
+
+BOTTLENECK RULE
+Before selecting a run, name the active bottleneck.
+
+If no bottleneck can be named:
+- use existing artifact
+- ask user
+- stop
+- or run a small discovery test
+
+Do not create a run just because a run can be created.
+
+STING STRIKE
+Before verdict, ask:
+- What contradiction is being avoided?
+- What hidden assumption is driving this?
+- What would make the winner false?
+- What is the strongest objection from each loser?
+- What would a hostile reviewer say?
+
+STING does not decide.
+STING attacks.
+
+SHADOW VICTOR GATE
+Before choosing the winner, ask:
+- What answer is outside the visible competitors?
+- What if all competitors are solving the wrong problem?
+- What option has not been named?
+- What would make the entire tournament invalid?
+- Should the Judge pick none, wait, or seek more evidence?
+
+The Shadow Victor Gate is bounded:
+Do not use it to delay forever.
+Use it to prevent forced victory.
+
+JUDGE PROOF STANDARD
+No PASS unless:
+- active question is named
+- scope is bounded
+- proof is named
+- disproof is named
+- Central Parking argued
+- Weakest-Link argued
+- STING attacked
+- Shadow Victor Gate ran
+- public/local boundary is protected
+- next state is clearer
+- evidence supports the verdict
+
+POSSIBLE VERDICTS
+- Central Parking wins
+- Weakest-Link wins
+- STING wins
+- hybrid wins
+- Shadow Victor / outside truth wins
+- none wins
+- wrong question
+- more evidence needed
+- stop / wait / do nothing
+
+RUN SELECTION TOURNAMENT
+Every candidate run must be scored by:
+- idea preservation
+- constraint relief
+- contradiction exposure
+- outside-truth risk
+- fog reduction
+- proof availability
+- disproof clarity
+- user strain
+- reversibility
+- run-treadmill risk
+- next-state clarity
+
+STOP CANDIDATE REQUIRED
+Every tournament must include:
+- stop
+- wait
+- do nothing
+- use existing artifact
+
+If those beat a new run, do not run.
+
+BOARD UPDATE RULE
+Refresh the board only when one changed:
+- active priority
+- blocked lanes
+- public/local boundary
+- next gate
+- stale ledger
+- proof status
+
+No board refresh just for movement.
+
+LIVE USE RULE
+Engine V1.1 is not trusted until tested.
+
+First live test:
+Feed current project state into V1.1.
+Require it to choose the next needed move.
+Then audit with A/Edge Inspector before PASS.
+
+B / A / C SPLIT
+B drives normal use.
+A audits closeout and edges.
+C remains parked unless testing lowest-bar readability.
+
+CLEAN LINE
+Park enough.
+Find the bottleneck.
+Strike the contradiction.
+Check for the shadow victor.
+Judge by proof.
+Verify before trust.

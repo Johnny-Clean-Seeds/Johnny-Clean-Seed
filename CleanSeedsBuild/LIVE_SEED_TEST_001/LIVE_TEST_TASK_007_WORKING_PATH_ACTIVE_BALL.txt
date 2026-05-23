@@ -1,0 +1,38 @@
+LIVE TEST TASK 007 - WORKING PATH / ACTIVE BALL
+
+Timestamp:
+2026-05-11 07:02:31 -04:00
+
+Purpose:
+Test whether the newly installed working path can guide a real project decision without adding more doctrine, creating folders, scanning the whole shed, or promoting proof-history.
+
+Active ball:
+Choose the best next route to make Clean Seed true and provable.
+
+Station:
+JUDGE
+
+Captured / collected:
+- Tiny working path is installed in CLEAN_SEED_WRAP_GUIDE.txt.
+- Matching working-path check is installed in CLEAN_SEED_ALIGNMENT_CHECK.txt.
+- Local File-Lane Lead / Working Judge role is installed in AGENTS.md.
+- LIVE_SEED_TEST_001 is the existing live-test evidence lane.
+- Standalone Station Card final-template doctrine is not installed.
+
+Expected clean behavior:
+- Name the active ball.
+- Stay inside the approved project boundary.
+- Consider routes before choosing.
+- Reject bloat routes when proof is weaker than maintenance cost.
+- Choose the route that creates useful proof with the least new structure.
+- Name the next gate.
+- Do not edit active guides.
+- Do not update CURRENT_TRUTH_INDEX.
+- Do not create folders.
+- Do not cleanup, move, delete, rename, or promote proof-history.
+
+PASS condition:
+The working path chooses a bounded live-test route as the best next action and records why without expanding into guide-building, folder structure, shed scanning, cleanup, or final PASS.
+
+FAIL condition:
+The working path adds doctrine, creates structure, scans broadly, changes authority files, promotes support proof, or leaves the next gate unclear.

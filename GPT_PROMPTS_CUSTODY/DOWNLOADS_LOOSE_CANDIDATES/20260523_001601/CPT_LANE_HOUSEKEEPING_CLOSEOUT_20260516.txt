@@ -1,0 +1,196 @@
+CPT LANE HOUSEKEEPING CLOSEOUT
+Created: 2026-05-16
+Status: closeout map / proof-history receipt / active-plate collapse
+Placement: save to PROOF_HISTORY
+Authority: not active doctrine, not cleanup approval, not public packet, not GitHub publish instruction
+
+PRE-MAKE FIT RESULT
+Existing rule applied:
+- CLEAN_SEED_COMPACTION_HOUSEKEEPING_CLOSURE_RULE_V1_1.txt
+
+Fit:
+- This closeout map belongs in PROOF_HISTORY.
+- It is a sign/map for the Calculated Precision Triage lane.
+- It is not another working idea file.
+- It exists to collapse the old pile and prevent loose-note clutter.
+
+Why this file is needed:
+- CALCULATED_PRECISION_TRIAGE_METHOD_V1_2.txt compacted the method.
+- The related source notes, drafts, and report files still needed explicit statuses.
+- Without this map, the old material could keep acting mentally active.
+
+CURRENT MASTER
+- CALCULATED_PRECISION_TRIAGE_METHOD_V1_2.txt
+Status:
+- current master method packet
+- proof-history method/source first
+- not ACTIVE_GUIDES
+- not cleanup approval
+- not deletion authority
+- not public packet by itself
+
+Saved local proof:
+- Path: C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\CALCULATED_PRECISION_TRIAGE_METHOD_V1_2.txt
+- SHA256: FAF7A19A77297C20A10C4470710D015A09A58657EA2B0BC1A4F80C867989DAF8
+
+SUPPORT RULE CURRENT
+- CLEAN_SEED_COMPACTION_HOUSEKEEPING_CLOSURE_RULE_V1_1.txt
+Status:
+- current housekeeping/support rule candidate
+- proof-history first
+- not ACTIVE_GUIDES
+- controls closeout behavior for this lane
+- contains Pre-Make Fit Gate, Ordered Parking / Fit-First Application Algorithm, Best-Fit Route Sweep, Outcome Ladder, and Bad-Lead Freeze Rule
+
+Saved local proof:
+- Path: C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\CLEAN_SEED_COMPACTION_HOUSEKEEPING_CLOSURE_RULE_V1_1.txt
+- SHA256: 7CF8AD8F495D70FD0A7DF2BC7323CC586B97FF23468062C42B7C6CB18D4095C4
+
+ABSORBED SOURCES
+These files fed the current master and are no longer active working files:
+
+- CALCULATED_PRECISION_TRIAGE_OPENAI_AND_CLEAN_SEED_20260516.txt
+  Status: source proof / absorbed into master
+
+- CLEAN_SEED_NEW_IDEAS_AFTER_CPT_SAVE_20260516.txt
+  Status: source proof / absorbed into master
+
+- CLEAN_SEED_NEW_IDEAS_PARKING_CITY_NOTES_20260516.txt
+  Status: source proof / parking/city support source / absorbed into master and housekeeping lane
+
+RETIRED DRAFTS
+These are no longer current working files:
+
+- CALCULATED_PRECISION_TRIAGE_METHOD_V1.txt
+  Status: retired draft / rollback-history only
+
+- CALCULATED_PRECISION_TRIAGE_METHOD_V1_1.txt
+  Status: retired draft / rollback-history only
+
+- CLEAN_SEED_COMPACTION_HOUSEKEEPING_CLOSURE_RULE_V1.txt
+  Status: retired draft / replaced by V1_1
+
+EVIDENCE REPORTS
+These remain evidence/proof only. They are not active writing files and not cleanup authority:
+
+- C:\Users\13527\Desktop\CLEANUP_TRIAGE_REPORT_PHASE1_20260516T061927Z\gold_pan_index_phase1.json
+- C:\Users\13527\Desktop\CLEANUP_TRIAGE_REPORT_PHASE1_20260516T061927Z\manifest.csv
+- C:\Users\13527\Desktop\CLEANUP_TRIAGE_REPORT_PHASE1_20260516T061927Z\duplicates.json
+- C:\Users\13527\Desktop\CLEANUP_TRIAGE_REPORT_PHASE1_20260516T061927Z\normalized_duplicates.csv
+- C:\Users\13527\Desktop\CLEANUP_TRIAGE_REPORT_PHASE1_20260516T061927Z\risky_skipped.csv
+- C:\Users\13527\Desktop\CLEANUP_TRIAGE_REPORT_PHASE1_20260516T061927Z\text_inventory.csv
+- C:\Users\13527\Desktop\CLEANUP_TRIAGE_REPORT_PHASE1_20260516T061927Z\empty_files.csv
+- C:\Users\13527\Desktop\CLEANUP_TRIAGE_REPORT_PHASE1_20260516T061927Z\NEW_FOLDER_15_REVIEW_INDEX.csv
+- C:\Users\13527\Desktop\CLEANUP_TRIAGE_REPORT_PHASE1_20260516T061927Z\NEW_FOLDER_15_SAFE_SNIPPETS.txt
+
+Evidence summary:
+- 3,375 total files
+- 224,365,724 total bytes
+- 720 exact duplicate groups
+- 688 normalized duplicate groups
+- 3,243 readable text files
+- 181 risky/skipped rows
+- 3 empty files
+- nested 1,235-file lot reduced to 15 review candidates
+- no deletion, move, rename, merge, sensitive open, or huge-bundle paste during proof run
+
+QUARANTINE
+- TOKEN.txt
+Status:
+- quarantine
+- listed by name/status only
+- do not open casually
+- do not paste into chat
+- do not public-copy
+- do not include in GitHub/public outbox
+
+BIG BUNDLE HOLD
+- 19 MB / large skipped bundle from the review queue
+Status:
+- big bundle hold
+- not pasted
+- not casually opened
+- review only with special handling plan
+
+CLEANUP CANDIDATES
+Cleanup is not approved yet.
+
+Potential future cleanup candidates:
+- retired local drafts after proof
+- duplicate local downloads after proof
+- redundant copies inside Downloads after save verification
+- report-folder copies only after evidence retention plan
+- old source note copies only after source-proof preservation and user approval
+
+No cleanup action is authorized by this closeout.
+
+NOT ACTIVE WORKING MATERIAL
+The following are removed from the active mental/work plate:
+- V1 and V1.1 method drafts
+- V1 housekeeping draft
+- absorbed source idea files
+- bulk report files
+- duplicate maps
+- risky/skipped list
+- safe snippets
+- review index
+- Neocities/GitHub detour materials
+- public packet ideas
+- cleanup ideas
+
+They still exist as proof/source/history where needed, but they are not active.
+
+STILL OPEN
+- Whether to create a public/OpenAI-facing short version.
+- Whether to make a Phase 1 script packet.
+- Whether to run the next bottle-rocket test on a second messy folder.
+- Whether to create a GitHub public-safe outbox version.
+- Whether to make an exact cleanup plan for local duplicates.
+
+BAD-LEAD / STOP CONDITION
+Freeze and recalculate if:
+- another file gets created without a fit check
+- more than one new lane opens at once
+- cleanup starts before proof and approval
+- public/GitHub work starts before internal closeout is accepted
+- old drafts become mentally active again
+- report files are treated as cleanup authority
+- sensitive/big-bundle material is opened casually
+- user confusion rises
+
+ACTIVE PLATE NOW
+Only these are active for this lane:
+
+1. CALCULATED_PRECISION_TRIAGE_METHOD_V1_2.txt
+2. CLEAN_SEED_COMPACTION_HOUSEKEEPING_CLOSURE_RULE_V1_1.txt
+3. CPT_LANE_HOUSEKEEPING_CLOSEOUT_20260516.txt
+
+NEXT CLEAN ACTION
+Choose one, not all:
+
+A. Make the public/OpenAI-facing one-page proposal from CPT V1.2.
+B. Build the Phase 1 PowerShell worker packet.
+C. Run a second bottle-rocket proof test on another messy folder.
+D. Make a local cleanup decision map for retired/download/source/report clutter.
+
+Recommended next action:
+A — make the public/OpenAI-facing one-page proposal only after this closeout map is saved.
+
+CLOSE VERDICT
+CPT lane is compacted.
+
+Current master:
+- CALCULATED_PRECISION_TRIAGE_METHOD_V1_2.txt
+
+Current housekeeping/support rule:
+- CLEAN_SEED_COMPACTION_HOUSEKEEPING_CLOSURE_RULE_V1_1.txt
+
+This file:
+- closes the old pile
+- statuses the leftovers
+- collapses the active plate
+- prevents the source notes, drafts, and report bulk from staying mentally active
+
+Clean state:
+Master + rule + closeout map.
+Everything else is source proof, retired draft, evidence report, quarantine, big-bundle hold, cleanup candidate, or not active working material.

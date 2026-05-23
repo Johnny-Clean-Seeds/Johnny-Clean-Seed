@@ -1,0 +1,146 @@
+CLEAN SEED — RUN EVIDENCE REPORT 011
+Fresh Chat Test Verdict and Agent Selection
+Created: 2026-05-16
+Status: run evidence report / Run 010 verdict closure / agent-mode selection capture
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+RUN NAME
+RUN_011_FRESH_CHAT_TEST_VERDICT_AND_AGENT_SELECTION
+
+WHY THIS RUN EXISTS
+Run 010 created the Fresh Chat Public Front-Door Test Packet.
+
+The test was then run across multiple agent modes:
+- Thinking, not extended
+- Thinking, middle/balanced answer
+- Instant
+
+All three returned answers were judged in the originating chat.
+
+This run records the final verdict so Run 010 is no longer hanging open.
+
+ACTIVE QUESTION
+Did the public front-door route work across tested agent modes, and which agent mode should be used for future Clean Seed work?
+
+ANSWER
+Yes, with boundary.
+
+The public front-door route passed across the tested modes.
+But the modes are not equally useful.
+
+MODE TEST RESULTS
+TEST A — EDGE INSPECTOR
+Mode: Thinking, not extended.
+Verdict: PASS WITH BOUNDARY.
+Strength: best edge precision.
+Best at:
+- narrow staleness edge
+- publish-status mismatch
+- proof boundaries
+- exact report trail
+- local-vs-public separation
+
+Use case:
+Closeout, edge audit, final look-over, pre-PASS checks, risk checks, stale-board checks.
+
+TEST B — SYSTEMS DOCTOR
+Mode: Thinking, balanced/middle answer.
+Verdict: PASS WITH BOUNDARY.
+Strength: best overall.
+Best at:
+- balanced diagnosis
+- keeping the route moving
+- enough detail without overbuilding
+- operational clarity
+- judging the whole system instead of only one edge
+
+Use case:
+Default Clean Seed operating/judging mode.
+
+TEST C — QUICK SCOUT
+Mode: Instant.
+Verdict: PASS WITH BOUNDARY.
+Strength: readable signs test only.
+Limit:
+It followed the public front door, but did not add enough diagnostic value compared with B.
+
+Use case:
+Parked. Not normal workflow.
+Only useful later if a lowest-bar public readability test is specifically needed.
+
+COMPARISON VERDICT
+A found the sharpest edge.
+B made the best overall call.
+C proved the signs were readable, but B already does that and more.
+
+Final working model:
+B drives.
+A audits.
+C parked.
+
+PUBLIC FRONT-DOOR VERDICT
+The public front-door route is readable and usable.
+
+Evidence:
+The tested agents could identify:
+- active priority
+- blocked lanes
+- public report trail
+- board staleness boundary
+- local-vs-public truth boundary
+- play-drift guard
+- next clean gate
+- no old-chat-weight requirement
+
+RUN 010 OVERALL VERDICT
+PASS WITH BOUNDARY.
+
+Boundary:
+This does not prove future agents will always behave cleanly.
+It proves the current public doorway is legible enough to carry the route across tested modes.
+
+WHAT THIS RUN PROVES
+Run 011 proves:
+- Run 010 can be closed as PASS WITH BOUNDARY.
+- The public front-door route survived fresh-chat testing.
+- B/System Doctor should be the default work mode.
+- A/Edge Inspector should be used for closeout and risk edges.
+- C/Quick Scout is parked as redundant for normal work.
+
+WHAT THIS RUN DOES NOT PROVE
+It does not approve cleanup.
+It does not install doctrine.
+It does not update active guides.
+It does not remove the need for proof.
+It does not make public files local truth.
+It does not prove C is useless forever.
+It parks C for current normal Clean Seed work.
+
+OUTPUT CREATED
+CLEAN_SEED_AGENT_MODE_SELECTION_VERDICT_20260516.txt
+
+OUTPUT STATUS
+Verdict card / proof-history first / publishable if approved.
+
+NEXT CLEAN ACTION
+Save/publish:
+1. CLEAN_SEED_RUN_EVIDENCE_REPORT_011_FRESH_CHAT_TEST_VERDICT_AND_AGENT_SELECTION_20260516.txt
+2. CLEAN_SEED_AGENT_MODE_SELECTION_VERDICT_20260516.txt
+
+AFTER PUBLISH
+Thinking point.
+
+The next decision should not be automatic.
+Choose whether to:
+A. create a compact public index/readme from the now-published trail
+B. return to the local project/cleanup lane
+C. stop and preserve this as a stable public handoff milestone
+
+CLOSE VERDICT
+PASS WITH BOUNDARY.
+
+Clean line:
+B drives.
+A audits.
+C parked.
+Public front door passed with boundary.

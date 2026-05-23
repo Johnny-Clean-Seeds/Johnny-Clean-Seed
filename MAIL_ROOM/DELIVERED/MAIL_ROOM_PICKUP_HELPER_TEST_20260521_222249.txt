@@ -1,0 +1,7 @@
+MAIL_ROOM PICKUP HELPER TEST
+
+This proves:
+Downloads/Desktop package -> PICKUP_TO_MAIL_ROOM.ps1 -> INCOMING_PACKAGES -> watcher -> DELIVERED + RECEIPT.
+
+Nonce:
+E7245C1396FA

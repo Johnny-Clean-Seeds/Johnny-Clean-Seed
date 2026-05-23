@@ -1,0 +1,29 @@
+{
+  "verdict": "PASS / LOCAL SELF TEST COMPLETE",
+  "status_endpoint_verdict": "PASS / REMOTE DOOR V2 QUIET EAR READY",
+  "wrong_token_rejection_verdict": "REJECTED / WRONG TOKEN",
+  "duplicate_nonce_verdict": "REJECTED / DUPLICATE NONCE",
+  "duplicate_nonce_first_job_id": "CHILDJOB-20260521-135159-REMOTE-DOOR-V2-PROBE",
+  "local_probe_job_id": "CHILDJOB-20260521-135206-REMOTE-DOOR-V2-PROBE",
+  "local_probe_job_path": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\DROPZONE\\CHILDJOB-20260521-135206-REMOTE-DOOR-V2-PROBE.childjob.json",
+  "local_probe_processed_path": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\PROCESSED\\CHILDJOB-20260521-135206-REMOTE-DOOR-V2-PROBE.childjob.json",
+  "local_probe_rejected_path": null,
+  "local_probe_receipt_path": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\OUTBOX\\CHILDJOB-20260521-135206-REMOTE-DOOR-V2-PROBE.receipt.txt",
+  "local_probe_receipt_sha256": "F5B43893D5AF035F0FD9F8249B1E6A9D7EDCFB796E67023C1BE12CF214C1F568",
+  "boundary": [
+    "assistant arbitrary shell blocked",
+    "raw shell blocked",
+    "broad crawl blocked",
+    "delete blocked",
+    "cleanup blocked",
+    "repo write through V2 blocked",
+    "git through V2 blocked",
+    "Level 3 through V2 blocked",
+    "ACTIVE_GUIDES rewrite blocked",
+    "CURRENT_TRUTH_INDEX rewrite blocked",
+    "doctrine rewrite blocked",
+    "permission expansion blocked",
+    "junction/symlink teleporter blocked"
+  ],
+  "proof_path": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\REMOTE_DOOR_RELAY_V2\\RECEIPTS\\REMOTE_DOOR_V2_LOCAL_SELF_TEST_20260521_135212.json"
+}

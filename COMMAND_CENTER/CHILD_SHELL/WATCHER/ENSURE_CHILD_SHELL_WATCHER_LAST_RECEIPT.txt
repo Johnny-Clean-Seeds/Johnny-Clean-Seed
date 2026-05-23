@@ -1,0 +1,30 @@
+﻿CHILD SHELL WATCHER ENSURE RECEIPT
+Date: 2026-05-21T13:22:53.1356121-04:00
+
+Verdict:
+PASS / WATCHER IS RUNNING
+
+Before PID:
+10380
+
+Before state:
+RUNNING
+
+Action:
+KEPT_RUNNING
+
+After PID:
+10380
+
+After state:
+RUNNING
+
+Boundary:
+Command Center Child Shell watcher control only.
+No Mr.Kleen repo write.
+No git.
+No doctrine install.
+No raw shell expansion.
+No broad filesystem crawl.
+No permission expansion.
+No junction/symlink teleporter.

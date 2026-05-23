@@ -1,0 +1,47 @@
+{
+  "created_clean_site_folder": true,
+  "active_site_folder_path": "C:/CleanSeedsBuild/NEOCITIES_CLEAN_SITE",
+  "soft_lock_code_location": "C:/CleanSeedsBuild/NEOCITIES_CLEAN_SITE_SOFT_CODE_DO_NOT_UPLOAD.txt",
+  "manifest_updater_path": "C:\\CleanSeedsBuild\\NEOCITIES_CLEAN_SITE\\UPDATE_MANIFEST.bat",
+  "data_file_count": 0,
+  "old_folders_left_untouched": [
+    {
+      "folder": "C:/CleanSeedsBuild/NEOCITIES_TRIPLE_LOCK_UPLOAD",
+      "exists": true,
+      "files": 141,
+      "bytes": 283331082,
+      "status": "RETIRED_LEFT_UNTOUCHED"
+    },
+    {
+      "folder": "C:/CleanSeedsBuild/NEOCITIES_TRIPLE_LOCK_UPLOAD_FREE_SAFE",
+      "exists": true,
+      "files": 401,
+      "bytes": 377766796,
+      "status": "RETIRED_LEFT_UNTOUCHED"
+    },
+    {
+      "folder": "C:/CleanSeedsBuild/NEOCITIES_ENCRYPTED_SAFE_UPLOAD",
+      "exists": true,
+      "files": 19,
+      "bytes": 55099586,
+      "status": "RETIRED_LEFT_UNTOUCHED"
+    },
+    {
+      "folder": "C:/CleanSeedsBuild/PUBLIC_SITE_OUT",
+      "exists": true,
+      "files": 666,
+      "bytes": 41211437,
+      "status": "RETIRED_LEFT_UNTOUCHED"
+    },
+    {
+      "folder": "C:/CleanSeedsBuild/NEOCITIES_LOCAL_BACKUPS",
+      "exists": true,
+      "files": 11,
+      "bytes": 638022,
+      "status": "RETIRED_LEFT_UNTOUCHED"
+    }
+  ],
+  "upload_status": "NOT_UPLOADED",
+  "public_verification_status": "NOT_RUN",
+  "verdict": "LOCAL_PASS_SIMPLE_SITE_CREATED_UPLOAD_PENDING"
+}

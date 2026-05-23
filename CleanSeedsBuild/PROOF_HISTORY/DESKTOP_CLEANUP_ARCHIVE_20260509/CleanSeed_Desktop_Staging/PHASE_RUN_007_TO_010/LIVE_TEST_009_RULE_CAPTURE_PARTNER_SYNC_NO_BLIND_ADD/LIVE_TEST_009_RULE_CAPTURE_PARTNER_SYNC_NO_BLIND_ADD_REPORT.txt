@@ -1,0 +1,38 @@
+﻿LIVE TEST 009 - RULE CAPTURE / PARTNER SYNC / NO BLIND ADD PATH
+
+Timestamp:
+2026-05-09 18:11:45 -04:00
+
+Active claim:
+A new rule-like idea must be classified, assigned an ID, mapped to partners, and not blindly installed.
+
+RULE ID: CS-LT009-001
+RULE NAME: Example Clean Rule Candidate
+CLASSIFICATION: CLEAN CANDIDATE / STAGED ONLY
+AUTHORITY: No active guide patch approved
+PLACEMENT: Desktop staging proof only
+STATE: NOT INSTALLED INTO ACTIVE_GUIDES
+
+PARTNER AREA: README_START_HERE
+PARTNER STATE: UNCHANGED_NOT_AFFECTED
+REASON: User-facing on-ramp does not need this simulated rule.
+
+PARTNER AREA: CLEAN_SEED_WRAP_GUIDE
+PARTNER STATE: PATCH_CANDIDATE
+REASON: Would hold assistant operating behavior if promoted.
+
+PARTNER AREA: CLEAN_SEED_ALIGNMENT_CHECK
+PARTNER STATE: PATCH_CANDIDATE
+REASON: Would hold the check/verdict criteria if promoted.
+
+PARTNER AREA: PROOF_HISTORY
+PARTNER STATE: STAGED_ONLY
+REASON: Current run saves support proof to Desktop staging first.
+
+PARTNER AREA: COMMAND_REGISTRY
+PARTNER STATE: UNCHANGED_NOT_AFFECTED
+REASON: No command is being added.
+
+PARTNER AREA: ACTIVE_GUIDES
+PARTNER STATE: UNCHANGED
+REASON: No package patch approved during this phase.

@@ -1,0 +1,31 @@
+CHAT SOFT SUIT CHAT WEIGHT RELEASE LOCK
+Timestamp: 20260522_225211
+Root: C:\Users\13527\Desktop\GPT_Prompts
+Ready: C:\Users\13527\Desktop\GPT_Prompts\READY_TO_DROP_IN_CHAT
+Current: C:\Users\13527\Desktop\GPT_Prompts\CURRENT
+Backup: C:\Users\13527\Desktop\123\GPT_PROMPTS_CUSTODY\CURRENT_BACKUPS_BEFORE_CHAT_WEIGHT_RELEASE_LOCK\20260522_225211
+
+Backed up from CURRENT count: 2
+CHAT_SOFT_SUIT_MAP.md
+CHAT_SOFT_SUIT_IDEA_LEDGER.md
+
+Written to READY count: 2
+CHAT_SOFT_SUIT_MAP.md
+CHAT_SOFT_SUIT_IDEA_LEDGER.md
+
+Written to CURRENT count: 2
+CHAT_SOFT_SUIT_MAP.md
+CHAT_SOFT_SUIT_IDEA_LEDGER.md
+
+Current map SHA256: BBD216EC18E0056D19C9B7301E81131945EF063A5F1F4E262B24DC69D2DDF7E9
+Current ledger SHA256: 65BF45F64177200374113324E74E5C9D6CF08655789CDA72A2EFD366D9BFE075
+
+Locked ideas:
+- Chat Weight Release / hold active only
+- Fog Bell warning
+- Let-Go Algorithm
+- Condense/dissect working order
+- Move/sort authorization carried forward
+
+Boundary: local-only; no Git; no public export; no doctrine promotion; old CURRENT copies backed up, not deleted.
+Verdict: PASS / CHAT WEIGHT RELEASE AND FOG BELL LOCKED INTO CURRENT

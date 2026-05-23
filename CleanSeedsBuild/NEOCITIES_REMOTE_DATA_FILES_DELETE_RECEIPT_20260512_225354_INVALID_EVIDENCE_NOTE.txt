@@ -1,0 +1,24 @@
+NEOCITIES REMOTE DATA FILES DELETE INVALID EVIDENCE NOTE
+STATUS: INVALID EVIDENCE
+CREATED_BY: Codex local file-lane worker
+CREATED_AT_LOCAL: 2026-05-12T23:08:04.2612109-04:00
+CREATED_FOR: Mark false-looking delete receipt as invalid without deleting it
+
+INVALID RECEIPT PATH:
+C:\CleanSeedsBuild\NEOCITIES_REMOTE_DATA_FILES_DELETE_RECEIPT_20260512_225354.txt
+
+INVALID RECEIPT SHA256 AT REVIEW:
+45CD9F58111AAD9C2D17991F56FE3FCBCFB2A085793E5A0AED390D60F1967E9E
+
+WHY INVALID:
+The receipt reports zero before/after data/files counts and zero attempted targets, but the known delete plan contains 763 data/files targets. The continuation handoff states the pre-delete, mid-list, and post-delete API list checks failed with invalid_auth after a blank password prompt, and later pasted console lines continued running anyway. Therefore this receipt cannot prove remote deletion.
+
+EVIDENCE STATUS:
+EVIDENCE: Existing delete plan path is C:\CleanSeedsBuild\NEOCITIES_REMOTE_DATA_FILES_DELETE_PLAN_20260512_225013.txt.
+EVIDENCE: Delete plan proof says DELETE PATH COUNT: 763, DELETE EXECUTED: NO, UPLOAD EXECUTED: NO.
+EVIDENCE: Invalid receipt path remains present and was not deleted.
+INFERENCE: Remote data/files delete remains NOT PROVEN from this invalid receipt.
+UNKNOWN: Current remote data/files state is unknown until the guarded delete script is run with valid authentication and post-delete listing succeeds.
+
+BOUNDARY:
+This note does not delete, move, overwrite, upload, or call Neocities APIs. It is a local evidence marker only.

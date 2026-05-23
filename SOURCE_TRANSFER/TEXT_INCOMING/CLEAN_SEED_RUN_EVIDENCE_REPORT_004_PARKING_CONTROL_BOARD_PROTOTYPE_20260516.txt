@@ -1,0 +1,442 @@
+CLEAN SEED — RUN EVIDENCE REPORT 004
+Parking Control Board Prototype
+Created: 2026-05-16
+Status: run evidence report / board prototype / proof-history first
+Placement: save to PROOF_HISTORY first; optional one-file publish to PUBLIC_NOTES only if John approves exact file
+Authority: not active doctrine, not cleanup approval, not active-guide install, not final parking implementation
+
+RUN NAME
+RUN_004_PARKING_CONTROL_BOARD_PROTOTYPE
+
+ACTIVE QUESTION
+Can a compact Parking Control Board let John and the assistant work from the active core without holding the whole parking city mentally?
+
+WHY THIS RUN EXISTS
+Run 001 proved the starting order was justified but completeness was not proven.
+Run 002 proved the best current tournament algorithm spine: structure-first with discovery, board, and report controls.
+Run 003 proved that the parking implementation field is large enough to require a front desk / board before any full parking remodel.
+
+Run 004 builds the first prototype board and tests it against three practical scenarios:
+1. a new idea appears
+2. a publish request appears
+3. a cleanup candidate appears
+
+REAL PROJECT STATE
+Frozen.
+
+No cleanup.
+No publish.
+No file movement.
+No ACTIVE_GUIDES install.
+No rule promotion.
+No doctrine change.
+No deletion.
+No real parking remodel.
+
+DISCOVERY BUDGET / FIELD LOCK
+Budget:
+This run may build one prototype Parking Control Board.
+This run may test the board against the three declared scenarios.
+This run may identify missing board fields/gates.
+This run must stop before implementation.
+
+Field lock:
+Only board behavior and board fields are in scope.
+Large parking-city redesign is out of scope.
+Cleanup is out of scope.
+Public publish action is out of scope.
+Active-guide install is out of scope.
+
+SOURCE STACK USED
+1. CPT V1.2: structure first, meaning second; front-row review surface; rotate view, not storage.
+2. Housekeeping V1.1: rule before file, fit before make, status after make, active plate collapse.
+3. Parking Core Plan V1: center, front priority, support rings, bridges, capstones, stop gates.
+4. Run Report 001: starting order justified, completeness not proven.
+5. Run Report 002: tournament spine, structure-first route with discovery/board/report controls.
+6. Run Report 003: candidate field sweep; board prototype is the next target.
+7. Frequency/Sensor/Guard/Rope notes: signal enters, placement holds it, proof earns promotion; no fear boss, bring rope.
+
+BOARD PROTOTYPE V1
+
+BOARD NAME
+Parking Control Board V1 — Front Desk
+
+LAST REFRESH
+2026-05-16 / Run 004 prototype
+
+LATEST RUN REPORT
+CLEAN_SEED_RUN_EVIDENCE_REPORT_004_PARKING_CONTROL_BOARD_PROTOTYPE_20260516.txt
+
+ACTIVE PRIORITY
+Test whether the Parking Control Board gives a usable front desk for the next real work lane.
+
+CURRENT ACTIVE CORE
+The center should hold only:
+1. Active question:
+   Can the board let the assistant work without holding the whole city?
+
+2. Current control spine:
+   - CPT V1.2 as method spine
+   - Housekeeping V1.1 as closeout/control spine
+   - Run Reports 001, 002, 003 as current proof trail
+   - Run 004 board prototype as active test
+
+3. Current next gate:
+   Save/publish Run 004 if accepted, then decide next run.
+
+VISIBLE SUPPORT LOTS
+Only these lots are visible for this run:
+
+Proof / Source Lot:
+- CPT V1.2
+- Housekeeping V1.1
+- Parking Core Plan V1
+- Run Reports 001, 002, 003
+- Frequency/Sensor/Guard/Rope notes as intake/guard support
+
+Later / Parked Lot:
+- full parking-city remodel
+- active-guide integration
+- public-facing README / proposal
+- GitHub organization cleanup
+- second proof test
+- local cleanup decision map
+
+Risk / Quarantine Lot:
+- tokens, secrets, credentials
+- huge bundles
+- risky/executable-like files
+- private proof-history bulk
+- anything not public-safe
+
+Worker / Tool Lot:
+- PowerShell save/publish route
+- GitHub outbox shell
+- future board/ledger script candidate
+- local file checks
+
+BLOCKED LOTS
+Blocked during this run:
+- cleanup
+- deletion
+- file movement
+- broad publishing
+- ACTIVE_GUIDES install
+- public claim that board design is final
+- treating reports as doctrine
+- treating board display as judge
+- moving storage just because view changes
+
+CURRENT PROOF SOURCE
+Current proof source for this run:
+- published and local run reports 001, 002, 003
+- current generated Run 004 report
+- local/GitHub proof only after save/publish check, not before
+
+CURRENT RISK / QUARANTINE
+Current risk:
+- fake PASS from scripts
+- old proof/history becoming mentally active
+- board becoming another giant note
+- board becoming judge
+- public/private bleed
+- cleanup temptation
+- stale board state
+
+CURRENT PARKED ODD PIECES
+- Frequency Sensor / Translation Core
+- No fear boss / stay on guard / bring rope
+- Know/know word-key convention
+- general systems doctor / normal front door
+- under-hood/front-door translation
+- small-gold motto notes
+- puzzle-piece / unplaced value idea
+
+PUBLIC / GITHUB STATUS
+Known published before this run:
+- Frequency Sensor / Guard / Rope notes
+- Run Evidence Report 001
+- Run Evidence Report 002
+- Run Evidence Report 003
+
+Not confirmed published in this run:
+- Run Evidence Report 004 until John saves/publishes it and remote page is checked
+
+NEXT GATE
+If board prototype passes:
+- Save Run 004 to PROOF_HISTORY.
+- Optionally publish Run 004 to PUBLIC_NOTES.
+- Then run Run 005: Board Ledger / Current Board Snapshot, or begin using the board for the next work lane.
+
+STOP CONDITION
+Stop if:
+- board becomes too large to use
+- board decides truth instead of displaying proof/card state
+- board triggers cleanup/public output before gates
+- board pulls the whole proof pile into active view
+- board loses latest report pointer
+- user confusion rises
+- fake PASS appears
+
+BOARD IS DISPLAY, NOT JUDGE
+Yes.
+
+The board shows the current proven/parked/blocked state.
+It does not decide truth.
+Truth comes from cards, reports, proof, and user approval.
+
+VIEW STATE VS STORAGE STATE
+The board changes attention, not file location.
+
+A lot being visible on the board does not mean the physical file moved.
+A lot being blocked on the board does not mean the file is deleted.
+The board is a front desk, not the warehouse.
+
+RUN REPORT LEDGER POINTER
+Current report trail:
+- RUN_001_RULE_ORDER_AND_MISSING_IDEAS_BOUNDARY
+- RUN_002_TOURNAMENT_ALGORITHM_SPINE
+- RUN_003_CANDIDATE_FIELD_SWEEP_PARKING_IMPLEMENTATION
+- RUN_004_PARKING_CONTROL_BOARD_PROTOTYPE
+
+TEST 1 — NEW IDEA APPEARS
+
+Scenario:
+A new big idea appears during active work.
+
+Board behavior:
+1. Active priority remains visible.
+2. New idea goes to Intake Buffer.
+3. Candidate Carding Gate decides whether it is:
+   - current task support
+   - later/parked
+   - unplaced value
+   - risk/quarantine
+   - public/product
+   - out of field
+4. If outside current field, it goes to Field-Lock Exception Lane.
+5. Priority Card blocks hijack.
+6. Board refreshes only if the idea changes current state.
+
+Result:
+PASS.
+
+The board prevents the idea from being lost and prevents it from becoming active by force.
+
+Missing board field found:
+FIELD-LOCK EXCEPTION LANE should be visible on the board when active.
+
+TEST 2 — PUBLISH REQUEST APPEARS
+
+Scenario:
+John asks to publish a note/report to GitHub.
+
+Board behavior:
+1. Active priority checks whether publish is current lane or side request.
+2. Public/OpenAI Lot receives the candidate file.
+3. Public-Safe Gate checks:
+   - exact file
+   - expected hash if needed
+   - no bulk proof-history
+   - no tokens/secrets/private material
+   - destination PUBLIC_NOTES or approved location
+   - GitHub outbox shell is correct
+   - remote page must be checked after push
+4. Worker/Tool Lot handles PowerShell/Git.
+5. Run Report Ledger marks public-visible only after remote proof.
+
+Result:
+PASS.
+
+The board routes publish safely without letting GitHub become the whole task.
+
+Missing board field found:
+PUBLIC VISIBILITY STATUS must show local-only / staged / pushed / remotely verified.
+
+TEST 3 — CLEANUP CANDIDATE APPEARS
+
+Scenario:
+An old file, draft, duplicate, or report looks removable.
+
+Board behavior:
+1. Cleanup candidate goes to Cleanup Waiting Lot, not Trash.
+2. Cleanup Decision Map Gate blocks action.
+3. Required before cleanup:
+   - exact path
+   - reason
+   - keeper/proof location
+   - duplicate or obsolete proof
+   - risk check
+   - John approval
+   - post-action verification
+4. Board shows cleanup as blocked unless cleanup lane is the active priority.
+
+Result:
+PASS.
+
+The board prevents "candidate" from meaning "delete."
+
+Missing board field found:
+CLEANUP STATUS should show blocked / waiting / mapped / approved / done.
+
+TEST 4 — STALE BOARD STATE CHECK
+
+Scenario:
+A run finishes or a file publishes, but the board still shows old state.
+
+Board behavior:
+1. Board Refresh Rule triggers after run close, publish, save, cleanup decision, or rest-stop return.
+2. Latest report pointer updates.
+3. Public visibility status updates.
+4. Active priority updates or closes.
+5. Stale board state is blocked from being used.
+
+Result:
+PASS WITH NEW FIELD.
+
+Missing field found:
+BOARD STALENESS CHECK should be explicit.
+
+BOARD PROTOTYPE UPDATED FIELDS
+
+BOARD NAME:
+-
+
+LAST REFRESH:
+-
+
+LATEST RUN REPORT:
+-
+
+ACTIVE PRIORITY:
+-
+
+CURRENT ACTIVE CORE:
+-
+
+VISIBLE SUPPORT LOTS:
+-
+
+BLOCKED LOTS:
+-
+
+FIELD-LOCK EXCEPTION LANE:
+-
+
+CURRENT PROOF SOURCE:
+-
+
+CURRENT RISK / QUARANTINE:
+-
+
+CURRENT PARKED ODD PIECES:
+-
+
+PUBLIC VISIBILITY STATUS:
+-
+
+CLEANUP STATUS:
+-
+
+WORKER / TOOL STATUS:
+-
+
+NEXT GATE:
+-
+
+STOP CONDITION:
+-
+
+BOARD STALENESS CHECK:
+-
+
+BOARD IS DISPLAY, NOT JUDGE:
+-
+
+VIEW STATE VS STORAGE STATE:
+-
+
+RUN REPORT LEDGER POINTER:
+-
+
+BOARD SUCCESS CRITERIA
+The board passes if:
+- active priority is clear
+- current core is small
+- support lots are visible but not active
+- blocked lots are obvious
+- public status is visible
+- cleanup status is blocked unless approved lane
+- latest report is visible
+- board does not decide truth
+- board refreshes after state changes
+- board keeps the assistant from carrying the whole city mentally
+
+BOARD FAIL CRITERIA
+The board fails if:
+- it becomes a giant note
+- it becomes authority
+- it hides stale state
+- it loses latest report pointer
+- it causes cleanup drift
+- it causes public/private bleed
+- it pulls all proof-history into active view
+- it causes file moves because view changed
+- it adds more fog than it removes
+
+WHAT RUN 004 PROVED
+Run 004 proved that a Parking Control Board / Front Desk is useful and necessary before a full parking remodel.
+
+It proved the board can route:
+- new ideas
+- publish requests
+- cleanup candidates
+- stale state
+
+without requiring the assistant to hold the whole parking city in active attention.
+
+It proved the board must include:
+- Field-Lock Exception Lane
+- Public Visibility Status
+- Cleanup Status
+- Board Staleness Check
+- Worker/Tool Status
+- Run Report Ledger Pointer
+
+It proved the board should be display, not judge.
+
+It proved the next build target should be a current board snapshot and report ledger, not a full city remodel yet.
+
+WHAT RUN 004 DID NOT PROVE
+Run 004 did not prove the board is final.
+It did not implement the board into active guides.
+It did not create a persistent board file.
+It did not prove the board works over multiple future sessions.
+It did not approve cleanup.
+It did not publish itself.
+It did not prove every parking lot is complete.
+
+NEXT CLEAN ACTION
+Run 005 should be:
+
+RUN_005_CURRENT_BOARD_SNAPSHOT_AND_REPORT_LEDGER
+
+Job:
+Create the first current board snapshot and a small report ledger, using the Run 004 board fields.
+
+Run 005 should:
+1. Populate the actual current board.
+2. Create a compact report ledger row format.
+3. Mark which notes/reports are published vs local-only.
+4. Mark next active priority.
+5. Test whether the board lets the next chat resume without reloading the whole conversation.
+6. Leave Run Evidence Report 005.
+
+CLOSE VERDICT
+PASS WITH BOUNDARY.
+
+Run 004 proves:
+Do not build the whole city yet.
+Build and use the front desk.
+
+The Parking Control Board prototype is strong enough to become the next build target, but not active doctrine yet.

@@ -1,0 +1,17 @@
+PACKAGE_V0
+package_id: MAIL_ROOM_PICKUP_HELPER_TEST_20260521_222249
+nonce: E7245C1396FA
+target: DESKTOP_123_MAIL_ROOM
+filename: MAIL_ROOM_PICKUP_HELPER_TEST_20260521_222249.txt
+created_by: CHATGPT_ASSISTANT_TEST
+purpose: prove pickup helper copies newest PACKAGE_V0 from Downloads/Desktop into MAIL_ROOM incoming
+
+---CONTENT---
+MAIL_ROOM PICKUP HELPER TEST
+
+This proves:
+Downloads/Desktop package -> PICKUP_TO_MAIL_ROOM.ps1 -> INCOMING_PACKAGES -> watcher -> DELIVERED + RECEIPT.
+
+Nonce:
+E7245C1396FA
+---END_CONTENT---

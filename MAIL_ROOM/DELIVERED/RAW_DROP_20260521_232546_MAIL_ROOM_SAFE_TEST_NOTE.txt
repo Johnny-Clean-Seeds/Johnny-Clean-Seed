@@ -1,0 +1,10 @@
+MAIL_ROOM SAFE TEST NOTE
+
+This is only a harmless test file.
+Purpose: prove the you + me bridge still works.
+
+Expected:
+RAW_DROP delivery
+DELIVERED file
+RECEIPT file
+NO MORE MAIL / STOPPING

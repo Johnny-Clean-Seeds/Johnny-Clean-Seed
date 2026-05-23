@@ -1,0 +1,36 @@
+EVIDENCE ARCHIVE MANIFEST
+
+Package:
+Clean Seed Model Build Guide
+
+Active patch ID:
+CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK
+
+Timestamp local:
+2026-05-09 4:58 PM America/New_York
+
+Timestamp UTC:
+2026-05-09T20:58:21+00:00
+
+Active guide files:
+- README_START_HERE.txt — sha256 313914b8942656a637260056387d99bb3d89dfddd5886ab9422aea92e42d3d89
+- CLEAN_SEED_WRAP_GUIDE.txt — sha256 1fa19a2bd7dea94f1a0dfb226cb68fdc4e7423088741f8efee750e590ef66fd7
+- CLEAN_SEED_ALIGNMENT_CHECK.txt — sha256 943c7b21ff61eac91908c4dafdc282835b8d487ee0206eaa3d3f89cc09baf610
+
+Optional proof/history:
+- PATCH_RECEIPT_SCOPE_STATE_TRIGGER_LOCK.txt — sha256 3e76826aa8dc5a44c149363473e58561e8127f9dc11f2dd41ed6d812ef39986b
+- PATCH_RECEIPT_PROOF_LEDGER_LOCK.txt — sha256 b76957c06f2b7a4bc2d680dd2a9b44d663ec8baf18e62e7d5dc1cf8a619368e6
+- Prior uploaded files copied to BACKUP_BEFORE_SCOPE_STATE_TRIGGER_LOCK before patching
+
+Support visual files:
+- CLEAN_SEED_VISUAL_MAP.html — support/reference only, not an active guide file, if present
+- CLEAN_SEED_VISUAL_MAP_CLEANED.html — support/reference only, not an active guide file, if present
+
+Backup status:
+- Original uploaded package files copied to /mnt/data/CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK/BACKUP_BEFORE_SCOPE_STATE_TRIGGER_LOCK before patching. Backup is support proof only, not active package material.
+
+Active startup pack count:
+Three guide files only.
+
+Verdict:
+PASS WITH GUARDRAILS for targeted manifest update.

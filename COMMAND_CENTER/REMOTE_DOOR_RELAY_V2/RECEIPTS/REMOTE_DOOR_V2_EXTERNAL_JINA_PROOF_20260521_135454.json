@@ -1,0 +1,30 @@
+{
+  "verdict": "PASS / EXTERNAL FETCH CREATED CHILD SHELL RECEIPT",
+  "caveat": "External request was made through Jina Reader fetch service, not direct ChatGPT web.open.",
+  "method": "Jina Reader external fetch to Cloudflare quick tunnel",
+  "public_url_base": "https://contributors-phase-players-sensitive.trycloudflare.com",
+  "local_bind": "127.0.0.1",
+  "local_port": 8792,
+  "run_id": "REMOTE_DOOR_RELAY_V2_20260521_135115",
+  "external_probe_nonce_sha256": "A63819C61E9EFE16B2F447BF724F2E26505FCB788AC0CF2214A2475FC0340574",
+  "job_id": "CHILDJOB-20260521-135454-REMOTE-DOOR-V2-PROBE",
+  "job_path": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\DROPZONE\\CHILDJOB-20260521-135454-REMOTE-DOOR-V2-PROBE.childjob.json",
+  "processed_path": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\PROCESSED\\CHILDJOB-20260521-135454-REMOTE-DOOR-V2-PROBE.childjob.json",
+  "receipt_path": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\OUTBOX\\CHILDJOB-20260521-135454-REMOTE-DOOR-V2-PROBE.receipt.txt",
+  "receipt_sha256": "298A63824400AB4A605B3EA5AD5D4FC0C560177533E6D21DD65E0F7C65912AF6",
+  "boundary": [
+    "assistant arbitrary shell blocked",
+    "raw shell blocked",
+    "broad crawl blocked",
+    "delete blocked",
+    "cleanup blocked",
+    "repo write through V2 blocked",
+    "git through V2 blocked",
+    "Level 3 through V2 blocked",
+    "ACTIVE_GUIDES rewrite blocked",
+    "CURRENT_TRUTH_INDEX rewrite blocked",
+    "doctrine rewrite blocked",
+    "permission expansion blocked",
+    "junction/symlink teleporter blocked"
+  ]
+}

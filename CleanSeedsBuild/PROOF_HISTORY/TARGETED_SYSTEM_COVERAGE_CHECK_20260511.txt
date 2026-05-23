@@ -1,0 +1,84 @@
+TARGETED SYSTEM COVERAGE CHECK 20260511
+
+Timestamp:
+2026-05-11 07:16:07 -04:00
+
+Status:
+Proof-history coverage checkpoint.
+Not active guide doctrine.
+Not CURRENT_TRUTH_INDEX.
+Not final PASS.
+
+Active ball:
+Check whether the current Clean Seed system covers the behaviors now being relied on.
+
+Scope:
+Targeted check only.
+Read authority spine, installed working-path markers, live-test verdicts, and recent proof-history checkpoint surface.
+No whole-shed scan.
+
+Coverage results:
+
+1. Authority spine
+Status: COVERED
+Evidence: CURRENT_TRUTH_INDEX names project root, ACTIVE_GUIDES, PROOF_HISTORY, LIVE_SEED_TEST_001, and AGENTS role.
+Action: no update needed unless file roles or source-of-truth structure changes.
+
+2. Local File-Lane Lead / Working Judge
+Status: COVERED
+Evidence: AGENTS role installed; Wrap handoff note installed; Alignment guard check installed.
+Action: use it.
+
+3. Tiny working path / active ball
+Status: COVERED WITH LIVE TEST
+Evidence: Wrap and Alignment installed; LIVE_TEST_007 gives PASS WITH GUARDRAILS for route-choice behavior.
+Action: use on real work.
+
+4. Capture / collect before inventory
+Status: COVERED, NEEDS MORE REAL USE
+Evidence: Wrap and Alignment installed; LIVE_TEST_008 repaired known intake classification failure.
+Action: keep using when evidence could be incomplete.
+
+5. No full-shed rummage / project boundary
+Status: COVERED
+Evidence: AGENTS, Wrap, and Alignment all block broad rummage by default.
+Action: continue targeted reads only.
+
+6. First-add file intake / dirty payload handling
+Status: REPAIRED WITH GUARDRAILS
+Evidence: LIVE_TEST_006 failed; LIVE_TEST_008 retested known failed-file list and passed with guardrails.
+Action: treat as repaired for known 006 route; run fresh intake only when real new files appear.
+
+7. Immediate idea capture / apply
+Status: COVERED FOR CODEX LOCAL BEHAVIOR
+Evidence: proof-history working rule saved and AGENTS line installed.
+Action: apply in current and future Codex file-lane work; consider active-guide placement only if repeated non-Codex behavior needs it.
+
+8. Standalone Station Card final-template doctrine
+Status: NOT INSTALLED / PARKED
+Evidence: active guides say station/card behavior is installed but standalone template needs live proof.
+Action: do not install yet.
+
+9. Proof-history master index
+Status: NOT NEEDED NOW
+Evidence: current need is targeted work, not retrieval pain.
+Action: park until retrieval friction becomes real.
+
+10. Folder structure / Project Knowledge Stack physical build
+Status: BLOCKED / PARKED
+Evidence: project root already has approved lanes; no new folder structure approved.
+Action: do not create folders.
+
+Main finding:
+The system is directionally right and increasingly provable, but not complete.
+The next useful work is not more broad architecture; it is targeted real-use and targeted repair of proven gaps.
+
+Remaining watch items:
+- Live Test 006 remains historical FAIL, repaired by guarded Live Test 008.
+- Capture / collect should be watched in real use to ensure incomplete piles are not treated as complete.
+- Immediate idea capture/apply is now durable for Codex but not broad active-guide doctrine.
+- Standalone Station Card template remains parked.
+
+Next best move:
+Use the working path on real work or a known weak live-test route.
+Do not add folders, indexes, or whole architecture unless a targeted failure proves need.

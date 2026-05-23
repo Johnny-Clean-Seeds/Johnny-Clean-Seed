@@ -1,0 +1,162 @@
+CLEAN SEED — NEW IDEA PARKING NOTES
+Created: 2026-05-16
+Purpose: brief capture file so these ideas can be picked up later without rebuilding the whole conversation.
+
+STATUS KEY
+- Captured concept = useful idea, not installed as active doctrine yet.
+- Active workflow preference = can guide current work unless later rejected.
+- Needs review = promising, but should be tested before becoming a rule.
+
+1. Parking Problem, Not “Balls in Hands”
+Status: Captured concept.
+The overload was better described as a parking problem, not a “too many balls in hand” problem. The system should not make the user carry ideas. It should place them in named, findable lots with clear roles.
+
+2. Parking Replaces Carrying
+Status: Captured concept.
+The clean system is about placement, not holding. When an item appears, it should be parked, labeled, mapped, and given a state instead of being mentally carried.
+
+3. Named Parking Lots
+Status: Captured concept.
+A single parking lane is too vague. The system should have named lots, such as Front Door Lot, Worker Lot, PowerShell Lot, Report Lot, Shed Lot, Quarantine Lot, Gold Lot, and Trash Gate.
+
+4. Trash Gate Is Not a Lot
+Status: Captured concept.
+Trash is not where unknown-value material goes. Trash only happens after judgment, proof, and no remaining function. Unknown value belongs in Shed/Parking, not deletion.
+
+5. Shed Is Junk Parking, Not Trash
+Status: Captured concept.
+Junk means unknown or inactive value. Junk can be future gold, spare parts, old attempts, or half-formed ideas. Junk becomes waste only when it is duplicate, noise, corrupted, or proved unneeded.
+
+6. Shed Monster Rule
+Status: Captured concept.
+The shed protects against premature loss, but if unmanaged it grows monsters: duplicate copies, unlabeled ideas, stale truths, half-fixes, old notes with no source, and forgotten “important” files. The shed must be walked, indexed, and reviewed.
+
+7. Special Parking / Front Access
+Status: Captured concept.
+Some items need special parking close to the front: current target, latest error, active proof, current report path, blocked item, and next safe move. This is not favoritism; it prevents the whole system from breaking because a critical item is buried too far away.
+
+8. Big Plaza Problem
+Status: Captured concept.
+A large system can technically contain everything and still fail if retrieval is exhausting. Like a plaza where the pet store and Ross are too far apart, the layout can become correct-but-annoying. Clean design must reduce needless walking/searching.
+
+9. City Parking Model
+Status: Captured concept.
+As the system grows, it becomes a city, not one folder or one lot. New lots can appear naturally. The city needs roads, signs, lots, front-row access, review rules, and relocation rules.
+
+10. Lot Relocation Rule
+Status: Captured concept.
+Parking lots can be renamed, grouped, split, merged, or moved when the current layout creates needless walking, confusion, duplicate parking, or bad retrieval. Movement should require proof of a real traffic problem, not just aesthetic discomfort.
+
+11. Stable Storage, Rotating View
+Status: Captured concept.
+The real files/lots should not physically rotate or move every time the active need changes. That would be chaotic. Instead, the view/front frame rotates: the system pulls the needed lots into attention while storage remains stable.
+
+12. Carousel Parking Lot / Front-Row Retrieval Surface
+Status: Captured concept.
+The “carousel” is a retrieval concept. It brings the relevant lots into the front row based on the current task. It does not move source files. It rotates attention, not truth.
+
+13. Three-Lot Pyramid View
+Status: Captured concept.
+The active view can show three pyramid/triangle shapes:
+- Center pyramid: Current Need Lot.
+- Left pyramid: Proof / Source Lot.
+- Right pyramid: Next / Risk Lot.
+This creates a stable, readable frame around the current task.
+
+14. Capstone / Family Head for Each Lot
+Status: Captured concept.
+Every lot needs a capstone: the top rule, family head, or naming key that explains what belongs there. Without a capstone, the lot becomes random parking.
+
+15. Lot Families
+Status: Captured concept.
+Lots should be organized like families of rules or related functions. Each family has a parent/capstone, child items, allowed contents, forbidden contents, and a retrieval route.
+
+16. Front Row Capstone
+Status: Captured concept.
+The front-row view also needs a capstone: “what the user needs next.” This prevents the carousel from becoming another random display.
+
+17. Rotate the View, Not the Storage
+Status: Captured concept.
+This is the core safety rule for the carousel idea. If the system moves files constantly, chaos grows. If it rotates the index/view/front row, retrieval improves without corrupting placement.
+
+18. Mini as Worker, Not Judge
+Status: Active workflow preference.
+Cheap/smaller models should prepare data: manifests, duplicate maps, inventories, indexes, and review queues. They should not make final meaning judgments or doctrine decisions.
+
+19. Thinking Model as Supervisor
+Status: Active workflow preference.
+A stronger reasoning model should design the job, check order, catch waste, decide phase boundaries, and judge gold after reports exist. It should not waste time crawling thousands of raw files when a cheaper worker/script can map them first.
+
+20. Worker Packet Sizing / No Weird Order
+Status: Active workflow preference.
+Worker jobs need the right amount of work in the right order: map first, reduce obvious waste from the thinking path, identify review candidates, then hand off. Do not ask a cheap worker to clean everything or decide final truth.
+
+21. Front-Load the Clean Cost
+Status: Active workflow preference.
+Spend a little structure up front to prevent a larger mess later. This is not “investment” language. It is clean cost, prevention cost, and waste control.
+
+22. Avoid Banker/Broker Framing
+Status: Wording preference.
+Avoid words like “investment” unless talking about money directly. Better language: clean cost, front-load the clean cost, prevention cost, pay now or bleed later, reduce waste.
+
+23. Phase Work Before Heavy Judgment
+Status: Active workflow preference.
+Large messy folders should not be judged all at once. Phase 1 should be cheap mapping. Phase 2 should target only the smaller review queue. Heavy reasoning should only be spent after the pile has been indexed.
+
+24. Size-First Hashing
+Status: Active workflow preference.
+For exact duplicate hunting, group files by byte size first. Only files with the same exact size need SHA256 hashing. Unique-size files cannot be exact duplicates. This reduces local work while preserving proof.
+
+25. Report Before Cleanup
+Status: Active workflow preference.
+No deletion, movement, merging, promotion, or cleanup should happen until a report exists and is reviewed. Reports are proof surfaces, not final authority by themselves.
+
+26. Script Failure Is Not Source Damage
+Status: Current incident note.
+The PowerShell script created a script file and then failed on a counting/type mismatch near the end. That means Phase 1 did not complete cleanly. It does not mean the source folder was damaged.
+
+27. Human Pacing Is Part of the System
+Status: Captured concept.
+A technically safe route can still fail the user if the surface gets too large or confusing. Clean Seed must protect pacing and readability, not just file safety.
+
+28. Role Confusion Creates Fog
+Status: Captured concept.
+Mini, Visual Studio, PowerShell, script files, report folders, and the user each had different roles. When those roles blurred, the work felt chaotic. Future workflows should name the runner, planner, judge, source, and output clearly.
+
+29. Parking Lot Map Needed for Workflows
+Status: Needs review.
+Future cleanup/workflow packets may need a small “parking map” at the top: current lot, source lot, worker lot, report lot, risk lot, next lot. This would prevent the user from having to track the whole plaza mentally.
+
+30. Truth Also Needs Parking
+Status: Captured concept.
+Truth can become a monster if it has no scope, date, source, role, or state. Correct facts in the wrong lane can fight other truths. Truth must be filed too.
+
+31. Nothing Forgotten Means Everything Placed
+Status: Captured concept.
+The clean goal is not to keep everything active. It is to keep captured material placed, labeled, state-marked, and recoverable. Parking prevents total memory from becoming overload.
+
+32. Branching Needs a Bleed Warning
+Status: Captured concept.
+Project branching can be useful for related forks, but it is not a sealed quarantine. It should warn that project context may bleed. Use branches for alternate routes on the same object; use fresh chats or outside-project chats for cleaner separation.
+
+33. Inheritance Needs an Intake Gate
+Status: Captured concept.
+Inherited context is only clean if filtered. A branch should declare active target, inherited context kept, inherited context ignored, and bleed risk. Inheritance alone is not proof.
+
+34. Three-Mind Triangle
+Status: Captured concept.
+The useful system has three points: user pattern/fire/field proof, model articulation/reasoning, and local tools/files/execution. A triangle is harder to collapse than a line, but each point must keep its role.
+
+35. Gut Starts It, Shed Holds It
+Status: Captured concept.
+Gut is intake, not authority. A gut signal says “something is here.” It goes to the shed/parking. Reason inspects it. Evidence decides its state.
+
+NEXT PICK-OFF SUGGESTION
+When resuming, do not try to install all of this at once. Pick one surface:
+A. Parking Lot Map for workflows.
+B. Carousel / Three-Lot Pyramid front-row view.
+C. Worker/Supervisor/PowerShell role map.
+D. Shed/Junk/Waste/Trash Gate definitions.
+
+Recommended first pick:
+A + C together, because the recent PowerShell mess showed the need clearly.

@@ -1,0 +1,150 @@
+CLEAN SEED — RIVAL ENGINE CHALLENGE FINDINGS V1
+Created: 2026-05-16
+Status: rival findings / engine challenge / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+TARGET UNDER TEST
+CLEAN_SEED_CENTRAL_PARKING_NEXT_NEEDED_ENGINE_V1_20260516.txt
+
+RIVAL MODEL
+Weakest-Link / Constraint Engine
+
+RIVAL CORE LINE
+Do not organize the whole field first.
+Find the active constraint.
+Relieve the bottleneck.
+Then re-observe the system.
+
+WHY THIS RIVAL EXISTS
+The Central Parking Engine is good at preventing idea loss.
+But a system can become clean-looking while still not moving through the real bottleneck.
+
+The rival engine exists to ask:
+What is actually blocking growth right now?
+
+MAIN DIFFERENCE
+Central Parking Engine asks:
+Where does everything go, what sits in the center, and what run comes next?
+
+Weakest-Link / Constraint Engine asks:
+What one constraint is currently limiting progress, and what is the smallest move that removes it?
+
+BOTH ARE NEEDED
+Parking without constraint focus can become organized drift.
+Constraint focus without parking can lose ideas and create chaos.
+
+PAIRING RULE
+Use Central Parking to prevent loss.
+Use Weakest-Link to prevent wasted organization.
+
+FOUND FLAWS IN ENGINE V1
+
+1. OVER-PARKING RISK
+“Park everything” protects ideas, but can also preserve too much material.
+
+Guard:
+Use short-life holding for weak, playful, or low-proof items.
+Not every parked item deserves a permanent lot.
+
+2. CENTER BOTTLENECK RISK
+“One active concept” protects focus, but some real problems are paired constraints.
+
+Guard:
+Allow a two-item constraint pair only when evidence shows they are inseparable.
+
+3. INTERESTING-RUN BIAS
+The next-needed detector may still choose what is interesting over what relieves pressure.
+
+Guard:
+Every candidate run gets a constraint-relief score.
+
+4. LOT-SPRAWL RISK
+Too many lots can create a city before roads exist.
+
+Guard:
+Default to a small lot set.
+Create new lots only after repeated need.
+
+5. WEAK DISPROOF RISK
+The verification gate asks what was proved, but should also ask what would disprove PASS.
+
+Guard:
+Every run verdict must name at least one disproof condition.
+
+6. RUN-TREADMILL RISK
+The run generator may assume the next answer is another run.
+
+Guard:
+Every candidate tournament must include:
+- stop
+- wait
+- use existing artifact
+- do nothing
+
+7. BOARD-REFRESH CHURN
+A board refresh after every run can become paperwork.
+
+Guard:
+Refresh board only when active priority, blocked lanes, boundary, or next gate changes.
+
+8. QUIET-AUTHORITY RISK
+A central engine can quietly become authority by repeated use.
+
+Guard:
+Engine output is recommendation until confirmed by proof, user approval, and the active authority chain.
+
+RIVAL CHALLENGER GATE
+Before choosing the next run, ask:
+
+1. What is the active bottleneck?
+2. What would happen if we did nothing?
+3. What would the rival engine choose?
+4. Which candidate removes the most constraint?
+5. Which candidate risks report treadmill?
+6. Which candidate has the cleanest disproof condition?
+7. Is board refresh actually needed?
+8. Is this action necessary now?
+
+CANDIDATE SCORING ADD-ON
+Score each candidate run by:
+
+- constraint relief
+- fog reduction
+- risk if skipped
+- proof availability
+- reversibility
+- user strain
+- run-treadmill risk
+- idea-preservation value
+- next-needed clarity
+- disproof clarity
+
+BEST COMBINED MODEL
+Park enough to prevent loss.
+Center enough to focus.
+Challenge enough to avoid self-confirming movement.
+Act where the bottleneck is real.
+Verify before trust.
+
+VERDICT ON ENGINE V1
+PASS WITH RIVAL FINDINGS.
+
+Engine V1 is useful.
+Engine V1 should not be live-trusted alone.
+It needs the Rival Challenger Gate or a V1.1 revision before major use.
+
+NEXT RECOMMENDED DECISION
+Do not automatically live-test Engine V1.
+
+First decide:
+A. revise Engine V1 into Engine V1.1 using rival findings
+B. live-test Engine V1 with rival findings as guardrails
+C. stop at thinking point
+
+Recommended:
+Revise into V1.1 before live test.
+
+CLEAN LINE
+Central Parking prevents idea loss.
+Weakest-Link prevents organized drift.
+Use both before trusting the next run.

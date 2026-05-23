@@ -1,0 +1,1555 @@
+RECURSIVE FLOW ARCHITECTURE - REAL-WORLD METHOD STACK 20260511
+
+Created:
+2026-05-11 04:29:21 -04:00
+
+Candidate ID:
+CS-CANDIDATE-RECURSIVE-FLOW-ARCHITECTURE-REAL-WORLD-METHOD-STACK-20260511
+
+Status:
+Proof-history-only concept and architecture stack.
+Not active guide doctrine.
+Not current truth.
+Not a fourth guide.
+Not cleanup authority.
+Not deletion approval.
+Not movement approval.
+Not rename approval.
+Not overwrite approval.
+Not folder-creation approval.
+Not promotion approval.
+Not final PASS.
+
+Purpose:
+Bring real-world discovery, evidence, lab, forensic, intelligence, science, engineering, medicine, manufacturing, archival, legal, cyber, and human-cognition methods to the table only where they actually strengthen the Clean Seed Recursive Flow Architecture.
+
+User target:
+Build a perfected Recursive Flow Architecture.
+Not a pile of rules.
+Not a dashboard.
+Not one master brain bossing everything.
+Not a folder maze.
+
+Working definition:
+Recursive Flow Architecture is a proof-gated, role-separated, self-correcting system where material moves through ordered stations, each station does one job, and the output of one station becomes clean input for the next station without losing proof, authority, or context.
+
+Best plain-language name:
+Well-Oiled Recursive Flow System
+
+Best technical name:
+Recursive Flow Architecture
+
+Best Clean Seed doctrine name:
+Balanced Assembly-Line Interlock System
+
+Core flow:
+AUTHORITY -> ACTIVE BALL -> FREEZE -> CAPTURE / COLLECT -> INVENTORY -> SORT -> JUDGE -> PLACE / FILE -> SAVE -> SEAL -> REVIEW / HANDOFF -> PROMOTE / PARK / BLOCK -> CONTINUE
+
+Core rule for every part:
+Each part must know:
+- what it receives
+- what it is allowed to do
+- what it must not do
+- what proof it needs
+- where the result goes next
+- when to stop
+
+Authority loaded before save:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\CURRENT_TRUTH_INDEX.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\AGENTS.md
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES
+
+Authority hashes observed:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\CURRENT_TRUTH_INDEX.txt
+SHA256:
+6CDD8E83AE95AE76F4658188452B799633B8CE76B4AEB93346E2E1C3FC715408
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\AGENTS.md
+SHA256:
+C8EAB85B490B91B54B0E4FAF3BF81B825B63C4A6401A5039A587F0B0034F77A9
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES\README_START_HERE.txt
+SHA256:
+EFF0CE517F5647016E04715761F505DBB3D5B0023E51256EBB8750AFABDDEFF1
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt
+SHA256:
+B14955F9BBBB52DBFC4E3786FF7CB2FCC0ECDB114A275DB06A591966B9FEF6FE
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt
+SHA256:
+EDE9C65D7367D6EE507E31B6532760AE945A3B8CAB7E9D5E08FAA68CCFBD70AA
+
+
+SECTION 1 - METHOD UNIVERSE HELD, NOT DUMPED
+
+This file does not paste every method name that exists. That would create the exact bloat the architecture is trying to avoid.
+
+The broad method universe considered includes:
+- FBI and intelligence-cycle work
+- criminal forensics and crime-scene processing
+- digital forensics
+- lab science and scientific method
+- quality assurance and lab controls
+- systems engineering
+- safety engineering
+- manufacturing and assembly-line control
+- lean production
+- medicine and clinical diagnosis
+- emergency triage
+- incident command
+- aviation checklist discipline
+- legal discovery and evidence admissibility
+- archival science and records management
+- library cataloging and indexing
+- cybersecurity and zero-trust systems
+- auditing and internal controls
+- version control and release management
+- reliability engineering
+- root-cause analysis
+- neuroscience and human cognitive control
+- ecology and field sampling
+- archaeology and stratigraphy
+- knowledge management
+- decision science
+- statistics and process control
+- operations management
+- supply-chain custody and lot tracking
+- peer review and red-team review
+
+Selection rule:
+Only methods that improve role, lane, gate, proof, context, feedback, or stop conditions should enter the Clean Seed model.
+
+Dirty import:
+Importing methods because they sound smart.
+
+Clean import:
+Using a real-world method as a lens that strengthens a specific station or gate.
+
+
+SECTION 2 - REAL-WORLD METHODS THAT DIRECTLY APPLY
+
+1. Intelligence cycle
+
+Real-world source:
+Intelligence work uses direction, collection, processing, analysis, dissemination, and feedback.
+
+Clean Seed use:
+This maps directly onto AUTHORITY, CAPTURE, INVENTORY, JUDGE, REVIEW / HANDOFF, and CONTINUE.
+
+What it gives:
+- work begins with a requirement, not random curiosity
+- collection is separated from analysis
+- analysis is separated from action
+- feedback updates the next cycle
+
+Rule extracted:
+Do not analyze before the collection requirement and proof boundary are known.
+
+2. Crime-scene preservation
+
+Real-world source:
+Investigators freeze a scene before touching it.
+
+Clean Seed use:
+This strengthens FREEZE and CAPTURE / COLLECT.
+
+What it gives:
+- stop movement
+- prevent contamination
+- preserve original positions, paths, timestamps, and visible state
+- document before touching
+
+Rule extracted:
+Freeze before inventory, sorting, judgment, cleanup, deletion, movement, overwrite, rename, or promotion.
+
+3. Chain of custody
+
+Real-world source:
+Evidence must have a traceable path from source to review.
+
+Clean Seed use:
+This strengthens CAPTURE, SAVE, SEAL, and REVIEW.
+
+What it gives:
+- source path
+- who/what handled it
+- when it changed
+- hash or identifying proof when needed
+- custody record
+
+Rule extracted:
+No proof, no authority jump.
+
+4. Forensic imaging
+
+Real-world source:
+Forensic teams preserve a source before analysis.
+
+Clean Seed use:
+This strengthens FREEZE and CAPTURE / COLLECT.
+
+What it gives:
+- preserve before interpretation
+- source stays protected
+- analysis happens on captured evidence where possible
+
+Rule extracted:
+Capture before structure; structure before judgment.
+
+5. Digital forensics triage
+
+Real-world source:
+Digital investigators prioritize volatile or high-risk evidence first.
+
+Clean Seed use:
+This makes TRIAGE an optional lens inside JUDGE, not a mandatory station.
+
+What it gives:
+- volatile evidence first
+- high-risk items first
+- executable or unknown items blocked
+
+Rule extracted:
+Triage is a risk lens, not a new boss.
+
+6. Lab accessioning
+
+Real-world source:
+Labs receive specimens with accession IDs and intake records.
+
+Clean Seed use:
+This strengthens INVENTORY.
+
+What it gives:
+- stable item identity
+- source
+- date/time
+- type
+- condition
+- expected test or review
+
+Rule extracted:
+Inventory turns captured evidence into structured identity.
+
+7. Lab notebook / electronic lab notebook
+
+Real-world source:
+Science records what was observed, what was done, and what changed.
+
+Clean Seed use:
+This strengthens SAVE and SEAL.
+
+What it gives:
+- observation separate from interpretation
+- method separate from result
+- timestamped reasoning
+- repeatable audit trail
+
+Rule extracted:
+Observation is not judgment; judgment is not action.
+
+8. Scientific method
+
+Real-world source:
+Scientists ask a question, form a hypothesis, test, observe, revise, and repeat.
+
+Clean Seed use:
+This strengthens JUDGE and CONTINUE.
+
+What it gives:
+- claims stay provisional until evidence supports them
+- wrong guesses become information
+- feedback improves the next pass
+
+Rule extracted:
+A good idea is a hypothesis until proof and gate acceptance exist.
+
+9. Experimental controls
+
+Real-world source:
+Labs compare against controls so they know what changed.
+
+Clean Seed use:
+This strengthens old/new comparison and REVIEW.
+
+What it gives:
+- baseline
+- changed variable
+- comparison point
+- false-positive control
+
+Rule extracted:
+Do not judge a new candidate without the current/old source in view.
+
+10. Replication and reproducibility
+
+Real-world source:
+Science trusts results more when the method can be repeated.
+
+Clean Seed use:
+This strengthens SEAL and REVIEW.
+
+What it gives:
+- named steps
+- repeatable proof
+- independent recheck
+
+Rule extracted:
+If a review cannot be repeated from the evidence, it is weak.
+
+11. Peer review
+
+Real-world source:
+Another reviewer challenges method, evidence, and conclusion.
+
+Clean Seed use:
+This strengthens REVIEW / HANDOFF.
+
+What it gives:
+- overreach check
+- missing evidence check
+- wording check
+- method challenge
+
+Rule extracted:
+Review can recommend; it does not automatically promote.
+
+12. Red-team review
+
+Real-world source:
+Security and intelligence teams attack assumptions to expose weaknesses.
+
+Clean Seed use:
+This strengthens JUDGE and REVIEW.
+
+What it gives:
+- adversarial proof check
+- hidden failure modes
+- authority-leak detection
+
+Rule extracted:
+Attack the claim before installing the claim.
+
+13. Differential diagnosis
+
+Real-world source:
+Doctors keep multiple possible causes open until evidence narrows them.
+
+Clean Seed use:
+This strengthens JUDGE and incident handling.
+
+What it gives:
+- avoid premature blame
+- compare likely causes
+- keep unknown as unknown
+
+Rule extracted:
+Suspect is not proven cause.
+
+14. Medical triage
+
+Real-world source:
+Emergency medicine sorts by urgency and risk.
+
+Clean Seed use:
+This supports optional TRIAGE inside JUDGE.
+
+What it gives:
+- immediate danger first
+- stable items can wait
+- treatment follows classification
+
+Rule extracted:
+Urgency changes order of attention, not authority.
+
+15. Clinical pathway
+
+Real-world source:
+Care teams use standard paths with stop points and escalation gates.
+
+Clean Seed use:
+This strengthens station order.
+
+What it gives:
+- predictable flow
+- exceptions are named
+- handoff is controlled
+
+Rule extracted:
+Every standard route needs an exception gate.
+
+16. Incident command system
+
+Real-world source:
+Emergencies separate roles so work does not collapse into one person or one channel.
+
+Clean Seed use:
+This strengthens AUTHORITY, REVIEW / HANDOFF, and BLOCK.
+
+What it gives:
+- role separation
+- command boundary
+- operations, planning, logistics, and record roles
+- escalation gates
+
+Rule extracted:
+No single surface should become the master brain.
+
+17. Aviation checklist discipline
+
+Real-world source:
+Pilots use checklists to prevent skipped steps during normal and abnormal situations.
+
+Clean Seed use:
+This strengthens gates and stop conditions.
+
+What it gives:
+- required checks before action
+- cockpit resource management
+- no silent skip under pressure
+
+Rule extracted:
+Checklist gates are for high-risk transitions, not every breath.
+
+18. Systems engineering V-model
+
+Real-world source:
+Systems engineering maps requirements to design and verification.
+
+Clean Seed use:
+This strengthens AUTHORITY, JUDGE, SEAL, and REVIEW.
+
+What it gives:
+- requirement
+- design response
+- verification evidence
+- acceptance criteria
+
+Rule extracted:
+Each promoted part must trace back to a requirement and verification.
+
+19. Requirements traceability
+
+Real-world source:
+Engineering tracks every requirement to implementation and test.
+
+Clean Seed use:
+This strengthens authority and proof.
+
+What it gives:
+- why a part exists
+- where it lives
+- what proves it works
+- what it affects
+
+Rule extracted:
+No role without a reason; no gate without proof.
+
+20. FMEA
+
+Real-world source:
+Failure Mode and Effects Analysis lists how parts fail and what controls reduce risk.
+
+Clean Seed use:
+This strengthens JUDGE and BLOCK.
+
+What it gives:
+- failure modes
+- severity
+- likelihood
+- detection
+- control
+
+Rule extracted:
+Judge not only value; judge how it can fail.
+
+21. Fault tree analysis
+
+Real-world source:
+Safety teams trace how failures combine into a top event.
+
+Clean Seed use:
+This strengthens incident review and cobweb analysis.
+
+What it gives:
+- failure chain
+- combined causes
+- no single-cause obsession
+
+Rule extracted:
+A bad outcome may have a chain, not one villain.
+
+22. HAZOP / deviation review
+
+Real-world source:
+Hazard teams ask what happens if flow is more, less, early, late, missing, reversed, or wrong.
+
+Clean Seed use:
+This strengthens flow check.
+
+What it gives:
+- missing station check
+- wrong-order check
+- too-much / too-little check
+
+Rule extracted:
+Every station should be checked for missing, early, late, skipped, duplicated, and reversed behavior.
+
+23. STPA / control-system safety
+
+Real-world source:
+Systems safety asks whether unsafe control actions happen, are missing, happen too early/late, or last too long.
+
+Clean Seed use:
+This strengthens gate design.
+
+What it gives:
+- action timing
+- authority boundary
+- feedback loop requirement
+
+Rule extracted:
+A gate must know when action is unsafe, missing, late, early, or stale.
+
+24. Lean assembly line
+
+Real-world source:
+Lean systems reduce waste by making flow visible and work sequential.
+
+Clean Seed use:
+This strengthens the station model.
+
+What it gives:
+- each station does one job
+- handoffs are controlled
+- waste and waiting become visible
+
+Rule extracted:
+Do not make one station do every job.
+
+25. Toyota-style jidoka / stop-the-line
+
+Real-world source:
+Workers stop the line when quality or safety is threatened.
+
+Clean Seed use:
+This strengthens FREEZE and BLOCK.
+
+What it gives:
+- stop on abnormal state
+- do not pass defect downstream
+- fix or block at the right gate
+
+Rule extracted:
+If proof, authority, or context breaks, stop the line.
+
+26. Kanban and WIP limits
+
+Real-world source:
+Kanban limits work in progress so the system does not overload.
+
+Clean Seed use:
+This strengthens ACTIVE BALL.
+
+What it gives:
+- one active ball
+- visible blocked/parked/next state
+- no invisible work pile
+
+Rule extracted:
+Too many active balls is a flow failure.
+
+27. Quality control sampling
+
+Real-world source:
+Quality systems inspect enough to judge a batch without checking every unit when risk allows.
+
+Clean Seed use:
+This strengthens CAPTURE and REVIEW.
+
+What it gives:
+- representative review
+- scope control
+- risk-based depth
+
+Rule extracted:
+Inspect to the risk, not to infinity.
+
+28. Statistical process control
+
+Real-world source:
+Control charts detect drift before full failure.
+
+Clean Seed use:
+This strengthens CONTINUE and drift checks.
+
+What it gives:
+- normal range
+- abnormal signal
+- early warning
+
+Rule extracted:
+Drift is captured before it becomes action.
+
+29. Audit trail
+
+Real-world source:
+Auditors require records that show what happened and why.
+
+Clean Seed use:
+This strengthens SAVE and SEAL.
+
+What it gives:
+- action record
+- evidence
+- approval state
+- exception record
+
+Rule extracted:
+If later review cannot tell what happened, the seal is weak.
+
+30. Segregation of duties
+
+Real-world source:
+Internal controls separate requester, approver, doer, and reviewer.
+
+Clean Seed use:
+This strengthens authority boundaries.
+
+What it gives:
+- no hidden master actor
+- less self-approval
+- review before promotion
+
+Rule extracted:
+The station that proposes should not silently promote.
+
+31. Legal discovery
+
+Real-world source:
+Legal teams preserve, collect, review, privilege-check, produce, or withhold.
+
+Clean Seed use:
+This strengthens CAPTURE, REVIEW, PROMOTE / PARK / BLOCK.
+
+What it gives:
+- preservation hold
+- relevance review
+- privilege/protection check
+- production gate
+
+Rule extracted:
+Collected does not mean produced; reviewed does not mean promoted.
+
+32. Evidence admissibility
+
+Real-world source:
+Courts ask whether evidence is authentic, relevant, traceable, and not unfairly corrupted.
+
+Clean Seed use:
+This strengthens JUDGE and REVIEW.
+
+What it gives:
+- authenticity
+- relevance
+- chain of custody
+- contamination check
+
+Rule extracted:
+Useful-sounding proof is not automatically admissible proof.
+
+33. Archival appraisal
+
+Real-world source:
+Archivists decide long-term value, context, and preservation need.
+
+Clean Seed use:
+This strengthens PLACE / FILE and PARK.
+
+What it gives:
+- historical value
+- context preservation
+- not-active but not-trash status
+
+Rule extracted:
+Not active is not trash.
+
+34. Records retention
+
+Real-world source:
+Records management defines what must be kept, how long, and under what authority.
+
+Clean Seed use:
+This strengthens SAVE, PARK, BLOCK, and deletion boundaries.
+
+What it gives:
+- retention reason
+- disposal gate
+- protected categories
+
+Rule extracted:
+Deletion is its own gate, never a side effect of sorting.
+
+35. Library cataloging
+
+Real-world source:
+Libraries assign title, subject, source, identifier, and location.
+
+Clean Seed use:
+This strengthens INVENTORY and PLACE / FILE.
+
+What it gives:
+- findability
+- subject role
+- location without promotion
+
+Rule extracted:
+An item should be findable without becoming active truth.
+
+36. Faceted classification
+
+Real-world source:
+Information science classifies items on multiple axes.
+
+Clean Seed use:
+This strengthens SORT.
+
+What it gives:
+- source
+- role
+- risk
+- authority
+- status
+- next gate
+
+Rule extracted:
+One label is rarely enough for complex material.
+
+37. Ontology / relationship mapping
+
+Real-world source:
+Ontology defines entities and relationships.
+
+Clean Seed use:
+This strengthens machine structure.
+
+What it gives:
+- part
+- role
+- lane
+- gate
+- dependency
+- conflict
+
+Rule extracted:
+The system needs relationships, not just piles.
+
+38. Knowledge graph / link analysis
+
+Real-world source:
+Investigators and analysts map nodes, links, hubs, and bridges.
+
+Clean Seed use:
+This strengthens context preservation.
+
+What it gives:
+- dependencies
+- repeated sources
+- duplicate authority risk
+- missing links
+
+Rule extracted:
+Context travels with the item.
+
+39. Archaeological stratigraphy
+
+Real-world source:
+Archaeology preserves layers and source context.
+
+Clean Seed use:
+This strengthens source-ore handling.
+
+What it gives:
+- layer preservation
+- original context
+- no ripping old material out of meaning
+
+Rule extracted:
+Old material should be layered before it is judged.
+
+40. Field sampling
+
+Real-world source:
+Ecology and field science sample representative areas without disturbing everything.
+
+Clean Seed use:
+This strengthens large-batch review.
+
+What it gives:
+- representative capture
+- minimal disturbance
+- scope control
+
+Rule extracted:
+Do not disturb the whole shed when a bounded sample answers the current question.
+
+41. Zero trust
+
+Real-world source:
+Cybersecurity treats presence as not enough for trust.
+
+Clean Seed use:
+This strengthens AUTHORITY and BLOCK.
+
+What it gives:
+- verify identity
+- verify authority
+- least privilege
+- no trust by location alone
+
+Rule extracted:
+A file in the project folder is not active truth by location.
+
+42. Threat modeling
+
+Real-world source:
+Security teams map assets, threats, attack paths, and mitigations.
+
+Clean Seed use:
+This strengthens JUDGE and BLOCK.
+
+What it gives:
+- what can go wrong
+- what is protected
+- what route is unsafe
+
+Rule extracted:
+Judge both usefulness and abuse path.
+
+43. Quarantine / sandboxing
+
+Real-world source:
+Risky material is isolated before use.
+
+Clean Seed use:
+This strengthens BLOCK.
+
+What it gives:
+- unknown payload containment
+- no execution
+- no trust transfer
+
+Rule extracted:
+Unknown or executable material is visible but inert.
+
+44. Version control
+
+Real-world source:
+Software teams preserve history, diffs, branches, rollback, and authorship.
+
+Clean Seed use:
+This strengthens SAVE and SEAL.
+
+What it gives:
+- changed lines
+- previous state
+- branch/proposal state
+- rollback route
+
+Rule extracted:
+Change without rollback proof is high risk.
+
+45. Release management
+
+Real-world source:
+Shipping requires readiness, approvals, version identity, and rollback plan.
+
+Clean Seed use:
+This strengthens PROMOTE.
+
+What it gives:
+- release candidate
+- promotion gate
+- acceptance criteria
+- rollback plan
+
+Rule extracted:
+Promotion is a release, not a vibe.
+
+46. Change control
+
+Real-world source:
+Controlled environments require change request, impact, approval, execution, and verification.
+
+Clean Seed use:
+This strengthens any active-guide/current-truth update.
+
+What it gives:
+- reason
+- impact map
+- approval
+- verification
+
+Rule extracted:
+Judgment does not authorize change by itself.
+
+47. Root-cause analysis
+
+Real-world source:
+RCA finds causes after incidents without confusing symptom and cause.
+
+Clean Seed use:
+This strengthens incident review.
+
+What it gives:
+- problem statement
+- cause chain
+- corrective action
+- recurrence prevention
+
+Rule extracted:
+Freeze first, cause later.
+
+48. 5 Whys
+
+Real-world source:
+Teams ask why repeatedly to expose underlying causes.
+
+Clean Seed use:
+This strengthens JUDGE when simple cause is suspect.
+
+What it gives:
+- deeper cause search
+- less surface fixing
+
+Rule extracted:
+Use only when the issue needs cause depth; do not turn every review into a cause hunt.
+
+49. Lessons-learned register
+
+Real-world source:
+Operations preserve reusable incident lessons.
+
+Clean Seed use:
+This strengthens CONTINUE.
+
+What it gives:
+- pattern memory
+- recurrence prevention
+- future trigger
+
+Rule extracted:
+Feedback becomes future guardrail only after review.
+
+50. OODA loop
+
+Real-world source:
+Observe, orient, decide, act.
+
+Clean Seed use:
+This strengthens the recursion of the whole system.
+
+What it gives:
+- current evidence
+- context orientation
+- decision
+- action
+- repeat
+
+Rule extracted:
+Continue means return to orientation, not drift into the next shiny item.
+
+51. Human cognitive control
+
+Real-world source:
+The brain separates attention, working memory, inhibition, judgment, action, and feedback.
+
+Clean Seed use:
+This strengthens the whole architecture as distributed coordination.
+
+What it gives:
+- attention chooses current target
+- working memory holds active ball
+- inhibition blocks bad moves
+- judgment filters relevance
+- action executes only cleared movement
+- feedback updates next move
+
+Rule extracted:
+No part decides everything. Parts coordinate through gates.
+
+
+SECTION 3 - STATION-BY-STATION ARCHITECTURE
+
+1. AUTHORITY
+
+Receives:
+Project root, source-of-truth files, user scope, current task.
+
+Allowed:
+Identify what is active truth, what is support proof, what is local bridge guidance, and what is blocked.
+
+Must not:
+Treat proof-history, memory, chat, or good-sounding ideas as active truth.
+
+Proof needed:
+Path, file role, hash when judging active files, patch/state IDs when present.
+
+Output:
+Authority boundary for the active cycle.
+
+Stop when:
+Authority source is missing, conflicted, stale, or outside scope.
+
+Real-world methods:
+Zero trust, requirements traceability, audit control, legal authority check.
+
+2. ACTIVE BALL
+
+Receives:
+The current target or batch.
+
+Allowed:
+Name what is in hand and what state it is in.
+
+Must not:
+Silently switch tasks or keep multiple hidden active balls.
+
+Proof needed:
+Target path or statement, scope, owner, status, next gate.
+
+Output:
+One named active target.
+
+Stop when:
+The active ball is unclear.
+
+Real-world methods:
+Kanban WIP limit, cockpit task discipline, incident command role clarity, working memory.
+
+3. FREEZE
+
+Receives:
+Active ball plus risk or review need.
+
+Allowed:
+Stop movement and prevent state change.
+
+Must not:
+Delete, move, rename, overwrite, cleanup, promote, run scripts, extract zips, edit active guides, or change current truth.
+
+Proof needed:
+What is frozen, why it is frozen, what has not changed.
+
+Output:
+Stable scene.
+
+Stop when:
+State cannot be preserved or the user has not approved required action.
+
+Real-world methods:
+Crime-scene preservation, forensic imaging, legal hold, jidoka stop-the-line, inhibition.
+
+4. CAPTURE / COLLECT
+
+Receives:
+Frozen scene or bounded target.
+
+Allowed:
+Preserve visible evidence: paths, names, timestamps, sizes, hashes when needed, file lists, command output, receipts, logs, current state.
+
+Must not:
+Interpret, judge, fix, clean, move, delete, promote, or restructure.
+
+Proof needed:
+Captured facts and source path.
+
+Output:
+Raw evidence set.
+
+Stop when:
+Evidence is not preserved enough for the next station.
+
+Real-world methods:
+Forensics collection, chain of custody, lab specimen receipt, field sampling.
+
+5. INVENTORY
+
+Receives:
+Captured evidence.
+
+Allowed:
+Turn captured evidence into a structured list.
+
+Must not:
+Judge value, delete, promote, or fix.
+
+Proof needed:
+Name, path, size, type, modified time, source, role guess, evidence present, evidence missing.
+
+Output:
+Structured item list.
+
+Stop when:
+Identity, path, or source is unclear.
+
+Real-world methods:
+Lab accessioning, library cataloging, asset inventory, metadata inventory.
+
+6. SORT
+
+Receives:
+Structured inventory.
+
+Allowed:
+Group like with like by role, source, risk, authority, status, and next gate.
+
+Must not:
+Decide final value, fix, delete, promote, or merge.
+
+Proof needed:
+Pile criteria and why each item belongs there.
+
+Output:
+Clean piles.
+
+Stop when:
+Items have mixed authority/risk and cannot be safely grouped.
+
+Real-world methods:
+Faceted classification, taxonomy, affinity mapping, triage prep, library subjects.
+
+7. JUDGE
+
+Receives:
+Sorted piles or one item from a pile.
+
+Allowed:
+Decide value, risk, authority, evidence strength, next gate, and whether optional triage is needed.
+
+Must not:
+Treat judgment as permission to change files.
+
+Proof needed:
+Criteria, comparison target, evidence, risk, unknowns, affected neighbors.
+
+Output:
+Provisional status: save, adjust, deny, park, block, review, promote candidate, or yield.
+
+Stop when:
+Evidence, authority, user approval, or scope is missing.
+
+Real-world methods:
+Scientific method, differential diagnosis, FMEA, evidence admissibility, red-team review, decision tables.
+
+8. PLACE / FILE
+
+Receives:
+Judged item with provisional status.
+
+Allowed:
+Route to correct lane: proof-history, parked, blocked, active-guide candidate, current-truth candidate, review candidate, receipt, source-ore, rest stop.
+
+Must not:
+Treat placement as promotion.
+
+Proof needed:
+Lane reason, authority boundary, next gate.
+
+Output:
+Findable item with status.
+
+Stop when:
+No correct lane is proven.
+
+Real-world methods:
+Records management, archival appraisal, library indexing, warehouse slotting.
+
+9. SAVE
+
+Receives:
+Approved save target.
+
+Allowed:
+Create proof-history file, receipt, backup, hash record, or decision record when approved.
+
+Must not:
+Overwrite, move, delete, or promote unless separately approved.
+
+Proof needed:
+Exact path, purpose, boundary, save scope.
+
+Output:
+Saved durable evidence.
+
+Stop when:
+Path exists unexpectedly, scope changed, or approval is unclear.
+
+Real-world methods:
+Lab notebook, audit trail, version control, records retention.
+
+10. SEAL
+
+Receives:
+Saved or reviewed item.
+
+Allowed:
+Record path, size, hash, what changed, what did not change, status, blocked actions, and next clean action.
+
+Must not:
+Turn file-save success into final PASS.
+
+Proof needed:
+Size, hash, boundary confirmation.
+
+Output:
+Closed proof state.
+
+Stop when:
+Verification cannot be completed.
+
+Real-world methods:
+Audit seal, release verification, chain of custody, reproducibility check.
+
+11. REVIEW / HANDOFF
+
+Receives:
+Sealed item or bounded target for another reviewer.
+
+Allowed:
+Inspect, challenge, compare, recommend, and return provisional judgment.
+
+Must not:
+Final PASS, promote, edit active truth, or exceed role.
+
+Proof needed:
+Review target, evidence used, findings, weak points, next gate.
+
+Output:
+Review result.
+
+Stop when:
+Reviewer authority is unclear or evidence is insufficient.
+
+Real-world methods:
+Peer review, red-team review, incident command handoff, legal review, lab second review.
+
+12. PROMOTE / PARK / BLOCK
+
+Receives:
+Reviewed item with next-state decision.
+
+Allowed:
+Promote only after separate authority gate; park useful not-now items; block unsafe or unready items.
+
+Must not:
+Promote by identity, delete by disappointment, or block without reason.
+
+Proof needed:
+Promotion approval, park reason, block reason, reopen condition.
+
+Output:
+Clear next state.
+
+Stop when:
+Decision needs user approval or proof.
+
+Real-world methods:
+Release management, quarantine, archival appraisal, records retention, change control.
+
+13. CONTINUE
+
+Receives:
+Closed state from prior station.
+
+Allowed:
+Return to authority/active-ball check and choose the next clean action.
+
+Must not:
+Drift into a new task without closure.
+
+Proof needed:
+Current state and next clean action.
+
+Output:
+Recursive next cycle.
+
+Stop when:
+Open item remains in hand.
+
+Real-world methods:
+OODA loop, lessons learned, process control, feedback learning.
+
+
+SECTION 4 - HUMAN-BRAIN-LIKE MAPPING
+
+This is not magic. It is distributed coordination with gates.
+
+Attention:
+Maps to ACTIVE BALL.
+It chooses the current target.
+
+Working memory:
+Maps to current plate / active surface.
+It holds what is in hand without pretending to be long-term truth.
+
+Long-term memory:
+Maps to PROOF_HISTORY and source ore.
+It stores useful material without deciding everything.
+
+Prefrontal judgment:
+Maps to JUDGE.
+It filters value, risk, authority, and next gate.
+
+Inhibition:
+Maps to FREEZE and BLOCK.
+It prevents bad moves before action.
+
+Sensory intake:
+Maps to CAPTURE / COLLECT.
+It preserves what is visible before interpretation.
+
+Pattern organization:
+Maps to INVENTORY and SORT.
+It gives material identity and grouping.
+
+Motor/action system:
+Maps to SAVE, PROMOTE, MOVE, EDIT, or DO actions.
+It acts only after clearance.
+
+Feedback / prediction error:
+Maps to SEAL, REVIEW, and CONTINUE.
+It updates the next cycle when expected and actual results differ.
+
+Consolidation:
+Maps to PARK, SAVE, and proof-history preservation.
+It stores useful not-now material without making it active.
+
+Clean brain-like principle:
+No part owns the whole mind.
+Each part does its job and passes clean output through gates.
+
+
+SECTION 5 - CROSS-CUTTING CONTROLS
+
+1. Proof custody
+Every important claim needs a path back to evidence.
+
+2. Authority separation
+Truth map, active guide, local bridge, proof-history, and test evidence stay separate.
+
+3. Role separation
+Collector, sorter, judge, doer, reviewer, and approver are not silently collapsed.
+
+4. Context preservation
+Source, layer, history, and reason travel with the item.
+
+5. Stop-line authority
+Any missing proof, unclear scope, unsafe action, or authority conflict can stop the flow.
+
+6. Optional triage
+Triage is allowed only as urgency/risk prioritization inside judgment.
+
+7. No identity promotion
+An item does not become truth because it exists in the project, sounds right, is newer, is older, is saved, or has a receipt.
+
+8. No hidden deletion
+Deletion is never produced by sorting, judgment, filing, parking, or cleanup mood.
+
+9. Feedback loop
+Every sealed cycle must name what happens next.
+
+10. Bloat control
+Methods are lenses, not stations, unless they perform a needed station job.
+
+
+SECTION 6 - METHODS TO HOLD AS ORE, NOT INSTALL
+
+These can help future review, but should not become current required stations:
+- 5 Whys
+- fishbone / Ishikawa
+- fault tree analysis
+- full FMEA tables
+- full HAZOP tables
+- full STPA worksheets
+- full ontology build
+- full knowledge graph
+- full dashboard
+- full records retention schedule
+- full legal discovery workflow
+- full lab QA manual
+- full incident command structure
+- full software release train
+- full process-control charting
+
+Reason:
+They are powerful, but importing them whole would create rule bloat.
+
+Clean use:
+Pull one method only when the active gate needs it.
+
+
+SECTION 7 - SMALLEST CLEAN BUILD SHAPE
+
+The perfected Recursive Flow Architecture should be built as:
+
+1. One authority boundary
+CURRENT_TRUTH_INDEX -> AGENTS -> ACTIVE_GUIDES.
+
+2. One active ball
+The current target is always named.
+
+3. One corrected station order
+AUTHORITY -> ACTIVE BALL -> FREEZE -> CAPTURE / COLLECT -> INVENTORY -> SORT -> JUDGE -> PLACE / FILE -> SAVE -> SEAL -> REVIEW / HANDOFF -> PROMOTE / PARK / BLOCK -> CONTINUE.
+
+4. One evidence rule
+Proof travels with the item.
+
+5. One inhibition rule
+Unsafe or unclear movement stops.
+
+6. One action rule
+Doing requires clearance.
+
+7. One memory rule
+Useful not-now material is preserved without becoming active truth.
+
+8. One feedback rule
+Every close state feeds the next clean action.
+
+
+SECTION 8 - WHAT THIS SHOULD DO FOR CLEAN SEED
+
+It should let Clean Seed:
+- preserve evidence without hoarding
+- classify without judging too early
+- judge without fixing
+- fix without deleting
+- save without promoting
+- review without final PASS
+- park without losing value
+- block without forgetting
+- continue without drift
+
+It should prevent:
+- proof-history becoming doctrine
+- memory becoming truth
+- dashboard becoming boss
+- one file becoming master brain
+- folder structure becoming maze
+- cleanup becoming deletion
+- review becoming promotion
+- confidence becoming proof
+- done becoming PASS
+
+
+SECTION 9 - WHAT SHOULD BE BUILT LATER, IF APPROVED
+
+Possible later build pieces:
+
+1. A tiny front-door launcher
+Loads authority and names target.
+
+2. A one-file memory/update pack
+Map only, not proof.
+
+3. A current-ball surface
+One target, one boundary, one proof basis, one next gate.
+
+4. A station checklist
+Only the six fields each station must know:
+receives, allowed, forbidden, proof needed, output, stop condition.
+
+5. A proof row template
+ITEM | SOURCE | ROLE | STATUS | EVIDENCE | NEXT GATE
+
+6. A blocked-action line
+No edit, move, delete, rename, overwrite, folder, script, cleanup, promotion, or final PASS unless explicitly approved.
+
+What should not be built yet:
+- new folders
+- dashboard app
+- master brain file
+- giant doctrine dump
+- active-guide install
+- current-truth update
+- cleanup plan
+- deletion plan
+
+
+SECTION 10 - FINAL DISTILLATION
+
+Recursive Flow Architecture is not more rules.
+It is a living route.
+
+Each station receives one kind of material, performs one kind of work, and passes one clean output to the next gate.
+
+The system becomes intelligent not because one part knows everything, but because:
+- attention chooses the ball
+- evidence preserves reality
+- inventory gives identity
+- sorting gives shape
+- judgment gives meaning
+- inhibition blocks bad action
+- saving preserves value
+- sealing proves state
+- review challenges conclusions
+- promotion, parking, and blocking decide next status
+- feedback starts the next clean cycle
+
+If it works, the project can handle complexity without becoming a pile.
+
+
+SELF-RECEIPT / BOUNDARY
+
+File created as one proof-history-only concept stack.
+No separate receipt file was created because the user requested one file.
+
+ACTIVE_GUIDES edited:
+NO
+
+CURRENT_TRUTH_INDEX.txt edited:
+NO
+
+AGENTS.md edited:
+NO
+
+Existing proof-history files edited:
+NO
+
+Files moved:
+NO
+
+Files deleted:
+NO
+
+Files renamed:
+NO
+
+Files overwritten:
+NO
+
+Folders created:
+NO
+
+Scripts run:
+NO
+
+Cleanup performed:
+NO
+
+Promotion performed:
+NO
+
+Final PASS claimed:
+NO
+
+NEXT CLEAN ACTION
+
+Review this file as proof-history-only architecture ore.
+
+If accepted later, the clean next refinement would be to distill this into a much smaller Recursive Flow Architecture station card:
+STATION | RECEIVES | MAY DO | MUST NOT DO | PROOF NEEDED | OUTPUT | STOP CONDITION
+
+Do not install, promote, or edit active guides from this file without a separate approved review.

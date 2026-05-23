@@ -1,0 +1,20 @@
+RECEIPT - INCIDENT BEFORE REASSURANCE RULE
+Created: 2026-05-16 23:11:08
+
+Rule file:
+INCIDENT_BEFORE_REASSURANCE_RULE_20260516.txt
+
+Rule file SHA256:
+C2E63573B27E31B7CCC04C0EACC7D5E9006D00ED155E6FCE5583FEE464096CD0
+
+Files created: 2
+Files overwritten: NO
+Files moved: NO
+Files deleted: NO
+Cleanup started: NO
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX edited: NO
+Git publish: NO
+
+Verdict:
+PASS - incident-before-reassurance rule file generated for user download as proof-history-only candidate.

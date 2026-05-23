@@ -1,0 +1,25 @@
+﻿LIVE TEST 017 - PATCH METHOD EVIDENCE / DIRECTION CHECK
+
+Timestamp:
+2026-05-09 18:16:19 -04:00
+
+Active claim:
+A patch receipt must prove not only what changed, but why the method moves in the right direction.
+
+State boundary:
+Desktop staging only.
+REQUIRED PATCH RECEIPT FIELD: what changed
+REQUIRED PATCH RECEIPT FIELD: why it changed
+REQUIRED PATCH RECEIPT FIELD: placement reason
+REQUIRED PATCH RECEIPT FIELD: affected areas
+REQUIRED PATCH RECEIPT FIELD: unchanged areas
+REQUIRED PATCH RECEIPT FIELD: evidence used
+REQUIRED PATCH RECEIPT FIELD: post-save check
+REQUIRED PATCH RECEIPT FIELD: direction verdict
+REQUIRED PATCH RECEIPT FIELD: remaining unknowns
+
+DIRECTION VERDICT:
+PASS only if the patch reduces drift, protects authority, preserves evidence, and avoids bloat.
+
+DIRTY CONDITION:
+A what-changed summary without method, placement, evidence, and direction is PARTIAL.

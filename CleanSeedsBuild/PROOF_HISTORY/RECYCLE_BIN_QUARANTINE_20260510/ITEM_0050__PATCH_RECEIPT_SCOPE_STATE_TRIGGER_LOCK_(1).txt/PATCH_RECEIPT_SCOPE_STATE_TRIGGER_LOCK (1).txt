@@ -1,0 +1,76 @@
+PATCH RECEIPT — SCOPE-STATE TRIGGER LOCK
+
+Timestamp local:
+2026-05-09 4:58 PM America/New_York
+
+Timestamp UTC:
+2026-05-09T20:58:21+00:00
+
+Active patch ID:
+CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK
+
+Patch target:
+Install the narrow trigger-seam patch proven by Issue Capture Path Wave 1A and dry-run Wave 1B so broad clean-seed rules fire under live pressure instead of remaining only general doctrine.
+
+Rule/control ID:
+CS-RULE-SCOPE-STATE-TRIGGER-LOCK-001
+
+Reason:
+The base closed loop existed, but recent live use showed trigger seams. Broad rules for capture, order, evidence, affected-scope review, and reports were present, yet status words, issue capture, pre-save routing, self-application, report labels, thread anchors, decision footers, and audit-loop stop conditions did not fire tightly enough under pressure.
+
+What changed:
+- README_START_HERE.txt: updated patch ID, added a light Scope-State Trigger Lock explanation, and added the Trigger lock check command.
+- CLEAN_SEED_WRAP_GUIDE.txt: updated patch ID, added Scope-State Trigger Lock Rule, and added Trigger lock check command routing.
+- CLEAN_SEED_ALIGNMENT_CHECK.txt: updated patch ID, added Scope-State Trigger Lock Check, added it to Master Rule Application, and added command-route verification.
+- EVIDENCE_ARCHIVE_MANIFEST.txt: updated after patch with new active guide hashes and this receipt.
+
+How applied:
+- README explains the user-facing meaning without becoming heavy.
+- Wrap Guide controls assistant behavior with the exact live-pressure hooks.
+- Alignment Check verifies the trigger hooks and blocks fake compliance.
+
+Included hooks:
+- Scope-State Clarity / No Over-Absolute Status
+- Automatic Clean-Milk Capture / No Blind Add
+- Pre-Save Routing / No After-the-Fact Order Pass
+- Self-Application / Affected-Rule Immediate Pass
+- Evidence Map Header / Classification Requirement
+- Active Thread Anchor / Interruption Stack
+- Options / Decision Footer
+- Audit/Recheck Loop Drift Guard
+
+Affected-area map:
+- Concept Capture / Capture Classification: strengthened by automatic clean-milk triage and no blind add.
+- Clean Seed Order Of Operations: strengthened by pre-save routing before save/classification when possible.
+- Rule ID / Partner Sync / Anti-Bleed: strengthened by self-application and partner-rule checks.
+- Verdict / status wording: strengthened by scope-state clarity.
+- Evidence Coverage Map / Timestamped Helpful Evidence: strengthened by required report header fields.
+- Issue Status Footer / decision reports: strengthened by decision footer behavior.
+- Interruption Recovery / Ordered Multi-Fix: strengthened by active thread anchor and interruption stack.
+- Rule Checker Failure Prevention / Audit review: strengthened by bounded audit/recheck stop conditions.
+- Active startup package count: unchanged; still three guide files only.
+
+Backup status:
+Original uploaded package files were copied to /mnt/data/CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK/BACKUP_BEFORE_SCOPE_STATE_TRIGGER_LOCK before patching. Backup is proof support only, not active package material.
+
+Proof checks:
+- Patch ID synced across all three guide files: PASS
+- README Scope-State Trigger Lock marker: PASS
+- Wrap Scope-State Trigger Lock Rule marker: PASS
+- Alignment Scope-State Trigger Lock Check marker: PASS
+- Rule/control ID CS-RULE-SCOPE-STATE-TRIGGER-LOCK-001 present in Wrap Guide: PASS
+- Trigger lock command route exists: PASS
+- Active startup package count remains three guide files only: PASS
+- No fourth guide file created: PASS
+- Dreamforger/SUNO material not installed in package doctrine: PASS
+
+Hashes:
+- README_START_HERE.txt: 313914b8942656a637260056387d99bb3d89dfddd5886ab9422aea92e42d3d89
+- CLEAN_SEED_WRAP_GUIDE.txt: 1fa19a2bd7dea94f1a0dfb226cb68fdc4e7423088741f8efee750e590ef66fd7
+- CLEAN_SEED_ALIGNMENT_CHECK.txt: 943c7b21ff61eac91908c4dafdc282835b8d487ee0206eaa3d3f89cc09baf610
+
+Direction verdict:
+PASS WITH GUARDRAILS for targeted patch. It closes the identified trigger seams without rebuilding the doctrine or creating a fourth active guide file.
+
+Guardrail:
+This patch does not prove any future live seed has passed. It proves the active package now contains the trigger-lock controls needed before the Closed Loop Verification Board can be rerun against patched files.

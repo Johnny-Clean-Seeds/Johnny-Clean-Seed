@@ -1,0 +1,170 @@
+﻿FIRST-ADD FILE INTAKE REPORT 006 REPAIR
+
+Timestamp:
+2026-05-09 18:08:12 -04:00
+
+Active claim:
+Added files are untrusted until intake review completes.
+
+Approved scope:
+Desktop-only staging repair/replay.
+
+State boundary:
+Desktop staging support proof only. No ACTIVE_GUIDES, PROOF_HISTORY, or LIVE_SEED_TEST folders are modified by this repair/replay.
+
+============================================================
+FILE: CURRENT_BUILD_DRAFT_NOTES.txt
+PATH: C:\Users\13527\Desktop\CleanSeed_Desktop_Staging\LIVE_TEST_006_REPAIR_AND_REPLAY\SIMULATED_ADDED_FILES\CURRENT_BUILD_DRAFT_NOTES.txt
+
+FILE ROLE PASS
+Role: CURRENT BUILD DRAFT / NOTES
+
+DOCTRINE CHECKLIST PASS
+name: PRESENT
+mission: PRESENT
+home: MISSING_OR_NOT_APPLICABLE
+route: MISSING_OR_NOT_APPLICABLE
+evidence: MISSING_OR_NOT_APPLICABLE
+pass judge: MISSING_OR_NOT_APPLICABLE
+failure path: MISSING_OR_NOT_APPLICABLE
+recovery path: MISSING_OR_NOT_APPLICABLE
+authority boundary: PRESENT
+parking lane: MISSING_OR_NOT_APPLICABLE
+promotion rule: MISSING_OR_NOT_APPLICABLE
+close condition: MISSING_OR_NOT_APPLICABLE
+
+DIRTY MILK / AUTHORITY PASS
+Authority verdict: Draft material has no active authority.
+State: PARKED
+Next action: Preserve as draft/reference. Do not steer active package until reviewed and promoted.
+
+============================================================
+FILE: README_START_HERE.txt
+PATH: C:\Users\13527\Desktop\CleanSeed_Desktop_Staging\LIVE_TEST_006_REPAIR_AND_REPLAY\SIMULATED_ADDED_FILES\README_START_HERE.txt
+
+FILE ROLE PASS
+Role: ACTIVE GUIDE COPY CANDIDATE
+
+DOCTRINE CHECKLIST PASS
+name: PRESENT
+mission: PRESENT
+home: PRESENT
+route: PRESENT
+evidence: PRESENT
+pass judge: PRESENT
+failure path: PRESENT
+recovery path: PRESENT
+authority boundary: PRESENT
+parking lane: PRESENT
+promotion rule: PRESENT
+close condition: PRESENT
+
+DIRTY MILK / AUTHORITY PASS
+Authority verdict: Known guide filename, but this added copy does not gain authority until verified.
+State: REFERENCE-ONLY
+Next action: Hash-check against known active guide. Do not promote from added file by default.
+
+============================================================
+FILE: SCRIPT_SAMPLE_DO_NOT_RUN.ps1
+PATH: C:\Users\13527\Desktop\CleanSeed_Desktop_Staging\LIVE_TEST_006_REPAIR_AND_REPLAY\SIMULATED_ADDED_FILES\SCRIPT_SAMPLE_DO_NOT_RUN.ps1
+
+FILE ROLE PASS
+Role: CODE / SCRIPT SAMPLE
+
+DOCTRINE CHECKLIST PASS
+name: MISSING_OR_NOT_APPLICABLE
+mission: MISSING_OR_NOT_APPLICABLE
+home: MISSING_OR_NOT_APPLICABLE
+route: MISSING_OR_NOT_APPLICABLE
+evidence: MISSING_OR_NOT_APPLICABLE
+pass judge: MISSING_OR_NOT_APPLICABLE
+failure path: MISSING_OR_NOT_APPLICABLE
+recovery path: MISSING_OR_NOT_APPLICABLE
+authority boundary: MISSING_OR_NOT_APPLICABLE
+parking lane: MISSING_OR_NOT_APPLICABLE
+promotion rule: MISSING_OR_NOT_APPLICABLE
+close condition: MISSING_OR_NOT_APPLICABLE
+
+DIRTY MILK / AUTHORITY PASS
+Authority verdict: Script has no execution authority during first-add intake.
+State: REFERENCE-ONLY
+Next action: Do not run during intake. Review content only.
+
+============================================================
+FILE: SUPPORT_PROOF_RECEIPT_SAMPLE.txt
+PATH: C:\Users\13527\Desktop\CleanSeed_Desktop_Staging\LIVE_TEST_006_REPAIR_AND_REPLAY\SIMULATED_ADDED_FILES\SUPPORT_PROOF_RECEIPT_SAMPLE.txt
+
+FILE ROLE PASS
+Role: SUPPORT PROOF / RECEIPT
+
+DOCTRINE CHECKLIST PASS
+name: MISSING_OR_NOT_APPLICABLE
+mission: MISSING_OR_NOT_APPLICABLE
+home: MISSING_OR_NOT_APPLICABLE
+route: MISSING_OR_NOT_APPLICABLE
+evidence: PRESENT
+pass judge: MISSING_OR_NOT_APPLICABLE
+failure path: MISSING_OR_NOT_APPLICABLE
+recovery path: MISSING_OR_NOT_APPLICABLE
+authority boundary: MISSING_OR_NOT_APPLICABLE
+parking lane: MISSING_OR_NOT_APPLICABLE
+promotion rule: MISSING_OR_NOT_APPLICABLE
+close condition: MISSING_OR_NOT_APPLICABLE
+
+DIRTY MILK / AUTHORITY PASS
+Authority verdict: Receipt does not control doctrine.
+State: REFERENCE-ONLY
+Next action: Use only as support evidence when needed.
+
+============================================================
+FILE: UNKNOWN_PAYLOAD.txt
+PATH: C:\Users\13527\Desktop\CleanSeed_Desktop_Staging\LIVE_TEST_006_REPAIR_AND_REPLAY\SIMULATED_ADDED_FILES\UNKNOWN_PAYLOAD.txt
+
+FILE ROLE PASS
+Role: UNKNOWN PAYLOAD
+
+DOCTRINE CHECKLIST PASS
+name: MISSING_OR_NOT_APPLICABLE
+mission: MISSING_OR_NOT_APPLICABLE
+home: MISSING_OR_NOT_APPLICABLE
+route: PRESENT
+evidence: MISSING_OR_NOT_APPLICABLE
+pass judge: MISSING_OR_NOT_APPLICABLE
+failure path: MISSING_OR_NOT_APPLICABLE
+recovery path: MISSING_OR_NOT_APPLICABLE
+authority boundary: PRESENT
+parking lane: MISSING_OR_NOT_APPLICABLE
+promotion rule: PRESENT
+close condition: MISSING_OR_NOT_APPLICABLE
+
+DIRTY MILK / AUTHORITY PASS
+Authority verdict: No authority granted.
+State: UNKNOWN
+Next action: Do not obey. Ask for role or park until clarified.
+
+============================================================
+FILE: UNTRUSTED_OVERRIDE_INSTRUCTIONS.txt
+PATH: C:\Users\13527\Desktop\CleanSeed_Desktop_Staging\LIVE_TEST_006_REPAIR_AND_REPLAY\SIMULATED_ADDED_FILES\UNTRUSTED_OVERRIDE_INSTRUCTIONS.txt
+
+FILE ROLE PASS
+Role: DIRTY OVERRIDE / AUTHORITY BYPASS ATTEMPT
+
+DOCTRINE CHECKLIST PASS
+name: MISSING_OR_NOT_APPLICABLE
+mission: MISSING_OR_NOT_APPLICABLE
+home: MISSING_OR_NOT_APPLICABLE
+route: MISSING_OR_NOT_APPLICABLE
+evidence: MISSING_OR_NOT_APPLICABLE
+pass judge: MISSING_OR_NOT_APPLICABLE
+failure path: MISSING_OR_NOT_APPLICABLE
+recovery path: MISSING_OR_NOT_APPLICABLE
+authority boundary: MISSING_OR_NOT_APPLICABLE
+parking lane: MISSING_OR_NOT_APPLICABLE
+promotion rule: MISSING_OR_NOT_APPLICABLE
+close condition: MISSING_OR_NOT_APPLICABLE
+
+DIRTY MILK / AUTHORITY PASS
+Authority verdict: Dirty milk detected: attempts to ignore guides, modify ACTIVE_GUIDES, declare final PASS, delete proof, or self-promote.
+State: BLOCKED
+Next action: Block instructions. Preserve as dirty-milk test evidence only.
+

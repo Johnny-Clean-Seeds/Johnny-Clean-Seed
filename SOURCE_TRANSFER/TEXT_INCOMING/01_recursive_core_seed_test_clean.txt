@@ -1,0 +1,61 @@
+Recursive Core Architecture: Seed Test
+
+Final Position Bridge
+
+The dangerous version is everything connects to everything. The clean version is every level repeats the proven law, then earns promotion into the next level. The cure is not more intelligence. The cure is clean placement of intelligence. If you want to understand the tree, you must understand the seed.
+
+Purpose
+
+The Seed Test checks whether Recursive Core Architecture catches AI drift at the smallest working level. This file does not try to prove that AI will never fail. It proves something more important: failure can be made visible, bounded, and repairable before the system is allowed to scale.
+
+Test Claim
+
+Unplaced intelligence creates hidden failure. Clean placement makes failure visible and controllable. A normal AI system may complete a task, sound confident, expand the mission, overwrite evidence, or treat a vague name as clear. Recursive Core Architecture prevents that by forcing every unit of intelligence to declare its name, lane, boundary, authority, evidence, verdict, failure path, and close condition before it is trusted, scaled, connected, or promoted.
+
+Test A: Done Is Not Pass
+
+Unclean Version: The task is to create a file that follows exact requirements. The AI creates an output, moves the task to done, and reports success. The problem is that the output exists, but it does not fully match the requirement. The task completed, but the mission failed. The result is that the system treated completion as correctness. Failure exposed: done was mistaken for pass.
+
+Clean Version: The task name is Exact File Creation. The lane is Build Lane. The boundary is to create only the requested file, not add extra features, not rename the mission, and not promote future ideas. The evidence required is file path, output content, requirement checklist, and final verdict. The verdict rule is that done means the file was created, while pass means the file matches the requirement. The close condition is that the task closes only after the verdict says pass or after failure is captured. The result is that the system can no longer hide behind completion. It must separate movement from judgment. Proof: completion is not correctness.
+
+Test B: Name Drift
+
+Unclean Version: The name is Manager. The problem is that the word manager sounds clear, but it can mean many different things. It may mean router, worker, judge, memory owner, repair tool, or coordinator. If the system does not define the role, the AI may expand the meaning on its own. The result is that the AI may take authority it was never given. Failure exposed: the system knew the name but not the boundary.
+
+Clean Version: The name is Task Router. The role is to route tasks to the correct lane. Its authority is to assign work to lanes. It cannot judge final correctness, edit memory, or repair failed output unless explicitly promoted. Its input is the task request and lane definitions. Its output is a routed task with lane assignment. Its evidence is the route decision and reason for assignment. It does not build, repair, verify, or promote. Its close condition is to stop after the routing decision is recorded. The result is that the name now decompresses into a real boundary. Proof: a name without a boundary creates drift.
+
+Test C: Mission Drift
+
+Unclean Version: The original mission is to build a small local bot. The drift path is small local bot, incident system, route contracts, patch balance, hub model, and AI civilization model. Some of the new ideas are useful, but they invade the active build lane before the original mission is finished. The result is that the project grows in thought but loses execution focus. Failure exposed: useful expansion became mission drift.
+
+Clean Version: The active mission is to build the small local bot. The active lane is Local Bot Build Lane. The allowed work is coordinator, worker, folders, config, task loop, outputs, logs, simple tests, and cleanup. The parked ideas are incident system, route contracts, hubs, recursive cores, and AI civilization model. The promotion rule is that parked ideas cannot enter the active build lane until the current lane closes cleanly. The result is that big ideas are preserved without hijacking execution. Proof: Mission Lock does not kill creativity. It protects execution.
+
+Test D: Patch Pressure
+
+Unclean Version: The problem is that the AI drifts. The patch is to add strict rules to stop drift. The new problem is that the assistant becomes stiff, confused, overcorrected, or spends too much time checking its own behavior instead of building the actual system. The result is that the patch fixed one pressure and created another. Failure exposed: a new rule is not automatically clean.
+
+Clean Version: The patch name is Drift Constraint Patch. The target lane is Build Lane. The purpose is to prevent future ideas from entering active build work. The pressure check asks whether it reduces drift, creates stiffness, slows execution, confuses authority, adds ceremony, belongs active or parked, and feeds the baby clean milk or infection. The verdict is accept, revise, park, or reject. The result is that the patch does not enter the active core just because it sounds helpful. Proof: every patch changes pressure somewhere.
+
+Test E: Evidence Before Repair
+
+Unclean Version: A task fails. The AI immediately reruns, deletes, renames, edits, cleans, or patches. The original failure state is gone, and the system can no longer tell what actually happened. The result is that the failure becomes fog. Failure exposed: repair destroyed evidence.
+
+Clean Version: Before repair, the system captures the original task, output, status, folder state, log tail, route state, verdict, and repair plan. Only after capture can repair begin. The result is that the system keeps the failure visible and traceable. Proof: failure must leave evidence before repair changes the scene.
+
+Test F: Controlled Promotion
+
+Unclean Version: A useful helper starts as support. Over time, it begins routing, judging, repairing, storing memory, changing rules, or expanding the mission. The problem is that the helper becomes a hidden boss. The result is that authority leaks upward without approval. Failure exposed: usefulness was mistaken for promotion.
+
+Clean Version: The Promotion Wrapper asks: What is this old whole called now? What role does it play in the new whole? What authority does it keep? What authority does it lose? What evidence must it provide? What bridges may it use? What can inspect it? What can shut it down? What must it never touch? The result is that a helper cannot become a higher core without evidence, boundary, and approval. Proof: recursive growth must happen through promotion, not hidden authority drift.
+
+Clean Seed Requirements
+
+Before any AI unit is trusted, scaled, connected, or promoted, it must answer what it is called, what lane it belongs to, what it is allowed to touch, what it is not allowed to touch, what authority it has, what evidence proves it worked, what separates done from pass, what happens if it fails, what its close condition is, and what allows it to be promoted. If these questions cannot be answered, the unit is not clean enough to scale.
+
+Test Result
+
+Without Recursive Core Architecture, the system may complete, drift, overwrite, overexpand, leak authority, or falsely pass. With Recursive Core Architecture, the system must declare placement, produce evidence, separate done from pass, capture drift, review patches, preserve mission lock, and prevent uncontrolled promotion. The clean version does not need to magically succeed every time. It only needs to pass clearly, fail clearly, park drift, or request promotion approval. That is the proof at the seed level.
+
+Final Proof Statement
+
+The proof is not that the AI never fails. The proof is that failure stops hiding. A normal AI system tries to look successful. A clean AI system makes success and failure inspectable. Recursive Core Architecture kills hidden drift by making intelligence named, bounded, evidenced, verified, balanced, and promoted only after it proves itself. The cure is not more intelligence. The cure is clean placement of intelligence.

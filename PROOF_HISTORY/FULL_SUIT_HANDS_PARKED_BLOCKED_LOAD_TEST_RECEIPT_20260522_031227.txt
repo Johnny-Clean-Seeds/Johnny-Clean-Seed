@@ -1,0 +1,84 @@
+FULL SUIT + HANDS + PARKED + BLOCKED LOAD TEST RECEIPT
+Date: 20260522_031227
+Base before save: main @ b643057
+Full base hash: b643057a7a350b092007c169f718f1ea0d022c2c
+Branch: main
+
+VERDICT:
+PASS WITH GUARDRAILS / ALL-IN-ONE LOAD TEST SAVED
+
+SCOPE:
+House inventory + combined-effect load test only.
+
+INCLUDED:
+Hands:
+1. Orientation only.
+2. No unsent file.
+3. No hidden edit.
+4. No active repo mutation.
+
+Hard Suit:
+1. Pause-before-work.
+2. Task-scoped rule + neighbor search before action.
+3. Dense-idea intake.
+4. Proof-before-PASS.
+5. No doctrine/guide/index rewrite without routed proof.
+6. File-first for large packets.
+7. Artifact self-check.
+8. Clean copy-block discipline.
+9. PowerShell param first.
+10. External issue stays external.
+11. Bridge lifecycle cleanup.
+
+Soft Suit candidate rack:
+1. Rule-Firing Confirmation Card.
+2. Relevant Root Key Selector.
+3. Provenance / Chain-of-Custody Thread Lens.
+4. Gear Rack Load Gate.
+5. Boss/Ghost rule firing cycle.
+6. Fog Alarm.
+7. Broad-Bite / solidifying condensation.
+8. Stale-checker route attachment fix.
+9. Hub watcher quiet-window batch digestion.
+10. Broken-bridge disintegration lifecycle.
+11. Compounding personality / Planetary Influence / Valence Council lane.
+
+Parked / intake-ready:
+1. Dreamforger/Suno source ore.
+2. Mule return material.
+3. 123_NON_GIT_AUDIT_20260522 intake batch.
+4. Command Center local-only material.
+5. Public/Neocities review lane.
+6. Exact Chat Wake Bridge proof.
+7. Older/superseded bridge scripts.
+
+Blocked:
+1. Treating public files as local truth.
+2. Promoting source ore into doctrine.
+3. Rewriting active guides/current truth index from a candidate.
+4. Installing dashboard/runtime/automation without separate route.
+5. Calling first-use tests promoted.
+6. Assuming anything newer than b643057 without fresh proof.
+
+BOUNDARIES HELD:
+No doctrine install.
+No ACTIVE_GUIDES rewrite.
+No CURRENT_TRUTH_INDEX rewrite.
+No dashboard install.
+No runtime install.
+No automation install.
+No promotion.
+No parked-source adoption.
+No public/local boundary collapse.
+
+SELF-CHECK:
+Required phrases present in load test, inventory, TODO, and ACTIVE_ANCHOR.
+File hashes recorded below.
+
+FILE HASHES:
+ACTIVE_ANCHOR.txt	1870C1E7573F22A0B8A0E88E132D25514B7A1419BD3253BCF05406DC4E6390E8
+HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md	DC4FF68BE98B7DEA071896E591073A0F2AD4868464F9384DDDF16972F762DF2E
+HOUSE_WORK/WORK_SHED/GEAR_RACK/SUIT_LOAD_TESTS/FULL_SUIT_HANDS_PARKED_BLOCKED_COMBINED_LOAD_TEST_20260522.md	FDBEFE69DE0E0E1B9103A4914619E38A903908928DCB6C8A77079FD89F921CCA
+HOUSE_WORK/WORK_SHED/SORTING_BENCH/SUIT_HANDS_PARKED_BLOCKED_INVENTORY_MAP_20260522.md	BC22968573E41195F934249CCABAD06624925BF9E871FF9C37AD5EEB5F5EE9A6
+HOUSE_WORK/TODO/FULL_SUIT_LOAD_FOLLOWUP_TODO_20260522.md	D0F62BDDAE0B960B15BD5CAE8C0CEED15B8A8275000384CF9B289D65A8DE72AE
+PROOF_HISTORY/ACTIVE_ANCHOR_BEFORE_FULL_SUIT_LOAD_TEST_20260522_031227.txt	04152D06333067B19FF0747918656C09A22EA95D91F7330B9D614530A8295732

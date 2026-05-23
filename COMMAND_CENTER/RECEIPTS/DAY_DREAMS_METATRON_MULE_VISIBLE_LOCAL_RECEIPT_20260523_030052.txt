@@ -1,0 +1,19 @@
+DAY_DREAMS METATRON MULE-VISIBLE LOCAL RECEIPT
+
+Timestamp: 20260523_030052
+
+Created local mule-visible Day Dreams packet:
+- C:\Users\13527\Desktop\123\COMMAND_CENTER\PICKUP\DAY_DREAMS\INDEX.md
+  SHA256: C23F4E55A6F1DA36535D3F37EF458A7CC171F4A88134D9A95726AEC67266EDF6
+- C:\Users\13527\Desktop\123\COMMAND_CENTER\PICKUP\DAY_DREAMS\METATRON_FINALS_PLACEMENT_NOTE_20260523.md
+  SHA256: C5AF57F7AA085F7228FDEF432E901BED2528A0A45135678AD54F388FB0B9B6BA
+
+Boundary:
+- Local only.
+- Mule-visible through COMMAND_CENTER\PICKUP.
+- No Git commit.
+- No Git staging.
+- No doctrine.
+- No gate order change.
+- No mule handoff rewrite.
+- Metatron material is symbolic/finals/daydream material only.

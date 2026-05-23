@@ -1,0 +1,22 @@
+RECEIPT_PROJECT_KNOWLEDGE_STACK_DRAFT_1_20260510
+
+Action type:
+Draft knowledge stack architecture only.
+
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+OldSchool changed: NO
+OldSchool deeper content inspected: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Existing files overwritten: NO
+Files archived: NO
+Files parked: NO
+Files promoted: NO
+Scripts run: NO
+Zip files extracted: NO
+Shortcuts executed: NO
+Real cleanup performed: NO
+Knowledge stack folder created: NO
+Core project files created: NO

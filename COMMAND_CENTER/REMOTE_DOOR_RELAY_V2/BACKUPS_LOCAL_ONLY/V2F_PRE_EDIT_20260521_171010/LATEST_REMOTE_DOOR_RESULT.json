@@ -1,0 +1,33 @@
+{
+  "schema": "remote_door_relay_v2_latest_result",
+  "slot": "LATEST_REMOTE_DOOR_RESULT",
+  "run_id": "REMOTE_DOOR_RELAY_V2_20260521_160050",
+  "latest_job_id": "CHILDJOB-20260521-162420-REMOTE-DOOR-V2E-PRINT-PROBE",
+  "latest_state": "PROCESSED_PASS",
+  "latest_verdict": "PASS / CHILD SHELL RECEIPT CREATED",
+  "latest_receipt_sha256": "9ACB76C2011491A083CC3BE397FE8826FD2AC251F7081C9A112B1B3A128B369B",
+  "latest_receipt_path": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\OUTBOX\\CHILDJOB-20260521-162420-REMOTE-DOOR-V2E-PRINT-PROBE.receipt.txt",
+  "latest_updated_at": "2026-05-21T20:25:22.233105Z",
+  "latest_nonce_hash": "E7DB2104E47C20B5A15FC13F46194C75D11B882CC7283CD31C3F3439F8365F9B",
+  "latest_request_id": "REQ-20260521-162420-3A7754",
+  "latest_job_path": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\DROPZONE\\CHILDJOB-20260521-162420-REMOTE-DOOR-V2E-PRINT-PROBE.childjob.json",
+  "latest_processed_path": "C:\\Users\\13527\\Desktop\\123\\COMMAND_CENTER\\CHILD_SHELL\\PROCESSED\\CHILDJOB-20260521-162420-REMOTE-DOOR-V2E-PRINT-PROBE.childjob.json",
+  "latest_rejected_path": null,
+  "latest_boundary": "Level 1 read-status only",
+  "boundary": [
+    "assistant arbitrary shell blocked",
+    "raw shell blocked",
+    "broad crawl blocked",
+    "delete blocked",
+    "cleanup through V2 blocked except local proved checkpoint archive",
+    "repo write through V2 blocked",
+    "git through V2 blocked",
+    "Level 3 through V2 blocked",
+    "ACTIVE_GUIDES rewrite blocked",
+    "CURRENT_TRUTH_INDEX rewrite blocked",
+    "doctrine rewrite blocked",
+    "permission expansion blocked",
+    "junction/symlink teleporter blocked"
+  ],
+  "error": null
+}

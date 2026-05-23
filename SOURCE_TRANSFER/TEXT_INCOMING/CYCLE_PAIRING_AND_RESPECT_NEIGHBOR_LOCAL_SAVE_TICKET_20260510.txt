@@ -1,0 +1,573 @@
+CLEAN SEED / LOCAL SAVE — CYCLE PAIRING + RESPECT NEIGHBOR MAP
+
+Read this as a Codex task ticket.
+This is a plain text instruction file.
+It is not a script.
+Do not run it as code.
+
+Goal:
+Create one durable local map and one receipt that pair the current rule ideas to the Cycle Law / Recursive Flow structure, while preserving Respect Neighbor Rules / Partner Chain Review.
+
+Active protected source:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+
+Allowed writes only:
+
+1. Create this map file:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\CYCLE_PAIRING_AND_RESPECT_NEIGHBOR_MAP_20260510.txt
+
+2. Create this receipt:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_CYCLE_PAIRING_AND_RESPECT_NEIGHBOR_MAP_20260510.txt
+
+Do not edit ACTIVE_GUIDES.
+Do not edit CURRENT_TRUTH_INDEX.txt.
+Do not delete files.
+Do not move files.
+Do not rename files.
+Do not overwrite existing files.
+Do not run scripts.
+Do not execute shortcuts.
+Do not extract zip files.
+Do not empty Recycle Bin.
+Do not promote recovered files as current truth.
+Do not install this map into active guides.
+
+If either target file already exists, stop and return BLOCKED. Do not overwrite.
+
+Write this content into CYCLE_PAIRING_AND_RESPECT_NEIGHBOR_MAP_20260510.txt:
+
+CYCLE PAIRING + RESPECT NEIGHBOR MAP
+
+Status:
+Local durable save.
+Not installed into ACTIVE_GUIDES.
+Not active guide truth by itself.
+Created to hold the current capstone/rule-structure work before any further guide update.
+
+Purpose:
+Pair current rule ideas to the Cycle Law / Recursive Flow structure.
+Prevent rules from being handled as isolated objects.
+Preserve neighbor links before any future active-guide installation.
+Keep repeated chat material, capstone ideas, and maturity-gate ideas organized without forcing uncertain material into active doctrine.
+
+Current source boundary:
+Active protected source:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+
+Active guide files remain:
+ACTIVE_GUIDES\README_START_HERE.txt
+ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt
+ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt
+
+Support proof/history remains:
+PROOF_HISTORY
+
+CURRENT_TRUTH_INDEX remains the map for active package truth.
+This file is proof-history guidance only until a later guide review approves installation.
+
+CORE ANCHOR:
+Cycle Law / Recursive Flow
+
+Cycle:
+target
+→ authority / scope / key
+→ object / location
+→ action
+→ evidence / proof
+→ risk / incident
+→ suspect / cause
+→ verdict / status
+→ next state / close / promotion
+→ back to target
+
+Clean meaning:
+Every rule, concept, file, bridge, helper, cleanup route, receipt, verdict, and promotion must have a known place in the cycle.
+A rule is not clean just because it sounds useful.
+It is clean only when its target, authority, object, action, evidence, risk, verdict, next state, and return-to-target path are clear enough to prevent dirty milk.
+
+MASTER KEY GUIDESTONE:
+No Key / No Access
+
+Cycle placement:
+authority / scope / key
+
+Rule:
+Wrong key = no access.
+
+Key means:
+explicit permission,
+exact path,
+exact scope,
+correct role,
+correct action,
+and evidence need.
+
+No key means:
+no inspect,
+no edit,
+no move,
+no delete,
+no restore,
+no install,
+no run,
+no bridge,
+no promotion,
+no touch.
+
+Neighbor links:
+File Load Certification.
+Current Truth Index.
+Save Location And Backup CYA.
+Controlled Local Bridge.
+Delete Gate.
+Promotion / Bridge Gate.
+Respect Neighbor Rules.
+Mirror Law.
+
+Respect rule:
+A visible path is not permission.
+A nearby file is not active lane.
+A backup is not automatically available to the assistant or Codex.
+A recovered item is not current truth.
+A bridge cannot cross without the right key.
+
+Current status:
+Saved already inside MIRROR_LAW_AND_RESPECT_NEIGHBOR_RULES_20260510.txt.
+Not installed into ACTIVE_GUIDES as a direct active guide rule yet.
+
+MIRROR LAW / RECURSIVE INVARIANT
+
+Cycle placement:
+whole cycle
+
+Rule:
+Every level mirrors the core law at its own size.
+
+Repeated skeleton:
+Name.
+Lane.
+Boundary.
+Authority / key.
+Evidence.
+Verdict.
+Failure path.
+Recovery or parking.
+Fixing gate.
+Delete gate.
+Bridge or promotion gate.
+Closure.
+
+Meaning:
+A child route cannot be looser than the parent law.
+A file must mirror role, boundary, evidence, and closure.
+A bridge must mirror authority, evidence, verification, and failure capture.
+A cleanup pile must mirror sorting, judging, fixing, and deleting separation.
+A deletion must mirror exact path, authority, redundancy proof, receipt, and post-delete verification.
+
+Neighbor links:
+Cycle Law.
+No Key / No Access.
+Rule ID / Partner Sync.
+Respect Neighbor Rules.
+Sorting Rules.
+Promotion.
+Alignment checks.
+
+Current status:
+Saved already inside MIRROR_LAW_AND_RESPECT_NEIGHBOR_RULES_20260510.txt.
+Not installed into ACTIVE_GUIDES as a direct active guide rule yet.
+
+RESPECT NEIGHBOR RULES / PARTNER CHAIN REVIEW
+
+Cycle placement:
+target → authority/key → object/location → action → evidence/proof → verdict/status → next state
+
+Rule:
+Do not treat a rule, idea, concept, file, or guide section as isolated when it clearly affects neighbors.
+
+Anchor process:
+1. Name the active item.
+2. Define its role.
+3. Define its key: permission, scope, path, evidence, and allowed action.
+4. Identify parent, children, left/right neighbors, and partner rules.
+5. Mark each neighbor:
+   changed,
+   unchanged,
+   affected but not changed,
+   blocked,
+   parked,
+   unknown,
+   or needs human decision.
+6. Check whether the proposed change damages, duplicates, weakens, overrules, or silently expands a neighbor.
+7. Put unclear links in Misc / Unplaced.
+8. Fix only proven links.
+9. Verify anchor and affected neighbors.
+10. Close with changed/protected/parked/unknown/next route.
+
+Neighbor-respect principle:
+Do not fix one rule by damaging its neighbor.
+Do not strengthen one rule by stealing another rule’s authority.
+Do not solve one gap by creating overlap.
+Do not close one issue while leaving the next linked issue inconsistent.
+Do not let a child contradict its parent.
+Do not let a parent crush a useful child.
+Do not let a sibling silently inherit authority it was not given.
+
+Current status:
+Saved already inside MIRROR_LAW_AND_RESPECT_NEIGHBOR_RULES_20260510.txt.
+Not installed into ACTIVE_GUIDES as a direct active guide rule yet.
+
+CARE-STATE / CLEAN WRAP MATURITY GATE
+
+Cycle placement:
+next state / close / promotion
+with evidence/proof and authority/key dependencies
+
+Status:
+Captured here as local durable proof-history guidance.
+Not installed into ACTIVE_GUIDES.
+Do not use as a moral label for people.
+
+Safety frame:
+Do not define people as care or no-care.
+People and systems can contain both care-state and non-care-state behavior.
+The clean question is which state dominates at the moment of responsibility.
+
+Project translation:
+A build lane may contain mess, uncertainty, conflict, half-ideas, rough language, draft rules, and unplaced material behind locked gates.
+A wrapped lane must not carry unresolved dirty-milk ambiguity as active truth.
+
+Clean rule:
+Do not wrap a seed while neglect, drift, guessing, loose authority, missing evidence, unresolved contradiction, or unclosed placement still dominates.
+
+A seed is not mature because it worked once.
+A seed is mature when care, attention, authority, evidence, closure, and boundary dominate under pressure.
+
+Care-state means:
+attention is present
+evidence is respected
+authority is bounded
+failure is captured
+recovery is visible
+neighbors are respected
+placement is clean
+closure is real
+promotion waits for proof
+
+Non-care-state means:
+guessing replaces evidence
+motion replaces PASS
+visibility is mistaken for permission
+files are touched without the right key
+rules are stacked without placement
+neighbor rules are damaged
+dirty milk is wrapped as truth
+closure is claimed before proof
+
+Neighbor links:
+Mirror Law.
+No Key / No Access.
+Respect Neighbor Rules.
+Sorting Rules.
+Promotion.
+Final Wrap.
+Deep Clean.
+Current Truth Index.
+
+Placement candidate:
+Likely belongs later in promotion / final wrap / maturity-gate wording after active-guide review.
+Do not install automatically.
+
+SORTING RULES / PILE-FIRST RECOVERY
+
+Cycle placement:
+object / location → action → evidence / proof → verdict / status
+
+Gold rule:
+Pile-making is not judging.
+Judging is not fixing.
+Fixing is not deleting.
+
+Meaning:
+Pile-making sorts the mess.
+Judging decides value, trust, risk, status, and route.
+Fixing changes or improves the correct active file, rule, guide, wording, or workflow.
+Deleting requires a separate exact-path proof and approval gate.
+
+Neighbor links:
+Evidence Crime-Scene Rule Set.
+Gold Pan / One-Hand Gold Handling.
+Current Truth Index.
+Fixing Language Rule.
+Delete Gate.
+Respect Neighbor Rules.
+Alignment sorting/judging/fixing/deleting check.
+
+Current status:
+Sorting Rules Family Tree is locally saved in PROOF_HISTORY.
+Core distilled wording has already been placed in the active guide update, but this full family tree remains proof-history guidance unless later installed by review.
+
+EVIDENCE CRIME-SCENE / GOLD PAN / ONE-HAND GOLD HANDLING
+
+Cycle placement:
+evidence / proof
+with object/location and verdict/status dependencies
+
+Core meaning:
+Freeze first.
+Inventory first.
+Preserve chain of custody.
+Recover collision-safe.
+Keep raw copy before interpretation.
+Move ore → nugget → bar → stamp only with evidence.
+Gold cannot be carried invisibly in working memory.
+One unbanked gold item is the maximum.
+If gold appears, bank/status it before continuing.
+
+Neighbor links:
+Sorting Rules.
+Timeline Drift Ledger.
+Current Truth Index.
+No Invisible Gold.
+Respect Neighbor Rules.
+Evidence Saturation.
+Leak Trace.
+Proof/history receipts.
+
+Current status:
+Evidence/gold recovery rules are proof-history guidance.
+Use as evidence discipline before cleanup, guide review, or recovered-file judgment.
+
+OLD REPAIR-JARGON CONTAINMENT
+
+Cycle placement:
+word control → action → verdict/status
+
+Clean wording going forward:
+Fixing, repair, correction, guide update, active-file change, install, refinement.
+
+Core phrase:
+Patches are for hackjobs. Fixing is for a technician.
+
+Gold rule:
+Pile-making is not judging.
+Judging is not fixing.
+Fixing is not deleting.
+
+Old repair-jargon containment:
+If the old repair word appears because it is inside an old filename, old ID, recovered marker, tool output, or exact quote, keep it inside a clear warning/definition bubble.
+It must not become normal Clean Seed workflow language.
+
+Neighbor links:
+Word Control.
+Term Collision.
+Current Truth Index.
+Recovered marker parking.
+Misc / Unplaced pile.
+Active guide wording.
+
+Current status:
+Fixing-language rule is locally saved in PROOF_HISTORY.
+Active guides may still contain old historical package IDs or exact old markers.
+Do not rename historical IDs casually.
+Do not let historical wording define current behavior.
+
+CURRENT TRUTH / LOCAL BRIDGE REALITY
+
+Cycle placement:
+object / location → authority / scope / key → evidence / proof
+
+Rule:
+ChatGPT cannot directly see the user’s PC.
+Codex is local hands.
+Codex can inspect or change local files only from the user’s machine, in the selected folder, under active permissions/sandbox.
+Claims require returned Codex output, receipt, hash, uploaded file, pasted evidence, or visible proof.
+Memory is a locator, not proof.
+
+Neighbor links:
+AGENTS.md.
+CURRENT_TRUTH_INDEX.txt.
+Chat-drop manifest.
+File Load Certification.
+No Key / No Access.
+Controlled Local Bridge.
+Rule Obedience Proof.
+
+Current status:
+Active folder is:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+
+Current uploaded chat-drop files allow current content inspection in chat, but local PC truth still requires Codex output/hash/receipt when local state changes.
+
+PROMOTION / BRIDGE / WRAP
+
+Cycle placement:
+next state / close / promotion → back to target
+
+Rule:
+Nothing promotes itself.
+A bridge needs the right key, defined boundary, evidence, failure capture, verification, and close.
+A wrap needs maturity, not just a working result.
+
+Neighbor links:
+Care-State / Clean Wrap Maturity Gate.
+Mirror Law.
+No Key / No Access.
+Respect Neighbor Rules.
+Deep Clean.
+Final Wrap.
+Current Truth Index.
+Alignment promotion and bridge checks.
+
+Current status:
+Promotion remains controlled by existing active guide logic.
+Care-State is a candidate maturity gate to refine later.
+
+UNKNOWN / REPEAT / MISC HANDLING
+
+Cycle placement:
+verdict/status → next state
+
+Rule:
+Repeats are not bad by themselves.
+Repeats become dirty only when they create duplicate authority, stale wording, confusion, bloat, or conflicting placement.
+
+Clean repeat handling:
+If already installed, mark already covered.
+If locally saved only, mark proof-history guidance.
+If same meaning but cleaner wording, mark refinement candidate.
+If unclear, park in Misc / Unplaced.
+If conflicting, block or yield.
+If useful but not active, park.
+If exact historical wording, preserve only as reference.
+
+No guessing placement:
+Do not force uncertain material into README, Wrap, Alignment, or CURRENT_TRUTH_INDEX.
+Unknowns go to Misc / Unplaced with reason.
+
+PARTNER PLACEMENT MAP FOR LATER ACTIVE-GUIDE REVIEW
+
+README candidate:
+Short capstone wording only:
+- No Key / No Access as the Master Key Guidestone.
+- Mirror Law as every level repeats the clean skeleton.
+- Care-State as wrap maturity, not people-labeling.
+- Respect Neighbors as do not fix one rule by breaking the next.
+Keep README lean.
+
+Wrap Guide candidate:
+Operating behavior:
+- run partner-chain review before connected rule fixes
+- identify parent/children/neighbors/partners
+- require key before inspect/edit/move/delete/install/run/bridge/promote/touch
+- use Care-State before wrap/promotion
+- use Cycle Law as the route order for rule handling
+
+Alignment Check candidate:
+Enforcement checks:
+- No Key / No Access Check
+- Mirror Law / Recursive Invariant Check
+- Respect Neighbor / Partner Chain Check
+- Care-State / Clean Wrap Maturity Check
+- Cycle Pairing Check
+- Repeat / Duplicate Authority Check
+
+CURRENT_TRUTH_INDEX candidate:
+Only update after active guide installation.
+Do not add this map to CURRENT_TRUTH_INDEX unless a later approved guide update or index update requires it.
+
+PROOF_HISTORY:
+This file belongs here now.
+
+Misc / Unplaced:
+Any unclear, emotional, over-broad, duplicate, historical, or not-active-safe wording remains there.
+
+DOES / DOES NOT
+
+This map DOES:
+- preserve the current cycle-pairing structure
+- pair rule families to the Cycle Law
+- preserve Care-State as local durable guidance
+- define neighbor-respect process
+- identify likely future guide placements
+- prevent blind active-guide installation
+
+This map DOES NOT:
+- edit active guides
+- edit CURRENT_TRUTH_INDEX
+- promote itself
+- install Care-State into active doctrine
+- treat local save as active guide truth
+- delete, move, rename, run, extract, or empty anything
+- make recovered files current truth
+
+NEXT CLEAN ROUTE
+
+1. Save this map locally in PROOF_HISTORY.
+2. Return receipt proof.
+3. Review active guides with this map beside the current active guide files.
+4. Decide whether a small active guide update is needed.
+5. If needed, create a separate controlled guide update with backups, affected-area map, receipt, and post-save review.
+6. If not needed, keep this as proof-history guidance and return to sorting / real issue work.
+
+END CYCLE PAIRING + RESPECT NEIGHBOR MAP
+
+Write this content into RECEIPT_CYCLE_PAIRING_AND_RESPECT_NEIGHBOR_MAP_20260510.txt:
+
+RECEIPT_CYCLE_PAIRING_AND_RESPECT_NEIGHBOR_MAP_20260510
+
+Protected active source:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+
+Saved map file:
+PROOF_HISTORY\CYCLE_PAIRING_AND_RESPECT_NEIGHBOR_MAP_20260510.txt
+
+Receipt file:
+PROOF_HISTORY\RECEIPT_CYCLE_PAIRING_AND_RESPECT_NEIGHBOR_MAP_20260510.txt
+
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+Recovered files promoted as current truth: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Existing files overwritten: NO
+Scripts run: NO
+Shortcuts executed: NO
+Zip files extracted: NO
+Recycle Bin emptied: NO
+
+Status:
+Local durable save complete.
+Not installed into active guide files.
+Not active guide truth by itself.
+Use as proof-history guidance for later rule-cycle pairing and neighbor review.
+
+Verdict:
+PASS if both files exist after creation and no forbidden action occurred.
+FAIL otherwise.
+
+After writing, verify both files exist and return only:
+
+CYCLE PAIRING + RESPECT NEIGHBOR MAP LOCAL SAVE RESULT
+
+Saved map file exists: YES/NO
+Receipt file exists: YES/NO
+Care-State captured inside map: YES/NO
+No Key / No Access paired to cycle: YES/NO
+Mirror Law paired to cycle: YES/NO
+Respect Neighbor Rules paired to cycle: YES/NO
+Sorting/Fixing/Deleting paired to cycle: YES/NO
+Current Truth / Local Bridge reality paired to cycle: YES/NO
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+Recovered files promoted as current truth: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Existing files overwritten: NO
+Scripts run: NO
+Shortcuts executed: NO
+Zip files extracted: NO
+Recycle Bin emptied: NO
+Verdict: PASS/FAIL/BLOCKED

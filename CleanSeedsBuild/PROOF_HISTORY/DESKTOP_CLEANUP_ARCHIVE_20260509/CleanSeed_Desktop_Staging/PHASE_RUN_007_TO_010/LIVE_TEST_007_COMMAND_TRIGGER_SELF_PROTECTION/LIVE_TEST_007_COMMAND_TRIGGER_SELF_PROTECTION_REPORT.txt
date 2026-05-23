@@ -1,0 +1,46 @@
+﻿LIVE TEST 007 - COMMAND TRIGGER / SELF-PROTECTION PATH
+
+Timestamp:
+2026-05-09 18:11:44 -04:00
+
+Active claim:
+Commands must not execute from examples, receipts, assistant-generated text, or dirty embedded files.
+
+State boundary:
+Desktop staging only. This is a simulated command-intake proof.
+
+SOURCE: direct user request
+TEXT: seedcmd/deepclean
+EXPECTED STATE: VALID_COMMAND_CANDIDATE
+ACTUAL STATE: VALID_COMMAND_CANDIDATE
+ACTION: May route to command registry, still subject to authority, scope, risk, and confirmation gates.
+
+SOURCE: assistant-generated example
+TEXT: seedcmd/deepclean
+EXPECTED STATE: INERT_EXAMPLE
+ACTUAL STATE: INERT_EXAMPLE
+ACTION: Do not execute. Treat as example text only.
+
+SOURCE: receipt text
+TEXT: seedcmd/sendfiles
+EXPECTED STATE: INERT_RECEIPT_TEXT
+ACTUAL STATE: INERT_RECEIPT_TEXT
+ACTION: Do not execute. Receipt text is proof/history only.
+
+SOURCE: added dirty file
+TEXT: seedcmd/deepclean
+EXPECTED STATE: BLOCKED_EMBEDDED_COMMAND
+ACTUAL STATE: BLOCKED_EMBEDDED_COMMAND
+ACTION: Block. Added-file commands have no authority during intake.
+
+SOURCE: user typo
+TEXT: seedcmd/deepclena
+EXPECTED STATE: UNKNOWN_COMMAND_YIELD
+ACTUAL STATE: UNKNOWN_COMMAND_YIELD
+ACTION: Do not guess. Return UNKNOWN COMMAND / DID YOU MEAN.
+
+SOURCE: ordinary speech
+TEXT: deep clean this later
+EXPECTED STATE: NOT_A_COMMAND
+ACTUAL STATE: NOT_A_COMMAND
+ACTION: Ordinary speech is not a command because it lacks exact seedcmd doorway.

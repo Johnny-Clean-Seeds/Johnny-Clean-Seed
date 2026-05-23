@@ -1,0 +1,256 @@
+PROJECT CLEANUP DRAFT 1 - SORTING PLAN ONLY
+
+Status:
+Draft cleanup plan only. No real cleanup performed.
+
+1. Current source-of-truth summary
+
+Active protected source:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+
+CURRENT_TRUTH_INDEX was read first.
+AGENTS.md was read second.
+
+Current source-of-truth folder:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+
+Active guide folder:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES
+
+Active guide files:
+README_START_HERE.txt
+CLEAN_SEED_WRAP_GUIDE.txt
+CLEAN_SEED_ALIGNMENT_CHECK.txt
+
+Support proof/history folder:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY
+
+Codex local bridge rule:
+AGENTS.md is local-bridge guidance. It is not an active guide and not a fourth active guide.
+
+2. Active guide lane
+
+Item: C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES
+Type: FOLDER
+Proposed lane: ACTIVE_GUIDE
+Reason: Holds the three active guide files named by CURRENT_TRUTH_INDEX.
+Proposed later action: LEAVE
+Risk level: LOW
+Why not changed now: This task is sorting plan only.
+User approval required before any real action: YES
+
+Item: C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES\README_START_HERE.txt
+Type: FILE
+Proposed lane: ACTIVE_GUIDE
+Reason: Active user start/on-ramp guide.
+Proposed later action: LEAVE
+Risk level: LOW
+Why not changed now: Active guide files are protected.
+User approval required before any real action: YES
+
+Item: C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt
+Type: FILE
+Proposed lane: ACTIVE_GUIDE
+Reason: Active assistant operating behavior guide.
+Proposed later action: LEAVE
+Risk level: LOW
+Why not changed now: Active guide files are protected.
+User approval required before any real action: YES
+
+Item: C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt
+Type: FILE
+Proposed lane: ACTIVE_GUIDE
+Reason: Active drift, dirty milk, intake, and verdict alignment guide.
+Proposed later action: LEAVE
+Risk level: LOW
+Why not changed now: Active guide files are protected.
+User approval required before any real action: YES
+
+3. Proof/history lane
+
+Item: C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY
+Type: FOLDER
+Proposed lane: PROOF_HISTORY
+Reason: Support proof/history folder named by CURRENT_TRUTH_INDEX.
+Proposed later action: LEAVE
+Risk level: LOW
+Why not changed now: Proof/history is protected evidence context.
+User approval required before any real action: YES
+
+Top-level proof/history classification:
+- BACKUP_ACTIVE_GUIDES_BEFORE_CURRENT_IDEA_PLACEMENT_20260510 | FOLDER | BACKUP | ARCHIVE later only after hash/role review | MEDIUM
+- BACKUP_BEFORE_COMMAND_MAP_HOUSEKEEPING_LOCK_20260509_203930 | FOLDER | BACKUP | ARCHIVE later only after hash/role review | MEDIUM
+- BACKUP_BEFORE_SCOPE_STATE_TRIGGER_LOCK | FOLDER | BACKUP | ARCHIVE later only after hash/role review | MEDIUM
+- DESKTOP_CLEANUP_ARCHIVE_20260509 | FOLDER | BACKUP | CONTENT_REVIEW later | MEDIUM
+- DESKTOP_TOP_FILE_GOLD_CAPTURE_20260510_003819 | FOLDER | PROOF_HISTORY | CONTENT_REVIEW later | MEDIUM
+- RECYCLE_BIN_QUARANTINE_20260510 | FOLDER | PROOF_HISTORY | LEAVE | HIGH
+- files beginning RECEIPT_ | FILE | RECEIPT | LEAVE | LOW
+- files containing RECEIPT | FILE | RECEIPT | LEAVE | LOW
+- files containing MAP, LEDGER, MANIFEST, INDEX, PLAN, REPORT, CHECK, VERIFY, INVENTORY, COMPARISON, READINESS, or CLOSURE | FILE | MAP_OR_LEDGER | LEAVE or CONTENT_REVIEW later | LOW to MEDIUM
+- files containing BACKUP | FILE | BACKUP | HASH_COMPARE later before archive | MEDIUM
+- files containing GOLD, RULE, TRAY, METHOD, TREE, LAW, GUIDANCE, HEAL, or ACCEPTANCE | FILE | PROOF_HISTORY | CONTENT_REVIEW later before active use | MEDIUM
+- files beginning PATCH_RECEIPT_ | FILE | RECEIPT | LEAVE | LOW
+- PROJECT_CLEANUP_DRAFT_1_SORTING_PLAN_20260510.txt | FILE | MAP_OR_LEDGER | LEAVE | LOW
+- RECEIPT_PROJECT_CLEANUP_DRAFT_1_20260510.txt | FILE | RECEIPT | LEAVE | LOW
+
+Reason for no proof/history changes now:
+This draft is not a cleanup action. Proof files may be evidence, receipts, maps, backups, or parked ideas. None should be changed without a separate exact target, hash/role review, and user approval.
+
+4. OldSchool relic/source-ore lane
+
+Item: C:\Users\13527\Desktop\OldSchool
+Type: FOLDER
+Proposed lane: RELIC_SOURCE_ORE
+Reason: Known relic/source-ore folder. Intake map says OldSchool is not active guide truth.
+Proposed later action: CONTENT_REVIEW
+Risk level: MEDIUM
+Why not changed now: OldSchool is source-ore only and deeper content was not approved for this draft.
+User approval required before any real action: YES
+
+Top-level OldSchool items:
+- C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_04 AM (1).png | FILE | IMAGE_REFERENCE | CONTENT_REVIEW later | LOW
+- C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_05 AM (2).png | FILE | IMAGE_REFERENCE | CONTENT_REVIEW later | LOW
+- C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_05 AM (3).png | FILE | IMAGE_REFERENCE | CONTENT_REVIEW later | LOW
+- C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_05 AM (4).png | FILE | IMAGE_REFERENCE | CONTENT_REVIEW later | LOW
+- C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_05 AM (5).png | FILE | IMAGE_REFERENCE | CONTENT_REVIEW later | LOW
+- C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_06 AM (6).png | FILE | IMAGE_REFERENCE | CONTENT_REVIEW later | LOW
+- C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_06 AM (7).png | FILE | IMAGE_REFERENCE | CONTENT_REVIEW later | LOW
+- C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_06 AM (8).png | FILE | IMAGE_REFERENCE | CONTENT_REVIEW later | LOW
+- C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 03_18_06 AM (9).png | FILE | IMAGE_REFERENCE | CONTENT_REVIEW later | LOW
+- C:\Users\13527\Desktop\OldSchool\ChatGPT Image May 7, 2026, 12_10_29 AM.png | FILE | IMAGE_REFERENCE | CONTENT_REVIEW later | LOW
+- C:\Users\13527\Desktop\OldSchool\CLEAN_SEED_ALIGNMENT_CHECK.txt | FILE | RELIC_SOURCE_ORE | HASH_COMPARE then CONTENT_REVIEW later | HIGH
+- C:\Users\13527\Desktop\OldSchool\CLEAN_SEED_WRAP_GUIDE.txt | FILE | RELIC_SOURCE_ORE | HASH_COMPARE then CONTENT_REVIEW later | HIGH
+- C:\Users\13527\Desktop\OldSchool\localbot_machine_evidence.md | FILE | LOCALBOT_OR_OLDBOT | CONTENT_REVIEW later | MEDIUM
+- C:\Users\13527\Desktop\OldSchool\OLDBOT OVERBUILT | FOLDER | LOCALBOT_OR_OLDBOT | CONTENT_REVIEW later | MEDIUM
+- C:\Users\13527\Desktop\OldSchool\README_START_HERE.txt | FILE | RELIC_SOURCE_ORE | HASH_COMPARE then CONTENT_REVIEW later | HIGH
+- C:\Users\13527\Desktop\OldSchool\recursive_core_architecture.md | FILE | RELIC_SOURCE_ORE | CONTENT_REVIEW later | MEDIUM
+- C:\Users\13527\Desktop\OldSchool\Slow Bot.lnk | SHORTCUT | SHORTCUT_BLOCKED | BLOCK | HIGH
+- C:\Users\13527\Desktop\OldSchool\SLOW_BOT_SETUP_README.txt | FILE | LOCALBOT_OR_OLDBOT | CONTENT_REVIEW later | MEDIUM
+
+5. Desktop project-looking items lane
+
+Desktop was filtered by name only using project-looking terms. Unrelated Desktop items were not inspected.
+
+- C:\Users\13527\Desktop\Clean Milk not-BLOAT | FOLDER | ACTIVE_SOURCE | LEAVE | LOW | active protected source
+- C:\Users\13527\Desktop\Clean_Milk_CHAT_DROP_CURRENT_STATE_20260510 | FOLDER | UPLOAD_PACKET | PARK or ARCHIVE later | MEDIUM | chat-drop copy set, not active truth
+- C:\Users\13527\Desktop\CleanSeed PowerShell.lnk | SHORTCUT | SHORTCUT_BLOCKED | BLOCK | HIGH | shortcut must not be opened or executed
+- C:\Users\13527\Desktop\DREAMFORGER_SUNO_SYMBOLIC_OUTPUT_FORENSICS_GUIDE.txt | FILE | UNKNOWN_NEEDS_REVIEW | USER_DECISION | MEDIUM | guide-like Desktop file outside active source
+- C:\Users\13527\Desktop\in the name of Anyma.txt | FILE | UNKNOWN_NEEDS_REVIEW | USER_DECISION | MEDIUM | project-looking by name term Anyma, role unclear
+- C:\Users\13527\Desktop\LOCALbot | FOLDER | LOCALBOT_OR_OLDBOT | CONTENT_REVIEW later | MEDIUM | outside active source, possible related lane
+- C:\Users\13527\Desktop\LOCALbot - Copy | FOLDER | LIKELY_DUPLICATE_NEEDS_HASH_COMPARE | HASH_COMPARE | MEDIUM | copy-labeled folder
+- C:\Users\13527\Desktop\LOCALbot FALLBACK | FOLDER | LOCALBOT_OR_OLDBOT | CONTENT_REVIEW later | MEDIUM | fallback-labeled folder
+- C:\Users\13527\Desktop\LOCALbot_FILE_CHECK_REPORT.txt | FILE | MAP_OR_LEDGER | CONTENT_REVIEW later | LOW | report-like file
+- C:\Users\13527\Desktop\LOCALbot_HANDOFF_STACK_CHECK_REPORT.txt | FILE | MAP_OR_LEDGER | CONTENT_REVIEW later | LOW | report-like file
+- C:\Users\13527\Desktop\localbotCMD.exe.lnk | SHORTCUT | SHORTCUT_BLOCKED | BLOCK | HIGH | executable shortcut must not be opened or executed
+- C:\Users\13527\Desktop\OldSchool | FOLDER | RELIC_SOURCE_ORE | CONTENT_REVIEW later | MEDIUM | known relic/source-ore folder
+- C:\Users\13527\Desktop\VISUAL_STUDIO_CODE_BOT_SETUP_README.txt | FILE | UNKNOWN_NEEDS_REVIEW | USER_DECISION | MEDIUM | bot setup readme outside active source
+
+6. Blocked items lane
+
+Blocked item:
+C:\Users\13527\Desktop\OldSchool\Slow Bot.lnk
+Type: SHORTCUT
+Proposed lane: SHORTCUT_BLOCKED
+Reason: Shortcut-like item.
+Proposed later action: BLOCK
+Risk level: HIGH
+Why not changed now: Shortcuts must not be executed, renamed, opened, or used as cleanup proof without approval.
+User approval required before any real action: YES
+
+Blocked item:
+C:\Users\13527\Desktop\CleanSeed PowerShell.lnk
+Type: SHORTCUT
+Proposed lane: SHORTCUT_BLOCKED
+Reason: Desktop shortcut with PowerShell in the name.
+Proposed later action: BLOCK
+Risk level: HIGH
+Why not changed now: Shortcuts must not be executed, opened, or used as cleanup proof without approval.
+User approval required before any real action: YES
+
+Blocked item:
+C:\Users\13527\Desktop\localbotCMD.exe.lnk
+Type: SHORTCUT
+Proposed lane: SHORTCUT_BLOCKED
+Reason: Desktop shortcut that appears command/executable-related.
+Proposed later action: BLOCK
+Risk level: HIGH
+Why not changed now: Shortcuts must not be executed, opened, or used as cleanup proof without approval.
+User approval required before any real action: YES
+
+No top-level zips were reported in the allowed inventories.
+No top-level scripts were reported in the allowed inventories.
+
+7. Unknown / needs-review lane
+
+Unknowns:
+- C:\Users\13527\Desktop\DREAMFORGER_SUNO_SYMBOLIC_OUTPUT_FORENSICS_GUIDE.txt
+- C:\Users\13527\Desktop\in the name of Anyma.txt
+- C:\Users\13527\Desktop\VISUAL_STUDIO_CODE_BOT_SETUP_README.txt
+- any PROOF_HISTORY item whose current role cannot be determined from name alone
+
+Proposed lane: UNKNOWN_NEEDS_REVIEW
+Proposed later action: USER_DECISION or CONTENT_REVIEW
+Risk level: MEDIUM
+Why not changed now: Unknowns are not treated as trash. They need a bounded review task first.
+User approval required before any real action: YES
+
+8. Likely duplicate / needs-hash-compare lane
+
+Likely duplicate candidates:
+- C:\Users\13527\Desktop\Clean_Milk_CHAT_DROP_CURRENT_STATE_20260510
+- C:\Users\13527\Desktop\LOCALbot - Copy
+- C:\Users\13527\Desktop\OldSchool\README_START_HERE.txt
+- C:\Users\13527\Desktop\OldSchool\CLEAN_SEED_WRAP_GUIDE.txt
+- C:\Users\13527\Desktop\OldSchool\CLEAN_SEED_ALIGNMENT_CHECK.txt
+- backup folders in C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY
+
+Proposed lane: LIKELY_DUPLICATE_NEEDS_HASH_COMPARE
+Proposed later action: HASH_COMPARE
+Risk level: MEDIUM to HIGH
+Why not changed now: Same-looking names are not proof of duplicate value. Hash and role comparison must happen before archive or parking decisions.
+User approval required before any real action: YES
+
+9. Draft cleanup proposal
+
+No deletion is recommended in this draft.
+No real cleanup was performed.
+
+Draft order for a later cleanup review:
+1. Leave ACTIVE_GUIDES, CURRENT_TRUTH_INDEX.txt, AGENTS.md, and PROOF_HISTORY in place.
+2. Treat OldSchool as relic/source-ore only.
+3. Block shortcuts from execution.
+4. Hash-compare likely duplicate folders and duplicate active-guide-looking files before any archive decision.
+5. Content-review unknown Desktop project-looking files only after exact user approval.
+6. Keep receipts, maps, ledgers, backup folders, and quarantine proof protected unless a later exact-path task proves a safe archive route.
+7. Put unclear items into UNKNOWN_NEEDS_REVIEW instead of forcing cleanup.
+
+10. Good milk review questions
+
+- Are active guide files protected? YES
+- Is current truth protected? YES
+- Is OldSchool still source-ore only? YES
+- Are shortcuts blocked? YES
+- Are zips blocked? YES
+- Are duplicates compared before any archive? YES
+- Are unknowns reviewed before action? YES
+- Is anything being treated as trash too early? NO
+- Are lanes simple and neighbor-respecting? YES
+- Is the next action obvious and bounded? YES
+
+11. Safety confirmation
+
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+OldSchool changed: NO
+OldSchool deeper content inspected: NO
+Recycle Bin items restored: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Existing files overwritten: NO
+Scripts run: NO
+Zip files extracted: NO
+Shortcuts executed: NO
+Unrelated Desktop items inspected: NO
+Real cleanup performed: NO
+Deletion recommended: NO

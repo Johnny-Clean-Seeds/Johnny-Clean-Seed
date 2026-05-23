@@ -1,0 +1,21 @@
+PUBLIC SAFE PREVIEW REPORT
+Created: 2026-05-12T22:49:30.5073327-04:00
+Output: C:\CleanSeedsBuild\NEOCITIES_PUBLIC_SAFE_PREVIEW_20260512_224927
+Downloaded file count: 12
+Missing remote count: 0
+Has data\files folder: False
+data/files text reference count: 0
+
+FILES:
+assets\index-art.png
+data\BRIDGE_OUTPUT_HASHES.json
+data\CURRENT_STATE.txt
+data\GAP_TODO_MATCHES.json
+data\NEXT_GATE.txt
+data\PROJECT_MANIFEST.json
+data\SHED_INDEX.json
+data\state.json
+index.html
+scripts\gate.js
+scripts\manifest.js
+style.css

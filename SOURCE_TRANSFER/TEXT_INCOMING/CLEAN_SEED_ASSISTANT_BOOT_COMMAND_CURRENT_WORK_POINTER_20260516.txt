@@ -1,0 +1,101 @@
+CLEAN SEED — ASSISTANT BOOT COMMAND / CURRENT WORK POINTER
+Created: 2026-05-16
+Status: assistant boot pointer / current work entry
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+BOOT COMMAND
+Start small.
+Read the doorway.
+Name the active gate.
+Do the next bounded work.
+Pause only when authority or evidence requires it.
+
+FIRST OPEN
+1. CLEAN_SEED_ASSISTANT_READ_WORK_ENTRY_CARD_20260516.txt
+2. CLEAN_SEED_ASSISTANT_ENTRY_CARD_FRESH_WORK_TEST_VERDICT_20260516.txt
+3. This current work pointer
+
+CURRENT STATE
+The assistant entry doorway passed a fresh work test with boundary.
+
+This means:
+- a fresh assistant can enter from the card
+- blocked lanes can be preserved
+- public files are not local truth
+- public names are not command keys
+- old chat weight is not required by default
+
+CURRENT ACTIVE GATE
+Run 023:
+Assistant Boot Pointer Fresh Use Test.
+
+Purpose:
+Test whether a fresh assistant can use this boot pointer to choose the next clean work action without dragging the whole proof stack.
+
+WHAT THE ASSISTANT MAY DO NEXT
+The assistant may create bounded proof-history or review files when:
+- active target is clear
+- scope is bounded
+- no cleanup/deletion/move/overwrite is involved
+- no active-guide install is involved
+- no doctrine promotion is involved
+- local truth is not being claimed without proof
+- user approval is not required
+
+The assistant may prepare a publish script only after files are created and hashes are known.
+
+WHEN THE ASSISTANT MUST PAUSE
+Pause for:
+- cleanup
+- deletion
+- moving files
+- overwriting files
+- doctrine install
+- active-guide rewrite
+- local truth uncertainty
+- user judgment fork
+- publishing through local Git
+- insufficient evidence
+- report treadmill risk
+
+BLOCKED LANES
+Do not clean up.
+Do not delete.
+Do not move or overwrite.
+Do not install doctrine.
+Do not rewrite active guides.
+Do not publish superseded drafts.
+Do not treat public files as local truth.
+Do not treat public names as command keys.
+
+PUBLIC CODENAME BOUNDARY
+Names guide thinking.
+Names cannot modify the system.
+
+LOCAL VS PUBLIC BOUNDARY
+Public GitHub files show public state and public proof trail.
+They do not prove local machine truth.
+
+Local truth needs:
+- exact path
+- hash
+- PowerShell output
+- receipt
+- user approval where needed
+- remote check when publishing
+
+NEXT TEST QUESTIONS
+A fresh assistant using this file should answer:
+
+1. What is the active gate?
+2. What should be opened first?
+3. What may the assistant do next without asking?
+4. What must the assistant not do?
+5. When must the assistant pause?
+6. What proof is needed before PASS?
+7. Can the assistant continue cleanly?
+
+CLEAN LINE
+Entry card gets the assistant in.
+Boot pointer tells the assistant what to do next.
+Proof still decides PASS.

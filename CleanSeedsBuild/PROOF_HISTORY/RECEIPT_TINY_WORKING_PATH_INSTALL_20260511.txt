@@ -1,0 +1,139 @@
+RECEIPT TINY WORKING PATH INSTALL 20260511
+
+Created:
+2026-05-11 06:12:34 -04:00
+
+Install ID:
+CS-RULE-TINY-WORKING-PATH-ACTIVE-BALL-20260511
+CS-CHECK-TINY-WORKING-PATH-ACTIVE-BALL-20260511
+
+Status:
+Active-file tiny install packet completed.
+Not final PASS.
+Not full Recursive Flow Architecture installation.
+Not Station Card final-template doctrine.
+Not cleanup authority.
+Not deletion approval.
+Not movement approval.
+Not promotion approval.
+
+User-approved scope:
+Install the tiny operating surface only:
+- ACTIVE BALL
+- CAPTURE / COLLECT
+- CURRENT BALL / STATION CARD behavior
+- NEXT GATE
+- NO FULL-SHED RUMMAGE
+- TECH PROJECT-ONLY FILE BOUNDARY
+
+Files changed:
+1. C:\Users\13527\Desktop\Clean Milk not-BLOAT\AGENTS.md
+2. C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt
+3. C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt
+
+Backups created:
+1. C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BACKUP_AGENTS_BEFORE_TINY_WORKING_PATH_INSTALL_20260511.txt
+2. C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BACKUP_CLEAN_SEED_WRAP_GUIDE_BEFORE_TINY_WORKING_PATH_INSTALL_20260511.txt
+3. C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BACKUP_CLEAN_SEED_ALIGNMENT_CHECK_BEFORE_TINY_WORKING_PATH_INSTALL_20260511.txt
+
+Before hashes:
+AGENTS.md
+SHA256:
+C8EAB85B490B91B54B0E4FAF3BF81B825B63C4A6401A5039A587F0B0034F77A9
+
+CLEAN_SEED_WRAP_GUIDE.txt
+SHA256:
+B14955F9BBBB52DBFC4E3786FF7CB2FCC0ECDB114A275DB06A591966B9FEF6FE
+
+CLEAN_SEED_ALIGNMENT_CHECK.txt
+SHA256:
+EDE9C65D7367D6EE507E31B6532760AE945A3B8CAB7E9D5E08FAA68CCFBD70AA
+
+After hashes:
+AGENTS.md
+SHA256:
+B2F68FB04B1F1C3815F0B0B48DEBB342116DD35F2CF6A248BD8393363F7BA6DF
+
+CLEAN_SEED_WRAP_GUIDE.txt
+SHA256:
+92F1EEFCAB552A451EFB6CB797401114082DD2E15BA699701C98EA436474FF30
+
+CLEAN_SEED_ALIGNMENT_CHECK.txt
+SHA256:
+60F1C29CEB74B54CDADE5C93BF4562E55E7B2CD33064F968DF62C1189E198B95
+
+Backup hashes:
+BACKUP_AGENTS_BEFORE_TINY_WORKING_PATH_INSTALL_20260511.txt
+SHA256:
+C8EAB85B490B91B54B0E4FAF3BF81B825B63C4A6401A5039A587F0B0034F77A9
+
+BACKUP_CLEAN_SEED_WRAP_GUIDE_BEFORE_TINY_WORKING_PATH_INSTALL_20260511.txt
+SHA256:
+B14955F9BBBB52DBFC4E3786FF7CB2FCC0ECDB114A275DB06A591966B9FEF6FE
+
+BACKUP_CLEAN_SEED_ALIGNMENT_CHECK_BEFORE_TINY_WORKING_PATH_INSTALL_20260511.txt
+SHA256:
+EDE9C65D7367D6EE507E31B6532760AE945A3B8CAB7E9D5E08FAA68CCFBD70AA
+
+After sizes:
+AGENTS.md:
+2002 bytes
+
+CLEAN_SEED_WRAP_GUIDE.txt:
+206613 bytes
+
+CLEAN_SEED_ALIGNMENT_CHECK.txt:
+239640 bytes
+
+Backup sizes:
+BACKUP_AGENTS_BEFORE_TINY_WORKING_PATH_INSTALL_20260511.txt:
+1455 bytes
+
+BACKUP_CLEAN_SEED_WRAP_GUIDE_BEFORE_TINY_WORKING_PATH_INSTALL_20260511.txt:
+204889 bytes
+
+BACKUP_CLEAN_SEED_ALIGNMENT_CHECK_BEFORE_TINY_WORKING_PATH_INSTALL_20260511.txt:
+238066 bytes
+
+Installed content summary:
+AGENTS.md:
+Added Tech file boundary requiring Codex to stay inside the project home by default, avoid broad Desktop/PC/PROOF_HISTORY/OldSchool/source-ore browsing, read only project-related files needed for the active target, widen only by named gate/proof/risk/user approval, and keep parked/proof/test/neighboring material from becoming authority by proximity.
+
+CLEAN_SEED_WRAP_GUIDE.txt:
+Added TINY WORKING PATH / ACTIVE BALL SURFACE with default working path:
+AUTHORITY -> ACTIVE BALL -> FREEZE -> CAPTURE / COLLECT -> INVENTORY -> SORT -> JUDGE -> PLACE / FILE -> SAVE -> SEAL -> REVIEW / HANDOFF -> PROMOTE / PARK / BLOCK -> CONTINUE
+
+The Wrap install also added active ball fields, capture/collect before inventory, station/card behavior, no full-shed rummage, and next-gate handoff behavior.
+
+CLEAN_SEED_ALIGNMENT_CHECK.txt:
+Added TINY WORKING PATH / ACTIVE BALL CHECK with pass/fail/yield checks for authority order, active ball, project/file boundary, capture before inventory, station separation, no broad rummage, route/key access to parked proof, next gate, close condition, and proof-history not becoming active truth by proximity.
+
+What was not installed:
+- Full Recursive Flow Architecture.
+- Full real-world method stack.
+- Full arsenal/shed theory.
+- Full Workflow Reliability stack.
+- Full Project Knowledge Stack folder plan.
+- Full incident/civil-ticket rule.
+- Standalone Station Card final template doctrine.
+
+What was not touched:
+- C:\Users\13527\Desktop\Clean Milk not-BLOAT\CURRENT_TRUTH_INDEX.txt
+- C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES\README_START_HERE.txt
+- Existing proof-history files other than the three backup files and this receipt.
+- LIVE_SEED_TEST_001
+- OldSchool/source-ore
+- Desktop outside the named project root
+
+Boundary confirmation:
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Folders created: NO
+Cleanup performed: NO
+Scripts run: NO
+Promotion performed: NO
+Final PASS claimed: NO
+
+Open follow-up:
+Run one live Station/Card behavior test before considering any standalone Station Card template as final active doctrine.

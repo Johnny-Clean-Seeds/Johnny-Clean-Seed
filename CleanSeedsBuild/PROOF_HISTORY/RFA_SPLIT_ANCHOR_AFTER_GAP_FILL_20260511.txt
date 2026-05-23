@@ -1,0 +1,104 @@
+RFA SPLIT ANCHOR AFTER GAP-FILL 20260511
+
+Created:
+2026-05-11
+
+Status:
+Proof-history-only split anchor.
+Not active guide doctrine.
+Not current truth.
+Not a fourth guide.
+Not cleanup authority.
+Not deletion approval.
+Not movement approval.
+Not rename approval.
+Not overwrite approval.
+Not folder-creation approval.
+Not promotion approval.
+Not final PASS.
+
+Purpose:
+Mark this as the clean future split point for Recursive Flow Architecture after the completed gap-fill state.
+
+Authority loaded before anchor:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\CURRENT_TRUTH_INDEX.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\AGENTS.md
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\ACTIVE_GUIDES
+
+Anchor point:
+This anchor comes after:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PROJECT_GAP_FILL_RECURSIVE_FLOW_REVIEW_20260511.txt
+SHA256:
+D09FFEF6C1E19846D2CE11FBB9B5C71DE06C0E774DD5C4844B0B7C0AD83B8ADE
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_PROJECT_GAP_FILL_RECURSIVE_FLOW_REVIEW_20260511.txt
+SHA256:
+C59D7F213FB2AB7CFF9507F61BAF6EAEFF3DB1052B8C73AFFAF59C320CF08D79
+
+Anchored state:
+Recursive Flow Architecture is still proof-history-only.
+The full architecture is not being split now.
+
+Future split has two paths:
+
+Path 1: Working Path
+Small live-use station/current-ball card.
+This path is for daily use, technician launchers, live reviews, and bounded current work.
+It should stay small.
+It should not become a dashboard, master brain, folder maze, or doctrine dump.
+
+Path 2: Architecture Path
+Full Recursive Flow structure, parked and ordered for later targeted split.
+This path preserves the larger architecture ore, real-world method stack, deeper role/lane/gate model, and future targeted review material.
+It should not be installed wholesale.
+
+Known split material:
+STATION CARD V0 exists inside:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PROJECT_GAP_FILL_RECURSIVE_FLOW_REVIEW_20260511.txt
+
+CURRENT BALL CARD V0 exists inside:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PROJECT_GAP_FILL_RECURSIVE_FLOW_REVIEW_20260511.txt
+
+No active guide promotion has happened.
+No CURRENT_TRUTH_INDEX update has happened.
+No AGENTS update has happened.
+
+Clean next target:
+Reviewing or extracting STATION CARD V0 only when needed.
+
+Default mode change:
+Full-shed scans are no longer default mode.
+Use full-shed scan only when a target, risk, missing proof, or user approval calls for it.
+Default future mode should be small Working Path review:
+AUTHORITY -> ACTIVE BALL -> STATION CARD -> NEXT GATE.
+
+Blocked actions from this anchor:
+No ACTIVE_GUIDES edits.
+No CURRENT_TRUTH_INDEX edits.
+No AGENTS edits.
+No deletes.
+No moves.
+No renames.
+No overwrites.
+No folder creation.
+No scripts.
+No cleanup.
+No promotion.
+No final PASS.
+
+What this anchor does:
+It freezes the completed gap-fill state as the clean split point.
+It prevents the full architecture from being split or installed by momentum.
+It preserves the small Working Path as the next practical route.
+
+What this anchor does not do:
+It does not create a station card file.
+It does not create an architecture folder.
+It does not update active doctrine.
+It does not approve promotion.
+It does not approve cleanup.
+It does not approve deletion.
+It does not claim final PASS.
+
+One best next action:
+If needed, create or review only the small proof-history STATION CARD V0 extract from the gap-fill report.

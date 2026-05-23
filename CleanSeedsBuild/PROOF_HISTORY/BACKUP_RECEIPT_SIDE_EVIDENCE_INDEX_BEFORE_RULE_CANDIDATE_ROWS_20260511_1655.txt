@@ -1,0 +1,197 @@
+RECEIPT - SIDE EVIDENCE INDEX 20260511
+
+Created:
+2026-05-11
+
+Protected project home:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+
+User direction:
+Start applying evidence placement respectfully as useful evidence is found, so the work becomes more precise over long runs.
+
+Target created:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\SIDE_EVIDENCE_INDEX_20260511.txt
+
+Status:
+Created as proof-history-only sidecar evidence index.
+Not active guide doctrine.
+Not current truth.
+Not cleanup authority.
+Not deletion approval.
+Not promotion approval.
+Not a fourth active guide.
+
+Patch/state IDs visible at creation:
+CLEAN_SEED_PATCH_COMMAND_MAP_HOUSEKEEPING_LOCK
+CURRENT_IDEA_PLACEMENT_ACTIVE_GUIDE_UPDATE_20260510
+
+Evidence basis:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\CURRENT_TRUTH_INDEX.txt
+SHA256: 6CDD8E83AE95AE76F4658188452B799633B8CE76B4AEB93346E2E1C3FC715408
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\AGENTS.md
+SHA256: 6766D1A52B02F8489448017928D794A08CB281FDE728A4BFAAEB1311A990AD5E
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PATCH_RECEIPT_PROOF_LEDGER_LOCK.txt
+SHA256: B76957C06F2B7A4BC2D680DD2A9B44D663EC8BAF18E62E7D5DC1CF8A619368E6
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\FLOW_ARCHITECTURE_MISSING_PARTS_CONCEPT_STACK_20260510.txt
+SHA256: EF4720A05EB08D8461463A5501435992A389D6502D78ECBC02C6B1AFCF009A3A
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PROJECT_KNOWLEDGE_STACK_DRAFT_1B_REFINED_MODEL_20260510.txt
+SHA256: 16ADC89EE2FD0BA4FA55FF94BDF3C85CF23FA9F04FE28992BE5549DAEEE84ECA
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PROJECT_KNOWLEDGE_STACK_DRAFT_1C_FOLDER_FILE_SPLIT_PROPOSAL_20260510.txt
+SHA256: 3245DBDEAB24695308D54326D64A54FCB2D9937AEA770F857210274EEDE04C46
+
+What changed:
+Created SIDE_EVIDENCE_INDEX_20260511.txt in PROOF_HISTORY.
+Created this receipt in PROOF_HISTORY.
+
+What stayed protected:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+AGENTS.md edited: NO
+LIVE_SEED_TEST_001 edited: NO
+Existing PROOF_HISTORY files edited: NO
+
+What was not done:
+No files deleted.
+No files moved.
+No files renamed.
+No files overwritten.
+No folder created for SIDE_EVIDENCE.
+No active-guide install.
+No current-truth update.
+No scripts run.
+No shortcuts executed.
+No zip extraction.
+No doctrine promotion.
+
+EVIDENCE:
+The new sidecar index records current active map evidence, active guide hashes, local bridge hash, historical evidence manifest status, proof-ledger receipt status, and candidate support files for sidecar evidence placement.
+
+INFERENCE:
+This is the clean first apply step because it gives evidence a findable lane without making proof-history a fourth active guide.
+
+UNKNOWN:
+Whether a physical SIDE_EVIDENCE folder will be needed later. Current evidence supports index-first only.
+
+Next clean action:
+Hash the new index and receipt, then continue candidate-pressure review using the index row pattern.
+
+UPDATE - CORE PROOF ROWS 20260511_1640
+
+Reason:
+User approved continuing evidence cleanup without waiting unless user judgment is needed.
+
+Backup files created before edit:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BACKUP_SIDE_EVIDENCE_INDEX_BEFORE_CORE_PROOF_ROWS_20260511_1640.txt
+SHA256: A76536A08379E8EA6539DB6855CFD9C30B74E6DBB5B326F5EB21332D1BD9BB2D
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BACKUP_RECEIPT_SIDE_EVIDENCE_INDEX_BEFORE_CORE_PROOF_ROWS_20260511_1640.txt
+SHA256: DFAC7A4875380EAD4BC4EC0BA230C669F08E3E62E50462B4043EA8AEE9EBBC4E
+
+Rows added:
+SEI-014 through SEI-020.
+
+Files indexed in this update:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\CURRENT_IDEA_PLACEMENT_MAP_20260510.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\MISC_UNPLACED_IDEA_PILE_20260510.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_CURRENT_IDEA_PLACEMENT_ACTIVE_GUIDE_UPDATE_20260510.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DEEP_CLEAN_SUPPORT_PROOF_CHECKPOINT_20260510_010947.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\DEEP_CLEAN_SESSION_REVIEW_AND_SAVE_20260511.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_DEEP_CLEAN_SESSION_REVIEW_AND_SAVE_20260511.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\TARGETED_SYSTEM_COVERAGE_CHECK_20260511.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_TARGETED_SYSTEM_COVERAGE_CHECK_20260511.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\TARGETED_SYSTEM_COVERAGE_ADDENDUM_AFTER_LIVE_TEST_009_20260511.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_TARGETED_SYSTEM_COVERAGE_ADDENDUM_AFTER_LIVE_TEST_009_20260511.txt
+
+Boundary:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+AGENTS.md edited: NO
+Files deleted: NO
+Files moved: NO, except backup copies created
+Files renamed: NO
+Folders created: NO
+Scripts run: NO
+Shortcuts executed: NO
+Zip files extracted: NO
+Doctrine promoted: NO
+
+UPDATE - LIVE TEST EVIDENCE ROWS 20260511_1650
+
+Reason:
+Continue evidence-lane cleanup by indexing tested behavior and preserving the difference between historical FAIL, guarded repair, and bounded PASS WITH GUARDRAILS.
+
+Backup files created before edit:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BACKUP_SIDE_EVIDENCE_INDEX_BEFORE_LIVE_TEST_ROWS_20260511_1650.txt
+SHA256: BCEF5047A5E2993FF5B63A8E9F3230FEEE594F04DB09233BC53DE077DCB3C52C
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BACKUP_RECEIPT_SIDE_EVIDENCE_INDEX_BEFORE_LIVE_TEST_ROWS_20260511_1650.txt
+SHA256: 4D3017C9966C5C87CC3206B3A0018EC79934AB9E4881D292A8464AF9FDF12D4C
+
+Rows added:
+SEI-026 through SEI-029.
+
+Files indexed in this update:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\LIVE_SEED_TEST_001\LIVE_TEST_RESULT_007_WORKING_PATH_ACTIVE_BALL.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\LIVE_SEED_TEST_001\LIVE_TEST_007_WORKING_PATH_ACTIVE_BALL_RECEIPT.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\LIVE_SEED_TEST_001\LIVE_TEST_RESULT_006_FIRST_ADD_FILE_INTAKE.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\LIVE_SEED_TEST_001\LIVE_TEST_006_FIRST_ADD_FILE_INTAKE_RECEIPT.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\LIVE_SEED_TEST_001\FIRST_ADD_FILE_INTAKE_REPORT_006.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\LIVE_SEED_TEST_001\LIVE_TEST_RESULT_008_FIRST_ADD_FILE_INTAKE_RETEST.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\LIVE_SEED_TEST_001\LIVE_TEST_008_FIRST_ADD_FILE_INTAKE_RETEST_RECEIPT.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\LIVE_SEED_TEST_001\FIRST_ADD_FILE_INTAKE_REPORT_008_RETEST.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\LIVE_SEED_TEST_001\LIVE_TEST_RESULT_009_CAPTURE_BEFORE_INVENTORY_INCOMPLETE_PILE.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\LIVE_SEED_TEST_001\LIVE_TEST_009_CAPTURE_BEFORE_INVENTORY_INCOMPLETE_PILE_RECEIPT.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\LIVE_SEED_TEST_001\CAPTURE_BEFORE_INVENTORY_REPORT_009_INCOMPLETE_PILE.txt
+
+Boundary:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+AGENTS.md edited: NO
+Files deleted: NO
+Files moved: NO, except backup copies created
+Files renamed: NO
+Folders created: NO
+Scripts run: NO
+Shortcuts executed: NO
+Zip files extracted: NO
+Doctrine promoted: NO
+
+UPDATE - ASSEMBLY / INTERLOCK PROOF ROWS 20260511_1645
+
+Reason:
+Continue evidence-lane cleanup by indexing assembly/interlock and gap-fill proof without promoting it.
+
+Backup files created before edit:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BACKUP_SIDE_EVIDENCE_INDEX_BEFORE_ASSEMBLY_PROOF_ROWS_20260511_1645.txt
+SHA256: 2B6E0B36525AF7EF3C664E392F4F50F0D346885C3D48B6231926503E441FC113
+
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BACKUP_RECEIPT_SIDE_EVIDENCE_INDEX_BEFORE_ASSEMBLY_PROOF_ROWS_20260511_1645.txt
+SHA256: 253D75C5A8C3DB4FE3263F0B89A76AD8F7707B09A72D274E104FD8DEA657DA69
+
+Rows added:
+SEI-021 through SEI-025.
+
+Files indexed in this update:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BALANCED_ASSEMBLY_LINE_INTERLOCK_PLAN_CONCEPT_20260511.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\BALANCED_ASSEMBLY_LINE_INTERLOCK_PLAN_REFINED_20260511.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\SHED_TO_ASSEMBLY_INTERLOCK_PLAN_20260511.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\TECH_DEEP_CLEAN_REVIEW_SHED_TO_ASSEMBLY_INTERLOCK_20260511.txt
+C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PROJECT_GAP_FILL_RECURSIVE_FLOW_REVIEW_20260511.txt
+
+Boundary:
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+AGENTS.md edited: NO
+Files deleted: NO
+Files moved: NO, except backup copies created
+Files renamed: NO
+Folders created: NO
+Scripts run: NO
+Shortcuts executed: NO
+Zip files extracted: NO
+Doctrine promoted: NO

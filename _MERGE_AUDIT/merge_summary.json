@@ -1,0 +1,26 @@
+{
+  "created_at": "2026-05-23T13:22:51.9386066-04:00",
+  "target": "C:\\Users\\13527\\Desktop\\123\\Jxhnny_Kl33N_Seedz",
+  "sources": [
+    "C:\\Users\\13527\\Desktop\\123\\Jxhnny_Kleen_C3dz",
+    "C:\\Users\\13527\\Desktop\\123\\Johnny-Clean-Seed",
+    "C:\\Users\\13527\\Desktop\\123"
+  ],
+  "exclusions": [
+    "path component containing shed",
+    "path component containing bridge",
+    ".git working metadata as content"
+  ],
+  "candidate_files": 4497,
+  "copied_unique_files": 2922,
+  "skipped_duplicate_files": 1575,
+  "renamed_conflicts": 0,
+  "excluded_shed_or_bridge_files": 4218,
+  "secret_like_files_copied_local": [
+    "CleanSeedsBuild\\NEOCITIES_LOCAL_BACKUPS\\GATE_BACKUP_BEFORE_REDROSE_PASSWORD_20260512_233200\\gate.js",
+    "COMMAND_CENTER\\REMOTE_DOOR_RELAY_V2\\PRINT_VAULT_LOCAL_ONLY\\LOCAL_SECRET.key",
+    "COMMAND_CENTER\\REMOTE_DOOR_RELAY_V2\\TOKENS_LOCAL_ONLY\\token_state.json",
+    "COMMAND_CENTER\\REMOTE_DOOR_RELAY_V2\\TOOLS\\New-RemoteDoorV2Token.ps1"
+  ],
+  "note": "Duplicate means same leaf filename, same byte length, and same SHA256 content. Duplicate source paths are recorded in duplicates.tsv."
+}

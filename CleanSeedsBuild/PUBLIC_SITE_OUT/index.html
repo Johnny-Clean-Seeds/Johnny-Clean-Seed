@@ -1,0 +1,53 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Clean Seed Bridge</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <section id="gate" class="panel">
+      <h1>Clean Seed Bridge</h1>
+      <p>Enter access code.</p>
+      <input id="code" type="password" autocomplete="current-password" autofocus>
+      <label class="remember"><input id="remember" type="checkbox"> remember on this browser</label>
+      <button id="openBtn">Open</button>
+      <p id="message"></p>
+    </section>
+
+    <section id="app" class="panel hidden">
+      <h1>Clean Seed Bridge</h1>
+      <p class="muted">Static read-only bridge.</p>
+      <div id="list"></div>
+      <textarea id="copyBox" readonly></textarea>
+      <button id="copyBtn">Copy all loaded text</button>
+    </section>
+  </main>
+
+  <script>
+    window.siteItems = [
+    {
+        "name": "DATA_MANIFEST.json",
+        "path": "data/DATA_MANIFEST.json",
+        "status": "ready"
+    },
+    {
+        "name": "DUPLICATE_MAP.json",
+        "path": "data/DUPLICATE_MAP.json",
+        "status": "ready"
+    },
+    {
+        "name": "README.txt",
+        "path": "data/README.txt",
+        "status": "ready"
+    }
+];
+    window.siteCheck = "f27ebae30bdfc974fac27906a8cfeb9faed93a717250fc93f0bdc90a183ddb85";
+    window.siteSalt = "site-cache-v1-20260512";
+  </script>
+  <script src="scripts/gate.js"></script>
+</body>
+</html>
+
+

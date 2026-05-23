@@ -1,0 +1,12 @@
+NEOCITIES REMOTE DATA FILES DELETE RECEIPT
+Created: 2026-05-12T22:53:54.7511833-04:00
+Plan: C:\CleanSeedsBuild\NEOCITIES_REMOTE_DATA_FILES_DELETE_PLAN_20260512_225013.txt
+Target family: data/files/*
+Local files touched: NO
+index.html touched: NO
+Before data/files count: 0
+Deleted file target count: 0
+Directory target count attempted: 0
+After data/files count: 0
+
+REMAINING data/files PATHS:

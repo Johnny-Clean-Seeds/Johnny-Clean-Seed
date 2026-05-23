@@ -1,0 +1,62 @@
+CLEAN SEED MULE FILE CLEANUP RECOMMENDATION V1
+Purpose: Keep the mule fed, not stuffed.
+
+TOTAL FILES SO FAR: 13
+
+ARCHIVE / DO NOT FEED BY DEFAULT
+- clean_seed_mule_low_usage_operating_pack_v1.txt
+Reason: replaced; contains too-blunt limits.
+- clean_seed_mule_low_usage_operating_pack_v2_growth_safe.txt
+Reason: replaced by model-aware versions.
+- clean_seed_scout_scan_receipt_v1.txt
+Reason: proof of scan, not needed for thinking.
+
+REDUNDANT FOR NORMAL MULE RUNS
+- clean_seed_additions_candidates_v4.txt
+Reason: already contained inside clean_seed_capture_board_plus_additions_v4.txt.
+- clean_seed_bridge_keep_whole_v4.txt
+Reason: already contained inside clean_seed_capture_board_plus_additions_v4.txt and summarized in compact spine.
+- clean_seed_link_cycle_structure_guide_v1.txt
+Reason: valuable, but now summarized in mule brief and compact spine.
+- clean_seed_three_file_connection_map_v1.txt
+Reason: useful history, but replaced by this cleanup recommendation.
+- clean_seed_link_index_v1.txt
+Reason: seed links are summarized in compact spine.
+- clean_seed_merge_plan_v1.txt
+Reason: merge rule is summarized in mule brief and compact spine.
+- clean_seed_mule_model_aware_low_usage_pack_v3.txt
+Reason: replaced by V4 slim brief.
+
+MINIMUM ACTIVE FILES FOR CHEAP MULE RUN
+- clean_seed_mule_brief_v4_slim_growth_safe.txt
+- clean_seed_model_spine_compact_v1.txt
+
+ADD ONLY IF NEEDED
+- clean_seed_capture_board_plus_additions_v4.txt
+Reason: full living board; use when exact wording/deeper model context is needed.
+
+BEST PRACTICE
+Start mule with the two small active files.
+Ask it to request controlled expansion if it needs the full board.
+Only give the full board after the mule explains why.
+
+WHY THIS SAVES TOKENS
+The old 10-file active set repeated the same guidance in several places.
+The combined board already includes the additions and bridge.
+The new brief + compact spine preserve the working rules without forcing the mule to read every old guide.
+
+WHY THIS DOES NOT LOSE GROWTH
+The compact spine keeps:
+- growth center
+- clean/dirty/malalignment
+- field-to-mode switchboard
+- anchors
+- existing fields
+- link types
+- neighborhoods
+- false-friend warnings
+- merge safety
+- controlled expansion
+- “do not cut weak living ideas” rule
+
+The full board stays available as reference, but it is no longer mandatory for every run.

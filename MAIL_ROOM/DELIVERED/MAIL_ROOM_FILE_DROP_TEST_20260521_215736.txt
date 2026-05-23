@@ -1,0 +1,6 @@
+MAIL_ROOM FILE DROP TEST
+
+Verdict: PASS CANDIDATE / FILE DROP RECEIVER SHOULD DELIVER THIS
+Nonce: 2C7117F22578
+Purpose: Prove package delivery from INCOMING_PACKAGES file, not clipboard.
+Boundary: Desktop 123 MAIL_ROOM only.

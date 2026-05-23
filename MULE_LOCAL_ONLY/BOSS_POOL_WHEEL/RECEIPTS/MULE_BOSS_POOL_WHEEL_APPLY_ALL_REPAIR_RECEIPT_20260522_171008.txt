@@ -1,0 +1,29 @@
+MULE BOSS POOL WHEEL APPLY-ALL REPAIR RECEIPT
+Timestamp: 20260522_171008
+Verdict: PASS / LOCAL-ONLY APPLY-ALL REPAIR SAVED
+Root: C:\Users\13527\Desktop\123\MULE_LOCAL_ONLY\BOSS_POOL_WHEEL
+
+Failure repaired:
+- Local file save was treated as complete before behavior carryover was explicitly applied.
+
+Repair applied:
+- Broad why/root-cause map saved.
+- Apply-all local-only lock addendum saved.
+- V1.1 mule kickoff saved.
+- Rule states file surface + behavior surface are both required before PASS.
+
+Boundary:
+- No Git commit.
+- No push.
+- No public export.
+- No doctrine promotion.
+- No ACTIVE_GUIDE rewrite.
+- No CURRENT_TRUTH_INDEX rewrite.
+
+Files:
+- C:\Users\13527\Desktop\123\MULE_LOCAL_ONLY\BOSS_POOL_WHEEL\MULE_BOSS_POOL_WHEEL_APPLY_ALL_REPAIR_V1.1.md
+  SHA256: B8FA4AF751DC6003B084BD8A4D4D905C6BA36247076788ED794B930E8E828E56
+- C:\Users\13527\Desktop\123\MULE_LOCAL_ONLY\BOSS_POOL_WHEEL\MULE_BOSS_POOL_WHEEL_LOCAL_ONLY_LOCK_ADDENDUM_V1.1.md
+  SHA256: E9B8989DB0F1CE4E08E23D53BB773B62DDD7154769DF2408C78A399C76B92567
+- C:\Users\13527\Desktop\123\MULE_LOCAL_ONLY\BOSS_POOL_WHEEL\MULE_BOSS_POOL_WHEEL_KICKOFF_V1.1.md
+  SHA256: FA6EBF18C3F8F0BF88C8738CDB79F985E6A46B183A5BE44276840C6FD583BCEB

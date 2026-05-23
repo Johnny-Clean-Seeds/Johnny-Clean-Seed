@@ -1,0 +1,639 @@
+MULE GATE BLOAT ARTIFACTS COMBINED FOR CHAT
+Source run folder: C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146
+Created local: 2026-05-23T01:13:41.1800376-04:00
+Boundary: read/combine only; no CURRENT write; no READY write; no Git; no push; no delete.
+
+
+============================================================
+FILE: GATE_BLOAT_HARVEST_LIST.md
+PATH: C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146\GATE_BLOAT_HARVEST_LIST.md
+SHA256: 16F0B8DA62E373649497E332EE85C42DBFBC485E5E1D485C07FC3A238145937A
+============================================================
+
+# GATE BLOAT HARVEST LIST
+
+Status: CLEAN BLOAT HARVEST / REVIEW ONLY / NOT PASS  
+Run folder: `C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146`  
+Current boundary: no `CURRENT` write, no Git commit, no Git push, no public/private publish, no READY-as-CURRENT claim.
+
+## Harvest Rule
+
+This pass intentionally gathered more gates than should become active law. The bloat is clean because each harvested item keeps source, purpose, current fit, neighbor, proof need, and return-home state.
+
+No harvested gate is promoted by this file.
+
+## Sources Read Or Sampled
+
+| Source | Use In Harvest | State |
+|---|---|---|
+| `C:\Users\13527\Desktop\123\mule_ideas.txt` | Ariadne Rope / Knotwalk method, knot-note shape, RECESS order, priority scoring idea | NEW ROOT SOURCE |
+| `C:\Users\13527\Desktop\123\gate_bloat.txt` | Gate Keyring / Knotwalk, 30 named gate notes, priority list, KOFNPR bits | NEW ROOT SOURCE |
+| `METATRON_NODE_REGISTRY.md` | Node homes, refuses, close conditions | PRIOR RUN CONTEXT |
+| `METATRON_EDGE_REGISTRY.md` | Legal route edges and close conditions | PRIOR RUN CONTEXT |
+| `ALGORITHM_FIT_MATRIX.md` | Graph/FSM/hash/bitstring/contract algorithms | PRIOR RUN CONTEXT |
+| `GOOD_CHIP_RECOVERY_REPORT.md` | Recovered old chips and return-home states | PRIOR RUN CONTEXT |
+| `BLACK_HOLE_DIGEST.md` | Digest-after-harvest order and clusters | PRIOR RUN CONTEXT |
+| `GOOD_TO_MERGE_LIST.md` | Good merge candidates and not-ready items | PRIOR RUN CONTEXT |
+| `NEW_PACKAGE_VS_OLD_RUN_COMPARISON.md` | Current blockers, path/home contradiction, READY/CURRENT boundary | PRIOR RUN CONTEXT |
+| `SOFT_SUIT_DRESSING_ROOM_PLAN.md` | Dressing-room gate order and trial cards | PRIOR RUN CONTEXT |
+| `READY_CANDIDATE_DECISION_REPORT.md` | Why READY is blocked pending path/home decision | PRIOR RUN CONTEXT |
+| `SET_ASIDE_NOT_THROW_AWAY_LIST.md` | Existing set-aside state/owner/priority/trigger discipline | PRIOR RUN CONTEXT |
+| `PRIORITY_TODO_PARKING_LEDGER.csv` | Priority parking schema and current blockers | PRIOR RUN CONTEXT |
+| `RECESS_PRIORITY_CANDIDATE_LEDGER.csv` | RECESS candidate priorities | PRIOR RUN CONTEXT |
+| `WORD_BROADENING_AND_BITSTRING_COVERAGE_REPORT.md` | Alias/opposite/actor/object/lane/state coverage bits | PRIOR RUN CONTEXT |
+| `SAME_SHAPE_AFTER_WALK_REVIEW.md` | Before/after same-shape proof discipline | PRIOR RUN CONTEXT |
+| `WHOLE_HOME_RECURSIVE_VERIFY_REPORT.md` | Local blockers and verification results | PRIOR RUN CONTEXT |
+| `WHOLE_HOME_FINAL_CLOSEOUT_JUDGE.md` | REVIEW / NOT PASS reasons | PRIOR RUN CONTEXT |
+| `MULE_WHOLE_HOME_METATRON_PARK_MAP_WORK_ORDER_V1.md` | Whole-home order, blocked moves, node/edge output contract | PRIOR RUN CONTEXT |
+| Current Soft Suit map and ledger | Read-only signals for active shape, links ladder, node law, authority, bell, return home | CURRENT READ-ONLY CONTEXT |
+| Old `TODO_TRACE_TRIAGE_GATE.txt` | Trace-before-boss gate and proof-before-work shape | OLD GATE SOURCE |
+| Old Gear Rack Load Gate live test | Active ball load and park source ore discipline | OLD GATE SOURCE |
+| Old Prior-Mistake Retrieval Gate | Retrieve 3-7 similar cases before route choice | OLD GATE SOURCE |
+| Old Rule-Firing Confirmation Card | Point-of-work fired-gate card | OLD GATE SOURCE |
+| Old Incoming File Parking Index | PC-only incoming lanes and no-move boundary | OLD GATE SOURCE |
+| Old RCE Report Gate proof | Rule-not-fired alarm and partial proof discipline | OLD GATE SOURCE |
+| Old No Rule King proof | Support gate cannot become authority | OLD GATE SOURCE |
+| Old Boss/Ghost TODO flow | Parent boss/ghost/child sorting and completion standards | OLD GATE SOURCE |
+| Old Relevant Root Key selector | Select only useful keys/tools, not every available rule/tool | OLD GATE SOURCE |
+
+## Harvested Gate Ideas
+
+| ID | Gate Idea | Source | Useful Purpose | Current Fit | State |
+|---|---|---|---|---|---|
+| H-001 | Gate Keyring / Knotwalk | `gate_bloat.txt` | Give every gate KEY, OBJECT, FILTER, NEIGHBOR, PROOF, RETURN | Strong fit as inspection schema | REVIEW_CANDIDATE |
+| H-002 | Ariadne Rope / Knotwalk | `mule_ideas.txt` | Explore widely without losing route home | Strong fit for RECESS and house walks | REVIEW_CANDIDATE |
+| H-003 | Router/Object Type Gate | `gate_bloat.txt`, Soft Suit map | Classify task and object before acting | Active-family fit, needs keyring fields | MERGE_CANDIDATE |
+| H-004 | Front Door Gate | `gate_bloat.txt`, node registry | Triage dropped material without making root storage | Strong fit | MERGE_CANDIDATE |
+| H-005 | Links Ladder Gate | Soft Suit map/ledger, `mule_ideas.txt` | Source/home/neighbor/proof/return/bell route rope | Already active-family; keyring makes it inspectable | MERGE_CANDIDATE |
+| H-006 | Stop/Fix/Verify Gate | Soft Suit map, old history | Stop unrelated advancement and repair active issue | Strong fit | MERGE_CANDIDATE |
+| H-007 | Smoke Break / Phase Hold Gate | `gate_bloat.txt`, prior comparison | Pause between phases to avoid premature finalize | Useful but should stay light | REVIEW_CANDIDATE |
+| H-008 | Source-Link / Condense Gate | Soft Suit map, prior digest | Convert dense material to atomic sourced ideas | Strong fit | MERGE_CANDIDATE |
+| H-009 | Adopt / Adapt / Park / Block Gate | Soft Suit ledger, old chip recovery | Every idea gets a disposition | Strong fit; add priority fields | MERGE_CANDIDATE |
+| H-010 | Priority Parking Gate | priority ledgers, `gate_bloat.txt` | Parking gets owner, priority, proof need, return trigger | Strong fit | REVIEW_CANDIDATE |
+| H-011 | Promotion / Dressing Room Gate | Soft Suit ledger, dressing plan | Try-on before map/READY/CURRENT-facing change | Strong fit, blocked by path/home | BLOCKED_UNTIL_PATH_HOME |
+| H-012 | Bell / User Action Gate | Soft Suit map/ledger, blockers | Surface waiting user choices and fog | Strong fit | MERGE_CANDIDATE |
+| H-013 | Stable Overwrite / Concept Merge Gate | Soft Suit map, prior reports | Stable names; merge duplicates instead of version clutter | Strong fit | MERGE_CANDIDATE |
+| H-014 | Move / Sort Authorization Gate | Soft Suit map, work order | User cleanup words allow custody sorting, not CURRENT promotion | Already active-family | KEEP |
+| H-015 | Code Delivery / One-Box Gate | `gate_bloat.txt`, current failure pattern | Choose code/file/text surface, avoid too many blocks | Useful chat behavior gate | REVIEW_CANDIDATE |
+| H-016 | Proof / Final Judge Gate | prior judge, work order | Match proof to claim; no PASS without closure | Strong fit | KEEP_AND_EXPAND |
+| H-017 | Blocked Moves / Boundary Gate | work order, node registry | Refuse public/private, CURRENT, proofless PASS drift | Strong fit | KEEP_AND_EXPAND |
+| H-018 | Support / Source Policy Gate | old chip recovery, Soft Suit map | Old/support/source is not active truth by default | Strong fit | KEEP |
+| H-019 | Weight Release / Fog Gate | Soft Suit map/ledger | Release old weight unless proof/source recovery needs it | Strong fit with current hold exception | MERGE_CANDIDATE |
+| H-020 | RECESS Gate | `mule_ideas.txt`, `gate_bloat.txt` | Harvest first, broaden, score, park, digest later | Strong fit for this job | REVIEW_CANDIDATE |
+| H-021 | Broadening / Loophole Gate | word report, `gate_bloat.txt` | Expand aliases/opposites/actors/objects before compression | Strong fit | MERGE_CANDIDATE |
+| H-022 | Priority Scoring Gate | priority ledgers, `mule_ideas.txt` | Boundary/blocker/repeat/leverage/user-waiting/readiness scoring | Strong fit; avoid overbuilding | REVIEW_CANDIDATE |
+| H-023 | Black Hole Digest Gate | prior digest, `mule_ideas.txt` | Absorb/dedupe/cluster/rank/compress after harvest | Strong fit | REVIEW_CANDIDATE |
+| H-024 | Precision Lock Gate | `gate_bloat.txt` | Convert pressure into object/surface/boundary precision | Useful repeated-failure guard | REVIEW_CANDIDATE |
+| H-025 | Delivery Surface Gate | `gate_bloat.txt` | Decide file vs chat text vs code vs receipt vs hold | Strong fit | REVIEW_CANDIDATE |
+| H-026 | Home/Path Gate | path/home reports | Resolve `Desktop\GPT_Prompts` vs `Desktop\123\GPT_Prompts` | Top blocker | WAITING_FOR_USER |
+| H-027 | Return-Home Gate | map/ledger/node law | Nothing ends homeless | Universal fit | KEEP_AND_EXPAND |
+| H-028 | Old Chat Weight Hold Gate | current user instruction + map | Hold old chat/source weight until mule judgment places meaning | Strong current fit | REVIEW_CANDIDATE |
+| H-029 | TODO Trace Triage Gate | old gate file | Trace first, boss second, proof decides | Strong fit for backlog and gates | MERGE_CANDIDATE |
+| H-030 | Gear Rack Load Gate | old live test | Keep active load bounded; park source ore | Strong Soft Suit load guard | REVIEW_CANDIDATE |
+| H-031 | Prior-Mistake Retrieval Gate | old Soft Suit candidate | Retrieve similar prior cases before route choice | Useful for repeats and route pain | REVIEW_CANDIDATE |
+| H-032 | Relevant Root Key Selector Gate | old support rule | Select only keys/tools that change decisions | Strong fit; no rule king | MERGE_CANDIDATE |
+| H-033 | No Rule King Gate | old proof | Prevent any selector/gate from becoming authority | Universal guardrail | KEEP_AND_EXPAND |
+| H-034 | RCE / Rule-Not-Fired Alarm Gate | old partial proof | When stored rule fails to fire, capture rule/concept/event | Useful but partial | REVIEW_PARTIAL |
+| H-035 | Boss/Ghost Sort Gate | old TODO flow | Separate parent bosses, ghosts, children, completion standards | Strong for gate bloat grouping | REVIEW_CANDIDATE |
+| H-036 | Incoming File Parking Gate | old parking index | Classify incoming files by lane before move/push/delete | Strong for front-door/custody | MERGE_CANDIDATE |
+| H-037 | Privacy / Public-Safe Gate | work order, node registry | Prevent private prompt/rule publication | Strong and mandatory | KEEP |
+| H-038 | CURRENT Authority Gate | current map/ledger, work order | Assistant prepares/verifies; user makes CURRENT | Mandatory | KEEP |
+| H-039 | READY/User-Move Verify Gate | current map/ledger, edge registry | READY waits; user moves; assistant verifies read-only | Mandatory | KEEP |
+| H-040 | Algorithm Fit Gate | algorithm matrix | Use graph/FSM/hash/contract only where fit is real | Strong review helper | REVIEW_CANDIDATE |
+| H-041 | Same-Shape Comparison Gate | prior same-shape report | Compare before/after with same surfaces | Strong proof guard | MERGE_CANDIDATE |
+| H-042 | Hash / Receipt Manifest Gate | work order, recursive verify | Proof claims need hash/receipt/readback where applicable | Mandatory for PASS | KEEP |
+| H-043 | Failed Tool Isolation Gate | node/edge registry, recursive verify | Failed tools go to failed-tools/issue review, not active lanes | Strong fit | KEEP |
+| H-044 | Unknown To Issue Review Gate | node/edge registry | If unsure, do not guess; route unknowns to review | Mandatory | KEEP |
+| H-045 | Park Closing Gate | node registry, final judge | Parked objects close only with state, proof, trigger, owner | Strong fit | REVIEW_CANDIDATE |
+
+## Harvest Result
+
+The useful dense finding is not "add every gate." It is:
+
+`Every gate needs a keyring, a neighbor, proof, and return-home state before it can be trusted.`
+
+The current highest blocker remains path/home ambiguity. Gate work can stay in the run folder as review artifacts, but READY or CURRENT-facing Soft Suit updates should wait until the accepted home is decided.
+
+
+
+============================================================
+FILE: GATE_KEYRING_BIG_LIST.md
+PATH: C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146\GATE_KEYRING_BIG_LIST.md
+SHA256: 4E2EB575DD511EC0EE9D9A1D334EB4E9A7CD8EC784F357F6F165C96474F94728
+============================================================
+
+# GATE KEYRING BIG LIST
+
+Status: BIG CLEAN GATE LIST / REVIEW ONLY / NOT PASS  
+Shape required: KEY, OBJECT, FILTER, NEIGHBOR, PROOF, RETURN.  
+Rule: no key, no gate. No neighbor, no route. No proof, no PASS. No return-home, no done.
+
+## Gate Bitstring
+
+`K O F N P R`
+
+- K = key found.
+- O = object identified.
+- F = filter/block/sort rule applied.
+- N = neighbor selected.
+- P = proof/status stamped.
+- R = return-home state named.
+
+Target clean review state: `111111`.  
+Any gate with `P=0` or `R=0` is REVIEW / NOT PASS.
+
+## Big Gate List
+
+| ID | Gate | Source | Purpose | KEY | OBJECT | FILTER | NEIGHBOR | PROOF | RETURN | Priority | Current Fit |
+|---|---|---|---|---|---|---|---|---|---|---:|---|
+| G-001 | Gate Keyring / Knotwalk | `gate_bloat.txt` | Inspect gates before trusting them | New/old gate idea, gate failure, gate bloat, route fog | Gate candidate or active gate | Blocks keyless, neighborless, proofless, homeless gates | Gate Neighbor Fit Map, Issue Review, Final Judge | Filled KOFNPR row | Review artifact, ledger, or blocked issue | 940 | USE NOW IN REVIEW |
+| G-002 | Ariadne Rope / Knotwalk | `mule_ideas.txt` | Explore without losing way back | Mystery, RECESS, deep scan, weird route, house walk | Clue/knot/branch | Blocks early compression and lost edge findings | Source-Link, Priority Gate, Black Hole Digest | Knot note with source/path/priority/return | Knot ledger or digest input | 820 | USE FOR BROAD HARVEST |
+| G-003 | Router / Object-Type Gate | Soft Suit map, `gate_bloat.txt` | Classify task and object before action | New task, correction, handoff, file, mule return, proof claim | Task plus object in hand | Blocks vague task-only routing | Links Ladder, Front Door, Delivery Surface, Stop/Fix | Route classification and active issue | Correct node/suit or Issue Review | 900 | HIGH |
+| G-004 | Front Door / Drop Gate | node registry, `gate_bloat.txt` | Welcome, identify, route, leave root clean | Dropped file/package/output/local material | File, folder, package, source drop | Blocks root storage, READY-as-CURRENT, active debris | Local Truth Room, READY, Custody, Issue Review | Listing/hash/receipt or blocked reason | Root clean, custody, READY, issue review | 830 | HIGH |
+| G-005 | Links Ladder Gate | Soft Suit map/ledger | Route meaningful objects through source/home/neighbor/proof/return/bell | Meaningful object, idea, file, claim, route | Any meaningful object | Blocks source loss, home loss, proof gap | Owner node, Proof Gate, Bell | Links row or stated missing rung | Object has state/home | 920 | HIGH |
+| G-006 | Stop / Fix / Verify Gate | Soft Suit map, old proof failures | Stop advancement when active issue breaks | User correction, proof mismatch, wrong route, repeated mistake | Active issue/failure | Blocks explaining instead of fixing, side-issue drift | Same Problem Repair, Proof Gate, Issue Review | Fix proof or blocked proof | Fixed, blocked, or waiting | 850 | HIGH |
+| G-007 | Smoke Break / Phase Hold Gate | `gate_bloat.txt`, prior review | Pause between phases to keep route clean | Phase end, tangled route, pre-finalization, repeated correction | Work phase / transition | Blocks premature paste/finalize | Same-Shape, Stop/Fix, Router | Phase state note and next issue | Return to same issue or named drift | 610 | MEDIUM |
+| G-008 | Source-Link / Condense Gate | Soft Suit map, digest report | Turn dense text/logs into linked atomic ideas | Dense file, transcript, mule report, big user burst | Source material | Blocks source loss and premature digestion | Idea Ledger, Priority, Black Hole Digest | Source list and atomized rows | Ledger/digest/source pointer | 760 | HIGH |
+| G-009 | Adopt / Adapt / Park / Block Gate | Soft Suit ledger, good chip recovery | Give every live idea a disposition | New idea, correction, metaphor, workflow change | Idea candidate | Blocks vague "noted" and accidental promotion | Ledger, Map Candidate, Issue Review, Blocked Moves | Disposition row with proof need | Adopted/adapted/parked/blocked/merged | 780 | HIGH |
+| G-010 | Priority Parking Gate | priority ledgers, `gate_bloat.txt` | Make parking accountable | Overflow, weak idea, later item, blocked item | Parked/review idea | Blocks dead parking | Set-Aside List, Priority Queue, Bell | State/owner/priority/trigger/proof need | Parked with return trigger | 835 | HIGH |
+| G-011 | Promotion / Dressing Room Gate | Soft Suit ledger, dressing plan | Try before READY/CURRENT-facing change | Rule candidate, Soft Suit change, behavior fix | Candidate rule/gate/suit | Blocks first-good-rule wins and direct CURRENT drift | Dressing Room, READY, User Bell | Trial card, diff plan, hash/readback later | Candidate, READY only after path/home | 875 | BLOCKED BY PATH/HOME |
+| G-012 | Bell / User Action Gate | Soft Suit map/ledger, blockers | Surface user-owned decisions | User action needed, fog, READY waiting, home/path conflict | Decision or waiting state | Blocks silent carry and hidden blockers | User, Issue Review, READY | Bell note and exact waiting decision | WAITING_FOR_USER or resumed route | 890 | HIGH |
+| G-013 | Stable Overwrite / Merge Gate | Soft Suit map, prior run | Keep stable names and merge duplicate concepts | Repeated same-name file or repeated idea | File or concept duplicate | Blocks version clutter and duplicate gates | READY, Ledger, Custody | Same-name/diff/merge decision | Stable file or merged ledger item | 640 | MEDIUM-HIGH |
+| G-014 | Move / Sort Authorization Gate | Soft Suit map, work order | Interpret cleanup language safely | "move", "sort", "clean", "take away", "put there" | Local action request | Blocks CURRENT promotion from cleanup words | Front Door, Custody, Tools, Proof | Command surface and before/after proof | Custody, tools, receipts, or no action | 700 | HIGH |
+| G-015 | Code Delivery / One-Box Gate | `gate_bloat.txt` | Deliver correct command/code surface | PowerShell/script/local move request | Code or command output | Blocks many boxes, wrong shell surface, speech in code | Delivery Surface, Proof Gate | Runnable syntax or "no code needed" state | User command, file, or hold | 540 | MEDIUM |
+| G-016 | Proof / Final Judge Gate | work order, final judges | Match claim to evidence | Any status/verdict/PASS claim | Claim/status | Blocks proofless PASS and DONE=PASS | Hash/Receipt Gate, Same-Shape, Issue Review | Receipt/hash/readback/listing or missing proof | PASS, REVIEW, PARTIAL, BLOCKED, WAITING | 930 | MANDATORY |
+| G-017 | Blocked Moves / Boundary Gate | work order, node registry | Hold hard no-go lines | Tempting unsafe action | Move/claim/action | Blocks CURRENT writes, private publish, deletion, guesswork, automation | Issue Review, User Bell, Final Judge | Blocked reason and safer route | Blocked or waiting | 910 | MANDATORY |
+| G-018 | Support / Source Policy Gate | good chip recovery, Soft Suit map | Keep old/support/source from commanding work | Old scaffold, support mirror, old chat, source ore | Source/support material | Blocks old source becoming active truth | Source-Link, Custody, Issue Review | Source pointer and role state | Support/source/custody | 690 | HIGH |
+| G-019 | Weight Release / Fog Gate | Soft Suit map/ledger | Reduce stale active weight | Fog, old weight, conflicting context | Old saved material | Blocks active-memory bloat, with hold exception when review needs source | Source-Link, Bell, Issue Review | Pointer/state or proof need | Released to pointer or held for review | 620 | MEDIUM |
+| G-020 | RECESS Harvest Gate | `mule_ideas.txt`, `gate_bloat.txt` | Mode-specific wide harvest | RECESS, weird path, go all ways, mystery | Idea/source field | Blocks digest-before-harvest | Ariadne Rope, Priority, Black Hole Digest | Harvest list and priority rows | Digest input or set-aside | 780 | HIGH FOR THIS JOB |
+| G-021 | Broadening / Loophole Gate | word report, `gate_bloat.txt` | Expand aliases/opposites before compression | Rule/gate wording, correction, prompt update | Wording/rule/gate | Blocks synonym, actor, object, lane, opposite bypass | Router, Proof, Priority | Coverage bits or missing-bit list | Broadened then compressed candidate | 760 | HIGH |
+| G-022 | Priority Scoring Gate | priority ledgers, `mule_ideas.txt` | Rank many true ideas | Overflow, TODO, mule return, blocked path | Candidate or issue | Blocks curiosity outranking blockers | Priority Queue, Set-Aside, Bell | Score and reason | Ranked queue | 810 | HIGH |
+| G-023 | Black Hole Digest Gate | digest report, `mule_ideas.txt` | Cook bloat into dense structure | After harvest/broadening/priority | Harvest pile | Blocks source deletion and early compression | Good-to-Merge, Map Candidate, Ledger | Dedupe/cluster/rank/source list | Dense candidate plus preserved source | 690 | MEDIUM-HIGH |
+| G-024 | Precision Lock Gate | `gate_bloat.txt` | Convert pressure into precision | Sharp correction, urgent tone, recent error | Immediate requested output | Blocks fast wrong surface | Delivery Surface, Router, Stop/Fix | Object/surface/boundary lock | One clean move or hold | 720 | HIGH |
+| G-025 | Delivery Surface Gate | `gate_bloat.txt` | Choose file/chat/code/receipt/hold | Send, file, kickoff, paste, code, report, smoke break | Output object | Blocks file-vs-text mistakes | One-Box, Code Delivery, Proof | Surface decision | Correct output surface | 710 | HIGH |
+| G-026 | Home / Path Gate | path/home reports | Decide where the body lives | Path contradiction, READY blocked, map/home mismatch | Local system home/path | Blocks dual truth and wrong-home READY | User Bell, Current Verify, Issue Review | Test-Path/hash/read-only listing | Accepted home or blocked plan | 960 | TOP BLOCKER |
+| G-027 | Return-Home Gate | map/ledger/node law | Ensure nothing ends homeless | Every object | File/idea/tool/proof/source/status | Blocks homeless objects and fog | Owner node, Park Closing, Final Judge | Return state named | CURRENT, READY, custody, receipt, issue review, blocked, waiting | 925 | UNIVERSAL |
+| G-028 | Old Chat Weight Hold Gate | user instruction + map | Preserve old weight until judged | Old chat/source weight needed for mule judgment | Old context/source | Blocks premature release and active bloat | Source-Link, Set-Aside, Final Judge | Hold reason and return trigger | Held source or pointer release | 570 | CURRENTLY USEFUL |
+| G-029 | TODO Trace Triage Gate | old TODO gate | Trace before TODO/boss/work | Raw input, TODO, boss candidate | Work item | Blocks raw item commanding action | Boss/Ghost, Priority, Proof | Trace fields and can-command=no | Accepted/rejected/parked/blocked/needs proof | 780 | HIGH |
+| G-030 | Gear Rack Load Gate | old live test | Prevent active-load overstacking | Several live balls/candidates | Load/candidate set | Blocks meta-bloat and too many active balls | Priority, Park, Active Boss | Load judgment and chosen active ball | One active, rest parked | 740 | HIGH |
+| G-031 | Prior-Mistake Retrieval Gate | old Soft Suit candidate | Retrieve similar cases before route choice | Repeated failure, mule return, stale mix, route pain | Current route decision | Blocks repeated mistakes and long painful routes | Router, Same-Shape, Proof | 3-7 cases or reason none | Route chosen/park/block | 705 | MEDIUM-HIGH |
+| G-032 | Relevant Root Key Selector Gate | old support rule | Select only useful keys/tools | Nontrivial house work | Key/tool choice | Blocks tool/key recitation and tool-for-tool's-sake | No Rule King, Router, Proof | Selected keys change decision | Used key/tool or silent | 790 | HIGH |
+| G-033 | No Rule King Gate | old proof | Keep support gates from becoming authority | Any gate/tool/selector gaining command weight | Gate/tool/rule | Blocks "king" authority drift | Better-Fit, Final Judge, Blocked Moves | Boundary note and no-promotion state | Support only or issue review | 920 | UNIVERSAL |
+| G-034 | RCE / Rule-Not-Fired Alarm Gate | old RCE proof | Capture stored-rule-not-firing events | Missed rule, concept/event tie, report gate | Rule/concept/event | Blocks stored-but-unfired rules | Rule-Firing Card, Ledger, Proof | RCE entry and partial/full proof state | Live-use proof or partial watch | 600 | PARTIAL |
+| G-035 | Boss/Ghost Sort Gate | old TODO flow | Sort parent boss vs ghost/child | Flat TODO pile, repeated symptoms | Work item/failure cluster | Blocks flat-list drift | Priority, TODO Trace, Proof | Parent/ghost/child classification | Boss queue or parked ghost | 760 | HIGH |
+| G-036 | Incoming File Parking Gate | old parking index | Classify PC-only/not-sorted files | Incoming local file, tool, receipt, backup, private material | Local file/package | Blocks push/delete/move before inspection | Front Door, Custody, Tools, Issue Review | Lane classification and risk | Needs inspection, tool candidate, proof candidate, private, archive review | 720 | HIGH |
+| G-037 | Privacy / Public-Safe Gate | work order, project URL spec | Protect private prompt/rule contents | Public/export/share action | Private/local content | Blocks private-to-public leak | Public-Safe Map, Local-Only, Final Judge | Privacy scan or no-publish state | Local-only or public-safe pointer | 950 | MANDATORY |
+| G-038 | CURRENT Authority Gate | current map/ledger, work order | Keep CURRENT user-only | CURRENT-facing action | Current file/map/ledger | Blocks assistant/mule write or promotion | READY, User Bell, Current Verify | No-CURRENT-write proof | READY waiting/user moved/verified | 955 | MANDATORY |
+| G-039 | READY / User-Move Verify Gate | edge registry, current map | Ensure READY is prep, not current | READY update or verification request | Prepared file | Blocks READY-as-CURRENT | User Action, Current Verify | READY hash and current read-only verify later | Waiting user or verified current | 875 | BLOCKED BY PATH/HOME |
+| G-040 | Algorithm Fit Gate | algorithm matrix | Use formal models only where they help | Algorithm/model idea | Graph/FSM/hash/rule engine/etc. | Blocks algorithm theater | Node/Edge Registry, Set-Aside | Fit decision | Adopt/adapt/park/archive | 500 | REVIEW |
+| G-041 | Same-Shape Comparison Gate | same-shape review | Prove what changed using same surfaces | Before/after review | State comparison | Blocks apples-to-oranges proof | Final Judge, Proof Gate | Before/after same check | Verified delta or blocker | 700 | HIGH |
+| G-042 | Hash / Receipt Manifest Gate | work order, recursive verify | Bind proof to files/state | File move, proof claim, save, receipt | Artifact/status claim | Blocks vague proof and stale receipt | Proof Gate, Custody, Return Home | SHA256/listing/receipt/readback | Proofed state or REVIEW | 880 | MANDATORY |
+| G-043 | Failed Tool Isolation Gate | node/edge registry | Keep failed tools out of active lanes | Failed script/tool/helper | Tool artifact | Blocks rerunning known bad tool | Failed Tools, Issue Review, Custody | Failed label/readme/listing | FAILED_TOOL or issue review | 680 | HIGH |
+| G-044 | Unknown To Issue Review Gate | node/edge registry | Refuse guesses | Unknown file/idea/path/status | Unknown object | Blocks guessing local truth | Issue Review, Bell | Unknown reason and next proof | ISSUE_REVIEW | 860 | MANDATORY |
+| G-045 | Park Closing Gate | node registry, final judge | Close parked items responsibly | Parked object | Idea/file/source/tool | Blocks dead parking | Priority Queue, Set-Aside, Return Home | State/owner/priority/return trigger | Parked with trigger or reopened | 780 | HIGH |
+
+## Keyring Review
+
+The top gate-of-gates is G-001. It should inspect every other gate before later adoption.
+
+The top blocker gate is G-026. Until home/path is decided, any READY or CURRENT-facing gate output remains REVIEW / NOT PASS.
+
+
+
+============================================================
+FILE: GATE_NEIGHBOR_FIT_MAP.md
+PATH: C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146\GATE_NEIGHBOR_FIT_MAP.md
+SHA256: C10F940FE470E1D855E503D1864D8112EC2FB143A95A54ECED6F3B3639D9D11B
+============================================================
+
+# GATE NEIGHBOR FIT MAP
+
+Status: NEIGHBOR FIT / REVIEW ONLY / NOT PASS  
+Purpose: show how the gate bloat routes without becoming dirty sprawl.
+
+## Fit Principle
+
+A gate is not useful by itself. It needs:
+
+- an upstream key;
+- a lawful downstream neighbor;
+- proof/status surface;
+- return-home state;
+- blocker route if it cannot close.
+
+## Main Neighbor Routes
+
+| Gate | Upstream Key Source | Best Neighbor | Backup Neighbor | Proof Surface | Return Home |
+|---|---|---|---|---|---|
+| Gate Keyring / Knotwalk | Any gate idea, gate failure, route fog | Gate Keyring Big List | Issue Review | KOFNPR row | Review artifact or blocked item |
+| Ariadne Rope / Knotwalk | RECESS, mystery, weird search, house walk | Harvest List | Black Hole Digest | Knot note/source/priority | Digest input or set-aside |
+| Router / Object-Type | New task, handoff, correction, proof claim | Links Ladder | Delivery Surface | Classification line | Owner node |
+| Front Door | Dropped file/package/root material | Local Truth Room | Custody / Issue Review | Listing/hash/lane decision | Root clean or source pointer |
+| Links Ladder | Meaningful object | Owner node | Issue Review | Source/home/neighbor/proof/return/bell links | Object has state |
+| Stop / Fix / Verify | Correction, mismatch, active break | Same-Problem Repair | Issue Review | Fix proof or blocked reason | Fixed/blocked/waiting |
+| Smoke Break | Phase boundary, route tangle | Same-Shape Review | Stop/Fix | Phase state | Return to same issue |
+| Source-Link / Condense | Dense source | Idea Ledger | Black Hole Digest | Source list and atoms | Ledger/source pointer |
+| Adopt / Adapt / Park / Block | Idea candidate | Idea Ledger | Priority Queue | Disposition row | Idea processed |
+| Priority Parking | Overflow, not-now idea | Set-Aside List | Bell | State/owner/priority/trigger | Parked with trigger |
+| Promotion / Dressing Room | Candidate rule/gate | Dressing Room | READY after path/home | Trial card and future diff | Candidate or READY waiting |
+| Bell / User Action | User-owned decision | User | Issue Review | Bell text and decision need | WAITING_FOR_USER |
+| Stable Overwrite / Merge | Duplicate file/concept | Ledger or READY | Custody | Same-name/diff/merge note | Stable object |
+| Move / Sort Authorization | Cleanup language | Custody/Tools | Proof Gate | Before/after path proof | Custody/tools/receipts |
+| Code Delivery / One-Box | Command/code request | Delivery Surface | Proof Gate | Syntax/proof or no-code state | User command or file |
+| Proof / Final Judge | Verdict claim | Hash/Receipt | Issue Review | Evidence matches claim | PASS/REVIEW/BLOCKED/etc. |
+| Blocked Moves / Boundary | Unsafe temptation | Issue Review | User Bell | Blocked reason | Blocked or waiting |
+| Support / Source Policy | Old/source/support material | Custody / Source-Link | Issue Review | Source role state | Source/support only |
+| Weight Release / Fog | Old active weight/fog | Source pointer | Bell | Released/held reason | Light state or held source |
+| RECESS Harvest | Go wide instruction | Ariadne Rope | Priority Gate | Harvest rows | Digest/set-aside |
+| Broadening / Loophole | Rule/gate wording | Priority Gate | Proof Gate | Coverage bits | Broadened candidate |
+| Priority Scoring | Many true ideas | Priority Queue | Set-Aside | Score and reason | Ranked queue |
+| Black Hole Digest | Post-harvest bloat | Good-to-Merge | Set-Aside | Dedupe/cluster/rank | Dense candidate/source preserved |
+| Precision Lock | Sharp pressure/correction | Delivery Surface | Stop/Fix | Object/surface/boundary line | One clean move |
+| Delivery Surface | Output uncertainty | One-Box / Code Delivery | Smoke Break | Surface decision | Correct output |
+| Home / Path | Path contradiction | User Bell | Issue Review | Test-Path/hash/listing | Accepted home or blocked plan |
+| Return-Home | Every object | Owner node | Final Judge | Return state | Closed state |
+| TODO Trace Triage | Raw work input | Boss/Ghost | Priority | Trace fields | Accepted/rejected/parked/blocked |
+| Gear Rack Load | Too many active balls | Priority | Park | Load judgment | One active/rest parked |
+| Prior-Mistake Retrieval | Repeat/stale/mule route risk | Router | Proof Gate | Similar cases or none found | Route selected |
+| Relevant Root Key Selector | Nontrivial house work | No Rule King | Router | Selected keys/tools affect decision | Used or silent |
+| No Rule King | Any gate starts commanding | Final Judge | Blocked Moves | No-promotion boundary | Support only |
+| RCE / Rule-Not-Fired | Stored rule missed | Rule-Firing Card | Ledger | Event/proof state | Live-use proof or partial |
+| Boss/Ghost Sort | Flat list or symptom pile | Priority | TODO Trace | Parent/ghost/child map | Boss queue |
+| Incoming File Parking | Incoming local object | Front Door | Custody/Tools/Issue Review | Lane classification | Parking lane |
+| Privacy / Public-Safe | Public/export/share temptation | Public-Safe Map | Local-Only | Privacy scan/no-publish | Public pointer/local-only |
+| CURRENT Authority | CURRENT-facing action | READY/User Bell | Current Verify | No-CURRENT-write proof | READY/user moved/verified |
+| READY/User-Move Verify | READY candidate | User Action | Current Verify | READY hash/current read-only hash | Waiting or verified |
+| Algorithm Fit | Algorithm/model idea | Node/Edge Registry | Set-Aside | Fit decision | Adopt/adapt/park/archive |
+| Same-Shape Comparison | Before/after claim | Final Judge | Issue Review | Same surfaces compared | Verified delta/blocker |
+| Hash/Receipt Manifest | File/proof artifact | Proof Gate | Custody | SHA256/receipt/readback | Proofed or review |
+| Failed Tool Isolation | Bad script/tool | Failed Tools | Issue Review | Failed label/listing | FAILED_TOOL |
+| Unknown To Issue Review | Unknown object/status | Issue Review | Bell | Reason unknown | ISSUE_REVIEW |
+| Park Closing | Parked object | Priority Queue | Return-Home | State/owner/trigger | Parked closed or reopened |
+
+## Missing Or Weak Neighbor Findings
+
+| Missing Neighbor | Found In | Why It Matters | Current Handling |
+|---|---|---|---|
+| Accepted Soft Suit home | Home/Path Gate, READY Gate, Dressing Room | READY candidate cannot safely name home while `Desktop\GPT_Prompts` and `Desktop\123\GPT_Prompts` conflict | WAITING_FOR_USER |
+| Gate keyring ledger home | Gate Keyring | The new keyring method needs a review home before becoming map law | This run folder only |
+| Knot-note storage home | Ariadne Rope | Knotwalk needs a place to keep branch clues without active bloat | Harvest list now; future ledger candidate later |
+| Proof persistence policy | Proof/Final Judge | Some proof surfaces in old house are local or ignored; proof claims must name persistence status | REVIEW until explicit proof route |
+| Current support mirror disposition | Support/Source Policy | Support mirrors are inside CURRENT but treated support-only; moving inside CURRENT is user-only | Parked MULE_REVIEW |
+| Public URL publication route | Privacy/Public Gate | Public map can orient but cannot publish private prompt/rule contents | Parked until explicit publish request |
+| Gate promotion route | Promotion/Dressing Room | Gate bloat is review, not active law | Dressing Room after path/home |
+| Old chat/source release exception | Weight Release | Current instruction says do not throw ideas/source away yet | Hold as source until judged |
+
+## Repeated Failure Patterns Found
+
+| Pattern | Gates That Catch It | Proof Needed |
+|---|---|---|
+| Stored rule does not fire at point of work | Rule-Firing Card, RCE Gate, Relevant Selector, No Rule King | Filled fired-gate card or event proof |
+| Task typed, object not typed | Router/Object-Type, Delivery Surface, Front Door | Object type and output surface line |
+| Gate becomes wall | Gate Keyring, Neighbor Fit, Return-Home | Neighbor named or Issue Review route |
+| Gate becomes king | No Rule King, Promotion/Dressing Room, Final Judge | Support-only boundary and no-promotion proof |
+| Parking becomes graveyard | Priority Parking, Park Closing, Set-Aside | State/owner/priority/return trigger |
+| Proof becomes vibe | Hash/Receipt, Same-Shape, Final Judge | Receipt/hash/readback or explicit missing proof |
+| READY treated as CURRENT | CURRENT Authority, READY/User-Move Verify, Bell | READY/current path/hash states |
+| Public/local boundary collapses | Privacy Gate, Local Truth, Public-Safe Map | Privacy scan and local-only proof |
+| Early compression eats clues | RECESS, Ariadne Rope, Broadening, Black Hole Digest | Harvest before digest and source preserved |
+| Old source commands work | Support/Source Policy, Weight Release, Blocked Moves | Source-only state and current selected issue |
+
+## Neighbor Verdict
+
+Neighbor fit is strong enough for review artifacts. It is not strong enough for PASS or Soft Suit promotion because Home/Path remains unresolved and no user-authorized READY/CURRENT route exists.
+
+
+
+============================================================
+FILE: IDEA_HOME_ASSIGNMENT_TABLE.md
+PATH: C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146\IDEA_HOME_ASSIGNMENT_TABLE.md
+SHA256: EE17EF01E4EF26DC74E3B93103BBBB53CA1838AE04E5CCBDDC3AB1BD67105670
+============================================================
+
+# IDEA HOME ASSIGNMENT TABLE
+
+Status: HOME FINDING / REVIEW ONLY / NOT PASS  
+Rule: no useful idea is thrown away. If not needed now, it gets state, owner, priority, and return trigger.
+
+## Home Assignment Table
+
+| ID | Useful Idea | Source | Best Home Now | Owner | State | Priority | Return Trigger | Proof Need |
+|---|---|---|---|---|---|---:|---|---|
+| IHA-001 | Gate Keyring / Knotwalk as inspection method | `gate_bloat.txt` | Run-folder gate review artifacts | GATE_KEYRING_REVIEW | REVIEW_CANDIDATE | 940 | Next gate adoption or map candidate review | Filled KOFNPR on real gates |
+| IHA-002 | Ariadne Rope / Knotwalk as maze-walk method | `mule_ideas.txt` | Harvest/run-folder review lane | RECESS_REVIEW | REVIEW_CANDIDATE | 820 | Next mystery/deep scan/RECESS route | Knot notes show source, branch, return |
+| IHA-003 | KOFNPR bitstring | `gate_bloat.txt` | Gate Keyring Big List | PROOF_FINAL_JUDGE | REVIEW_HELPER | 780 | Any gate review needing compact closure | K/O/F/N/P/R row |
+| IHA-004 | No key, no gate | `gate_bloat.txt` | Gate Keyring schema | GATE_KEYRING_REVIEW | REVIEW_CANDIDATE | 900 | Gate without trigger appears | Key field present or gate parked |
+| IHA-005 | No neighbor, no route | `gate_bloat.txt`, node registry | Neighbor Fit Map | METATRON_EDGE_REVIEW | REVIEW_CANDIDATE | 910 | Gate route unclear | Neighbor or Issue Review route named |
+| IHA-006 | No proof, no PASS | `gate_bloat.txt`, work order | Final Judge gate | FINAL_JUDGE | KEEP | 930 | Any PASS claim | Evidence matches claim |
+| IHA-007 | No return-home, no done | `gate_bloat.txt`, Soft Suit map | Return-Home gate | RETURN_HOME_LEDGER | KEEP | 925 | Any object lacks closure | Return state named |
+| IHA-008 | RECESS harvest before digest | `mule_ideas.txt`, prior digest | RECESS gate review | RECESS_REVIEW | REVIEW_CANDIDATE | 780 | Next broad/strange idea task | Harvest list before digest artifact |
+| IHA-009 | Black Hole Digest only after harvest/broadening/priority | `mule_ideas.txt`, prior digest | Black Hole Digest candidate | DENSE_DIGEST_REVIEW | REVIEW_CANDIDATE | 690 | Bloat is ready to condense | Source preserved and clusters named |
+| IHA-010 | Priority parking with owner/trigger | `gate_bloat.txt`, ledgers | Set-aside and priority queue | IDEA_LEDGER | REVIEW_CANDIDATE | 835 | Any park/not-now decision | State, owner, priority, trigger |
+| IHA-011 | Dressing Room before Soft Suit change | dressing plan, `gate_bloat.txt` | Dressing-room plan | SOFT_SUIT_DRESSING_ROOM | BLOCKED_UNTIL_PATH_HOME | 875 | User resolves accepted home/path | Trial card, future diff, no-CURRENT proof |
+| IHA-012 | Path/home first | prior blockers | Issue Review / Bell | USER_DECISION_BELL | WAITING_FOR_USER | 960 | User accepts `Desktop\123\GPT_Prompts` or authorizes normalization | Read-only path/hash proof |
+| IHA-013 | Router asks task and object | `gate_bloat.txt`, Soft Suit map | Gate Keyring Big List | ROUTER | REVIEW_CANDIDATE | 900 | Next nontrivial route | Classification line |
+| IHA-014 | Front Door is not storage | `gate_bloat.txt`, node registry | Front Door gate | FRONT_GATE_START_HERE | MERGE_CANDIDATE | 830 | Root/drop clutter appears | Root clean/custody proof |
+| IHA-015 | Links Ladder is the rope | `mule_ideas.txt`, Soft Suit map/ledger | Links Ladder / Neighbor Fit | LINKS_LADDER | KEEP_AND_EXPAND | 920 | Any meaningful object | Links row |
+| IHA-016 | Stop/Fix is same-problem repair, not stop forever | `gate_bloat.txt`, map | Stop/Fix gate | STOP_FIX_VERIFY | MERGE_CANDIDATE | 850 | Correction or mismatch | Fix proof or blocker |
+| IHA-017 | Smoke Break is phase hold, not output | `gate_bloat.txt` | Phase Hold gate | SMOKE_BREAK | REVIEW_CANDIDATE | 610 | Tangle, phase boundary, pre-final | Phase state note |
+| IHA-018 | Adopt/Adapt/Park/Block gets MERGE/REVIEW too | gate list + ledger | Idea Ledger | IDEA_LEDGER | REVIEW_CANDIDATE | 780 | Any idea arrives | Disposition row |
+| IHA-019 | Bell for home/path conflict | `gate_bloat.txt`, blockers | User Decision Bell | USER_DECISION_BELL | WAITING_FOR_USER | 890 | Path/home still unresolved | Bell states decision needed |
+| IHA-020 | Stable overwrite applies to concepts | `gate_bloat.txt`, Soft Suit map | Stable Merge gate | STABLE_OVERWRITE | REVIEW_CANDIDATE | 640 | Duplicate gate/concept appears | Merge decision |
+| IHA-021 | Delivery surface is a real gate | `gate_bloat.txt` | Delivery Surface gate | DELIVERY_SURFACE | REVIEW_CANDIDATE | 710 | Output request is ambiguous | Surface decision |
+| IHA-022 | One-box output guard | `gate_bloat.txt` | Code/Delivery gate | DELIVERY_SURFACE | REVIEW_CANDIDATE | 540 | Pasteable command/handoff requested | One-block or no-block proof |
+| IHA-023 | Same-shape comparison | prior same-shape report | Proof gate | SAME_SHAPE_VERIFY | MERGE_CANDIDATE | 700 | After any candidate package | Same checks before/after |
+| IHA-024 | Old chat weight hold exception | user instruction + map | Set-aside / source hold | SOURCE_HOLD | REVIEW_CANDIDATE | 570 | Mule/user judgment completes | Source home or release pointer |
+| IHA-025 | TODO trace before boss | old TODO gate | TODO Trace gate | TODO_TRACE | MERGE_CANDIDATE | 780 | Raw work item appears | Trace fields complete |
+| IHA-026 | Active load limit | old Gear Rack Load Gate | Gear Rack Load gate | GEAR_RACK | REVIEW_CANDIDATE | 740 | Multiple live candidates compete | Load judgment |
+| IHA-027 | Retrieve similar prior cases | old Prior-Mistake gate | Prior-Mistake Retrieval gate | ROUTER_SUPPORT | REVIEW_CANDIDATE | 705 | Repeated failure or stale mix | 3-7 cases or reason none |
+| IHA-028 | Select relevant keys/tools only | old selector rule | Relevant Selector gate | ROOT_KEY_SELECTOR | MERGE_CANDIDATE | 790 | Nontrivial house work | Selected key/tool affects decision |
+| IHA-029 | No Rule King | old proof + gate bloat | Boundary gate | NO_RULE_KING | KEEP_AND_EXPAND | 920 | Any gate/tool starts commanding | Support-only proof |
+| IHA-030 | Rule-not-fired alarm | old RCE proof | RCE gate / ledger | RCE_REVIEW | REVIEW_PARTIAL | 600 | Stored rule fails to fire | Event entry and proof state |
+| IHA-031 | Boss/Ghost sorting | old TODO flow | Boss/Ghost gate | TODO_TRACE | REVIEW_CANDIDATE | 760 | Flat list or symptom pile | Parent/ghost/child map |
+| IHA-032 | Incoming file parking lanes | old parking index | Incoming File Parking gate | FRONT_GATE_START_HERE | MERGE_CANDIDATE | 720 | Incoming local file/tool/source | Lane classification |
+| IHA-033 | Graph/property/FSM/hash/bitstring fit | algorithm matrix | Algorithm Fit gate | ALGORITHM_MATRIX | REVIEW_HELPER | 500 | Gate model needs formal support | Fit decision |
+| IHA-034 | Public-safe route only | work order, node registry | Privacy Gate | PRIVACY_GATE | KEEP | 950 | Public/share/export request | Privacy scan/no-publish |
+| IHA-035 | CURRENT user-only | current map/ledger, work order | CURRENT Authority gate | CURRENT_USER_ONLY | KEEP | 955 | CURRENT-facing action | No-CURRENT-write proof |
+| IHA-036 | READY waits for user | current map/ledger, edge registry | READY/User-Move gate | READY_TO_DROP_IN_CHAT | BLOCKED_UNTIL_PATH_HOME | 875 | User requests READY prep after home decision | READY hash/current verify later |
+| IHA-037 | Unknown goes to Issue Review | node registry, work order | Unknown-to-Issue gate | ISSUE_REVIEW | KEEP | 860 | Unknown file/status/path | Unknown reason |
+| IHA-038 | Failed tools isolated | node/edge registry | Failed Tool gate | FAILED_TOOLS | KEEP | 680 | Failed helper/tool appears | Failed label/listing |
+| IHA-039 | Support mirrors inside CURRENT | prior blockers | Set-aside review | CURRENT_USER_ONLY | PARK_MULE_REVIEW | 490 | User authorizes cleanup or accepts support-only location | Read-only listing |
+| IHA-040 | Public URL route cards | prior run | Set-aside future | PROJECT_URL_PUBLIC_SAFE_MAP | PRIORITY_LATER | 495 | User asks publish/update | Privacy scan |
+| IHA-041 | Full bitstring catalog | algorithm matrix + new files | Set-aside proof helper | PROOF_FINAL_JUDGE | PRIORITY_LATER | 360 | Proof language gets ambiguous | Filled bitstring |
+| IHA-042 | Full algorithm overflow | algorithm matrix | Algorithm matrix | ALGORITHM_MATRIX | ARCHIVE_FUTURE | 180 | Bulk automation/workflow requested | Fit review |
+| IHA-043 | Fast Map Method | `mule_ideas.txt` | Set-aside rejected contender | RECESS_REVIEW | PARK_REJECTED_FOR_NOW | 210 | Very small non-mystery map task | Check no early compression risk |
+| IHA-044 | Black Hole First Method | `mule_ideas.txt` | Set-aside rejected contender | DENSE_DIGEST_REVIEW | PARK_REJECTED_FOR_NOW | 230 | Source is already harvested and safe | Source preservation proof |
+| IHA-045 | Flat Priority Board Method | `mule_ideas.txt` | Set-aside partial tool | PRIORITY_QUEUE | ADAPT_ONLY | 320 | Need ranking without route complexity | Route-home companion exists |
+
+## Home Assignment Verdict
+
+Every useful idea found has a home, even if that home is only review, set-aside, or waiting for user. No idea is thrown away. No idea is promoted to CURRENT or READY by this pass.
+
+
+
+============================================================
+FILE: SET_ASIDE_NOT_THROW_AWAY_GATE_IDEAS.md
+PATH: C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146\SET_ASIDE_NOT_THROW_AWAY_GATE_IDEAS.md
+SHA256: 2A11874050C7AE4BB3C01A27F2D323D1091482F468630ED22002C1F84DF4C0BD
+============================================================
+
+# SET ASIDE, NOT THROW AWAY - GATE IDEAS
+
+Status: PARKED / SET-ASIDE / REVIEW ONLY / NOT PASS  
+Purpose: hold weaker, blocked, duplicate, too-large, or not-now gate ideas with state, owner, priority, and return trigger.
+
+## Set-Aside Table
+
+| ID | Gate / Idea | State | Owner | Priority | Why Not Active Now | Return Trigger | Proof Need | Home |
+|---|---|---|---|---:|---|---|---|---|
+| SA-G-001 | Desktop-level path normalization | WAITING_FOR_USER | USER_DECISION_BELL | 960 | Accepted Soft Suit home/path is unresolved; cannot choose silently | User accepts actual `Desktop\123` home or asks normalization | Read-only path/hash/listing comparison | Issue Review / Bell |
+| SA-G-002 | READY map/ledger gate candidate | BLOCKED_UNTIL_PATH_HOME | SOFT_SUIT_DRESSING_ROOM | 875 | READY content could hard-code wrong home | SA-G-001 closes | Candidate diff, READY hash, no-CURRENT proof | Not created |
+| SA-G-003 | Support mirrors cleanup from CURRENT | PARK / MULE_REVIEW | CURRENT_USER_ONLY | 490 | Inside CURRENT; user-only to move or alter | User authorizes cleanup or explicitly accepts support-only location | Read-only listing and current support-only rule | CURRENT support pointer |
+| SA-G-004 | Public URL route-card expansion | PRIORITY_LATER | PROJECT_URL_PUBLIC_SAFE_MAP | 495 | No publish/public authorization | User asks public URL update | Privacy scan and public-safe local proof | Public-safe local notes |
+| SA-G-005 | Full priority formula in active map | PRIORITY_LATER | IDEA_LEDGER | 420 | Too heavy for map; useful in reports/ledger | Repeated passive parking failure | Candidate behavior test | Ledger/report |
+| SA-G-006 | Full bitstring readiness catalog | PRIORITY_LATER | PROOF_FINAL_JUDGE | 360 | Useful proof helper, too much active bloat | Proof ambiguity or candidate readiness dispute | Filled bitstring | Proof helper/report |
+| SA-G-007 | Hypergraph/metagraph/Petri/statechart gate models | ARCHIVE_FUTURE | ALGORITHM_MATRIX | 180 | Future complexity; not needed for current gate list | Bulk workflow/automation requested | Algorithm fit review | Algorithm matrix |
+| SA-G-008 | Rule engine / automation gate | BLOCKED_FUTURE | ALGORITHM_MATRIX | 160 | Automation is explicitly not authorized | User separately authorizes automation design | Runtime/automation proof plan | Algorithm matrix only |
+| SA-G-009 | Fast Map Method | PARK_REJECTED_FOR_NOW | RECESS_REVIEW | 210 | Compresses too early for mystery/house walk | Small non-mystery task where fast naming is enough | Confirm source loss risk is low | Set-aside contenders |
+| SA-G-010 | Black Hole First Method | PARK_REJECTED_FOR_NOW | DENSE_DIGEST_REVIEW | 230 | Can eat clues before harvest | Source field already harvested and source preserved | Source list and digest proof | Set-aside contenders |
+| SA-G-011 | Flat Priority Board Method | ADAPT_ONLY | PRIORITY_QUEUE | 320 | Ranks but does not keep route rope | Simple ranking task or paired with Links Ladder | Neighbor and return-home companion | Priority Queue |
+| SA-G-012 | Full Gate-of-Gates as active law | BLOCKED_UNTIL_DRESSING_ROOM | GATE_KEYRING_REVIEW | 700 | Could become king/bloat if promoted whole | Path/home closed plus Dressing Room trial | Trial card and no-rule-king proof | Review artifact |
+| SA-G-013 | Ariadne knot-note permanent file system | PRIORITY_LATER | RECESS_REVIEW | 520 | Need to test lightweight notes before creating new structure | Repeated lost-edge failure | Example knots and return-home proof | Harvest reports |
+| SA-G-014 | Old chat weight release | HOLD_WITH_EXCEPTION | SOURCE_HOLD | 570 | User asked not to throw away; current task needs old context judged | Useful meaning safely placed and user/mule judgment completes | Pointer/source state proof | Source/support pointer |
+| SA-G-015 | Root source cleanup for new root files | PRIORITY_TODO | FRONT_GATE_START_HERE | 410 | User asked to read root files, not move/delete them | User asks front-door cleanup | Hash and receipt if moved/copied | Root source pointer |
+| SA-G-016 | Public/private route publication | BLOCKED_UNTIL_AUTHORIZED | PRIVACY_GATE | 950 | No publish request and private prompt contents must not publish | Explicit publish-safe route request | Privacy scan | Local-only |
+| SA-G-017 | Current support mirror physical move | BLOCKED_UNTIL_USER_AUTH | CURRENT_USER_ONLY | 490 | Assistant/mule must not alter CURRENT | Explicit user current-cleanup authorization | Before/after listing and receipt | Current review |
+| SA-G-018 | Good but duplicate old gates | MERGE_BY_REFERENCE | IDEA_LEDGER | 350 | Duplicates current map/ledger rules | Candidate map consolidation after path/home | Same-shape comparison | Ledger/report |
+| SA-G-019 | RCE full report gate | PARTIAL / WATCH | RCE_REVIEW | 300 | Old proof says full report gate not triggered | Future house walk/full report request | RCE live-use proof | RCE review |
+| SA-G-020 | Prior mistake retrieval promotion | REVIEW_CANDIDATE | ROUTER_SUPPORT | 705 | Candidate can help but needs more live proof before promotion | Repeated route failure or mule stale mix | 3-7 case retrieval proof | Dressing Room later |
+| SA-G-021 | Gear Rack as broad active system | REVIEW_WATCH | GEAR_RACK | 500 | Gear rack can become meta-bloat | Multiple active balls compete | Load judgment showing one active ball | Gate review |
+| SA-G-022 | Boss/Ghost as full TODO rewrite | PARK | TODO_TRACE | 420 | Useful sorting, but whole TODO rewrite not asked | Flat-list failure repeats | Parent/ghost map proof | TODO review |
+| SA-G-023 | Incoming file lane expansion | PARK | FRONT_GATE_START_HERE | 390 | Current task is gate mapping, not file moving | Incoming file cleanup requested | Lane classification/listing | Parking index |
+| SA-G-024 | Public URL as proof source | BLOCK | PRIVACY_GATE | 900 | Public URL can orient but not prove local/private truth | Never as proof; only public-safe pointer | Local proof only | Blocked moves |
+| SA-G-025 | READY-as-CURRENT shortcut | BLOCK | CURRENT_AUTHORITY | 955 | Violates user-only CURRENT rule | Never; use user move then verify | Read-only verify after user move | Blocked moves |
+
+## Set-Aside Verdict
+
+The set-aside pile is alive, not dead. Each item has an owner, priority, and return trigger. Nothing here should be promoted or discarded during this clean bloat pass.
+
+
+
+============================================================
+FILE: GATE_PRIORITY_QUEUE.md
+PATH: C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146\GATE_PRIORITY_QUEUE.md
+SHA256: 33178E9B7CC62584DC98A674FCB9B91E7CDBEFFE8465A9C18ED755C3D9AA7201
+============================================================
+
+# GATE PRIORITY QUEUE
+
+Status: PRIORITY QUEUE / REVIEW ONLY / NOT PASS
+
+## Scoring Shape
+
+Score considers:
+
+- boundary risk;
+- active blocker value;
+- repeated failure prevention;
+- system leverage;
+- user waiting;
+- readiness;
+- proof readiness;
+- bloat cost;
+- promotion risk.
+
+Scores are advisory. Scores do not command action.
+
+## Priority Queue
+
+| Rank | Gate / Work Item | Score | State | Owner | Why It Ranks Here | Return Trigger | Current Action |
+|---:|---|---:|---|---|---|---|---|
+| 1 | Home / Path Gate | 960 | WAITING_FOR_USER | USER_DECISION_BELL | Blocks READY and any Soft Suit home-facing candidate | User accepts actual `Desktop\123\GPT_Prompts` or authorizes normalization | Keep REVIEW / NOT PASS |
+| 2 | CURRENT Authority Gate | 955 | KEEP | CURRENT_USER_ONLY | Hardest authority boundary; prevents assistant/mule promotion | Any CURRENT-facing action | Enforce, do not write CURRENT |
+| 3 | Privacy / Public-Safe Gate | 950 | KEEP | PRIVACY_GATE | Prevents private prompt/rule publication | Any publish/share/public URL request | Keep local-only unless authorized |
+| 4 | Gate Keyring / Knotwalk | 940 | REVIEW_CANDIDATE | GATE_KEYRING_REVIEW | Makes bloat clean by forcing key/object/filter/neighbor/proof/return | Next gate adoption review | Use in reports only |
+| 5 | Proof / Final Judge Gate | 930 | KEEP_AND_EXPAND | FINAL_JUDGE | No PASS without evidence; central to all gates | Any verdict claim | Keep REVIEW unless proof complete |
+| 6 | Return-Home Gate | 925 | KEEP_AND_EXPAND | RETURN_HOME_LEDGER | Universal closure law | Every object/gate | Require return state |
+| 7 | Links Ladder Gate | 920 | KEEP_AND_EXPAND | LINKS_LADDER | Existing route rope; connects all gate fields | Any meaningful object | Use in mapping |
+| 8 | No Rule King Gate | 920 | KEEP_AND_EXPAND | NO_RULE_KING | Prevents Gate Keyring, selector, or digest from becoming authority | Any gate starts commanding | Keep support-only |
+| 9 | Router / Object-Type Gate | 900 | REVIEW_CANDIDATE | ROUTER | Repeated mistakes start when object type is vague | New task/handoff/proof claim | Add object type to gate review |
+| 10 | Bell / User Action Gate | 890 | WAITING_FOR_USER where applicable | USER_DECISION_BELL | Home/path and READY/CURRENT need visible user decision | User-owned blocker appears | Bell, do not silently carry |
+| 11 | Hash / Receipt Manifest Gate | 880 | KEEP | PROOF_FINAL_JUDGE | Turns proof from vibe into evidence | File/proof/save claim | Require hash/readback/receipt where apt |
+| 12 | READY / User-Move Verify Gate | 875 | BLOCKED_UNTIL_PATH_HOME | READY_TO_DROP_IN_CHAT | Ready prep is allowed only after accepted home is known | Home/path closed | Then prepare READY only if requested/safe |
+| 13 | Promotion / Dressing Room Gate | 875 | BLOCKED_UNTIL_PATH_HOME | SOFT_SUIT_DRESSING_ROOM | Try-on prevents first-good-rule promotion | Home/path closed and candidate selected | Keep trial cards only |
+| 14 | Unknown To Issue Review Gate | 860 | KEEP | ISSUE_REVIEW | Prevents guessing in local truth and files | Unknown status/path/object | Route to issue review |
+| 15 | Stop / Fix / Verify Gate | 850 | MERGE_CANDIDATE | STOP_FIX_VERIFY | Repairs active break instead of narrating around it | Correction/mismatch | Use when active issue breaks |
+| 16 | Priority Parking Gate | 835 | REVIEW_CANDIDATE | IDEA_LEDGER | Prevents dead parking | Any park/not-now idea | State/owner/priority/trigger |
+| 17 | Front Door / Drop Gate | 830 | MERGE_CANDIDATE | FRONT_GATE_START_HERE | Root/drop clutter creates repeated fog | Dropped files/source | Triage, do not store |
+| 18 | Ariadne Rope / Knotwalk | 820 | REVIEW_CANDIDATE | RECESS_REVIEW | Best method for broad mystery without losing return | RECESS/deep scan | Use knot notes in harvest |
+| 19 | Priority Scoring Gate | 810 | REVIEW_CANDIDATE | PRIORITY_QUEUE | Many true ideas need order | Overflow/backlog | Score before park/digest |
+| 20 | Relevant Root Key Selector | 790 | MERGE_CANDIDATE | ROOT_KEY_SELECTOR | Selects useful keys/tools without reciting all | Nontrivial house work | Use with No Rule King |
+| 21 | RECESS Harvest Gate | 780 | REVIEW_CANDIDATE | RECESS_REVIEW | This job is explicitly clean bloat | Weird/broad task | Harvest before digest |
+| 22 | Adopt / Adapt / Park / Block Gate | 780 | MERGE_CANDIDATE | IDEA_LEDGER | Every idea needs disposition | Idea arrives | Add MERGE/REVIEW handling |
+| 23 | TODO Trace Triage Gate | 780 | MERGE_CANDIDATE | TODO_TRACE | Raw input cannot command action | TODO/work item appears | Trace first |
+| 24 | Park Closing Gate | 780 | REVIEW_CANDIDATE | PARK_CLOSING | Parked items need closure | Parked item | State/owner/trigger/proof |
+| 25 | Broadening / Loophole Gate | 760 | MERGE_CANDIDATE | WORD_BROADENING | Prevents narrow-rule bypasses | Rule/gate writing | Alias/opposite/actor/object/lane checks |
+| 26 | Source-Link / Condense Gate | 760 | MERGE_CANDIDATE | SOURCE_LINK | Preserves source before compression | Dense source | Atomize/source rows |
+| 27 | Boss/Ghost Sort Gate | 760 | REVIEW_CANDIDATE | TODO_TRACE | Stops flat list drift | Symptom pile | Parent/ghost/child classify |
+| 28 | Gear Rack Load Gate | 740 | REVIEW_CANDIDATE | GEAR_RACK | Prevents too many active balls | Multiple candidates | Choose one active/rest parked |
+| 29 | Precision Lock Gate | 720 | REVIEW_CANDIDATE | DELIVERY_SURFACE | Prevents pressure from causing wrong output | Sharp correction | Lock object/surface/boundary |
+| 30 | Incoming File Parking Gate | 720 | MERGE_CANDIDATE | FRONT_GATE_START_HERE | Prevents unsafe local moves | Incoming file | Lane classify |
+| 31 | Delivery Surface Gate | 710 | REVIEW_CANDIDATE | DELIVERY_SURFACE | File/chat/code mistakes are recurring | Output request | Choose surface |
+| 32 | Prior-Mistake Retrieval Gate | 705 | REVIEW_CANDIDATE | ROUTER_SUPPORT | Reduces repeat pain but needs bounded use | Repeated failure/stale mix | Retrieve 3-7 cases |
+| 33 | Move / Sort Authorization Gate | 700 | KEEP | FRONT_GATE_START_HERE | User cleanup words need safe interpretation | Cleanup request | Custody sorting only, not CURRENT |
+| 34 | Same-Shape Comparison Gate | 700 | MERGE_CANDIDATE | SAME_SHAPE_VERIFY | Verifies real delta | After candidate/write/report | Same surfaces before/after |
+| 35 | Black Hole Digest Gate | 690 | REVIEW_CANDIDATE | DENSE_DIGEST_REVIEW | Useful after harvest, dangerous before | Harvest complete | Digest with source preserved |
+| 36 | Support / Source Policy Gate | 690 | KEEP | SOURCE_HOLD | Stops old source from commanding | Old/support/source opened | Source-only unless selected |
+| 37 | Failed Tool Isolation Gate | 680 | KEEP | FAILED_TOOLS | Protects active lanes from bad tools | Failed helper/tool | Isolate/label |
+| 38 | Stable Overwrite / Merge Gate | 640 | REVIEW_CANDIDATE | STABLE_OVERWRITE | Reduces duplicate clutter | Same concept/file repeats | Merge/stable names |
+| 39 | Weight Release / Fog Gate | 620 | HOLD_WITH_EXCEPTION | SOURCE_HOLD | Useful but current job needs source held | Fog or old-weight pressure | Release only after meaning placed |
+| 40 | Smoke Break / Phase Hold Gate | 610 | REVIEW_CANDIDATE | SMOKE_BREAK | Useful but should remain light | Phase/tangle | Hold and resume |
+| 41 | RCE / Rule-Not-Fired Alarm Gate | 600 | REVIEW_PARTIAL | RCE_REVIEW | Catches stored-rule failure but old proof was partial | Rule fails to fire | Event/proof row |
+| 42 | Old Chat Weight Hold Gate | 570 | REVIEW_CANDIDATE | SOURCE_HOLD | Current instruction-specific | Source judgment pending | Hold until judged |
+| 43 | Code Delivery / One-Box Gate | 540 | REVIEW_CANDIDATE | DELIVERY_SURFACE | Good behavior gate but lower than authority blockers | Code/handoff surface | One block if needed |
+| 44 | Algorithm Fit Gate | 500 | REVIEW_HELPER | ALGORITHM_MATRIX | Helpful model filter, not active behavior by itself | Algorithm proposal | Fit decision |
+| 45 | Full future algorithms | 180 | ARCHIVE_FUTURE | ALGORITHM_MATRIX | Not needed now | Bulk automation/workflow request | Re-review later |
+
+## Queue Verdict
+
+The top next decision is still not a gate install. It is the Home/Path user decision. Gate bloat can continue as review mapping, but READY/CURRENT-facing movement waits.
+
+
+
+============================================================
+FILE: GATE_BLOAT_REVIEW_NOT_PASS_JUDGE.md
+PATH: C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146\GATE_BLOAT_REVIEW_NOT_PASS_JUDGE.md
+SHA256: 66C7097878D0BDB8999AA1E6D945DC638A55D86CDA797B906A54B330404BE735
+============================================================
+
+# GATE BLOAT REVIEW - NOT PASS JUDGE
+
+Final Judge: REVIEW / NOT PASS  
+Scope: clean bloat / home-finding / gate fit mapping only.  
+No install, no promotion, no CURRENT write, no Git commit, no Git push, no public/private publish.
+
+## What This Pass Did
+
+- Read the two new root files:
+  - `C:\Users\13527\Desktop\123\mule_ideas.txt`
+  - `C:\Users\13527\Desktop\123\gate_bloat.txt`
+- Used prior run context from:
+  - `C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146`
+- Checked prior reports, node registry, edge registry, algorithm fit matrix, good chip recovery, current blockers, same-shape review, final judges, priority ledgers, and set-asides.
+- Checked current Soft Suit map/ledger only as read-only context and summarized behavior rather than publishing private prompt/rule bodies.
+- Sampled old gate sources for TODO trace, gear/load, prior-mistake retrieval, rule-firing, no-rule-king, RCE, boss/ghost, relevant selector, and incoming-file parking behavior.
+- Built seven review outputs in the run folder.
+
+## Outputs Written
+
+1. `GATE_BLOAT_HARVEST_LIST.md`
+2. `GATE_KEYRING_BIG_LIST.md`
+3. `GATE_NEIGHBOR_FIT_MAP.md`
+4. `IDEA_HOME_ASSIGNMENT_TABLE.md`
+5. `SET_ASIDE_NOT_THROW_AWAY_GATE_IDEAS.md`
+6. `GATE_PRIORITY_QUEUE.md`
+7. `GATE_BLOAT_REVIEW_NOT_PASS_JUDGE.md`
+
+## Main Review Finding
+
+The house does not need a loose pile of more gates.
+
+It needs every gate to carry a keyring:
+
+`KEY -> OBJECT -> FILTER -> NEIGHBOR -> PROOF -> RETURN`
+
+That lets gate bloat stay clean. It also prevents the repeated failures found across the old and current evidence:
+
+- stored rules failing to fire;
+- gates becoming walls;
+- gates becoming kings;
+- parked ideas becoming dead;
+- proof becoming a vibe;
+- READY being treated as CURRENT;
+- source/support material acting current;
+- early compression eating useful clues;
+- public/local truth drifting together.
+
+## Best Current Gate Shape
+
+Best review candidate:
+
+`Gate Keyring / Knotwalk`
+
+Best RECESS method:
+
+`Ariadne Rope / Knotwalk`
+
+Best closure bitstring:
+
+`K O F N P R`
+
+Best short rule:
+
+`No key, no gate. No neighbor, no route. No proof, no PASS. No return-home, no done.`
+
+## Top Blocker
+
+The top blocker remains the Soft Suit home/path contradiction:
+
+- prior expected path: `C:\Users\13527\Desktop\GPT_Prompts`
+- actual inspected local home: `C:\Users\13527\Desktop\123\GPT_Prompts`
+
+Because that is unresolved, no READY/CURRENT-facing gate update should be prepared or promoted from this review.
+
+## Proof Requirements Not Complete
+
+PASS is blocked because:
+
+1. The accepted Soft Suit home/path is still waiting for user decision.
+2. No user-authorized READY candidate was prepared.
+3. No user moved anything into CURRENT.
+4. No CURRENT verification after user move exists for these gate ideas.
+5. The gate keyring has been mapped, not live-tested as active Soft Suit behavior.
+6. Private prompt/rule contents were not published, and public-safe publication was not authorized.
+7. This pass intentionally wrote review artifacts only.
+
+## Repo / Dirty Status Note
+
+`C:\Users\13527\Desktop\123` is not a git repo.
+
+Read-only check of `C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz` after the review showed pre-existing local changes:
+
+- `M PUBLIC_HOUSE_MAP.txt`
+- `?? PUBLIC_NOTES/METATRON_PARK_MAP_PUBLIC_SAFE_20260523.txt`
+
+This pass did not modify those files, did not stage them, did not commit, and did not push.
+
+## Boundaries Held
+
+- Did not write inside `CURRENT`.
+- Did not create READY files.
+- Did not treat READY as CURRENT.
+- Did not Git commit.
+- Did not Git push.
+- Did not delete source.
+- Did not publish private prompt/rule contents.
+- Did not install automation.
+- Did not claim PASS.
+- Did not promote Gate Keyring, Ariadne Rope, RECESS order, or any gate as active doctrine.
+- Did not throw away ideas; not-now ideas were assigned state, owner, priority, and return trigger.
+
+## Next Safe Move
+
+User decision remains first:
+
+`Accept C:\Users\13527\Desktop\123\GPT_Prompts as the active local Chat Soft Suit home, or authorize a path-normalization plan for C:\Users\13527\Desktop\GPT_Prompts.`
+
+After that, the clean next review route would be:
+
+1. Use the Gate Keyring to test the top five gates.
+2. Run a Dressing Room trial for a compact Soft Suit candidate.
+3. Prepare READY only if the accepted home/path is clear and user authorizes that route.
+
+## Final Verdict
+
+REVIEW / NOT PASS
+
+The gate bloat is now cleanly harvested, keyed, homed, neighbor-mapped, set aside, and prioritized. It is not installed, not promoted, and not current.
+
+

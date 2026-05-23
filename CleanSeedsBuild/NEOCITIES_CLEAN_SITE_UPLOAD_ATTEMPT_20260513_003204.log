@@ -1,0 +1,41 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260513003204
+Username: DESKTOP-P9DOBMM\13527
+RunAs User: DESKTOP-P9DOBMM\13527
+Configuration Name: 
+Machine: DESKTOP-P9DOBMM (Microsoft Windows NT 10.0.19045.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -NoExit -ExecutionPolicy Bypass -File C:\CleanSeedsBuild\Upload-NeocitiesCleanSiteGuarded.ps1 -Auth Basic
+Process ID: 5484
+PSVersion: 5.1.19041.6456
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.6456
+BuildVersion: 10.0.19041.6456
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+attempt log: C:\CleanSeedsBuild\NEOCITIES_CLEAN_SITE_UPLOAD_ATTEMPT_20260513_003204.log
+UPLOAD SET READY
+site folder: C:\CleanSeedsBuild\NEOCITIES_CLEAN_SITE
+target site: p00psticks.neocities.org
+file count: 17
+total bytes: 9291852
+
+This uploads only the public site files listed by this script.
+It does not delete remote files.
+It does not upload UPDATE_MANIFEST.ps1, UPDATE_MANIFEST.bat, local backups, receipts, or do-not-upload files.
+
+Authenticating with GET /api/list before upload...
+pre-upload remote file count: 788
+Uploading guarded public site files...
+Verifying with GET /api/list after upload...
+PASS
+receipt path: C:\CleanSeedsBuild\NEOCITIES_CLEAN_SITE_UPLOAD_RECEIPT_20260513_003227.txt
+uploaded file count: 17
+verified file count: 17
+**********************
+Windows PowerShell transcript end
+End time: 20260513003227
+**********************

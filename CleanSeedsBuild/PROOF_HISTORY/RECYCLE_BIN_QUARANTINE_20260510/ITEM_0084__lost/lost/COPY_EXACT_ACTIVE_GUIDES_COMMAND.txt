@@ -1,0 +1,75 @@
+COPY EXACT ACTIVE GUIDES COMMAND
+Purpose: copy the exact active guide candidate files from the path found in the sort report into one clean source-of-truth folder and verify hashes.
+This is a command text file, not an active rule and not proof by itself.
+
+Paste this into PowerShell with right-click or Ctrl+V.
+It does not delete old files.
+It does not run scripts from scanned folders.
+It only copies three .txt guide files and verifies hashes.
+
+$ErrorActionPreference = "Stop"
+
+$Source = "C:\CleanSeedsBuild\CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK\ACTIVE_GUIDES"
+$DestRoot = "C:\CleanSeedsBuild\MASTER_CURRENT"
+$Dest = Join-Path $DestRoot "ACTIVE_GUIDES"
+$Savepoint = Join-Path $DestRoot "SAVEPOINT"
+$Proof = Join-Path $DestRoot "PROOF_CURRENT_GUIDES.txt"
+
+$Expected = @{
+    "README_START_HERE.txt" = "313914B8942656A637260056387D99BB3D89DFDDD5886AB9422AEA92E42D3D89"
+    "CLEAN_SEED_WRAP_GUIDE.txt" = "1FA19A2BD7DEA94F1A0DFB226CB68FDC4E7423088741F8EFEE750E590EF66FD7"
+    "CLEAN_SEED_ALIGNMENT_CHECK.txt" = "943C7B21FF61EAC91908C4DAFDC282835B8D487EE0206EAA3D3F89CC09BAF610"
+}
+
+New-Item -ItemType Directory -Force -Path $Dest | Out-Null
+New-Item -ItemType Directory -Force -Path $Savepoint | Out-Null
+
+$Lines = New-Object System.Collections.Generic.List[string]
+$Lines.Add("CLEAN SEED CURRENT GUIDE COPY PROOF")
+$Lines.Add("Created: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss zzz')")
+$Lines.Add("Source: $Source")
+$Lines.Add("Destination: $Dest")
+$Lines.Add("")
+
+$AllPass = $true
+
+foreach ($Name in $Expected.Keys) {
+    $Src = Join-Path $Source $Name
+    $Dst = Join-Path $Dest $Name
+
+    if (-not (Test-Path -LiteralPath $Src)) {
+        Write-Host "FAIL missing source file: $Src"
+        $Lines.Add("FAIL missing source file: $Src")
+        $AllPass = $false
+        continue
+    }
+
+    Copy-Item -LiteralPath $Src -Destination $Dst -Force
+    $Hash = (Get-FileHash -LiteralPath $Dst -Algorithm SHA256).Hash.ToUpperInvariant()
+
+    if ($Hash -eq $Expected[$Name]) {
+        Write-Host "PASS copied and verified: $Name"
+        $Lines.Add("PASS $Name $Hash")
+    } else {
+        Write-Host "FAIL hash mismatch: $Name"
+        Write-Host "EXPECTED $($Expected[$Name])"
+        Write-Host "ACTUAL   $Hash"
+        $Lines.Add("FAIL $Name")
+        $Lines.Add("EXPECTED $($Expected[$Name])")
+        $Lines.Add("ACTUAL   $Hash")
+        $AllPass = $false
+    }
+}
+
+$Lines.Add("")
+if ($AllPass) {
+    $Lines.Add("FINAL VERDICT: PASS exact active guide set copied and verified.")
+    Write-Host "FINAL VERDICT: PASS exact active guide set copied and verified."
+} else {
+    $Lines.Add("FINAL VERDICT: FAIL do not trust MASTER_CURRENT/ACTIVE_GUIDES yet.")
+    Write-Host "FINAL VERDICT: FAIL do not trust MASTER_CURRENT/ACTIVE_GUIDES yet."
+}
+
+$Lines | Set-Content -LiteralPath $Proof -Encoding UTF8
+Write-Host "PROOF FILE: $Proof"
+Write-Host "NEXT: return the PASS/FAIL lines if you want me to judge cleanup readiness."

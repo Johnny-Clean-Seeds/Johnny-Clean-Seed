@@ -1,0 +1,352 @@
+PROJECT CLEANUP DRAFT 2A — CLEANUP RULE STRUCTURE ONLY
+
+Status:
+Draft cleanup rule structure only. No real cleanup performed.
+
+1. Source-of-truth read order confirmation
+
+Read order completed:
+1. C:\Users\13527\Desktop\Clean Milk not-BLOAT\CURRENT_TRUTH_INDEX.txt
+2. C:\Users\13527\Desktop\Clean Milk not-BLOAT\AGENTS.md
+3. C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\PROJECT_CLEANUP_DRAFT_1_SORTING_PLAN_20260510.txt
+4. C:\Users\13527\Desktop\Clean Milk not-BLOAT\PROOF_HISTORY\RECEIPT_PROJECT_CLEANUP_DRAFT_1_20260510.txt
+
+Boundary:
+This pass uses Draft 1 as the current cleanup evidence base.
+OldSchool was not inspected deeper.
+Desktop was not rescanned.
+Duplicate folders were not compared.
+No hash comparison was performed in this pass.
+
+2. Cleanup cycle order
+
+Cleanup cycle:
+SEE -> SORT -> COMPARE -> JUDGE -> PLAN -> APPROVE -> ACT -> VERIFY -> CLOSE
+
+SEE:
+Capture what exists within the approved scope.
+
+SORT:
+Put each item into a visible lane before judging value.
+
+COMPARE:
+Compare only when the lane requires it and the exact comparison proof is approved.
+
+JUDGE:
+Decide role, risk, value, and route from evidence.
+
+PLAN:
+Write the exact proposed action, target path, proof, and rollback/protection needs.
+
+APPROVE:
+Get explicit user approval for any real action.
+
+ACT:
+Perform only the approved exact action.
+
+VERIFY:
+Check target, neighbors, protected lanes, hashes when needed, and no-change claims.
+
+CLOSE:
+Write receipt, record final state, and name the next bounded route.
+
+3. Neighbor respect rule
+
+Each lane must know:
+- what comes before it
+- what comes after it
+- what it is allowed to judge
+- what it is not allowed to judge
+- what proof it needs before action
+
+Neighbor rule:
+No lane may steal authority from its neighbor.
+No lane may silently promote, archive, park, delete, compare, or declare duplicate status for another lane.
+Unknown material must stay unknown until exact proof changes its lane.
+Blocked material stays blocked until a separate approval path exists.
+Active truth stays protected unless a separate active-guide or truth-index update is approved.
+
+4. Lane authority table
+
+Lane: ACTIVE_SOURCE
+Purpose: Protect the root project source folder named by CURRENT_TRUTH_INDEX.
+Allowed evidence: CURRENT_TRUTH_INDEX, AGENTS.md, exact root path, top-level inventory, user approval.
+Blocked actions: delete, move, rename, overwrite, archive, promote, cleanup by assumption.
+Required proof before any real cleanup: exact item path, role proof, neighbor impact, backup/receipt plan, explicit user approval.
+Later possible actions: LEAVE, bounded review, exact approved maintenance only.
+Neighbor lanes: ACTIVE_GUIDE, CURRENT_TRUTH_OR_BRIDGE_RULE, PROOF_HISTORY, SAFE_TO_LEAVE, DO_NOT_TOUCH.
+Good milk condition: root remains stable and source-of-truth role is visible.
+Dirty milk warning: treating the project root as a cleanup pile.
+
+Lane: ACTIVE_GUIDE
+Purpose: Protect README_START_HERE.txt, CLEAN_SEED_WRAP_GUIDE.txt, and CLEAN_SEED_ALIGNMENT_CHECK.txt.
+Allowed evidence: CURRENT_TRUTH_INDEX, active guide file paths, guide hashes, approved guide-update plan.
+Blocked actions: edit, replace, copy over, promote recovered files by identity, delete, archive, rename.
+Required proof before any real cleanup: active guide target, exact proposed change, backup, receipt, verification markers, user approval.
+Later possible actions: LEAVE or controlled active-guide update only.
+Neighbor lanes: ACTIVE_SOURCE, CURRENT_TRUTH_OR_BRIDGE_RULE, PROOF_HISTORY, DO_NOT_TOUCH.
+Good milk condition: active guide files remain the active doctrine lane.
+Dirty milk warning: recovered or relic guides treated as active truth.
+
+Lane: CURRENT_TRUTH_OR_BRIDGE_RULE
+Purpose: Protect CURRENT_TRUTH_INDEX.txt and local bridge instructions such as AGENTS.md.
+Allowed evidence: exact file path, role text, hash, approved index or bridge-rule task.
+Blocked actions: edit, overwrite, demote, merge, delete, archive without exact approval.
+Required proof before any real cleanup: target file, reason, before hash, after hash, receipt, user approval.
+Later possible actions: LEAVE or controlled index/bridge update.
+Neighbor lanes: ACTIVE_SOURCE, ACTIVE_GUIDE, PROOF_HISTORY, DO_NOT_TOUCH.
+Good milk condition: source map and local bridge limits remain readable and authoritative for their roles.
+Dirty milk warning: treating AGENTS.md as an active guide or treating PROOF_HISTORY as current truth.
+
+Lane: PROOF_HISTORY
+Purpose: Hold receipts, maps, backups, recovery proof, parked guidance, and local durable evidence.
+Allowed evidence: file names, receipts, maps, ledgers, hashes when approved, role text when approved.
+Blocked actions: delete, compress into memory, rename, archive, merge, treat as active doctrine.
+Required proof before any real cleanup: exact path, role, redundancy proof, protected-neighbor check, approval, receipt.
+Later possible actions: LEAVE, CONTENT_REVIEW, HASH_COMPARE, ARCHIVE only after proof.
+Neighbor lanes: RECEIPT, MAP_OR_LEDGER, BACKUP, ACTIVE_GUIDE, CURRENT_TRUTH_OR_BRIDGE_RULE.
+Good milk condition: proof stays durable and separated from active doctrine.
+Dirty milk warning: cleanup that loses proof history or turns proof into vague memory.
+
+Lane: BACKUP
+Purpose: Preserve rollback/proof copies created before changes.
+Allowed evidence: backup folder/file name, creation context, receipt, hash comparison when approved.
+Blocked actions: delete, overwrite, merge into active files, assume duplicate without hash.
+Required proof before any real cleanup: source backup role, matching active state if relevant, hash proof, archive target, approval.
+Later possible actions: LEAVE, HASH_COMPARE, ARCHIVE, CONTENT_REVIEW.
+Neighbor lanes: PROOF_HISTORY, LIKELY_DUPLICATE_NEEDS_HASH_COMPARE, MAP_OR_LEDGER.
+Good milk condition: backups remain available until their proof role is closed.
+Dirty milk warning: calling backups clutter before rollback value is proven unnecessary.
+
+Lane: RECEIPT
+Purpose: Preserve proof that an action happened or did not happen.
+Allowed evidence: receipt filename, receipt contents when approved, linked task.
+Blocked actions: delete, merge, rename, summarize-only replacement, archive without map.
+Required proof before any real cleanup: linked action closed, duplicate receipt proof, hash/role compare, approval.
+Later possible actions: LEAVE, MAP_OR_LEDGER review, ARCHIVE after proof.
+Neighbor lanes: PROOF_HISTORY, MAP_OR_LEDGER, BACKUP.
+Good milk condition: action proof remains findable and durable.
+Dirty milk warning: removing receipts because they look repetitive.
+
+Lane: MAP_OR_LEDGER
+Purpose: Hold plans, inventories, ledgers, comparisons, readiness checks, and closure reports.
+Allowed evidence: map/ledger/report names, task linkage, receipt linkage, content review when approved.
+Blocked actions: delete, rewrite, treat as active doctrine, use without checking status.
+Required proof before any real cleanup: exact role, current/old relation, duplication check, receipt, approval.
+Later possible actions: LEAVE, CONTENT_REVIEW, HASH_COMPARE, ARCHIVE after proof.
+Neighbor lanes: PROOF_HISTORY, RECEIPT, BACKUP, UNKNOWN_NEEDS_REVIEW.
+Good milk condition: maps and ledgers explain state without controlling active doctrine by themselves.
+Dirty milk warning: letting a draft map act like an approved cleanup action.
+
+Lane: UPLOAD_PACKET
+Purpose: Hold copied files prepared for upload/chat drop.
+Allowed evidence: manifest, source/destination hashes, receipt, packet folder name.
+Blocked actions: promote as active truth, overwrite, delete, archive without checking hash/role.
+Required proof before any real cleanup: manifest match, source still protected, no unique evidence, approval.
+Later possible actions: LEAVE, PARK, ARCHIVE, HASH_COMPARE.
+Neighbor lanes: ACTIVE_SOURCE, PROOF_HISTORY, LIKELY_DUPLICATE_NEEDS_HASH_COMPARE.
+Good milk condition: upload copies remain clearly non-authoritative.
+Dirty milk warning: confusing chat-drop copies with the real active files.
+
+Lane: STAGING_OR_TEMP
+Purpose: Hold temporary or staging material that may need review before route decisions.
+Allowed evidence: staging names, manifests, receipts, timestamps, approved inventory.
+Blocked actions: delete, merge, promote, archive, treat as final.
+Required proof before any real cleanup: owner lane, current need, duplicate/unique status, approval.
+Later possible actions: CONTENT_REVIEW, PARK, ARCHIVE, USER_DECISION.
+Neighbor lanes: UNKNOWN_NEEDS_REVIEW, MAP_OR_LEDGER, PROOF_HISTORY.
+Good milk condition: staging stays temporary and bounded.
+Dirty milk warning: temporary material becoming hidden active doctrine.
+
+Lane: RELIC_SOURCE_ORE
+Purpose: Hold old/relic material such as OldSchool as source-ore only.
+Allowed evidence: intake map, top-level metadata, exact path, user-approved content review.
+Blocked actions: promote by identity, edit, delete, move, rename, execute, deeper scan without approval.
+Required proof before any real cleanup: exact item path, source-ore role, review scope, hash/content plan, approval.
+Later possible actions: CONTENT_REVIEW, HASH_COMPARE, PARK, ARCHIVE after proof.
+Neighbor lanes: LOCALBOT_OR_OLDBOT, IMAGE_REFERENCE, SHORTCUT_BLOCKED, ACTIVE_GUIDE.
+Good milk condition: relic material stays useful but non-authoritative.
+Dirty milk warning: old files overriding current truth because they look familiar.
+
+Lane: LOCALBOT_OR_OLDBOT
+Purpose: Separate LocalBot/OldBot material from Clean Seed active guide truth.
+Allowed evidence: top-level names, intake map, approved content review.
+Blocked actions: promote into Clean Seed, execute commands/shortcuts, merge with active guides, delete.
+Required proof before any real cleanup: exact lane reason, relation to Clean Seed, no executable action, approval.
+Later possible actions: CONTENT_REVIEW, PARK, ARCHIVE, USER_DECISION.
+Neighbor lanes: RELIC_SOURCE_ORE, SHORTCUT_BLOCKED, UNKNOWN_NEEDS_REVIEW.
+Good milk condition: LocalBot stays separated unless a bridge is explicitly approved.
+Dirty milk warning: LocalBot evidence becoming a fourth active guide lane.
+
+Lane: IMAGE_REFERENCE
+Purpose: Hold image material as possible visual reference only.
+Allowed evidence: file name, extension, metadata, approved visual review.
+Blocked actions: promote as doctrine, delete, archive without role proof, infer content from name alone.
+Required proof before any real cleanup: exact image role, whether unique, approval for visual/content review.
+Later possible actions: CONTENT_REVIEW, PARK, ARCHIVE, USER_DECISION.
+Neighbor lanes: RELIC_SOURCE_ORE, UNKNOWN_NEEDS_REVIEW.
+Good milk condition: images remain references unless reviewed.
+Dirty milk warning: image names used as doctrine proof.
+
+Lane: SHORTCUT_BLOCKED
+Purpose: Block shortcut-like items from execution or accidental launch.
+Allowed evidence: .lnk extension, shortcut-like name, approved metadata inventory.
+Blocked actions: open, execute, launch, follow target, rename into use, delete without gate.
+Required proof before any real cleanup: exact path, blocked status, user approval, separate blocked-item plan.
+Later possible actions: BLOCK, USER_DECISION, later delete gate only after exact proof.
+Neighbor lanes: SCRIPT_OR_COMMAND_BLOCKED, LOCALBOT_OR_OLDBOT, RELIC_SOURCE_ORE.
+Good milk condition: shortcuts are identified but not opened.
+Dirty milk warning: inspecting a shortcut by launching it.
+
+Lane: ZIP_BLOCKED
+Purpose: Block archives from extraction or hidden content assumptions.
+Allowed evidence: archive extension, metadata, approved inventory.
+Blocked actions: extract, execute contents, merge, delete without gate, promote contained files.
+Required proof before any real cleanup: exact archive path, extraction plan if ever approved, quarantine route, approval.
+Later possible actions: BLOCK, CONTENT_REVIEW via quarantine plan, USER_DECISION.
+Neighbor lanes: SCRIPT_OR_COMMAND_BLOCKED, UNKNOWN_NEEDS_REVIEW, PROOF_HISTORY.
+Good milk condition: archives remain sealed unless a safe plan is approved.
+Dirty milk warning: extracting a zip during cleanup discovery.
+
+Lane: SCRIPT_OR_COMMAND_BLOCKED
+Purpose: Block script, command, executable, installer, or command-looking material.
+Allowed evidence: extension/name metadata and approved inventory.
+Blocked actions: run, execute, install, open in a way that triggers execution, rename into use.
+Required proof before any real cleanup: exact path, inert handling plan, user approval.
+Later possible actions: BLOCK, USER_DECISION, later delete gate only after exact proof.
+Neighbor lanes: SHORTCUT_BLOCKED, ZIP_BLOCKED, LOCALBOT_OR_OLDBOT.
+Good milk condition: executable risk is visible and inert.
+Dirty milk warning: treating command-looking items as harmless text without proof.
+
+Lane: UNKNOWN_NEEDS_REVIEW
+Purpose: Hold items whose role cannot be determined from name/top-level metadata alone.
+Allowed evidence: name, path, type, location, approved content review when requested.
+Blocked actions: delete, archive, promote, merge, call duplicate, call trash.
+Required proof before any real cleanup: content review scope, exact target, role decision, approval.
+Later possible actions: CONTENT_REVIEW, USER_DECISION, PARK, BLOCK.
+Neighbor lanes: STAGING_OR_TEMP, MAP_OR_LEDGER, IMAGE_REFERENCE, RELIC_SOURCE_ORE.
+Good milk condition: unknown stays unknown until reviewed.
+Dirty milk warning: uncertainty converted into cleanup action.
+
+Lane: LIKELY_DUPLICATE_NEEDS_HASH_COMPARE
+Purpose: Hold same-looking or copy-looking items until identity is proven.
+Allowed evidence: name similarity, copy label, path relation, approved hash comparison.
+Blocked actions: call duplicate, delete, archive, replace, merge before hash/role proof.
+Required proof before any real cleanup: hashes, sizes, paths, role comparison, uniqueness check, approval.
+Later possible actions: HASH_COMPARE, CONTENT_REVIEW, ARCHIVE, PARK, USER_DECISION.
+Neighbor lanes: BACKUP, UPLOAD_PACKET, RELIC_SOURCE_ORE, PROOF_HISTORY.
+Good milk condition: duplicate claims require proof.
+Dirty milk warning: same name treated as same value.
+
+Lane: SAFE_TO_LEAVE
+Purpose: Mark items that should remain untouched in current cleanup scope.
+Allowed evidence: source-of-truth role, active lane role, receipt, user direction.
+Blocked actions: cleanup action, archive, delete, move, rename.
+Required proof before any real cleanup: new explicit task that changes the lane status.
+Later possible actions: LEAVE.
+Neighbor lanes: ACTIVE_SOURCE, ACTIVE_GUIDE, PROOF_HISTORY, DO_NOT_TOUCH.
+Good milk condition: protected stable items are not repeatedly churned.
+Dirty milk warning: re-opening stable items without a new reason.
+
+Lane: DO_NOT_TOUCH
+Purpose: Mark items outside scope, protected by rule, or blocked by missing key.
+Allowed evidence: explicit user boundary, AGENTS.md, no-key rule, protected path.
+Blocked actions: inspect, edit, move, delete, archive, promote, execute, compare without permission.
+Required proof before any real cleanup: new explicit user key and exact scope.
+Later possible actions: none until key changes.
+Neighbor lanes: ACTIVE_SOURCE, ACTIVE_GUIDE, CURRENT_TRUTH_OR_BRIDGE_RULE, SAFE_TO_LEAVE.
+Good milk condition: no-key boundaries are respected.
+Dirty milk warning: visible path treated as permission.
+
+5. Real cleanup gates
+
+Content review gate:
+Requires exact file/folder path, reason for reading contents, allowed depth, blocked action list, and user approval.
+
+Hash compare gate:
+Requires exact candidates, hash algorithm, read-only hash action, comparison fields, and user approval.
+
+Archive gate:
+Requires exact source path, exact archive/parking destination, uniqueness proof, neighbor check, receipt, and user approval.
+
+Park gate:
+Requires exact item path, parking reason, parking destination or status file, no-promotion statement, and user approval.
+
+Delete gate:
+Requires exact target path, proof of redundancy, proof it is outside protected lanes, receipt, post-delete verify, and explicit user approval.
+
+Blocked item gate:
+Requires item stays inert, no execution/opening, exact path, risk reason, and a later user decision before any action.
+
+Active guide protection gate:
+Requires backup, exact proposed guide change, source evidence, role fit, verification markers, receipt, and user approval.
+
+Proof-history protection gate:
+Requires proof role review before any archive/park/delete. Proof is not compressed into memory.
+
+OldSchool source-ore gate:
+Requires no deeper scan unless approved, no promotion by identity, no edits, no execution, and clear relic/source-ore labeling.
+
+LocalBot separation gate:
+Requires LocalBot/OldBot material stay separate from Clean Seed active guide truth unless an explicit bridge task is approved.
+
+Unknown item review gate:
+Requires unknowns to remain parked until exact content review or user decision gives them a lane.
+
+6. Iteration and refinement rule
+
+Cleanup must repeat draft scans and reviews until:
+- lanes are exact
+- targets are exact paths
+- actions are exact
+- no item is called duplicate without hash proof
+- no unknown is treated as trash
+- no source-ore is promoted by identity
+- no proof/history is compressed into vague memory
+- user approval is explicit for any real action
+
+Each iteration must state what it reads, what it does not read, what it changes, what it does not change, and what exact next draft or gate is proposed.
+
+7. Good milk review questions
+
+- Does this reduce interlinking complexity?
+- Does each lane have one job?
+- Does each lane respect neighbors?
+- Does the route flow in one direction?
+- Are action gates separated from judgment gates?
+- Is any action happening too early?
+- Are active guides protected?
+- Is current truth protected?
+- Is OldSchool still source-ore only?
+- Is LocalBot kept separate from Clean Seed active guide truth?
+- Are shortcuts/scripts/zips blocked?
+- Are deletion and archive still blocked until exact proof?
+
+8. Suggested next draft after approval
+
+PROJECT CLEANUP DRAFT 2B — RESCAN USING APPROVED RULE STRUCTURE
+
+Suggested route:
+Use this rule structure as the review frame.
+Then perform a new approved metadata-only rescan that applies the lane authority table without changing anything.
+Do not compare, archive, park, move, delete, or promote in Draft 2B unless the user explicitly changes the task.
+
+9. Safety confirmation
+
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+OldSchool changed: NO
+OldSchool deeper content inspected: NO
+Desktop rescanned: NO
+Duplicate folders compared: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Existing files overwritten: NO
+Files archived: NO
+Files parked: NO
+Files promoted: NO
+Scripts run: NO
+Zip files extracted: NO
+Shortcuts executed: NO
+Real cleanup performed: NO

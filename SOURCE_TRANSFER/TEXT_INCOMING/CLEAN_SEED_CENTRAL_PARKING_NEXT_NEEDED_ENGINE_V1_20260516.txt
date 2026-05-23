@@ -1,0 +1,263 @@
+CLEAN SEED — CENTRAL PARKING AND NEXT-NEEDED ENGINE V1
+Created: 2026-05-16
+Status: center-engine spec / proof-history first / candidate for live-use test
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+CORE PURPOSE
+This engine lets Clean Seed hold many ideas without making the user or assistant carry the whole pile.
+
+It answers:
+What is the active concept?
+What is needed now?
+What will be needed next because of this?
+Which run should happen?
+What proof says the run worked?
+
+CORE LINE
+Park everything.
+Center one concept.
+Predict the next need.
+Run the smallest proof.
+Verify before trust.
+
+WHY THIS EXISTS
+Creative work creates sparks faster than a linear chat can hold them.
+
+Without a center engine:
+- good ideas become fog
+- jokes can become accidental missions
+- cleanup can hijack discovery
+- public notes can pretend to be local truth
+- reports can multiply without reducing strain
+- the assistant can answer from momentum instead of need
+
+With a center engine:
+- ideas park cleanly
+- the current concept stays visible
+- the next needed move is chosen from structure
+- verification replaces confidence
+- big thoughts can run on big machines without becoming chaos
+
+ENGINE PARTS
+
+1. INTAKE DESK
+Every new item enters here first.
+
+Possible item types:
+- idea
+- question
+- correction
+- file
+- proof output
+- error
+- cleanup candidate
+- public-facing need
+- local-work need
+- algorithm candidate
+- play/joke/metaphor
+- worker/tool output
+- staleness signal
+- risk signal
+
+Intake rule:
+No item becomes the mission just because it appeared.
+
+2. PARKING LOTS
+Each item gets a findable place.
+
+Core lots:
+- Active Center Lot
+- Current Support Lot
+- Future Idea Lot
+- Algorithm Candidate Lot
+- Proof Lot
+- Public Lot
+- Local Work Lot
+- Worker/Tool Lot
+- Cleanup Waiting Lot
+- Quarantine Lot
+- Play/Metaphor Lot
+- Blocked Lot
+- Thinking Point Lot
+
+Parking rule:
+Unknown value parks.
+It does not become trash.
+
+3. ACTIVE CENTER
+Only one main concept sits in the center at a time.
+
+Center card fields:
+- active concept
+- current need
+- why now
+- what it touches
+- blocked lanes
+- proof needed
+- candidate next runs
+- stop condition
+
+Center rule:
+If the active concept is unclear, stop and name it before running.
+
+4. NEXT-NEEDED DETECTOR
+This is the heart of the engine.
+
+Ask in order:
+- What is needed now?
+- What does this need depend on?
+- What will become needed if this succeeds?
+- What will become needed if this fails?
+- What is blocked until this is proven?
+- What proof would reduce the most fog?
+- What move makes the next move lighter, clearer, safer, or larger?
+
+The next needed move is not the loudest idea.
+It is the move that unlocks the cleanest next state.
+
+5. CANDIDATE RUN GENERATOR
+Generate possible runs before choosing one.
+
+Run candidates may be:
+- proof run
+- comparison run
+- staleness run
+- board refresh
+- public-front-door run
+- local triage run
+- parking run
+- algorithm test
+- closeout run
+- thinking-point run
+- yield/block decision
+
+Candidate rule:
+Do not run the first idea automatically.
+Compare routes.
+
+6. RUN SELECTION TOURNAMENT
+Compare candidate runs by:
+- fog reduction
+- value unlocked
+- risk if skipped
+- proof availability
+- user strain
+- reversibility
+- scope control
+- blocked-lane protection
+- next-needed clarity
+- algorithm learning value
+
+Winner rule:
+Choose the smallest run that creates the strongest next state.
+
+7. VERIFICATION GATE
+After every run, ask:
+- What did it prove?
+- What did it not prove?
+- Did it reduce fog?
+- Did it reveal the next need?
+- Did it park or preserve loose ideas?
+- Did it avoid authority drift?
+- Did it avoid cleanup/delete/install drift?
+- Did it keep public and local truth separate?
+- Did it make the next move easier to choose?
+
+No PASS without evidence.
+
+8. BOARD UPDATE
+After verification, update the visible route.
+
+Board update may include:
+- active priority changed
+- board still current
+- board stale at edge
+- blocked lane added
+- parking lot changed
+- next clean gate changed
+- thinking point reached
+
+Board rule:
+The board is display, not authority.
+
+9. THINKING POINT
+Stop when:
+- the next move is a real fork
+- the run chain stops reducing fog
+- cleanup/install/delete appears
+- public wording needs judgment
+- a major architecture decision appears
+- the system needs user choice, not more reports
+
+Thinking point rule:
+Do not keep running because movement feels good.
+
+B / A / C OPERATING SPLIT
+B — Systems Doctor drives.
+Use B for normal work, run selection, system diagnosis, and next-step judgment.
+
+A — Edge Inspector audits.
+Use A before PASS, closeout, publish, cleanup, promotion, or risky transition.
+
+C — Quick Scout parked.
+Use C only if testing lowest-bar public readability.
+
+PLAY-DRIFT GUARD
+Play is allowed.
+Play is not authority.
+
+Jokes, nicknames, wizard talk, metaphors, and excitement must not become files, reports, doctrine, cleanup, commands, or missions without direct build instruction.
+
+If play appears:
+- enjoy it
+- classify it
+- park it if useful
+- return to the active center before building
+
+LOCAL VS PUBLIC BOUNDARY
+Public files can carry public handoff state.
+Local truth still needs local proof:
+- path
+- hash
+- PowerShell output
+- Git remote check
+- receipt
+- approval
+
+PUBLIC FRONT DOOR RELATION
+The public front door is the doorway.
+This engine is the workbench.
+
+Doorway order:
+1. Public Front-Door Map
+2. Handoff Card
+3. Current Board
+4. Proof reports only as needed
+
+Engine order:
+1. Intake
+2. Park
+3. Center
+4. Detect next need
+5. Generate candidate runs
+6. Select run
+7. Verify
+8. Update board
+9. Repeat or stop
+
+FIRST LIVE TEST
+Feed this engine the current project state.
+
+Expected next live-test question:
+Given Runs 001 through 012, what is the next needed run, and why?
+
+The engine should not answer by momentum.
+It should compare candidates and choose the move that reduces the most fog with the smallest clean action.
+
+CLEAN LINE
+Park everything.
+Center one concept.
+Predict the next need.
+Run the smallest proof.
+Verify before trust.
+B drives. A audits. C parked.

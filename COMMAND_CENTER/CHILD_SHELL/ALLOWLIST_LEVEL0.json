@@ -1,0 +1,19 @@
+{
+  "level": 0,
+  "allowed_actions": [
+    "probe_child_shell_route"
+  ],
+  "blocked": [
+    "git",
+    "mr_kleen_write",
+    "doctrine_install",
+    "active_guides_rewrite",
+    "current_truth_index_rewrite",
+    "raw_shell",
+    "delete",
+    "overwrite_outside_child_shell",
+    "permission_expansion",
+    "junction_symlink_teleporter",
+    "network_service"
+  ]
+}

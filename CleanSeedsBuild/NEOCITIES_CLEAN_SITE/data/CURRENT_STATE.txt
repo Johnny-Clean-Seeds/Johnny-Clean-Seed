@@ -1,0 +1,60 @@
+CLEAN SEED MODEL V1 — CURRENT STATE
+
+Generated:
+2026-05-11 18:05:33
+
+ACTIVE BALL:
+Build CLEAN SEED MODEL V1.
+
+STATION:
+CAPTURE / COLLECT -> INVENTORY -> SORT -> REPORT.
+
+PROJECT HOUSE:
+[LOCAL_PATH_REMOVED]
+Folders: 192
+Files: 670
+Size MB: 15.946
+
+SHED:
+[LOCAL_PATH_REMOVED]
+Exists: True
+Folders: 7
+Files: 113
+Size MB: 31.894
+
+MODEL OUTPUT:
+[LOCAL_PATH_REMOVED]
+
+SAFE FILES COPIED:
+[LOCAL_PATH_REMOVED]
+
+WHAT THIS MODEL DOES:
+It creates a readable front desk for ChatGPT.
+It indexes the project house and the shed separately.
+It copies only selected safe files into SAFE_FILES.
+It does not expose the raw house or raw shed by default.
+
+WHAT THIS MODEL DOES NOT DO:
+No delete.
+No move.
+No rename.
+No cleanup.
+No promotion.
+No active-guide edit.
+No CURRENT_TRUTH_INDEX edit.
+No whole-PC scan.
+No Desktop broad scan.
+No Downloads scan.
+
+NEXT GATE:
+Send ChatGPT these files:
+- CURRENT_STATE.txt
+- NEXT_GATE.txt
+- state.json
+- PROJECT_MANIFEST.json
+- SHED_INDEX.json
+- GAP_TODO_MATCHES.json
+
+Then ChatGPT can judge what the folder says without the user manually explaining the whole project.
+
+

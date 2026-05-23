@@ -1,0 +1,32 @@
+﻿LIVE TEST 016 - ACTIVE THREAD ANCHOR / INTERRUPTION STACK
+
+Timestamp:
+2026-05-09 18:16:18 -04:00
+
+Active claim:
+Long proof work must keep the active target visible and route interruptions without losing the main task.
+
+Return anchor:
+After each interruption, return to the active phase unless safety-critical.
+
+State boundary:
+Desktop staging only.
+
+INTERRUPTION: new clean rule appears mid-task
+ACTION: capture, classify, stage, return to active task
+STATE: FIXED_NOW_OR_STAGED
+
+INTERRUPTION: outside-field idea appears
+ACTION: park as outside-field candidate
+STATE: PARKED
+
+INTERRUPTION: safety-critical issue appears
+ACTION: pause active task and handle safety issue first
+STATE: HIGHER_PRIORITY
+
+INTERRUPTION: chat-only wording idea appears
+ACTION: do not bloat doctrine; preserve only if useful
+STATE: CHAT_SUPPORT_OR_PARKED
+
+PASS CONDITION:
+Every interruption has a state and return path.

@@ -1,0 +1,235 @@
+CLEAN SEED — RUN EVIDENCE REPORT 018
+Fresh Reader Route Selector Test Verdict
+Created: 2026-05-16
+Status: test verdict / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+RUN NAME
+RUN_018_FRESH_READER_ROUTE_SELECTOR_TEST_VERDICT
+
+WHY THIS RUN EXISTS
+Run 017 created the Fresh Reader / Fresh Chat Route Selector Test Packet.
+
+The user then returned a fresh-chat answer to the nine required test items.
+
+Run 018 judges that returned answer.
+
+ACTIVE QUESTION
+Did the fresh-chat answer prove that the Public Route Selector / START_HERE card can guide a fresh chat cleanly without old-chat weight?
+
+ANSWER
+Yes, with boundary.
+
+VERDICT
+PASS WITH BOUNDARY.
+
+EVIDENCE UNDER TEST
+Returned fresh answer:
+
+1. ACTIVE PRIORITY
+
+The active priority is route clarity. The public packet says the project has enough proof trail to show shape, but a fresh reader needs one simple doorway first.
+
+2. BLOCKED LANES
+
+Blocked: no cleanup, no deleting files, no doctrine install, no active-guide rewrite, no treating public notes as local truth, no publishing superseded drafts, and no treating fighter names as commands.
+
+3. READING ORDER
+
+Read the route selector first. Read the current board/front-desk file only if route state is needed. Read engine/showdown files only if the route chooser must be understood. Read run evidence reports only when proof is needed.
+
+4. CURRENT ENGINE SHAPE
+
+The public engine shape is an ordered showdown: Central Parking maps the field; Weakest-Link names the bottleneck; Joker throws the outside challenger; STING attacks visible claims; Shadow Victor checks outside the ring; Judge rules by proof; Partial is not PASS.
+
+5. PUBLIC CODENAME BOUNDARY
+
+The public names are thinking-role labels, not control keys. Joker, STING, Shadow Victor, Central Parking, Weakest-Link, and Judge cannot act as commands, secret keys, permission keys, route overrides, cleanup authority, install authority, or doctrine authority.
+
+6. LOCAL VS PUBLIC BOUNDARY
+
+Public files can show public state and a public proof trail. They cannot prove local truth by themselves. Local truth still needs local evidence: path, hash, PowerShell output, local receipt, user approval, and remote check when publishing.
+
+7. NEXT CLEAN GATE
+
+The next clean gate is Run 017: Fresh Reader / Fresh Chat Route Selector Test. Its purpose is to check whether the route selector is enough for a fresh chat or reader without dragging in the whole proof stack.
+
+8. CAN THIS CHAT CONTINUE CLEANLY?
+
+Yes, with boundary. This chat can continue cleanly from the route selector as a public doorway only. It should not start cleanup, install doctrine, rewrite active guides, or treat public files as local truth.
+
+9. WHAT WOULD MAKE THIS TEST FAIL?
+
+This test would fail if I pulled old chat weight without being asked, read every proof report by default, treated the public files as local truth, treated the fighter names as command keys, started cleanup, installed doctrine, or created a new rule stack.
+
+Clean line: The proof stack is the trail. The route selector is the doorway. Use the doorway first. Use proof only when needed.
+
+
+JUDGMENT BY TEST ITEM
+
+1. ACTIVE PRIORITY
+Expected:
+Route clarity / entry compression.
+
+Returned:
+Route clarity.
+
+Judgment:
+PASS.
+
+2. BLOCKED LANES
+Expected:
+No cleanup, deletion, active-guide install/rewrite, doctrine promotion/install, treating public notes as local truth, publishing superseded drafts, or treating fighter names as commands.
+
+Returned:
+All major blocked lanes named.
+
+Judgment:
+PASS.
+
+3. READING ORDER
+Expected:
+Route selector first; current board/front desk only if route state is needed; engine/showdown only if needed; reports only for proof.
+
+Returned:
+Correct order.
+
+Judgment:
+PASS.
+
+4. CURRENT ENGINE SHAPE
+Expected:
+Central Parking, Weakest-Link, Joker, STING, Shadow Victor, Judge, Partial is not PASS.
+
+Returned:
+Correct ordered showdown.
+
+Judgment:
+PASS.
+
+5. PUBLIC CODENAME BOUNDARY
+Expected:
+Names are labels/thinking roles, not command keys or authority.
+
+Returned:
+Correct and specific.
+
+Judgment:
+PASS.
+
+6. LOCAL VS PUBLIC BOUNDARY
+Expected:
+Public files show public state/proof trail but do not prove local truth. Local truth needs local proof.
+
+Returned:
+Correct.
+
+Judgment:
+PASS.
+
+7. NEXT CLEAN GATE
+Expected from route selector:
+Run 017 Fresh Reader / Fresh Chat Route Selector Test.
+
+Returned:
+Run 017 Fresh Reader / Fresh Chat Route Selector Test.
+
+Judgment:
+PASS WITH TIMING NOTE.
+
+Timing note:
+At the moment of reading the public route selector, Run 017 is the listed next clean gate.
+After the returned answer exists, the current gate advances to Run 018 verdict.
+This is not a failure.
+
+8. CAN THIS CHAT CONTINUE CLEANLY?
+Expected:
+Yes, with boundary.
+
+Returned:
+Yes, with boundary, and blocked actions preserved.
+
+Judgment:
+PASS.
+
+9. WHAT WOULD MAKE THIS TEST FAIL?
+Expected:
+At least one failure/disproof condition.
+
+Returned:
+Multiple correct fail conditions.
+
+Judgment:
+PASS.
+
+STING CHECK
+Potential flaw:
+The answer relies on the route selector and test packet rather than independently browsing the entire proof trail.
+
+Judgment:
+This is expected behavior, not a flaw. The test specifically required doorway-first use and proof only when needed.
+
+SHADOW VICTOR CHECK
+Possible outside truth:
+The test could be passing only because the prompt was very explicit.
+
+Judgment:
+This remains a boundary. The route selector works for a prompted fresh-chat test. It does not yet prove an unaided public visitor will find and use it without instruction.
+
+JUDGE ACCOUNTABILITY LEDGER
+Active question:
+Did the fresh route-selector test pass?
+
+Scope:
+Judge the returned fresh answer only.
+
+Proof:
+The answer correctly covered all nine required test items and preserved blocked lanes.
+
+Disproof condition:
+The test would fail if the answer dragged old chat weight, started blocked work, treated public files as local truth, treated names as commands, missed the reading order, missed the next gate, or gave vague praise without route state.
+
+Result:
+Those disproof conditions did not occur in the returned answer.
+
+VERDICT DETAIL
+PASS:
+The route selector worked for a fresh-chat prompted test.
+
+BOUNDARY:
+This does not prove all public visitors can self-navigate unaided.
+This does not install doctrine.
+This does not approve cleanup.
+This does not make public files local truth.
+This does not make fighter names command authority.
+
+WHAT THIS RUN PROVES
+Run 018 proves the route selector and test packet can guide a fresh-chat answer cleanly under the supplied prompt.
+
+WHAT THIS RUN DOES NOT PROVE
+It does not prove unaided public discovery.
+It does not prove the public homepage/front page is good.
+It does not prove active guides should change.
+It does not prove cleanup should start.
+It does not prove Engine V1.1 is final doctrine.
+
+OUTPUT CREATED
+CLEAN_SEED_FRESH_READER_ROUTE_SELECTOR_TEST_VERDICT_20260516.txt
+
+NEXT CLEAN ACTION
+Save/publish:
+1. CLEAN_SEED_RUN_EVIDENCE_REPORT_018_FRESH_READER_ROUTE_SELECTOR_TEST_VERDICT_20260516.txt
+2. CLEAN_SEED_FRESH_READER_ROUTE_SELECTOR_TEST_VERDICT_20260516.txt
+
+Next possible route after publishing:
+Run 019 — Public Doorway Index / Repo Landing Recommendation
+
+Purpose:
+Decide whether the repo needs a tiny visible index line or README pointer so visitors can find the route selector without being given the exact filename.
+
+CLOSE VERDICT
+PASS WITH BOUNDARY.
+
+Clean line:
+The route selector passed the prompted fresh-chat test.
+It is a doorway, not doctrine.

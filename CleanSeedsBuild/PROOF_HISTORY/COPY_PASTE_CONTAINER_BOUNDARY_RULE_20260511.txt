@@ -1,0 +1,39 @@
+COPY-PASTE CONTAINER BOUNDARY / NO FAKE TRANSFER BLOCK
+
+Status:
+Proof-history-only rule candidate.
+Not active guide doctrine.
+Not current truth.
+Not promotion.
+Not cleanup authority.
+
+Core rule:
+Copy-paste/code-style blocks are only for material the user needs to run, transfer, save, or copy exactly.
+
+Allowed uses:
+1. Commands to run.
+2. Technician / homie prompts to transfer.
+3. File contents being saved.
+4. Exact text the user explicitly needs to copy.
+
+Blocked uses:
+1. Normal chat state.
+2. Explanatory material.
+3. Internal tracking rows.
+4. Status rows meant only for understanding.
+5. Structured text that looks like a task packet but is not meant to be sent or run.
+
+Why:
+A copy-paste block creates a transfer signal.
+If the assistant puts normal state tracking inside a copy block, the user may think it is something to send back, run, or hand off.
+That creates disconnect and needless friction.
+
+Clean state:
+Status rows for understanding stay in normal chat.
+Copy blocks are used only when there is a clear transfer, run, save, or exact-copy reason.
+
+Dirty state:
+A status row in a copy block becomes a fake task packet and causes confusion.
+
+Short law:
+No fake transfer blocks.

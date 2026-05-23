@@ -1,0 +1,24 @@
+NEOCITIES READER FLOW FIX RECEIPT
+STATUS: LOCAL PASS
+CREATED_AT_LOCAL: 
+2026-05-13T00:31:55.8626564-04:00
+BACKUP: C:\CleanSeedsBuild\BACKUP_BEFORE_READER_FLOW_FIX_20260513_002504
+REMOTE_UPLOAD_EXECUTED_BY_THIS_RECEIPT: NO
+REMOTE_DELETE_EXECUTED: NO
+LOCAL_DELETE_EXECUTED: NO
+
+FIXED: missing counts element used by manifest renderer
+FIXED: file list now renders rows with Load, Copy, Open, Download controls
+FIXED: selected file auto-loads CURRENT_STATE.txt
+FIXED: search can load all file contents before filtering
+FIXED: bottom return button says Go Back And Play In Mom's Seed Sandbox
+FIXED: second page has black/RedRose terminal styling separate from mom porch
+
+VERIFICATION: node --check gate.js exited 0
+VERIFICATION: local browser login succeeded with page password
+VERIFICATION: local browser saw 7 file rows, 7 Copy buttons, 7 Open links, 7 Download links
+VERIFICATION: selected file copy returned 1228 characters
+
+SHA256: CD0C29D35A3A2E228B6B18D6C6DB19E668697D94BF73CBFA9344C7B52D10EAE0  C:\CleanSeedsBuild\NEOCITIES_CLEAN_SITE\index.html
+SHA256: 5E59BE21F9FD2CA669C0A2666FF381F0B82DBF654DD902F46DB4BABCBC3F96DB  C:\CleanSeedsBuild\NEOCITIES_CLEAN_SITE\style.css
+SHA256: 8BC2BF4297074CDB6FA66BE963BF4709816296C2116FA55E75234FC64B9DCD3B  C:\CleanSeedsBuild\NEOCITIES_CLEAN_SITE\scripts\gate.js

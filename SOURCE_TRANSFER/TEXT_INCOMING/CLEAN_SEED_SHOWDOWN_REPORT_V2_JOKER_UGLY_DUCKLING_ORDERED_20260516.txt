@@ -1,0 +1,115 @@
+CLEAN SEED — SHOWDOWN REPORT V2
+Joker / Ugly Duckling Ordered Showdown
+Created: 2026-05-16
+Status: showdown report / ordered fighter model / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+SHOWDOWN QUESTION
+Who belongs in the fight, what order do they run, and how does the Judge rule without guessing?
+
+ANSWER
+Joker belongs in the fight.
+Ugly Duckling belongs in the Judge's preservation layer.
+No Referee is added.
+The Judge carries accountability.
+Order matters.
+
+ORDER
+1. Central Parking maps the field.
+2. Weakest-Link names the bottleneck.
+3. Joker throws the outside challenger.
+4. STING attacks every visible claim.
+5. Shadow Victor checks outside the ring.
+6. Judge rules by proof.
+
+WHY JOKER MUST ENTER BEFORE STING
+Joker brings the weird outside idea.
+If Joker enters after STING, Joker escapes the attack.
+That is unfair and unsafe.
+
+STING must get to hit Joker too.
+
+WHY CENTRAL PARKING COMES FIRST
+The field must be visible before a bottleneck is named.
+Otherwise Weakest-Link may call the wrong constraint.
+
+WHY WEAKEST-LINK COMES BEFORE JOKER
+The current bottleneck must be named before the outside challenger tries to disrupt it.
+Joker can then challenge the bottleneck, widen the frame, or reveal the bottleneck was wrong.
+
+WHY SHADOW VICTOR COMES AFTER STING
+Shadow Victor is not just another fighter.
+It asks whether the truth still sits outside the whole visible ring after the visible claims have fought.
+
+WHY JUDGE COMES LAST
+The Judge does not guess.
+The Judge uses papers.
+Every fighter answers for what it brought.
+Then the Judge says PASS or no PASS.
+
+NO-MIDDLE PASS
+PARTIAL is allowed.
+PARTIAL is not PASS.
+
+UGLY DUCKLING
+Ugly does not mean false.
+Ugly does not mean PASS.
+Ugly means park with dignity if there is a plausible growth path or future test condition.
+
+JOKER
+Joker brings the outside challenger.
+Joker may be brilliant, stupid, ugly, early, or disruptive.
+Joker gets no crown without proof.
+
+STING
+STING does not strike out.
+STING wins a necessary role:
+hit false certainty before the Judge rules.
+
+SHADOW VICTOR
+Shadow Victor warns that even the whole ring may not contain the true answer.
+
+JUDGE
+The Judge may choose:
+- Central Parking
+- Weakest-Link
+- Joker
+- STING
+- hybrid
+- Shadow Victor / outside truth
+- none
+- wrong question
+- more evidence
+- stop
+
+But only PASS receives trust.
+
+WHAT WOULD DISPROVE THIS SHOWDOWN MODEL
+The model fails if live use shows:
+- too slow
+- too many gates
+- unclear next move
+- Joker creates chaos
+- STING blocks all movement
+- Shadow Victor causes endless delay
+- Judge cannot produce yes/no proof
+- user strain increases
+- report treadmill continues
+
+RECOMMENDED NEXT RUN
+RUN_015_ENGINE_V1_1_ORDERED_SHOWDOWN_LIVE_TEST
+
+Test:
+Feed current project state into the ordered showdown and make it choose the next needed move.
+
+CLOSE VERDICT
+PASS WITH BOUNDARY.
+
+Clean line:
+Central Parking maps the field.
+Weakest-Link names the bottleneck.
+Joker throws the outside challenger.
+STING attacks every visible claim.
+Shadow Victor checks outside the ring.
+Judge rules by proof.
+Partial is not PASS.

@@ -1,0 +1,48 @@
+MULE WORKSHOP DESK INSTALL COMPLETION RECEIPT
+Date: 2026-05-20
+
+Repair base:
+40bf39ce899d9e34b4284ec9ce9cd3b359a16cb2
+
+origin/main at repair base:
+40bf39ce899d9e34b4284ec9ce9cd3b359a16cb2
+
+Reason:
+Previous mule workshop install attempt printed a false PASS after errors.
+Actual prior final status was dirty:
+- M ACTIVE_ANCHOR.txt
+- M HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+- ?? HOUSE_WORK/WORK_SHED/MULE_WORKSHOP/
+
+Repair action:
+- Preserved follow-up history instead of rewriting pushed commit.
+- Ensured mule workshop room exists.
+- Ensured active mule packet exists.
+- Ensured workshop README exists.
+- Ensured workshop access map exists.
+- Staged workshop, anchor, status, and this completion receipt.
+- Commit/push/final clean proof required after this receipt.
+
+Hashes:
+- HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\README_MULE_WORKSHOP.md
+  SHA256: 674E17AD71BFC1C68D174899E8E8E8B44770504E5C171AA6943625D46AA11C58
+- HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\MULE_WORKSHOP_ACCESS_MAP.md
+  SHA256: 94C2A71F5446EA5883D346FF9F78CC60FB4DE6989F8F04CABDFC232A2CF4B5BB
+- HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\ACTIVE_DESK\MULE_FILE_ACTIVE_20260520_001.txt
+  SHA256: 
+- ACTIVE_ANCHOR.txt
+  SHA256: 850BA41D1AE4F8F3F1325D97800569D8E0D1C33DAD22E0D79A879158CDAC893C
+- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+  SHA256: 1D0BE4BB957B4924F88EDF525A4BB7F8011BFC291C4838FE30033F9D5B1C3618
+
+Boundary:
+- No mule pass run.
+- No mule output created.
+- No doctrine rewrite.
+- No active guide rewrite.
+- No CURRENT_TRUTH_INDEX rewrite.
+- No tool/checker/Soft Suit promotion.
+- No runtime build.
+- No /system.
+- No automation, dashboard, knowledge graph, or full lesson index.
+- No PROOF_HISTORY restructuring.

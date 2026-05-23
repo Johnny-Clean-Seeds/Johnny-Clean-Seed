@@ -1,0 +1,29 @@
+RECEIPT_ONE_HAND_GOLD_HANDLING_RULE_20260510
+
+Protected active source:
+C:\Users\13527\Desktop\Clean Milk not-BLOAT
+
+Saved file:
+PROOF_HISTORY\ONE_HAND_GOLD_HANDLING_RULE_20260510.txt
+
+Receipt file:
+PROOF_HISTORY\RECEIPT_ONE_HAND_GOLD_HANDLING_RULE_20260510.txt
+
+ACTIVE_GUIDES edited: NO
+CURRENT_TRUTH_INDEX.txt edited: NO
+Recycle Bin items restored: NO
+Files deleted: NO
+Files moved: NO
+Files renamed: NO
+Existing files overwritten: NO
+Scripts run: NO
+Zip files extracted: NO
+Shortcuts executed: NO
+
+Status:
+Local durable save complete.
+Not installed into active guide files yet.
+
+Verdict:
+PASS if both files exist after creation and no forbidden action occurred.
+FAIL otherwise.

@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Garden Notes</title>
+  <link rel="stylesheet" href="style.css?v=retry-fix-20260513">
+</head>
+<body>
+<!-- mom-front -->
+  <main>
+    <section id="gate" class="card gate seed-porch">
+      <div class="porch-shell">
+        <div class="porch-topline" aria-hidden="true">
+          <span class="porch-badge">Seed Garden</span>
+          <span class="porch-badge">Homemade Page</span>
+          <span class="porch-badge">Best Viewed After Coffee</span>
+          <span class="porch-badge">Garden Bulletin</span>
+        </div>
+
+        <h1 class="porch-title">Mom's Seed Garden</h1>
+        <p class="porch-subtitle">A little front porch for notes, packets, shed labels, and whatever else is still sprouting.</p>
+
+        <div class="under-construction" aria-label="Under construction">
+          <span>UNDER CONSTRUCTION - PLEASE EXCUSE THE SEED DUST</span>
+        </div>
+
+        <div class="porch-grid">
+          <div class="seed-card-art" aria-hidden="true"></div>
+
+          <div class="porch-links" aria-label="Front porch links">
+            <h2>Front Porch Links</h2>
+            <a class="porch-link" href="#gate">Seed Packet Shelf <small>Labels, notes, and garden things still being sorted.</small></a>
+            <a class="porch-link" href="#gate">Garden Guestbook <small>Coming soon, probably written in purple pen.</small></a>
+            <a class="porch-link" href="#gate">Shed Basket <small>Tools, scraps, and "do not throw that away yet" stuff.</small></a>
+            <a class="porch-link" href="#gate">Kitchen Table Notes <small>Where the real planning happens.</small></a>
+          </div>
+        </div>
+
+        <div class="porch-login-box">
+          <p class="subtle">Private menu for the current seed files.</p>
+          <input id="code" type="password" autocomplete="off" autofocus placeholder="Access code">
+          <label><input id="remember" type="checkbox"> Remember this browser</label>
+          <button id="openBtn" class="metal-btn">Login</button>
+          <p id="message" class="message"></p>
+        </div>
+
+        <div class="porch-sticker-row" aria-hidden="true">
+          <span class="porch-sticker">No weeds</span>
+          <span class="porch-sticker">No mystery jars</span>
+          <span class="porch-sticker">Saved seeds only</span>
+          <span class="porch-sticker">Since 1998-ish</span>
+        </div>
+
+        <div id="visitorCounter" class="fake-counter" aria-hidden="true">LOCAL VISIT: 000001</div>
+        <div class="porch-marquee" aria-label="Garden ticker"><span id="tickerText">Loading garden ticker...</span></div>
+      </div>
+    </section>
+
+    <section id="app" class="secret-page hidden">
+      <header class="terminal-hero">
+        <div class="terminal-copy">
+          <p class="terminal-kicker">ACCESS GRANTED // REDROSE NODE // PUBLIC READER</p>
+          <pre class="ascii-title">~/clean-seed $ open README</pre>
+          <h1>README</h1>
+          <p>Public field notes for the model work: read the short note, jump by group, search the files, then copy or download the selected text.</p>
+        </div>
+        <div class="terminal-picture console-visual" aria-label="RedRose console visual">
+          <span class="scanline"></span>
+          <span class="terminal-row">SEED&gt; AUTH *********</span>
+          <span class="terminal-row ok">ACCESS GRANTED</span>
+          <span class="terminal-row rose">REDROSE CHANNEL: OPEN</span>
+          <span class="terminal-row">NODE: PUBLIC READER // FILE VIEW</span>
+          <span class="terminal-row dim">READ / SEARCH / COPY / DOWNLOAD</span>
+          <span class="terminal-row gridcode">PUBLIC DATA FILES READY</span>
+        </div>
+      </header>
+
+      <section class="terminal-stats" aria-label="Reader summary">
+        <article>
+          <span>Front File</span>
+          <strong>README</strong>
+        </article>
+        <article>
+          <span>Public Files</span>
+          <strong id="dataCount">7 files</strong>
+        </article>
+        <article>
+          <span>Tools</span>
+          <strong>Group / Search / Copy</strong>
+        </article>
+      </section>
+
+      <section class="terminal-panel walk-panel" aria-label="Reader walkthrough">
+        <p class="terminal-kicker">Read Order</p>
+        <h2>README</h2>
+        <div class="walk-grid">
+          <a class="metal-link" href="#readmeSection">1. Read Me</a>
+          <a class="metal-link" href="#groupSection">2. Groups</a>
+          <a class="metal-link" href="#filesSection">3. Search Files</a>
+          <a class="metal-link" href="#viewerPane">4. Copy / Download</a>
+        </div>
+      </section>
+
+      <section class="terminal-panel concept-panel">
+        <div class="file-head">
+          <div>
+            <p class="terminal-kicker">Concept Maps</p>
+            <h2>How The Model Works</h2>
+            <p class="viewerHint">Visual references for the clean seed, recursive core, drift control, and controlled growth ideas.</p>
+          </div>
+        </div>
+        <div class="concept-grid">
+          <figure>
+            <img src="assets/recursive-core-architecture.png?v=concept-20260512" alt="Recursive core architecture concept map">
+            <figcaption>Recursive Core Architecture</figcaption>
+          </figure>
+          <figure>
+            <img src="assets/recursive-ai-growth-theory.png?v=concept-20260512" alt="Recursive AI growth theory concept map">
+            <figcaption>Recursive AI Growth Theory</figcaption>
+          </figure>
+          <figure>
+            <img src="assets/cure-for-drift.png?v=concept-20260512" alt="The Cure For Drift concept map">
+            <figcaption>The Cure For Drift</figcaption>
+          </figure>
+          <figure>
+            <img src="assets/controlled-recursive-growth.png?v=concept-20260512" alt="Controlled recursive growth concept map">
+            <figcaption>Controlled Recursive Growth</figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <section class="readme-grid">
+        <article id="readmeSection" class="terminal-panel">
+          <p class="terminal-kicker">README</p>
+          <h2>Read Me</h2>
+          <pre id="readmeOutput" class="stream-output" aria-label="Read me output"></pre>
+          <button id="copyReadmeBtn" class="metal-btn copy-under">Copy README</button>
+          <p id="readmeCopyStatus" class="copy-status" role="status"></p>
+        </article>
+      </section>
+
+      <section id="groupSection" class="terminal-panel group-panel">
+        <p class="terminal-kicker">File Groups</p>
+        <h2>Main Groups</h2>
+        <nav id="groupList" class="group-list" aria-label="File groups"></nav>
+      </section>
+
+      <section id="filesSection" class="terminal-panel file-panel">
+        <div class="file-head">
+          <div>
+            <p class="terminal-kicker">Files</p>
+            <h2>Search And Read</h2>
+            <p class="viewerHint">Use a group or search term, then view a file. Exact local machine paths are removed from the public copies.</p>
+          </div>
+          <div class="search-box">
+            <label for="search">Search files</label>
+            <input id="search" type="search" placeholder="Type state, TODO, hash, manifest...">
+            <button id="searchAllBtn" class="metal-btn search-action">Search File Text</button>
+          </div>
+        </div>
+
+        <p id="counts" class="counts-line" role="status"></p>
+
+        <div class="layout">
+          <nav id="fileList" aria-label="File list"></nav>
+          <section id="viewerPane" class="viewerPane">
+            <h3 id="fileTitle">Choose a file</h3>
+            <p id="fileMeta"></p>
+            <pre id="viewer" class="stream-output file-stream" aria-label="Selected file output"></pre>
+            <div class="button-row file-actions">
+              <button id="copyLoadedBtn" class="metal-btn copy-under">Copy Selected Text</button>
+              <a id="downloadLoadedLink" class="metal-link disabled" href="#" download>Download Selected File</a>
+            </div>
+            <p id="loadedCopyStatus" class="copy-status" role="status"></p>
+          </section>
+        </div>
+      </section>
+
+      <footer class="bottom-return">
+        <button id="lockBtn" class="metal-btn">Go Back To Play In Mom's Sweet Flowerbeds</button>
+      </footer>
+    </section>
+  </main>
+
+  <script src="scripts/manifest.js?v=retry-fix-20260513"></script>
+  <script src="scripts/gate.js?v=retry-fix-20260513"></script>
+<!-- public-reader -->
+</body>
+</html>

@@ -1,0 +1,60 @@
+CHILD SHELL LEVEL2 APPROVED HELPER CONSUMED
+Date: 2026-05-21T05:11:18.4158966-04:00
+
+Verdict:
+PASS / LEVEL2 APPROVED HELPER JOB CONSUMED
+
+Job ID:
+CHILDJOB-20260521-000010-LEVEL2-REGRESSION-APPROVED-HELPER
+
+Action:
+run_approved_helper
+
+Helper name:
+read_child_shell_status_summary
+
+Helper path:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\CHILD_SHELL\HELPERS\HELPER_READ_CHILD_SHELL_STATUS_SUMMARY_LEVEL2.ps1
+
+Helper SHA256:
+116719AC1B8588723800B222286C4F373DA7B42C5EA5299EDD13EBF473F2F215
+
+Allowlist:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\CHILD_SHELL\ALLOWLIST_LEVEL2_APPROVED_HELPERS.json
+
+Allowlist SHA256:
+686C498FCE458C12B944B6B1BA136EC372CC0DC8CF25D0A4EB81964DAE70A2AF
+
+Job file:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\CHILD_SHELL\INBOX\CHILDJOB-20260521-000010-LEVEL2-REGRESSION-APPROVED-HELPER.childjob.json
+
+Job SHA256:
+EA24455069CE1D916D06E6AB144584664537D27A47EF25CDC778AA632A2CA2FC
+
+Helper output:
+C:\Users\13527\Desktop\123\COMMAND_CENTER\CHILD_SHELL\HELPER_OUTPUT\CHILDJOB-20260521-000010-LEVEL2-REGRESSION-APPROVED-HELPER.helper-output.txt
+
+Helper output SHA256:
+5F7D7B1B17A2432315AD0FDFE38C00EA4DA6723830647FED2E8F282EB276217D
+
+Boundary:
+Command Center Child Shell Level2 approved-helper only.
+No arbitrary shell.
+No raw shell expansion.
+No Mr.Kleen repo write.
+No git.
+No doctrine install.
+No ACTIVE_GUIDES rewrite.
+No CURRENT_TRUTH_INDEX rewrite.
+No delete.
+No broad filesystem crawl.
+No permission expansion.
+No junction/symlink teleporter.
+
+What this proves:
+A watcher-dispatched Level2 job can run one named allowlisted helper after helper hash validation and produce an OUTBOX receipt.
+
+What this does not prove:
+Assistant-direct local execution from chat.
+Level3 Mr.Kleen house-save execution.
+Arbitrary command execution.

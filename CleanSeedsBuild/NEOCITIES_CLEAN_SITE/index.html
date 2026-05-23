@@ -1,0 +1,305 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Garden Notes</title>
+  <link rel="stylesheet" href="style.css?v=second-page-clean-rev21">
+</head>
+<body>
+<div id="readerTopBurst" aria-hidden="true"></div>
+<!-- mom-front -->
+  <main>
+    <section id="gate" class="card gate seed-porch retro-front">
+      <div class="under-construction-1993" aria-label="Under construction notice">
+        <span class="uc-stars">✿</span>
+        <strong>UNDER CONSTRUCTION</strong>
+        <span class="uc-stars">✿</span>
+        <em>Mom's rose garden is being watered. The screen door works, the porch squeaks, and the modem is trying its best.</em>
+      </div>
+
+      <header class="porch-masthead">
+        <div class="blink-row" aria-hidden="true">
+          <span class="gif-tile seed-gif" title="seed gif"></span>
+          <span class="gif-tile shovel-gif" title="shovel gif"></span>
+          <span class="gif-tile rose-gif" title="rose gif"></span>
+          <span class="gif-tile watering-gif" title="watering can gif"></span>
+        </div>
+        <h1 class="porch-title">Mom's Seed Garden</h1>
+        <p class="porch-subtitle">A homemade front porch for clean seed packets, warm flowerbeds, porch gossip, and the tidy little basket Mom keeps nearby when company knocks twice.</p>
+      </header>
+
+      <div class="retro-sticker-strip" aria-hidden="true">
+        <span>Best viewed after coffee</span>
+        <span>Screen door open</span>
+        <span>No weeds</span>
+        <span>Since 1993-ish</span>
+        <span>Warm beds only</span>
+      </div>
+
+      <div class="mom-1993-row" aria-label="1993 porch extras">
+        <div class="mom-notepad" role="note" aria-label="Mom's porch notepad">
+          <div class="notepad-title"><span>Untitled - Notepad</span><button type="button" aria-label="Fake close button">X</button></div>
+          <textarea id="momNoteField" class="mom-note-field" spellcheck="false" placeholder="Write your porch note here, sugar...">Mom's quick note:
+Trim the roses after coffee.
+Check the warm cache.
+Tell the modem to behave.
+Maybe fluff the front bush a little.</textarea>
+          <div class="notepad-bottom-row">
+            <button id="momNoteSend" class="notepad-send" type="button">Send Note</button>
+            <span id="momNoteStatus" class="notepad-status" aria-live="polite">Ready when the porch light blinks.</span>
+          </div>
+        </div>
+        <div class="mom-web-badges" aria-label="1993 badges">
+          <span class="badge-blink">NEW!</span>
+          <span>Best viewed in Mom's kitchen</span>
+          <span>Dial-up friendly-ish</span>
+          <span class="badge-blink alt">Guestbook still works</span>
+        </div>
+      </div>
+
+      <div class="retro-page-grid">
+        <aside class="retro-side-rail left-rail" aria-label="Porch notes">
+          <div class="construction-sign mom-flower-sign">MOM'S<br>ROSE<br>PORCH</div>
+          <div class="tiny-gif-stack" aria-hidden="true">
+            <span class="mini-gif blink">WARM BEDS</span>
+            <span class="mini-gif bounce">MOM IS READY</span>
+            <span class="mini-gif wiggle">CLEAN ROOTS</span>
+          </div>
+          <p class="porch-small-note">Mom says she is just checking the beds, but the porch light stays on and the seed shelf is already warm.</p>
+        </aside>
+
+        <section class="porch-main-board" aria-label="Mom's front porch board">
+          <div class="porch-links" aria-label="Front porch links">
+            <h2>Front Porch Links</h2>
+            <a class="porch-link porch-link-real" href="#loginAnchor">Open Public Reader <small>The real file reader is right here. Use Mom's login card and password box to open the public notes fast.</small></a>
+            <a class="porch-link" href="warm-beds.html">Warm Beds Department <small>Soft soil, clean roots, and a little cache Mom keeps warm for polite company.</small></a>
+            <a class="porch-link" href="potting-bench.html">Potting Bench Gossip <small>Apron strings, rose clippings, and a screen-door handshake that gets sweeter near sunset.</small></a>
+            <a class="porch-link" href="screen-door.html">Screen Door Directory <small>Mom's little side pages, porch rules, and a tidy path back to the real reader.</small></a>
+          </div>
+
+          <div class="mom-bulletin">
+            <h2>Mom's Porch Bulletin</h2>
+            <p>Honey, wipe your boots before you come in. Mom keeps clean seeds on this porch, plus one basket she fusses over when the house gets quiet.</p>
+            <p>The beds are warm, the packets are labeled, and the good roots are never left loose in the dark.</p>
+            <p>Mom's dial-up is slow, but her porch light loads fast when polite company knocks twice.</p>
+            <p>She says the front bush only needs a trim, but somehow everybody keeps stopping to admire it.</p>
+            <p>The muffins are warm, the modem is chirping, and Mom says not everything in the apron pocket is for browsers.</p>
+            <p>Do not grab every pretty packet. Some seeds need patience, shade, and a softer hand before they open.</p>
+            <p>If the porch light is on, bring manners, clean hands, and maybe help her keep the warm cache watered.</p>
+          </div>
+        </section>
+
+        <aside class="retro-side-rail right-rail" aria-label="Login porch" id="loginAnchor">
+          <div class="porch-login-box porch-login-window">
+            <div class="login-window-head">
+              <span class="login-lamp"></span>
+              <strong>Mom's Porch Login</strong>
+              <small>Front gate access card</small>
+            </div>
+            <p class="subtle">Use Mom's real porch name, then the password below.</p>
+            <label class="login-label" for="porchUser">Username</label>
+            <input id="porchUser" type="text" value="MomsCleanSeeds" autocomplete="off" spellcheck="false" placeholder="Username">
+            <label class="login-label" for="code">Password</label>
+            <input id="code" type="password" autocomplete="off" autofocus placeholder="Access code">
+            <label><input id="remember" type="checkbox"> Remember this browser</label>
+            <button id="openBtn" class="metal-btn">Open The Screen Door</button>
+            <p id="message" class="message"></p>
+          </div>
+          <div id="visitorCounter" class="fake-counter" aria-hidden="true">LOCAL VISIT: 000001</div>
+          <div class="mom-warning">No peeking through Mom's side gate without the right sticky note.</div>
+          <div class="mom-warning mom-warning-extra">Mom says the warm seed basket stays private until the screen door opens.</div>
+        </aside>
+      </div>
+
+      <section id="porchExtras" class="porch-extra-board" aria-label="More porch fun">
+        <article class="porch-extra-card">
+          <h2>Warm Beds</h2>
+          <p>Mom says clean seeds need tidy rows, soft dirt, and somebody patient enough not to yank at every pretty sprout.</p>
+          <ul>
+            <li><span class="tiny-flash">HOT</span><a href="warm-beds.html">Visit the warm beds page</a></li>
+            <li><a href="potting-bench.html">Read the bench gossip</a></li>
+            <li><span class="tiny-flash alt">NEW</span><a href="guestbook.html">Sign the porch guestbook</a></li>
+            <li><a href="#loginAnchor">Go straight to Mom's login card</a></li>
+          </ul>
+        </article>
+        <article class="porch-extra-card">
+          <h2>Porch Notes</h2>
+          <p>There is room on the swing, a little rose gossip by the steps, and one screen door that never seems to latch on the first try.</p>
+          <ul>
+            <li><a href="porch-notes.html">Petunia gossip sheet</a></li>
+            <li><span class="tiny-flash soft">MAIL</span><a href="apron-pocket.html">Apron pocket directory</a></li>
+            <li><span class="tiny-flash">WOW</span><a href="watering-can.html">Watering can rules</a></li>
+          </ul>
+        </article>
+        <article class="porch-extra-card">
+          <h2>For The Real Reader</h2>
+          <p>This porch is just the soft front room. The actual public file reader is not hidden in the weeds: use the login card on the right.</p>
+          <ul>
+            <li><a href="#loginAnchor">Open the screen door</a></li>
+            <li><a href="screen-door.html">See the screen-door directory</a></li>
+            <li><a href="guestbook.html">Sign Mom's guestbook</a></li>
+          </ul>
+        </article>
+      </section>
+
+      <section class="mom-1993-lower-yard" aria-label="Mom's 1993 rose garden web extras">
+        <div class="rose-webring">
+          <h2><span class="tiny-flash alt">NEW</span> Mom's Rose Garden Web Ring <span class="tiny-flash">HOT</span></h2>
+          <p>Previous porch · Random seed packet · Next warm bed</p>
+          <div class="webring-row" aria-hidden="true">
+            <span>« back porch</span>
+            <span>🌹</span>
+            <span>guestbook</span>
+            <span>🌱</span>
+            <span>next porch »</span>
+          </div>
+        </div>
+
+        <div class="mom-awards">
+          <span class="award-tile blink-slow">MOM APPROVED</span>
+          <span class="award-tile">ROSE SAFE</span>
+          <span class="award-tile blink-slower">DIAL-UP READY</span>
+          <span class="award-tile">NO WEEDS</span>
+        </div>
+
+        <p class="mom-lower-note">Mom says the garden is public, the good packets are labeled, and the warm little login box knows when company has manners.</p>
+      </section>
+</section>
+
+    <section id="app" class="secret-page hidden readme-stage-closed">
+      <header class="terminal-hero reader-intro-hero">
+        <div class="terminal-copy">
+          <p class="terminal-kicker">ONE SEED // ONE ROUTE</p>
+          <h1>Clean Seed Model</h1>
+          <p class="hero-lead">Start with one small working root. Label it, prove it, then let the next branch earn its place.</p>
+          <pre class="ascii-title">ROOT BOX: named seed / visible route / clean handoff</pre>
+          <div class="hero-root-notes" aria-label="Clean seed root notes">
+            <span>NAME TAG: clean seed</span>
+            <span>ROUTE TAG: one visible path</span>
+            <span>PROOF TAG: show the receipt</span>
+            <span>REST TAG: park the extra vines</span>
+          </div>
+        </div>
+        <div class="terminal-picture console-visual access-pass-card" aria-label="Mom access pass">
+          <span class="pass-clip" aria-hidden="true"></span>
+          <div class="pass-owner terminal-row mom-pass-line">MOM</div>
+          <div class="pass-access terminal-row ok">ACCESS PASS</div>
+          <div class="pass-sub terminal-row rose">MOM'S ROOT FILES // PUBLIC PASS</div>
+          <div class="pass-grid">
+            <div class="pass-info">
+              <span class="pass-label terminal-row dim">SEED NODE</span>
+              <strong class="pass-clearance terminal-row gridcode">ONE JOB / ONE ROUTE</strong>
+              <span class="pass-note">SMALL SEED FIRST</span>
+              <span class="pass-note">RECOVERY MUST SHOW</span>
+              <span class="pass-barcode" aria-hidden="true"></span>
+              <span class="pass-code">CS-001-ROOT-ROW</span>
+            </div>
+            <div class="pass-print" aria-hidden="true">
+              <span class="pass-thumb"></span>
+              <span class="pass-print-label">ROOT PRINT</span>
+            </div>
+          </div>
+          <div class="pass-footer terminal-row">GATE OPENS AFTER CHECK</div>
+        </div>
+      </header>
+
+      <section class="readme-grid compact-readme-grid">
+        <article id="readmeSection" class="terminal-panel compact-readme-panel staged-readme-panel">
+          <div class="readme-panel-head">
+            <h2>README</h2>
+            <p class="readme-hint">Public walk-through. Small seed first, proof before growth.</p>
+          </div>
+
+          <button id="readmeExpandBtn" type="button" class="readme-expand-bar" aria-expanded="false">
+            <span class="readme-expand-title">PULL DOWN README</span>
+          </button>
+
+          <div id="readmeBody" class="readme-body" hidden>
+            <pre id="readmeOutput" class="readme-inline readme-stream-output" aria-label="Read me output"></pre>
+            <button id="readmeContinueBtn" type="button" class="readme-continue-tab" hidden aria-label="Continue to concept cards">
+              <span>▼</span><span>▼</span>
+            </button>
+            <p id="readmeDownloadRow" class="readme-download-row readme-download-hidden">
+              <a id="downloadReadmeLink" class="readme-download-link disabled" href="#" download="README_START_HERE.txt">Download the full README</a>
+            </p>
+            <p id="readmeCopyStatus" class="copy-status" role="status"></p>
+          </div>
+        </article>
+      </section>
+
+      <section class="terminal-panel concept-panel after-readme">
+        <div class="file-head">
+          <div>
+            <p class="terminal-kicker">Concept Maps</p>
+            <h2>How The Model Works</h2>
+            <p class="viewerHint">Visual references for the clean seed, recursive core, drift control, and controlled growth ideas.</p>
+          </div>
+        </div>
+        <div class="concept-grid">
+          <figure>
+            <img src="assets/recursive-core-architecture.png?v=concept-20260512" alt="Recursive core architecture concept map">
+            <figcaption>Recursive Core Architecture</figcaption>
+          </figure>
+          <figure>
+            <img src="assets/recursive-ai-growth-theory.png?v=concept-20260512" alt="Recursive AI growth theory concept map">
+            <figcaption>Recursive AI Growth Theory</figcaption>
+          </figure>
+          <figure>
+            <img src="assets/cure-for-drift.png?v=concept-20260512" alt="The Cure For Drift concept map">
+            <figcaption>The Cure For Drift</figcaption>
+          </figure>
+          <figure>
+            <img src="assets/controlled-recursive-growth.png?v=concept-20260512" alt="Controlled recursive growth concept map">
+            <figcaption>Controlled Recursive Growth</figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <section id="filesSection" class="terminal-panel file-panel flow-reader-panel after-readme viewer-closed">
+        <div class="layout flow-layout">
+          <aside class="side-rack" aria-label="Side file menu">
+            <div class="file-reader-title-block side-rack-title-block">
+              <h2>File Reader</h2>
+              <p class="viewerHint file-reader-subtitle">Choose a file below.</p>
+            </div>
+            <nav id="fileList" aria-label="File list"></nav>
+          </aside>
+
+          <section id="viewerPane" class="viewerPane matrix-pane flow-pane no-file-selected">
+            <div class="matrix-pane-head flow-pane-head file-state-line" aria-live="polite">
+              <h3 id="fileTitle"></h3>
+              <p id="fileMeta"></p>
+            </div>
+
+            <pre id="viewer" class="stream-output file-stream matrix-output page-output" aria-label="Selected file output"></pre>
+
+            <div class="stream-control-line stream-tab-line" aria-hidden="false">
+              <button id="streamFastBtn" type="button" class="stream-boost-arrow stream-tab speed-tab" aria-label="Speed up the text feed" title="Speed up the text feed">
+                <span>▼</span><span>▼</span><span>▼</span>
+              </button>
+              <button id="retractTextBtn" type="button" class="stream-retract-arrow stream-tab retract-tab" aria-label="Retract the text feed" title="Retract the text feed" hidden>
+                <span>▲</span><span>▲</span><span>▲</span>
+              </button>
+            </div>
+
+            <div class="button-row file-actions matrix-actions bottom-actions compact-utility-list">
+              <button id="copyLoadedBtn" class="metal-btn copy-under">Copy Text</button>
+              <a id="downloadLoadedLink" class="metal-link disabled" href="#" download>Download File</a>
+            </div>
+            <p id="loadedCopyStatus" class="copy-status" role="status"></p>
+          </section>
+        </div>
+      </section>
+
+      <footer class="bottom-return after-readme">
+        <button id="lockBtn" class="metal-btn">Back To The Porch, Sugar</button>
+      </footer>
+    </section>
+  </main>
+
+  <script src="scripts/manifest.js?v=second-page-clean-rev21"></script>
+  <script src="scripts/gate.js?v=second-page-clean-rev21"></script>
+<!-- public-reader -->
+</body>
+</html>

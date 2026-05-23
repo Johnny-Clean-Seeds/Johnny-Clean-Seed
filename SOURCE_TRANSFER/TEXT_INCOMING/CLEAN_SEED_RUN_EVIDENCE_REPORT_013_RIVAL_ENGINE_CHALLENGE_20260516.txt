@@ -1,0 +1,193 @@
+CLEAN SEED — RUN EVIDENCE REPORT 013
+Rival Engine Challenge Against Central Parking Engine V1
+Created: 2026-05-16
+Status: run evidence report / adversarial design check / proof-history first
+Authority: not doctrine, not cleanup approval, not active-guide install
+
+RUN NAME
+RUN_013_RIVAL_ENGINE_CHALLENGE
+
+WHY THIS RUN EXISTS
+Run 012 created the Central Parking and Next-Needed Engine V1.
+
+Before live-use testing it, the user correctly stopped momentum:
+do not simply run the new engine and trust it.
+Run a rival engine against it first.
+
+The goal is to find a competing model that may expose flaws in the Central Parking Engine before it becomes trusted as the center.
+
+ACTIVE QUESTION
+What rival operating model challenges Central Parking and Next-Needed Engine V1, and what flaws does it expose?
+
+ANSWER
+The strongest rival is the Weakest-Link / Constraint Engine.
+
+Central Parking Engine asks:
+What ideas exist, where do they park, what is centered, and what next run is needed?
+
+Weakest-Link / Constraint Engine asks:
+What single constraint is limiting the system right now, and which move removes the most bottleneck with the least strain?
+
+Both are useful.
+Neither should fully replace the other.
+
+RIVAL MODEL NAME
+Weakest-Link / Constraint Engine
+
+RIVAL CORE LINE
+Do not organize the whole field first.
+Find the active constraint.
+Relieve the bottleneck.
+Then re-observe the system.
+
+WHY THIS RIVAL MATTERS
+A parking engine can become too good at organizing material and not aggressive enough at identifying the one thing currently blocking progress.
+
+The rival engine prevents:
+- over-parking
+- over-indexing
+- report treadmill
+- too many lots
+- thinking everything needs a named place before action
+- treating the center as a museum instead of a workbench
+- choosing a neat run instead of the most relieving run
+
+CHALLENGE FINDINGS AGAINST ENGINE V1
+
+FINDING 1 — “Park everything” can become over-collection.
+Engine V1 says “Park everything.”
+That is good against idea loss.
+Risk: it can preserve too much weak material and raise indexing tax.
+
+Needed guard:
+Park everything only long enough to classify value, risk, and next gate.
+Some items should go to short-life holding, not permanent lots.
+
+FINDING 2 — “Center one concept” can hide multi-constraint systems.
+One active concept is good for focus.
+Risk: some problems are caused by two interacting constraints.
+
+Needed guard:
+Allow a small “constraint pair” when evidence shows two items are inseparable.
+
+FINDING 3 — Next-needed detection may still favor interesting ideas.
+The detector asks many good questions.
+Risk: the assistant may still pick the most conceptually interesting run instead of the most bottleneck-relieving run.
+
+Needed guard:
+Add a constraint score:
+Which candidate removes the active bottleneck?
+
+FINDING 4 — Too many parking lots can become a city before roads exist.
+The lot list is useful.
+Risk: many named lots can create navigation tax.
+
+Needed guard:
+Start with few active lots.
+Promote new lots only after repeated need.
+
+FINDING 5 — Verification asks good questions but lacks a hard disproof hook.
+Engine V1 asks what the run proved and did not prove.
+Risk: the assistant may still declare PASS if the answers sound reasonable.
+
+Needed guard:
+Every run should name what would disprove its PASS.
+
+FINDING 6 — The engine needs a “do nothing / stop” candidate.
+Candidate runs include closeout and thinking point.
+Risk: the run generator may still assume another run is needed.
+
+Needed guard:
+Every tournament must include:
+- stop
+- wait for user
+- use existing artifact
+- do nothing
+
+FINDING 7 — Board update can become paperwork.
+Board update is useful.
+Risk: every run asks for board refresh, creating report churn.
+
+Needed guard:
+Board refresh only when active priority, blocked lanes, public/local boundary, or next gate actually changes.
+
+FINDING 8 — The center can become another authority object.
+Engine V1 says not authority.
+Risk: if used often, the engine spec may quietly become a command source.
+
+Needed guard:
+Engine output is recommendation until user/proof/active authority confirms.
+
+RIVAL ENGINE PASS/FAIL VERDICT
+Central Parking Engine V1 is strong but incomplete.
+
+Verdict:
+PASS WITH RIVAL FINDINGS.
+
+It should not be trusted alone.
+It needs a Rival/Constraint Gate before live-use PASS.
+
+RECOMMENDED ENGINE REFINEMENT
+Add a Challenger Gate before run selection:
+
+Before choosing a run, ask:
+1. What is the active bottleneck?
+2. What would happen if we did nothing?
+3. What would a rival engine choose instead?
+4. Which candidate removes the most constraint?
+5. What would disprove this choice?
+6. Is a board refresh actually needed?
+7. Is this a real run, or report treadmill?
+
+REVISED OPERATING PAIR
+Central Parking Engine:
+prevents idea loss and old-chat overload.
+
+Weakest-Link / Constraint Engine:
+prevents organizing instead of relieving the bottleneck.
+
+Combined model:
+Park enough to not lose.
+Center enough to focus.
+Challenge enough to avoid self-confirming runs.
+Act where the bottleneck is real.
+Verify before trust.
+
+WHAT THIS RUN PROVES
+Run 013 proves Engine V1 should be challenged before live use.
+It identifies concrete flaws and guards.
+It finds the strongest rival model.
+It prevents Engine V1 from becoming trusted just because it sounds good.
+
+WHAT THIS RUN DOES NOT PROVE
+It does not replace Engine V1.
+It does not install a refined engine.
+It does not approve cleanup.
+It does not update active guides.
+It does not prove the rival engine is complete.
+It does not run the live-use test yet.
+
+OUTPUT CREATED
+CLEAN_SEED_RIVAL_ENGINE_CHALLENGE_FINDINGS_V1_20260516.txt
+
+OUTPUT STATUS
+Rival findings / proof-history first / candidate for later Engine V1.1 refinement.
+
+NEXT CLEAN ACTION
+Save/publish:
+1. CLEAN_SEED_RUN_EVIDENCE_REPORT_013_RIVAL_ENGINE_CHALLENGE_20260516.txt
+2. CLEAN_SEED_RIVAL_ENGINE_CHALLENGE_FINDINGS_V1_20260516.txt
+
+Then run:
+RUN_014_ENGINE_V1_1_REFINEMENT_OR_LIVE_TEST_DECISION
+
+Purpose:
+Decide whether to revise the engine into V1.1 before live testing, or live-test V1 with rival findings as guardrails.
+
+CLOSE VERDICT
+PASS WITH RIVAL FINDINGS.
+
+Clean line:
+Central Parking prevents idea loss.
+Weakest-Link prevents organized drift.
+Use both before trusting the next run.

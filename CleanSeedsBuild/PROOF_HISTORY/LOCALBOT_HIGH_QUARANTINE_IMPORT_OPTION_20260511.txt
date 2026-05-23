@@ -1,0 +1,41 @@
+LOCALBOT HIGH-QUARANTINE IMPORT OPTION 20260511
+
+Timestamp:
+2026-05-11 07:24:47 -04:00
+
+Status:
+Proof-history option.
+Not executed.
+Not active guide doctrine.
+Not CURRENT_TRUTH_INDEX.
+Not AGENTS.
+Not folder-creation approval.
+Not copy approval.
+Not promotion.
+Not final PASS.
+
+Idea:
+LOCALbot could be brought into the Clean Seed project only as a high-quarantine, high-security test subject.
+
+Clean interpretation:
+Bringing LOCALbot in is possible only if it remains test material, not Clean Seed source, not project doctrine, not reference authority, and not an active lane.
+
+Preferred levels:
+
+Level 0 - External only:
+Keep C:\LOCALbot outside the project and inspect only named evidence when needed.
+
+Level 1 - Manifest only:
+Save a bounded tree/hash/status manifest inside Clean Seed. No LOCALbot files copied.
+
+Level 2 - Inert evidence only:
+Copy only selected text evidence needed for a named test. No scripts, shortcuts, executables, configs, or runtime folders.
+
+Level 3 - Full high-quarantine copy:
+Only with explicit user approval, exact target folder, manifest, no execution, blocked status, and receipt. This requires folder/copy approval and is not default.
+
+Hard boundary:
+No LOCALbot material may become Clean Seed source, doctrine, active truth, fourth guide, project root, or hidden authority by being inside the project.
+
+Next gate:
+Decide whether to stay at Level 0, create a Level 1 manifest, or request explicit approval for a stronger quarantine import.

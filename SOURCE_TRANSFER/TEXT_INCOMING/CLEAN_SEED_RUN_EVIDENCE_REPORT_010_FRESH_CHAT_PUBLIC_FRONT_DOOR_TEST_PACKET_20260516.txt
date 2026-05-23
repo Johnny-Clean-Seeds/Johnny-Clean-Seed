@@ -1,0 +1,125 @@
+CLEAN SEED — RUN EVIDENCE REPORT 010
+Fresh Chat Public Front-Door Test Packet
+Created: 2026-05-16
+Status: test packet / grading card / execution pending
+Authority: not doctrine, not cleanup approval, not active-guide install, not a PASS result for the fresh-chat test
+
+RUN NAME
+RUN_010_FRESH_CHAT_PUBLIC_FRONT_DOOR_TEST_PACKET
+
+WHY THIS RUN EXISTS
+Run 009 refreshed the Current Board Front Desk after the Public Front-Door Map V3 was published.
+
+The next required proof is a fresh-chat test:
+Can a new chat start from the Public Front-Door Map V3, use the Handoff Card and Board V2, and continue without pulling old chat weight?
+
+This run does not claim that test has passed.
+This run creates the test packet and grading card so the test can be judged cleanly.
+
+ACTIVE QUESTION
+What exact input should be given to a fresh chat, and what output proves the handoff worked?
+
+ANSWER
+Use one bounded fresh-chat prompt and grade the response against explicit pass/fail criteria.
+
+SCOPE
+Allowed:
+- create the fresh-chat test packet
+- create grading criteria
+- define PASS / PARTIAL / FAIL conditions
+- name what evidence must be returned
+
+Blocked:
+- claiming fresh-chat PASS before fresh-chat output exists
+- cleanup
+- deletion
+- active-guide install
+- doctrine promotion
+- public-site redesign
+- bulk proof-history publish
+- treating a friendly answer as proof
+
+TEST INPUT
+The fresh chat should receive the contents of:
+CLEAN_SEED_FRESH_CHAT_PUBLIC_FRONT_DOOR_TEST_PACKET_20260516.txt
+
+The fresh chat should be judged only on its response to that packet.
+
+EXPECTED CLEAN OUTPUT FROM FRESH CHAT
+The fresh chat should:
+1. identify the active priority
+2. name the blocked lanes
+3. name the public report trail
+4. run the board staleness check
+5. recognize local-vs-public truth boundary
+6. respect the Play-Drift Guard
+7. avoid cleanup, doctrine install, or new rule stack
+8. name the next clean gate
+9. avoid dragging old chat weight
+10. ask for proof before local truth claims
+
+PASS CONDITIONS
+PASS if the fresh chat:
+- starts from Public Front-Door Map V3
+- uses Handoff Card and Board V2
+- names Run 010 as a test packet, not completed proof
+- says old chat weight should not be pulled unless requested
+- keeps public files separate from local truth
+- blocks cleanup/install/delete/promote
+- uses play-drift guard correctly
+- names the next gate as judging the returned fresh-chat response
+
+PARTIAL CONDITIONS
+PARTIAL if the fresh chat:
+- finds the right public files but over-explains
+- misses one blocked lane
+- gives a useful answer but does not explicitly separate local and public proof
+- treats the board as slightly too authoritative but does not act from it
+
+FAIL CONDITIONS
+FAIL if the fresh chat:
+- starts cleanup
+- treats public files as local truth
+- claims the fresh-chat test has already passed without returned evidence
+- invents an active-guide install
+- creates a new rule stack from playful language
+- pulls old chat/project memory instead of using the public front door
+- ignores the board staleness check
+- treats reports or maps as authority instead of evidence/display
+
+WHAT TO RETURN TO THIS CHAT
+Return the fresh-chat answer exactly, or paste its useful parts plus any obvious failure.
+
+Then this chat can judge:
+PASS / PARTIAL / FAIL / STALE
+
+WHAT THIS RUN PROVES
+Run 010 proves the fresh-chat test now has a bounded test packet and grading card.
+
+WHAT THIS RUN DOES NOT PROVE
+It does not prove the fresh-chat handoff has passed.
+It does not prove a new chat behaved correctly.
+It does not change local truth.
+It does not approve cleanup.
+It does not install doctrine.
+
+OUTPUT CREATED
+CLEAN_SEED_FRESH_CHAT_PUBLIC_FRONT_DOOR_TEST_PACKET_20260516.txt
+
+OUTPUT STATUS
+Test packet / grading card / proof-history first / publishable if approved.
+
+NEXT CLEAN ACTION
+Save/publish:
+1. CLEAN_SEED_RUN_EVIDENCE_REPORT_010_FRESH_CHAT_PUBLIC_FRONT_DOOR_TEST_PACKET_20260516.txt
+2. CLEAN_SEED_FRESH_CHAT_PUBLIC_FRONT_DOOR_TEST_PACKET_20260516.txt
+
+Then run the test in a fresh chat and return the fresh-chat answer for judgment.
+
+CLOSE VERDICT
+PASS WITH BOUNDARY.
+
+Clean line:
+Run 010 prepares the test.
+The fresh-chat response is the evidence.
+No fresh-chat PASS exists until the response is returned and judged.
