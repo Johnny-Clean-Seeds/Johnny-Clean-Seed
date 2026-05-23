@@ -6307,3 +6307,25 @@ Boundary:
 - no ACTIVE_GUIDES rewrite;
 - no CURRENT_TRUTH_INDEX rewrite;
 - no Work Shed rebuild.
+
+## 2026-05-23 — Issue Encounter Moving Forward Clause Save
+
+Saved explicit Moving Forward clause into the Issue Encounter Rule Repair Latch.
+
+Reason:
+The latch explained and saved the repair, but it still needed a future-action path: for now on I will do this, not that; this is better because it fixes named failures; apply it before the next similar task.
+
+Saved:
+- Moving Forward clause
+- Do-this-not-that commitment form
+- Pre-action guard requirement
+- Reserved-variable forward commitment
+- Parser-error forward commitment
+- Intended-files-vs-committed-files forward commitment
+
+Boundary:
+- no mule return capture;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no Work Shed rebuild.
