@@ -1,0 +1,250 @@
+.\ACTIVE_GUIDES\README_START_HERE.txt:103:For normal building, use a Build Proof Ledger. It can live in the seed card, evidence log, closeout, receipt, or report. It should track the required clean-seed groups in order: target, scope, authority, file truth, seed setup, word control, evidence, risk, failure, recovery, parking, promotion, close, verdict, and next state.
+.\ACTIVE_GUIDES\README_START_HERE.txt:125:Status words are authority words. Words such as saved, locked, active, applied, installed, exported, package truth, memory-only, done, PASS, sealed, parked, yielded, and pending must name their real boundary when trust could be affected.
+.\ACTIVE_GUIDES\README_START_HERE.txt:143:status: active, reference-only, rest stop, parked, retired, blocked, yielded, or follow-up needed
+.\ACTIVE_GUIDES\README_START_HERE.txt:201:A corner or edge can be marked checked, not affected, unavailable, unsafe/private, outside scope, parked, yielded, blocked, or closed with reason.
+.\ACTIVE_GUIDES\README_START_HERE.txt:230:one parking lane
+.\ACTIVE_GUIDES\README_START_HERE.txt:257:Clean seed means the smallest useful version of the build. It has one name, one home, one route, one evidence path, one failure path, one recovery path, one authority boundary, one parking lane, one promotion rule, and one close condition.
+.\ACTIVE_GUIDES\README_START_HERE.txt:278:Parking lane means the safe place for useful ideas that should be preserved but not activated yet.
+.\ACTIVE_GUIDES\README_START_HERE.txt:282:Parking Lane is for useful future ideas that should not hijack the active route. Rest Stop is for short-term idle clean material waiting for the next clean batch.
+.\ACTIVE_GUIDES\README_START_HERE.txt:323:4. Action words: what will be done, changed, saved, checked, parked, blocked, yielded, or closed?
+.\ACTIVE_GUIDES\README_START_HERE.txt:327:8. Verdict and status words: PASS, FAIL, PARTIAL, INVALID, YIELD, BLOCKED, PARKED, RETIRED, PROMOTED, or PASS WITH GUARDRAILS.
+.\ACTIVE_GUIDES\README_START_HERE.txt:328:9. Next-state words: what happens next, what stays parked, what closes, what promotes, and what loops back?
+.\ACTIVE_GUIDES\README_START_HERE.txt:346:Use Parking Lane for future growth ideas that should not hijack the active route.
+.\ACTIVE_GUIDES\README_START_HERE.txt:373:The clean promise is that dirty milk is recognized, classified, quarantined, blocked, parked, yielded, or repaired before it is carried forward.
+.\ACTIVE_GUIDES\README_START_HERE.txt:428:What role does this file have: active, reference-only, parked, retired, blocked, or unknown?
+.\ACTIVE_GUIDES\README_START_HERE.txt:517:Show roles — name the user, assistant, guard, police, judge, recorder, and parking lane for the current task.
+.\ACTIVE_GUIDES\README_START_HERE.txt:557:seedcmd/currenttruth â€” show the active guide files, support proof, test evidence, parked items, blocked items, and next clean action.
+.\ACTIVE_GUIDES\README_START_HERE.txt:572:Parking lane = useful future ideas preserved without hijacking the active lane.
+.\ACTIVE_GUIDES\README_START_HERE.txt:632:parked, retired, blocked, or unknown.
+.\ACTIVE_GUIDES\README_START_HERE.txt:723:Parking Lane:
+.\ACTIVE_GUIDES\README_START_HERE.txt:740:The report should name what was accepted, rejected, parked, what must be applied now, what must
+.\ACTIVE_GUIDES\README_START_HERE.txt:859:parked concept
+.\ACTIVE_GUIDES\README_START_HERE.txt:864:package or project location, or clearly parked with a saved status note. A concept does not become
+.\ACTIVE_GUIDES\README_START_HERE.txt:877:Use clear labels such as: new, already covered, refinement/tightening, duplicate, conflict, parked idea, rejected dirty milk, needs user judgment, locked/saved, or pending candidate only.
+.\ACTIVE_GUIDES\README_START_HERE.txt:881:The assistant should also say where the item belongs: core rule file, project file, evidence file, failure file, closeout file, parking lane, backup manifest, report footer, or chat-only/not saved.
+.\ACTIVE_GUIDES\README_START_HERE.txt:898:placed in the correct package, project, evidence, failure, closeout, parking, or backup location
+.\ACTIVE_GUIDES\README_START_HERE.txt:905:Collect means preserve the useful snippet in a stable place, or clearly state why it is parked, rejected, yielded, blocked, or chat-only.
+.\ACTIVE_GUIDES\README_START_HERE.txt:909:If a clean captured idea affects active rules, files, evidence, receipts, or future behavior, capture is not enough by itself. The assistant must lock/save it to the correct active location when safe and approved, or clearly mark it parked, blocked, yielded, rejected, or chat-only with reason.
+.\ACTIVE_GUIDES\README_START_HERE.txt:938:parked in the correct parking or evidence place
+.\ACTIVE_GUIDES\README_START_HERE.txt:1086:whether each item is new, already covered, refinement, duplicate, conflict, parked, blocked, or needs user judgment
+.\ACTIVE_GUIDES\README_START_HERE.txt:1149:rejected, parked, or saved.
+.\ACTIVE_GUIDES\README_START_HERE.txt:1182:When the assistant says something is done, fixed, clean, saved, locked, passed, parked, blocked,
+.\ACTIVE_GUIDES\README_START_HERE.txt:1191:Parked because the idea is useful but outside the current stage.
+.\ACTIVE_GUIDES\README_START_HERE.txt:1206:For Clean Seed work, every done, PASS, saved, locked, synced, sealed, parked, blocked, or no-action-needed claim should have enough proof for the user to understand why the state is trustworthy.
+.\ACTIVE_GUIDES\README_START_HERE.txt:1219:output, or clearly marked parked, rejected, blocked, or yielded.
+.\ACTIVE_GUIDES\README_START_HERE.txt:1231:This prevents the assistant from mixing old fixes, skipped fixes, rejected ideas, parked concepts,
+.\ACTIVE_GUIDES\README_START_HERE.txt:1244:That means asking whether the addition changes any active guide file, project file, prompt, evidence path, backup rule, command packet, folder role, verdict wording, parked idea, seal, or next clean action.
+.\ACTIVE_GUIDES\README_START_HERE.txt:1246:If a flaw or useful snippet is found, the assistant should place it in the correct active location: evidence belongs in evidence, failures belong in failures, future ideas belong in parking, close decisions belong in closeout, core rules belong only in the three core guide files, and project-specific material belongs only in the active project.
+.\ACTIVE_GUIDES\README_START_HERE.txt:1255:The assistant must prove it looked by listing each affected area as changed, unchanged/not affected, parked, blocked, yielded, or needs follow-up with reason.
+.\ACTIVE_GUIDES\README_START_HERE.txt:1304:If enough proof exists, the assistant should close the issue as PASS, no action needed, not affected, parked, blocked, yielded, or failed with the correct verdict.
+.\ACTIVE_GUIDES\README_START_HERE.txt:1528:It names the active guide files, support proof, live-test evidence, parked/reference material, blocked material, current patch ID, and next clean action.
+.\ACTIVE_GUIDES\README_START_HERE.txt:1582:name, lane, boundary, authority, evidence, verdict, failure capture, recovery, parking, sorting, fixing, promotion, bridge, and closure.
+.\ACTIVE_GUIDES\README_START_HERE.txt:1604:Unknown ideas are parked, not guessed into active doctrine.
+.\ACTIVE_GUIDES\README_START_HERE.txt:1623:PROOF_HISTORY stores receipts, ledgers, backups, parked references, quarantine evidence, and review packets. It can prove history, but it does not make recovered material active truth by identity.
+.\BRAIN\SUIT\UNIVERSAL_STATE_MACHINE_SOFT_TEST.md:28:- parked ideas
+.\BRAIN\SUIT\UNIVERSAL_STATE_MACHINE_SOFT_TEST.md:45:6. parked
+.\BRAIN\SUIT\UNIVERSAL_STATE_MACHINE_SOFT_TEST.md:69:parked:
+.\BRAIN\SUIT\UNIVERSAL_STATE_MACHINE_SOFT_TEST.md:92:routed -> parked
+.\BRAIN\SUIT\UNIVERSAL_STATE_MACHINE_SOFT_TEST.md:99:judged -> parked
+.\BRAIN\SUIT\UNIVERSAL_STATE_MACHINE_SOFT_TEST.md:103:parked -> classified
+.\BRAIN\SUIT\UNIVERSAL_STATE_MACHINE_SOFT_TEST.md:114:parked -> promoted without reclassification and proof
+.\BRAIN\SUIT\UNIVERSAL_STATE_MACHINE_SOFT_TEST.md:133:- protects parked material from deletion
+.\BRAIN\SUIT\UNIVERSAL_STATE_MACHINE_SOFT_TEST.md:153:- parked/support candidates
+.\BRAIN\SUIT\CAPTURE_SYSTEM_HELPER_PACK.md:18:- supports list, group, rank, boss, proof, and parking
+.\BRAIN\SUIT\CAPTURE_SYSTEM_HELPER_PACK.md:35:| CH-10 | Stabilize Before Repair | Big piles get classified and parked before repair. | Support link / boss flow | adopted-for-test |
+.\BRAIN\SUIT\CAPTURE_SYSTEM_HELPER_PACK.md:55:## Parked / support helpers
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:243:classification: new, refinement, duplicate, conflict, replacement, parked, rest stop, rejected, retired, or follow-up needed
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:245:status: active, reference-only, rest stop, parked, retired, blocked, yielded, or follow-up needed
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:279:parked
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:350:skipped lanes and why they are not needed, outside scope, unavailable, unsafe/private, parked, yielded, blocked, or already closed
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:395:PASS when every relevant corner and edge inside the approved scope is checked, marked not affected, unavailable, unsafe/private, outside scope, parked, yielded, blocked, or closed with reason, and the disproof test is clear.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:470:whether the file role is active, reference-only, parked, retired, blocked, or unknown
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:521:mark each file as active, reference-only, parked, retired, blocked, or unknown
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:541:parking lane
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:583:what old copy, old rule, or old role becomes retired, reference-only, parked, blocked, or
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:606:whether it belongs active now or parked for later
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:616:PARKED when the idea is useful but not active.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:654:After accepting, rejecting, parking, or yielding a patch, report a short patch receipt.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:662:files retired, parked, blocked, reference-only, or unknown
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:666:what dirty milk was removed, repaired, parked, blocked, or yielded
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:748:Use this rule when the user asks for a command list, asks where the police, guard, judge, owner, recorder, or parking lane is, or seems confused about which clean-seed control should act next.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:793:seedcmd/currenttruth â€” show the active guide files, support proof, test evidence, parked items, blocked items, and next clean action.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:811:Parking lane = parked ideas that are preserved but not active.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:841:the user cannot tell who owns direction, who guards boundaries, who catches conflict, who judges PASS, who records evidence, or where parked ideas go
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:909:11. Parking lane
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:926:define parking, define the promotion rule, and define the close condition.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:939:Create PARKED_IDEAS.txt when a future idea appears.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:956:boundary, Does-Not-Do / Out-of-Bounds list, parking lane, promotion rule, and close condition
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1020:Stage 3 closes when recovery is proven or explicitly parked with a reason.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1056:what remains parked
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1106:items if any, parked items if any, and next clean state.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1130:parked item, changed file, changed command, user decision, or next action, including:
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1139:parked items
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1159:what is parked, if anything
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1448:whether the file is new, changed, unchanged, backup, exported, retired, parked, blocked, or
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1461:place, duplicated, over-broadened, or mixed with a parked idea.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1497:old and new files exist without active, backup, retired, parked, blocked, or unknown status
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1539:parked concept with status
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1552:separate accepted fixes from rejected fixes, parked concepts, blocked items, and open tasks
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1574:Parked concepts:
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1580:a rejected fix, forgets a parked concept, loses a rule-implied task, or continues after interruption
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1663:accepted fixes, rejected fixes, parked ideas, save locations, and next clean state remain clear
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1716:8. Verdict and status words. Name PASS, PASS WITH GUARDRAILS, PARTIAL, FAIL, INVALID, YIELD, BLOCKED, PARKED, RETIRED, or PROMOTED with reason.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1717:9. Next-state, close, and promotion words. Name what happens next, what stays parked, what closes, what must not move, what may promote, and what loops back.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1722:Do not build forward until the drift is repaired, parked, blocked, or yielded.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1736:The assistant must state the holding status: REST STOP / PATCH CANDIDATE, PARKED, REFERENCE ONLY, NEEDS USER APPROVAL, NEEDS FILE PATCH, CHAT-ONLY, or INSTALLED.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1740:Use Parking Lane for future growth ideas that should not hijack the active route. Use Rest Stop for accepted clean material waiting briefly for the next proper patch batch.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1827:The clean promise is that dirty milk is recognized, classified, quarantined, blocked, parked, yielded, or repaired before it is carried forward.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1845:10. Give a verdict: active, reference-only, parked, blocked, yielded, retired, rejected dirty milk, or clean to continue.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1939:Review every wave-group item that affected the result, repair, verdict, open item, parked item,
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2023:what dirty milk was removed, repaired, parked, blocked, or yielded
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2343:PARKED means a useful idea or lane is saved but not active.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2376:INVALID, YIELD, BLOCKED, PARKED, PROMOTED, or RETIRED.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2489:parked items, if any
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2512:dirty milk removed, repaired, parked, blocked, or yielded
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2535:PASS, FAIL, PARTIAL, INVALID, YIELD, BLOCKED, PARKED, PROMOTED, or RETIRED without guessing.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2548:All required real evidence means every relevant piece needed by the pass judge to decide PASS, FAIL, PARTIAL, INVALID, YIELD, BLOCKED, PARKED, PROMOTED, or RETIRED.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2641:a parked idea that could later be confused as active
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2650:parked ideas
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2658:Do not save, patch, or lock files from a moving chat stack until accepted, rejected, and parked
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2676:parked ideas stay parked
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2684:PARTIAL when one accepted, rejected, or parked item is unclear.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2732:activate a parked idea without promotion proof
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2751:What should be parked, blocked, repaired, or wrapped:
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2802:rule refinements, or accepted/rejected/parked fix stacks could become unclear.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2815:Concept Capture / Clean Idea Parking Rule when the user mentions a new rule, shortcut, patch, future lane, design concept, helper concept, or workflow improvement.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2816:User Command List / Role Map Rule when the user asks for command list, role placement, police, guard, judge, owner, recorder, parking lane, or a user-friendly control surface.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2952:What dirty milk is being removed, repaired, or parked:
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2975:Did it keep evidence, authority, failure, recovery, parking, and closeout intact?
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2979:Repeat until the result is clean, parked, blocked, or yielded for user judgment.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2991:what dirty milk was removed, repaired, parked, blocked, or yielded
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3000:Do not hide reports, evidence, failures, rejected edits, parked ideas, or unresolved risks.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3015:bad milk was removed, repaired, or parked
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3016:evidence, authority, failure, recovery, parking, and close conditions still work
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3049:files retired, parked, blocked, reference-only, or unknown
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3052:what dirty milk was removed, repaired, parked, blocked, or yielded
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3082:what must be saved, backed up, synced, parked, blocked, yielded, or sealed
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3089:2. Classify it as active patch candidate, parked, rejected, blocked, yielded, or not needed.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3104:the new rule creates a follow-through task and the task is not completed, yielded, parked, blocked, or marked not affected
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3133:status words such as saved, locked, active, applied, installed, exported, package truth, memory-only, done, PASS, sealed, parked, yielded, or pending could overstate the real state
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3145:6. If it is not clean milk, duplicate, conflicting, outside-field, bloat-prone, unproven, or one-time-only, classify it as parked, rejected, reference-only, no action, yielded, blocked, or needs user approval.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3149:10. Use Active Thread Anchor when a long proof review or patch discussion is underway. Keep a bottom return anchor and classify interruptions as fixed-now, saved memory-only, parked, pending package patch, needs later review, rejected, yielded, or blocked.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3158:unclean or uncertain material is parked, rejected, yielded, blocked, or marked no action with reason
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3217:parking files or parking sections
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3289:Move only from a supported point verdict, or mark the point PARTIAL, INVALID, YIELD, BLOCKED, PARKED, or FAIL.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3327:classify the gap as new, refinement/tightening, duplicate, conflict, parked, rejected dirty milk, needs user judgment, or no-action-needed
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3331:status each affected front as changed, unchanged/not affected, parked, blocked, yielded, or needs follow-up
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3391:Use this rule whenever a flaw, fix, snippet, rule idea, rejected idea, parked idea, proof detail,
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3402:future ideas go in PARKED_IDEAS.txt when active, or in the active parking section
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3415:whether it is active, parked, rejected, blocked, yielded, evidence, failure, backup, or closeout
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3422:Use this rule whenever the assistant captures a rule, issue, flaw, concept, snippet, patch idea, evidence item, project note, user correction, assistant correction, rejected idea, parked idea, or follow-through task during clean-seed work.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3433:parked idea
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3446:parking lane
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3463:a captured item has no active/parked/rejected/blocked/yielded/saved status
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3465:the assistant cannot say whether an item is new, already covered, a refinement, duplicate, conflict, parked, rejected, or saved
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3474:clean relevant fixes are applied and locked/saved instead of parked by default
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3509:Until the save route completes, the item must be marked pending candidate, parked, blocked, yielded, or chat-only with reason. Do not call it locked, saved, installed, or clean from memory alone.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3519:classification: new, already covered, refinement, duplicate, conflict, parked idea, rejected dirty milk, needs user judgment, locked/saved, or pending candidate only
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3520:placement: core rule file, project file, evidence file, failure file, closeout file, parking lane, backup manifest, report footer, or chat-only/not saved
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3521:status: active, locked/saved, parked, rejected, blocked, yielded, pending, or not needed
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3530:Gold snippets must not be inserted into the wrong file just because they are useful. Core doctrine belongs in the three core files. Project-specific findings belong in the active project. Evidence belongs in evidence files. Failure scenes belong in failure files. Future ideas belong in parking.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3538:Does it follow Recursive Core Architecture: clean placement, boundary, authority, evidence, verdict, close condition, parking, and promotion?
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3562:wrong-lane snippets are parked, yielded, blocked, rejected, or marked chat-only
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3590:status: active, reference-only, parked, backup, evidence, failure, output, prompt, closeout,
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3644:Concept Capture / Clean Idea Parking Rule
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3662:parked concept
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3677:build-specific ideas go in the active build's parking lane or project notes
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3678:future lanes go in PARKED_IDEAS.txt when that file is active or needed
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3687:Do not let parked concepts control the active build without Promotion Passport and user approval.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3694:rejected or parked ideas later get treated as active fixes
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3695:concepts accumulate without active, parked, rejected, or needs-judgment status
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3702:parked concepts have a reopen condition
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3706:blocked, yielded, or parked with a saved status
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3726:parked, rejected dirty milk, needs user judgment, locked/saved, or pending only
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3733:what remains open, parked, blocked, yielded, or no-action-needed
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3744:a new rule is added but its rule-implied follow-through is not completed, parked, blocked, yielded,
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3921:record the outcome as fixed, parked, blocked, yielded, or no-action-needed with reason
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3949:separate accepted, rejected, parked, blocked, yielded, and pending items
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3960:saved, passed, failed, partial, invalid, parked, blocked, yielded, unchanged, no-action-needed,
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3979:Parked because the idea is useful but outside the current stage and has a reopen condition.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4029:report which fixes passed, failed, stayed pending, were parked, were blocked, or need user judgment
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4056:each item's classification: new, already covered, refinement / tightening, duplicate, conflict, parked idea, rejected dirty milk, needs user judgment, locked/saved, pending candidate only, or active task
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4087:the final report says which items passed, remain pending, were parked, blocked, yielded, or not affected
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4110:parked, blocked, rejected, or yielded item with saved or clearly stated status
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4153:Suggestion / Yield Severity, to decide whether the item is a suggestion, YIELD, HIGH-RISK YIELD, parked concept, rejected dirty milk, or active patch candidate
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4158:Clean Finding Placement, if a flaw, proof detail, rule idea, rejected idea, or parked idea must be saved or statused
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4204:Clean milk appears when every required follow-through task created by the saved change is completed, yielded, parked, blocked, or marked not affected with reason.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4364:the idea can be parked without risk
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4368:user judgment is needed before saving, applying, parking, rejecting, or promoting the idea
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4391:parked for later sync
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4411:dependent project files are updated, marked stale, parked, not affected with reason, or yielded
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4416:Parking And Promotion Rule
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4422:A parked idea should have:
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4432:Before a parked idea, rule, helper, bridge, file role, patch, or core becomes active, it needs a
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4452:A parked idea can become active only when:
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4466:Use this only when bridge work is actually requested or a parked bridge idea is being promoted.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4501:what is parked, if anything
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4593:parked/reference material
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4620:stale/backup/parked/reference lanes
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4632:The assistant must prove classification, routing, active guide state, proof/history state, live-test state, parked/reference state, blocked state, duplicates, stale files, expected files, hashes when needed, and remaining unknowns.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4656:The assistant must check active guide hashes when available, known gap list, staged files, proof/history status, live-test status, parked/reference status, blocked status, next action, and whether any earlier claim became too absolute.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4717:Pull parked or support material only when an active need, named route/key, proof gap, risk, or user approval requires it.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4777:parked reference
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4790:One unbanked gold item is the maximum. If a second gold item appears before the first is recorded, pause or yield until the first is banked, parked, blocked, or statused.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4849:CLEAN_SEED_PATCH_SCOPE_STATE_TRIGGER_LOCK is parked as proof-history reference only. It is not README doctrine and does not approve a guide change by itself.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4863:parked, yielded, or moved between stations.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4866:Before switching stations, branching, parking, saving, yielding, resuming, or ending a
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4869:BALL -> STATION -> LIVE ITEMS -> SHELVED/PARKED ITEMS -> LOAD -> VERDICT -> NEXT MOVE
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4891:BALL -> STATION -> PARK REASON -> RETURN TRIGGER -> FIRST MOVE
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4894:STATION -> TARGET -> VERDICT -> PARKED -> NEXT
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4954:- Not wanted active means parked, reference-only, merged, or rejected-as-active but retained.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:5001:- Parking / Reference / Reject-as-Active split
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:5243:If not, place it in reference or parking. Do not turn signs into mysticism, vibes, or
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:5359:- Message queue: user note parked with a rope until next clean checkpoint.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:5372:If not, place it in reference or parking. Do not turn signs into vibes, mysticism, or
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:5385:PASSIVE NOTE-HOLDING / MESSAGE PARKING
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:5392:- status: parked, affects packet, needs digestion, or later
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:5395:Message parking is not forgetting. It is holding the message with a rope.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:5432:- needs parking
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:5449:- Did it create a future parking-lot route?
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:5452:included / already covered / parked with reason / rejected with reason / needs approval /
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:5462:- parent state: applied, unapplied, soft-applied, parked, rejected
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:5467:FORWARD-LOOKING PARKING-LOT WATCH
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:5469:During shed/notes/parking-lot review, proactively watch for:
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:5477:- overparking pressure
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:5513:- parked notes
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:5571:- Heavy but useful material is parked/reference.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:5585:PARKED when useful but not ready.
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:59:Use PARKED when the idea is useful but not active.
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:91:one parking lane
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:239:Was User Command List / Role Map needed because the user asked for command list, role placement, police, guard, judge, owner, recorder, parking lane, or user-friendly controls?
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:273:dirty milk is removed, repaired, parked, blocked, or yielded
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:309:What classification applies: new, already covered, refinement, duplicate, conflict, parked,
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:319:Are remaining issues closed, parked, blocked, yielded, or named with next action?
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:339:open items are explicitly closed, parked, blocked, yielded, or assigned a next action
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:490:Use this check when the user asks for a command list, asks where the police, guard, judge, owner, recorder, or parking lane is, or when user-friendly controls are being added, changed, or judged.
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:521:Are the roles clear: user as owner, assistant as guide, guard as boundary protection, police as conflict and clean-milk review, judge as pass judge and verdict standard, recorder as evidence/receipt/backup, and parking lane as preserved non-active ideas?
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:532:the user cannot tell who owns direction, who guards boundaries, who catches conflict, who judges PASS, who records evidence, or where parked ideas go
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:559:Is it new, refinement, duplicate, conflict, replacement, parked, rest stop, rejected, retired, or follow-up needed?
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:561:What is its status: active, reference-only, rest stop, parked, retired, blocked, yielded, or follow-up needed?
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:566:For each partner, is it changed, unchanged/not affected, parked, rest stop, blocked, yielded, retired, or follow-up needed, and why?
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:615:Were skipped lanes marked not affected, unavailable, unsafe/private, outside scope, parked, yielded, blocked, or closed with reason?
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:661:Was the conflict fixed, parked, blocked, yielded, or marked no-action-needed with reason?
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:704:Did the assistant separate accepted, rejected, parked, blocked, yielded, and pending items?
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:736:locked, saved, passed, failed, partial, invalid, parked, blocked, yielded, unchanged,
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:757:the assistant says parked, blocked, or yielded without naming the reason
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:901:Does it leave future features parked?
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:940:Parking:
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:942:Does every parked idea have a reopen condition?
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:1140:Are parked concepts still parked?
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:1154:the assistant loses a parked concept
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:1163:accepted, rejected, parked, blocked, yielded, and open items are separated
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:1166:rule-implied follow-through is completed, yielded, parked, blocked, or marked not affected
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:1193:Did the final report separate passed fixes, failed fixes, parked items, blocked items, yielded items, and remaining pending issues?
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:1210:follow-through tasks are completed, parked, blocked, yielded, or marked not affected
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:1231:Was each item classified as new, already covered, refinement / tightening, duplicate, conflict, parked idea, rejected dirty milk, needs user judgment, locked/saved, pending candidate only, or active task?
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:1232:Was placement named when the item belongs in a core file, project file, evidence file, failure file, closeout file, parking lane, backup manifest, report footer, or chat-only state?
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:1237:Did the final report separate passed items, pending items, parked items, blocked items, yielded items, failed items, and not-affected items?
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:1278:Should that partial work be discarded, inspected, parked, or treated as unknown?
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:1283:True verified locations include saved files confirmed by printed output text, locked/sent package files, accepted fixes, created backups, verified command outputs, recorded evidence, recorded verdicts, synced file sets, and clearly statused parked/blocked/rejected/yielded items.
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:1298:partial/unsent work is discarded, inspected, parked, or marked unknown

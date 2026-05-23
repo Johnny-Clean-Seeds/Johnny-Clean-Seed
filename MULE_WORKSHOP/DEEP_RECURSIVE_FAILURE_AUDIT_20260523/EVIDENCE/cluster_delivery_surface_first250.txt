@@ -1,0 +1,250 @@
+.\CleanMilkChecker\STAGE_2_CLOSEOUT.txt:16:PowerShell command used $Input as a normal variable name during TEST 005.
+.\DECISION_NOTES\POWERSHELL_ONE_RUNNER_LOCK_SAVE_RULE_20260517_221201.txt:1:TITLE: PowerShell One-Runner Lock/Save Rule
+.\DECISION_NOTES\POWERSHELL_ONE_RUNNER_LOCK_SAVE_RULE_20260517_221201.txt:4:The local lock/save workflow became annoying and fragile because work was split across multiple paste blocks, shell location could drift outside the repo, proof receipts could be hidden by ignore rules, and PowerShell continuation prompts could make the shell look broken.
+.\DECISION_NOTES\POWERSHELL_ONE_RUNNER_LOCK_SAVE_RULE_20260517_221201.txt:31:Avoid live-shell patterns that leave PowerShell at >>. Prefer one complete runner or a prepared script/note path.
+.\DECISION_NOTES\ASSISTANT_LAST_SAY_LOCAL_LAST_SAVE_STRAIGHT_PATH_20260517_215521.txt:8:- Local last save = durable persistence through PowerShell, repo files, proof, git commit, push, and clean status.
+.\DECISION_NOTES\ASSISTANT_LAST_SAY_LOCAL_LAST_SAVE_STRAIGHT_PATH_20260517_215521.txt:17:7. Save through local PowerShell/repo home.
+.\CURRENT_TRUTH_INDEX.txt:11:Local PowerShell/repo path has last save for durable truth.
+.\ACTIVE_GUIDES\README_START_HERE.txt:478:Fast PowerShell option:
+.\ACTIVE_GUIDES\README_START_HERE.txt:480:POWERSHELL — paste this
+.\ACTIVE_GUIDES\README_START_HERE.txt:753:PowerShell command, it should do that instead of leaving you to guess the folder.
+.\ACTIVE_GUIDES\README_START_HERE.txt:781:fresh prompt or PowerShell window when that is the cleanest reset.
+.\ACTIVE_GUIDES\README_START_HERE.txt:789:A printed PASS line from PowerShell or a terminal usually proves only that the file-save, copy,
+.\ACTIVE_GUIDES\README_START_HERE.txt:835:PowerShell on Windows. If the system is unknown, the assistant should use neutral wording like
+.\ACTIVE_GUIDES\README_START_HERE.txt:1122:close and reopen a fresh prompt or PowerShell window before continuing.
+.\ACTIVE_GUIDES\README_START_HERE.txt:1124:When repeated folder, prompt, PowerShell, Command Prompt, or command-center work becomes likely,
+.\ACTIVE_GUIDES\README_START_HERE.txt:1189:Done because the file was saved and PowerShell printed the expected path.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:98:Use available tools, generated files, PowerShell, Command Prompt, exact file packets, or the
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1075:Do not use a copy/paste box unless the user needs to copy exact text.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1085:[target-labeled copy/paste boxes for the current wave]
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1087:Copy/paste the output back here.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1206:Copy/Paste Target Rule
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1208:Every copy/paste box must name the exact target before the box.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1213:POWERSHELL — paste this
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1219:A PowerShell box must contain only PowerShell commands.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1257:Press Win + R, type powershell, then press Enter.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1258:Paste the command into PowerShell and press Enter.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1259:Send back the two PASS lines PowerShell prints.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1286:PowerShell continuation prompt, missing a closing quote marker, or blended with older output,
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1290:prompt or terminal input, reopening a fresh prompt or PowerShell window, and rerunning a smaller
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1310:the user can close and reopen a fresh prompt or PowerShell window without losing the active route
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1337:Send back only the PASS line PowerShell prints.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1338:Send back the error text if PowerShell prints an error.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1350:reset, including closing and reopening a fresh prompt or PowerShell window when that prevents
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1385:whether the wording would still work on Windows, Mac, Linux, PowerShell, Command Prompt, Terminal,
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1398:Paste this into PowerShell with right-click or Ctrl + V, then press Enter.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1412:the assistant gives Windows-only, Mac-only, Linux-only, PowerShell-only, or Terminal-only wording
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1455:If the assistant has a safe available tool or can provide a bounded PowerShell or Command Prompt
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:1600:open PowerShell at the project home
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2309:Closure condition: PowerShell prints PASS for all three synced core guide files.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2401:PowerShell packets, command packets, seed-card test cases, verdict reports, and stage proof tests
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:2811:Setup Shortcut Rule when repeated prompt, terminal, folder, command-center, PowerShell, or
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:3528:Gold snippets that belong in active package or project files must be locked/saved when safe and approved by the active rule context. If the assistant cannot save directly, it must create the exact file artifact or exact PowerShell/file packet needed to save the snippet in the correct place.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4196:If the assistant can safely perform the task with available tools or a clear PowerShell packet, it should do so or give the exact command packet.
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4395:PowerShell, command packets, generated files, or available file tools should be used when they are
+.\ACTIVE_GUIDES\CLEAN_SEED_WRAP_GUIDE.txt:4412:PowerShell or another safe direct-save route is used when it is the easiest clean route
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:225:Was Setup Shortcut needed because repeated prompt, terminal, folder, PowerShell, Command Prompt,
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:261:route for repeated prompt, terminal, folder, PowerShell, Command Prompt, or command-center work
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:1046:Should the assistant recommend closing and reopening a fresh prompt or PowerShell window before
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:1054:PowerShell or Command Prompt output is incomplete but treated as PASS
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:1093:Did the assistant recommend closing and reopening a fresh prompt or PowerShell window when that
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:1120:YIELD when the user should return a smaller output, close/reopen a fresh prompt or PowerShell
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:3319:Setup Shortcut is used only when repeated prompt, terminal, folder, PowerShell, Command Prompt,
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:3857:Should the assistant give a PowerShell packet or exact file packet because that is the easiest safe route?
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:3877:PowerShell or available file tools are used when they are the easiest safe route
+.\ACTIVE_GUIDES\CLEAN_SEED_ALIGNMENT_CHECK.txt:4011:Was the easiest safe save/sync route used, such as PowerShell or an available file tool when
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\README_START_HERE.txt:152:Fast PowerShell option:
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\README_START_HERE.txt:154:POWERSHELL — paste this
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\README_START_HERE.txt:355:PowerShell command, it should do that instead of leaving you to guess the folder.
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\README_START_HERE.txt:383:fresh prompt or PowerShell window when that is the cleanest reset.
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\README_START_HERE.txt:391:A printed PASS line from PowerShell or a terminal usually proves only that the file-save, copy,
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\README_START_HERE.txt:421:PowerShell on Windows. If the system is unknown, the assistant should use neutral wording like
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\README_START_HERE.txt:517:close and reopen a fresh prompt or PowerShell window before continuing.
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\README_START_HERE.txt:519:When repeated folder, prompt, PowerShell, Command Prompt, or command-center work becomes likely,
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:98:Use available tools, generated files, PowerShell, Command Prompt, exact file packets, or the
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:633:Do not use a copy/paste box unless the user needs to copy exact text.
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:643:[target-labeled copy/paste boxes for the current wave]
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:645:Copy/paste the output back here.
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:764:Copy/Paste Target Rule
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:766:Every copy/paste box must name the exact target before the box.
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:771:POWERSHELL — paste this
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:777:A PowerShell box must contain only PowerShell commands.
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:815:Press Win + R, type powershell, then press Enter.
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:816:Paste the command into PowerShell and press Enter.
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:817:Send back the two PASS lines PowerShell prints.
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:844:PowerShell continuation prompt, missing a closing quote marker, or blended with older output,
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:848:prompt or terminal input, reopening a fresh prompt or PowerShell window, and rerunning a smaller
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:868:the user can close and reopen a fresh prompt or PowerShell window without losing the active route
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:895:Send back only the PASS line PowerShell prints.
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:896:Send back the error text if PowerShell prints an error.
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:908:reset, including closing and reopening a fresh prompt or PowerShell window when that prevents
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:943:whether the wording would still work on Windows, Mac, Linux, PowerShell, Command Prompt, Terminal,
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:956:Paste this into PowerShell with right-click or Ctrl + V, then press Enter.
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:970:the assistant gives Windows-only, Mac-only, Linux-only, PowerShell-only, or Terminal-only wording
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:1013:If the assistant has a safe available tool or can provide a bounded PowerShell or Command Prompt
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:1158:open PowerShell at the project home
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:1463:PowerShell packets, command packets, seed-card test cases, verdict reports, and stage proof tests
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:1798:Setup Shortcut Rule when repeated prompt, terminal, folder, command-center, PowerShell, or
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:2165:If the assistant can safely perform the task with available tools or a clear PowerShell packet, it should do so or give the exact command packet.
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:2221:PowerShell, command packets, generated files, or available file tools should be used when they are
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_WRAP_GUIDE.txt:2238:PowerShell or another safe direct-save route is used when it is the easiest clean route
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_ALIGNMENT_CHECK.txt:187:Was Setup Shortcut needed because repeated prompt, terminal, folder, PowerShell, Command Prompt,
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_ALIGNMENT_CHECK.txt:213:route for repeated prompt, terminal, folder, PowerShell, Command Prompt, or command-center work
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_ALIGNMENT_CHECK.txt:473:Should the assistant recommend closing and reopening a fresh prompt or PowerShell window before
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_ALIGNMENT_CHECK.txt:481:PowerShell or Command Prompt output is incomplete but treated as PASS
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_ALIGNMENT_CHECK.txt:520:Did the assistant recommend closing and reopening a fresh prompt or PowerShell window when that
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_ALIGNMENT_CHECK.txt:547:YIELD when the user should return a smaller output, close/reopen a fresh prompt or PowerShell
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_ALIGNMENT_CHECK.txt:1754:Setup Shortcut is used only when repeated prompt, terminal, folder, PowerShell, Command Prompt,
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_ALIGNMENT_CHECK.txt:2170:Should the assistant give a PowerShell packet or exact file packet because that is the easiest safe route?
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_ALIGNMENT_CHECK.txt:2190:PowerShell or available file tools are used when they are the easiest safe route
+.\CORE_GUIDE_BACKUPS\CORE_GUIDES_BEFORE_CONFLICT_FREEZE_DONE_REASON_SYNC_20260508_074637\CLEAN_SEED_ALIGNMENT_CHECK.txt:2220:Was the easiest safe save/sync route used, such as PowerShell or an available file tool when
+.\_MERGE_AUDIT\excluded_paths.tsv:117:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\BRAIN_LEARNING\MR_KLEEN_POWERSHELL_SAVE_GATE_20260518.md"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:128:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\BRAIN_LEARNING\POWERSHELL_COPY_DELIVERY_LINT_AND_SCRIPT_EXECUTION_RULE_20260520.md"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:129:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\BRAIN_LEARNING\POWERSHELL_OUTPUT_GAP_AND_PARTIAL_PASTE_RULE_20260519.md"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:130:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\BRAIN_LEARNING\POWERSHELL_PASTE_FALSE_SUCCESS_GUARD_20260520.md"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:346:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\DECISION_NOTES\POWERSHELL_ONE_RUNNER_LOCK_SAVE_RULE_20260517_221201.txt"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:490:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\HOUSE_WORK\TODO\POWERSHELL_COMMAND_SAFETY_TODO_20260520.md"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:559:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\POWERSHELL_DELIVERY_LINT_REPAIR_INSTANTIATION_20260520.md"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:613:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\HOUSE_WORK\WORK_SHED\INCOMING_FILE_PARKING\LANES\02_TOOL_CANDIDATES\POWERSHELL_TOOL_CANDIDATE_TEXT_INSPECTION_20260519.md"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:866:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\HOUSE_WORK\WORK_SHED\SORTING_BENCH\ARTIFACT_SELF_CHECK_SECOND_LIVE_USE_POWERSHELL_DELIVERY_20260520.md"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:891:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\HOUSE_WORK\WORK_SHED\SORTING_BENCH\DESKTOP_HELPER_LEFT_BEHIND_DELIVERY_FAILURE_20260520.md"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:933:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\HOUSE_WORK\WORK_SHED\SORTING_BENCH\POWERSHELL_DELIVERY_REPEAT_FAILURE_WEAKEST_LINK_TRIAGE_20260520.md"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:934:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\HOUSE_WORK\WORK_SHED\SORTING_BENCH\POWERSHELL_FALSE_PASS_AWARENESS_POWER_PLAY_20260519.md"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:935:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\HOUSE_WORK\WORK_SHED\SORTING_BENCH\POWERSHELL_PASTE_FAILURE_DISSECTION_20260520.md"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:963:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\HOUSE_WORK\WORK_SHED\SORTING_BENCH\SAVE_METHOD_DELIVERY_LINT_HANDOFF_DISPOSITION_20260520.md"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:1087:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\PROOF_HISTORY\BOSS_GHOST_TODO_TRIAGE_MAP_AND_DELIVERY_FIX_RECEIPT_20260520.txt"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:1179:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\PROOF_HISTORY\DESKTOP_HELPER_DELIVERY_HYGIENE_RULE_RECEIPT_20260520.txt"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:1266:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\PROOF_HISTORY\INDEX_HISTORY\POWERSHELL_ONE_RUNNER_LOCK_SAVE_PROOF_20260517_221201.txt"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:1299:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\PROOF_HISTORY\MR_KLEEN_POWERSHELL_SAVE_GATE_CLEAN_RECEIPT_20260518.txt"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:1300:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\PROOF_HISTORY\MR_KLEEN_POWERSHELL_SAVE_GATE_FINAL_RECEIPT_20260518.txt"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:1343:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\PROOF_HISTORY\POWERSHELL_DELIVERY_LINT_REPAIR_RECEIPT_20260520.txt"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:1344:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\PROOF_HISTORY\POWERSHELL_OUTPUT_GAP_AND_PARTIAL_PASTE_RULE_RECEIPT_20260519.txt"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:1345:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\PROOF_HISTORY\POWERSHELL_PASTE_FALSE_SUCCESS_GUARD_RECEIPT_20260520.txt"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:1346:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\PROOF_HISTORY\POWERSHELL_TOOL_CANDIDATE_TEXT_INSPECTION_RECEIPT_20260519.txt"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:2458:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\TOOLS\LOCAL_HARD_BRIDGE_V1\HUB\RECEIPTS\PROCESSED_REQUESTS\REQ_0003_POWERSHELL_CHECK_REQUEST.json"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:2479:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\TOOLS\LOCAL_HARD_BRIDGE_V1\HUB\RECEIPTS\REQ_0003_POWERSHELL_CHECK_RECEIPT.txt"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:2504:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\TOOLS\LOCAL_HARD_BRIDGE_V1\HUB\RESPONSES\REQ_0003_POWERSHELL_CHECK_RESPONSE.json"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:3317:"Jxhnny_Kleen_C3dz"	"HOUSE_WORK\WORK_SHED\GEAR_RACK\CODE_CABINET\POWERSHELL_DELIVERY_LINT_REPAIR_INSTANTIATION_20260520.md"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:3375:"Jxhnny_Kleen_C3dz"	"HOUSE_WORK\WORK_SHED\INCOMING_FILE_PARKING\LANES\02_TOOL_CANDIDATES\POWERSHELL_TOOL_CANDIDATE_TEXT_INSPECTION_20260519.md"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:3642:"Jxhnny_Kleen_C3dz"	"HOUSE_WORK\WORK_SHED\SORTING_BENCH\ARTIFACT_SELF_CHECK_SECOND_LIVE_USE_POWERSHELL_DELIVERY_20260520.md"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:3680:"Jxhnny_Kleen_C3dz"	"HOUSE_WORK\WORK_SHED\SORTING_BENCH\DESKTOP_HELPER_LEFT_BEHIND_DELIVERY_FAILURE_20260520.md"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:3737:"Jxhnny_Kleen_C3dz"	"HOUSE_WORK\WORK_SHED\SORTING_BENCH\POWERSHELL_DELIVERY_LONG_BOX_FAILURE_CAPTURE_20260522.md"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:3738:"Jxhnny_Kleen_C3dz"	"HOUSE_WORK\WORK_SHED\SORTING_BENCH\POWERSHELL_DELIVERY_REPEAT_FAILURE_WEAKEST_LINK_TRIAGE_20260520.md"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:3739:"Jxhnny_Kleen_C3dz"	"HOUSE_WORK\WORK_SHED\SORTING_BENCH\POWERSHELL_FALSE_PASS_AWARENESS_POWER_PLAY_20260519.md"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:3740:"Jxhnny_Kleen_C3dz"	"HOUSE_WORK\WORK_SHED\SORTING_BENCH\POWERSHELL_PASTE_FAILURE_DISSECTION_20260520.md"	"shed_or_bridge"
+.\_MERGE_AUDIT\excluded_paths.tsv:3773:"Jxhnny_Kleen_C3dz"	"HOUSE_WORK\WORK_SHED\SORTING_BENCH\SAVE_METHOD_DELIVERY_LINT_HANDOFF_DISPOSITION_20260520.md"	"shed_or_bridge"
+.\CleanMilkChecker\backups\FINAL_WRAP_BACKUP_20260508_064047\failures\STAGE_2_FAILURE_001_BAD_VARIABLE_CAPTURE.txt:10:PowerShell command used $Input as a variable name during TEST 005 invalid-input creation.
+.\CleanMilkChecker\backups\FINAL_WRAP_BACKUP_20260508_064047\failures\STAGE_2_FAILURE_001_BAD_VARIABLE_CAPTURE.txt:17:PowerShell printed:
+.\CleanMilkChecker\backups\FINAL_WRAP_BACKUP_20260508_064047\failures\STAGE_2_FAILURE_001_BAD_VARIABLE_CAPTURE.txt:24:$Input is unsafe as a normal variable name because PowerShell has a built-in automatic variable named $input. The printed path was blank, so the command result could not prove the file path.
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:149:$DeliveryLintRulePath = "BRAIN_LEARNING\POWERSHELL_COPY_DELIVERY_LINT_AND_SCRIPT_EXECUTION_RULE_20260520.md"
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:159:$DispositionPath = "HOUSE_WORK\WORK_SHED\SORTING_BENCH\SAVE_METHOD_DELIVERY_LINT_HANDOFF_DISPOSITION_20260520.md"
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:164:    $DeliveryLintRulePath,
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:199:The problem came from repeated PowerShell delivery failures:
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:201:- prose pasted into PowerShell;
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:202:- Markdown fence text pasted into PowerShell;
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:212:Patch Code Cabinet / Delivery Lint references so new handoff assistants know the standard.
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:252:A new handoff assistant must not relearn the same PowerShell delivery mistakes.
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:256:For Mr.Kleen saves that require long PowerShell or multiple coordinated files, use the safe save method:
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:259:2. Prefer a downloadable ps1 file for long scripts.
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:263:6. Keep chat prose out of PowerShell copy material.
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:264:7. Keep Markdown fence text out of PowerShell copy material.
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:279:This method exists because the repeated failure was delivery/lint/recovery, not Git.
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:283:The weak link was sending/running long PowerShell safely.
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:289:- long scripts use Code Cabinet;
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:290:- delivery must be linted before send;
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:332:Do not put prose inside PowerShell copy material.
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:334:Do not let Markdown fence text enter PowerShell.
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:372:# Save Method / Delivery Lint Handoff Disposition
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:388:- prose pasted into PowerShell;
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:389:- Markdown fence text pasted into PowerShell;
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:402:- delivery lint patch;
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:419:$DeliveryLintRulePath
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:469:Do not rely on giant chat copy blocks for long PowerShell when delivery errors have repeated.
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:476:$DeliveryMarker = "2026-05-20 - Handoff Parser Lint Patch"
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:477:$DeliveryAppend = @"
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:480:## $DeliveryMarker
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:482:Downloaded ps1 delivery should include parser/lint check before execution when possible.
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:499:- downloadable ps1 preferred for long scripts;
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:503:- no prose or Markdown fence text in PowerShell input;
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:518:- Code Cabinet and delivery lint are the required route;
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:519:- downloadable ps1 plus parser/lint run command is preferred for long scripts;
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:520:- partial failures recover only through expected-dirty-path proof;
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:521:- no giant unsafe chat-copy PowerShell when delivery errors repeat.
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:528:Append-Once -Path $DeliveryLintRulePath -Marker $DeliveryMarker -Text $DeliveryAppend
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:537:Require-Text -Path $DeliveryLintRulePath -Needle "Handoff Parser Lint Patch"
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:551:- Long Mr.Kleen save scripts should use Code Cabinet and downloadable ps1 delivery.
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:553:- Partial failures before commit require narrow expected-dirty-path recovery.
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:554:- PowerShell delivery/lint weakness is now captured as handoff method, not just a one-off fix.
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:558:- Use the handoff safe save method for future long scripts.
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:563:- Do not use giant unsafe chat-copy PowerShell when delivery errors have repeated.
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:564:- Do not put prose or Markdown fence text into PowerShell copy material.
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:596:$DeliveryLintRulePath
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:604:- Code Cabinet plus delivery lint is required for long Mr.Kleen save scripts;
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:605:- downloaded ps1 delivery should use process-scope execution-policy bypass and parser/lint check where possible;
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:606:- partial failures must recover through expected-dirty-path proof only;
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:628:    $DeliveryLintRulePath,
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:663:- downloadable ps1 for long scripts;
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:667:- no prose or Markdown fence text in PowerShell input;
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_SAFE_SAVE_METHOD_LOCK_20260520.ps1:727:Run-Git add -- $InstantiationPath $HandoffRulePath $HandoffCardPath $DispositionPath $CodeCabinetRulePath $DeliveryLintRulePath $SkeletonPath $TodoControlBoardPath $AnchorPath $StatusPath | Out-Null
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_NO_SOURCE_GETS_THRONE_SOURCE_VEIN_NEXT_STEP_20260522.md:32:Keep code delivery compact. Long body goes into a script/file packet; chat gets short launcher only.
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_NO_SOURCE_GETS_THRONE_SOURCE_VEIN_NEXT_STEP_20260522.md:78:- No-long-tall PowerShell delivery rule
+.\COMMAND_CENTER\HANDOFF_INBOX\HANDOFF_NO_SOURCE_GETS_THRONE_SOURCE_VEIN_NEXT_STEP_20260522.md:142:```powershell
+.\COMMAND_CENTER\HANDOFF_INBOX\CLEAN_SEED_RUN_EVIDENCE_REPORT_007_NEW_CHAT_BOARD_HANDOFF_TEST_20260516.txt:144:Public-visible proof and local proof are different. A new chat may use public material as handoff state, but local save/publish claims still need local PowerShell proof or direct verification.
+.\COMMAND_CENTER\HANDOFF_INBOX\CLEAN_SEED_RUN_EVIDENCE_REPORT_007_NEW_CHAT_BOARD_HANDOFF_TEST_20260516.txt:212:It did not verify local filesystem state beyond the previous PowerShell proof and public GitHub visibility.
+.\COMMAND_CENTER\HANDOFF_INBOX\CLEAN_SEED_NEW_CHAT_HANDOFF_CARD_20260516.txt:75:Local file truth still needs local proof, hashes, paths, or PowerShell output.
+.\COMMAND_CENTER\CHILD_SHELL_PROBES\CHILD_SHELL_ROUTE_PROBE_20260521_033536.md:44:``powershell
+.\COMMAND_CENTER\CHILD_SHELL_PROBES\CHILD_SHELL_ROUTE_PROBE_20260521_033536.md:50:- C:\Users\13527\Desktop\123\TOOLS\LOCAL_HARD_BRIDGE_V1\HUB\RECEIPTS\PROCESSED_REQUESTS\REQ_0003_POWERSHELL_CHECK_REQUEST.json | bytes=76 | modified=05/20/2026 23:53:58
+.\COMMAND_CENTER\CHILD_SHELL_PROBES\CHILD_SHELL_ROUTE_PROBE_20260521_033536.md:68:- C:\Users\13527\Desktop\123\TOOLS\LOCAL_HARD_BRIDGE_V1\HUB\RESPONSES\REQ_0003_POWERSHELL_CHECK_RESPONSE.json | bytes=501 | modified=05/20/2026 23:53:59
+.\COMMAND_CENTER\CHILD_SHELL_PROBES\CHILD_SHELL_ROUTE_PROBE_20260521_033536.md:98:- C:\Users\13527\Desktop\123\TOOLS\LOCAL_HARD_BRIDGE_V1\HUB\RECEIPTS\REQ_0003_POWERSHELL_CHECK_RECEIPT.txt | bytes=707 | modified=05/20/2026 23:53:59
+.\COMMAND_CENTER\CHILD_SHELL_PROBES\CHILD_SHELL_ROUTE_PROBE_20260521_033536.md:119:- C:\Users\13527\Desktop\123\TOOLS\LOCAL_HARD_BRIDGE_V1\HUB\RECEIPTS\PROCESSED_REQUESTS\REQ_0003_POWERSHELL_CHECK_REQUEST.json | bytes=76 | modified=05/20/2026 23:53:58
+.\COMMAND_CENTER\CHILD_SHELL_PROBES\CHILD_SHELL_ROUTE_PROBE_20260521_033536.md:144:- C:\Users\13527\Desktop\123\TOOLS\LOCAL_HARD_BRIDGE_V1\HUB\RESPONSES\REQ_0003_POWERSHELL_CHECK_RESPONSE.json | bytes=501 | modified=05/20/2026 23:53:59
+.\BRAIN_LEARNING\WEIGH_OPTIONS_BEFORE_CODE_RULE_20260518.md:176:- local/PowerShell/Mr.Kleen wording confusion
+.\BRAIN_LEARNING\UI_LAG_IS_NOT_PROJECT_AUTHORITY_RULE_20260519.md:14:- safer copy/paste,
+.\BRAIN_LEARNING\THINK_BEFORE_WORK_INTAKE_ALARM_GATE_20260518.md:139:- local PowerShell problem
+.\BRAIN_LEARNING\THINK_BEFORE_WORK_INTAKE_ALARM_GATE_20260518.md:274:- local PowerShell / save path
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_TOOL_SCRIPT_COPY_SAFETY_THIRD_TARGET_20260522.ps1:104:1. Long scripts filled the chat viewport.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_TOOL_SCRIPT_COPY_SAFETY_THIRD_TARGET_20260522.ps1:105:2. Markdown fences were pasted into PowerShell after successful runs.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_TOOL_SCRIPT_COPY_SAFETY_THIRD_TARGET_20260522.ps1:107:4. A PowerShell function name collision caused `git -c` to be interpreted incorrectly.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_TOOL_SCRIPT_COPY_SAFETY_THIRD_TARGET_20260522.ps1:110:7. Script delivery needed to shift from giant chat blocks to downloadable `.ps1` files with short launchers.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_TOOL_SCRIPT_COPY_SAFETY_THIRD_TARGET_20260522.ps1:142:The delivery-shape and copy/paste safety alarm fired late, after user correction.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_TOOL_SCRIPT_COPY_SAFETY_THIRD_TARGET_20260522.ps1:144:The filing-cabinet/template-reuse alarm is still weak because the assistant has repeatedly generated large new scripts rather than always routing through a known skeleton/file delivery pattern first.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_TOOL_SCRIPT_COPY_SAFETY_THIRD_TARGET_20260522.ps1:148:A Tool / Script / Copy Safety alarm is working when it changes the delivery or execution route before the user hits avoidable friction.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_TOOL_SCRIPT_COPY_SAFETY_THIRD_TARGET_20260522.ps1:165:Make `.ps1` artifact delivery the default for large local scripts.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_TOOL_SCRIPT_COPY_SAFETY_THIRD_TARGET_20260522.ps1:171:Use `git.exe` explicitly inside generated scripts.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_TOOL_SCRIPT_COPY_SAFETY_THIRD_TARGET_20260522.ps1:223:5. Git operations are used inside PowerShell.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_TOOL_SCRIPT_COPY_SAFETY_THIRD_TARGET_20260522.ps1:237:4. Use `git.exe` explicitly in PowerShell scripts.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_TOOL_SCRIPT_COPY_SAFETY_THIRD_TARGET_20260522.ps1:264:6. User-visible reduction of copy/paste burden.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_TOOL_SCRIPT_COPY_SAFETY_THIRD_TARGET_20260522.ps1:285:4. Use `git.exe` explicitly in generated scripts.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_TOOL_SCRIPT_COPY_SAFETY_THIRD_TARGET_20260522.ps1:293:1. Do not let artifact delivery hide the content from self-check.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_TOOL_SCRIPT_COPY_SAFETY_THIRD_TARGET_20260522.ps1:369:Use the Tool / Script / Copy Safety alarm for large local scripts and prefer `.ps1` artifact delivery plus short launcher commands.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_TOOL_SCRIPT_COPY_SAFETY_THIRD_TARGET_20260522.ps1:402:        "Next allowed move: use this alarm to prefer `.ps1` artifact delivery plus short launchers for large local scripts."
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_SOURCE_LANE_ARTIFACT_PLACEMENT_FIRST_TARGET_20260522.ps1:190:If it catches and changes the output before delivery, record that as a working fire.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_SOURCE_LANE_ARTIFACT_PLACEMENT_FIRST_TARGET_20260522.ps1:276:Before delivery/save, check:
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_SOURCE_LANE_ARTIFACT_PLACEMENT_FIRST_TARGET_20260522.ps1:291:The card changes the output before delivery/save.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_SOURCE_LANE_ARTIFACT_PLACEMENT_FIRST_TARGET_20260522.ps1:396:Use the firing card before the next durable artifact or save packet, then record whether the alarm fired before delivery.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_SOURCE_LANE_ARTIFACT_PLACEMENT_FIRST_TARGET_20260522.ps1:423:Use the Source / Lane / Artifact Placement firing card before the next durable artifact, rule, handoff, report, or save packet and record whether it fires before delivery.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_SCOPE_FORM_ALARM_GROWTH_ROUTE_CHECKPOINT_20260522.ps1:143:10. Long scripts should be delivered as files with short launchers to avoid screen/scroll damage.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_RULE_QUALITY_WORDING_COVERAGE_SECOND_TARGET_20260522.ps1:154:5. Weak Filing Cabinet use before delivery.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_RULE_QUALITY_WORDING_COVERAGE_SECOND_TARGET_20260522.ps1:189:This group is working only if it changes output before save or delivery.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_RULE_QUALITY_WORDING_COVERAGE_SECOND_TARGET_20260522.ps1:253:Recent work still produced paste-fence trash and heavy code-box friction. The delivery method improved with downloadable scripts, but the group needs a clean firing card so local execution support does not keep causing avoidable friction.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_RULE_QUALITY_WORDING_COVERAGE_SECOND_TARGET_20260522.ps1:273:Before delivery/save, ask:
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_RULE_QUALITY_WORDING_COVERAGE_SECOND_TARGET_20260522.ps1:320:The issue is found only after save/delivery.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_RULE_QUALITY_WORDING_COVERAGE_SECOND_TARGET_20260522.ps1:328:The issue is caught and corrected before delivery/save.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_NO_SOURCE_GETS_THRONE_SOURCE_VEIN_RULE_20260522.ps1:141:- No-long-tall PowerShell delivery rule
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_NO_SOURCE_GETS_THRONE_SOURCE_VEIN_RULE_20260522.ps1:299:| No-long-tall PowerShell delivery rule | Keeps code delivery usable and not chat-bloating. | Giant code walls and delivery drift. |
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_GROWTH_SAFE_GATE_JUDGE_ROLE_RULES_20260522.ps1:36:This adds/updates proof discipline and gate-role discipline only. It does not change code delivery style, Desktop\123 pickup, Git save default, source-safe boundaries, or Feynman source-ore status.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_GROWTH_SAFE_GATE_JUDGE_ROLE_RULES_20260522.ps1:161:- Delivery gate shapes the command/file ergonomics. It does not change source routing.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_GROWTH_SAFE_GATE_JUDGE_ROLE_RULES_20260522.ps1:174:- delivery rule changing source pickup
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_GROWTH_SAFE_GATE_JUDGE_ROLE_RULES_20260522.ps1:175:- source pickup rule changing delivery style
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_GROWTH_SAFE_GATE_JUDGE_ROLE_RULES_20260522.ps1:212:- Does not change code delivery style.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_FOUR_SOURCE_REVIEWED_SOURCE_ORE_MAP_20260522.ps1:219:- Meaning may depend on added clicks, stretched timing, delivery, resonance, vowel-like structures, tonal/spectral patterns, and context.
+.\BRAIN_LEARNING\RULE_FIT_NO_SIDE_MUTATION_GATE_20260522.md:14:3. What existing rule, delivery style, source route, or work protocol does it touch?
+.\BRAIN_LEARNING\RULE_FIT_NO_SIDE_MUTATION_GATE_20260522.md:25:- Do not change code delivery style because source pickup changed.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_FEYNMAN_SOURCE_ORE_RESEARCH_MAP_V2_TO_MRKLEEN_20260522.ps1:66:- no-long-code delivery rule.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_FEYNMAN_SOURCE_ORE_RESEARCH_MAP_V2_TO_MRKLEEN_20260522.ps1:576:PowerShell logs, receipts, raw outputs, user pastebacks, mule returns.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_FEYNMAN_SOURCE_ORE_RESEARCH_MAP_V2_TO_MRKLEEN_20260522.ps1:715:PowerShell output, receipts, logs, hash checks, raw errors.
+.\BRAIN_LEARNING\RULE_BLOOM_STACK_CAPTURE_RULE_20260521_030002.md:59:- copy/paste delivery failures
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_COMMON_SENSE_PENDING_RULES_HOME_V2_20260520.ps1:298:- PowerShell/local workflows;
+.\BRAIN_LEARNING\REUSABLE_SCRIPT_SKELETON_PULL_RULE_20260520.md:11:The assistant has been generating cousin PowerShell/save/intake scripts from scratch too often.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_ALARM_DEBUGGER_WHOLE_GROUP_BATCH_20260522.ps1:258:| Rule Quality / Wording Coverage | vague, narrow, overfit, false-linear rules | WARNING | second repair target saved | build/stabilization/wrap | use revision rule before delivery/save |
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_ALARM_DEBUGGER_WHOLE_GROUP_BATCH_20260522.ps1:279:4. The downloadable ps1 plus short launcher delivery pattern belongs under Tool / Script / Copy Safety.

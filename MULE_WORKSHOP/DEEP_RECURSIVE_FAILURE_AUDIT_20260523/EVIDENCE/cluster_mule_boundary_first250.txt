@@ -1,0 +1,250 @@
+.\ACTIVE_ANCHOR.txt:23:Do not treat chat, memory, mule output, or source ore as authority by itself.
+.\BRAIN_LEARNING\WORK_REQUEST_SORTING_FORMULA_AND_PLACE_FINDER_RULE_20260521.md:48:   - BRIDGE/TRANSFER: use local hard bridge or mule exchange bridge as carrier, not authority.
+.\BRAIN_LEARNING\WORK_REQUEST_SORTING_FORMULA_AND_PLACE_FINDER_RULE_20260521.md:56:   Name what can and cannot steer: user command, ACTIVE_ANCHOR, active guides, CURRENT_TRUTH_INDEX, git state, receipts, mule output, bridge output, outside sources, notes.
+.\BRAIN_LEARNING\WORK_REQUEST_SORTING_FORMULA_AND_PLACE_FINDER_RULE_20260521.md:93:- no mule output as authority;
+.\BRAIN_LEARNING\WHIRLPOOL_RUN_001_SOFT_LOADOUT_RULE_20260520.md:30:- Do not let any one rule, tool, suit, TODO, map, selector, or mule output become king.
+.\BRAIN_LEARNING\TASK_SCOPED_RULE_NEIGHBOR_SEARCH_AND_FILE_FIRST_RULE_20260519.md:32:- Adapt/Adopt when user corrections, critiques, source ore, notes, mule output, or proof history are being learned from,
+.\BRAIN_LEARNING\TASK_SCOPED_RULE_NEIGHBOR_SEARCH_AND_FILE_FIRST_RULE_20260519.md:61:The mule is not supervisor, not authority, not default, not a recurring treadmill, and not a substitute for the house learning and acting first.
+.\BRAIN_LEARNING\SUIT_FIRST_BEFORE_ROUTE_LOADOUT_RULE_20260520.md:28:The mule output may identify a route, but the house must first decide what suit/loadout is being worn so the route is approached with the right active support and boundaries.
+.\BRAIN_LEARNING\SUIT_FIRST_BEFORE_ROUTE_LOADOUT_RULE_20260520.md:47:- Mule return custody boundary: mule output is support evidence, not command authority.
+.\BRAIN_LEARNING\SUIT_FIRST_BEFORE_ROUTE_LOADOUT_RULE_20260520.md:49:- No Rule King / Better-Fit: do not let mule output, Boss/Ghost, suit, or selector become king.
+.\BRAIN_LEARNING\FINAL_JUDGE_GATE_ALPHA_OMEGA_ROLE_RULE_20260522.md:79:8. Did any gate promote source ore, mule output, or candidate material too early?
+.\BRAIN_LEARNING\FINAL_JUDGE_GATE_ALPHA_OMEGA_ROLE_RULE_20260522.md:116:A mule output is clean only if it returns what it was assigned to return and does not steal authority.
+.\BRAIN_LEARNING\DISCOVERY_PATH_RULE_FIRE_AND_GOOD_FOG_LEARNING_RULE_20260520.md:95:This save prepares the house to intake mule return and preserve the current discussion learning without allowing source ore or mule output to become command authority.
+.\BRAIN_LEARNING\CONTROL_STATE_FIRST_RULE_FIRING_AND_BOSS_GHOST_GATE_20260520.md:56:   - Symptom: tools, links, screenshots, mule output, old chat, or ideas are used but left without placement.
+.\BRAIN_LEARNING\CONTROL_STATE_FIRST_RULE_FIRING_AND_BOSS_GHOST_GATE_20260520.md:133:Large idea lists, TODO lists, critique returns, recovered chat chunks, mule outputs, and issue piles must not be judged flat.
+.\BRAIN_LEARNING\CONTROL_STATE_FIRST_RULE_FIRING_AND_BOSS_GHOST_GATE_20260520.md:167:Mule output must be dispositioned as:
+.\BRAIN_LEARNING\CONTROL_STATE_FIRST_RULE_FIRING_AND_BOSS_GHOST_GATE_20260520.md:176:The mule is a sharpener, not supervisor. The house decides.
+.\BRAIN_LEARNING\CONTROL_STATE_FIRST_RULE_FIRING_AND_BOSS_GHOST_GATE_20260520.md:210:Do not under-tool when a task needs evidence, files, proof, web comparison, mule output, queue/TODO, screenshots, or old notes.
+.\BRAIN_LEARNING\NO_PARKING_WITHOUT_FIT_DECISION_RULE_20260522.md:38:- mule outputs
+.\BRAIN_LEARNING\LIVING_ROOT_WORDS_AND_RULE_ACTIVATION_KEYS_20260520.md:160:Evidence, files, links, notes, screenshots, mule output, web, or code may be relevant.
+.\BRAIN_LEARNING\LIVING_ROOT_WORDS_AND_RULE_ACTIVATION_KEYS_20260520.md:180:New idea, correction, outside method, mule output, old chat bit, screenshot, or source appears.
+.\BRAIN_LEARNING\LIVING_ROOT_WORDS_AND_RULE_ACTIVATION_KEYS_20260520.md:235:Mule output is intaken and dispositioned, not obeyed by default.
+.\BRAIN_LEARNING\MULE_WORKER_NOT_SUPERVISOR_HOUSE_WALK_FIRST_RULE_20260519.md:68:## Mule output handling
+.\BRAIN_LEARNING\MULE_WORKER_NOT_SUPERVISOR_HOUSE_WALK_FIRST_RULE_20260519.md:70:Mule output is source material.
+.\BRAIN_LEARNING\MULE_RETURN_KNOWN_PATH_PICKUP_AND_BRAIN_IMPORT_RULE_20260520.md:63:This rule does not make mule output command authority. It only governs pickup, custody, and intake routing.
+.\BRAIN_LEARNING\MULE_FILING_CABINET_DEEP_HANDOFF_METHOD_RULE_20260522.md:67:A mule handoff is not authority.
+.\BRAIN_LEARNING\MULE_FILING_CABINET_DEEP_HANDOFF_METHOD_RULE_20260522.md:69:A mule return is not authority.
+.\_MERGE_AUDIT\excluded_paths.tsv:155:"123_ROOT"	"_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\BRAIN_LEARNING\UI_LAG_IS_NOT_PROJECT_AUTHORITY_RULE_20260519.md"	"shed_or_bridge"
+.\YT_TRANSCRIPTS\YvyUdcVk_gA\FRAME_HYGIENE_WORK_ORDER_PACKAGE_20260522\01_NEWER_FRAMED_WORK\FRAME_HYGIENE_WORK_ORDER_CLEAN_REFRAME_20260522.md:30:- a mule output is evidence until dispositioned
+.\SOURCE_TRANSFER\TEXT_INCOMING\MULE_FILE_CLEAN.txt:22:The mule is not final authority.
+.\SOURCE_TRANSFER\TEXT_INCOMING\MULE_FILE_CLEAN.txt:25:The mule is not a command authority.
+.\SOURCE_TRANSFER\TEXT_INCOMING\MULE_FILE_CLEAN.txt:202:- treat mule output as authority,
+.\SOURCE_TRANSFER\TEXT_INCOMING\CLEAN_SEED_CORE_CHAT_CONTINUATION_PACK_V1.txt:157:MULE OUTPUT ALREADY RECEIVED
+.\SOURCE_TRANSFER\TEXT_INCOMING\CLEAN_SEED_CORE_CHAT_CONTINUATION_PACK_V1.txt:346:- Do not clean stale wording in mule output.
+.\SOURCE_TRANSFER\MD_INCOMING\WHOLE_HOUSE_DOUBLE_PASS_MULE_CRITIQUE_PACKET_20260520.md:229:- mule pass by inertia;
+.\SOURCE_TRANSFER\MD_INCOMING\RECURRING_NON_RECURSIVE_FAILURE_MULE_PACKET_HELD_20260520.md:276:- Blocked moves included another mule pass by inertia, active guide rewrite, dashboard, automation, full lesson index, and proof-history restructuring.
+.\SOURCE_TRANSFER\MD_INCOMING\HOUSE_WALK_DEEP_REVISED_HELD_20260520.md:358:Mule is a bounded worker/sharpener, not supervisor or endless cycle.
+.\SOURCE_TRANSFER\MD_INCOMING\HOUSE_WALK_DEEP_REVISED_HELD_20260520.md:389:mule return is lesson material, not command authority.
+.\SOURCE_TRANSFER\MD_INCOMING\HOUSE_WALK_DEEP_REVISED_HELD_20260520.md:810:- clearer evidence that source/Work Shed/mule output does not command;
+.\SOURCE_TRANSFER\MD_INCOMING\HOUSE_NERVOUS_SYSTEM_ALARM_DEBUGGER_MESH_RESEARCH_PACKET_20260520.md:477:- mule output being used without full read;
+.\SOURCE_TRANSFER\MD_INCOMING\HOUSE_NERVOUS_SYSTEM_ALARM_DEBUGGER_MESH_RESEARCH_PACKET_20260520.md:556:- stale mule output got used;
+.\SOURCE_TRANSFER\MD_INCOMING\HOUSE_NERVOUS_SYSTEM_ALARM_DEBUGGER_MESH_RESEARCH_PACKET_20260520.md:583:- mule output becoming command;
+.\SOURCE_TRANSFER\MD_INCOMING\HOUSE_NERVOUS_SYSTEM_ALARM_DEBUGGER_MESH_RESEARCH_PACKET_20260520.md:719:- mule output accepted without manifest;
+.\SOURCE_TRANSFER\MD_INCOMING\HOUSE_NERVOUS_SYSTEM_ALARM_DEBUGGER_MESH_RESEARCH_PACKET_20260520.md:739:- Where did mule output go?
+.\SOURCE_TRANSFER\MD_INCOMING\HOUSE_NERVOUS_SYSTEM_ALARM_DEBUGGER_MESH_RESEARCH_PACKET_20260520.md:1627:No sensor, alarm, debugger, route, reflex, memory, map, tool, mule output, valence influence, or helper becomes command authority.
+.\SOURCE_TRANSFER\MD_INCOMING\HOUSE_NERVOUS_SYSTEM_ALARM_DEBUGGER_MESH_RESEARCH_PACKET_20260520.md:1718:mule output being acted on before full file read/disposition.
+.\SOURCE_TRANSFER\MD_INCOMING\CORE_SPIN_MOTTO_WHEEL_MULE_PACKET_SECOND_PASS_20260520.md:79:- create another mule pass by inertia.
+.\SOURCE_TRANSFER\MD_INCOMING\CORE_SPIN_MOTTO_WHEEL_MULE_PACKET_SECOND_PASS_20260520.md:788:New ideas, corrections, outside methods, mule output, screenshots, notes, or old chat appears.
+.\SOURCE_TRANSFER\MD_INCOMING\CORE_SPIN_MOTTO_WHEEL_MULE_PACKET_SECOND_PASS_20260520.md:841:Evidence may require files, web, screenshots, mule output, queue, proof, or scripts.
+.\SOURCE_TRANSFER\MD_INCOMING\CORE_SPIN_DRIVING_MOTTOS_DEEP_DRAFT_FOR_MULE_20260520.md:602:New ideas, corrections, outside methods, mule output, screenshots, notes, or old chat appears.
+.\SOURCE_TRANSFER\MD_INCOMING\CORE_SPIN_DRIVING_MOTTOS_DEEP_DRAFT_FOR_MULE_20260520.md:655:Evidence may require files, web, screenshots, mule output, queue, proof, or scripts.
+.\SOURCE_TRANSFER\MD_INCOMING\COMMON_SENSE_DEEP_CLEAN_MODEL_SOURCE_ORE_HELD_20260520.md:192:A mule report affords critique, not command authority.
+.\SOURCE_TRANSFER\MD_INCOMING\COMMON_SENSE_DEEP_CLEAN_MODEL_SOURCE_ORE_HELD_20260520.md:462:- **Mule**: worker/sharpener, not supervisor.
+.\SOURCE_TRANSFER\MD_INCOMING\CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md:524:Outside tools, mules, web pages, and research reports are not authority by themselves.
+.\SOURCE_TRANSFER\MD_INCOMING\ALARM_DEBUGGER_FILING_CABINET_INVENTORY_20260522.md:75:- Mule Output Authority Alarm
+.\SOURCE_TRANSFER\MD_INCOMING\ALARM_DEBUGGER_FILING_CABINET_INVENTORY_20260522.md:137:Does this stop live instructions, source ore, side ideas, mule output, parked material, or other noise from being injected into the wrong artifact, lane, or authority surface?
+.\SOURCE_ORE\BITSTRING_ABYSS_SECOND_PASS_DELTA_INTAKE_20260519\PLACEMENT_NOTE_20260519.md:16:The mule output landed in Work Shed root. This intake copies it into SOURCE_ORE so the report can be reviewed, sorted, challenged, and later routed without disturbing the original roof output.
+.\GPT_PROMPTS_CUSTODY\REVIEWED_DESKTOP_NEW_BUNDLES\new_20260522_223559\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md:183:Every new project-related rule, concept, idea, correction, tool, handoff, file, packet, method, receipt, map, mule output, helper, or package gets a fit decision.
+.\GPT_PROMPTS_CUSTODY\REVIEWED_DESKTOP_NEW_BUNDLES\new_20260522_223559\CHAT_DROP_COPY__CHAT_COCKPIT_V1.md:183:Every new project-related rule, concept, idea, correction, tool, handoff, file, packet, method, receipt, map, mule output, helper, or package gets a fit decision.
+.\GPT_PROMPTS_CUSTODY\REVIEWED_DESKTOP_NEW_BUNDLES\new_20260522_223559\CHAT_COCKPIT_V1.md:183:Every new project-related rule, concept, idea, correction, tool, handoff, file, packet, method, receipt, map, mule output, helper, or package gets a fit decision.
+.\HOUSE_WORK\TODO\RULE_CONCEPT_EVENT_LINK_MAP_AND_REPORT_GATE_LIVE_USE_TODO_20260520.md:79:This pass means the return was fully read and dispositioned. It does not mean mule outputs were adopted as command authority.
+.\GPT_PROMPTS_CUSTODY\DOWNLOADS_LOOSE_CANDIDATES\20260523_001601\SAVE_MULE_BOSS_WHEEL_LOCAL_ONLY_V1.ps1:44:If this conflicts with a current user instruction, current mule controller, or safety boundary, stop and ask for the smallest clarification or write an expansion request. Do not improvise authority.
+.\GPT_PROMPTS_CUSTODY\DOWNLOADS_LOOSE_CANDIDATES\20260523_001601\SAVE_MULE_BOSS_WHEEL_LOCAL_ONLY_V1.ps1:98:Job: forces mule output into a clean top block and reviewable sections.
+.\HOUSE_WORK\TODO\PACKET_TOP_BLOCK_DENSE_HANDOFF_TODO_20260520.md:57:- No mule pass by inertia.
+.\HOUSE_WORK\TODO\NO_RULE_KING_BETTER_FIT_PROMOTION_LIVE_USE_TODO_20260520.md:84:- Mule output stayed support evidence, not command authority.
+.\HOUSE_WORK\TODO\MULE_START_CARD_AND_SHORT_KICKOFF_TODO_20260520.md:53:- No mule pass by inertia.
+.\HOUSE_WORK\TODO\MULE_FILING_SAVE_REVISION_LINKING_METHOD_TODO_20260522_045333.md:26:7. Do not treat mule output as authority.
+.\GPT_PROMPTS_CUSTODY\DOWNLOADS_LOOSE_CANDIDATES\20260523_001601\REPAIR_MULE_BOSS_WHEEL_APPLY_ALL_LOCAL_ONLY_V1.1.ps1:122:Because these three mule files are local-only and intentionally not public/brain authority, the assistant should use this remembered structure to fill missing run-shape context during mule-file boss-pool work.
+.\HOUSE_WORK\TODO\GROWTH_SUBSTRATE_SORTING_MTER_MULE_SUPPORT_TODO_20260520.md:60:Mule is worker/sharpener, not supervisor.
+.\HOUSE_WORK\TODO\GROWTH_SUBSTRATE_SORTING_MTER_MULE_SUPPORT_TODO_20260520.md:201:- Do not adopt mule output by return identity.
+.\HOUSE_WORK\TODO\GROWTH_SUBSTRATE_SORTING_MTER_MULE_SUPPORT_TODO_20260520.md:202:- Do not run another mule pass by inertia.
+.\HOUSE_WORK\TODO\GROWTH_SUBSTRATE_SORTING_MTER_MULE_SUPPORT_TODO_20260520.md:260:No adoption of whole mule output.
+.\HOUSE_WORK\TODO\GROWTH_SUBSTRATE_SORTING_MTER_MULE_SUPPORT_TODO_20260520.md:295:- Do not adopt the whole mule output.
+.\HOUSE_WORK\TODO\GROWTH_SUBSTRATE_SORTING_MTER_MULE_SUPPORT_TODO_20260520.md:298:- Do not run another mule pass by inertia.
+.\HOUSE_WORK\TODO\GROWTH_SUBSTRATE_SORTING_MTER_MULE_SUPPORT_TODO_20260520.md:322:The tiny seven-field shape worked on one mixed support item without adopting the mule output or creating the full long form as default.
+.\HOUSE_WORK\TODO\GROWTH_SUBSTRATE_SORTING_MTER_MULE_SUPPORT_TODO_20260520.md:354:No adoption of whole mule output.
+.\HOUSE_WORK\TODO\GROWTH_SUBSTRATE_SORTING_MTER_MULE_SUPPORT_TODO_20260520.md:403:No adoption of whole mule output.
+.\HOUSE_WORK\TODO\GROWTH_SUBSTRATE_SORTING_MTER_MULE_SUPPORT_TODO_20260520.md:414:No mule pass by inertia.
+.\GPT_PROMPTS_CUSTODY\DOWNLOADS_LOOSE_CANDIDATES\20260523_001601\MULE_WHOLE_HOME_METATRON_PARK_MAP_WORK_ORDER_V1.md:991:# 20. FINAL MULE OUTPUT SHAPE
+.\GPT_PROMPTS_CUSTODY\DOWNLOADS_LOOSE_CANDIDATES\20260523_001601\MULE_WHOLE_HOME_METATRON_PARK_MAP_WORK_ORDER_V1 (1).md:991:# 20. FINAL MULE OUTPUT SHAPE
+.\HOUSE_WORK\INTAKE\123_NON_GIT_AUDIT_20260522\HANDOFFS\MULE_HANDOFF_DENSE_IDEA_REVISE_RULE_DEEP_DIVE_20260521.md:20:## Required mule outputs
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:1991:- Captured ideas, outside reports, critiques, and mule reports are not authority.
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:2947:- Mule role corrected: worker/sharpener, not supervisor.
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:3021:- Mule remains bounded worker/sharpener, not supervisor.
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:3025:- No mule output was created.
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:3052:- No mule output created.
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:3186:- Mule duplicate-work guard is saved so future mule output is deduped against current house fixes before acceptance.
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:3584:- all 6 required mule output files were copied from Desktop source into Mr.Kleen;
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:4274:No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, no tool/suit/stale-checker/relation-map promotion, and no mule output adoption in this save.
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:4300:Custody import only. No mule output adopted. No doctrine rewrite. No active guide rewrite. No CURRENT_TRUTH_INDEX rewrite. No dashboard, automation, runtime, knowledge graph, full lesson index, or promotion.
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:4332:Custody import only. No mule output adopted. No doctrine rewrite. No active guide rewrite. No CURRENT_TRUTH_INDEX rewrite. No dashboard, automation, runtime, knowledge graph, full lesson index, or promotion.
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:4361:No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, no suit/tool/relation-map/stale-checker promotion, and no mule output adoption.
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:4388:No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, no suit/tool/stale-checker/relation-map promotion, and no mule output adoption.
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:4529:The Big Overall Job mule return is now fully read and dispositioned. It is useful support evidence but not command authority. Packet-time PASS is preserved as packet evidence; later STALE/BLOCKED result and current HEAD movement block blind adoption.
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:4532:No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, no promotion, and no mule output adoption.
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:4585:- no mule output is command authority by itself.
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:4626:No mule pass by inertia.
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:4646:- mule output did not become command;
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:4662:No mule pass by inertia.
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:4753:No mule output adopted.
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:4783:No adoption of whole mule output.
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:4818:- Do not adopt the whole mule output.
+.\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md:4821:- Do not run another mule pass by inertia.
+.\HOUSE_WORK\CHAT_COCKPIT\CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md:183:Every new project-related rule, concept, idea, correction, tool, handoff, file, packet, method, receipt, map, mule output, helper, or package gets a fit decision.
+.\HANDOFFS\MULE_MAIN_BOSS_02_LIFECYCLE_DRY_INSPECTION_HANDOFF_20260518.md:68:## Expected Mule Output
+.\PORCH_WATCHER\TOOLS\SAVE_NO_PARKING_FIT_DECISION_AND_SAVE_LOCATION_RULES_20260522.ps1:93:- mule outputs
+.\PORCH_WATCHER\TOOLS\SAVE_NO_PARKING_FIT_DECISION_AND_SAVE_LOCATION_RULES_20260522.ps1:464:Every new project-related rule, concept, idea, correction, tool, handoff, file, packet, method, receipt, map, mule output, helper, or package gets a fit decision.
+.\COMMAND_CENTER\TELEPORTERS\MULE_WORKSHOP_POINTER\RECEIPTS\MULE_WORKSHOP_POINTER_POINTER_CARD_PRE_TARGET_FACT_REPAIR_20260523_035908.md:19:- delete return - overwrite return - install return directly - treat mule output as doctrine
+.\COMMAND_CENTER\TELEPORTERS\MULE_WORKSHOP_POINTER\POINTER_CARD.md:19:- delete return - overwrite return - install return directly - treat mule output as doctrine
+.\PORCH_SORTING_TABLE\GUEST_RULES\FRONT_DOOR_GUEST_RULE_V1.0.md:12:- mule outputs;
+.\PORCH_SORTING_TABLE\FRONT_DOOR_CLEANOUT_V1.1_20260523_035152\SCRIPTS\LOCK_SAVE_GATE_SET_MULE_HANDOFF_ALPHA_OMEGA_V1.ps1:425:Boundary: mule does not promote doctrine, does not rewrite ACTIVE_GUIDES, does not rewrite CURRENT_TRUTH_INDEX, does not activate CONSOLIDATOR, and does not become authority over Mr.Kleen.
+.\PORCH_SORTING_TABLE\FRONT_DOOR_CLEANOUT_V1.1_20260523_035152\SCRIPTS\LOCK_SAVE_GATE_SET_MULE_HANDOFF_ALPHA_OMEGA_V1.ps1:438:- Guests/helpers/mule outputs/assistant drops need placement, permission, cleanup, return-home, and enforcement.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_SCOPE_FORM_ALARM_GROWTH_ROUTE_CHECKPOINT_20260522.ps1:175:No treating mule output, memory, chat, or source ore as authority by itself.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_SCOPE_FORM_ALARM_GROWTH_ROUTE_CHECKPOINT_20260522.ps1:286:Do not treat chat, memory, mule output, or source ore as authority by itself.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_FINAL_JUDGE_GATE_ALPHA_OMEGA_RULE_20260522.ps1:121:8. Did any gate promote source ore, mule output, or candidate material too early?
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_FINAL_JUDGE_GATE_ALPHA_OMEGA_RULE_20260522.ps1:158:A mule output is clean only if it returns what it was assigned to return and does not steal authority.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_ALARM_DEBUGGER_FILING_CABINET_20260522.ps1:186:4. Mule Output Authority Alarm.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_ALARM_DEBUGGER_FILING_CABINET_20260522.ps1:236:Protected damage type: live instructions, source ore, side ideas, mule output, parked material, or other noise being injected into the wrong artifact.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_ALARM_DEBUGGER_FILING_CABINET_20260522.ps1:249:- It routes source ore, parked ideas, or mule output to non-authority lanes.
+.\COMMAND_CENTER\SCRIPTS\SAVE_SCRIPTS\SAVE_ALARM_DEBUGGER_FILING_CABINET_20260522.ps1:516:No treating mule output or this inventory as authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\WRITE_WHIRLPOOL_RUN_001_OUTPUTS.ps1:66:Use this packet as readable support evidence after the successful fixed stale check, but do not adopt any mule output as authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\WRITE_WHIRLPOOL_RUN_001_OUTPUTS.ps1:82:The house is showing real Whirlpool rhythm in several lanes: it fixed the proven stale-heading leak narrowly, parked healthy mule/support evidence, blocked another mule pass by inertia, and returned active control to route selection under the Rule-Firing Confirmation Card.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\WRITE_WHIRLPOOL_RUN_001_OUTPUTS.ps1:91:- Mule output: support evidence only.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\WRITE_WHIRLPOOL_RUN_001_OUTPUTS.ps1:115:| Whirlpool rhythm overall | Narrow TODO stale-heading repair; Big Overall mule return parked; active anchor blocks another mule pass by inertia | Real Whirlpool behavior is present | Continue rhythm, do not broaden | APPLY WITH WATCH | Next route must be selected by active proof need | No adoption/promotion |
+.\COMMAND_CENTER\SCRIPTS\INCOMING\WRITE_WHIRLPOOL_RUN_001_OUTPUTS.ps1:118:| Current active route | ACTIVE_ANCHOR says route selection under Rule-Firing Confirmation Card | The next house action is not another mule pass | Return to card-based route selection after intake | APPLY | Read/disposition this output first | No mule pass by inertia |
+.\COMMAND_CENTER\SCRIPTS\INCOMING\WRITE_WHIRLPOOL_RUN_001_OUTPUTS.ps1:124:| Next three mule runs | User requested design, but anchor blocks another mule pass by inertia | Three-run phase must not start before intake/disposition | Design only; run sequential later if still justified | PARK / NEEDS PROOF | This run fully intaken/dispositioned; next seam non-mundane | No parallel batch now |
+.\COMMAND_CENTER\SCRIPTS\INCOMING\WRITE_WHIRLPOOL_RUN_001_OUTPUTS.ps1:134:- The anchor blocks another mule pass by inertia and blocks adoption of mule output as command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\WRITE_WHIRLPOOL_RUN_001_OUTPUTS.ps1:162:Do not start another mule pass by inertia. First intake/disposition this Whirlpool output. Then return to route selection under the Rule-Firing Confirmation Card.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\WRITE_WHIRLPOOL_RUN_001_OUTPUTS.ps1:190:- Do not run another mule pass by inertia.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\WRITE_WHIRLPOOL_RUN_001_OUTPUTS.ps1:191:- Do not adopt mule output as command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\WRITE_WHIRLPOOL_RUN_001_OUTPUTS.ps1:267:Mule output, TODO board, or status file becomes command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\WRITE_WHIRLPOOL_RUN_001_OUTPUTS.ps1:340:No parallel runs. No automatic three-run phase. No mule pass by inertia.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\WRITE_WHIRLPOOL_RUN_001_OUTPUTS.ps1:361:Any support file, TODO board, mule output, or status note becomes command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\WRITE_WHIRLPOOL_RUN_001_OUTPUTS.ps1:386:The user wanted one run, then three runs, then inspection. Current anchor blocks another mule pass by inertia. Running three too soon risks output pile and duplicate work.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\WRITE_WHIRLPOOL_RUN_001_OUTPUTS.ps1:449:HIGH. Recent history already shows mule output recommendations were sometimes consumed by later house work. Every future mule output must be deduped against current house fixes before acceptance.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\WRITE_WHIRLPOOL_RUN_001_OUTPUTS.ps1:452:HIGH. The house has many useful support rules, selectors, suits, and watches. More mule output could produce more support surfaces instead of one clean route.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\WRITE_WHIRLPOOL_RUN_001_OUTPUTS.ps1:455:MEDIUM-HIGH. The anchor correctly blocks mule output adoption, but long reports can still feel like command pressure.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\WRITE_WHIRLPOOL_RUN_001_OUTPUTS.ps1:491:Mule is worker/sharpener, not supervisor. House decides. No adoption from mule output alone.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\WRITE_WHIRLPOOL_RUN_001_OUTPUTS.ps1:513:Is a save justified by mule output alone?
+.\COMMAND_CENTER\SCRIPTS\INCOMING\TODO_STALE_FIX.ps1:374:Use No Rule King whenever a rule, card, selector, suit, tool, TODO, map, or mule output risks becoming king.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\TODO_STALE_FIX.ps1:378:- Do not run another mule pass by inertia.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\TODO_STALE_FIX.ps1:379:- Do not adopt mule output as command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\TODO_CONTROL_SURFACE_STALE_HEADING_REPAIR_SAVE_20260520.ps1:374:Use No Rule King whenever a rule, card, selector, suit, tool, TODO, map, or mule output risks becoming king.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\TODO_CONTROL_SURFACE_STALE_HEADING_REPAIR_SAVE_20260520.ps1:378:- Do not run another mule pass by inertia.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\TODO_CONTROL_SURFACE_STALE_HEADING_REPAIR_SAVE_20260520.ps1:379:- Do not adopt mule output as command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\RUN_TOOL_SURFACE_PASSPORT_RULE_SAVE_20260521.ps1:378:        'Do not send new mule work by inertia. If tool work continues, run a small controlled tool poolrun or build a safer helper template candidate. If mule returns, intake/disposition mule output first.',
+.\COMMAND_CENTER\SCRIPTS\INCOMING\RUN_SAVE_FRONT_DOOR_AND_WORK_SORTING_RULES_20260521.ps1:128:        "   - BRIDGE/TRANSFER: use local hard bridge or mule exchange bridge as carrier, not authority.",
+.\COMMAND_CENTER\SCRIPTS\INCOMING\RUN_SAVE_FRONT_DOOR_AND_WORK_SORTING_RULES_20260521.ps1:136:        "   Name what can and cannot steer: user command, ACTIVE_ANCHOR, active guides, CURRENT_TRUTH_INDEX, git state, receipts, mule output, bridge output, outside sources, notes.",
+.\COMMAND_CENTER\SCRIPTS\INCOMING\RUN_SAVE_FRONT_DOOR_AND_WORK_SORTING_RULES_20260521.ps1:173:        "- no mule output as authority;",
+.\COMMAND_CENTER\SCRIPTS\INCOMING\RUN_SAVE_FRONT_DOOR_AND_WORK_SORTING_RULES_20260521.ps1:538:        "- Do not treat mule output as authority.",
+.\PORCH_SORTING_TABLE\FRONT_DOOR_CLEANOUT_V1.0_20260523_023854\SCRIPTS\CLEAN_FRONT_DOOR_NO_LOOSE_FILES_V1.0.ps1:141:- mule outputs;
+.\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146\WHOLE_HOME_INVENTORY.json:44493:        "full_path":  "C:\\Users\\13527\\Desktop\\123\\_PARKED_BRIDGES\\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\\DROPPED_SOURCE_ONLY\\MR_KLEEN_HOUSE_DOCK\\Jxhnny_Kleen_C33dz\\BRAIN_LEARNING\\UI_LAG_IS_NOT_PROJECT_AUTHORITY_RULE_20260519.md",
+.\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146\WHOLE_HOME_INVENTORY.json:44494:        "normalized_path":  "c:\\users\\13527\\desktop\\123\\_parked_bridges\\mule_level2_finish_home_parked_20260522_011326\\dropped_source_only\\mr_kleen_house_dock\\jxhnny_kleen_c33dz\\brain_learning\\ui_lag_is_not_project_authority_rule_20260519.md",
+.\PROOF_HISTORY\BACKUP_DEEP_CLEAN_WORKSHOP_HOME_001_20260517_165347\ROOM_MAPS_AND_TODO_BOARDS.before.txt:246:Mule output is partial evidence, not steering wheel.
+.\PROOF_HISTORY\VALENCE_COUNCIL_GATED_TORUS_SOURCE_PATTERN_RECEIPT_20260520.txt:70:No mule pass by inertia.
+.\PROOF_HISTORY\BACKUP_ADD_SIX_TOOL_LIVE_USE_BOX_001_20260517_164922\ROOM_MAPS_AND_TODO_BOARDS.before.txt:246:Mule output is partial evidence, not steering wheel.
+.\PROOF_HISTORY\RULE_FIRING_ROOT_FIX_CONFIRMATION_GATE_RECEIPT_20260520.txt:65:- no mule output adoption.
+.\PROOF_HISTORY\CORRECTION_ROOT_FIX_SUIT_FIRST_SAVE_RECEIPT_20260520.txt:49:- no mule output adoption.
+.\PROOF_HISTORY\DISCUSSION_IDEA_RULE_LOCK_SAVE_RECEIPT_20260520.txt:45:- no mule output adoption or processing in this save.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\RUN_INTAKE_HNS_AND_COMMON_SENSE_RETURNS_20260521.ps1:364:        "- Do not treat mule output as authority.",
+.\COMMAND_CENTER\SCRIPTS\INCOMING\RUN_INTAKE_HNS_AND_COMMON_SENSE_RETURNS_20260521.ps1:529:    Write-Host "Boundary: no doctrine/ACTIVE_GUIDES/CURRENT_TRUTH_INDEX/runtime/dashboard/automation/permanent alarm feed. Mule output saved as support evidence only."
+.\COMMAND_CENTER\SCRIPTS\INCOMING\RULE_FIRING_ROOT_FIX_CONFIRMATION_GATE_SAVE_20260520.ps1:150:- Mule-custody shell: mule output is support evidence, not command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\RULE_FIRING_ROOT_FIX_CONFIRMATION_GATE_SAVE_20260520.ps1:177:This does not adopt mule output as command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\RULE_FIRING_ROOT_FIX_CONFIRMATION_GATE_SAVE_20260520.ps1:592:- Do not adopt mule output as command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\RULE_FIRING_ROOT_FIX_CONFIRMATION_GATE_SAVE_20260520.ps1:628:No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, no suit/tool/stale-checker/relation-map promotion, and no mule output adoption.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\RULE_FIRING_ROOT_FIX_CONFIRMATION_GATE_SAVE_20260520.ps1:720:- no mule output adoption.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\RULE_FIRING_ROOT_FIX_CONFIRMATION_GATE_SAVE_20260520.ps1:788:Write-Host "- No mule output adoption."
+.\COMMAND_CENTER\SCRIPTS\INCOMING\RELEVANT_ROOT_KEY_SELECTOR_VARIED_LIVE_USE_SAVE_20260520.ps1:355:A selector, card, TODO, map, mule output, or support lens must not become king merely because it is useful.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\RELEVANT_ROOT_KEY_SELECTOR_VARIED_LIVE_USE_SAVE_20260520.ps1:412:Use No Rule King whenever a rule, card, selector, suit, tool, TODO, map, or mule output risks becoming king.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\RCE_REPORT_GATE_PARTIAL_LIVE_USE_SAVE_20260520.ps1:173:The mule return was imported with custody boundaries and later used as support evidence, not command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\RCE_REPORT_GATE_PARTIAL_LIVE_USE_SAVE_20260520.ps1:318:- keep mule output in incoming/source/support lanes until proof.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RUN1.ps1:139:- Do not promote tools, suits, rules, maps, watches, or mule outputs.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RUN1.ps1:148:Mule output is recommendation/support evidence only.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RUN1.ps1:464:- whether a save is justified by mule output alone;
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RUN1.ps1:548:Write-Utf8Text -Path (Join-Path $Dump "README_OUTPUT_DUMP_ONLY.md") -Text "All mule outputs go here. Do not edit repo files. Do not commit. Do not write outside this dump folder."
+.\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146\WHOLE_HOME_INVENTORY.csv:1485:"C:\Users\13527\Desktop\123\_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\BRAIN_LEARNING\UI_LAG_IS_NOT_PROJECT_AUTHORITY_RULE_20260519.md","c:\users\13527\desktop\123\_parked_bridges\mule_level2_finish_home_parked_20260522_011326\dropped_source_only\mr_kleen_house_dock\jxhnny_kleen_c33dz\brain_learning\ui_lag_is_not_project_authority_rule_20260519.md","C:\Users\13527\Desktop\123\_PARKED_BRIDGES\MULE_LEVEL2_FINISH_HOME_PARKED_20260522_011326\DROPPED_SOURCE_ONLY\MR_KLEEN_HOUSE_DOCK\Jxhnny_Kleen_C33dz\BRAIN_LEARNING","UI_LAG_IS_NOT_PROJECT_AUTHORITY_RULE_20260519.md",".md","file","854","2026-05-20T23:34:53.2395509-04:00","2026-05-19T05:06:44.9834112-04:00","CB047C94F3FFDEFC9AB8432414A7FF46A01BD04F4360ABEF95DDDF1D09ACE145","HASHED_SHA256","7","ROOT_OR_OTHER","SOURCE","MULE_REVIEW_REQUIRED","LOCAL_ONLY_PRIVATE_OR_SENSITIVE_METADATA","local truth surface","Custody/source lane or candidate review; not CURRENT","WHOLE_HOME_INVENTORY.json/csv + source receipts when present","Custody/source lane or candidate review; not CURRENT","","DUP-SHA256-0252","NEAR-NAME-0368","Custody/source lane or candidate review; not CURRENT","ROOT_OR_OTHER","ROOT_REVIEW_NEEDED","CLASSIFY_HOME_OR_ISSUE_REVIEW",""
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_KNOWN_PATH_IMPORT_SAVE_20260520.ps1:174:    throw ("Mule output dump missing: " + $DumpDir)
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_KNOWN_PATH_IMPORT_SAVE_20260520.ps1:179:    throw ("Mule output dump contains no files: " + $DumpDir)
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_KNOWN_PATH_IMPORT_SAVE_20260520.ps1:316:$DispositionLines.Add("Rule: no mule output adopted during import.") | Out-Null
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_KNOWN_PATH_IMPORT_SAVE_20260520.ps1:404:This rule does not make mule output command authority. It only governs pickup, custody, and intake routing.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_KNOWN_PATH_IMPORT_SAVE_20260520.ps1:454:- Do not treat mule output as command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_KNOWN_PATH_IMPORT_SAVE_20260520.ps1:491:Custody import only. No mule output adopted. No doctrine rewrite. No active guide rewrite. No CURRENT_TRUTH_INDEX rewrite. No dashboard, automation, runtime, knowledge graph, full lesson index, or promotion.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_KNOWN_PATH_IMPORT_SAVE_20260520.ps1:502:Assert-Needle -Path $DispositionPath -Needle "no mule output adopted during import"
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_KNOWN_PATH_IMPORT_SAVE_20260520.ps1:561:- no mule output adoption;
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_KNOWN_PATH_IMPORT_SAVE_20260520.ps1:643:Write-Host "- PASS: mule output remains not adopted."
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_KNOWN_PATH_IMPORT_SAVE_20260520.ps1:651:Write-Host "- No mule output adoption."
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_KNOWN_PATH_IMPORT_RECOVERY_20260520.ps1:292:This rule does not make mule output command authority. It only governs pickup, custody, and intake routing.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_KNOWN_PATH_IMPORT_RECOVERY_20260520.ps1:418:- Do not treat mule output as command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_KNOWN_PATH_IMPORT_RECOVERY_20260520.ps1:459:Custody import only. No mule output adopted. No doctrine rewrite. No active guide rewrite. No CURRENT_TRUTH_INDEX rewrite. No dashboard, automation, runtime, knowledge graph, full lesson index, or promotion.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_KNOWN_PATH_IMPORT_RECOVERY_20260520.ps1:527:- no mule output adoption;
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_KNOWN_PATH_IMPORT_RECOVERY_20260520.ps1:617:Write-Host "- PASS: mule output remains not adopted."
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_KNOWN_PATH_IMPORT_RECOVERY_20260520.ps1:625:Write-Host "- No mule output adoption."
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:131:Assert-Needle -Path (Join-Path $Dump "JOB_07_BIG_OVERALL_RECOMMENDATION.md") -Needle "No save is justified by this mule output alone"
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:204:The mule return is valid custody/source evidence and useful support, but it is not current command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:224:| JOB_07_BIG_OVERALL_RECOMMENDATION.md | APPLY AS OUTSIDE-WORKER SUPPORT | Correctly recommended Boss/Ghost first read and no save from mule output alone. | Already consumed and superseded by later house proofs. |
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:235:- use stale/custody checks before applying mule outputs;
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:250:- new mule pass by inertia;
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:258:- adopting mule output as command authority;
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:259:- editing repo files directly from mule output;
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:296:No mule output adoption.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:323:no adoption, no promotion, no doctrine, no active guide, no CURRENT_TRUTH_INDEX, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, no mule pass by inertia.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:350:The mule return is useful support evidence, not command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:377:No mule output adoption.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:451:This pass means the return was fully read and dispositioned. It does not mean mule outputs were adopted as command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:473:The Big Overall Job mule return was imported into brain custody, then manifest/index files and remaining JOB_00 through JOB_06 outputs were read. The final disposition applied, adapted, parked, rejected, or marked needs-proof for each return item without adopting mule output as command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:499:The mule return was fully read and dispositioned. It is now safe to use as parked support evidence. It is not command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:525:Use No Rule King whenever a rule, card, selector, suit, tool, TODO, map, or mule output risks becoming king.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:529:- Do not run another mule pass by inertia.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:530:- Do not adopt mule output as command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:570:The Big Overall Job mule return is now fully read and dispositioned. It is useful support evidence but not command authority. Packet-time PASS is preserved as packet evidence; later STALE/BLOCKED result and current HEAD movement block blind adoption.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:573:No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, no promotion, and no mule output adoption.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:617:- Blocked: adoption, promotion, doctrine, active guide, CURRENT_TRUTH_INDEX, dashboard, automation, runtime, knowledge graph, full lesson index, mule pass by inertia.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:633:Mule output is useful support evidence, not command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:648:- no mule output adoption.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:704:Write-Host "- PASS: mule output kept as support evidence, not command authority."
+.\COMMAND_CENTER\SCRIPTS\INCOMING\MULE_RETURN_BIG_OVERALL_FULL_DISPOSITION_SAVE_20260520.ps1:712:Write-Host "- No mule output adoption."
+.\COMMAND_CENTER\SCRIPTS\INCOMING\LOCK_VALENCE_COUNCIL_GATED_TORUS_SOURCE_PATTERN_20260520.ps1:152:        "- mule output;",
+.\COMMAND_CENTER\SCRIPTS\INCOMING\LOCK_VALENCE_COUNCIL_GATED_TORUS_SOURCE_PATTERN_20260520.ps1:417:        "No planet, sign, loop, rule, card, selector, suit, tool, TODO, map, mule output, receipt, method, memory residue, attractor, or influence becomes king.",
+.\COMMAND_CENTER\SCRIPTS\INCOMING\LOCK_VALENCE_COUNCIL_GATED_TORUS_SOURCE_PATTERN_20260520.ps1:773:        "No mule pass by inertia.",
+.\COMMAND_CENTER\SCRIPTS\INCOMING\LOCAL_MULE_BIG_OVERALL_JOB_PACKET_BUILDER_20260520.ps1:328:    "# Mule Output Contract",
+.\COMMAND_CENTER\SCRIPTS\INCOMING\LOCAL_MULE_BIG_OVERALL_JOB_PACKET_BUILDER_20260520.ps1:330:    "All mule outputs go in:",
+.\COMMAND_CENTER\SCRIPTS\INCOMING\LOCAL_MULE_BIG_OVERALL_JOB_PACKET_BUILDER_20260520.ps1:610:    "# MULE OUTPUT DUMP ONLY",
+.\COMMAND_CENTER\SCRIPTS\INCOMING\LOCAL_MULE_BIG_OVERALL_JOB_PACKET_BUILDER_20260520.ps1:612:    "All mule outputs go here.",
+.\COMMAND_CENTER\SCRIPTS\INCOMING\LOCAL_MULE_BIG_OVERALL_JOB_PACKET_BUILDER_20260520.ps1:651:Write-Host "Boundary: local-only packet; no repo edits; no commit; no doctrine; no active guide rewrite; no CURRENT_TRUTH_INDEX rewrite; no dashboard/automation/runtime/knowledge graph/full lesson index; mule output only to dump folder"
+.\COMMAND_CENTER\SCRIPTS\INCOMING\FULL_METHOD_STACK_SAVE_20260522.ps1:224:A mule handoff is not authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\FULL_METHOD_STACK_SAVE_20260522.ps1:226:A mule return is not authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\FULL_METHOD_STACK_SAVE_20260522.ps1:436:It does not promote mule output.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\FULL_METHOD_STACK_SAVE_20260522.ps1:465:7. Do not treat mule output as authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\FULL_METHOD_STACK_SAVE_20260522.ps1:557:Do not treat mule output as authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\DISCUSSION_IDEA_RULE_LOCK_SAVE_20260520.ps1:198:This save prepares the house to intake mule return and preserve the current discussion learning without allowing source ore or mule output to become command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\DISCUSSION_IDEA_RULE_LOCK_SAVE_20260520.ps1:285:Mule being done changes control state, but his output is not command authority. Return must be frozen, checked for staleness, read by manifest, and dispositioned.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\DISCUSSION_IDEA_RULE_LOCK_SAVE_20260520.ps1:297:No conflict with mule boundary: this save records chat-side discussion and current intake state; it does not ingest or promote mule output.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\DISCUSSION_IDEA_RULE_LOCK_SAVE_20260520.ps1:428:Mule return is incoming material, not command authority. Freeze, stale-check, read manifest first, inspect all returned files, and disposition before any save/adoption.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\DISCUSSION_IDEA_RULE_LOCK_SAVE_20260520.ps1:440:Ready for next intake; no mule output ingested in this save.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\DISCUSSION_IDEA_RULE_LOCK_SAVE_20260520.ps1:481:Mule output has not been pasted, uploaded, read, frozen, stale-checked, manifested, or dispositioned in this save.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\DISCUSSION_IDEA_RULE_LOCK_SAVE_20260520.ps1:485:Mule output is not command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\DISCUSSION_IDEA_RULE_LOCK_SAVE_20260520.ps1:505:- Do not process mule output as truth without stale/custody proof.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\DISCUSSION_IDEA_RULE_LOCK_SAVE_20260520.ps1:567:- keep mule output in incoming/source/support lanes until proof.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\DISCUSSION_IDEA_RULE_LOCK_SAVE_20260520.ps1:603:Mule output has not yet been ingested.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\DISCUSSION_IDEA_RULE_LOCK_SAVE_20260520.ps1:623:- Do not treat mule output as command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\DISCUSSION_IDEA_RULE_LOCK_SAVE_20260520.ps1:671:No doctrine rewrite, no active guide rewrite, no CURRENT_TRUTH_INDEX rewrite, no dashboard, no automation, no runtime, no knowledge graph, no full lesson index, no tool/suit/stale-checker/relation-map promotion, and no mule output adoption in this save.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\DISCUSSION_IDEA_RULE_LOCK_SAVE_20260520.ps1:679:Assert-Needle -Path $MuleStatePath -Needle "Mule output is not command authority"
+.\COMMAND_CENTER\SCRIPTS\INCOMING\DISCUSSION_IDEA_RULE_LOCK_SAVE_20260520.ps1:737:- no mule output adoption or processing in this save.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\DISCUSSION_IDEA_RULE_LOCK_SAVE_20260520.ps1:809:Write-Host "- No mule output adoption."
+.\COMMAND_CENTER\SCRIPTS\INCOMING\CORRECTION_ROOT_FIX_SUIT_FIRST_SAVE_20260520.ps1:216:The mule output may identify a route, but the house must first decide what suit/loadout is being worn so the route is approached with the right active support and boundaries.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\CORRECTION_ROOT_FIX_SUIT_FIRST_SAVE_20260520.ps1:235:- Mule return custody boundary: mule output is support evidence, not command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\CORRECTION_ROOT_FIX_SUIT_FIRST_SAVE_20260520.ps1:237:- No Rule King / Better-Fit: do not let mule output, Boss/Ghost, suit, or selector become king.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\CORRECTION_ROOT_FIX_SUIT_FIRST_SAVE_20260520.ps1:278:The mule output was support evidence, not command authority.
+.\COMMAND_CENTER\SCRIPTS\INCOMING\CORRECTION_ROOT_FIX_SUIT_FIRST_SAVE_20260520.ps1:322:### 4. Mule output is not next-move authority
+.\COMMAND_CENTER\SCRIPTS\INCOMING\CORRECTION_ROOT_FIX_SUIT_FIRST_SAVE_20260520.ps1:386:- another mule pass by inertia;

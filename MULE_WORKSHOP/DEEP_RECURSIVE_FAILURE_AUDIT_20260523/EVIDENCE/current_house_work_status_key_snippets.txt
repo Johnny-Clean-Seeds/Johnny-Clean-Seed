@@ -1,0 +1,340 @@
+--- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md lines 190-215 ---
+190: Use ACTIVE_ANCHOR.txt for active ball, next allowed move, and blocked moves.
+191: 
+192: Use this file for support notes, room status, parked risks, and navigation.
+193: 
+194: ## Rule Application Gate Power Play
+195: 
+196: Active learning rule:
+197: 
+198: BRAIN_LEARNING/RULE_APPLICATION_GATE_POWER_PLAY_20260518.md
+199: 
+200: Meaning:
+201: 
+202: When a mistake shows an existing rule did not fire, treat it as a rule-application gate failure.
+203: 
+204: Before saving fog, word, authority, status, index, receipt, map, or support-file changes, run soft add, wear the fix, walk neighboring files, check job ownership, check live/static boundaries, and check whether a working pattern from one room should transfer to another.
+205: 
+206: Receipts for these fixes must prove neighbor fit, not just expected text.
+207: 
+208: ## Project-Wide Pattern Transfer Boss Order Rule
+209: 
+210: Active main decision-order rule:
+211: 
+212: BRAIN_LEARNING/PROJECT_WIDE_PATTERN_TRANSFER_BOSS_ORDER_RULE_20260518.md
+213: 
+214: Open working stack:
+215: 
+--- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md lines 690-710 ---
+690: 
+691: Status:
+692: 
+693: SAVED
+694: 
+695: Meaning:
+696: 
+697: When the assistant struggles during work, it must stop the affected lane instead of fighting dirty.
+698: 
+699: It should diagnose whether the missing piece is a tool, checker, map, index, helper, or bookmark, then build/get the right support if in scope.
+700: 
+701: Unaffected parallel work may continue, but downstream work depending on the blocked lane must pause.
+702: 
+703: Unfinished or blocked work must leave a bookmark with state, cause, blocked work, safe work, unsafe work, needed tool/fix, next action, and return trigger.
+704: 
+705: Receipt:
+706: 
+707: PROOF_HISTORY/STOP_AND_TOOL_OR_BOOKMARK_RULE_RECEIPT_20260518.txt
+708: 
+709: ## Anchor After Work Shed Live Use And Stop-Tool Rule
+710: 
+--- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md lines 1888-1915 ---
+1888: - No runtime automation.
+1889: - No automatic adoption.
+1890: 
+1891: Next move:
+1892: - Use this gate on the next outside-review report or PC-only incoming-file inventory.
+1893: 
+1894: ## 2026-05-19 - Current Work Queue / Loss-Prevention Board
+1895: 
+1896: Starting base: main @ d27eeef.
+1897: 
+1898: Saved:
+1899: - BRAIN_LEARNING/CURRENT_WORK_QUEUE_LOSS_PREVENTION_RULE_20260519.md
+1900: - HOUSE_WORK/WORK_SHED/QUEUE/CURRENT_WORK_QUEUE.md
+1901: - HOUSE_WORK/WORK_SHED/QUEUE/QUEUE_ITEM_TEMPLATE.md
+1902: - PROOF_HISTORY/CURRENT_WORK_QUEUE_LOSS_PREVENTION_RECEIPT_20260519.txt
+1903: 
+1904: Locked:
+1905: - Open work must not live only in chat.
+1906: - The queue is the re-entry door.
+1907: - Work items get state, parent boss, lane, priority, next action, proof need, dependency, and do-not-do boundary.
+1908: - Distractions must be queued, parked, or explicitly switched instead of silently replacing active work.
+1909: 
+1910: Boundary:
+1911: - No doctrine install.
+1912: - No active guide rewrite.
+1913: - No runtime automation.
+1914: - No full dashboard.
+1915: - No automatic sorting.
+--- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md lines 2470-2545 ---
+2470: - No doctrine rewrite.
+2471: - No active guide rewrite.
+2472: - No CURRENT_TRUTH_INDEX change.
+2473: 
+2474: Next move:
+2475: - Keep batch parked unless repeated future use proves promotion fit.
+2476: 
+2477: ## 2026-05-19 - Mule leftover custody closeout
+2478: 
+2479: Base: main @ 46dde67.
+2480: 
+2481: Receipt:
+2482: - PROOF_HISTORY\MULE_LEFTOVER_CUSTODY_CLOSEOUT_RECEIPT_20260519.txt
+2483: 
+2484: Inventory result:
+2485: - NEW_2026-05-17_TO_NOW, YES, clean = 395
+2486: - OLDER_LIKELY_STALE_OR_SOURCE_ORE, YES, clean = 481
+2487: 
+2488: Verdict:
+2489: - PASS: newer mule/work material from 2026-05-17 through now is tracked and clean.
+2490: - Older material is already tracked and clean, but remains stale/source-ore/old notes unless pulled back with a reason.
+2491: 
+2492: Boundary:
+2493: - No new files installed.
+2494: - No older files promoted.
+2495: - No checker promoted.
+2496: - No tool installation.
+2497: - No doctrine rewrite.
+2498: - No active guide rewrite.
+2499: - No CURRENT_TRUTH_INDEX change.
+2500: 
+2501: Next move:
+2502: - Close this mule-leftover custody lane.
+2503: 
+2504: ## 2026-05-19 - Current Work Queue post-mule-close sync
+2505: 
+2506: Base: main @ 56fb238.
+2507: 
+2508: Saved:
+2509: - HOUSE_WORK\WORK_SHED\QUEUE\CURRENT_WORK_QUEUE.md
+2510: - PROOF_HISTORY\CURRENT_WORK_QUEUE_POST_MULE_CLOSE_SYNC_RECEIPT_20260519.txt
+2511: 
+2512: Repair:
+2513: - Synced stale queue pointer after mule-leftover custody closeout.
+2514: - Marked Q-20260519-011 DONE.
+2515: - Set active item readback to no selected active item after closeout.
+2516: 
+2517: Boundary:
+2518: - Queue/status pointer sync only.
+2519: - No checker promotion.
+2520: - No tool installation.
+2521: - No doctrine rewrite.
+2522: - No active guide rewrite.
+2523: - No CURRENT_TRUTH_INDEX change.
+2524: 
+2525: Next move:
+2526: - Choose the next active boss from synced queue/status.
+2527: 
+2528: ## 2026-05-19 - Whole-House Review handoff boss activation
+2529: 
+2530: Base: main @ 9af3ab9.
+2531: 
+2532: Activated:
+2533: - Q-20260519-009 - Whole-House Review / outside-review handoff.
+2534: 
+2535: Saved:
+2536: - PROOF_HISTORY\WHOLE_HOUSE_REVIEW_HANDOFF_BOSS_ACTIVATION_RECEIPT_20260519.txt
+2537: 
+2538: Reason:
+2539: - No active queue item remained after mule-leftover custody closeout.
+2540: - Incoming/custody/checker-candidate lanes are closed enough to support a cleaner outside review.
+2541: - Q-20260519-008 remains parked because it is conditional.
+2542: 
+2543: Boundary:
+2544: - Queue/status activation only.
+2545: - No outside report sent yet.
+--- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md lines 4870-4985 ---
+4870: Desktop is not a parking lane. One-time helper scripts/files generated for Desktop use must self-clean after successful proof, be routed into Mr.Kleen as tool/tool-candidate material with receipt, or be explicitly marked for the user to keep.
+4871: 
+4872: Default:
+4873: Temporary helper = delete after successful proof.
+4874: 
+4875: Boundary:
+4876: No doctrine rewrite, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no runtime, no automation.
+4877: 
+4878: ---
+4879: 
+4880: ## 123 Outside Storage Unit + HNS Mesh Mule Handoff + Adopt/Adapt Repair
+4881: 
+4882: Status: RULES SAVED / ACTIVE MULE HANDOFF PLACED
+4883: Date: 2026-05-20
+4884: Base before save:
+4885: 07bcc2d
+4886: 
+4887: 123 outside storage unit:
+4888: C:\Users\13527\Desktop\123
+4889: 
+4890: 123 rule:
+4891: BRAIN_LEARNING\ASSISTANT_123_OUTSIDE_STORAGE_UNIT_RULE_20260520.md
+4892: 
+4893: Adopt/adapt rule:
+4894: BRAIN_LEARNING\ADOPT_ADAPT_FOUND_FIX_LIVE_APPLICATION_RULE_20260520.md
+4895: 
+4896: Failure capture:
+4897: HOUSE_WORK\WORK_SHED\SORTING_BENCH\FOUND_FIX_NOT_APPLIED_TO_LIVE_LANE_FAILURE_20260520.md
+4898: 
+4899: Active mule handoff:
+4900: HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\ACTIVE_HANDOFFS\HNS_MESH_V2_REVISION_HANDOFF_20260520_20260520_205251
+4901: 
+4902: Read-first file:
+4903: HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\ACTIVE_HANDOFFS\HNS_MESH_V2_REVISION_HANDOFF_20260520_20260520_205251\READ_FIRST_FOR_MULE_HNS_MESH_V2_20260520.md
+4904: 
+4905: Pointer:
+4906: HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\ACTIVE_HANDOFFS\CURRENT_ACTIVE_HANDOFF_POINTER.md
+4907: 
+4908: Archived old active handoffs:
+4909: NO
+4910: 
+4911: Archive bucket:
+4912: 
+4913: 
+4914: Meaning:
+4915: 123 is the assistant outside storage unit for user-dropped files. It is support/storage, not authority. HNS Mesh repair packet files were copied into a clean mule active handoff room. The found-fix adoption failure was captured as an active behavior rule.
+4916: 
+4917: Boundary:
+4918: No doctrine, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no runtime, no automation, no dashboard, no mule-as-authority.
+4919: 
+4920: ---
+4921: 
+4922: ## HNS Mesh V2 And Common Sense Mule Returns Intake
+4923: 
+4924: Status: RETURNS SAVED AS SUPPORT EVIDENCE / NO ADOPTION
+4925: Date: 2026-05-21
+4926: Base before save: main @ fbfdba8
+4927: 
+4928: HNS return:
+4929: HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\RETURNS\HNS_MESH_V2_REVISION_RETURN_20260520
+4930: 
+4931: Common Sense return:
+4932: HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\RETURNS\COMMON_SENSE_DEEP_RESEARCH_RETURN_20260521
+4933: 
+4934: Intake note:
+4935: HOUSE_WORK\WORK_SHED\SORTING_BENCH\HNS_AND_COMMON_SENSE_MULE_RETURNS_INTAKE_DISPOSITION_20260521.md
+4936: 
+4937: Direction note:
+4938: HOUSE_WORK\WORK_SHED\SORTING_BENCH\MODEL_SPINE_FOCUS_COMMON_SENSE_DIRECTION_CLARITY_20260521.md
+4939: 
+4940: TODO:
+4941: HOUSE_WORK\TODO\MODEL_SPINE_FOCUS_COMMON_SENSE_NEXT_TINY_TESTS_TODO_20260521.md
+4942: 
+4943: Meaning:
+4944: The two returns establish a clearer direction: Model Spine plus Focus Nerve plus Common Sense Gate. These are support evidence and save/lock candidates, not installed doctrine.
+4945: 
+4946: Next:
+4947: Save Assistant-Mule Exchange Bridge into Mule Workshop after this intake commit is clean.
+4948: 
+4949: Boundary:
+4950: No doctrine, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no runtime, no dashboard, no automation, no permanent alarm feed, no mule-as-authority.
+4951: 
+4952: ---
+4953: 
+4954: ## Assistant Mule Exchange Bridge
+4955: 
+4956: Status: ACTIVE PROJECT STRUCTURE SAVED / MULE WORKSHOP EXCHANGE
+4957: Date: 2026-05-21
+4958: Base before save: main @ 44d0202
+4959: 
+4960: Exchange root:
+4961: HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\BRIDGES\ASSISTANT_MULE_EXCHANGE_BRIDGE
+4962: 
+4963: Pointer:
+4964: HOUSE_WORK\WORK_SHED\MULE_WORKSHOP\CURRENT_ASSISTANT_MULE_EXCHANGE_POINTER.md
+4965: 
+4966: Rule:
+4967: BRAIN_LEARNING\ASSISTANT_MULE_EXCHANGE_BRIDGE_RULE_20260521.md
+4968: 
+4969: Failure repair:
+4970: HOUSE_WORK\WORK_SHED\SORTING_BENCH\FRONT_DOOR_BRIDGE_WRONG_123_PLACEMENT_REPAIR_20260521.md
+4971: 
+4972: Meaning:
+4973: The assistant and mule now have a project-house exchange room in Mule Workshop. 123 remains porch/storage. Mule is a real guest worker with rooms, return lanes, footprint ledger, and cleanup/archive path.
+4974: 
+4975: Boundary:
+4976: No doctrine, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no runtime, no automation, no dashboard, no mule-as-authority.
+4977: 
+4978: ---
+4979: 
+4980: ## Front Door And Work Request Sorting Rules
+4981: 
+4982: Status: SUPPORT RULES SAVED / LIVE-USE REQUIRED
+4983: Date: 2026-05-21
+4984: Base before save: main @ 81e2e65
+4985: 
+--- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md lines 5778-5810 ---
+5778: Chat-cockpit visibility/export protocol, cockpit addendum, and labeled CHAT drop-copy export only. No doctrine promotion. No active guide rewrite. No CURRENT_TRUTH_INDEX rewrite. No automation. Does not create new house rules by itself.
+5779: 
+5780: Short form:
+5781: If chat cockpit changes, export a clearly labeled CHAT drop-copy. It obeys closer; it does not start making new house rules.
+5782: 
+5783: ## 20260522 — Final Judge Gate Alpha/Omega Role Rule
+5784: 
+5785: Position before commit: 0489d77a22d11793bf870ac79cbdd694a46f296b
+5786: 
+5787: Saved:
+5788: - BRAIN_LEARNING/FINAL_JUDGE_GATE_ALPHA_OMEGA_ROLE_RULE_20260522.md
+5789: - HOUSE_WORK/WORK_SHED/SORTING_BENCH/FINAL_JUDGE_GATE_ALPHA_OMEGA_ROLE_CAPTURE_20260522.md
+5790: - HOUSE_WORK/CHAT_COCKPIT/CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+5791: - PROOF_HISTORY/FINAL_JUDGE_GATE_ALPHA_OMEGA_ROLE_RULE_RECEIPT_20260522.txt
+5792: 
+5793: Exported:
+5794: - C:\Users\13527\Desktop\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+5795: - C:\Users\13527\Desktop\123\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+5796: 
+5797: Verdict:
+5798: PASS - FINAL JUDGE GATE ALPHA OMEGA ROLE RULE SAVED
+5799: 
+5800: Boundary:
+5801: Final Judge Gate alpha/omega role rule, correction capture, cockpit addendum, and labeled CHAT drop-copy export only. No doctrine promotion. No active guide rewrite. No CURRENT_TRUTH_INDEX rewrite. No automation. Does not make any source, handoff, document, mule, or helper the throne. Does not make Final Judge Gate a monarchy.
+5802: 
+5803: Short form:
+5804: Every object gets a job. Every gate gets judged. The Final Judge Gate starts the gate run and ends it.
+5805: 
+5806: ## 20260522 — Porch Watcher / Move-Not-Copy Housekeeping Rule
+5807: 
+5808: Position before commit: 510e1ba18fba585907377a0b04b1152bfbcb8311
+5809: 
+5810: Saved:
+--- HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md lines 6088-6120 ---
+6088: Status: SAVED BY SCRIPT / SUPPORT RULE / NO DOCTRINE PROMOTION
+6089: Old base before save: 3e956adbd6ab3aad9708b88da160a34de134fb57
+6090: 
+6091: Saved:
+6092: - BRAIN_LEARNING\CHAT_TO_HOUSE_CREATIVE_ROOM_LARGE_MODEL_ROUTING_RULE_20260523.md
+6093: - HOUSE_WORK\WORK_SHED\SORTING_BENCH\CHAT_TO_HOUSE_CREATIVE_ROOM_LARGE_MODEL_TEST_NOTE_V2_20260523.md
+6094: - HOUSE_WORK\WORK_SHED\SORTING_BENCH\CHAT_COCKPIT_CREATIVE_ROOM_POINTER_PATCH_20260523.md
+6095: - PROOF_HISTORY\CHAT_TO_HOUSE_CREATIVE_ROOM_LARGE_MODEL_LOCK_RECEIPT_20260523_015922.txt
+6096: 
+6097: Meaning:
+6098: - chat cockpit remains a small pointer / Disney map;
+6099: - house remains the working zone;
+6100: - Creative Room is now represented as a required resource-synthesis pass;
+6101: - Creative Room may shape candidate rooms/tools/methods when they fit the larger model;
+6102: - messy/slop/painting-layer work is allowed only as candidate source-shaping before cleanup, fit testing, proof, and Final Judge.
+6103: 
+6104: Boundary:
+6105: No ACTIVE_GUIDE rewrite. No CURRENT_TRUTH_INDEX rewrite. No doctrine promotion. No chat-rule file explosion. No candidate room/tool installed as authority.
+6106: 
+6107: ## 2026-05-23 — Creative Gate + Gate Friendship Neighbor Order
+6108: 
+6109: Status: SAVED BY SCRIPT / SUPPORT RULE / NO DOCTRINE PROMOTION
+6110: Old base before save: 94fc762e07a2e8782e05288f9f793ee4d8a80be4
+6111: 
+6112: Saved:
+6113: - BRAIN_LEARNING\CREATIVE_GATE_FRIENDSHIP_NEIGHBOR_ORDER_RULE_20260523.md
+6114: - HOUSE_WORK\WORK_SHED\SORTING_BENCH\CREATIVE_GATE_FRIENDSHIP_NEIGHBOR_ORDER_MAP_20260523.md
+6115: - HOUSE_WORK\WORK_SHED\PARKING\FUTURE_PLANS_IDEA_LEADING_CONSOLIDATOR_RESERVE_20260523.md
+6116: - PROOF_HISTORY\CREATIVE_GATE_FRIENDSHIP_NEIGHBOR_ORDER_RECEIPT_20260523_020400.txt
+6117: 
+6118: Meaning:
+6119: - Creative Gate added as a companion gate for other gates to work with;
+6120: - gate friendship neighbor order mapped so many gates do not fire as a random pile;
