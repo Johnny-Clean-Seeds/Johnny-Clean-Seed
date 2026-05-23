@@ -6287,3 +6287,23 @@ Boundary:
 - no Work Shed rebuild;
 - no local-only cleanup.
 
+
+## 2026-05-23 — Issue Encounter Rule Repair Latch Save
+
+Saved missing repeat-prevention rule after the lock-save patch/parser failure.
+
+Reason:
+The recursive map/order/growth save passed cleanly, but the attempted insertion of the Issue Encounter Rule Repair Latch threw a parser error before the rule was added. The previous commit list did not include BRAIN_LEARNING/ISSUE_ENCOUNTER_RULE_REPAIR_LATCH_20260523.md.
+
+Saved:
+- Issue Encounter Rule Repair Latch
+- PowerShell reserved-variable guard
+- Parser/patch guard
+- Stop/fix-rule/apply/prove/save/continue sequence
+
+Boundary:
+- no mule return capture;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no Work Shed rebuild.
