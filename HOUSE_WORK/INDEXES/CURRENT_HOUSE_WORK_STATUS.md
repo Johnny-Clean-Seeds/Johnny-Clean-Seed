@@ -6194,3 +6194,23 @@ Meaning:
 
 Boundary:
 No ACTIVE_GUIDE rewrite. No CURRENT_TRUTH_INDEX rewrite. No doctrine promotion. No CONSOLIDATOR activation. No Alpha Omega promotion. No mule execution by this save. No cleanup/delete/move. No runtime, automation, dashboard, or public authority change.
+
+## 2026-05-23 — Alpha Omega Hindsight Neighbor Order
+
+Status: SAVED BY SCRIPT / SUPPORT RULE / NO DOCTRINE PROMOTION
+Old base before save: bca04d331ec82f1de73a0948d5547348ac7c9d94
+
+Saved:
+- BRAIN_LEARNING\ALPHA_OMEGA_HINDSIGHT_NEIGHBOR_ORDER_20260523.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\ALPHA_OMEGA_HINDSIGHT_ORDER_INSPECTION_20260523.md
+- PROOF_HISTORY\ALPHA_OMEGA_HINDSIGHT_ORDER_SAVE_RECEIPT_20260523_025740.txt
+
+Meaning:
+- hindsight belongs before Alpha Omega closes the loop;
+- Alpha opens fresh without history bias;
+- work/gates/proof run before hindsight;
+- hindsight feeds Omega closure as a neighbor/lens;
+- Alpha Omega remains whole-loop judge, not a king gate or proof replacement.
+
+Boundary:
+No ACTIVE_GUIDE rewrite. No CURRENT_TRUTH_INDEX rewrite. No doctrine promotion. No mule handoff update. No CONSOLIDATOR activation. No Alpha Omega promotion. No cleanup/delete/move. No runtime, automation, dashboard, or public authority change.
