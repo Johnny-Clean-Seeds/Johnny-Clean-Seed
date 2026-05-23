@@ -6082,3 +6082,24 @@ Files:
 - HOUSE_WORK\WORK_SHED\SORTING_BENCH\SMOKE_BREAK_FOCUS_RESET_POWER_PLAY_CAPTURE_20260522.md
 Boundary: no doctrine promotion, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no automation, no dashboard, no broad cleanup.
 Next: use smoke break as a focus reset only if it returns to the same active issue; adverse effects become evidence in the gate loop.
+
+## 2026-05-23 — Chat-to-House Creative Room Large-Model Router Lock
+
+Status: SAVED BY SCRIPT / SUPPORT RULE / NO DOCTRINE PROMOTION
+Old base before save: 3e956adbd6ab3aad9708b88da160a34de134fb57
+
+Saved:
+- BRAIN_LEARNING\CHAT_TO_HOUSE_CREATIVE_ROOM_LARGE_MODEL_ROUTING_RULE_20260523.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\CHAT_TO_HOUSE_CREATIVE_ROOM_LARGE_MODEL_TEST_NOTE_V2_20260523.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\CHAT_COCKPIT_CREATIVE_ROOM_POINTER_PATCH_20260523.md
+- PROOF_HISTORY\CHAT_TO_HOUSE_CREATIVE_ROOM_LARGE_MODEL_LOCK_RECEIPT_20260523_015922.txt
+
+Meaning:
+- chat cockpit remains a small pointer / Disney map;
+- house remains the working zone;
+- Creative Room is now represented as a required resource-synthesis pass;
+- Creative Room may shape candidate rooms/tools/methods when they fit the larger model;
+- messy/slop/painting-layer work is allowed only as candidate source-shaping before cleanup, fit testing, proof, and Final Judge.
+
+Boundary:
+No ACTIVE_GUIDE rewrite. No CURRENT_TRUTH_INDEX rewrite. No doctrine promotion. No chat-rule file explosion. No candidate room/tool installed as authority.
