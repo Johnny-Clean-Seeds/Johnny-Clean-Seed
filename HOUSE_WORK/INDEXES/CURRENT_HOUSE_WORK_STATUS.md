@@ -6390,3 +6390,29 @@ Boundary:
 - no Work Shed rebuild;
 - no destructive cleanup.
 
+## 2026-05-23 — Root 123 Broad Command Washup
+
+Saved root porch cleanup and if-the-shoe-fits broad-command live-use support.
+
+Reason:
+The root of `C:\Users\13527\Desktop\123` had a duplicate broad-command source file and three dropped save runners. The broad-command source already matched the canonical BRAIN_LEARNING copy by SHA256, while the runners carried stale path and Work Shed assumptions. The cleanup needed source custody, runner custody, note burning, a user-friendly sliding list, and proof before Git closeout.
+
+Saved:
+- If The Shoe Fits / Broad Command Washup Rule
+- processed root broad-command source custody ledger
+- historical broad-command save runner custody note
+- root porch cleanup report
+- evidence and repeating pattern ledger
+- fit decision ledger
+- note burning and finals ledger
+- boss order and TODO checklist
+- sliding tabbed HTML clean list
+- receipt with hashes
+
+Boundary:
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no shed or bridge restoration;
+- no old runner execution;
+- no delete.
+

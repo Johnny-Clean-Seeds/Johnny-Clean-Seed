@@ -1,0 +1,80 @@
+Root 123 Broad Command Washup Receipt
+Date: 2026-05-23
+
+Verdict:
+PASS WITH GUARDRAILS / LOCK-SAVE TARGET
+
+Active home:
+C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz
+
+Output packet:
+C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\MULE_WORKSHOP\ROOT_123_BROAD_COMMAND_WASHUP_20260523
+
+What was done:
+- Read and processed the loose files at C:\Users\13527\Desktop\123.
+- Confirmed the root broad-command markdown matched the canonical BRAIN_LEARNING copy by SHA256.
+- Moved the duplicate source copy into processed rule intake.
+- Moved three root save runners into helper-script custody.
+- Added a do-not-run custody note for the historical runners.
+- Added a live-use support rule for if-the-shoe-fits broad-command washup.
+- Wrote a clean packet with evidence, fit decisions, note burning, boss order, safe fixes, and a sliding tabbed HTML list.
+- Appended the save to CURRENT_HOUSE_WORK_STATUS.
+
+Root porch after cleanup:
+- C:\Users\13527\Desktop\123\COMMAND_CENTER
+- C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz
+
+Shed / bridge boundary:
+- No shed folders restored.
+- No bridge folders restored.
+- Work Shed references found inside historical runners were treated as warning evidence only.
+
+Historical runner warning:
+- The moved scripts were not run.
+- V1 and V1.1 point to the old home path.
+- V1.2 can find the new home path but still carries Work Shed compare-note behavior.
+- V1.1 and V1.2 include git commit/push commands.
+
+Live anomaly captured:
+- A command using $home failed because PowerShell treats $HOME as reserved.
+- Directory creation also required New-Item -Path on this system; New-Item -LiteralPath was not accepted.
+
+Secret/private scan:
+- Moved root source and runner files were scanned for TOKEN/token/password/secret/credential/key/pem/pfx/p12/env patterns.
+- No matches were found in the moved root source or runner files.
+
+Files written or moved and SHA256:
+30614075A717BD5A24B5D441AF36699EAFEDB9F3A1061A1B3D84352EB61A8077  C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\BRAIN_LEARNING\IF_THE_SHOE_FITS_BROAD_COMMAND_WASHUP_RULE_20260523.md
+9BC2FA5CA87012E0D80A26DD506CAF384B7DDE7FC3BFC9CE12AA1730DDEBBE72  C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\RULE_INTAKE\PROCESSED_ROOT_123_BROAD_COMMAND_20260523\BROAD_COMMAND_RECURSIVE_TRIGGER_LIST_20260523.md
+5E326C3247C61D3AD3B1AF0254A000DED05408CE209B6D63FECAACA2DE840413  C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\RULE_INTAKE\PROCESSED_ROOT_123_BROAD_COMMAND_20260523\PROCESSING_LEDGER.md
+403FF4F19F44C21F954E20080443D382A63F3E7FCDB95B58E83156F2DC396C5E  C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\TOOLS\PORCH_DROPPED_HELPER_SCRIPTS_20260523\BROAD_COMMAND_TRIGGER_LIST_SAVE_RUNNERS_20260523\README_RUNNER_CUSTODY.md
+E7AAABC3962789238AF891220374DD5FE7CD56D55F20A9371C09DB93594896ED  C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\TOOLS\PORCH_DROPPED_HELPER_SCRIPTS_20260523\BROAD_COMMAND_TRIGGER_LIST_SAVE_RUNNERS_20260523\SAVE_BROAD_COMMAND_TRIGGER_LIST_TO_GIT_V1.ps1
+36A209E1555B7FC0A2A9F8367DC8796C2E7F904DBC3F97A04BBF287B0209193F  C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\TOOLS\PORCH_DROPPED_HELPER_SCRIPTS_20260523\BROAD_COMMAND_TRIGGER_LIST_SAVE_RUNNERS_20260523\SAVE_BROAD_COMMAND_TRIGGER_LIST_TO_GIT_V1_1.ps1
+3EED428B7A39D5F53760EE3E576295A91CC4F2B29423A75C5703851EB3AE6C68  C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\TOOLS\PORCH_DROPPED_HELPER_SCRIPTS_20260523\BROAD_COMMAND_TRIGGER_LIST_SAVE_RUNNERS_20260523\SAVE_BROAD_COMMAND_TRIGGER_LIST_TO_GIT_V1_2.ps1
+BD2F47D97BCE715DE11C2C6C219736A7C149C9B691C77376E3AB227443301D09  C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\MULE_WORKSHOP\ROOT_123_BROAD_COMMAND_WASHUP_20260523\MANIFEST.md
+4B8A3DBD7A50FCC55EED7F510846FA07CE025B9DCEAB982E75400F01CB90412F  C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\MULE_WORKSHOP\ROOT_123_BROAD_COMMAND_WASHUP_20260523\ROOT_123_PORCH_CLEANUP_REPORT.md
+9EFDB854FB714A5BA873B3B23DA65AF0F77549394E228D168F5B1B6E4F8D1610  C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\MULE_WORKSHOP\ROOT_123_BROAD_COMMAND_WASHUP_20260523\EVIDENCE_AND_PATTERN_LEDGER.md
+98E3D16C9690E95B34A7780A35ACFE452956A962E8586EFC4EBEE72468AF6047  C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\MULE_WORKSHOP\ROOT_123_BROAD_COMMAND_WASHUP_20260523\FIT_DECISION_LEDGER.md
+F3D1EC847475D0F7E185307C563CA307770CA639F5D55E0CF3F840E40BF01673  C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\MULE_WORKSHOP\ROOT_123_BROAD_COMMAND_WASHUP_20260523\NOTE_BURNING_AND_FINALS.md
+E21BD8457A56AD212112CA8A5A35089733360DED32F6B9420DD43B1CEEC0005E  C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\MULE_WORKSHOP\ROOT_123_BROAD_COMMAND_WASHUP_20260523\BOSS_ORDER_AND_TODO_CHECKLIST.md
+FBC9DA680648D98F06129D7609B40B87463A5E581E2EEBBA100874886557DB4D  C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\MULE_WORKSHOP\ROOT_123_BROAD_COMMAND_WASHUP_20260523\SAFE_FIXES_APPLIED.md
+578C2D7975F018FF501CD8DFB4F323ABAD055BE3691A9ABD4ACF2B929FB3EB00  C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\MULE_WORKSHOP\ROOT_123_BROAD_COMMAND_WASHUP_20260523\SLIDING_TABS_RECURSIVE_CLEAN_LIST_20260523.html
+F14160D791F22947461494CBAA30C5A750CB6E130939B7CDD35BFA905DBD9798  C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+
+Git:
+- Git was read before changes; starting state was main...origin/main at 410d0b32545a8a44a7547d81db2ace82ca03d555.
+- Git lock/save is authorized by the user request and follows this receipt.
+- Final HEAD/origin proof and RECEIPT.txt SHA256 are returned in chat after commit/push verification.
+
+Blockers:
+- None for this scoped cleanup.
+
+Parked:
+- Home path sync candidate.
+- Runner/script repair candidate.
+- Work Shed reference reconciliation only if explicitly opened.
+- Local-only tracking audit.
+- TODO / parking return-trigger sweep after path/work-shed clarity.
+
+Final Judge:
+PASS WITH GUARDRAILS.

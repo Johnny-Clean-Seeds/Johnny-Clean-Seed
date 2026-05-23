@@ -1,0 +1,422 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Root 123 Broad Command Washup</title>
+  <style>
+    :root {
+      --bg: #f6f7f4;
+      --ink: #18201d;
+      --muted: #66706c;
+      --panel: #ffffff;
+      --line: #d8ded8;
+      --accent: #17695f;
+      --accent-2: #c8513b;
+      --soft: #edf4f1;
+      --warn: #fff4df;
+      --shadow: 0 8px 22px rgba(20, 35, 30, 0.08);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: "Segoe UI", Arial, sans-serif;
+      line-height: 1.45;
+    }
+
+    main {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 28px 18px 48px;
+    }
+
+    header {
+      display: grid;
+      gap: 10px;
+      margin-bottom: 18px;
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 18px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(1.8rem, 3vw, 3rem);
+      letter-spacing: 0;
+    }
+
+    .sub {
+      max-width: 900px;
+      color: var(--muted);
+      font-size: 1rem;
+    }
+
+    .status-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 6px;
+    }
+
+    .pill {
+      border: 1px solid var(--line);
+      background: var(--panel);
+      padding: 7px 10px;
+      border-radius: 8px;
+      font-size: 0.9rem;
+    }
+
+    .tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 18px 0;
+    }
+
+    .tab {
+      border: 1px solid var(--line);
+      background: var(--panel);
+      color: var(--ink);
+      padding: 10px 12px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-weight: 650;
+    }
+
+    .tab[aria-selected="true"] {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+
+    .panel {
+      display: none;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+
+    .panel.active {
+      display: block;
+    }
+
+    .panel-head {
+      padding: 16px;
+      background: var(--soft);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .panel-head h2 {
+      margin: 0 0 4px;
+      font-size: 1.25rem;
+      letter-spacing: 0;
+    }
+
+    .panel-head p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .list {
+      display: grid;
+    }
+
+    details {
+      border-bottom: 1px solid var(--line);
+    }
+
+    details:last-child {
+      border-bottom: 0;
+    }
+
+    summary {
+      list-style: none;
+      cursor: pointer;
+      padding: 14px 16px;
+      display: grid;
+      grid-template-columns: minmax(160px, 1fr) auto;
+      gap: 10px;
+      align-items: center;
+    }
+
+    summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .summary-title {
+      font-weight: 700;
+    }
+
+    .badge {
+      color: #fff;
+      background: var(--accent);
+      border-radius: 999px;
+      padding: 5px 9px;
+      font-size: 0.78rem;
+      white-space: nowrap;
+    }
+
+    .badge.warn {
+      background: var(--accent-2);
+    }
+
+    .detail-body {
+      padding: 0 16px 16px;
+      color: var(--muted);
+      display: grid;
+      gap: 8px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 8px;
+    }
+
+    .field {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 10px;
+      background: #fff;
+    }
+
+    .field strong {
+      display: block;
+      color: var(--ink);
+      margin-bottom: 4px;
+    }
+
+    code {
+      font-family: Consolas, "Courier New", monospace;
+      font-size: 0.92em;
+      overflow-wrap: anywhere;
+    }
+
+    .footer-note {
+      margin-top: 18px;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    @media (max-width: 760px) {
+      main {
+        padding: 20px 12px 36px;
+      }
+
+      summary {
+        grid-template-columns: 1fr;
+      }
+
+      .grid {
+        grid-template-columns: 1fr;
+      }
+
+      .tab {
+        flex: 1 1 145px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Root 123 Broad Command Washup</h1>
+      <div class="sub">A clean sliding list for the root porch files, recurring pattern evidence, if-the-shoe-fits decisions, note burning, and next boss order.</div>
+      <div class="status-row">
+        <span class="pill">Verdict: PASS WITH GUARDRAILS</span>
+        <span class="pill">Porch: loose files routed</span>
+        <span class="pill">Git: lock/save verified after push</span>
+      </div>
+    </header>
+
+    <nav class="tabs" aria-label="Washup tabs">
+      <button class="tab" aria-selected="true" data-tab="boss">Active Boss</button>
+      <button class="tab" aria-selected="false" data-tab="evidence">Evidence</button>
+      <button class="tab" aria-selected="false" data-tab="fit">Fit Decisions</button>
+      <button class="tab" aria-selected="false" data-tab="finals">Clean Finals</button>
+      <button class="tab" aria-selected="false" data-tab="parked">Parked / Return</button>
+      <button class="tab" aria-selected="false" data-tab="judge">Proof / Judge</button>
+    </nav>
+
+    <section class="panel active" id="boss">
+      <div class="panel-head">
+        <h2>Active Boss</h2>
+        <p>Keep the center point visible while handling broad-command cleanup.</p>
+      </div>
+      <div class="list">
+        <details open>
+          <summary><span class="summary-title">Clean the root porch</span><span class="badge">done</span></summary>
+          <div class="detail-body">
+            <div class="grid">
+              <div class="field"><strong>Action</strong>Move loose root files into active-home custody.</div>
+              <div class="field"><strong>Proof</strong>Root now contains only <code>COMMAND_CENTER</code> and <code>Jxhnny_Kl33N_Seedz</code>.</div>
+            </div>
+          </div>
+        </details>
+        <details>
+          <summary><span class="summary-title">Wear the broad-command rule</span><span class="badge">done</span></summary>
+          <div class="detail-body">
+            <div class="grid">
+              <div class="field"><strong>Method</strong><code>anchor -> gather -> branch -> fit-test -> clean / rename / drop -> order -> output -> self-proof</code></div>
+              <div class="field"><strong>Output</strong>Support rule, ledgers, custody note, and this sliding list.</div>
+            </div>
+          </div>
+        </details>
+        <details>
+          <summary><span class="summary-title">Lock/save after proof</span><span class="badge">close step</span></summary>
+          <div class="detail-body">
+            <div class="field"><strong>Close trigger</strong>Receipt hashes written, commit pushed, HEAD equals origin/main.</div>
+          </div>
+        </details>
+      </div>
+    </section>
+
+    <section class="panel" id="evidence">
+      <div class="panel-head">
+        <h2>Evidence</h2>
+        <p>The repeated pattern is already in the files; the fix is live carry-through.</p>
+      </div>
+      <div class="list">
+        <details open>
+          <summary><span class="summary-title">Rule stored but not fired</span><span class="badge">root family</span></summary>
+          <div class="detail-body">
+            <div class="field"><strong>Evidence</strong>Broad command rule, recursive mirror adoption rule, proof-in-pudding rule.</div>
+            <div class="field"><strong>Fix</strong>Name the fired gate before action and show what it changed.</div>
+          </div>
+        </details>
+        <details>
+          <summary><span class="summary-title">Lifecycle closeout missing</span><span class="badge">root family</span></summary>
+          <div class="detail-body">
+            <div class="field"><strong>Evidence</strong>Used runner lifecycle rule and prior root issue diagnosis.</div>
+            <div class="field"><strong>Fix</strong>Runner is mail: drop, run, report, verify, archive, receipt, porch clean.</div>
+          </div>
+        </details>
+        <details>
+          <summary><span class="summary-title">Path drift and Work Shed pressure</span><span class="badge warn">guardrail</span></summary>
+          <div class="detail-body">
+            <div class="field"><strong>Evidence</strong>Moved runners contain old home paths and Work Shed references.</div>
+            <div class="field"><strong>Fix</strong>Preserve as historical runners; do not run or restore shed lanes.</div>
+          </div>
+        </details>
+      </div>
+    </section>
+
+    <section class="panel" id="fit">
+      <div class="panel-head">
+        <h2>Fit Decisions</h2>
+        <p>Every object gets a lane, action, and proof path.</p>
+      </div>
+      <div class="list">
+        <details open>
+          <summary><span class="summary-title">Broad command markdown</span><span class="badge">wear it</span></summary>
+          <div class="detail-body">
+            <div class="grid">
+              <div class="field"><strong>Why</strong>It matches the house and already exists canonically in BRAIN_LEARNING.</div>
+              <div class="field"><strong>Action</strong>Moved loose root copy into processed rule intake.</div>
+            </div>
+          </div>
+        </details>
+        <details>
+          <summary><span class="summary-title">Save runners</span><span class="badge warn">park</span></summary>
+          <div class="detail-body">
+            <div class="grid">
+              <div class="field"><strong>Why</strong>Useful proof/history, risky as current scripts.</div>
+              <div class="field"><strong>Action</strong>Moved to helper-script custody with do-not-run note.</div>
+            </div>
+          </div>
+        </details>
+        <details>
+          <summary><span class="summary-title">Shed / bridge material</span><span class="badge warn">block</span></summary>
+          <div class="detail-body">
+            <div class="field"><strong>Why</strong>User boundary and ignore rules exclude these lanes in this task.</div>
+          </div>
+        </details>
+      </div>
+    </section>
+
+    <section class="panel" id="finals">
+      <div class="panel-head">
+        <h2>Clean Finals</h2>
+        <p>Working notes were condensed instead of left scattered.</p>
+      </div>
+      <div class="list">
+        <details open>
+          <summary><span class="summary-title">Final packet</span><span class="badge">written</span></summary>
+          <div class="detail-body">
+            <div class="field"><strong>Folder</strong><code>MULE_WORKSHOP\ROOT_123_BROAD_COMMAND_WASHUP_20260523</code></div>
+          </div>
+        </details>
+        <details>
+          <summary><span class="summary-title">Support rule</span><span class="badge">written</span></summary>
+          <div class="detail-body">
+            <div class="field"><strong>File</strong><code>BRAIN_LEARNING\IF_THE_SHOE_FITS_BROAD_COMMAND_WASHUP_RULE_20260523.md</code></div>
+          </div>
+        </details>
+      </div>
+    </section>
+
+    <section class="panel" id="parked">
+      <div class="panel-head">
+        <h2>Parked / Return</h2>
+        <p>Useful but out-of-scope material has return triggers.</p>
+      </div>
+      <div class="list">
+        <details open>
+          <summary><span class="summary-title">Runner repair</span><span class="badge warn">return later</span></summary>
+          <div class="detail-body"><div class="field"><strong>Trigger</strong>Open a runner/script cleanup boss.</div></div>
+        </details>
+        <details>
+          <summary><span class="summary-title">Home path sync</span><span class="badge warn">return later</span></summary>
+          <div class="detail-body"><div class="field"><strong>Trigger</strong>User authorizes scoped old-home path repair.</div></div>
+        </details>
+        <details>
+          <summary><span class="summary-title">Local-only tracking audit</span><span class="badge warn">return later</span></summary>
+          <div class="detail-body"><div class="field"><strong>Trigger</strong>User opens Git/local privacy boundary cleanup.</div></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="panel" id="judge">
+      <div class="panel-head">
+        <h2>Proof / Judge</h2>
+        <p>PASS only follows target proof, receipt, and Git verification.</p>
+      </div>
+      <div class="list">
+        <details open>
+          <summary><span class="summary-title">Porch proof</span><span class="badge">pass</span></summary>
+          <div class="detail-body"><div class="field"><strong>Proof</strong>No loose root files remain at `C:\Users\13527\Desktop\123`.</div></div>
+        </details>
+        <details>
+          <summary><span class="summary-title">Receipt proof</span><span class="badge">written</span></summary>
+          <div class="detail-body"><div class="field"><strong>Proof</strong>Receipt lists files written and SHA256 hashes.</div></div>
+        </details>
+        <details>
+          <summary><span class="summary-title">Git proof</span><span class="badge">final check</span></summary>
+          <div class="detail-body"><div class="field"><strong>Proof</strong>After lock/save, `HEAD` equals `origin/main`.</div></div>
+        </details>
+      </div>
+    </section>
+
+    <p class="footer-note">Open this file locally. It has no external assets and does not need a server.</p>
+  </main>
+  <script>
+    const tabs = Array.from(document.querySelectorAll(".tab"));
+    const panels = Array.from(document.querySelectorAll(".panel"));
+
+    tabs.forEach((tab) => {
+      tab.addEventListener("click", () => {
+        const target = tab.dataset.tab;
+        tabs.forEach((item) => item.setAttribute("aria-selected", String(item === tab)));
+        panels.forEach((panel) => panel.classList.toggle("active", panel.id === target));
+      });
+    });
+  </script>
+</body>
+</html>
