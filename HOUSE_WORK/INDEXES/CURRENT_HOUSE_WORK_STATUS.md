@@ -6346,3 +6346,21 @@ Boundary:
 - no doctrine promotion;
 - no ACTIVE_GUIDES rewrite;
 - no CURRENT_TRUTH_INDEX rewrite.
+
+## 2026-05-23 — Mule Root Issue Diagnosis and Fix Packet Saved
+
+Saved mule sidekick/contractor packet separately.
+
+Packet:
+MULE_WORKSHOP/ROOT_ISSUE_HISTORY_DIAGNOSIS_AND_FIX_20260523
+
+Verdict from mule:
+PASS WITH GUARDRAILS / SAFE LOCAL FIX PACKET COMPLETE / FREEZE BEFORE GIT SAVE
+
+Boundary:
+- mule output saved as mule lane;
+- no assistant/user recent-ideas save mixed into this commit;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no deletes.
