@@ -6259,3 +6259,31 @@ Meaning:
 
 Boundary:
 No mule handoff update. No CONSOLIDATOR activation. No Alpha Omega promotion. No ACTIVE_GUIDE rewrite. No CURRENT_TRUTH_INDEX rewrite. No doctrine promotion. No local Cube/final-ideas content in Git. No runtime, automation, dashboard, cleanup, delete, or public authority change.
+
+## 2026-05-23 — Recursive Map / Order / Growth Rules Save
+
+Saved assistant/user progress rules from the recursive map/order/growth discussion.
+
+Saved:
+- Icon Small-Size Design Map Rule
+- New-Task Map Instantiation Rule
+- Work for the Work / Proof Is in the Pudding Rule
+- Periodic Recollection / Scale-All-Ways Rule
+- Center Point / Cube Home Geometry Rule
+- Small Build Strength / Clean Phase Wrap Rule
+- Weakness as Next Growth Cycle Rule
+- Recursive Mirror Adoption and Bulldog Guard Rule
+- Mule Sidekick / Contractor Boundary Rule
+- Mule No-Waste / Prompt Meter Discipline Rule
+- Save Lane Split: Mule Return vs Assistant Progress
+- Mule Sidekick No-Waste Next Work Order
+
+Boundary:
+- no mule return capture;
+- mule referenced only as sidekick/contractor boundary and work-order target;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no Work Shed rebuild;
+- no local-only cleanup.
+
