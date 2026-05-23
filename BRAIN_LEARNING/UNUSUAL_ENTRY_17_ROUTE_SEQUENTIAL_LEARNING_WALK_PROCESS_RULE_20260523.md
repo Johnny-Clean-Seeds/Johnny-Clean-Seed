@@ -4,6 +4,22 @@ Status: SUPPORT PROCESS RULE / ALL-WAYS WALK PLANNING / NOT DOCTRINE
 Scope: define how to run the 17 route families one at a time while carrying lessons forward.
 Boundary: this does not rewrite ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, doctrine, runtime, automation, dashboard, or public authority.
 
+## 0. Soft Suit Patch-Through Addendum
+
+When this 17-route process runs inside a Boss Loop, do not only scan routes and summarize.
+
+Carry the current proposed fix through every route. Each route must mark what it does to the fix:
+
+- KEEP: fix works here.
+- NARROW: fix is too broad here.
+- EXPAND: fix must include this surface.
+- BLOCK: fix would violate boundary here.
+- PARK: related, but not current boss.
+- PROOF: cannot claim until verified.
+- PARENT: this route shows a deeper boss.
+
+Use the route ledger before naming the revised boss or final fix.
+
 ## 1. Core Correction
 
 If the route universe has 17 declared route families, do not pretend one or two walks proof the method.
@@ -15,12 +31,14 @@ Each route is a step.
 Each step must:
 1. enter one route family;
 2. perform the fresh walk for that route without Git/history bias;
-3. record what was seen;
-4. extract lessons;
-5. park or apply useful ideas;
-6. update the working suit/idea stack;
-7. carry the updated applied idea into the next route;
-8. return to the user and stop before the next route, unless explicitly told to continue.
+3. carry the active proposed fix into that route;
+4. mark how the route affects the fix with KEEP, NARROW, EXPAND, BLOCK, PARK, PROOF, or PARENT;
+5. record what was seen;
+6. extract lessons;
+7. park or apply useful ideas;
+8. update the working suit/idea stack;
+9. carry the updated applied idea into the next route;
+10. return to the user and stop before the next route, unless explicitly told to continue.
 
 Short form:
 
@@ -54,6 +72,10 @@ Every route step records:
 - route number;
 - route family;
 - entry lens;
+- current proposed fix;
+- patch-through mark;
+- what this route does to the fix;
+- revised fix note;
 - fresh observations;
 - anomaly candidates;
 - what was learned;
@@ -142,3 +164,17 @@ Allowed verdicts:
 - NEEDS MORE WALKS
 
 No route result alone may claim full proof.
+
+## 9. Pressure Map Requirement
+
+Before naming a revised boss, final fix, or next move, summarize the route marks:
+
+- gates that agree;
+- gates that narrow;
+- gates that expand;
+- gates that block;
+- gates that park;
+- gates that need proof;
+- gates that reveal a parent boss.
+
+If the pressure map shows EXPAND or PARENT pressure, the first proposed fix must be revised before PASS.

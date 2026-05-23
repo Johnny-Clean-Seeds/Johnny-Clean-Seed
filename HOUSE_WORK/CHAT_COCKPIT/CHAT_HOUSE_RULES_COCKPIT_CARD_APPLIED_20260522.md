@@ -311,3 +311,33 @@ A current-pointer exception needs explicit user approval.
 Short form:
 Desktop drops = short name + V.
 House files = house naming.
+---
+
+## 2.34 Patch-Through Before Fix Claim
+
+When using a Boss Loop, 17-route run, boss-gate workout, or "apply this fix through the house" task, do not use the suit as a scan list followed by a guessed fix.
+
+Carry the current proposed fix through each route or gate.
+
+Each route marks what it does to the fix:
+
+- KEEP
+- NARROW
+- EXPAND
+- BLOCK
+- PARK
+- PROOF
+- PARENT
+
+Before naming the revised boss, final fix, or next move, build the pressure map:
+
+- what agrees;
+- what narrows;
+- what expands;
+- what blocks;
+- what parks;
+- what needs proof;
+- what reveals a parent boss.
+
+Short form:
+No list-to-guess. Patch the fix through the gates, then judge from the pressure map.

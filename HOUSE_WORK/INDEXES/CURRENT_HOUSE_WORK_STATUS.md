@@ -6427,3 +6427,24 @@ Boundary:
 - no shed or bridge restoration;
 - no command dump as the user-facing answer.
 
+## 2026-05-23 — Soft Suit Patch-Through Boss Gate Workout
+
+Saved support method that forces a proposed boss-loop fix through every 17-route surface before naming a revised boss, final fix, or next move.
+
+Reason:
+The 17-route suit was still at risk of being used as a scan list that produced a guessed fix. The repair adds patch-through marks so each route records whether it keeps, narrows, expands, blocks, parks, proofs, or reveals a parent boss for the active fix.
+
+Saved:
+- Soft Suit Patch-Through Rule
+- 17-route process patch-through addendum
+- Boss Cycle Active Stack Template patch-through ledger
+- Chat Cockpit Patch-Through Before Fix Claim section
+- Soft Suit Patch-Through Workout packet with worked example and receipt
+
+Boundary:
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no dashboard or automation;
+- no shed or bridge restoration;
+- no doctrine promotion.
+
