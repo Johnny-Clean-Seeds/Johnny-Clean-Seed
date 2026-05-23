@@ -6103,3 +6103,23 @@ Meaning:
 
 Boundary:
 No ACTIVE_GUIDE rewrite. No CURRENT_TRUTH_INDEX rewrite. No doctrine promotion. No chat-rule file explosion. No candidate room/tool installed as authority.
+
+## 2026-05-23 — Creative Gate + Gate Friendship Neighbor Order
+
+Status: SAVED BY SCRIPT / SUPPORT RULE / NO DOCTRINE PROMOTION
+Old base before save: 94fc762e07a2e8782e05288f9f793ee4d8a80be4
+
+Saved:
+- BRAIN_LEARNING\CREATIVE_GATE_FRIENDSHIP_NEIGHBOR_ORDER_RULE_20260523.md
+- HOUSE_WORK\WORK_SHED\SORTING_BENCH\CREATIVE_GATE_FRIENDSHIP_NEIGHBOR_ORDER_MAP_20260523.md
+- HOUSE_WORK\WORK_SHED\PARKING\FUTURE_PLANS_IDEA_LEADING_CONSOLIDATOR_RESERVE_20260523.md
+- PROOF_HISTORY\CREATIVE_GATE_FRIENDSHIP_NEIGHBOR_ORDER_RECEIPT_20260523_020400.txt
+
+Meaning:
+- Creative Gate added as a companion gate for other gates to work with;
+- gate friendship neighbor order mapped so many gates do not fire as a random pile;
+- Future Plans / Idea-Leading / Giving Room for Growth Gate captured as tactical reserve behavior;
+- CONSOLIDATOR explicitly held up the sleeve and not injected as an active gate.
+
+Boundary:
+No ACTIVE_GUIDE rewrite. No CURRENT_TRUTH_INDEX rewrite. No doctrine promotion. No CONSOLIDATOR activation. No runtime, automation, dashboard, or public authority change.
