@@ -42,3 +42,10 @@ Git status at receipt time:
 ?? TOOLS/PORCH_DROPPED_HELPER_SCRIPTS_20260523/
 ?? YT_TRANSCRIPTS/w4HWSqnnzEo/
 
+
+Post-commit / push proof:
+Commit pushed: 70e07a9545b78625956c18b4ecb4fd126f230cd8
+Remote origin/main: 70e07a9545b78625956c18b4ecb4fd126f230cd8
+Remote matches HEAD: True
+Git status after push:
+## main...origin/main
