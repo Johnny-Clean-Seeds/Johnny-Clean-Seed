@@ -6364,3 +6364,29 @@ Boundary:
 - no ACTIVE_GUIDES rewrite;
 - no CURRENT_TRUTH_INDEX rewrite;
 - no deletes.
+
+## 2026-05-23 — Recent Ideas and Concepts Lock Save
+
+Saved recent ideas and concepts from source roundtable, Fog Zone, truth/action, center integrity, phoenix seed safety, human-scale growth, many-path testing, evidence intuition, porch/runner lifecycle, and root issue pattern work.
+
+Saved:
+- Used Runner Lifecycle Closeout Rule
+- Know When You Know / Evidence Diagnosis Rule
+- Fog Zone / Unproven Source Ore Rule
+- Source Roundtable / Big Names and Little Guys Rule
+- Source Roundtable Function Map
+- Truth / Action / Center Integrity Rule
+- Once Seen / Cannot Unsee Obligation Rule
+- Phoenix Seed / End-Wrap Compression Safety Rule
+- Human-Scale Growth / Clear Guide / Baby Steps Rule
+- Look-Ahead Many-Paths / Evidence Test Cycle Rule
+- Recent Issue Root Pattern Map
+
+Boundary:
+- no mule return capture;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no Work Shed rebuild;
+- no destructive cleanup.
+
