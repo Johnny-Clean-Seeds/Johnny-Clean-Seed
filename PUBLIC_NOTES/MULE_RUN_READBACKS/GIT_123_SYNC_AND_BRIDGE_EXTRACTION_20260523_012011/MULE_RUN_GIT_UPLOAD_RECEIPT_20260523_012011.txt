@@ -1,0 +1,10 @@
+MULE RUN GIT UPLOAD RECEIPT
+Created local: 2026-05-23T01:37:26.8425391-04:00
+Repo: C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz
+Source run folder: C:\Users\13527\Desktop\123\MULE_WORKSHOP\GIT_123_SYNC_AND_BRIDGE_EXTRACTION_20260523_012011
+Repo destination: C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz\PUBLIC_NOTES\MULE_RUN_READBACKS\GIT_123_SYNC_AND_BRIDGE_EXTRACTION_20260523_012011
+Files copied from run folder: 25
+Boundary: targeted copy/add/commit/push of this mule run readback folder only.
+No broad git add. No source delete. No bridge move. No CURRENT/READY change.
+Before status:
+System.Object[]
