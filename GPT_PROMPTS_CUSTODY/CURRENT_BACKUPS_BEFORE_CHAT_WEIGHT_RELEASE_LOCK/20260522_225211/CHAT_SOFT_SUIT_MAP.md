@@ -85,9 +85,7 @@ The front door must:
 
 ---
 
-## 4. Metatron Node Rule
 
-Think Metatron's Cube: lawful points and lines.
 
 Each node is a suited point with multiple respectful paths. A node is not a one-way folder.
 

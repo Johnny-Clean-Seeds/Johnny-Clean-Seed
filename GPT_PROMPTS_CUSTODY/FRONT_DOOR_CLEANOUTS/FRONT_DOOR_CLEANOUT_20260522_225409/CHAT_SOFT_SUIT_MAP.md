@@ -182,9 +182,7 @@ Short form:
 
 ---
 
-## 7. Metatron Node Law
 
-Think Metatron's Cube: lawful points and lines.
 
 A node is not merely a folder.
 A node is a suited point with multiple respectful paths.

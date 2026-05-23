@@ -157,7 +157,6 @@ Likely review targets:
 4. Work Shed references while active `HOUSE_WORK\WORK_SHED` is absent.
 5. 122 tracked paths matching local-only/private/shed-like naming.
 6. Root tracked helper/support files needing role review.
-7. Prior Metatron packet marked useful but still `REVIEW / NOT PASS`.
 
 These are not automatically fix-now items. They are review targets.
 

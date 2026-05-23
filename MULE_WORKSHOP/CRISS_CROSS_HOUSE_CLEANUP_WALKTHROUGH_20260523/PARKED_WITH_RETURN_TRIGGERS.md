@@ -103,7 +103,6 @@ After Home Path Sync and Work Shed reference state are decided.
 Next proof:
 Proof-ranked TODO grouping with stale/current status and return triggers.
 
-## P8. Metatron Whole-Home Set-Aside Follow-Up
 
 State:
 PARKED / MULE REVIEW MATERIAL

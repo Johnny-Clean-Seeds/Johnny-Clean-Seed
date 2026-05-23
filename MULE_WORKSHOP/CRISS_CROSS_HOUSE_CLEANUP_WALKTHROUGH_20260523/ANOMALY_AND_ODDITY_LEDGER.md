@@ -109,7 +109,6 @@ If a future work request uses old current-looking language, run support/current 
 ## A8. Prior Mule Whole-Home Packet Already Parked Several Unknowns
 
 Finding:
-`MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146` contains return-home ledgers, set-aside lists, and a final judge of REVIEW / NOT PASS.
 
 Why it matters:
 This is valuable evidence, but not authority. It should inform cleanup without commanding moves.
@@ -118,7 +117,6 @@ Safe fix:
 Linked into the idea/scaffold consolidation.
 
 Return trigger:
-User asks to work the Metatron park-map return-home ledger or issue-review list.
 
 ## A9. Recent Root Issue Packet Was Saved Separately
 

@@ -58,7 +58,6 @@ TODOs and parked items have a good framework, but some references depend on path
 Scope:
 Run after Boss 2 and Boss 4, not before.
 
-## Boss 8. Metatron Set-Aside Item Selection
 
 Why:
 The prior mule whole-home packet has useful set-aside items, but it is REVIEW / NOT PASS.

@@ -106,10 +106,8 @@ REVIEW BEFORE MOVEMENT.
 Proof needed:
 For each root helper: role, caller, active/stale status, safe home, movement risk.
 
-### Pressure 7 — Prior Metatron Packet
 
 Finding:
-Prior Metatron packet is useful but still `REVIEW / NOT PASS`.
 
 Why it matters:
 Useful material can inform the house walk but cannot become authority without proof.
@@ -129,7 +127,6 @@ Order for next house work:
 3. Work Shed reference mismatch review.
 4. Local-only/private-like tracked path role review.
 5. Root helper/support file role review.
-6. Metatron/support-packet fit review only if needed.
 
 Reason:
 Path and custody errors can poison every later move. Local-only review and helper movement come later because they require clean route knowledge first.

@@ -40,7 +40,6 @@ Created:
 `IDEAS_AND_SCAFFOLDS_BROUGHT_TOGETHER.md`
 
 Why:
-The same repair family was scattered across root issue diagnosis, recent ideas, runner lifecycle, Fog Zone, source roundtable, TODO, Metatron park map, and Final Judge material.
 
 What it fixes:
 Related ideas are now together as a cross-lane map without promoting doctrine.

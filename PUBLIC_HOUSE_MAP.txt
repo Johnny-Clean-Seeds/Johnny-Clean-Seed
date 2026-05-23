@@ -8,11 +8,9 @@ PURPOSE
 
 This file labels the repo home so the assistant does not mistake proof volume, test lanes, source-ore, public-boundary language, stale windows, or root pointer files for active authority.
 
-METATRON PARK MAP POINTER
 
 Public-safe whole-home navigation is staged at:
 
-PUBLIC_NOTES/METATRON_PARK_MAP_PUBLIC_SAFE_20260523.txt
 
 That note is an orientation map only. It does not expose private prompt/rule contents, does not prove local CURRENT, and does not outrank local inventory, receipts, hashes, or user-controlled CURRENT authority.
 

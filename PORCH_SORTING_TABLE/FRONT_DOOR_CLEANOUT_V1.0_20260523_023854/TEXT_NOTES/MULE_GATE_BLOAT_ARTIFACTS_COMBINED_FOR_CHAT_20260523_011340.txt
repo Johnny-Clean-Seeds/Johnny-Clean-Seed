@@ -1,19 +1,16 @@
 MULE GATE BLOAT ARTIFACTS COMBINED FOR CHAT
-Source run folder: C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146
 Created local: 2026-05-23T01:13:41.1800376-04:00
 Boundary: read/combine only; no CURRENT write; no READY write; no Git; no push; no delete.
 
 
 ============================================================
 FILE: GATE_BLOAT_HARVEST_LIST.md
-PATH: C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146\GATE_BLOAT_HARVEST_LIST.md
 SHA256: 16F0B8DA62E373649497E332EE85C42DBFBC485E5E1D485C07FC3A238145937A
 ============================================================
 
 # GATE BLOAT HARVEST LIST
 
 Status: CLEAN BLOAT HARVEST / REVIEW ONLY / NOT PASS  
-Run folder: `C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146`  
 Current boundary: no `CURRENT` write, no Git commit, no Git push, no public/private publish, no READY-as-CURRENT claim.
 
 ## Harvest Rule
@@ -28,8 +25,6 @@ No harvested gate is promoted by this file.
 |---|---|---|
 | `C:\Users\13527\Desktop\123\mule_ideas.txt` | Ariadne Rope / Knotwalk method, knot-note shape, RECESS order, priority scoring idea | NEW ROOT SOURCE |
 | `C:\Users\13527\Desktop\123\gate_bloat.txt` | Gate Keyring / Knotwalk, 30 named gate notes, priority list, KOFNPR bits | NEW ROOT SOURCE |
-| `METATRON_NODE_REGISTRY.md` | Node homes, refuses, close conditions | PRIOR RUN CONTEXT |
-| `METATRON_EDGE_REGISTRY.md` | Legal route edges and close conditions | PRIOR RUN CONTEXT |
 | `ALGORITHM_FIT_MATRIX.md` | Graph/FSM/hash/bitstring/contract algorithms | PRIOR RUN CONTEXT |
 | `GOOD_CHIP_RECOVERY_REPORT.md` | Recovered old chips and return-home states | PRIOR RUN CONTEXT |
 | `BLACK_HOLE_DIGEST.md` | Digest-after-harvest order and clusters | PRIOR RUN CONTEXT |
@@ -44,7 +39,6 @@ No harvested gate is promoted by this file.
 | `SAME_SHAPE_AFTER_WALK_REVIEW.md` | Before/after same-shape proof discipline | PRIOR RUN CONTEXT |
 | `WHOLE_HOME_RECURSIVE_VERIFY_REPORT.md` | Local blockers and verification results | PRIOR RUN CONTEXT |
 | `WHOLE_HOME_FINAL_CLOSEOUT_JUDGE.md` | REVIEW / NOT PASS reasons | PRIOR RUN CONTEXT |
-| `MULE_WHOLE_HOME_METATRON_PARK_MAP_WORK_ORDER_V1.md` | Whole-home order, blocked moves, node/edge output contract | PRIOR RUN CONTEXT |
 | Current Soft Suit map and ledger | Read-only signals for active shape, links ladder, node law, authority, bell, return home | CURRENT READ-ONLY CONTEXT |
 | Old `TODO_TRACE_TRIAGE_GATE.txt` | Trace-before-boss gate and proof-before-work shape | OLD GATE SOURCE |
 | Old Gear Rack Load Gate live test | Active ball load and park source ore discipline | OLD GATE SOURCE |
@@ -118,7 +112,6 @@ The current highest blocker remains path/home ambiguity. Gate work can stay in t
 
 ============================================================
 FILE: GATE_KEYRING_BIG_LIST.md
-PATH: C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146\GATE_KEYRING_BIG_LIST.md
 SHA256: 4E2EB575DD511EC0EE9D9A1D334EB4E9A7CD8EC784F357F6F165C96474F94728
 ============================================================
 
@@ -202,7 +195,6 @@ The top blocker gate is G-026. Until home/path is decided, any READY or CURRENT-
 
 ============================================================
 FILE: GATE_NEIGHBOR_FIT_MAP.md
-PATH: C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146\GATE_NEIGHBOR_FIT_MAP.md
 SHA256: C10F940FE470E1D855E503D1864D8112EC2FB143A95A54ECED6F3B3639D9D11B
 ============================================================
 
@@ -306,7 +298,6 @@ Neighbor fit is strong enough for review artifacts. It is not strong enough for 
 
 ============================================================
 FILE: IDEA_HOME_ASSIGNMENT_TABLE.md
-PATH: C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146\IDEA_HOME_ASSIGNMENT_TABLE.md
 SHA256: EE17EF01E4EF26DC74E3B93103BBBB53CA1838AE04E5CCBDDC3AB1BD67105670
 ============================================================
 
@@ -323,7 +314,6 @@ Rule: no useful idea is thrown away. If not needed now, it gets state, owner, pr
 | IHA-002 | Ariadne Rope / Knotwalk as maze-walk method | `mule_ideas.txt` | Harvest/run-folder review lane | RECESS_REVIEW | REVIEW_CANDIDATE | 820 | Next mystery/deep scan/RECESS route | Knot notes show source, branch, return |
 | IHA-003 | KOFNPR bitstring | `gate_bloat.txt` | Gate Keyring Big List | PROOF_FINAL_JUDGE | REVIEW_HELPER | 780 | Any gate review needing compact closure | K/O/F/N/P/R row |
 | IHA-004 | No key, no gate | `gate_bloat.txt` | Gate Keyring schema | GATE_KEYRING_REVIEW | REVIEW_CANDIDATE | 900 | Gate without trigger appears | Key field present or gate parked |
-| IHA-005 | No neighbor, no route | `gate_bloat.txt`, node registry | Neighbor Fit Map | METATRON_EDGE_REVIEW | REVIEW_CANDIDATE | 910 | Gate route unclear | Neighbor or Issue Review route named |
 | IHA-006 | No proof, no PASS | `gate_bloat.txt`, work order | Final Judge gate | FINAL_JUDGE | KEEP | 930 | Any PASS claim | Evidence matches claim |
 | IHA-007 | No return-home, no done | `gate_bloat.txt`, Soft Suit map | Return-Home gate | RETURN_HOME_LEDGER | KEEP | 925 | Any object lacks closure | Return state named |
 | IHA-008 | RECESS harvest before digest | `mule_ideas.txt`, prior digest | RECESS gate review | RECESS_REVIEW | REVIEW_CANDIDATE | 780 | Next broad/strange idea task | Harvest list before digest artifact |
@@ -373,7 +363,6 @@ Every useful idea found has a home, even if that home is only review, set-aside,
 
 ============================================================
 FILE: SET_ASIDE_NOT_THROW_AWAY_GATE_IDEAS.md
-PATH: C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146\SET_ASIDE_NOT_THROW_AWAY_GATE_IDEAS.md
 SHA256: 2A11874050C7AE4BB3C01A27F2D323D1091482F468630ED22002C1F84DF4C0BD
 ============================================================
 
@@ -420,7 +409,6 @@ The set-aside pile is alive, not dead. Each item has an owner, priority, and ret
 
 ============================================================
 FILE: GATE_PRIORITY_QUEUE.md
-PATH: C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146\GATE_PRIORITY_QUEUE.md
 SHA256: 33178E9B7CC62584DC98A674FCB9B91E7CDBEFFE8465A9C18ED755C3D9AA7201
 ============================================================
 
@@ -502,7 +490,6 @@ The top next decision is still not a gate install. It is the Home/Path user deci
 
 ============================================================
 FILE: GATE_BLOAT_REVIEW_NOT_PASS_JUDGE.md
-PATH: C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146\GATE_BLOAT_REVIEW_NOT_PASS_JUDGE.md
 SHA256: 66C7097878D0BDB8999AA1E6D945DC638A55D86CDA797B906A54B330404BE735
 ============================================================
 
@@ -518,7 +505,6 @@ No install, no promotion, no CURRENT write, no Git commit, no Git push, no publi
   - `C:\Users\13527\Desktop\123\mule_ideas.txt`
   - `C:\Users\13527\Desktop\123\gate_bloat.txt`
 - Used prior run context from:
-  - `C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146`
 - Checked prior reports, node registry, edge registry, algorithm fit matrix, good chip recovery, current blockers, same-shape review, final judges, priority ledgers, and set-asides.
 - Checked current Soft Suit map/ledger only as read-only context and summarized behavior rather than publishing private prompt/rule bodies.
 - Sampled old gate sources for TODO trace, gear/load, prior-mistake retrieval, rule-firing, no-rule-king, RCE, boss/ghost, relevant selector, and incoming-file parking behavior.
@@ -600,7 +586,6 @@ PASS is blocked because:
 Read-only check of `C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz` after the review showed pre-existing local changes:
 
 - `M PUBLIC_HOUSE_MAP.txt`
-- `?? PUBLIC_NOTES/METATRON_PARK_MAP_PUBLIC_SAFE_20260523.txt`
 
 This pass did not modify those files, did not stage them, did not commit, and did not push.
 

@@ -6215,21 +6215,13 @@ Meaning:
 Boundary:
 No ACTIVE_GUIDE rewrite. No CURRENT_TRUTH_INDEX rewrite. No doctrine promotion. No mule handoff update. No CONSOLIDATOR activation. No Alpha Omega promotion. No cleanup/delete/move. No runtime, automation, dashboard, or public authority change.
 
-## 2026-05-23 — Cube Final Ideas Local-Only Resident Parking Boundary
 
 Status: SAVED BY SCRIPT / GIT-SAFE BOUNDARY + LOCAL-ONLY PARKING / NO DOCTRINE PROMOTION
 Old base before save: 283dae0456501ae08a7ba3217dc3cd563349db21
 
 Git-safe saved files:
-- HOUSE_WORK\WORK_SHED\PARKING\RESIDENT_PARKING_CUBE_FINAL_IDEAS_LOCAL_ONLY_BOUNDARY_20260523.md
-- HOUSE_WORK\WORK_SHED\SORTING_BENCH\CHAT_CHECKPOINT_CUBE_FINAL_IDEAS_LOCAL_ONLY_20260523.md
-- PROOF_HISTORY\RESIDENT_PARKING_CUBE_FINAL_IDEAS_BOUNDARY_RECEIPT_20260523_030458.txt
 
 Local-only Resident Parking:
-- C:\Users\13527\Desktop\123\COMMAND_CENTER\RESIDENT_PARKING\DAY_DREAMS\CUBE_FINAL_IDEAS
-- C:\Users\13527\Desktop\123\COMMAND_CENTER\RESIDENT_PARKING\DAY_DREAMS\CUBE_FINAL_IDEAS\INDEX.md
-- C:\Users\13527\Desktop\123\COMMAND_CENTER\RESIDENT_PARKING\DAY_DREAMS\CUBE_FINAL_IDEAS\CUBE_FINAL_IDEAS_LOCAL_ONLY_RESIDENT_PARKING_20260523.md
-- C:\Users\13527\Desktop\123\COMMAND_CENTER\RECEIPTS\CUBE_FINAL_IDEAS_LOCAL_ONLY_RESIDENT_PARKING_RECEIPT_20260523_030458.txt
 
 Meaning:
 - only the Cube / final ideas material stays out of Git;
@@ -6415,4 +6407,23 @@ Boundary:
 - no shed or bridge restoration;
 - no old runner execution;
 - no delete.
+
+## 2026-05-23 — Smoke Break Topic Switch And Account Link Cleanup
+
+Saved topic-switch / new-outcome rule and cleaned a user-rejected geometry/daydream packet out of the current active tree.
+
+Reason:
+The user correction showed the actual failure: the assistant stayed in local repository mechanics after the task had switched to account/app linkage. The repair needed a live smoke-break gate, delivery-surface lock, account-link first order, removal of rejected packet material, and Git proof that local and remote match.
+
+Saved:
+- Smoke Break / Topic Switch / New Outcome Gate
+- account-link and Git proof note
+- removal and scrub ledger
+- receipt
+
+Boundary:
+- no active guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no shed or bridge restoration;
+- no command dump as the user-facing answer.
 

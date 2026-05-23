@@ -1,0 +1,36 @@
+Topic Switch / Account Link Cleanup Receipt
+Date: 2026-05-23
+
+Verdict:
+PASS WITH GUARDRAILS / SAVE TARGET
+
+Active home:
+C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz
+
+What changed:
+- Added smoke-break topic-switch new-outcome support rule.
+- Added account-link proof and flow note.
+- Removed 52 dedicated tracked files for the user-rejected geometry/daydream packet.
+- Scrubbed 35 mixed files with leftover references.
+- Updated house status with this save.
+
+Files written and SHA256:
+6227AE448FBABCB841F2B6BC6D18A6116EED988D2F5E48F7685EAD5CEB5ED8A2  C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\BRAIN_LEARNING\SMOKE_BREAK_TOPIC_SWITCH_NEW_OUTCOME_GATE_20260523.md
+A66EEE64FBF59C3E1BD501DDDC636503EFF937C0BF578093AC49DE16D99AD19B  C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\MULE_WORKSHOP\TOPIC_SWITCH_ACCOUNT_LINK_CLEANUP_20260523\MANIFEST.md
+49EE2E8ABA5640F4179C87168DD8B3B1D39B4B7C2A403A9C948D2FFC9BB9C44A  C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\MULE_WORKSHOP\TOPIC_SWITCH_ACCOUNT_LINK_CLEANUP_20260523\ACCOUNT_LINK_AND_GIT_PROOF.md
+97A4484516D1EE5F302A72BB6831537DDEBA55211B0BAB432A7D4ECF37A60940  C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\MULE_WORKSHOP\TOPIC_SWITCH_ACCOUNT_LINK_CLEANUP_20260523\REMOVAL_AND_SCRUB_LEDGER.md
+
+Git/account proof:
+- Remote is https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed.git.
+- Prior commit from this session pushed successfully.
+- Final push and HEAD/origin proof are checked after this receipt is written.
+
+Search proof required before final:
+- rejected packet term search returns no matches in current searchable text;
+- rejected packet tracked path search returns no matches.
+
+Blocked:
+- No app UI account-link button was operated from here because the current Codex session already has repository push proof. If a separate app lacks account access, use the app account/settings/integrations flow first.
+
+Final receipt hash:
+- reported after final proof.

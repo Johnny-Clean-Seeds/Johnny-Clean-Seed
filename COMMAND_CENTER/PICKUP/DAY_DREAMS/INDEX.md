@@ -31,5 +31,4 @@ DAY_DREAMS may hold:
 
 ## Current Entries
 
-- `METATRON_FINALS_PLACEMENT_NOTE_20260523.md`
-
+No current entries.

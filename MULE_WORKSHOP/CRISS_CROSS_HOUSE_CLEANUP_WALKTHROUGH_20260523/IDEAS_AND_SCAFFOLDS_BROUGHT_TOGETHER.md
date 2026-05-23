@@ -81,13 +81,9 @@ Path truth must be handled as custody first, then authority-sync candidate. A po
 Next use:
 Home Path Sync should be a scoped candidate with exact file list, backup plan, hashes, and user authority.
 
-## Cluster 6. Metatron / Whole-Home Prior Packet
 
 Related material:
 
-- `MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146\WHOLE_HOME_FINAL_CLOSEOUT_JUDGE.md`
-- `MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146\WHOLE_HOME_FIX_PLAN.md`
-- `MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146\SET_ASIDE_NOT_THROW_AWAY_LIST.md`
 
 Joined idea:
 That packet is a useful map of parked/unknown material, but its final judge is REVIEW / NOT PASS. It should inform cleanup without commanding it.

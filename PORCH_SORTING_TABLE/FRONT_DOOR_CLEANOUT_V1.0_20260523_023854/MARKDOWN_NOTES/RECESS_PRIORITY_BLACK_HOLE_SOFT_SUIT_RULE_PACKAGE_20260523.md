@@ -12,7 +12,6 @@ Mule must review both surfaces:
 
 1. Mule old run folder:
 
-`C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146`
 
 2. This new package file:
 
@@ -637,10 +636,7 @@ Minimum files to review from old run folder:
 - `HISTORY_COMPREHENSION_REPORT.md`
 - `WHOLE_HOME_INVENTORY_SUMMARY.md`
 - `GOOD_CHIP_RECOVERY_REPORT.md`
-- `METATRON_NODE_REGISTRY.md`
-- `METATRON_EDGE_REGISTRY.md`
 - `ALGORITHM_FIT_MATRIX.md`
-- `PROJECT_URL_METATRON_PARK_MAP_SPEC.md`
 - `WHOLE_HOME_FIX_PLAN.md`
 - `WHOLE_HOME_RECURSIVE_VERIFY_REPORT.md`
 - `RETURN_HOME_LEDGER.csv`
@@ -678,7 +674,6 @@ Prior mule final judge:
 
 Known run folder:
 
-`C:\Users\13527\Desktop\123\MULE_WORKSHOP\WHOLE_HOME_METATRON_PARK_MAP_RUN_20260523_000146`
 
 Known status:
 

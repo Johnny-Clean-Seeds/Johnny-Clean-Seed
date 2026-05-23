@@ -190,7 +190,6 @@ Short form:
 
 ---
 
-## 8. Metatron Node Law
 
 A node is not merely a folder.
 A node is a suited point with multiple respectful paths.

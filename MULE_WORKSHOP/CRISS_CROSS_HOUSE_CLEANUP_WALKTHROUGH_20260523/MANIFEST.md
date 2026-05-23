@@ -51,7 +51,6 @@ Blocked:
 3. Proof lane: recent receipts and commit files.
 4. Work control lane: TODO index/control board, parking, return triggers.
 5. Brain learning lane: recent rules and repeated-correction rules.
-6. Idea/scaffold lane: issue maps, Metatron prior mule packet, root pattern map.
 7. Source ore/notes lane: source roundtable, Fog Zone, source custody rules.
 8. Mule workshop lane: prior audit, root issue diagnosis packet, mule work orders.
 9. Porch/mail/runner lane: root `Desktop\123`, root `COMMAND_CENTER`, used-runner rule.

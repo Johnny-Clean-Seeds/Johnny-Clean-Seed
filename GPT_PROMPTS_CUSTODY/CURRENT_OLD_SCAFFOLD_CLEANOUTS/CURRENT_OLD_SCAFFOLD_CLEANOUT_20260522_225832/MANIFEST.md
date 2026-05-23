@@ -25,25 +25,3 @@ ACTIVE FILES:
 BOUNDARY:
 Local-only. No Git. No push. No public export. Not doctrine.
 
-<!-- CHAT_SOFT_SUIT_METATRON_NODE_RETURN_HOME_MODEL START -->
-## Chat Soft Suit Workspace / User Action Lanes
-
-This package now recognizes the Chat Soft Suit workspace model.
-
-Visible lanes:
-- CURRENT
-- READY_TO_DROP_IN_CHAT
-
-CURRENT:
-User-controlled current rule set. The assistant/local tool must not silently place new files here.
-
-READY_TO_DROP_IN_CHAT:
-Assistant-prepared new/updated rule files waiting for the user to drop into chat and then move into CURRENT.
-
-Bell condition:
-If READY_TO_DROP_IN_CHAT contains files missing from CURRENT or different from CURRENT, user action is waiting.
-
-Boundary:
-Local-only. No Git. No push. No public export. Not doctrine.
-<!-- CHAT_SOFT_SUIT_METATRON_NODE_RETURN_HOME_MODEL END -->
-

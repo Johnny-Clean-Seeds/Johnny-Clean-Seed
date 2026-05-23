@@ -70,7 +70,6 @@ Anomalies found:
 - Work Shed references remain while active `HOUSE_WORK\WORK_SHED` is absent.
 - Local-only/private/shed-like tracked path names remain and need audit.
 - Root tracked helper/support files need role review before movement.
-- Prior Metatron whole-home packet is useful but REVIEW / NOT PASS.
 - Fog Zone and source roundtable material must be preserved, not flattened.
 
 Blockers / boundaries:

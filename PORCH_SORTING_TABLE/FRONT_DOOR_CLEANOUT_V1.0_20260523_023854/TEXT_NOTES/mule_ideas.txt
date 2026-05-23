@@ -11,7 +11,6 @@ This mixes the house tools cleanly:
 
 The **Links Ladder** gives each knot its source, home, neighbor, proof, return-home, and bell/user-action link. The Soft Suit map already says every important object should climb that ladder and only use the links it needs. 
 
-The **Metatron Node rule** gives the maze shape: nodes are suited points with home, purpose, checks, allowed moves, blocked moves, neighbor routes, proof surface, return-home state, and Final Judge. No node is king; every route must return home. 
 
 The **Issue Condense rule** gives the digestion: collect, atomize, cluster, label, links ladder, decide, map only distilled rules, verify, return home. 
 
