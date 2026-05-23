@@ -102,3 +102,25 @@ PASS WITH GUARDRAILS as a support map if saved with Git proof.
 
 Guardrail:
 Do not add this to active doctrine or promote CONSOLIDATOR.
+
+## Repair — Wildcard / Emergence Neighbor Logic — 2026-05-23
+
+Status: MAP REPAIR / CREATIVE GATE COMPANION LOGIC / NO NEW BOSS GATE
+
+Placement:
+Wildcard / Emergence Logic sits inside Creative Gate during the gate friendship order.
+
+Neighbor relation:
+Rule-Fit defines the lane.
+Creative Gate opens resource synthesis.
+Wildcard Logic bends the pattern and may spawn unusual candidates or unpredicted outcomes.
+Emergence Logic watches whether multiple odd pieces form a larger discoverable pattern.
+Cleanup Bench / Edit Review sorts the spawn.
+Clean-Placed Growth checks whether the new object has a place.
+Future Plans / Idea-Leading holds early strong ideas with lane and return trigger.
+Proof and Final Judge decide status.
+
+Do not place Wildcard before source custody or rule-fit.
+Do not place Wildcard after proof as a last-minute excuse.
+Do not treat Wildcard as a new gate unless repeated runs prove it has an independent job.
+Do not treat emergent patterns as installed truth without cleanup and proof.

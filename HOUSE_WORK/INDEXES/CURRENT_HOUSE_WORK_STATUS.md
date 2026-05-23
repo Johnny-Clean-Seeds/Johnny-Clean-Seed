@@ -6123,3 +6123,26 @@ Meaning:
 
 Boundary:
 No ACTIVE_GUIDE rewrite. No CURRENT_TRUTH_INDEX rewrite. No doctrine promotion. No CONSOLIDATOR activation. No runtime, automation, dashboard, or public authority change.
+
+## 2026-05-23 — Creative Gate Wildcard / Emergence Logic Repair
+
+Status: SAVED BY SCRIPT / SUPPORT REPAIR / NO DOCTRINE PROMOTION
+Old base before save: 7f5157b8308127cc1f33348a9313a88888050a19
+
+Saved / repaired:
+- repaired BRAIN_LEARNING\CREATIVE_GATE_FRIENDSHIP_NEIGHBOR_ORDER_RULE_20260523.md
+- repaired HOUSE_WORK\WORK_SHED\SORTING_BENCH\CREATIVE_GATE_FRIENDSHIP_NEIGHBOR_ORDER_MAP_20260523.md
+- added HOUSE_WORK\WORK_SHED\SORTING_BENCH\CREATIVE_GATE_WILDCARD_EMERGENCE_LOGIC_FIT_REVIEW_20260523.md
+- added HOUSE_WORK\WORK_SHED\PARKING\WILDCARD_GATE_FUTURE_SPLIT_RESERVE_20260523.md
+- added PROOF_HISTORY\CREATIVE_GATE_WILDCARD_EMERGENCE_LOGIC_REPAIR_RECEIPT_20260523_021023.txt
+
+Meaning:
+- Creative Gate now includes Wildcard Logic as a controlled slot;
+- Wildcard may spawn unique ideas and unpredicted outcomes;
+- Emergence / Discovery Logic watches whether multiple odd pieces combine into a larger discoverable pattern;
+- wildcard/emergence outputs are candidates/source-shaping material, not proof or authority;
+- standalone Wildcard Gate remains a held future split candidate, not active;
+- house work is framed as repair/fix/build work, not surface-covering work.
+
+Boundary:
+No ACTIVE_GUIDE rewrite. No CURRENT_TRUTH_INDEX rewrite. No doctrine promotion. No standalone Wildcard Gate activation. No runtime, automation, dashboard, or public authority change.

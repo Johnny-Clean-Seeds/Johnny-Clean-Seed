@@ -162,3 +162,77 @@ CONSOLIDATOR is held reserve, not injected.
 This rule is locked as support behavior only when committed, pushed, remote-matched, and final status is clean.
 
 No Git PASS exists without those checks.
+
+## Repair — Wildcard / Emergence Logic Inside Creative Gate — 2026-05-23
+
+Status: SUPPORT REPAIR / ACTIVE INSIDE CREATIVE GATE / NOT A STANDALONE GATE
+
+### 1. Wildcard Logic
+
+The Creative Gate must include a wildcard slot.
+
+Job:
+Catch non-obvious, out-of-pattern, lateral, strange-but-fitting, missing-piece, unexpected-resource, unique-idea, or unpredicted-outcome moves that normal gate order may miss.
+
+The wildcard slot may ask:
+- What useful option is not in the obvious list?
+- What weird source, tool, analogy, or old note might fit?
+- What hidden neighbor is being ignored?
+- What move would solve this without following the expected route?
+- What candidate room/tool/method appears only if the pattern is bent?
+- What unique idea wants to spawn from this task?
+- What unpredicted outcome should be preserved as signal instead of dismissed as noise?
+- What strange piece might unlock the larger model?
+
+Allowed:
+- propose unusual candidates;
+- spawn unique candidate ideas;
+- surface unpredicted outcomes;
+- surface lateral resources;
+- pull odd source ore back into view;
+- create rough/slop sketches for Cleanup Bench;
+- reveal a missing candidate room/tool;
+- suggest a non-default route if it still respects boundaries.
+
+Blocked:
+- treating wildcard output as proof;
+- using wildcard to bypass source custody;
+- using wildcard to skip lane, boundary, neighbor fit, cleanup, or Final Judge;
+- installing a spawned idea as authority;
+- turning surprise into doctrine without proof;
+- creating a separate Wildcard Gate before repeated evidence proves it needs its own job.
+
+Short form:
+Wildcard may spawn unique ideas and unpredicted outcomes. It produces candidates, not proof.
+
+### 2. Emergence / Discovery Logic
+
+Wildcard may use emergence logic.
+
+Emergence means:
+Several odd, unique, lateral, or unpredicted candidate pieces may combine into a larger pattern that was not visible from any single piece.
+
+Discovery rule:
+Do not dismiss a strange output merely because it was not predicted. Treat it as candidate signal until Cleanup Bench and Final Judge sort it.
+
+Emergence may reveal:
+- a new candidate idea;
+- a hidden pattern;
+- a missing room/tool/method;
+- a better route through the house;
+- a repeated pressure point;
+- a future gate split;
+- a resource combination that did not exist as a named object before.
+
+Required handling:
+1. name the emergent pattern if possible;
+2. list the source pieces that produced it;
+3. mark it as emergent/wildcard-spawned;
+4. state what lane it may fit;
+5. route it through Cleanup Bench;
+6. run Large Model Fit;
+7. decide accept / refine / park with return trigger / split / reject;
+8. close with Final Judge.
+
+Boundary:
+Emergence is discovery behavior, not authority. It leaves room for future learning without premature doctrine.
