@@ -6329,3 +6329,20 @@ Boundary:
 - no ACTIVE_GUIDES rewrite;
 - no CURRENT_TRUTH_INDEX rewrite;
 - no Work Shed rebuild.
+
+## 2026-05-23 — User Correction to Operating Rule Latch
+
+Saved living rule for direct user corrections.
+
+Rule:
+When the user says stop doing this / do not do that anymore / why do you keep doing this / from now on / always do this, treat it as a new or revised operating-rule candidate by default.
+
+Moving forward:
+Convert correction into do-this-not-that rule, apply it before next similar action, and if the user asks for code/fix, send the code/fix with minimal talk.
+
+Boundary:
+- no mule return capture;
+- known untracked mule packet left untouched;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite.
