@@ -51,6 +51,14 @@ Use this support file when capture, idea intake, ranking, or retrieval is the ac
 
 It supports the suit but does not add pack weight by itself.
 
+## Rope note visibility support link
+
+Use this support file when source notes, dropped files, old notes, or proof fragments need to stay attached to the rope without becoming loose active weight:
+
+- BRAIN_LEARNING/ROPE_NOTE_WEIGHT_VISIBILITY_GATE_20260524.md
+
+It supports foggy house walks by scaling note visibility through task fit, source/proof fit, fog pressure, recurrence, time-risk, neighbor fit, and user correction. It does not add Hard Suit active pack weight by itself and does not promote notes into doctrine.
+
 ## Active rule
 
 The assistant should work from the suit, not from loose chat weight.
