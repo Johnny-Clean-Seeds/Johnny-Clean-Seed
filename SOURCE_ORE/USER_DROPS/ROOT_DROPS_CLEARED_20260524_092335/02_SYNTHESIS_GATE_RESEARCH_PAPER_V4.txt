@@ -1,0 +1,142 @@
+SYNTHESIS GATE RESEARCH PAPER V4
+
+Status: Research artifact / candidate design / not doctrine / not
+installed
+
+SOURCE BASIS - V3 synthesis paper - Chat cockpit router map -
+Rope-linked walkthrough method - House-walk comparison pass
+
+ABSTRACT
+
+The walkthrough found a shift in pressure. Earlier house pressure
+behaved like missing structure: missing rooms, missing tools, missing
+rules. Current pressure behaves differently. The house now carries many
+valid objects simultaneously. The failure is increasingly middle-layer
+failure: connection, routing, active-weight management, relationship
+visibility, and conversion of many valid pieces into one working move.
+
+The rope walk produced two paths:
+
+Normal path: Front Door -> Intake -> Object Identity -> Source ->
+Parking -> Proof -> Map -> Creative Room -> Final Judge
+
+Reverse / unusual path: Final output pressure -> ask what object should
+exist -> trace parents backward -> find hidden dependencies -> identify
+weight not attached to a rope
+
+The unusual route found things the normal route hides.
+
+FINDINGS
+
+Finding 1: The house does not feel underbuilt. It feels crowded.
+
+Difference:
+
+Underbuilt: Need more rooms.
+
+Crowded: Need better movement.
+
+Finding 2: Valid objects can create fog.
+
+Not all weight is dirty weight.
+
+Clean-weight exists:
+
+-   solved proof still carried as active load
+-   candidate ideas without return triggers
+-   corrections not transformed into behavior
+-   receipts still carried after closure
+-   maps not attached to actions
+-   helper tools without ownership
+
+Finding 3: The largest danger is false synthesis.
+
+False synthesis looks clean while removing structure.
+
+Pattern:
+
+recognition: “these belong together”
+
+false synthesis: “combine them into a broad explanation”
+
+real synthesis: “define parent, child, ownership, proof, boundaries,
+blocked moves, return trigger”
+
+Finding 4: Graph relationships matter more than longer explanations.
+
+Paragraphs hide structure.
+
+Edges reveal structure.
+
+Examples:
+
+source -> creates candidate -> supports proof -> validates boundary ->
+limits parking -> stores return trigger -> reopens failure -> teaches
+
+HOUSE WALK COMPARISON
+
+Normal walkthrough sees:
+
+rooms rules tools receipts
+
+Unusual walkthrough sees:
+
+traffic congestion orphan objects hidden dependencies active-weight
+leaks
+
+The unusual route repeatedly exposed one pattern:
+
+Objects existed without visible rope attachment.
+
+Meaning:
+
+The object existed but current work did not know why it still remained
+active.
+
+ROPE NOTE LEDGER
+
+Rope Note A: Source pressure is not noise.
+
+Rope Note B: Do not flatten rough source into polished summaries.
+
+Rope Note C: Good corrections become behavior or they become clutter.
+
+Rope Note D: Parking is not forgetting.
+
+Rope Note E: Proof closes claims.
+
+Rope Note F: Closed proof should stop occupying active space.
+
+ROPE NOTE G: No seams = no synthesis.
+
+NEW CANDIDATE ADDITIONS
+
+Relationship Seam: show why two things connect
+
+Weight Seam: show why object still occupies active load
+
+Lifecycle Seam: show candidate, active, parked, proved, retired
+
+Failure Memory Seam: show what prior failure produced current object
+
+FINAL VERDICT
+
+V4 conclusion:
+
+The house appears to be entering a different growth stage.
+
+Old stage: build missing structure
+
+Current stage: manage many correct structures simultaneously
+
+Future pressure: relationship intelligence
+
+The next missing capability is likely not another room.
+
+The next capability is likely stronger relationship mapping, visible
+active-weight handling, and synthesis that preserves seams.
+
+Short form:
+
+Weave with seams. Do not blend. Attach objects to the rope. Release
+solved weight.

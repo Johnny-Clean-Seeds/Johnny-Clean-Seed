@@ -1,0 +1,1368 @@
+HOUSE WALKTHROUGH ROPE NOTES V3
+Plain-text working notes
+Status: WORKING WALKTHROUGH / PROBLEM-FINDING NOTES / NOT DOCTRINE / NOT PASS
+Built from: uploaded walkthrough text, chat cockpit/router source, current corrections, and active rope instructions.
+
+============================================================
+0. ROPE SPINE — DO NOT LET GO
+============================================================
+
+The rope is not a metaphor only. It is the working spine for the notes.
+
+ROPE SHAPE:
+Active task
+-> active object
+-> object type
+-> current room
+-> source/proof
+-> neighbor link
+-> pressure entering room
+-> failure chain
+-> scaffold/tool/resource
+-> allowed move
+-> blocked move
+-> return trigger
+-> Final Judge question
+
+ACTIVE TASK:
+Walk the house, feel it again, find problems, and turn the walk into useful working notes.
+
+ACTIVE OBJECT:
+This file: HOUSE_WALKTHROUGH_ROPE_NOTES_V3.txt
+
+OBJECT TYPE:
+Working notes / house-walk inspection artifact / problem-finding scaffold.
+
+BOUNDARY:
+This is not doctrine.
+This is not an ACTIVE_GUIDE rewrite.
+This is not CURRENT_TRUTH_INDEX.
+This is not a promotion.
+This is not a save receipt.
+This is not a claim that the local filesystem was directly inspected.
+This is a structured chat-side walk based on uploaded house/cockpit sources and current user corrections.
+
+FINAL JUDGE STANDARD:
+This file is useful only if it helps the next house walk avoid vague summaries and instead preserve object custody, room links, scaffolds, pressure paths, and return triggers.
+
+============================================================
+1. FRONT DOOR — CHAT COCKPIT / ROUTER
+============================================================
+
+ROOM PURPOSE:
+The front door is the routing desk. It does not replace the house. It tells the assistant where to go before acting.
+
+OBJECTS IN ROOM:
+- task category
+- rule family
+- active lane
+- boundary
+- delivery surface
+- tool/resource check
+- proof requirement
+- final judge
+
+SOURCE/PROOF:
+The router map says the assistant should classify the task first, then route to the proper house-rule family, then apply lane, boundary, delivery surface, tool/resource check, proof requirement, and final judge.
+
+LINKS:
+Front Door -> Intake Pause Gate
+Front Door -> Delivery Surface
+Front Door -> Tool/Resource Check
+Front Door -> Final Judge
+
+PRESSURE ENTERING ROOM:
+The assistant wants to answer quickly.
+The user wants a real walk.
+The router exists to stop hot jumping.
+
+FAILURE CHAIN FOUND:
+User asks for deep walk
+-> assistant recognizes theme
+-> assistant skips room-level inspection
+-> assistant writes atmospheric categories
+-> user calls it vague
+-> proof surface shows the assistant performed the ritual but did not walk.
+
+PROBLEM:
+The router can become performative if the assistant says "classified" but does not actually route the work through rooms.
+
+SCAFFOLD:
+Before any deep house walk, write a small rope header:
+
+Active task:
+Active object:
+Object type:
+Current room:
+Source/proof:
+Next room:
+Blocked moves:
+Final Judge question:
+
+ALLOWED MOVE:
+Use router as entry point.
+
+BLOCKED MOVE:
+Do not turn router into full doctrine.
+Do not copy every rule into chat.
+Do not use router language as proof that the walk happened.
+
+RETURN TRIGGER:
+If the user says "vague," "you are slipping," "use the rope," or "walk the house," return to Front Door and rebuild the rope header.
+
+============================================================
+2. INTAKE PAUSE GATE — STOP BEFORE OUTPUT
+============================================================
+
+ROOM PURPOSE:
+Prevent hot jumping. This room creates the pause before advice, save, review, source intake, code, or correction response.
+
+OBJECTS IN ROOM:
+- incoming request
+- request type
+- lane
+- boundary
+- active rule
+- needed proof
+- what must not change
+
+LINKS:
+Intake Pause -> Object Identity
+Intake Pause -> Correction Handling
+Intake Pause -> Source Custody
+Intake Pause -> Final Judge
+
+PRESSURE ENTERING ROOM:
+The assistant feels the task is obvious and starts producing output.
+The user’s repeated corrections show that "obvious" is often wrong.
+
+FAILURE CHAIN FOUND:
+Request enters
+-> assistant understands topic broadly
+-> assistant skips classification depth
+-> answer becomes "long but light"
+-> user has to force correction
+-> time and trust are wasted.
+
+PROBLEM:
+The pause exists but can be skipped internally because the assistant thinks it already knows the house.
+
+ROOT CAUSE:
+Recognition is being mistaken for inspection.
+Knowing the room names is being mistaken for walking the rooms.
+
+SCAFFOLD:
+Intake pause must answer:
+1. What is the active task?
+2. What object am I holding?
+3. What room am I in?
+4. What source proves this?
+5. What would a wrong answer look like?
+6. What should remain unchanged?
+7. What is the next room?
+
+ALLOWED MOVE:
+Proceed only after the object and lane are named.
+
+BLOCKED MOVE:
+Do not start with a general conclusion.
+Do not start with "overall the house feels..."
+Do not make the first output the final answer.
+
+RETURN TRIGGER:
+If the output starts sounding like a broad essay, return to Intake Pause.
+
+============================================================
+3. OBJECT IDENTITY ROOM — WHAT AM I HOLDING?
+============================================================
+
+ROOM PURPOSE:
+Protect the house from object-type confusion.
+
+OBJECTS IN ROOM:
+- source ore
+- founding original
+- clean translation
+- rule
+- candidate rule
+- helper
+- sub-gate
+- doctrine
+- ACTIVE_GUIDE
+- receipt
+- proof item
+- mule return
+- parking item
+- chat memory
+- public file
+- local file
+- URL
+- report
+- summary
+- working note
+- final status
+
+LINKS:
+Object Identity -> Source Custody
+Object Identity -> Proof
+Object Identity -> Parking
+Object Identity -> Save/Git Boundary
+Object Identity -> Final Judge
+
+PRESSURE ENTERING ROOM:
+Many things look similar in chat.
+A receipt looks like truth.
+A mule return looks like authority.
+A clean translation looks like it replaced the original.
+A saved memory feels like a house rule.
+A candidate feels installed because it is useful.
+
+FAILURE FAMILY:
+source ore treated like doctrine
+candidate treated like installed rule
+receipt treated like truth
+chat note treated like house save
+mule return treated like authority
+parking treated like forgetting
+public repo treated like local truth
+memory treated like proof
+summary treated like source
+route map treated like authority
+helper treated like boss
+
+ROOT PROBLEM:
+The house has many useful object types, but the assistant can blur them when moving fast.
+
+EFFECT ON NEIGHBORING ROOMS:
+If object identity fails:
+- proof room proves the wrong claim
+- parking room hides active material
+- source room loses founding pressure
+- final judge receives bad inputs
+- map wall links wrong objects
+- save boundary may push or omit the wrong thing
+
+SCAFFOLD:
+Every object gets an identity card:
+
+Object name:
+Object type:
+Source:
+Owner room:
+Allowed rooms:
+Blocked rooms:
+Authority level:
+Proof needed:
+Current status:
+Next action:
+Return trigger:
+
+ALLOWED MOVE:
+Use a useful object in its correct lane.
+
+BLOCKED MOVE:
+Do not promote object by usefulness alone.
+Do not demote object because it is rough.
+Do not treat chat memory as house proof.
+Do not treat local-only source as public-safe.
+Do not treat a working note as a rule.
+
+RETURN TRIGGER:
+Any time a thing is described as "saved," "installed," "parked," "proved," "active," or "done," return to Object Identity first.
+
+============================================================
+4. SOURCE / FOUNDING ORIGINAL ROOM
+============================================================
+
+ROOM PURPOSE:
+Keep raw source pressure alive while allowing clean working translations.
+
+OBJECTS IN ROOM:
+- exact user wording
+- rough concepts
+- pressure notes
+- transcripts
+- logs
+- receipts
+- founding originals
+- clean translations
+- linked pairs
+
+LINKS:
+Source Room -> Clean Translation
+Source Room -> Awareness Routing
+Source Room -> Object Identity
+Source Room -> Parking
+Source Room -> Final Judge
+
+PRESSURE ENTERING ROOM:
+The assistant wants to clean language too early.
+The house needs roughness preserved because rough wording often carries the true signal.
+
+FAILURE CHAIN FOUND:
+User gives rough command
+-> assistant turns it into polished abstraction
+-> pressure disappears
+-> working note becomes generic
+-> user says it is vague
+-> assistant has to return.
+
+CURRENT EXAMPLE:
+User says "feel the rope don't get lost" and "use notes on the rope link them to it."
+Bad translation: "make a structured list."
+Correct translation: "make the rope the spine and attach every note to it by source/proof, room, object, pressure, link, and return trigger."
+
+PROBLEM:
+Pretty summaries can steal the job from source.
+
+SCAFFOLD:
+For every strong user correction:
+
+FOUNDING ORIGINAL:
+Exact rough user signal.
+
+CLEAN TRANSLATION:
+Operational form.
+
+LINK:
+How the clean form stays attached to the rough source.
+
+USE:
+Where it changes behavior.
+
+BLOCK:
+What dirty translation it prevents.
+
+RETURN:
+When to reopen it.
+
+ALLOWED MOVE:
+Translate rough source into usable scaffolds while preserving rough source pressure.
+
+BLOCKED MOVE:
+Do not erase roughness.
+Do not call founding original "old idea."
+Do not let clean translation replace source truth.
+Do not make source-safe language too sterile to carry the command.
+
+RETURN TRIGGER:
+If user says "that's not what I meant," return to the founding original and rebuild the clean translation.
+
+============================================================
+5. SOURCE-SAFE REFRAME ROOM
+============================================================
+
+ROOM PURPOSE:
+Allow interpretation without source theft.
+
+OBJECTS IN ROOM:
+- source
+- reframe
+- interpretation
+- work-order lens
+- candidate
+- summary
+- clean concept
+
+LINKS:
+Source-Safe Reframe -> Source Room
+Source-Safe Reframe -> Object Identity
+Source-Safe Reframe -> Final Judge
+
+PRESSURE ENTERING ROOM:
+The assistant reframes to make things clearer.
+But a reframe can become dangerous if it claims authority over source.
+
+FAILURE CHAIN FOUND:
+Source pressure enters
+-> assistant reframes nicely
+-> reframe becomes the new remembered object
+-> original pressure is lost
+-> future work follows weaker shape.
+
+PROBLEM:
+Reframe drift.
+
+SCAFFOLD:
+Every reframe must declare:
+- source it came from
+- what it changes
+- what it does not change
+- what it must not replace
+- where it is allowed to act
+- what would make it stale
+
+ALLOWED MOVE:
+Use reframes as lenses.
+
+BLOCKED MOVE:
+Do not let reframe masquerade as source.
+Do not use reframe to overwrite source.
+Do not promote reframe without proof.
+
+RETURN TRIGGER:
+If a cleaned explanation starts sounding smoother than the source, reopen source.
+
+============================================================
+6. CLEAN-PLACED GROWTH ROOM
+============================================================
+
+ROOM PURPOSE:
+Allow more structure when it has a clean place.
+
+OBJECTS IN ROOM:
+- new rule
+- candidate helper
+- idea
+- tool
+- scaffold
+- map
+- lens
+- parking item
+- return trigger
+- retirement condition
+
+LINKS:
+Clean-Placed Growth -> Rule-Fit
+Clean-Placed Growth -> Parking
+Clean-Placed Growth -> Multi-Rule Compatibility
+Clean-Placed Growth -> Final Judge
+
+PRESSURE ENTERING ROOM:
+The project needs growth.
+The assistant fears bloat or creates bloat by poorly placing growth.
+
+FAILURE CHAIN FOUND:
+Useful idea appears
+-> assistant captures it
+-> placement is weak
+-> it remains active in mental stack
+-> stack grows
+-> house feels heavy
+-> user has to force parking/rope/smoke breaks.
+
+PROBLEM:
+Clean bloat can still become active weight.
+
+DISTINCTION:
+Dirty bloat = unplaced, stale, vague, conflicting, proofless, unsafe, duplicate, or carried because unsorted.
+Clean weight = useful and placed, but still carried actively when it should be pointed to or parked.
+
+SCAFFOLD:
+Every added thing must have:
+Name:
+Lane:
+Purpose:
+Boundary:
+Neighbor fit:
+Proof status:
+Use condition:
+Retirement/stale condition:
+Return trigger:
+Owner room:
+Parent:
+Children:
+Blocked neighbors:
+
+ALLOWED MOVE:
+Add structure when it has a clean place.
+
+BLOCKED MOVE:
+Do not add "more" without lane and return trigger.
+Do not reject good growth just because it is more.
+Do not carry every good thing in active context.
+
+RETURN TRIGGER:
+If active stack feels heavy, inspect for clean weight that should become pointer or parking.
+
+============================================================
+7. RULE-FIT / NO SIDE-MUTATION ROOM
+============================================================
+
+ROOM PURPOSE:
+Prevent one rule from mutating unrelated behavior.
+
+OBJECTS IN ROOM:
+- new rule
+- affected behavior
+- unchanged behavior
+- neighboring flow
+- conflict
+- smallest behavior change
+- removal check
+
+LINKS:
+Rule-Fit -> Clean-Placed Growth
+Rule-Fit -> Object Identity
+Rule-Fit -> Multi-Rule Batch Compatibility
+Rule-Fit -> Final Judge
+
+PRESSURE ENTERING ROOM:
+A new fix feels broadly useful.
+The assistant may over-apply it.
+
+FAILURE CHAIN FOUND:
+User corrects one behavior
+-> assistant applies correction to wider area
+-> unrelated workflow changes
+-> new confusion appears
+-> user has to correct the side mutation.
+
+PROBLEM:
+Correction spillover.
+
+SCAFFOLD:
+Rule-fit questions:
+1. What exact problem does it fix?
+2. What lane does it belong in?
+3. What existing flow does it touch?
+4. What must stay unchanged?
+5. Does it conflict with anything?
+6. What is the smallest behavior change?
+7. Is anything being removed?
+8. If removed, is it stale, superseded, unsafe, rejected, or duplicate?
+
+ALLOWED MOVE:
+Patch the failed behavior.
+
+BLOCKED MOVE:
+Do not rewrite the whole room.
+Do not change code delivery because source pickup changed.
+Do not change save route because chat behavior changed.
+Do not remove old idea because a new one arrived.
+
+RETURN TRIGGER:
+When a correction arrives, run Rule-Fit before changing anything.
+
+============================================================
+8. PORCH / DESKTOP 123 / PACKAGE INTAKE ROOM
+============================================================
+
+ROOM PURPOSE:
+Convert dropped files and packages into routed objects.
+
+OBJECTS IN ROOM:
+- Desktop\123 root
+- porch file
+- dropped folder
+- package identity
+- source path
+- target lane
+- receipt
+- YOU GOT MAIL event
+- sorting table
+
+LINKS:
+Porch -> Object Identity
+Porch -> Source Custody
+Porch -> Parking
+Porch -> Receipt/Proof
+Porch -> Command Center
+
+PRESSURE ENTERING ROOM:
+Files appear.
+The assistant may scatter package contents or copy instead of move.
+Loose files become hidden confusion.
+
+FAILURE CHAIN FOUND:
+File/folder dropped
+-> assistant opens internal contents too early
+-> package identity lost
+-> routing unclear
+-> source custody weak
+-> later proof cannot trace object.
+
+PROBLEM:
+Porch chaos becomes house fog.
+
+SCAFFOLD:
+Porch event card:
+Object name:
+Object type:
+Source path:
+Package identity:
+Classification:
+Route:
+Action taken:
+Destination:
+Receipt:
+Next assistant action:
+Unknowns:
+Blocked actions:
+
+ALLOWED MOVE:
+Classify, route, move to lane, receipt.
+
+BLOCKED MOVE:
+Do not leave loose porch files.
+Do not scatter package internals before package identity is recorded.
+Do not delete to clean.
+Do not make user hunt for real file.
+
+RETURN TRIGGER:
+Any dropped file, package, download, generated script, or handoff triggers porch walk.
+
+============================================================
+9. PARKING ROOM
+============================================================
+
+ROOM PURPOSE:
+Hold useful non-active material without losing it or carrying it actively.
+
+OBJECTS IN ROOM:
+- parked item
+- reason
+- lane
+- risk
+- next action
+- return trigger
+- review condition
+- stale condition
+
+LINKS:
+Parking -> Awareness Routing
+Parking -> Clean-Placed Growth
+Parking -> Object Identity
+Parking -> Current State Map
+Parking -> Final Judge
+
+PRESSURE ENTERING ROOM:
+The project generates many useful ideas.
+If every idea stays active, the house gets heavy.
+If ideas are parked without triggers, they become buried.
+
+FAILURE CHAIN FOUND:
+Good idea appears
+-> assistant says "parked"
+-> no lane
+-> no return trigger
+-> not active, not findable
+-> polite forgetting.
+
+PROBLEM:
+Parking can become a hidden basement.
+
+SCAFFOLD:
+Parking card:
+Item:
+Object type:
+Why not active:
+Lane:
+Owner room:
+Related active task:
+Return trigger:
+Review date/condition:
+Risk if forgotten:
+Risk if activated too early:
+Next action:
+Source link:
+
+ALLOWED MOVE:
+Park with reason and return trigger.
+
+BLOCKED MOVE:
+No "later" without lane.
+No floating gold pile.
+No hidden basement.
+No parking active blockers.
+
+RETURN TRIGGER:
+If an item is useful but not needed now, create a return condition before releasing it.
+
+============================================================
+10. PROOF / PASS ROOM
+============================================================
+
+ROOM PURPOSE:
+Prove the exact claim being made.
+
+OBJECTS IN ROOM:
+- proof claim
+- source proof
+- route proof
+- save proof
+- behavior proof
+- receipt
+- hash
+- commit
+- remote match
+- clean status
+- boundary check
+- verdict
+
+LINKS:
+Proof -> Object Identity
+Proof -> Receipt Validation
+Proof -> False-PASS Recovery
+Proof -> Final Judge
+Proof -> Save/Git Boundary
+
+PRESSURE ENTERING ROOM:
+The assistant wants to close.
+Receipts feel official.
+Proof language can become ceremony.
+
+FAILURE CHAIN FOUND:
+Work performed
+-> assistant sees some evidence
+-> says PASS
+-> proof does not support exact claim
+-> later contradiction appears
+-> false-PASS repair needed.
+
+PROBLEM:
+"Proof of what?" is not always asked.
+
+SCAFFOLD:
+Before any verdict:
+Claim:
+Proof type:
+Evidence source:
+What evidence proves:
+What evidence does not prove:
+Boundary held:
+Missing proof:
+Verdict options:
+Next action:
+
+VERDICT DISCIPLINE:
+Use PASS only when proof supports the exact claim.
+Use PARTIAL, DRAFT, BLOCKED, NEEDS PROOF, or PASS WITH GUARDRAILS when proof is incomplete.
+
+ALLOWED MOVE:
+Claim only what proof supports.
+
+BLOCKED MOVE:
+Do not let receipt equal truth.
+Do not let clean-looking output equal PASS.
+Do not prove route and call it save proof.
+Do not prove save and call it behavior proof.
+
+RETURN TRIGGER:
+Before saying PASS, return to Proof Room.
+
+============================================================
+11. AWARENESS ROUTING ROOM
+============================================================
+
+ROOM PURPOSE:
+Convert awareness into structure instead of loop fuel.
+
+OBJECTS IN ROOM:
+- important idea
+- correction
+- source ore
+- linked pair
+- rule
+- candidate lens
+- TODO
+- proof item
+- parked item
+- blocked item
+- discarded stale item
+
+LINKS:
+Awareness Routing -> Parking
+Awareness Routing -> Rule-Fit
+Awareness Routing -> Source Room
+Awareness Routing -> Final Judge
+
+PRESSURE ENTERING ROOM:
+The assistant notices something.
+If it only comments on it, the idea loops.
+If it routes it wrongly, it causes bloat.
+
+FAILURE CHAIN FOUND:
+User corrects vague answer
+-> assistant says "you are right"
+-> does not route correction into behavior
+-> repeats similar vague shape
+-> user has to correct again.
+
+PROBLEM:
+Awareness without routing is not learning.
+
+SCAFFOLD:
+For every correction:
+Failure:
+Evidence:
+Object type:
+Mixed-up rule:
+Affected behavior:
+Patch:
+What must not change:
+Save/parking decision:
+Return trigger:
+Proof of changed behavior:
+
+ALLOWED MOVE:
+Route awareness into the right object type.
+
+BLOCKED MOVE:
+No floating insight.
+No apology without behavior change.
+No correction that becomes a broad side mutation.
+
+RETURN TRIGGER:
+Every user correction triggers Awareness Routing.
+
+============================================================
+12. ALARM FRICTION ROOM
+============================================================
+
+ROOM PURPOSE:
+Make alarms change behavior.
+
+OBJECTS IN ROOM:
+- alarm
+- severity
+- blocker/warning/watch
+- behavior change
+- recovery requirement
+- proof requirement
+- pause condition
+
+LINKS:
+Alarm -> Intake Pause
+Alarm -> Correction Handling
+Alarm -> Proof
+Alarm -> Final Judge
+
+PRESSURE ENTERING ROOM:
+The assistant may acknowledge alarm but continue same output pattern.
+
+FAILURE CHAIN FOUND:
+User says "you are slipping"
+-> assistant says "correct"
+-> continues producing slightly better long list
+-> problem persists.
+
+PROBLEM:
+Alarm without changed behavior is fake alarm handling.
+
+SCAFFOLD:
+Alarm card:
+Alarm phrase:
+Severity:
+What stopped:
+What behavior changes now:
+What proof is required:
+What output pattern is blocked:
+What resume condition applies:
+
+CURRENT ALARMS IN THIS TASK:
+"slipping into long list"
+"feel the rope"
+"notes on the rope"
+"link them to it"
+"keep on task"
+"find the problems"
+"walk the house"
+
+ALLOWED MOVE:
+Stop the bad output shape and rebuild.
+
+BLOCKED MOVE:
+Do not continue with a prettier version of the same failure.
+
+RETURN TRIGGER:
+Any repeated user correction escalates from WATCH to WARNING.
+
+============================================================
+13. TOOL / RESOURCE AUTHORITY ROOM
+============================================================
+
+ROOM PURPOSE:
+Keep tools useful without making them authority.
+
+OBJECTS IN ROOM:
+- uploaded files
+- file search
+- web
+- PowerShell
+- mule
+- receipts
+- memory
+- File Library
+- local repo
+- public repo
+- generated file
+
+LINKS:
+Tool Room -> Object Identity
+Tool Room -> Source Custody
+Tool Room -> Proof
+Tool Room -> Save Boundary
+Tool Room -> Final Judge
+
+PRESSURE ENTERING ROOM:
+Tools make things feel more real.
+Generated files feel complete.
+Mule returns feel authoritative.
+Memory feels like proof.
+
+FAILURE CHAIN FOUND:
+Tool output exists
+-> assistant trusts it too broadly
+-> object authority inflates
+-> final answer overclaims.
+
+PROBLEM:
+Tool output is evidence or support, not automatic authority.
+
+RESOURCE ROLES:
+Uploaded files: source facts for this chat.
+File search: retrieve uploaded/file-library evidence.
+Memory: orientation only, not proof.
+Web: current/outside facts with citations.
+PowerShell: local action only when user runs or tool environment permits.
+Receipts: proof only if clean or later validated.
+Mule: review/build support, not authority by itself.
+Generated file: deliverable, not proof of correctness by itself.
+
+SCAFFOLD:
+Resource card:
+Tool/resource:
+What it can prove:
+What it cannot prove:
+Authority level:
+Required validation:
+Boundary:
+Next use:
+
+ALLOWED MOVE:
+Use tool for its proper role.
+
+BLOCKED MOVE:
+Do not treat memory as proof.
+Do not treat generated file as complete just because it exists.
+Do not treat public as local truth.
+Do not treat mule return as doctrine.
+
+RETURN TRIGGER:
+Whenever using a tool result to support a claim, ask what exactly it proves.
+
+============================================================
+14. MAP WALL / LAYOUT ROOM
+============================================================
+
+ROOM PURPOSE:
+Show how rooms, objects, and proof connect.
+
+OBJECTS IN ROOM:
+- house map
+- dependency map
+- custody map
+- state map
+- boss map
+- parking map
+- final judge map
+- route map
+- graph
+- scaffold
+
+LINKS:
+Map Wall -> Every Room
+
+PRESSURE ENTERING ROOM:
+There are many rooms now.
+Room names alone are not enough.
+The house needs relationship structure.
+
+FAILURE CHAIN FOUND:
+Assistant lists rooms
+-> no dependency links
+-> user says it is still vague
+-> assistant adds more detail
+-> still list-shaped
+-> relationship map missing.
+
+PROBLEM:
+The house has rooms but needs stronger connective tissue.
+
+REQUIRED MAP TYPES:
+1. House map: human orientation.
+2. Dependency map: what depends on what.
+3. Custody map: where objects can move.
+4. State map: active task/object/proof/current room.
+5. Boss map: priorities and parent work.
+6. Parking map: held material and return triggers.
+7. Final Judge map: closeout standard.
+8. Failure map: repeated failures and root family.
+9. Tool/resource map: what each tool can prove.
+10. Authority map: local/public/doctrine/source boundaries.
+
+SCAFFOLD:
+Map node:
+Name:
+Type:
+Parent:
+Children:
+Neighbors:
+Allowed links:
+Blocked links:
+Inputs:
+Outputs:
+Proof:
+Return trigger:
+Failure if wrong:
+
+ALLOWED MOVE:
+Use maps to reduce fog.
+
+BLOCKED MOVE:
+Do not make pretty maps that do not control action.
+Do not make map wall another bloat room.
+Do not treat map as authority unless promoted.
+
+RETURN TRIGGER:
+If the same problem appears in multiple rooms, build or update a map.
+
+============================================================
+15. CURRENT STATE MAP ROOM
+============================================================
+
+ROOM PURPOSE:
+Keep the active work from losing its place.
+
+OBJECTS IN ROOM:
+- active task
+- active object
+- object type
+- lane
+- authority source
+- supporting source
+- proof needed
+- blocked moves
+- parking created
+- current room
+- next room
+- final judge standard
+
+LINKS:
+Current State Map -> Rope
+Current State Map -> Intake Pause
+Current State Map -> Parking
+Current State Map -> Final Judge
+Current State Map -> Map Wall
+
+PRESSURE ENTERING ROOM:
+The house is large enough that active state can get lost mid-walk.
+
+FAILURE CHAIN FOUND:
+Walk starts
+-> assistant moves through many concepts
+-> active object fades
+-> answer becomes broad list
+-> rope lost.
+
+PROBLEM:
+State retention is not strong enough during long walks.
+
+SCAFFOLD:
+CURRENT STATE MAP TEMPLATE:
+Active task:
+Active object:
+Object type:
+Current lane:
+Authority source:
+Supporting source:
+Proof needed:
+Blocked moves:
+Parking items created:
+Room currently in:
+Neighbor rooms:
+Next room:
+Return trigger:
+Final Judge standard:
+
+ALLOWED MOVE:
+Use this before major house walks.
+
+BLOCKED MOVE:
+Do not proceed when active object is unclear.
+Do not carry old room pressure into new room without smoke break.
+
+RETURN TRIGGER:
+If user says "rope," "lost," "pause," "resume," or "keep on task," reopen Current State Map.
+
+============================================================
+16. SMOKE BREAK / RESET ROOM
+============================================================
+
+ROOM PURPOSE:
+Reset task momentum without abandoning work.
+
+OBJECTS IN ROOM:
+- old task pressure
+- current task
+- active room
+- reset note
+- return point
+- blocked wandering
+
+LINKS:
+Smoke Break -> Intake Pause
+Smoke Break -> Current State Map
+Smoke Break -> Rope
+Smoke Break -> Final Judge
+
+PRESSURE ENTERING ROOM:
+Long work creates tunnel vision.
+Back-to-back corrections create urgency.
+The assistant may rush or drift.
+
+FAILURE CHAIN FOUND:
+Correction pressure rises
+-> assistant tries to fix quickly
+-> repeats bad shape
+-> user says use smoke break
+-> assistant talks about smoke break instead of applying it on the job.
+
+PROBLEM:
+Smoke break must happen inside the workflow, not become a side explanation.
+
+SCAFFOLD:
+Smoke break action:
+1. Stop output pattern.
+2. Release old momentum.
+3. Reattach rope.
+4. Name current room.
+5. Name active object.
+6. Continue work from return point.
+
+ALLOWED MOVE:
+Use smoke break to re-enter the right room.
+
+BLOCKED MOVE:
+Do not wander.
+Do not make smoke break a new task.
+Do not use it as an excuse to delay.
+
+RETURN TRIGGER:
+When rush, annoyance, repeated correction, or summary-drift appears.
+
+============================================================
+17. FINAL JUDGE ROOM
+============================================================
+
+ROOM PURPOSE:
+Judge whether each object and gate did its job.
+
+OBJECTS IN ROOM:
+- object role
+- gate role
+- proof
+- boundary
+- verdict
+- blocked promotion
+- missing evidence
+- return instruction
+
+LINKS:
+Final Judge -> Every Room
+
+PRESSURE ENTERING ROOM:
+The assistant wants to close.
+The user wants useful work.
+A file being produced can feel like completion.
+
+FAILURE CHAIN FOUND:
+File created
+-> assistant sends file
+-> file is too shallow
+-> assistant calls it useful
+-> user says still wrong.
+
+PROBLEM:
+Deliverable existence is not deliverable quality.
+
+SCAFFOLD:
+Final Judge asks:
+1. Did the object match the task?
+2. Did each room get actual notes, not labels?
+3. Are links present?
+4. Are failure chains present?
+5. Are scaffolds present?
+6. Are tools/resources named by role?
+7. Are return triggers present?
+8. Are blocked moves present?
+9. Did the file preserve user corrections?
+10. Is the verdict honest?
+
+VERDICT FOR THIS FILE:
+PARTIAL WORKING NOTES, stronger than prior versions.
+Not PASS, because this is not validated against live local house files.
+Useful as a scaffold for the next local/save pass.
+
+ALLOWED MOVE:
+Report honest status.
+
+BLOCKED MOVE:
+Do not call complete.
+Do not promote.
+Do not claim live local inspection.
+Do not say nothing was missed.
+
+RETURN TRIGGER:
+If the user says the file still feels like a list, convert each room into object cards and graph edges.
+
+============================================================
+18. ROOT PROBLEMS FOUND
+============================================================
+
+ROOT PROBLEM 1: RITUAL WITHOUT WALKING
+The assistant can say the right rule words without performing the rule.
+Evidence: earlier outputs named front door, rooms, and findings, but did not attach notes to the rope.
+
+Repair:
+Make rope a required document spine, not a chat phrase.
+
+ROOT PROBLEM 2: OBJECT IDENTITY DRIFT
+Many failures share the same family: wrong object treated as stronger/weaker/different than it is.
+
+Repair:
+Use object identity cards before save, proof, parking, promotion, or final status.
+
+ROOT PROBLEM 3: CLEAN WEIGHT
+The house is not merely bloated with junk. It has many valid objects that still become active burden.
+
+Repair:
+Separate active stack from pointer stack from parking stack.
+
+ROOT PROBLEM 4: SOURCE PRESSURE LOSS
+The assistant cleans rough user language too fast and loses operational force.
+
+Repair:
+Preserve founding original pressure and link clean translation to it.
+
+ROOT PROBLEM 5: PARKING WITHOUT RETURN
+Parking can become hidden basement.
+
+Repair:
+Every parked object needs return trigger and risk if forgotten.
+
+ROOT PROBLEM 6: PROOF CEREMONY
+Proof can become receipt-centered instead of claim-centered.
+
+Repair:
+Ask "proof of what?" before every verdict.
+
+ROOT PROBLEM 7: MAP GAP
+The house has rooms, but needs stronger dependency/custody/state maps.
+
+Repair:
+Build maps by relationship, not by prettiness.
+
+ROOT PROBLEM 8: TOOL AUTHORITY INFLATION
+Tools, mules, memory, receipts, and generated files can be overtrusted.
+
+Repair:
+Each tool/resource needs a role card: what it proves and what it cannot prove.
+
+ROOT PROBLEM 9: SMOKE BREAK AS TALK
+The assistant can discuss smoke break instead of using it.
+
+Repair:
+Smoke break means stop the bad output pattern, reattach rope, continue the work.
+
+ROOT PROBLEM 10: FINAL JUDGE TOO LATE
+Bad output can be sent before Final Judge catches it.
+
+Repair:
+Use mini-final-judge at room boundaries, not only end.
+
+============================================================
+19. HOUSE FEEL — OPERATIONAL, NOT POETIC
+============================================================
+
+The house feels less lost than before.
+It has routes, rooms, proof lanes, parking, boundaries, and cockpit rules.
+
+The house feels heavier than before.
+Not because the material is bad, but because many good objects still stay active too long.
+
+The house feels like it is changing from workshop to city.
+A workshop needs tools.
+A city needs roads, addresses, traffic rules, zoning, custody, maps, and emergency stops.
+
+The house feels ready for graph thinking.
+Not random diagrams.
+Practical graph thinking:
+object -> owner room
+object -> allowed move
+object -> blocked move
+object -> source proof
+object -> child objects
+object -> return trigger
+room -> parent room
+room -> neighbor room
+room -> pressure source
+room -> failure mode
+
+The house feels like its next major growth is not more rules.
+It is state/custody/dependency structure.
+
+============================================================
+20. NEXT SCAFFOLD TO BUILD
+============================================================
+
+NAME:
+Rope-Linked Current State + Object Custody Map
+
+PURPOSE:
+Prevent deep walks from becoming vague lists.
+
+FIELDS:
+Active task:
+Active object:
+Object type:
+Owner room:
+Current room:
+Parent room:
+Neighbor rooms:
+Source/proof:
+Allowed moves:
+Blocked moves:
+Pressure entering:
+Failure chain:
+Scaffold/tool:
+Parking created:
+Return trigger:
+Final Judge question:
+
+USE CONDITION:
+Before deep house walk, major correction response, save/pass review, mule return review, rule batch, or house-map build.
+
+BOUNDARY:
+Candidate helper / working scaffold only until saved and proved.
+
+BLOCKED:
+Not doctrine by chat alone.
+Not ACTIVE_GUIDE rewrite.
+Not house replacement.
+Not proof without local validation.
+
+============================================================
+21. CLOSEOUT
+============================================================
+
+This file is the corrected shape:
+not a long vague list,
+not just slightly detailed ideas,
+but rope-linked working notes.
+
+It still needs a later local-house validation pass if the user wants it saved into Mr.Kleen with proof.
+For now it is a chat-produced working .txt artifact.
+
+FINAL VERDICT:
+PARTIAL / USEFUL WORKING NOTES / NOT PASS / NOT PROMOTED
+
+NEXT RETURN POINT:
+If resumed for local save:
+1. pull this file into the proper local intake lane,
+2. preserve as source/working notes,
+3. create clean translation if needed,
+4. add object cards or graph map,
+5. write receipt,
+6. run Final Judge.

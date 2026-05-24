@@ -1,0 +1,39 @@
+LOCAL 123 ROOT DROP INTAKE AND NERVE SIGNAL WASH RECEIPT
+Date: 2026-05-24
+Status: PASS WITH GUARDRAILS / ROOT FILES MOVED INTO HOUSE
+
+Task:
+Clear loose files from the root of C:\Users\13527\Desktop\123, move them into the house, read them,
+process them in the best order, and add durable notes/rules so this does not repeat.
+
+Source custody lane:
+SOURCE_ORE\USER_DROPS\ROOT_DROPS_CLEARED_20260524_092335
+
+Files moved:
+- 01_HOUSE_WALKTHROUGH_ROPE_NOTES_V3.txt
+- 02_SYNTHESIS_GATE_RESEARCH_PAPER_V4.txt
+- 03_WHOLE_HOUSE_WALK_DEEP_PARAGRAPH_WASH_V2.txt
+- 04_chat_results.txt
+
+New rules:
+- BRAIN_LEARNING\ROOT_DROP_ZONE_IMMEDIATE_INTAKE_RULE_20260524.md
+- BRAIN_LEARNING\ISSUE_REPLAY_WASHER_MIRROR_RULE_20260524.md
+- BRAIN_LEARNING\ACTIVE_OBJECT_RELEASE_AND_SIGNAL_DISCIPLINE_RULE_20260524.md
+
+Updated rule:
+- BRAIN_LEARNING\PORCH_DROP_EVENT_TRIGGER_AND_PACKAGE_INTAKE_RULE_20260522.md
+
+Clean adoption:
+Root files are rope notes until moved. A correction is not learned until the same issue is replayed
+through changed behavior. An active object must explain why it is still active now, or stand down
+into a clean lane.
+
+Root clean proof:
+Get-ChildItem -LiteralPath C:\Users\13527\Desktop\123 -File returned no files after the move.
+
+Filename note:
+Original root filename was `WHOLE_HOUSE_WALK_DEEP_PARAGRAPH_WASHED_V2.txt`; custody filename removes
+`WASHED` to avoid the repo `*SHED*` ignore pattern. Hash stayed unchanged.
+
+Final Judge:
+PASS WITH GUARDRAILS pending commit, push, and final verification.

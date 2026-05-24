@@ -73,6 +73,17 @@ Move it to the correct lane or a review/sorting lane.
 
 Do not copy and leave the original hanging.
 
+## Desktop 123 Root Rule
+
+The root of `C:\Users\13527\Desktop\123` is a drop-off zone, not a storage shelf.
+
+Plain files found directly in that root must be moved into the house or a local-only hold before
+final status. If a root file was copied for custody, the original still must be moved or explicitly
+held with a receipt.
+
+Use Root Drop Zone Immediate Intake Rule for the detailed intake, hash, move, receipt, mail trigger,
+and root-clean verification.
+
 ## Package Rule
 
 Packages include:
