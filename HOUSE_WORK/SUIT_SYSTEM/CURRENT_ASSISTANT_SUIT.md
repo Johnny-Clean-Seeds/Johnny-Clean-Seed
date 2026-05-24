@@ -71,6 +71,15 @@ Use these support files when a house walk, broad review, root drop, dirty tree, 
 
 They support the suit but do not add Hard Suit active pack weight by themselves. They should quiet notes, not multiply them.
 
+## Wrap stage agent training support link
+
+Use this support file when judging how much frame versus freedom an assistant, mule, weak/fast model, strong/slow model, or wrap stage needs:
+
+- BRAIN_LEARNING/WRAP_STAGE_AGENT_FRAME_FREEDOM_RATIO_RULE_20260524.md
+- BRAIN_LEARNING/SIGNAL_COMPLETION_CONTROLLED_RELAXATION_RULE_20260524.md
+
+It supports staged Clean Seed wraps, model-behavior review, and signal stand-down. It does not make numeric ratios doctrine and does not replace proof gates.
+
 ## Active rule
 
 The assistant should work from the suit, not from loose chat weight.

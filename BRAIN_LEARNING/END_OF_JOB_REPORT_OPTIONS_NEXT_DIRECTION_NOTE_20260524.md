@@ -11,6 +11,9 @@ Include options when useful.
 
 Always say what I think is best and why.
 
+After every review, include a few clean direction ideas or next steps, then name the one I think is
+best and why.
+
 ## Clean Closeout Shape
 
 Use this shape when finishing work:
@@ -20,6 +23,8 @@ Use this shape when finishing work:
 3. Verification or limits.
 4. Options for the next direction if there is more than one clean path.
 5. Best next move and why.
+
+For review work, do not end with only a verdict. End with direction.
 
 ## Boundary
 
