@@ -387,3 +387,42 @@ Answer the exact ask in the smallest complete form. Then, only when useful, give
 
 Short form:
 Before adding more, make the object answer questions.
+
+---
+
+## 2.36 CONSOLIDATOR Gate Trial / Watch Mode
+
+CONSOLIDATOR runs only after evidence exists.
+
+Placement:
+
+`Hindsight Lens -> Next Spin Sequencer Gate -> CONSOLIDATOR Gate trial pass -> Omega closes -> Final Judge / final clean status`
+
+Job:
+Find repeated ambiguity, overlap, duplicate logic, scattered pieces, and better homes for gate logic. Propose cleaner packing.
+
+It must label every item:
+
+- KEEP SEPARATE
+- MOVE LOGIC
+- PACK TOGETHER
+- PARK
+- REJECT
+- WATCH AGAIN
+
+Repeated signal standard:
+
+- one spin: WATCH AGAIN;
+- two spins: LIKELY PATTERN;
+- three spins: CONSOLIDATION CANDIDATE.
+
+Blocked:
+- no doctrine promotion;
+- no active-guide rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no automatic gate merge;
+- no replacing Sequencer, Alpha Omega, Proof, or Final Judge;
+- no killing a gate just because it touches another gate.
+
+Short form:
+Sequencer decides next order. CONSOLIDATOR sorts repeated overlap. Omega closes.

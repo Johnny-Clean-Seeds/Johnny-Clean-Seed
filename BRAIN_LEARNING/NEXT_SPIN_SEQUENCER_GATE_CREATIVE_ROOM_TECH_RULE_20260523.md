@@ -38,15 +38,15 @@ It asks:
 
 ## 3. Best Placement
 
-Best placement:
+Best placement after CONSOLIDATOR trial/watch installation:
 
-`Hindsight Lens -> Next Spin Sequencer Gate -> Omega closes`
+`Hindsight Lens -> Next Spin Sequencer Gate -> CONSOLIDATOR Gate trial pass -> Omega closes`
 
 Reason:
 - It needs the fresh run before it can sequence.
 - It needs proof/receipt output before it can sequence.
 - It needs hindsight before it can detect repetition/history patterns.
-- It must happen before Omega closes so the proposed next sequence is captured before final loop closure.
+- It must happen before CONSOLIDATOR and Omega so the proposed next sequence is captured before consolidation watch and final loop closure.
 
 ## 4. Clean Order With Sequencer
 
@@ -64,8 +64,9 @@ Current candidate loop:
 10. Proof / Receipt Gate
 11. Hindsight Lens
 12. Next Spin Sequencer Gate
-13. Omega closes
-14. Final Judge / final clean status
+13. CONSOLIDATOR Gate trial pass
+14. Omega closes
+15. Final Judge / final clean status
 
 This order is still a candidate. Mule and future spins may challenge it.
 
@@ -122,16 +123,20 @@ record in Next Spin Sequence Card.
 
 ## 8. CONSOLIDATOR Relationship
 
-CONSOLIDATOR comes later.
+CONSOLIDATOR now comes later in trial/watch mode.
 
 Next Spin Sequencer Gate may identify repeated ambiguity or overlap, but it does not merge.
 
-CONSOLIDATOR should only act after repeated sequencer findings show stable ambiguity, duplicate logic, or overlap that should be packed into a cleaner gate.
+CONSOLIDATOR trial pass may then label the repeated logic as KEEP SEPARATE, MOVE LOGIC, PACK TOGETHER, PARK, REJECT, or WATCH AGAIN.
+
+CONSOLIDATOR should only propose packing after repeated findings show stable ambiguity, duplicate logic, or overlap that should be packed into a cleaner parent gate.
 
 ## 9. Short Rule
 
 Hindsight explains what the run means.
 
 Next Spin Sequencer Gate proposes the next gate sequence.
+
+CONSOLIDATOR trial pass reviews repeated overlap and packing candidates.
 
 Omega closes the loop.

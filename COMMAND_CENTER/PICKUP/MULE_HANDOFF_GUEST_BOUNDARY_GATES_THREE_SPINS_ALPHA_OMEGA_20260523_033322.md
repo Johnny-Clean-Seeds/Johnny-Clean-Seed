@@ -152,4 +152,21 @@ Core update:
 - Ideas must be routed by boss / parent importance before they interrupt active work.
 - CONSOLIDATOR remains inactive until ambiguity/overlap is proven through spins.
 
+---
+
+# APPENDED CURRENT UPDATE - CONSOLIDATOR Trial / Watch Gate - 20260523
+
+Read:
+`COMMAND_CENTER\PICKUP\MULE_PACKET_ADDENDUM_CONSOLIDATOR_TRIAL_20260523.md`
+
+Current change:
+- CONSOLIDATOR is now trial/watch support behavior, not full authority.
+- It runs after Hindsight Lens and Next Spin Sequencer Gate, before Omega closes.
+- It labels repeated gate logic as KEEP SEPARATE, MOVE LOGIC, PACK TOGETHER, PARK, REJECT, or WATCH AGAIN.
+- It does not merge gates, promote doctrine, replace proof, replace Sequencer, replace Alpha Omega, replace Final Judge, or rewrite active authority.
+
+Current order:
+
+`Hindsight Lens -> Next Spin Sequencer Gate -> CONSOLIDATOR Gate trial pass -> Omega closes -> Final Judge / final clean status`
+
 

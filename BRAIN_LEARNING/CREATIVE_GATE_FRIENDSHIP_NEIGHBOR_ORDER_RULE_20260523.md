@@ -142,11 +142,17 @@ No gate should:
 
 ## 6. CONSOLIDATOR Boundary
 
-CONSOLIDATOR is explicitly up the sleeve.
+CONSOLIDATOR was explicitly held up the sleeve in this save.
 
-It is not installed here.
-It is not made active here.
-It is not used to merge or gobble gates here.
+A later support rule brings it out only in trial/watch mode:
+
+`BRAIN_LEARNING/CONSOLIDATOR_GATE_TRIAL_WATCH_RULE_20260523.md`
+
+This does not make Creative Gate obsolete.
+
+Creative Gate still owns creative source ideas, wildcard candidates, emergence signals, and rough candidate shaping.
+
+CONSOLIDATOR only reviews repeated ambiguity, overlap, duplicate logic, and better homes after evidence exists.
 
 It may return later only when:
 - several gate neighbors are stable;
@@ -155,7 +161,9 @@ It may return later only when:
 - a separate request or gate run activates it.
 
 Short form:
-CONSOLIDATOR is held reserve, not injected.
+Creative spawns and shapes candidates.
+
+CONSOLIDATOR watches repeated overlap after evidence.
 
 ## 7. Proof Standard
 

@@ -6478,3 +6478,38 @@ Boundary:
 - no dashboard;
 - no full front-door/root-identity sync in this pass.
 
+## 2026-05-23 — CONSOLIDATOR Gate Trial / Watch Save
+
+Saved CONSOLIDATOR as support gate trial/watch behavior after a three-loop proof and self-weight pass.
+
+Reason:
+CONSOLIDATOR had appeared repeatedly as a reserve/watch idea across Creative Gate, Guest Boundary review, Hindsight order, and Next Spin Sequencer. The fit is strong enough for a trial/watch pass, not strong enough for full authority or automatic rewrites.
+
+Saved:
+- `BRAIN_LEARNING\CONSOLIDATOR_GATE_TRIAL_WATCH_RULE_20260523.md`
+- `MULE_WORKSHOP\CONSOLIDATOR_GATE_TRIAL_WATCH_20260523\`
+- `COMMAND_CENTER\PICKUP\MULE_PACKET_ADDENDUM_CONSOLIDATOR_TRIAL_20260523.md`
+- `PROOF_HISTORY\CONSOLIDATOR_GATE_TRIAL_WATCH_SAVE_RECEIPT_20260523.txt`
+
+Updated:
+- `BRAIN_LEARNING\NEXT_SPIN_SEQUENCER_GATE_CREATIVE_ROOM_TECH_RULE_20260523.md`
+- `BRAIN_LEARNING\GUEST_BOUNDARY_GATE_SET_THREE_SPIN_REVIEW_RULE_20260523.md`
+- `BRAIN_LEARNING\CREATIVE_GATE_FRIENDSHIP_NEIGHBOR_ORDER_RULE_20260523.md`
+- `HOUSE_WORK\CHAT_COCKPIT\CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md`
+- `COMMAND_CENTER\PICKUP\MULE_HANDOFF_GUEST_BOUNDARY_GATES_THREE_SPINS_ALPHA_OMEGA_20260523_033322.md`
+
+Meaning:
+- live trial order is `Hindsight Lens -> Next Spin Sequencer Gate -> CONSOLIDATOR Gate trial pass -> Omega closes -> Final Judge / final clean status`;
+- CONSOLIDATOR labels repeated gate logic as KEEP SEPARATE, MOVE LOGIC, PACK TOGETHER, PARK, REJECT, or WATCH AGAIN;
+- it cannot merge, rewrite, judge PASS/FAIL, close loops, replace proof, replace Sequencer, replace Alpha Omega, or replace Final Judge.
+
+Boundary:
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no doctrine promotion;
+- no automation;
+- no dashboard;
+- no old shed restoration;
+- no delete;
+- stronger status requires future live use.
+

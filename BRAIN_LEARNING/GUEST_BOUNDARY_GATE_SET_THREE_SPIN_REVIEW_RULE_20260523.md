@@ -182,7 +182,7 @@ Spin 3 does not activate CONSOLIDATOR automatically. It prepares a clean consoli
 ## 4. CONSOLIDATOR Gate Candidate
 
 Status:
-CANDIDATE / NOT ACTIVE UNTIL AFTER SPINS
+TRIAL / WATCH MODE AFTER THREE-LOOP PROOF / NOT FULL AUTHORITY
 
 Job:
 Find ambiguity, overlap, duplicate logic, and scattered rule fragments, then place old gate logic into the better gate or add new logic to the gate that naturally owns it.
@@ -194,12 +194,29 @@ Consolidator does:
 - preserve distinct jobs when merging would flatten useful difference;
 - identify new friends/neighbors when consolidation exposes them.
 
+Trial output labels:
+- KEEP SEPARATE;
+- MOVE LOGIC;
+- PACK TOGETHER;
+- PARK;
+- REJECT;
+- WATCH AGAIN.
+
+Repeated signal standard:
+- one spin: WATCH AGAIN;
+- two spins: LIKELY PATTERN;
+- three spins: CONSOLIDATION CANDIDATE.
+
 Blocked:
 - flattening living gates too early;
 - killing distinct gate jobs;
 - claiming one master gate solves all;
 - consolidating without evidence from spins;
 - rewriting doctrine.
+
+Trial placement:
+
+`Hindsight Lens -> Next Spin Sequencer Gate -> CONSOLIDATOR Gate trial pass -> Omega closes`
 
 ## 5. Alpha Omega Gate Candidate
 
