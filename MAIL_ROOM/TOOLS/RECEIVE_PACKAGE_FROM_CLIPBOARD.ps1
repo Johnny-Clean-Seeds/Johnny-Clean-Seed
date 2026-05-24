@@ -1,6 +1,6 @@
 $ErrorActionPreference = "Stop"
 
-$Root = "$env:USERPROFILE\Desktop\123\MAIL_ROOM"
+$Root = (Resolve-Path -LiteralPath (Join-Path $PSScriptRoot "..")).Path
 $Delivered = Join-Path $Root "DELIVERED"
 $Receipts = Join-Path $Root "RECEIPTS"
 $Rejected = Join-Path $Root "REJECTED"

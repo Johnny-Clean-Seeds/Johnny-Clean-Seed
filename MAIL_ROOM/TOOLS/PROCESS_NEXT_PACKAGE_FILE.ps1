@@ -4,7 +4,7 @@ param(
 
 $ErrorActionPreference = "Stop"
 
-$MailRoot = "$env:USERPROFILE\Desktop\123\MAIL_ROOM"
+$MailRoot = (Resolve-Path -LiteralPath (Join-Path $PSScriptRoot "..")).Path
 $Incoming = Join-Path $MailRoot "INCOMING_PACKAGES"
 $Delivered = Join-Path $MailRoot "DELIVERED"
 $Receipts = Join-Path $MailRoot "RECEIPTS"

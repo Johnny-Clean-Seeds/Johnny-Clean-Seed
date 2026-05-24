@@ -38,3 +38,14 @@ Thumbs.db
 
 # Local-only source custody routed from parent drop zone
 MULE_LOCAL_ONLY/ROOT_TANSCRIPTS_LOCAL_ONLY_20260524_100700/
+
+# MAIL_ROOM runtime payloads are local by default.
+# Commit protocol, docs, and tools. Do not accidentally commit fresh inbox payloads.
+MAIL_ROOM/INCOMING_PACKAGES/*
+MAIL_ROOM/DELIVERED/*
+MAIL_ROOM/PROCESSED/*
+MAIL_ROOM/REJECTED/*
+MAIL_ROOM/LETTER_DROP/*
+MAIL_ROOM/LETTER_DROP_PROCESSED/*
+MAIL_ROOM/LETTER_DROP_REJECTED/*
+MAIL_ROOM/CHAT_REPLY_HOLD/*

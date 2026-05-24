@@ -7,7 +7,7 @@ param(
 $ErrorActionPreference = "Stop"
 
 $ChatUrl = "https://chatgpt.com/g/g-p-69f7c56c311c81919d718080a8d79305/c/6a0ea350-a848-83ea-8808-351d2601be4d"
-$MailRoot = "$env:USERPROFILE\Desktop\123\MAIL_ROOM"
+$MailRoot = (Resolve-Path -LiteralPath (Join-Path $PSScriptRoot "..")).Path
 $DeliveredDir = Join-Path $MailRoot "DELIVERED"
 $ReceiptsDir = Join-Path $MailRoot "RECEIPTS"
 $ReplyHold = Join-Path $MailRoot "CHAT_REPLY_HOLD"

@@ -4,7 +4,8 @@ param(
 
 $ErrorActionPreference = "Stop"
 
-$Receiver = "$env:USERPROFILE\Desktop\123\MAIL_ROOM\TOOLS\RECEIVE_PACKAGE_FROM_CLIPBOARD.ps1"
+$MailRoot = (Resolve-Path -LiteralPath (Join-Path $PSScriptRoot "..")).Path
+$Receiver = Join-Path $MailRoot "TOOLS\RECEIVE_PACKAGE_FROM_CLIPBOARD.ps1"
 
 if (-not (Test-Path -LiteralPath $Receiver)) {
     throw "Missing receiver: $Receiver"

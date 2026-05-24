@@ -1,0 +1,32 @@
+MAIL ROOM PULSE PRIORITY REPAIR RECEIPT
+Date: 2026-05-24
+Repo: C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz
+
+Verdict: PASS WITH GUARDRAILS
+
+Completed:
+- Re-walked the 123 root and repo mail/drop lanes.
+- Verified the 123 root had no loose files after the prior ChatBots.txt custody move.
+- Found active MAIL_ROOM scripts hard-coded to C:\Users\13527\Desktop\123\MAIL_ROOM.
+- Updated active MAIL_ROOM scripts to resolve MAIL_ROOM from their own script location.
+- Added MAIL_ROOM\README_START_HERE.md.
+- Added MAIL_ROOM\INBOX_PULSE_PRIORITY_PROTOCOL_20260524.md.
+- Added BRAIN_LEARNING\MAIL_ROOM_PULSE_PRIORITY_INBOX_RULE_20260524.md.
+- Added HOUSE_WORK\ISSUE_MAPS\ROOT_DROP_AND_MAIL_ROOM_CONCURRENCY_WALKTHROUGH_20260524.md.
+- Moved old live incoming mail from MAIL_ROOM\INCOMING_PACKAGES\notes.txt to MAIL_ROOM\PROCESSED\notes_triaged_root_cause_20260524.txt.
+- Added .gitignore rules so fresh MAIL_ROOM runtime payloads are local by default.
+- During final pulse, found root drop C:\Users\13527\Desktop\123\insepction.txt.
+- Moved it into MAIL_ROOM\PROCESSED\ROOT_DROP_insepction_triaged_20260524.txt.
+- Added BRAIN_LEARNING\EXISTING_STRUCTURE_INSPECTION_BEFORE_INVENTION_GATE_20260524.md.
+- During final pulse, found root drop C:\Users\13527\Desktop\123\notice.txt.
+- Moved it into MAIL_ROOM\PROCESSED\ROOT_DROP_notice_triaged_20260524.txt.
+- Added modify-without-stopping behavior to the inbox protocol and support rule.
+
+Boundary:
+- No always-running watcher was installed.
+- No ACTIVE_GUIDES rewrite.
+- No CURRENT_TRUTH_INDEX rewrite.
+- No source/person bulk moved into Git.
+
+Remaining guardrail:
+- CURRENT_TRUTH_INDEX.txt and AGENTS.md still contain older path references. Repair separately with active-guide/current-truth scope approval.

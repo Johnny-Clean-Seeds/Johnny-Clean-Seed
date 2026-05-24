@@ -1,6 +1,7 @@
 $ErrorActionPreference = "Stop"
 
-$Pickup = "$env:USERPROFILE\Desktop\123\MAIL_ROOM\TOOLS\PICKUP_TO_MAIL_ROOM.ps1"
+$MailRoot = (Resolve-Path -LiteralPath (Join-Path $PSScriptRoot "..")).Path
+$Pickup = Join-Path $MailRoot "TOOLS\PICKUP_TO_MAIL_ROOM.ps1"
 
 if (-not (Test-Path -LiteralPath $Pickup)) {
     throw "Missing pickup helper: $Pickup"

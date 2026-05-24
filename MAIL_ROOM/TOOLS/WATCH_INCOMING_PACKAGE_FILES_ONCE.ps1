@@ -6,7 +6,7 @@ param(
 
 $ErrorActionPreference = "Stop"
 
-$MailRoot = "$env:USERPROFILE\Desktop\123\MAIL_ROOM"
+$MailRoot = (Resolve-Path -LiteralPath (Join-Path $PSScriptRoot "..")).Path
 $Incoming = Join-Path $MailRoot "INCOMING_PACKAGES"
 $Processor = Join-Path $MailRoot "TOOLS\PROCESS_NEXT_PACKAGE_FILE.ps1"
 
