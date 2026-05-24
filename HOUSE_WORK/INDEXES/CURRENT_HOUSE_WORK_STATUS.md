@@ -6448,3 +6448,33 @@ Boundary:
 - no shed or bridge restoration;
 - no doctrine promotion.
 
+## 2026-05-23 — Problem Solving 101 / Question Before Broadening Living Order
+
+Saved a soft/live-use support order from the root porch source `GPT_THOUGHTS.txt`.
+
+Reason:
+The source contained a clean recurring correction: before broadening, solving, expanding, or turning source into rules, question the object first. The worker should ask what the object is, what changed, what is missing, buried, implied, misnamed, misplaced, needs proof, and what would make the fix real.
+
+Saved:
+- `BRAIN_LEARNING\PROBLEM_SOLVING_101_QUESTION_BEFORE_BROADENING_RULE_20260523.md`
+- `SOURCE_TRANSFER\TEXT_INCOMING\PROBLEM_SOLVING_101_LIVING_ORDER_REVIEW_20260523\GPT_THOUGHTS.txt`
+- `SOURCE_TRANSFER\TEXT_INCOMING\PROBLEM_SOLVING_101_LIVING_ORDER_REVIEW_20260523\SOURCE_CUSTODY_LEDGER.md`
+- `MULE_WORKSHOP\PROBLEM_SOLVING_101_LIVING_ORDER_REVIEW_20260523\`
+- `HOUSE_WORK\CHAT_COCKPIT\CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md`
+- `HOUSE_WORK\BOSS_CYCLE_ACTIVE_STACK_TEMPLATE.md`
+- `COMMAND_CENTER\CURRENT_CONTEXT_CART\YOU_GOT_MAIL__PORCH_EVENT_TRIGGER_PROBLEM_SOLVING_101_20260523.md`
+
+Meaning:
+- Question Before Broadening becomes soft/live-use support behavior;
+- the Genie-in-the-Bottle idea is adapted into Careful Wish Teaching;
+- source ideas are routed as ADOPT / ADAPT / PARK / BLOCK / PROOF / LEAVE-BE;
+- small tasks stay small, boss tasks still use patch-through, and repeated failures still fire Smoke Break first.
+
+Boundary:
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no doctrine promotion;
+- no automation;
+- no dashboard;
+- no full front-door/root-identity sync in this pass.
+

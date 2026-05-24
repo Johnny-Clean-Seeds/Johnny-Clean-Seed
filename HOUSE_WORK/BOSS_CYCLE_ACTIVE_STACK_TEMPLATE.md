@@ -9,6 +9,40 @@ Use this worksheet when fighting bosses so the assistant does not flatten a pile
 Branch:
 Commit:
 
+## Problem Solving 101 preflight
+
+### Active object
+
+### Object job
+
+### What changed / trigger
+
+### Object questions
+
+| Question | Answer |
+|---|---|
+| What is missing? |  |
+| What is buried? |  |
+| What is implied but unnamed? |  |
+| What is duplicated or overgrown? |  |
+| What is misnamed? |  |
+| What is misplaced? |  |
+| What needs proof? |  |
+| What would make the fix real? |  |
+| What should not be touched? |  |
+
+### Scale selector
+
+| Scale | Selected? | Reason |
+|---|---|---|
+| Small direct ask |  |  |
+| Ambiguous ask / wording fork |  |  |
+| Review / broaden object |  |  |
+| Medium repair / mini patch-through |  |  |
+| Big boss / 17-route patch-through |  |  |
+| Repeated failure / Smoke Break first |  |  |
+| Repo/local/proof lane |  |  |
+
 ## Intake
 
 ### Raw seen items

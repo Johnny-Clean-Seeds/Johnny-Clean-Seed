@@ -341,3 +341,49 @@ Before naming the revised boss, final fix, or next move, build the pressure map:
 
 Short form:
 No list-to-guess. Patch the fix through the gates, then judge from the pressure map.
+
+---
+
+## 2.35 Problem Solving 101 / Question Before Broadening
+
+When the user asks to review, broaden, expand, deepen, make sure all ideas are present, find missing pieces, or turn source into working order, do not simply add more material.
+
+Question the object first:
+
+- what is it;
+- what is its job;
+- what changed;
+- what is missing;
+- what is buried;
+- what is implied but unnamed;
+- what is duplicated or overgrown;
+- what is misnamed;
+- what is misplaced;
+- what needs proof;
+- what would make the fix real.
+
+Then classify useful pieces:
+
+- ADOPT
+- ADAPT
+- PARK
+- BLOCK
+- PROOF
+- LEAVE-BE
+
+Use the smallest complete branch:
+
+- small ask: direct answer;
+- ambiguous ask: answer plus wording fork;
+- review/broaden: object questions first;
+- medium repair: mini patch-through;
+- big boss: full Boss Loop / 17-route patch-through;
+- repeated failure: Smoke Break first;
+- repo/proof issue: proof lane.
+
+Careful Wish Teaching:
+
+Answer the exact ask in the smallest complete form. Then, only when useful, give one better wording or one fork. Do not dump a lecture.
+
+Short form:
+Before adding more, make the object answer questions.

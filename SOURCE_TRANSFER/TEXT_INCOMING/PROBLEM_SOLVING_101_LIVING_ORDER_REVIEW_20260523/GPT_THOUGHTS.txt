@@ -1,0 +1,941 @@
+Taken. I’m treating the Git update as the current project state for this chat.
+
+Re-thought version:
+
+The idea is a **Genie-in-the-Bottle Teaching Gate**.
+
+The AI should be powerful, but it should not blast the user with the whole library every time they ask for one thing. It should grant the request in the smallest complete form first. Then, after the answer, it should help the user sharpen the wish.
+
+The pattern is:
+
+User asks something.
+
+AI answers the actual ask.
+
+AI names the likely meaning it followed.
+
+AI gives one or two better ways the user could phrase it if they wanted a different result.
+
+AI does not dump a giant lesson unless the user asks for the lesson.
+
+The purpose is to teach people how to think and ask more formally without making them feel stupid or buried. The AI becomes a coach through small corrections, not a professor throwing a textbook.
+
+A clean rule shape would be:
+
+**Grant the wish as asked. Then improve the wish.**
+
+So instead of over-answering, the assistant says something like:
+
+“I answered this as a setup problem. If you meant account linking instead, ask: ‘Show me how to connect my GitHub account inside the app.’ If you meant repo saving, ask: ‘Show me how to make the mule save this repo to Git.’”
+
+That teaches better verbs, better scope, and better intent.
+
+For our house, this fits as a soft suit because it fixes several repeated failures:
+
+It blocks command dumps.
+
+It slows the AI down when the user’s wording changes.
+
+It helps detect topic switches.
+
+It keeps the user’s actual ask in front.
+
+It teaches prompt precision through use, not lecture.
+
+Final clean form:
+
+**The assistant should act like a careful genie: answer the exact wish, do not assume ten extra wishes, then teach the user how to word the next wish better.**
+
+
+
+The house looks **stronger, but still front-door dirty**.
+
+I can see the newest public GitHub movement. Latest visible commit on `main` is `73d8f8b`, message: **“Add soft suit patch-through workout.”** GitHub shows it after the earlier `6f1f234` smoke-break/topic-switch cleanup commit. ([GitHub][1])
+
+That newest commit is good. It directly fixes the thing you caught: the 17-route / Boss Loop cannot be a big scan list followed by a guessed fix. The new file says the active fix must be carried through every route, marked, pressure-mapped, and only then used to name the revised boss or next move. ([GitHub][2])
+
+So the house now feels less like “collect a bunch of smart rules” and more like **a machine that forces the fix to walk through the house before it gets trusted**. That is a real structural improvement.
+
+But the house still has one loud stale-pressure point: the public README still says the current working home is `C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz`. ([GitHub][3]) That conflicts with the current live working reality we have been using around `C:\Users\13527\Desktop\123` and the repo under it. That does not break the house, but it makes the front door muddy.
+
+The current anchor is stable in spirit: it says continue normal project work, classify the next issue by alarm group/phase/placement, save durable project material locally and to Git, and do not open broad rule piles or rewrite doctrine without proof. ([GitHub][4]) That is good. It means the house is not asking for a giant rebuild. It is asking for narrow, selected work.
+
+I also checked for the Genie-in-the-Bottle idea by obvious public names/phrases and did not find it publicly indexed under that exact wording. So I would treat that idea as **fresh chat/source input**, not yet proven installed, unless the mule saved it under a different name.
+
+Current feel:
+
+The house is **alive, responsive, and learning from correction faster**.
+
+The mule/Git bridge is working.
+
+The smoke-break correction is installed.
+
+The patch-through correction is installed.
+
+The Boss Loop is now sharper.
+
+The main weakness is no longer “missing rules.” The weakness is **pointer truth and front-door clarity**.
+
+Best next move: do not add more big rules. Run one narrow front-door sync that updates the current root/repo/account wording so future chats and mule sessions know where they are standing.
+
+[1]: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/commits/main "Commits · Johnny-Clean-Seeds/Johnny-Clean-Seed · GitHub"
+[2]: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/commit/73d8f8b "Add soft suit patch-through workout · Johnny-Clean-Seeds/Johnny-Clean-Seed@73d8f8b · GitHub"
+[3]: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/tree/main "GitHub - Johnny-Clean-Seeds/Johnny-Clean-Seed · GitHub"
+[4]: https://raw.githubusercontent.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/main/ACTIVE_ANCHOR.txt "raw.githubusercontent.com"
+
+
+
+
+
+
+
+
+I walked it deeper from the public GitHub side. This is **not full local PASS** because I cannot see your live Windows filesystem, local untracked files, local receipt hashes, or whether your local working tree is clean. This is a **public house deep walk with current visible evidence**.
+
+Current public state: GitHub shows the repo on `main` with **527 commits** and the root contains the major rooms: `ACTIVE_GUIDES`, `BRAIN_LEARNING`, `COMMAND_CENTER`, `GPT_Prompts/CURRENT`, `HOUSE_WORK`, `MULE_WORKSHOP`, `PROOF_HISTORY`, `PUBLIC_NOTES`, `PORCH_WATCHER`, and others. ([GitHub][1]) The latest visible important repair is commit `73d8f8b`, **“Add soft suit patch-through workout,”** which changed 10 files and installed `BRAIN_LEARNING/SOFT_SUIT_PATCH_THROUGH_RULE_20260523.md`. ([GitHub][2])
+
+The house feels like this now: **it has become self-correcting, but it is carrying too many doorway signs from different growth stages.** The strongest gains are real: smoke-break correction, patch-through Boss Loop correction, mule/Git proof, chat soft suit compression, and human-scale pacing. The strongest weakness is still **front-door truth drift**: old project-home language still points to `C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz`, while current live conversation and mule work have moved around `C:\Users\13527\Desktop\123` and the repo under it. README still names the old working home, and AGENTS still names the old approved project root. ([GitHub][3]) ([GitHub][4])
+
+The current authority split is sound. `CURRENT_TRUTH_INDEX.txt` explicitly says it is orientation/source routing, while `ACTIVE_ANCHOR.txt` holds the current active ball when present; it also warns that old action-looking text inside the index is historical unless restated by ACTIVE_ANCHOR or the current user command. ([GitHub][5]) Current `ACTIVE_ANCHOR.txt` says continue normal project work using the full method stack, classify the next issue by alarm group/phase/placement, and blocks broad new rule piles, doctrine rewrites, ACTIVE_GUIDES rewrites, CURRENT_TRUTH_INDEX rewrites, automation, and promotion without proof. ([GitHub][6])
+
+The new patch-through rule is the correct newest behavior repair. It says the 17-route suit must not become “big scan list → guessed fix.” It requires every boss loop to carry the proposed fix through every route, mark what each route does to the fix, build a pressure map, and only then name the revised boss/fix/next move. ([GitHub][7]) The method report says the corrected mechanic is: active boss → proposed fix → route pressure marks → pressure map → revised fix → proof → worn → walk-around → next boss. ([GitHub][8])
+
+So I ran this walk with that frame.
+
+Active boss: **House Orientation / Working Root / Human-Scale Control Boss**
+
+Current proposed fix going through all paths: **Make the house easier to enter, easier to route, and harder to misread by syncing root/repo/account/path language, using patch-through instead of list-to-guess, and capturing the Genie-in-the-Bottle teaching idea as human-scale guidance rather than another giant rule pile.**
+
+Soft suit used: **17-Route House Walk + Patch-Through Rule**
+
+Boundary: public GitHub evidence only; no local PASS; no doctrine rewrite; no ACTIVE_GUIDES rewrite; no CURRENT_TRUTH_INDEX rewrite; no command dump; no broad cleanup.
+
+## 1. Root / Front Door Anchors
+
+What I see: README is a strong front door in concept. It tells the assistant to start with `CURRENT_TRUTH_INDEX`, then `ACTIVE_ANCHOR`, then active guide files, then AGENTS only for local/Codex-style work. It also cleanly says public reach is a window and the repo home is the room. ([GitHub][3])
+
+What I do not see: a current, clean explanation of the newer `Desktop\123` reality. The README still says the current working home is `C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz`. AGENTS repeats that old project home path for Codex/local file-lane work. ([GitHub][3]) ([GitHub][4])
+
+What I would like to see: a small front-door sync that separates:
+
+`Desktop\123` = mule porch / root hub / outside work area.
+`Desktop\123\Jxhnny_Kl33N_Seedz` = current active repo if that is now the proven repo.
+Old `Jxhnny_Kleen_C3dz` path = old/legacy/previous local home unless still active somewhere.
+GitHub public = public mirror/window, not local room.
+
+Patch mark: **EXPAND + PROOF**. The path-pointer fix must include root, repo, account, and public/local identity. It needs mule/local proof before full PASS.
+
+## 2. Brain Learning Rules
+
+What I see: `BRAIN_LEARNING` is huge and alive. It contains rules for adoption, correction handling, broad commands, gate boundaries, Git save, mule boundaries, human-scale growth, and many route-specific repairs. The visible file list shows dense growth across assistant behavior, mule routing, Git save, source handling, and recursive process control. ([GitHub][9]) ([GitHub][9]) ([GitHub][9])
+
+What I do not see: one compact “current living behavior card” inside Brain Learning that says what rules are active for this exact moment. The rules exist, but a weak assistant could drown in the list.
+
+What I would like to see: not more rules. A small “current worn suit index” or “top carry stack” that points to only the current live behaviors: smoke-break, patch-through, human-scale teaching, local/Git boundary, root identity, proof language, and Final Judge.
+
+Patch mark: **NARROW**. Brain Learning does not need more mass. It needs a small current-carry pointer.
+
+## 3. Sorting Bench Work Surfaces
+
+What I see: `HOUSE_WORK` has many structured rooms: `CHAT_COCKPIT`, `INDEXES`, `ISSUE_MAPS`, `PARKED`, `SUIT_SYSTEM`, `SYSTEM_LINKS`, `TODO`, `TOOLS`, and the Boss Cycle template. ([GitHub][10]) The Boss Cycle template is good: it forces raw seen items, atomic items, groups, rank, one boss, smallest clean fix, neighbor check, proof, wear, walk-around, verdict, and parked next-cycle candidates. ([GitHub][11])
+
+What I do not see: proof that every recent broad concept has gone through this Boss Cycle template. The method exists; use consistency is the question.
+
+What I would like to see: for each big correction, a short Boss Cycle row. Not a giant report. Just: boss, proposed fix, patch-through marks, revised fix, proof, next boss.
+
+Patch mark: **KEEP + PROOF**. The bench is structurally right; now it needs repeated wearing.
+
+## 4. Parking / Future Reserve
+
+What I see: House status says TODO and parked rooms exist and are support only, not command authority. It also says work starts only when current user command or ACTIVE_ANCHOR selects it. ([GitHub][12]) Creative/future-plan material was deliberately held as tactical reserve, with CONSOLIDATOR “up the sleeve,” not injected as active gate. ([GitHub][12])
+
+What I do not see: a single current “parked suit ideas” board connected to the 17-route walk. The 17-route rule says parked suit ideas need name, source route, job, boundary, return trigger, proof needed, and next-use condition. ([GitHub][13]) I do not see a public proof that every current parked idea has that shape.
+
+What I would like to see: a small `PARKED_SUIT_IDEAS_CURRENT.md` or equivalent, not a giant backlog. It should hold Genie gate, root identity sync, path pointer sync, and any future boss candidates with return triggers.
+
+Patch mark: **EXPAND**. Parking must connect to patch-through so ideas do not float.
+
+## 5. Proof Receipts
+
+What I see: `PROOF_HISTORY` is massive and disciplined. It has backups, receipts, proof runs, duplicate-commit clarifications, anchor sync receipts, algorithm candidate proofs, and many historical receipts. ([GitHub][14]) The active guide states that a rule existing is not proof that it fired, and Deep Clean/PASS claims need visible proof, reports, receipts, ledgers, and exact checked file state. ([GitHub][15])
+
+What I do not see: local receipt hash validation from inside your machine for this walk. Public GitHub can show committed files, but it cannot prove the local receipt SHA or working tree cleanliness.
+
+What I would like to see: for the next mule/local save, a short receipt that proves local path, repo root, branch, remote, commit hash, final clean status, and files touched.
+
+Patch mark: **PROOF**. Public proof is useful; local proof decides local PASS.
+
+## 6. Status / Index Compass
+
+What I see: the status/index structure is mature. `CURRENT_HOUSE_WORK_STATUS.md` correctly says it is navigation support only and not authority over `CURRENT_TRUTH_INDEX`, `ACTIVE_ANCHOR`, README, or AGENTS. ([GitHub][12]) It also repeatedly warns that ACTIVE_ANCHOR is the active-ball file, while older action-looking status text is historical unless restated. ([GitHub][12])
+
+What I do not see: current status compressed for the latest `73d8f8b` patch-through state in the root front door. The house status records much, but the fresh worker still has to know where to look.
+
+What I would like to see: a short current status card that says: latest current public head, active boss, active soft suit, next allowed move, blocked moves, and path identity state.
+
+Patch mark: **KEEP + NARROW**. The compass works, but the current pointer needs shorter visible shape.
+
+## 7. Gate-Named Surfaces
+
+What I see: the house is gate-heavy, but the newer rules are trying to stop gate chaos. The Gate Judge / Role Boundary line in status says each gate must do only its own job, receive from the prior gate, and prepare clean output for the next gate. ([GitHub][12]) The patch-through rule strengthens this by forcing gates/routes to mark how they affect the fix before a conclusion. ([GitHub][7])
+
+What I do not see: a small visual/order card for which gates fire first during pressure. There is a risk of “all gates yell at once.”
+
+What I would like to see: a gate firing order for common pressure types: user correction, file/path drift, mule return, source idea, proof failure, chat fog, local tool failure.
+
+Patch mark: **EXPAND**. Gate names are strong; firing order needs to stay visible.
+
+## 8. Creative / Wildcard / Emergence Surfaces
+
+What I see: the Creative Room exists as a support routing concept, not as authority. Status says Creative Room can shape candidate rooms/tools/methods when they fit the larger model, but cleanup, fit testing, proof, and Final Judge are required. ([GitHub][12]) Creative Gate and neighbor order were saved without doctrine promotion or active guide rewrites. ([GitHub][12])
+
+What I do not see: current use of the Genie-in-the-Bottle idea in a saved public file under that name. I found the related human-scale rule, but not “Genie” or “Grant the wish” indexed publicly under those terms. The human-scale rule says if the system gets smarter, it must become a better teacher. ([GitHub][16])
+
+What I would like to see: capture Genie as a **named teaching metaphor** under the human-scale rule family, not as a separate giant doctrine. It should be a clean helper: “answer the wish, then teach the wording.”
+
+Patch mark: **KEEP + PARK/ADAPT**. The idea fits; it should be adapted into human-scale guidance.
+
+## 9. Rope / Map / Link / Bridge Surfaces
+
+What I see: the house has many bridge surfaces: GitHub/public, Command Center, Child Shell, Remote Door, GPT_Prompts, porch watcher, mule workshop. `COMMAND_CENTER` has rooms for assistant relay, child shell, current context cart, handoff inbox, pickup, receipts, remote door, scripts, snapshots, teleporters, and TODO. ([GitHub][17])
+
+What I do not see: one clean bridge map that a fresh assistant can use without mixing layers: chat, mule app, local filesystem, Git repo, GitHub account, GitHub public, Command Center, Child Shell.
+
+What I would like to see: a “bridge identity ladder”:
+
+Chat request.
+Mule app/session.
+Local root/porch.
+Actual repo.
+Git remote.
+GitHub account/auth.
+Public mirror.
+Proof receipt.
+
+Patch mark: **PARENT**. This route shows the parent boss behind the path issue: bridge identity separation.
+
+## 10. Source / Original / Ore Surfaces
+
+What I see: the house has good source discipline. Status shows a Founding Original plus Clean Translation linked-pair rule saved on 2026-05-22, requiring important raw ideas/source notes/user wording to remain linked to a clean working form. ([GitHub][12]) It also shows source-safe intake for transcripts: raw transcript stays in `Desktop\123`, while Git stores note, receipt copy, hashes, record, index/status update, and proof only. ([GitHub][12])
+
+What I do not see: Genie idea captured yet as founding original + clean translation. It was raw chat gold. It should not be lost, but it should not become doctrine by excitement.
+
+What I would like to see:
+
+Founding original: your messy Genie/bottle wording.
+Clean translation: “answer exact request, then teach wording/formal thinking in one small step.”
+Status: soft suit candidate / human-scale teaching helper / needs live-use proof.
+
+Patch mark: **EXPAND**. The current proposed fix must include source capture for the Genie idea.
+
+## 11. Mule / Handoff Surfaces
+
+What I see: mule boundaries are much improved. AGENTS says Codex is a local evidence collector and controlled file worker, not final authority, and it must report exact paths, hashes, mismatches, unknowns, and conclusions as evidence/inference/unknown. ([GitHub][4]) MULE_WORKSHOP has dedicated areas like `ASSISTANT_TO_MULE`, `MULE_TO_ASSISTANT`, `RECEIPTS`, `ROOT_ISSUE_HISTORY_DIAGNOSIS_AND_FIX`, `SOFT_SUIT_PATCH_THROUGH_WORKOUT`, and `TOPIC_SWITCH_ACCOUNT_LINK_CLEANUP`. ([GitHub][18])
+
+What I do not see: AGENTS updated to the newer `Desktop\123` / `Jxhnny_Kl33N_Seedz` reality. It still says Codex approved project root is `C:\Users\13527\Desktop\Jxhnny_Kleen_C3dz`. ([GitHub][4]) The older Mule 123 doorway rule also names a specific `MULE_LEVEL2_FINISH_HOME` and old Mr.Kleen repo path. ([GitHub][19])
+
+What I would like to see: one current mule entry rule that says: “Start at `Desktop\123` only as porch/root. Identify the active repo before Git actions. Account linking is not repo finding. Repo finding is not account linking.”
+
+Patch mark: **PARENT + PROOF**. This is not just path drift; it is mule identity/authority routing.
+
+## 12. Recent Pressure Surfaces
+
+What I see: recent pressure is being converted into rules instead of apologies. The smoke-break/topic-switch cleanup commit installed a rule after the account-link failure, and the new patch-through commit fixed the list-to-guess weakness. ([GitHub][20]) ([GitHub][2]) The status file also records “User Correction to Operating Rule Latch,” saying direct repeated-behavior corrections should become do-this-not-that operating-rule candidates. ([GitHub][12])
+
+What I do not see: a compact “pressure lessons currently worn” card. The lessons are saved, but not all visible together.
+
+What I would like to see: current pressure carry stack:
+
+No command dump after surface rejection.
+Find topic switch.
+Patch-through every boss fix.
+Human-scale teaching.
+No broad rule piles from pain.
+Save durable house material, but respect “do not remember/save” corrections.
+
+Patch mark: **KEEP + NARROW**. The correction loop works; it needs concise carry.
+
+## 13. Quiet Old Surfaces
+
+What I see: quiet old surfaces are the main fog risk. `CURRENT_TRUTH_INDEX` still contains older path and install-history text, but it opens with a strong fog label telling assistants not to treat old action-looking text as live command unless restated. ([GitHub][5]) `CURRENT_HOUSE_WORK_STATUS` also says live commit position should use git log, not this support index. ([GitHub][12])
+
+What I do not see: every old path quarantined or marked as historical at the front door.
+
+What I would like to see: do not mass rewrite old history. Instead add a top-level current path note that supersedes old path references unless local proof says otherwise.
+
+Patch mark: **NARROW**. Do not clean old history. Add current pointer only.
+
+## 14. Large Dense Surfaces
+
+What I see: ACTIVE_GUIDES are powerful and dense. README_START_HERE says the user should not need to read every rule before starting; the assistant should use the heavier doctrine only when the task needs it. ([GitHub][15]) Wrap Guide says it controls the assistant walk-through and alignment check guards against drift, skipped proof, unclear roles, early scaling, and dirty milk. ([GitHub][21])
+
+What I do not see: a reason to rewrite ACTIVE_GUIDES right now. ACTIVE_ANCHOR explicitly blocks ACTIVE_GUIDES rewrite without proof. ([GitHub][6])
+
+What I would like to see: leave dense guides alone. Put current lightweight behavior in front-door/current-carry surfaces.
+
+Patch mark: **BLOCK**. Do not repair current issue by rewriting large guides.
+
+## 15. Tiny Pointer / Stub Surfaces
+
+What I see: tiny pointers are doing real work: README, ACTIVE_ANCHOR, AGENTS, chat soft suit map, current status, and Boss template. The Chat Soft Suit map is excellent in shape: one active map, one idea ledger, stable names, READY waits, CURRENT is user-only, every route returns home. ([GitHub][22])
+
+What I do not see: the same clean two-file/front-door shape for the broader house current state. Chat Soft Suit solved this for GPT_Prompts; Mr.Kleen root could use the same “one current map / one idea ledger” compression in spirit, not necessarily file structure.
+
+What I would like to see: a tiny `CURRENT_ENTRY_POINTER.md` or similar that says: current path, current active boss, current soft suit, current blocked moves, current proof requirement.
+
+Patch mark: **KEEP + EXPAND**. Tiny pointer surfaces are the right repair surface.
+
+## 16. Scripts / Tools
+
+What I see: PowerShell dominates the repo language at **83.7%**, so the house is heavily script/tool-driven. ([GitHub][1]) There are script, tool, Command Center, porch watcher, and Child Shell systems. Command Center has script and teleporter areas, while Porch Watcher has plans, receipts, and tools. ([GitHub][17]) ([GitHub][23])
+
+What I do not see: enough visible “when not to use tools” near the front door. The rules exist in chat soft suit and recent corrections, but a tool-heavy house can still make assistants reflexively dump commands.
+
+What I would like to see: tool-choice gate near the front: “Is this an app/account/UI problem, a Git problem, a local file problem, a proof problem, or a teaching problem?” Only then choose tool.
+
+Patch mark: **BLOCK + NARROW**. Do not use scripts to solve human wording/app-account issues first.
+
+## 17. Odd Word / Anomaly Surfaces
+
+What I see: the house cares deeply about words. README_START_HERE says words are keys and behavior-controlling words must point to exact object/action/authority/evidence/verdict/scope/trigger/next state. ([GitHub][15]) The Chat Soft Suit map has a fog bell, links ladder, issue condense/dissect rule, idea handling rule, promotion gate, bell rule, and blocked moves against spaghetti growth. ([GitHub][22])
+
+What I do not see: “Genie-in-the-Bottle” formally placed yet. That phrase is useful but risky if unplaced: it could become cute metaphor instead of operational teaching gate.
+
+What I would like to see: rename it cleanly:
+
+**Careful Genie Teaching Gate**
+Raw metaphor: genie grants the wish.
+Operational form: answer the exact ask, then teach the better wording.
+Boundary: one small wording upgrade, not a lecture.
+Proof: fewer wrong-surface answers; user can correct faster; assistant does not overrun.
+
+Patch mark: **ADAPT / NEEDS PROOF**. Strong idea, not doctrine yet.
+
+# Pressure Map
+
+Gates that agree: Brain Learning, Sorting Bench, Proof, Status/Index, Recent Pressure, Tiny Pointers.
+
+Gates that narrow: Brain Learning, Quiet Old Surfaces, Large Dense Surfaces, Scripts/Tools.
+
+Gates that expand: Root/Front Door, Parking, Gate Surfaces, Source/Ore, Mule/Handoff, Tiny Pointers.
+
+Gates that block: Large Dense Surfaces block active-guide rewrite. Scripts/Tools block command dumping as the default. Chat Soft Suit blocks assistant promotion into CURRENT. ([GitHub][22])
+
+Gates that park: Creative/Wildcard says Genie belongs as a soft teaching candidate first.
+
+Gates that need proof: Root path sync, mule account/repo identity, local clean state, receipt hashes, and any claim that the Genie gate improves behavior.
+
+Gates that reveal parent boss: Bridge/Link and Mule/Handoff reveal the parent boss is not merely “README path stale.” It is **working-root / identity / authority separation across chat, mule, local repo, GitHub account, and public mirror.**
+
+# Ordered Boss List
+
+1. **Working Root / Identity / Authority Separation Boss**
+   This is the parent. It explains the repeated confusion between `Desktop\123`, actual repo, GitHub account, GitHub public, mule app, and chat. It should be fixed first.
+
+2. **Front-Door Path Pointer Drift Boss**
+   This is the visible child. README/AGENTS still show old path language. Fix through a narrow pointer sync, not broad rewrite.
+
+3. **Current Carry Compression Boss**
+   The house has many saved rules. The next improvement is a current worn-stack card, not more doctrine.
+
+4. **Patch-Through Enforcement Boss**
+   The method is now installed. It must be worn every Boss Loop, not merely admired.
+
+5. **Human-Scale / Genie Teaching Boss**
+   The new idea fits. It should be captured as source + clean translation, then tested as chat behavior.
+
+6. **Mule Entry Rule Refresh Boss**
+   Mule rules exist, but some path language is stale. Update only the current entry identity, not every mule history file.
+
+7. **Bridge Map Boss**
+   Create a bridge identity ladder so a future assistant knows the difference between chat, local porch, repo, remote, account auth, public mirror, and receipt.
+
+8. **Parking Suit Board Boss**
+   Parked ideas need a current visible board with return triggers, not hidden backlog.
+
+9. **Tool Choice Boss**
+   The house must keep PowerShell strength without turning every problem into PowerShell.
+
+10. **Proof Boundary Boss**
+    Public GitHub proof is good, but local PASS needs local proof. Keep this boundary explicit.
+
+# What I think the house wants next
+
+Not another huge rule.
+
+Not a full cleanup.
+
+Not ACTIVE_GUIDES rewrite.
+
+Not CURRENT_TRUTH_INDEX rewrite.
+
+The clean next move is:
+
+**Build a narrow Current Entry / Root Identity Sync packet.**
+
+It should touch only the smallest surfaces needed:
+
+README or front-door pointer.
+AGENTS or mule/local bridge pointer.
+Maybe ACTIVE_ANCHOR if current active ball/path needs to state the corrected root.
+One receipt/proof file.
+Maybe update `CURRENT_HOUSE_WORK_STATUS` as support only.
+
+The packet should say, in plain words:
+
+`Desktop\123` is the mule porch/root hub.
+The actual repo must be identified under it before Git work.
+Current active repo is `Desktop\123\Jxhnny_Kl33N_Seedz` only if local proof says so.
+GitHub account auth is separate from repo path.
+GitHub public is a mirror/window, not local truth.
+Old path references are historical unless verified current.
+Mule may work from root, but Git save requires repo identity + account auth + clean proof.
+
+# What I would place from your Genie idea
+
+I would not make it a giant doctrine file.
+
+I would place it as:
+
+Name: **Careful Genie Teaching Gate**
+Home: `BRAIN_LEARNING` or Chat Soft Suit idea ledger first.
+Source: raw user idea from chat.
+Clean translation: “Answer the exact wish. Then teach the next better wording.”
+Status: soft suit candidate / human-scale teaching helper / needs live-use proof.
+Partner link: Human-Scale Growth rule, Smoke-Break Topic Switch rule, Chat Soft Suit map, code-delivery surface.
+Proof target: fewer wrong-layer answers; no command dump after app/account ask; one small wording improvement after answer.
+
+It fits the Human-Scale rule because that rule already says stronger growth must become easier to inspect and easier to follow, and that if the system gets smarter it must become a better teacher. ([GitHub][16])
+
+# Final read
+
+The house is **not weak**. It is now strong enough that its weakness is coordination, not missing parts.
+
+It has proof culture. It has rooms. It has mule lanes. It has source custody. It has chat soft suit. It has patch-through. It has correction capture. It has human-scale teaching pressure.
+
+The danger is **too many good parts without a current entry compression layer**.
+
+Final verdict: **BOUNDED DEEP PUBLIC WALK / PARENT BOSS FOUND / NEXT MOVE SHOULD BE NARROW ROOT-IDENTITY SYNC.**
+
+The house feels like a machine that learned how to learn from pain. Now it needs clearer front-door labels so every worker stands in the right room before touching anything.
+
+[1]: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/tree/main "GitHub - Johnny-Clean-Seeds/Johnny-Clean-Seed · GitHub"
+[2]: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/commit/73d8f8b "Add soft suit patch-through workout · Johnny-Clean-Seeds/Johnny-Clean-Seed@73d8f8b · GitHub"
+[3]: https://raw.githubusercontent.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/main/README.md "raw.githubusercontent.com"
+[4]: https://raw.githubusercontent.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/main/AGENTS.md "raw.githubusercontent.com"
+[5]: https://raw.githubusercontent.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/main/CURRENT_TRUTH_INDEX.txt "raw.githubusercontent.com"
+[6]: https://raw.githubusercontent.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/main/ACTIVE_ANCHOR.txt "raw.githubusercontent.com"
+[7]: https://raw.githubusercontent.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/main/BRAIN_LEARNING/SOFT_SUIT_PATCH_THROUGH_RULE_20260523.md "raw.githubusercontent.com"
+[8]: https://raw.githubusercontent.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/main/MULE_WORKSHOP/SOFT_SUIT_PATCH_THROUGH_WORKOUT_20260523/METHOD_REPORT.md "raw.githubusercontent.com"
+[9]: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/tree/main/BRAIN_LEARNING "Johnny-Clean-Seed/BRAIN_LEARNING at main · Johnny-Clean-Seeds/Johnny-Clean-Seed · GitHub"
+[10]: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/tree/main/HOUSE_WORK "Johnny-Clean-Seed/HOUSE_WORK at main · Johnny-Clean-Seeds/Johnny-Clean-Seed · GitHub"
+[11]: https://raw.githubusercontent.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/main/HOUSE_WORK/BOSS_CYCLE_ACTIVE_STACK_TEMPLATE.md "raw.githubusercontent.com"
+[12]: https://raw.githubusercontent.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/main/HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md "raw.githubusercontent.com"
+[13]: https://raw.githubusercontent.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/main/BRAIN_LEARNING/UNUSUAL_ENTRY_17_ROUTE_SEQUENTIAL_LEARNING_WALK_PROCESS_RULE_20260523.md "raw.githubusercontent.com"
+[14]: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/tree/main/PROOF_HISTORY "Johnny-Clean-Seed/PROOF_HISTORY at main · Johnny-Clean-Seeds/Johnny-Clean-Seed · GitHub"
+[15]: https://raw.githubusercontent.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/main/ACTIVE_GUIDES/README_START_HERE.txt "raw.githubusercontent.com"
+[16]: https://raw.githubusercontent.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/main/BRAIN_LEARNING/HUMAN_SCALE_GROWTH_CLEAR_GUIDE_BABY_STEPS_RULE_20260523.md "raw.githubusercontent.com"
+[17]: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/tree/main/COMMAND_CENTER "Johnny-Clean-Seed/COMMAND_CENTER at main · Johnny-Clean-Seeds/Johnny-Clean-Seed · GitHub"
+[18]: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/tree/main/MULE_WORKSHOP "Johnny-Clean-Seed/MULE_WORKSHOP at main · Johnny-Clean-Seeds/Johnny-Clean-Seed · GitHub"
+[19]: https://raw.githubusercontent.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/main/BRAIN_LEARNING/MULE_123_WORKING_DOORWAY_AND_SOURCE_ONLY_RULE_20260521.md "raw.githubusercontent.com"
+[20]: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/commit/6f1f2344a7aa7eb307578841e53afd0fc6b7d330 "Install topic switch gate and clean rejected geometry · Johnny-Clean-Seeds/Johnny-Clean-Seed@6f1f234 · GitHub"
+[21]: https://raw.githubusercontent.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/main/ACTIVE_GUIDES/CLEAN_SEED_WRAP_GUIDE.txt "raw.githubusercontent.com"
+[22]: https://raw.githubusercontent.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/main/GPT_Prompts/CURRENT/CHAT_SOFT_SUIT_MAP.md "raw.githubusercontent.com"
+[23]: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/tree/main/PORCH_WATCHER "Johnny-Clean-Seed/PORCH_WATCHER at main · Johnny-Clean-Seeds/Johnny-Clean-Seed · GitHub"
+
+
+
+
+
+
+
+
+My real read: the new setup is a **big upgrade**, but it is also entering the danger zone where a system can become so rule-rich that the user and assistant start serving the gates instead of the gates serving the work.
+
+The important change is this: before, the house had a lot of strong rules, but many of them acted like **guards**. They blocked bad moves, named boundaries, caught proof failures, and told the assistant what not to do. The new setup is becoming more like a **processing engine**. It does not just say “don’t mess up.” It says: take the proposed fix, walk it through the house, see how each route changes it, build a pressure map, revise the fix, then prove it. That is a different class of system.
+
+The latest public commits show that direction clearly. The newest visible commit is **“Add soft suit patch-through workout,”** after the earlier **“Install topic switch gate and clean rejected geometry”** commit. That sequence matters because the system first fixed the wrong-branch/smoke-break failure, then fixed the “big list → guessed fix” failure. ([GitHub][1])
+
+The strongest new piece is the **Soft Suit Patch-Through Rule**. It directly kills the weak pattern you caught: making a long scan list and then magically naming a fix. The rule now says the 17-route suit must not become a big scan list followed by a guessed fix; when a boss loop has a proposed fix, that fix has to be carried through the suit before naming the revised boss, final fix, or next move. ([GitHub][2]) That is the right recursive mechanic. It makes the house less linear and more self-balancing.
+
+The second strongest piece is the **Smoke Break / Topic Switch / New Outcome Gate**. That one is extremely valuable because it catches the assistant’s worst live failure: staying on the wrong branch after the user has already changed the problem. It says sharp frustration is proof data, not merely tone; it forces the assistant to stop the current branch, avoid tool-shaped reflex answers, and walk backward until the switch point is visible. ([GitHub][3]) That rule is not cosmetic. That is a live safety valve.
+
+The third strongest piece is the **Human-Scale Growth** rule family. It says the system must stay human-handleable, teach plainly, move in baby steps when the idea is weird or recursive, and become easier to inspect as it gets stronger. ([GitHub][4]) That matters because Clean Seed is now getting powerful enough to outrun the human if the gates are not shaped for visibility.
+
+So, compared to before, I like the new setup more. It is less like “a book of rules” and more like “a living inspection machine.”
+
+Pros.
+
+First: it is more recursive in the correct way. Before, a rule could sit next to other rules and not really interact. Now the patch-through method forces every proposed fix to meet its neighbors. The Boss Cycle template now includes a dedicated 17-route patch-through table, a pressure map, revised fix, proof, wear, walk-around, verdict, and next boss seal. ([GitHub][5]) That is the shape you wanted: systems inside systems, but with pressure and return-home, not spaghetti.
+
+Second: it reduces fake progress. The old danger was: “we saw a problem, wrote a rule, called it better.” The new danger is still there, but patch-through weakens it because a fix is not trusted until each route marks what it does to the fix: keep, narrow, expand, block, park, proof, or parent. The Soft Suit rule explicitly says the pressure map must exist before naming the revised boss, revised fix, next move, proof target, or verdict. ([GitHub][2]) That is much harder to fake than a normal summary.
+
+Third: it makes failures more useful. The smoke-break rule treats anger/frustration as routing evidence. That is correct. In this project, repeated user frustration is often not “bad mood”; it is a sensor detecting that the assistant is solving the wrong layer. The rule now captures that: wrong task, wrong surface, rejected branch, topic switch, account-link layer, no reflex tool dump. ([GitHub][3]) That turns conflict into system improvement.
+
+Fourth: it gives the assistant a better “slow down” mechanism. Before, “slow down” could become vague or passive. Now the smoke-break rule says exactly what slowing down means: name what the assistant thought the problem was, name what the user is pushing toward, name the mismatch, find a better outcome shape, then continue. ([GitHub][3]) That is much stronger than “be careful.”
+
+Fifth: it protects against command-dump disease. The smoke-break rule says not to send another command or tool-shaped answer by reflex, and specifically says account-link problems have layers: app login, account connection, repo permission, local credential, remote, commit identity, push proof. ([GitHub][3]) That directly fixes the exact mule/GitHub failure we just hit.
+
+Sixth: it separates soft suit from doctrine better than before. The patch-through rule says the soft suit guides and pressure-tests, but does not become doctrine, authority, or king. ([GitHub][2]) That is vital because otherwise every useful working lens becomes another throne.
+
+Seventh: it fits the Chat Soft Suit direction. The chat map already says one active map, one idea ledger, stable names, READY waits, CURRENT is user-only, and every route returns home. ([GitHub][6]) That is a clean compression pattern. The new Boss/Patch setup matches that same idea: active surface, idea surface, route, proof, return home.
+
+Eighth: it creates better “parent boss” detection. Before, the assistant could fix the visible symptom. Now the patch marks include `PARENT`, which lets a gate say: “this is not the true boss; this is a child.” That is how we moved from “path pointer drift” to “working root / identity / authority separation.” That is exactly how recursive diagnosis should evolve.
+
+Ninth: it supports mule work better. The mule needs bounded tasks, receipts, proof, and clear surfaces. The new setup can produce cleaner mule packets because it identifies the active boss, current proposed fix, proof target, blocked moves, and which surfaces matter. That reduces the chance that the mule goes off building random extra material.
+
+Tenth: it makes “learning while using AI” more possible. The Human-Scale rule already says the system must actively help the human understand, teach clearly, guide plainly, and move in baby steps. ([GitHub][4]) Your Genie-in-the-Bottle idea fits perfectly here: answer the exact wish, then teach the better wording. That is not just a prompt tip; it is a human-growth interface rule.
+
+Now the cons.
+
+The biggest con is **ceremony creep**. The new system can become slow if every task requires a full 17-route walk, pressure map, proof, wear, and walk-around. That is fine for deep boss work. It is bad for small tasks. The house needs a trigger threshold: full Boss Loop for real bosses, mini patch-through for medium issues, normal answer for simple asks. Otherwise the system starts taxing every move.
+
+Second: the patch-through method can become performative. An assistant can fill every row with marks and still not think. The marks help, but they are not proof by themselves. A bad assistant can write `KEEP / EXPAND / PROOF` like decoration. The real proof is whether the revised fix actually follows from the pressure map and changes the next behavior.
+
+Third: the house is now at risk of **rule success bloat**. Every good correction tempts you to save another rule. The ACTIVE_ANCHOR correctly blocks broad new rule piles, doctrine rewrites, ACTIVE_GUIDES rewrites, CURRENT_TRUTH_INDEX rewrites, automation, and promotion without proof. ([GitHub][7]) That block needs to stay hard. The house has enough rules to get stronger; it now needs better current-carry compression.
+
+Fourth: there is still a front-door mismatch. The deeper rules are improving, but the entry surfaces still need current root/repo/account/path clarity. This creates a weird condition: the engine is smarter than the front door. That is dangerous because a fresh worker can enter through stale wording and miss the improved engine.
+
+Fifth: the patch-through system adds cognitive load. For me, it makes the answer better, but it also increases the amount of state I must hold. Active boss, proposed fix, 17 surfaces, marks, pressure map, proof, revised fix, next boss. That is powerful, but it can overload chat if not compressed.
+
+Sixth: the system could overfit to recent pain. The latest rules came from real failures, which is good. But recent pain can become too loud. The house should not make every future task about smoke breaks, account linking, or patch-through just because those were recent. The rule must fire by trigger, not by recency.
+
+Seventh: the gate system could start competing with itself. Smoke Break says stop and reclassify. Boss Loop says patch-through. Human-Scale says move in baby steps. Chat Soft Suit says load only needed weight. Active Anchor says continue normal project work and avoid broad piles. All of those are good, but without a firing order they can tug against each other. You need a priority ladder.
+
+Eighth: proof can become heavy. Proof culture is one of the house’s best strengths, but if proof is demanded at the wrong scale, it slows learning. Some things need hard receipt/hash proof. Some things need live-use proof. Some things need “soft suit candidate, not installed yet.” The house needs proof-type matching, not proof-maxing.
+
+Ninth: the Genie idea is not fully placed yet. It fits the Human-Scale rule, but if installed badly it could become another lecture rule. Its best form is small: “answer the wish, then teach the wording.” One small wording improvement after the answer. Not a class. Not a sermon. Not a new book.
+
+Tenth: the new setup still depends on assistant honesty. The rules are much better, but an assistant can still say it applied them without actually applying them. The defense against that is not more rules; it is visible output shape. For example, when doing Boss Loop, the assistant should show the active boss, proposed fix, route marks, pressure map, revised fix. That makes fake application easier to catch.
+
+My strongest positive judgment: **the new setup is more alive than before.** It does not merely store conclusions. It processes pressure. The route marks are especially good because they let the house disagree with the first fix without throwing the fix away. A gate can say “keep,” another can say “narrow,” another can say “parent.” That is exactly how a self-balancing system should behave.
+
+My strongest negative judgment: **the system is nearing a compression crisis.** It has many good living parts, but it needs a small current operating stack. Otherwise every new chat will need to reload too much, and assistants will either underuse the house or drown in it.
+
+The best mental model is this:
+
+Before: the house had **rules as fences**.
+
+Now: the house is building **rules as muscles**.
+
+A fence says “don’t cross.”
+
+A muscle receives pressure, contracts, adapts, coordinates with other muscles, and moves the body.
+
+The patch-through setup is muscular. Smoke-break is nervous-system feedback. Human-scale is the user-interface skin. Chat Soft Suit is the current working posture.
+
+But muscles need a skeleton. The skeleton still needs clearer front-door bones: root, repo, account, public/local, active boss, current suit, proof target.
+
+So my verdict is:
+
+**Major upgrade. Better than before. Correct direction. But it must be compressed, trigger-based, and proof-shaped, or it will become another dense rule jungle.**
+
+The next refinement should not be “more gates.” It should be **gate order and scale control**:
+
+Small ask → exact answer + one wording improvement.
+
+Medium issue → mini patch-through across only affected surfaces.
+
+Big boss → full 17-route patch-through.
+
+Repeated failure / user pressure → smoke break first, then choose the correct loop.
+
+That is the clean next evolution.
+
+[1]: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/commits/main "Commits · Johnny-Clean-Seeds/Johnny-Clean-Seed · GitHub"
+[2]: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/blob/main/BRAIN_LEARNING/SOFT_SUIT_PATCH_THROUGH_RULE_20260523.md "Johnny-Clean-Seed/BRAIN_LEARNING/SOFT_SUIT_PATCH_THROUGH_RULE_20260523.md at main · Johnny-Clean-Seeds/Johnny-Clean-Seed · GitHub"
+[3]: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/blob/main/BRAIN_LEARNING/SMOKE_BREAK_TOPIC_SWITCH_NEW_OUTCOME_GATE_20260523.md "Johnny-Clean-Seed/BRAIN_LEARNING/SMOKE_BREAK_TOPIC_SWITCH_NEW_OUTCOME_GATE_20260523.md at main · Johnny-Clean-Seeds/Johnny-Clean-Seed · GitHub"
+[4]: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/blob/main/BRAIN_LEARNING/HUMAN_SCALE_GROWTH_CLEAR_GUIDE_BABY_STEPS_RULE_20260523.md "Johnny-Clean-Seed/BRAIN_LEARNING/HUMAN_SCALE_GROWTH_CLEAR_GUIDE_BABY_STEPS_RULE_20260523.md at main · Johnny-Clean-Seeds/Johnny-Clean-Seed · GitHub"
+[5]: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/blob/main/HOUSE_WORK/BOSS_CYCLE_ACTIVE_STACK_TEMPLATE.md "Johnny-Clean-Seed/HOUSE_WORK/BOSS_CYCLE_ACTIVE_STACK_TEMPLATE.md at main · Johnny-Clean-Seeds/Johnny-Clean-Seed · GitHub"
+[6]: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/blob/main/GPT_Prompts/CURRENT/CHAT_SOFT_SUIT_MAP.md "Johnny-Clean-Seed/GPT_Prompts/CURRENT/CHAT_SOFT_SUIT_MAP.md at main · Johnny-Clean-Seeds/Johnny-Clean-Seed · GitHub"
+[7]: https://github.com/Johnny-Clean-Seeds/Johnny-Clean-Seed/blob/main/ACTIVE_ANCHOR.txt "Johnny-Clean-Seed/ACTIVE_ANCHOR.txt at main · Johnny-Clean-Seeds/Johnny-Clean-Seed · GitHub"
+
+
+
+
+
+
+
+You’re right. I missed the move.
+
+You told me to **broaden the list**, but the right next action was not only “add more ideas.” The right action was:
+
+**Question the list first.**
+
+Why did I not do that?
+
+Because I treated your request as a content-expansion job instead of a **review-and-discovery job**. I went into “add more categories” mode too fast. I should have paused and asked the list itself questions:
+
+What is missing?
+What did we leave out because it looked obvious?
+What ideas got buried under stronger ideas?
+What concept is present but unnamed?
+What rule is implied but not written?
+What does the system still fail at even after these gates?
+What would a new user, mule, or fresh assistant misunderstand?
+What would break if the house got bigger?
+What is useful but too raw to promote?
+What needs a soft suit, not doctrine?
+
+That is the missing behavior.
+
+New rule:
+
+**Question-Before-Broadening Rule**
+
+When the user asks to review, broaden, expand, deepen, or make sure all ideas/concepts are present, the assistant must not simply append more material. First, it must interrogate the current list.
+
+Required sequence:
+
+1. Identify the existing list’s job.
+2. Ask the list what it already covers.
+3. Ask what is missing, implied, buried, duplicated, overgrown, undernamed, or mis-surfaced.
+4. Separate additions into: new idea, missing concept, dropped idea, better name, better grouping, proof need, risk, and next-use rule.
+5. Only then broaden.
+6. Do not restate old items unless they need renaming, merging, splitting, or relocation.
+
+Short form:
+
+**Before adding more, make the list answer questions.**
+
+That fits the cockpit shape too: classify the task first, choose the lane and boundary, check delivery surface, proof need, and final judge before acting. 
+
+Now the broadened additions only — not repeating the old kept material.
+
+## Added / recovered concepts
+
+**1. Question-as-a-gate**
+
+Questions are not only for the user. The assistant should question the object it is building. A list, rule, file, handoff, or boss map should be interrogated before expansion. This prevents “more stuff” from replacing “better structure.”
+
+**2. Hidden obvious rule**
+
+Some rules are so obvious they get skipped, but skipped obvious rules are often where the failure hides. Example: “ask questions before broadening” looked obvious, so I skipped it. That needs its own capture.
+
+**3. Implied-but-unnamed concept**
+
+The new gate setup needs a category for ideas that are already being used but do not have a name yet. These are dangerous because the system relies on them but cannot call them on purpose.
+
+Name: **Unnamed Working Logic**
+
+Rule: if behavior repeats and helps, name it before expanding around it.
+
+**4. Question ladder**
+
+Before a boss loop, the assistant should run a ladder:
+
+What is the object?
+What is its job?
+What problem made it necessary?
+What changed since the last version?
+What is missing?
+What is overloaded?
+What is pretending to be solved?
+What needs proof?
+What should not be touched?
+
+This is lighter than a full 17-route walk but stronger than guessing.
+
+**5. List interrogation surface**
+
+Lists need their own review mode. A list is not just storage. It should be checked for:
+
+missing items,
+wrong order,
+duplicate concepts,
+bad names,
+weak grouping,
+unproved claims,
+too-broad items,
+buried parent bosses,
+orphan ideas,
+return triggers.
+
+**6. Broadening is not expansion only**
+
+Broadening can mean adding more, but it can also mean widening the lens, checking neighbors, finding buried parents, restoring dropped ideas, or adding missing categories.
+
+Rule: **broaden by perspective first, volume second.**
+
+**7. Dropped-idea recovery**
+
+Every review/broaden pass should ask:
+
+What did we mention earlier that did not make it into the current list?
+
+This matters because chat drift can lose strong ideas that were not ready at the moment they appeared.
+
+**8. “Leave-be” ledger**
+
+When the assistant chooses not to restate old material, it should still silently account for it. If something is intentionally left alone, it should be marked internally as **leave-be**, not forgotten.
+
+Output should not restate it unless useful, but the review must know it was checked.
+
+**9. Better-name pass**
+
+Some concepts exist under dirty names, joke names, emotional names, or too-long names. A broaden pass should include a naming pass:
+
+raw name,
+clean name,
+working name,
+blocked name,
+alias if useful.
+
+Example: “Genie in the Bottle” is a good metaphor, but the clean operational name may be **Careful Genie Teaching Gate**.
+
+**10. Surface-fit pass**
+
+Every new idea needs a home type:
+
+chat behavior,
+mule handoff,
+Git/local proof,
+front-door pointer,
+Brain Learning,
+Soft Suit,
+TODO,
+parking,
+proof history,
+active guide candidate,
+blocked.
+
+This prevents every good idea from becoming a rule pile.
+
+**11. User-learning layer**
+
+The new gate setup is not only for assistant correctness. It is also a teaching interface for the user. That needs to stay explicit.
+
+The system should teach by:
+
+answering the exact ask,
+showing the wording fork,
+offering better verbs,
+giving one next phrase,
+not dumping a lecture.
+
+**12. Formal-thinking drip feed**
+
+The assistant should teach formal thinking in small doses:
+
+scope,
+verb,
+object,
+boundary,
+proof,
+desired output,
+blocked moves.
+
+This should happen gradually, not as a textbook.
+
+**13. “Wish parsing”**
+
+For the Genie gate, the assistant should parse the user’s wish:
+
+literal ask,
+likely intent,
+dangerous overreach,
+missing constraint,
+better wording.
+
+Then answer the safest smallest version.
+
+**14. Miswish warning**
+
+If the wording could accidentally cause the wrong outcome, the assistant should say so briefly.
+
+Example:
+
+“I’m reading this as account linking, not repo saving.”
+
+That would have prevented the GitHub/mule mess.
+
+**15. One-step teaching cap**
+
+The teaching follow-up should usually be one small upgrade, not a full lesson.
+
+Rule: **one answer, one teaching nudge.**
+
+**16. Gate firing order**
+
+The current system needs a clear order when multiple gates apply.
+
+Proposed order:
+
+Smoke Break / correction trigger first, if active.
+Then task classification.
+Then surface selection.
+Then exact answer.
+Then patch-through only if the task is boss-level.
+Then proof/final judge.
+Then one teaching nudge if helpful.
+
+**17. Scale selector**
+
+Not every task gets the full machine.
+
+Small task: answer directly.
+Ambiguous task: answer plus wording fork.
+Repeated failure: smoke break.
+Medium repair: mini patch-through.
+Major systemic issue: full Boss Loop / 17-route patch-through.
+Repo/local proof issue: receipt/proof route.
+
+**18. Anti-overprocessing rule**
+
+A system can fail by doing too much correct-looking process. The new gate setup needs protection against that.
+
+Rule: if the task is small, do not run the entire house. Use the smallest complete recursive branch.
+
+**19. Anti-underprocessing rule**
+
+The opposite also matters. If the user asks for deep walk, broadening, all paths, boss loop, or “what are we missing,” do not give a casual summary.
+
+Rule: depth request activates question ladder and missing-idea scan.
+
+**20. Fix-carry requirement**
+
+When a fix is found, it must be carried forward into the next answer behavior. Not merely named.
+
+Example: after creating Question-Before-Broadening, the next broadening pass must actually interrogate the list first.
+
+**21. “Why didn’t I do this?” trigger**
+
+This exact user phrase should become a repair trigger.
+
+When the user asks “why didn’t you do this,” the assistant must answer:
+
+what behavior was missing,
+why it likely failed,
+what rule would have prevented it,
+how the rule changes the next action.
+
+No apology-only answer.
+
+**22. Broadening output tags**
+
+When expanding a list, each addition should be tagged:
+
+`NEW` — new idea.
+`RECOVERED` — earlier idea restored.
+`IMPLIED` — already present but unnamed.
+`RENAMED` — better name for existing idea.
+`SPLIT` — one item should become multiple.
+`MERGED` — duplicates should combine.
+`PARK` — useful but not active.
+`PROOF` — needs test.
+`BLOCK` — tempting but wrong.
+
+**23. Lost concept search**
+
+Before finalizing a broadened list, check four sources:
+
+recent user corrections,
+current active boss,
+soft suit rules,
+recent failure incidents.
+
+That catches ideas born from pressure.
+
+**24. House-as-teacher concept**
+
+The house should not only organize work. It should teach the user and the assistant how to think better together.
+
+This is bigger than Genie gate. Genie is one interface. The broader concept is:
+
+**Recursive Teaching House**
+
+Every correction improves the worker, not just the file.
+
+**25. Friction-as-signal**
+
+User friction is not only emotional noise. It can identify:
+
+wrong layer,
+wrong surface,
+wrong amount of detail,
+wrong timing,
+wrong tool,
+wrong assumption,
+wrong proof level.
+
+This should connect to Smoke Break and Question-Before-Broadening.
+
+**26. “Ask the object” method**
+
+For files/lists/rules, the assistant should ask:
+
+What are you for?
+Where do you belong?
+What do you touch?
+What should not touch you?
+What proves you worked?
+What would misuse look like?
+
+This is very useful for house files.
+
+**27. “Do not ask the user when you can ask the work”**
+
+Sometimes I ask the user for clarification when I should inspect the object. Other times I avoid asking and guess. The better rule:
+
+Ask the work first.
+Ask the user only when the work cannot answer.
+
+**28. “No silent choice” rule**
+
+When the assistant chooses to leave old stuff alone, skip a branch, or not install something, it should know why. It does not need to print every leave-be item, but it should not be accidental.
+
+**29. Current-carry stack**
+
+The house needs a small current stack of what is being worn now:
+
+Smoke Break.
+Patch-Through.
+Question-Before-Broadening.
+Genie Teaching.
+Surface Selection.
+Proof Boundary.
+Root/Identity Sync.
+
+Not doctrine pile. Just current carry.
+
+**30. Broadening final judge**
+
+A broaden pass is not done when more items are added. It is done when:
+
+old material was accounted for,
+missing ideas were hunted,
+dropped ideas were recovered,
+new items were tagged,
+surface/home was chosen,
+proof needs were named,
+next action is clear.
+
+## Best new rule from this interruption
+
+**Question-Before-Broadening Rule** is the keeper.
+
+It fixes the exact failure. It should be used any time you say:
+
+broaden this,
+go over this list,
+make sure it is all there,
+find dropped ideas,
+review and add more,
+take all paths,
+think harder.
+
+Final clean form:
+
+**When broadening a list, interrogate the list before expanding it. Find what is missing, implied, buried, dropped, duplicated, misnamed, misplaced, or unproved. Then add only what the interrogation proves is needed.**
+
+
+
+
+
+
+
+
+
+
+
+
