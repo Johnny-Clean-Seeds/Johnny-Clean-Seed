@@ -1,0 +1,43 @@
+LOCAL 123 FULL HOUSE REVIEW ROPE TUG RUNNER WASH RECEIPT
+Date: 2026-05-24
+Worker: Codex local file-lane
+Status: pending final Git verification at creation time
+
+Request handled:
+Full house review using notes, rope, notes on a rope, note burning, soft-suit second walk, creative
+room research, tug rule, cut-the-rope with runner trace to roots, washer habit, local save, Git save,
+and final lock.
+
+Primary packet:
+MULE_WORKSHOP/FULL_HOUSE_REVIEW_ROPE_TUG_RUNNER_WASH_20260524/
+
+Support rules added:
+BRAIN_LEARNING/NOTE_BURNING_DEADWEIGHT_RELEASE_RULE_20260524.md
+BRAIN_LEARNING/ROPE_TUG_CHECKPOINT_RULE_20260524.md
+BRAIN_LEARNING/ROPE_CUT_RUNNER_TRACE_TO_ROOT_RULE_20260524.md
+BRAIN_LEARNING/WASHER_RETURN_HABIT_LOOP_RULE_20260524.md
+BRAIN_LEARNING/SORT_MAP_SCHEDULE_CONTROL_STACK_RULE_20260524.md
+
+Template added:
+COMMAND_CENTER/TEMPLATES/ROPE_TUG_RUNNER_TRACE_CARD_TEMPLATE_20260524.md
+
+Suit support updated:
+HOUSE_WORK/SUIT_SYSTEM/CURRENT_ASSISTANT_SUIT.md
+
+Outside methods reduced to support:
+GTD, Kanban, Cynefin, C4, W3C PROV, PARA, Progressive Summarization, Zettelkasten, RICE, WSJF,
+Scrum inspect/adapt, and PDCA.
+
+Placement snag caught:
+The first patch placed new pass files in the parent `C:\Users\13527\Desktop\123` drop area. Those
+files were moved into the active house paths before staging, and the empty mistaken directories were
+removed. Pre-existing parent-level custody/local-only lanes were not swept into Git.
+
+Root drop cleanup performed:
+The parent drop zone was then fully routed. Git-safe/source material went into active house lanes,
+raw transcript source went into an ignored local-only house lane with a Git-facing custody pointer,
+and the local-only idea/evidence cell went into an ignored local-only house lane. The parent root now
+contains only `Jxhnny_Kl33N_Seedz`.
+
+Final verification will be appended in the closeout report after staging, commit, push, and clean
+status checks.

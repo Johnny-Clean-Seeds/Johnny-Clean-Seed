@@ -35,3 +35,6 @@ Thumbs.db
 *Bridge*
 *bridge*
 *BRIDGE*
+
+# Local-only source custody routed from parent drop zone
+MULE_LOCAL_ONLY/ROOT_TANSCRIPTS_LOCAL_ONLY_20260524_100700/

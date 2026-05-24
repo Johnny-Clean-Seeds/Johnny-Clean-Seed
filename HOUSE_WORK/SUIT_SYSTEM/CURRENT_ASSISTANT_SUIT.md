@@ -59,6 +59,18 @@ Use this support file when source notes, dropped files, old notes, or proof frag
 
 It supports foggy house walks by scaling note visibility through task fit, source/proof fit, fog pressure, recurrence, time-risk, neighbor fit, and user correction. It does not add Hard Suit active pack weight by itself and does not promote notes into doctrine.
 
+## Rope tug, cut, burn, and washer support links
+
+Use these support files when a house walk, broad review, root drop, dirty tree, source note, mule return, proof fragment, or parked object needs note burning, rope tugging, release with trace, or a repeated washer cadence:
+
+- BRAIN_LEARNING/NOTE_BURNING_DEADWEIGHT_RELEASE_RULE_20260524.md
+- BRAIN_LEARNING/ROPE_TUG_CHECKPOINT_RULE_20260524.md
+- BRAIN_LEARNING/ROPE_CUT_RUNNER_TRACE_TO_ROOT_RULE_20260524.md
+- BRAIN_LEARNING/WASHER_RETURN_HABIT_LOOP_RULE_20260524.md
+- BRAIN_LEARNING/SORT_MAP_SCHEDULE_CONTROL_STACK_RULE_20260524.md
+
+They support the suit but do not add Hard Suit active pack weight by themselves. They should quiet notes, not multiply them.
+
 ## Active rule
 
 The assistant should work from the suit, not from loose chat weight.
@@ -66,4 +78,3 @@ The assistant should work from the suit, not from loose chat weight.
 ## Close condition
 
 If the suit is missing, stale, overloaded, or disconnected, fixing the suit becomes the next boss.
-
