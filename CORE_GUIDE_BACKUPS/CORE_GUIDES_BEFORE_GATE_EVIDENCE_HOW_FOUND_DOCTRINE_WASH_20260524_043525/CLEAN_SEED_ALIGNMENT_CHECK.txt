@@ -175,7 +175,6 @@ Was File Load Certification / Uncertain Load Stop-Check needed because a file, p
 Was First-Add File Intake needed?
 Was Rule / Check Closure Standard needed?
 Was Rule Obedience Proof Check needed?
-Was Gate Evidence / How-Found Check needed because a gate run, proof claim, fix, doctrine wash, flatline claim, same-issue rerun, or learning/adoption claim needed evidence of how the gate judged or how the fix was found?
 Was Rule Checker Failure Prevention Check needed because a rule existed but did not fire, a rule-checker claim failed, a repeated miss appeared, or the user asked how to prevent the same miss from happening again?
 Was Challenge Verification Before Correction needed because the user asked why the assistant did or did not do something, whether a rule was followed, whether a file changed, or whether the user may be mistaken?
 Was Deep Clean Run Receipt / Cycle Truth Check needed because Deep Clean timing, last-ran proof, current package trust, or rule cycle truth is being judged?
@@ -350,56 +349,6 @@ FAIL when the rule was not obeyed or the assistant only looked compliant.
 INVALID when the evidence cannot prove obedience.
 YIELD when user judgment is needed.
 BLOCKED when obedience cannot be checked safely.
-
-
-Gate Evidence / How-Found Check
-
-Use this check when a gate run, proof review, fix, rule patch, doctrine wash, flatline claim,
-same-issue rerun, or learning/adoption claim affects trust.
-
-This check asks whether the gates created usable evidence and whether found fixes preserve how they
-were found. It does not replace Logic Proof Gate, Proof Ledger Lock, Rule Obedience Proof Check, or
-Final Judge.
-
-Check:
-
-What gate, rule, fix, or doctrine candidate is being judged?
-What exact claim did the gate judge?
-What evidence did the gate create: row, ledger, receipt, hash, command output, same-issue rerun, or observed behavior?
-Does that evidence fit the claim and proof burden?
-What changed because of the gate judgment?
-What did the gate refuse, park, yield, or mark unknown?
-For each found fix, what is the how-found chain: found while, signal, evidence, what happened, why or UNKNOWN, smallest fix, decision, proof, and next trigger?
-If the claim is "this fixed the same problem," was the same issue rerun through the changed route?
-Was any optional User short note treated only as context, not proof, approval, command authority, or doctrine?
-Is the next clean state named?
-
-Dirty milk appears when:
-
-a gate claims PASS without leaving evidence of its own judgment
-the assistant reports a fix but not how it was found
-the same-issue rerun is skipped after claiming the same issue is fixed
-a receipt, hash, report, or nice explanation proves less than the claim says
-an optional user note becomes proof, approval, or command authority
-
-Clean milk appears when:
-
-the gate output can be audited from evidence
-the proof fits the claim and burden
-the discovery path is preserved for future learning
-same-issue rerun happens when a fix claim needs it, or the block is named honestly
-optional user context helps route the work without changing authority
-next clean state is clear
-
-Verdict:
-
-PASS when gate evidence, proof fit, how-found chain, rerun need, and next state are clear.
-PASS WITH GUARDRAILS when the gate evidence is usable but a named watch item remains.
-PARTIAL when one evidence, discovery, rerun, or next-state field is weak.
-FAIL when the gate claims judgment without evidence or the fix is learned only as a story.
-INVALID when available evidence cannot prove what the gate did or how the fix was found.
-YIELD when user judgment, access, approval, or missing proof is needed.
-BLOCKED when the gate or fix cannot be safely judged.
 
 
 Rule Checker Failure Prevention Check

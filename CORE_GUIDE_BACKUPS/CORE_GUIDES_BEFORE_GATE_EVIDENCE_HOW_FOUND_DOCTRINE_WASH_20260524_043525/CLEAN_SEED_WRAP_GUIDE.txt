@@ -228,61 +228,6 @@ BLOCKED when the logic cannot be safely checked.
 
 
 
-Gate Evidence And How-Found Rule
-
-Use this rule when a gate run, proof review, fix, rule patch, doctrine wash, flatline claim,
-same-issue rerun, or learning/adoption claim affects trust.
-
-A gate has not really judged the work unless it leaves enough evidence to show:
-
-what it judged
-what proof it used
-what changed because of the judgment
-what it could not prove
-what next state follows
-
-When a fix, rule, pattern, anomaly, or useful idea is found during the work, record the how-found
-chain:
-
-found while -> signal -> evidence -> what happened -> why or UNKNOWN -> smallest fix -> adopt /
-adapt / park / reject -> proof -> next trigger
-
-If the claim is "this fixed the same problem," rerun the same problem through the changed route
-before saying done, clean, PASS, flatline, or promoted. If safety, access, approval, or missing
-evidence blocks the rerun, use YIELD, BLOCKED, PARTIAL, INVALID, or PASS WITH GUARDRAILS instead.
-
-Short User Context Field:
-When a gate card, proof card, audit card, or report would benefit from a brief user cue, include an
-optional User short note field. Treat that field as context only. It does not create proof,
-authority, approval, a command, or active doctrine by itself.
-
-Dirty milk appears when:
-
-a gate says PASS but leaves no evidence of its own judgment
-a receipt is treated as proof of more than it actually records
-a fix is saved without how it was found
-the same-issue rerun is skipped after claiming the same issue is fixed
-the optional user note is treated as proof, approval, or command authority
-
-Clean milk appears when:
-
-the gate creates a usable evidence trail
-the proof fits the claim and burden
-the discovery path is recorded for reusable learning
-the same issue is rerun when the fix claim requires it
-the optional user note helps routing without becoming authority
-
-Verdict:
-
-PASS when the gate evidence, how-found chain, proof fit, rerun need, and next state are clear.
-PASS WITH GUARDRAILS when useful evidence exists but a named watch item remains.
-PARTIAL when one evidence, discovery, rerun, or next-state field is weak.
-FAIL when the gate claims judgment without evidence or the fix is learned only as a story.
-INVALID when available evidence cannot prove what the gate did or how the fix was found.
-YIELD when user judgment, access, approval, or missing proof is needed.
-BLOCKED when the gate or fix cannot be safely judged.
-
-
 Rule ID / Partner Sync / Anti-Bleed Rule
 
 Use this rule whenever a new idea, rule, concept, patch, command, verdict label, evidence method, risk label, incident label, receipt method, file role, or workflow control is accepted as active material or patch-candidate material.
@@ -873,7 +818,6 @@ Prevent repeat miss routes to Rule Checker Failure Prevention Rule, Rule Obedien
 Point check routes to Point Check / Decision Validation Loop Rule, Evidence Coverage Map Rule, Patch Method Evidence Rule when a patch or save is involved, Risk Severity Evidence Rule when risk is involved, and Incident Existence / False Alarm Gate when an incident or suspect claim is involved.
 Logic check routes to Logic Proof Gate Rule, Risk Severity Evidence Rule, Evidence Coverage Map Rule, Patch Method Evidence Rule, Point Check / Decision Validation Loop Rule, and Self-Question Before Explaining / Seriousness Calibration Rule.
 Proof ledger routes to Proof Ledger Lock Rule, Clean Evidence Capture Rule, Evidence Coverage Map Rule, Deep Clean Run Receipt / Cycle Truth Rule, Corners And Edges Verification Rule, Save Location And Backup CYA Rule, and Seal / Locked State behavior when final trust depends on it.
-Gate evidence and how-found questions route to Gate Evidence And How-Found Rule, Rule Obedience Proof Rule, Rule Checker Failure Prevention Rule, Proof Ledger Lock Rule, Evidence Coverage Map Rule, and same-issue rerun behavior when a fix claim needs it.
 Trigger lock check routes to Scope-State Trigger Lock Rule, Clean Seed Order Of Operations, Concept Capture, Capture Classification, Gold Snippet Capture, Rule ID / Partner Sync, CYA / Affected-Rule Proof, Evidence Coverage Map, Issue Status Footer, Interruption Recovery, and Audit/Recheck Loop Drift Guard behavior.
 Order check routes to Clean Seed Order Of Operations Rule and all-fronts loop closure behavior.
 Red flag check routes to Cross-Front Rule Applicability / Red Flag Check Rule, Rule Checker Failure Prevention Rule, Affected-Scope Clean Milk Sweep Rule, and CYA / Affected-Rule Proof Rule.

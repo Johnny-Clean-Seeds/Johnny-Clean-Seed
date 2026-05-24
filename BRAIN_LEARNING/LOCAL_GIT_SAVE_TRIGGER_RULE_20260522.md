@@ -39,16 +39,18 @@ A valid save must:
 1. Verify repo.
 2. Verify branch and base.
 3. Verify remote base when relevant.
-4. Verify clean status before write.
-5. Write files to correct lanes.
-6. Write a receipt.
-7. Stage expected files.
-8. Force-add ignored proof receipts when intentionally saving proof.
-9. Run diff checks.
-10. Commit.
-11. Push.
-12. Confirm remote HEAD matches local HEAD.
-13. Confirm final status clean.
+4. Inspect dirty status before write or broad staging.
+5. Classify modified/untracked material with Git Dirty Tree Disposition Before Lock/Save Rule when
+   the tree is not clean.
+6. Write files to correct lanes.
+7. Write a receipt.
+8. Stage expected files only after classification.
+9. Force-add ignored proof receipts when intentionally saving proof.
+10. Run diff checks.
+11. Commit.
+12. Push.
+13. Confirm remote HEAD matches local HEAD.
+14. Confirm final status clean or name any intentional local-only/untracked hold.
 
 ## Exceptions
 

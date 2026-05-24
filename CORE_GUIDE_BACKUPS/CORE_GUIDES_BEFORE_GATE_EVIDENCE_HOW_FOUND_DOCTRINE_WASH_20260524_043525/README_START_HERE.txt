@@ -113,36 +113,6 @@ If proof cannot be shown, the assistant must say cannot prove from available evi
 The verdict is then INVALID, YIELD, BLOCKED, PARTIAL, or PASS WITH GUARDRAILS, not full PASS.
 
 
-Gate Evidence And How-Found
-
-A gate is not proven by its name, tone, or presence.
-A gate proves useful judgment when it leaves enough evidence to show what it judged, what proof it
-used, what changed because of the judgment, what it could not prove, and what next state follows.
-
-When a fix, rule, pattern, anomaly, or useful idea is found during a run, the discovery path is part
-of the lesson. Record the short how-found chain:
-
-found while
-signal
-evidence
-what happened
-why it happened, or UNKNOWN
-smallest fix
-adopt / adapt / park / reject
-proof
-next trigger
-
-Clean rule:
-Gates create evidence. Receipts summarize evidence. Doctrine does not become proof by existing.
-If the claim is that a fix solved the same problem, rerun the same problem through the changed route
-before calling it done, clean, or PASS unless safety, access, or approval blocks the rerun.
-
-Optional field:
-Important gate cards and reports may include User short note when a small user message would help
-the assistant route work without opening a new message chain. This note is context only. It is not
-proof, authority, approval, or a command by itself.
-
-
 Scope-State Trigger Lock
 
 This patch tightens live-pressure behavior where broad rules can exist but fail to fire at the exact moment they are needed.

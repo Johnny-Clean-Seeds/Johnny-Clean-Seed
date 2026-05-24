@@ -1,0 +1,57 @@
+LOCAL 123 WHOLE HOUSE WASH CREATIVE SYNTHESIS RECEIPT
+Date: 2026-05-24
+Worker: Codex local file-lane
+Status: READY FOR GIT LOCK / PASS WITH GUARDRAILS
+
+Active task:
+Run the whole updated house through the washer, classify pre-existing dirty tree material, compare
+house-native findings with outside decoding/systems ideas, synthesize a third clean model, and save
+Git-safe material while holding local-only evidence out of Git.
+
+Primary new files:
+- BRAIN_LEARNING\GIT_DIRTY_TREE_DISPOSITION_BEFORE_LOCK_SAVE_RULE_20260524.md
+- COMMAND_CENTER\TODO\TODO_REMOTE_DOOR_TOKEN_TRACKING_SECURITY_AUDIT_20260524.md
+- MULE_WORKSHOP\WHOLE_HOUSE_WASH_CREATIVE_SYNTHESIS_20260524\MANIFEST.md
+- MULE_WORKSHOP\WHOLE_HOUSE_WASH_CREATIVE_SYNTHESIS_20260524\LOCAL_TREE_DISPOSITION.md
+- MULE_WORKSHOP\WHOLE_HOUSE_WASH_CREATIVE_SYNTHESIS_20260524\INTERNAL_WASH_LEDGER.md
+- MULE_WORKSHOP\WHOLE_HOUSE_WASH_CREATIVE_SYNTHESIS_20260524\CREATIVE_ROOM_OUTSIDE_IDEA_LEDGER.md
+- MULE_WORKSHOP\WHOLE_HOUSE_WASH_CREATIVE_SYNTHESIS_20260524\SIDE_BY_SIDE_AND_THIRD_SYNTHESIS.md
+- MULE_WORKSHOP\WHOLE_HOUSE_WASH_CREATIVE_SYNTHESIS_20260524\FINAL_WASH_AND_LOCK.md
+- MULE_WORKSHOP\WHOLE_HOUSE_WASH_CREATIVE_SYNTHESIS_20260524\RECEIPT.txt
+- COMMAND_CENTER\RECEIPTS\LOCAL_123_WHOLE_HOUSE_WASH_CREATIVE_SYNTHESIS_RECEIPT_20260524.txt
+
+Tracked support updated:
+- BRAIN_LEARNING\LOCAL_GIT_SAVE_TRIGGER_RULE_20260522.md
+
+Outside research sources:
+- W3C PROV-DM: https://www.w3.org/TR/prov-dm/
+- W3C SKOS Reference: https://www.w3.org/TR/skos-reference/
+- MIT STPA Primer: https://psas.scripts.mit.edu/home/wp-content/uploads/2013/10/An-STPA-Primer-version-0-4.pdf
+- Google SRE Monitoring Distributed Systems: https://sre.google/sre-book/monitoring-distributed-systems/
+- NASA Systems Engineering Handbook: https://www.nasa.gov/reference/systems-engineering-handbook/
+- Design Council Framework for Innovation: https://www.designcouncil.org.uk/resources/framework-for-innovation/
+- Diataxis: https://diataxis.fr/
+- ADR GitHub organization: https://github.com/adr
+
+Local-only hold count:
+16 files
+
+Local-only hold label:
+GIT_HELD_LOCAL_ONLY_WASH_EVIDENCE_20260524_090000
+
+Local-only ledger file:
+LOCAL_ONLY_HOLD_LEDGER_20260524_090000.csv
+
+Full absolute local-only hold path intentionally kept out of Git-facing receipt.
+
+Clean synthesis:
+Dirty working-tree material is a rope note until classified. It gets louder only enough to prevent a
+bad save, leak, false PASS, wrong lane, or lost project material. After disposition, it quiets into
+Git-safe build, local-only hold, parking, TODO, receipt, or blocked state.
+
+Security watch:
+Full cached-index scan found pre-existing remote-door token-like URL material outside this staged
+house-wash work. A scoped TODO was saved without printing values.
+
+Final Judge:
+PASS WITH GUARDRAILS pending staged diff check, commit, push, and final local/Git alignment proof.

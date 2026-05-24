@@ -48,9 +48,12 @@ Every reviewed item must receive one label:
 - KEEP SEPARATE: gate has its own clean job.
 - MOVE LOGIC: idea belongs under another gate.
 - PACK TOGETHER: several small pieces should live inside one broader gate.
+- PLACE AS CHECKPOINT: useful support check belongs attached to a parent gate and inherits that parent's trigger.
 - PARK: useful, but not ready.
 - REJECT: fog, duplicate, or dirty bloat.
 - WATCH AGAIN: possible pattern, but not enough proof.
+
+PLACE AS CHECKPOINT is the safe answer when an idea is real but too small to become a full gate. It keeps the check alive without making it a loose boss.
 
 ## Distinct Job Test
 
@@ -81,6 +84,7 @@ If an idea is not strong enough to be its own gate, pack it under the natural pa
 |---|---|
 | placement rule | Boundaries Gate |
 | entry rule | Permission Gate |
+| smaller output check | parent gate checkpoint |
 | cleanup / return rule | Return-Home Gate |
 | repeat violation rule | Enforcement Ladder Gate |
 | future-use idea | Future Plans / Parking |
@@ -117,6 +121,8 @@ CONSOLIDATOR cannot:
 - rewrite ACTIVE_GUIDES;
 - rewrite CURRENT_TRUTH_INDEX;
 - merge gates without proof;
+- create loose checkpoints that fire without a parent trigger;
+- create infinite checkpoint chains;
 - kill a gate just because it touches another gate.
 
 ## Consolidation Card
@@ -128,11 +134,12 @@ Current gate / idea under review:
 Overlap found:
 Ambiguity found:
 Better parent gate:
-Decision: KEEP SEPARATE / MOVE LOGIC / PACK TOGETHER / PARK / REJECT / WATCH AGAIN
+Decision: KEEP SEPARATE / MOVE LOGIC / PACK TOGETHER / PLACE AS CHECKPOINT / PARK / REJECT / WATCH AGAIN
 Reason:
 Proof signal:
 Risk if merged:
 Risk if kept separate:
+Checkpoint trigger, if any:
 Next spin watch item:
 ```
 

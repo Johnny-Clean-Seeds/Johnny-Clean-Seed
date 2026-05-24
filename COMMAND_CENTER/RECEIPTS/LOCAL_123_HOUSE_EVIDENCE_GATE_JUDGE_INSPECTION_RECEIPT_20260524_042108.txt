@@ -1,0 +1,67 @@
+LOCAL 123 HOUSE EVIDENCE AND GATE-JUDGE INSPECTION RECEIPT
+Timestamp: 20260524_042108
+Status: PASS WITH GUARDRAILS / SUPPORT FIXES ADDED / NO DOCTRINE PROMOTION
+
+Actions:
+- re-entered house through ACTIVE_ANCHOR, CURRENT_TRUTH_INDEX front matter, and AGENTS;
+- inventoried repo files outside .git;
+- wrote a mechanical file integrity manifest;
+- ran targeted pattern scans across notes, history, data, rules, and recent reports;
+- inspected gates as judges rather than only inspecting files/concepts;
+- added Proof Gate Evidence-Fit support rule;
+- added Fix Discovery / How-Found living support rule;
+- added Proof Gate Card template;
+- added Fix Discovery How-Found Ledger template;
+- wrote inspection pack and next-use TODO.
+
+Integrity manifest:
+- Path: C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\COMMAND_CENTER\RECEIPTS\HOUSE_FILE_INTEGRITY_MANIFEST_20260524_042108.csv
+- File count: 2965
+- SHA256: 745D2AD651406480555FA89011E0C64A5E066F280D25F904DB8068B50D84FA31
+
+Pattern scan:
+- Path: C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\COMMAND_CENTER\RECEIPTS\HOUSE_PATTERN_SCAN_COUNTS_20260524_042108.csv
+- Rows: 26
+- SHA256: D0DE3F0DC2266F90BF85467BC20A46D4386ECE2F7AF0AC059EF6788E86312C8C
+
+Cycles:
+- Cycles run: 14
+- Flatline reached at cycle: 12
+- Confirmation cycles: 13 and 14
+
+Fixes and how found:
+- Proof Gate Evidence-Fit rule: found by proof/fake-PASS pattern pressure and gate inspection.
+- Proof Gate Card template: found by Final Judge needing cleaner proof objects.
+- Fix Discovery / How-Found Living Rule: found by user request plus live PowerShell scan parser error.
+- Fix Discovery Ledger template: found by need to make how-found behavior repeatable.
+- PowerShell foreach pipeline guard: found by repeated parser error during scan-table construction.
+- Entry sign repair: found by path scan; parked because active sign/current-truth repair needs scoped approval.
+
+Protected:
+- No ACTIVE_GUIDES rewrite.
+- No CURRENT_TRUTH_INDEX rewrite.
+- No public authority change.
+- No delete.
+- No broad cleanup.
+- No existing rule changed against flow.
+- No Git commit or push.
+
+Written support files:
+- C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\BRAIN_LEARNING\PROOF_GATE_EVIDENCE_FIT_AND_GATE_JUDGMENT_RULE_20260524.md
+- C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\BRAIN_LEARNING\FIX_DISCOVERY_HOW_FOUND_LIVING_RULE_20260524.md
+- C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\COMMAND_CENTER\TEMPLATES\PROOF_GATE_CARD_TEMPLATE_20260524.md
+- C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\COMMAND_CENTER\TEMPLATES\FIX_DISCOVERY_HOW_FOUND_LEDGER_TEMPLATE_20260524.md
+- C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\COMMAND_CENTER\PICKUP\_PARKING_NOTES\HOUSE_EVIDENCE_GATE_JUDGE_INSPECTION_20260524_042108.md
+- C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\COMMAND_CENTER\TODO\TODO_PROOF_GATE_AND_HOW_FOUND_NEXT_USE_20260524_042108.md
+- C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\COMMAND_CENTER\RECEIPTS\LOCAL_123_HOUSE_EVIDENCE_GATE_JUDGE_INSPECTION_RECEIPT_20260524_042108.txt
+
+Validation hashes:
+- C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\BRAIN_LEARNING\PROOF_GATE_EVIDENCE_FIT_AND_GATE_JUDGMENT_RULE_20260524.md :: SHA256 1A8A0612CDEBF2281468573BCA971178085377B68546ADD43D0E8FF68B398873
+- C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\BRAIN_LEARNING\FIX_DISCOVERY_HOW_FOUND_LIVING_RULE_20260524.md :: SHA256 847A2C0BCB3F05B279E6B360A6122A464AA4A94060944FE5E94D008FBB7FC0C8
+- C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\COMMAND_CENTER\TEMPLATES\PROOF_GATE_CARD_TEMPLATE_20260524.md :: SHA256 BBE24961CDE8EA6F44C49395483C9FF25715822BC25B02047EFB5C21EB820AE2
+- C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\COMMAND_CENTER\TEMPLATES\FIX_DISCOVERY_HOW_FOUND_LEDGER_TEMPLATE_20260524.md :: SHA256 1D808547E47448A7E157FEBCA8562C749AC74F7F729E8D9E421F315C434C7707
+- C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\COMMAND_CENTER\PICKUP\_PARKING_NOTES\HOUSE_EVIDENCE_GATE_JUDGE_INSPECTION_20260524_042108.md :: SHA256 44FCAA3E4EB856DA01D3C365C7FB07F172530A19D0148D1340CBD8406E82DD6E
+- C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\COMMAND_CENTER\TODO\TODO_PROOF_GATE_AND_HOW_FOUND_NEXT_USE_20260524_042108.md :: SHA256 7B449C5357A7404034B9604D92C416A02FA9B0EC5E011F30EEC3DF7A921283B7
+
+Verdict:
+PASS WITH GUARDRAILS / support fixes saved; sign repair, Git disposition, and semantic all-concept proof remain parked/deferred.
