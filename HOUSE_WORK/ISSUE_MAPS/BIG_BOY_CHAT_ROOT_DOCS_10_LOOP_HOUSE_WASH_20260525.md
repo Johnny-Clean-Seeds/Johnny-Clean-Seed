@@ -221,7 +221,7 @@ task frame -> object placement -> role passport -> bounded research -> proof-bou
 
 ## Decision
 
-DECISION: Best lock/save now is support-only local save of this source custody, wash report, and receipt.
+DECISION: Best lock/save now is support-only local save plus scoped local Git save of this source custody, wash report, and receipt.
 
 Do not:
 
