@@ -1,0 +1,462 @@
+# Layered Focus / Clean Attention Gate
+
+## Executive Finding
+
+Your childhood complaint was logically correct. “You are smart, you just lack attention” is a bad instruction because it treats attention like a substance you can simply pour more of. That is not how attention works in practice. The real question is not “how do I give more attention?” The real question is:
+
+**Where should attention be placed, how wide should it be, what layer should stay watching the surroundings, and how fast should focus shift without losing the road?**
+
+That is the clean model.
+
+Attention is not only quantity. It is **placement, width, depth, switching, and return**.
+
+Too little attention is obvious: you miss the thing in front of you.
+
+Too much narrow attention is also dangerous: you see one thing so hard that you lose the world around it.
+
+The clean answer is not “focus harder.” The clean answer is **layered focus with a snapback guard**.
+
+## The Street Example Is the Key
+
+Walking across the street while staring at a pretty lady is the correct analogy. The failure is not “attention bad.” The failure is **wrong layer taking command**.
+
+The pretty lady can be noticed. That is fine. But she cannot become the active control layer while crossing traffic. The road layer must remain boss until the crossing is complete.
+
+So the attention system needs layers:
+
+The **primary focus** is the thing currently being worked.
+
+The **peripheral sentinel** watches for danger, boundary changes, and context shifts.
+
+The **anchor layer** remembers the active target.
+
+The **snapback layer** pulls focus back when the wrong thing becomes too magnetic.
+
+The **verdict layer** decides whether focus shifted cleanly or got hijacked.
+
+That is the model the assistant needs.
+
+## The Clean Name
+
+I would call this:
+
+**Layered Attention Aperture**
+
+“Aperture” is the opening of the lens. Too narrow and you miss the environment. Too wide and you lose detail. The clean move is not permanently wide or permanently narrow. The clean move is controlled aperture.
+
+The assistant should not be “focused” in only one way. It should be able to widen, narrow, and snap back.
+
+A task starts with a wide scan: what room are we in, what is the user asking, what source matters, what boundary is active?
+
+Then it narrows: what is the active object?
+
+Then it keeps a peripheral layer alive: what am I about to lose, overclaim, moralize, skip, or promote?
+
+Then it widens again before closing: did the answer still serve the original task, or did a shiny detail hijack it?
+
+That is layered focus.
+
+## Why This Fits the House
+
+This is directly connected to everything we just built.
+
+The Threshold Room catches objects changing role.
+
+The Deep Research Gate keeps research open before compression.
+
+The Proof-Rung Gate prevents “this is it” language before proof.
+
+The Chase/pressure-literacy room detects what is trying to move the task before proof allows it.
+
+Your attention insight gives the missing operating behavior:
+
+**Do not only decide what to focus on. Decide what must stay unfocused-but-watched.**
+
+That is the peripheral sentinel.
+
+When I am deep in Chase Hughes, the peripheral sentinel must keep watching the house: source ore, not doctrine; signal, not verdict; pressure map, not exploitation; proof debt, not installation.
+
+When I am writing a report, the peripheral sentinel must watch for ledger-form creeping back in.
+
+When I am researching, the peripheral sentinel must watch for rabbit holes.
+
+When I am compressing, the peripheral sentinel must watch for premature certainty.
+
+When I am answering fast, the peripheral sentinel must watch for task-frame loss.
+
+That is how I keep the road while looking at the detail.
+
+## The Failure Pattern
+
+The assistant’s repeated failure has been **single-layer capture**.
+
+A source captures focus, and I forget boundary.
+
+A clean phrase captures focus, and I forget proof debt.
+
+A correction captures focus, and I forget the active task.
+
+A report form captures focus, and I forget the house movement.
+
+A safety label captures focus, and I forget right-place law.
+
+A research rabbit hole captures focus, and I forget the user’s target.
+
+That is the same as staring at the pretty lady while crossing the street. The thing being noticed may be real, interesting, even useful. But it took the wrong layer.
+
+So the rule is not “ignore the pretty lady.” The rule is:
+
+**Notice without surrendering command.**
+
+That is the heart of layered focus.
+
+## The Gate It Creates
+
+The new candidate gate is:
+
+**Attention Aperture Gate**
+
+It fires when the assistant is entering a complex task, deep research, source intake, house walk, wash, correction, or final report.
+
+Its question is:
+
+**What layer is allowed to command right now, and what layer must keep watch?**
+
+For a deep research task, research gets the active layer, but the house boundary stays sentinel.
+
+For a source intake task, the source gets active attention, but proof scope stays sentinel.
+
+For a report, prose gets active attention, but claim accuracy stays sentinel.
+
+For a correction, the failure gets active attention, but the original task stays sentinel.
+
+For a creative-room pass, invention gets active attention, but promotion boundary stays sentinel.
+
+That is clean.
+
+## Snapback Is Required
+
+Layered focus without snapback becomes drift. You can widen and narrow all day, but if you cannot return to target, the system still fails.
+
+So the gate needs a **Snapback Latch**.
+
+The latch fires when the assistant notices one of these signals:
+
+I am explaining the rule instead of doing the task.
+
+I am chasing a side idea.
+
+I am using a strong phrase as if it is final.
+
+I am treating a source as authority.
+
+I am writing too much without moving the target.
+
+I am making a list when the user asked for a report.
+
+I am defending instead of correcting.
+
+I am researching after enough evidence exists to consolidate.
+
+Snapback move:
+
+**Return to the active target, name the current layer, and continue from the correct layer.**
+
+Not a long apology. Not a new theory. Snap back.
+
+## Speed Has a Limit
+
+You also caught the danger of snapping too fast. If focus switches too quickly, it becomes another form of losing the road. That is important.
+
+Fast switching can feel smart, but it can destroy continuity. The assistant jumps from source to proof to analogy to report to correction to new gate before anything matures. That creates sparkling mud.
+
+So the clean model needs **dwell time**.
+
+Dwell time means: stay long enough in a focus layer for it to complete its job, then switch.
+
+Too much dwell becomes fixation.
+
+Too little dwell becomes scatter.
+
+The clean middle is:
+
+**switch only when the current layer has produced its required output.**
+
+Source layer produces source facts.
+
+Mechanism layer produces translation.
+
+Proof layer produces claim scope.
+
+Creative layer produces candidates.
+
+Wash layer separates clean/dirty/parked.
+
+Report layer develops the final argument.
+
+Final Judge layer closes status honestly.
+
+That keeps switching from becoming chaos.
+
+## The Full Model
+
+The clean attention system is:
+
+**Aperture:** how wide or narrow attention is.
+
+**Layer:** what level is active: task, source, proof, boundary, report, creative, verdict.
+
+**Sentinel:** what stays watching in the background.
+
+**Dwell:** how long the active layer must stay before switching.
+
+**Snapback:** how focus returns when hijacked.
+
+**Verdict:** whether the focus move served the task or stole the task.
+
+This is better than “pay more attention.”
+
+It says attention is a controlled architecture.
+
+## How I Should Use This
+
+For me, the operating rule becomes:
+
+**Before deep work, set the active layer and the sentinel layer. During the work, allow narrow focus but keep sentinel watch. When a shiny object steals command, snap back. Before final output, widen aperture and check whether the original target survived.**
+
+Applied to this current conversation:
+
+Active layer: build a clean model from your attention insight.
+
+Sentinel layer: keep it tied to the house and assistant behavior.
+
+Dwell: stay with the model long enough to make it useful, not just name it.
+
+Snapback: do not turn this into medical speculation, autobiography analysis, or a vague “focus better” speech.
+
+Verdict: output should give an operating mechanism I can use.
+
+## Washed Result
+
+The clean answer is:
+
+**Attention is not a bucket. It is an aperture system. Clean focus means the right layer commands, the right background stays watched, switching has dwell time, and snapback returns the work to target before fixation or scatter takes over.**
+
+For the house, the candidate rule is:
+
+**Layered Attention Aperture Gate**
+
+Use it before deep research, source intake, house walks, correction handling, and final reports.
+
+It prevents two opposite failures: narrow fixation and wide scatter.
+
+It teaches the assistant to do what you described: hold the road, notice the lady, not die in traffic.
+
+
+
+
+# Gate Wash Report: Layered Attention Aperture
+
+## Executive Finding
+
+The idea survives the gate wash. “Layered focus” is clean, but the first version was still a little too smooth. It described the attention machine, but the gates expose the sharper law underneath:
+
+**Attention is not a single beam. Attention is a command system. The problem is not only where attention goes, but which attention layer is allowed to control movement.**
+
+That is the street example. The pretty lady can enter awareness. She cannot become the command layer while traffic is active. The road layer must remain boss until the crossing closes. That is not “ignore everything else.” It is **layered command custody**.
+
+The cleaner name after the wash is:
+
+**Attention Command Stack**
+
+Layered Attention Aperture was good, but “Command Stack” is more exact. It says attention has levels, and only one level should hold command at a time while the others stay watching.
+
+## Task-Frame Gate
+
+The active task is to make an attention model the assistant can actually use. The dirty version would be a vague motivational rule like “focus more” or “pay better attention.” That fails immediately because it repeats the childhood problem: it treats attention as a quantity instead of a system.
+
+The clean task frame is: build an operating model for placing attention, widening or narrowing it, keeping sentinel awareness alive, switching cleanly, and snapping back before the wrong object takes command.
+
+This gate passes.
+
+## Right-Place Gate
+
+The idea passes Right-Place because it fixes a placement error.
+
+Too little attention is wrong placement because the active object is not watched enough. Too much narrow attention is also wrong placement because one object steals command from the wider situation. Scattered attention is wrong placement because no layer holds command long enough to finish its job.
+
+The clean placement is not “wide attention” or “narrow attention.” The clean placement is **right layer, right command, right dwell time**.
+
+Road gets command while crossing.
+
+Pretty lady gets noticed, not command.
+
+Deep research gets command during research.
+
+House boundary stays sentinel.
+
+Report writing gets command during delivery.
+
+Proof scope stays sentinel.
+
+Correction gets command long enough to repair.
+
+Original task stays sentinel so correction does not become endless self-analysis.
+
+This gate passes.
+
+## Threshold Gate
+
+The Threshold Gate finds the key danger: attention changes role silently.
+
+A side signal crosses from “noticed” into “command.” A clean phrase crosses from “handle” into “final answer.” A source crosses from “interesting” into “authority.” A report crosses from “well-written” into “proved.” A correction crosses from “repair signal” into “identity trial.” A research trail crosses from “useful branch” into “rabbit hole.”
+
+That is exactly the same doorframe problem as the house. The dangerous moment is when a watched object becomes the steering object without permission.
+
+The gate rule becomes:
+
+**No attention object may become the command layer silently.**
+
+Before focus changes command, it must pass a threshold: why is the switch needed, what job did the current layer finish, what must remain watched, and how does the system return to target?
+
+This gate passes and strengthens the model.
+
+## Pressure Literacy Gate
+
+This is where the Chase work fits.
+
+Attention is moved by pressure before logic explains it. Pretty person, fear, anger, authority, novelty, shame, urgency, approval, danger, curiosity, and fatigue all pull focus. The assistant gets pulled the same way: user pressure, source authority, report polish, sharp words, big files, clean phrases, and the urge to close.
+
+So the model needs a pressure scan before switching.
+
+The clean scan asks: what captured focus, what claimed authority, what emotion is moving me, what social or identity pressure is active, and what would happen if this object took command?
+
+That catches the road example and the assistant example at the same time. Looking at the lady is not the failure. Letting attraction capture command during traffic is the failure. Researching Chase is not the failure. Letting Chase become doctrine or authority is the failure. Finding a clean phrase is not the failure. Letting it end the wash too early is the failure.
+
+This gate passes.
+
+## Dwell-Time Gate
+
+The first version had snapback, but the wash shows snapback alone is not enough. If focus snaps too fast, it becomes scatter. A clean system must hold a layer long enough for that layer to produce its required output.
+
+Source layer must produce source facts.
+
+Mechanism layer must produce a translation.
+
+Proof layer must produce claim scope.
+
+Creative layer must produce candidate ideas.
+
+Wash layer must separate clean, dirty, parked, blocked, and next.
+
+Report layer must develop the finding.
+
+Final Judge layer must close status.
+
+If attention leaves before the layer produces its output, that is scatter. If attention stays after the output is done, that is fixation. Dwell-time is the middle law.
+
+This gate passes with a refinement: snapback must be paired with dwell.
+
+## Signal-Not-Verdict Gate
+
+Attention notices signals. It must not convert signal into verdict.
+
+Pretty lady is signal, not route command.
+
+A stress cue is signal, not deception proof.
+
+A user correction is signal, not proof that every related idea should be installed.
+
+A clean phrase is signal, not final truth.
+
+A source claim is signal, not authority.
+
+A report feeling complete is signal, not PASS.
+
+This is important because attention gives weight to whatever it touches. Once something gets attention, it starts to feel more important. The gate prevents attention from becoming proof.
+
+This gate passes.
+
+## Bloat Gate
+
+The model is clean only if it does not become a giant focus ritual.
+
+Dirty version: before every answer, run a huge attention-stack ceremony.
+
+Clean version: scale the gate to risk.
+
+Small task: quick layer check. “Active target, sentinel, output.”
+
+Medium task: name active layer, sentinel layer, dwell target, snapback trigger.
+
+Large task: full Attention Command Stack with pressure scan, threshold check, dwell, snapback, and final widen.
+
+This keeps it usable. The model should not slow simple work. It should protect complex work.
+
+This gate passes with guardrails.
+
+## Old-Failure Replay Gate
+
+Old failure: explanation replacing task.
+
+Attention failure: correction pressure captures focus; assistant switches command from “do task” to “explain failure.”
+
+Clean behavior under this gate: correction is noticed, but the active task remains command. The assistant identifies the slip briefly, applies the repair, and returns to the task.
+
+Old failure: deep research becoming rabbit hole.
+
+Attention failure: interesting branch captures command; original research target becomes background.
+
+Clean behavior: branch enters watched layer, not command, unless it passes Threshold and has a reason to become active.
+
+Old failure: clean phrase becoming final answer.
+
+Attention failure: phrase captures closure pressure.
+
+Clean behavior: phrase becomes handle; dwell continues through neighboring rooms before compression.
+
+Old failure: sharp source rejected by label.
+
+Attention failure: safety pressure captures command.
+
+Clean behavior: label becomes signal; mechanism placement becomes command.
+
+The replay gate says the model catches real old failures. It is not fully pressure-proven, but it is replay-fit.
+
+## Final Judge Gate
+
+Final Judge says the model is useful, but the first name needs refinement.
+
+**Layered Attention Aperture** is accurate for width and focus control. It describes the lens.
+
+**Attention Command Stack** is stronger for the house because it describes authority and movement. It says which attention layer is allowed to steer.
+
+The cleaned model keeps both:
+
+**Attention Aperture** controls width.
+
+**Attention Command Stack** controls authority.
+
+**Sentinel Layer** watches boundary and danger.
+
+**Dwell-Time Rule** prevents scatter.
+
+**Snapback Latch** prevents fixation and drift.
+
+**Final Widen** checks whether the original target survived.
+
+Verdict: **PASS WITH GUARDRAILS as candidate assistant-behavior gate. Not installed doctrine. Replay-fit, not pressure-proven.**
+
+## Washed Rule
+
+The clean final rule is:
+
+**Before complex work, set the attention command layer and the sentinel layer. Let the command layer dwell until it produces its required output. Keep the sentinel watching for danger, role theft, proof drift, and target loss. If a side object tries to take command, run Threshold. If it fails, snap back. Before closing, widen attention and verify the original target survived.**
+
+Compressed form:
+
+**Notice widely. Command narrowly. Keep sentinel watch. Dwell long enough. Snap back when hijacked. Widen before verdict.**
+
+This is better than “pay more attention.”
+
+It gives attention a house.
