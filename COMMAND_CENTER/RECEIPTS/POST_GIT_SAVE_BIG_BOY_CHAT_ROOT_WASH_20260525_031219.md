@@ -9,6 +9,11 @@ Scoped support artifact commit:
 
 `b16978b Save big boy chat root wash artifacts`
 
+Follow-up receipt/boundary commits:
+
+- `8c7913f Record big boy chat root wash git receipt`
+- `a9feb88 Clarify big boy wash save boundary`
+
 ## Committed Scope
 
 - COMMAND_CENTER\RECEIPTS\BIG_BOY_CHAT_ROOT_DOCS_10_LOOP_WASH_RECEIPT_20260525_031219.md
