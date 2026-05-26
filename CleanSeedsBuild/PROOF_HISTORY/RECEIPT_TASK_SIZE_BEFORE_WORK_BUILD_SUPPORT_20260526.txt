@@ -1,0 +1,32 @@
+RECEIPT - TASK SIZE BEFORE WORK BUILD SUPPORT
+
+Date:
+2026-05-26
+
+Action:
+Installed Task Size Before Work into CleanSeedsBuild proof/history support lane.
+
+Source:
+SOURCE_ORE/USER_DROPS/TASK_SIZE_RULE_FINAL_V1_20260526_010139/TASK_SIZE_RULE_FINAL_V1.txt
+
+Source SHA256:
+FF227F903384332B7FA4194D765641F49CA8AFDAA8783D3A445F187EEC815451
+
+Build support file:
+CleanSeedsBuild/PROOF_HISTORY/TASK_SIZE_BEFORE_WORK_BUILD_SUPPORT_20260526.txt
+
+Boundary:
+No ACTIVE_GUIDES file was edited.
+No CURRENT_TRUTH_INDEX file was edited.
+No doctrine promotion was claimed.
+
+Reason:
+The rule belongs in the build as support behavior because it governs object, size, surface, proof, state, and user burden before work begins.
+
+Verification:
+Source custody exists.
+Support file exists.
+Cockpit install and BRAIN_LEARNING install are handled in the main repo lane.
+
+Validation:
+Candidate support behavior is useful now, but promotion requires live-use proof across simple, code, file/source, correction, deep, boss/system repair, repo/save, and dirty terminal recovery tasks.

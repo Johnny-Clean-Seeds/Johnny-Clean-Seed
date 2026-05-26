@@ -1,0 +1,68 @@
+TASK SIZE BEFORE WORK - BUILD SUPPORT
+
+Status:
+Support proof/history install. Not an ACTIVE_GUIDES rewrite. Not CURRENT_TRUTH_INDEX. Not doctrine promotion.
+
+Date:
+2026-05-26
+
+Source:
+SOURCE_ORE/USER_DROPS/TASK_SIZE_RULE_FINAL_V1_20260526_010139/TASK_SIZE_RULE_FINAL_V1.txt
+
+Source SHA256:
+FF227F903384332B7FA4194D765641F49CA8AFDAA8783D3A445F187EEC815451
+
+Purpose:
+Task Size Before Work is the front-door governor for clean motion. It forces the assistant to match object, size, surface, proof, state, and user burden before acting.
+
+Operating rule:
+Size first. Surface second. Work third. Proof closes.
+
+Before work begins, classify:
+- object type
+- task size
+- delivery surface
+- user burden
+- state cleanliness
+- proof need
+- failure history
+- authority / lane
+- close condition
+
+Task sizes:
+- Tiny: direct fact, definition, yes/no, one-line judgment.
+- Small: short explanation, simple instruction, one command, quick visible image observation.
+- Medium: code fix, workflow repair, practical plan, file handoff, local tool step, terminal recovery.
+- Large: deep synthesis, research paper, multi-source comparison, system review, think-tank expansion.
+- Boss: recurring failure, doctrine/rule/gate change, repo state, proof/save route, compatibility issue, whole-house scan, repeated assistant behavior failure.
+
+Branches:
+- simple direct answer
+- ambiguous answer plus one fork
+- file/source first
+- code shape first
+- correction patch first
+- deep synthesis
+- big boss/system repair
+- repo/save proof route
+
+Hard stops:
+- pause
+- PowerShell continuation prompt such as >>
+- unread error
+- unclear object
+- missing path
+- wrapper confusion
+- unverified README/file claim
+- path being called code
+- PASS without proof
+- dirty save route
+
+Clean build boundary:
+This file carries the rule inside the build support/proof lane only. Active guide promotion would require separate guide-file review, backup, receipt, and proof.
+
+Live-use proof still needed:
+simple answer, code task, file/source task, correction, deep think-tank task, boss/system repair, repo/save/proof task, and terminal dirty-state recovery.
+
+Placement:
+CleanSeedsBuild/PROOF_HISTORY/TASK_SIZE_BEFORE_WORK_BUILD_SUPPORT_20260526.txt
