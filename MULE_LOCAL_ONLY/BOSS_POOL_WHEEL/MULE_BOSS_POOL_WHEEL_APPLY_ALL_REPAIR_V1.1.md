@@ -68,5 +68,11 @@ BOUNDARY:
 - No ACTIVE_GUIDE rewrite.
 - No CURRENT_TRUTH_INDEX rewrite.
 
-STATE AFTER REPAIR:
-The 0 Judge + 12 Gates mule boss-pool wheel is local-only support and assistant-facing carryover for mule-file boss-pool runs.
+STATE AFTER 20260526 UPDATE:
+The old 0 Judge + 12 Gates mule boss-pool wheel is superseded by the Twelve-Gate Refinery for gate-run behavior.
+
+Current order:
+Alpha / House Authority Shell opens -> Main Light -> Mirror Water -> Quick Signal -> Sweet Fit -> Red Blade -> Big Sky -> Stone Wall -> Lightning Flip -> Deep Fog -> Root Pit -> Road Pull -> Old Weight Final speaks -> Omega / Outer Final Judge closes.
+
+Current normal-mode speech:
+middle gates muted; Old Weight Final speaks; Omega returns final result, placement, proof status, and next action.

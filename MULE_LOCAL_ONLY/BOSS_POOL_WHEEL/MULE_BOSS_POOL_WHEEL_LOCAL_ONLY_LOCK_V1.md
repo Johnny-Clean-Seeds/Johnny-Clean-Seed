@@ -22,7 +22,13 @@ CONTROL RULE:
 Use this as run-shape support only. It may organize mule runs. It may not override the controller gate, compact spine, active user task, or current run lock.
 
 LOAD-IN-CHAT NOTE:
-Assistant should keep the 0 Judge + 12 Gates wheel in working context for mule-file boss-pool runs and use it to fill blanks when the local-only files are absent from the formal brain.
+Assistant should keep the Twelve-Gate Refinery in working context for gate runs and mule-file boss-pool runs and use it to fill blanks when the local support files are absent from the formal brain.
+
+CURRENT RUN SHAPE:
+Alpha / House Authority Shell opens -> Main Light -> Mirror Water -> Quick Signal -> Sweet Fit -> Red Blade -> Big Sky -> Stone Wall -> Lightning Flip -> Deep Fog -> Root Pit -> Road Pull -> Old Weight Final speaks -> Omega / Outer Final Judge closes.
+
+MUTE RULE:
+In normal mode, middle gates are muted. Only Old Weight Final speaks from the 12-gate sequence, then Omega closes compactly.
 
 STOP RULE:
 If this conflicts with a current user instruction, current mule controller, or safety boundary, stop and ask for the smallest clarification or write an expansion request. Do not improvise authority.

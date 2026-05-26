@@ -1,104 +1,88 @@
-# Mule Boss Pool Wheel — 0 Judge + 12 Gates — V1
+# Mule Boss Pool Wheel - 12-Gate Refinery Current Shape - V2
 
-CORE SHAPE:
-0 JUDGE sits in the center.
-1-12 sit around it as ordered gates.
-The run moves 1 -> 12, then returns to 1 only after 0 JUDGE closes the cycle.
+STATUS: LOCAL SUPPORT / UPDATED GATE-RUN SHAPE / NOT ACTIVE DOCTRINE
 
-THREE CONTROLS:
-1. Order — every gate fires in sequence.
-2. Domain — every gate owns one job.
-3. Relationship — every gate has neighbors and an opposite/checking gate.
+This replaces the old 0 Judge + 12 Gates wheel for gate-run behavior.
 
-0. JUDGE GATE — Center / Whole-Wheel Judge
-Job: starts the run, watches every gate, judges every gate, and closes the run.
-Checks:
-- Did each gate fire?
-- Did each gate stay in its job?
-- Did any gate overreach?
-- Did any gate get skipped?
-- Did the run finish cleanly?
-- Is the output safe for user review?
+When the user says to run an object through the gate or gates, use the Twelve-Gate Refinery shape below unless the user explicitly names a different gate system.
 
-1. ANCHOR GATE — Current Position
-Job: confirms current project position, active task, active lane, what is already closed, and what must not be reopened.
+## Core Shape
 
-2. RUN LOCK GATE — Run Contract
-Job: locks mode, scope, authority, inputs, allowed output, stop rule, and expansion rule before work begins.
+Alpha / House Authority Shell opens before the gates.
 
-3. AUTHORITY GATE — What Can Command
-Job: separates command files from reference, stale history, source ore, support, and non-command material.
+The object then moves through gates 1-12 in order.
 
-4. FILE ROLE GATE — Every Object Gets a Job
-Job: classifies every mule file as active controller, active spine, active support, optional expansion, stale, retired, duplicate, unknown, or needs user review.
+Middle gates act silently in normal mode.
 
-5. VERSION DRIFT GATE — Old vs Current
-Job: checks version conflict and decides which version controls normal runs, which versions are support-only, and which versions are stale or ignored.
+Only Old Weight Final speaks from the 12-gate sequence.
 
-6. NEIGHBOR FIT GATE — Side-to-Side Compatibility
-Job: checks nearby gates, files, rules, lanes, and workflows before changing anything, so one fix does not break its neighbor.
+Omega / Outer Final Judge closes the run.
 
-7. MIRROR / OPPOSITE CHECK GATE — Direct Counterbalance
-Job: checks the opposite side of the wheel. It asks what the opposite risk is, what a gate would miss by itself, whether the run is too narrow or too broad, and whether the fix creates the opposite problem.
+## Run Order
 
-8. CONTROLLER / SPINE FIT GATE — Minimal Working Set
-Job: decides whether the controller gate plus compact spine are enough for the mule to run cleanly.
+0. Alpha / House Authority Shell opens.
+1. Main Light.
+2. Mirror Water.
+3. Quick Signal.
+4. Sweet Fit.
+5. Red Blade.
+6. Big Sky.
+7. Stone Wall.
+8. Lightning Flip.
+9. Deep Fog.
+10. Root Pit.
+11. Road Pull.
+12. Old Weight Final speaks.
+13. Omega / Outer Final Judge closes.
 
-9. EXPANSION GATE — Bigger Context Permission
-Job: controls access to bigger files, boards, archives, folders, or broader context. Default is no expansion unless blocked.
+## Alpha Locks
 
-10. OUTPUT SHAPE GATE — Return Format
-Job: forces mule output into a clean top block and reviewable sections.
+Alpha locks:
 
-Required top block:
-STATUS:
-RUN LOCK:
-FILES READ:
-TASK:
-SCOPE:
-MODE:
-NOT DONE:
-NEEDS USER REVIEW:
+- object;
+- source;
+- mode;
+- lane;
+- boundary;
+- needed proof level.
 
-11. NO PROMOTION GATE — Authority Boundary
-Job: blocks premature authority changes unless explicitly authorized:
-- merge
-- doctrine install
-- active guide rewrite
-- CURRENT_TRUTH_INDEX rewrite
-- deletion
-- cleanup
-- final truth declaration
-- broad restructuring
+No object lock, no gate run.
 
-12. FIT DECISION / CARRYOVER GATE — Close and Feed Forward
-Job: gives every object a disposition and names the next clean move.
+## Normal Output
 
-Disposition options:
-- use now
-- support only
-- shed later
-- retire
-- duplicate
-- reject
-- unknown / needs review
-- expansion candidate
-- return trigger
+Normal mode returns only:
 
-WHEEL MECHANICS:
-0 Judge opens.
-1 Anchor.
-2 Run Lock.
-3 Authority.
-4 File Role.
-5 Version Drift.
-6 Neighbor Fit.
-7 Mirror/Opposite Check.
-8 Controller/Spine Fit.
-9 Expansion.
-10 Output Shape.
-11 No Promotion.
-12 Fit Decision / Carryover.
-0 Judge closes.
+- Final result.
+- Placement.
+- Proof status.
+- Next action.
 
-Only after Judge closes clean may 12 feed the next clean start back to 1.
+No gate hallway unless debug/proof/save/repair mode requires trace.
+
+## Fixed Verdict Set
+
+- ACCEPT
+- ACCEPT WITH GUARDRAILS
+- REFINE
+- SPLIT
+- PARK WITH RETURN TRIGGER
+- NEEDS SOURCE
+- NEEDS PROOF
+- BLOCK
+- READY FOR NARROW LIVE USE
+- READY FOR SAVE ROUTE
+- NOT PROMOTED
+
+## Boundary
+
+This is a support tool.
+
+It does not promote doctrine.
+It does not rewrite ACTIVE_GUIDES.
+It does not rewrite CURRENT_TRUTH_INDEX.
+It does not replace proof.
+It does not make symbolic source material command authority.
+
+Canonical full card file:
+
+HOUSE_WORK/GATE_RINGS/TWELVE_GATE_REFINERY_20260526/TWELVE_GATE_REFINERY_CONTROL_SHELL_AND_CARDS_20260526.md

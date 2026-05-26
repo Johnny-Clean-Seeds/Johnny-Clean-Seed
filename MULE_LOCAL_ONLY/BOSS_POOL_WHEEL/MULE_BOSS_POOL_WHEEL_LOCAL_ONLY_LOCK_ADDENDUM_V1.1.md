@@ -12,23 +12,30 @@ The assistant must remember and apply the 0 Judge + 12 Gates wheel for mule-file
 
 A save is not complete until both surfaces are done.
 
-DEFAULT MULE-FILE BOSS-POOL SHAPE:
-0 Judge center.
-1 Anchor.
-2 Run Lock.
-3 Authority.
-4 File Role.
-5 Version Drift.
-6 Neighbor Fit.
-7 Mirror/Opposite Check.
-8 Controller/Spine Fit.
-9 Expansion.
-10 Output Shape.
-11 No Promotion.
-12 Fit Decision / Carryover.
+DEFAULT GATE-RUN SHAPE:
+0 Alpha / House Authority Shell opens.
+1 Main Light.
+2 Mirror Water.
+3 Quick Signal.
+4 Sweet Fit.
+5 Red Blade.
+6 Big Sky.
+7 Stone Wall.
+8 Lightning Flip.
+9 Deep Fog.
+10 Root Pit.
+11 Road Pull.
+12 Old Weight Final speaks.
+13 Omega / Outer Final Judge closes.
+
+MUTE RULE:
+In normal mode, middle gates act silently. Old Weight Final speaks. Omega closes compactly.
+
+NORMAL RETURN:
+Final result. Placement. Proof status. Next action.
 
 FILL-IN-THE-BLANKS RULE:
-Because these three mule files are local-only and intentionally not public/brain authority, the assistant should use this remembered structure to fill missing run-shape context during mule-file boss-pool work.
+Because these mule files are support files and intentionally not active-guide authority, the assistant should use this remembered structure to fill missing run-shape context during gate-run or mule-file boss-pool work.
 
 LIMIT:
 This support shape cannot override current user instruction, controller gate, compact spine, active run lock, or safety boundary.

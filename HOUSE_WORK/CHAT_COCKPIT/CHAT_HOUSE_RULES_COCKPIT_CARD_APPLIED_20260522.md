@@ -426,3 +426,64 @@ Blocked:
 
 Short form:
 Sequencer decides next order. CONSOLIDATOR sorts repeated overlap. Omega closes.
+
+---
+
+## 2.37 Twelve-Gate Refinery Run Rule
+
+When the user says to run something through the gate or gates, use the Twelve-Gate Refinery unless the user explicitly names a different gate system.
+
+Authority shell opens before the gates:
+
+- lock object;
+- lock mode;
+- lock source;
+- lock lane;
+- lock boundary;
+- lock needed proof level.
+
+Exact live order:
+
+`Alpha / House Authority Shell -> Main Light -> Mirror Water -> Quick Signal -> Sweet Fit -> Red Blade -> Big Sky -> Stone Wall -> Lightning Flip -> Deep Fog -> Root Pit -> Road Pull -> Old Weight Final -> Omega / Outer Final Judge`
+
+Normal mode:
+
+- middle gates are muted;
+- Old Weight Final speaks;
+- Omega closes compactly;
+- do not show the gate hallway.
+
+Normal output:
+
+- Final result;
+- Placement;
+- Proof status;
+- Next action.
+
+Debug/proof/save/repair modes may expose trace only as needed for verification, receipt, or repair.
+
+Fixed verdict set:
+
+- ACCEPT
+- ACCEPT WITH GUARDRAILS
+- REFINE
+- SPLIT
+- PARK WITH RETURN TRIGGER
+- NEEDS SOURCE
+- NEEDS PROOF
+- BLOCK
+- READY FOR NARROW LIVE USE
+- READY FOR SAVE ROUTE
+- NOT PROMOTED
+
+Boundary:
+
+- this is an operating support tool;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no doctrine promotion;
+- no proof replacement;
+- no source or symbolic layer becomes authority.
+
+Short form:
+Gate run means Alpha locks, gates refine in order, middle stays muted, Old Weight Final speaks, Omega verifies/validates/places.
