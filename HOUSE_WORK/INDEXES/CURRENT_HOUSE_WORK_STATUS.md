@@ -6657,3 +6657,15 @@ Placement:
 - local CHAT drop-copies on Desktop and Desktop\123
 Boundary: no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no doctrine promotion, no delete authority, no mule rule change, no raw source/transcript Git staging.
 Short form: All gates decide. No king ding-a-ling. Carry the key, not the furniture.
+
+## 20260527_185435 — Misc Drawer Canonical Naming Rule
+
+Status: READY FOR SAVE ROUTE / NAMING + READ-BEFORE-ACTION LANE SAVED.
+Intent: canonicalize the miscellaneous drawer name and aliases so mixed material is read/classified before action.
+Placement:
+- BRAIN_LEARNING/MISC_DRAWER_CANONICAL_NAMING_RULE_20260527.md
+- cockpit section 2.39B in HOUSE_WORK/CHAT_COCKPIT/CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- local Misc Drawer structure at C:\Users\13527\Desktop\123\_MISC_DRAWER
+- local CHAT drop-copies on Desktop and Desktop\123
+Boundary: no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no doctrine promotion, no delete authority, no raw mixed material Git staging, no mule rule change.
+Short form: Misc Drawer means mixed material waiting to be read and classified. Read first. Classify. Then act.

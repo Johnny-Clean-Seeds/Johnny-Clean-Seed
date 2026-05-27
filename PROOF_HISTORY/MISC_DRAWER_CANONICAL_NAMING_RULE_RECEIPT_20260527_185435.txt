@@ -1,0 +1,39 @@
+MISC DRAWER CANONICAL NAMING RULE RECEIPT
+Date: 20260527_185435
+Repo: C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz
+Branch: main
+Pre-HEAD: 7951911
+
+Verdict:
+PASS PENDING PUSH / MISC DRAWER CANONICAL NAME + CHAT BEHAVIOR PATCH INSERTED.
+
+Created or updated:
+- BRAIN_LEARNING/MISC_DRAWER_CANONICAL_NAMING_RULE_20260527.md
+- HOUSE_WORK/CHAT_COCKPIT/CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+- PROOF_HISTORY/MISC_DRAWER_CANONICAL_NAMING_RULE_RECEIPT_20260527_185435.txt
+
+Local-only structure:
+- C:\Users\13527\Desktop\123\_MISC_DRAWER
+- C:\Users\13527\Desktop\123\_MISC_DRAWER\RECEIPTS\MISC_DRAWER_LOCAL_STRUCTURE_RECEIPT_20260527_185435.txt
+
+Local-only CHAT drop-copies:
+- C:\Users\13527\Desktop\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- C:\Users\13527\Desktop\123\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+
+Existing-owner check:
+No alternate BRAIN_LEARNING Misc Drawer owner found before write.
+
+Boundary held:
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no doctrine promotion;
+- no delete authority;
+- no raw mixed material Git staging;
+- no proof/source/receipt burning;
+- no mule rule change;
+- no root slop created by this script.
+
+Short form:
+Misc Drawer means mixed material waiting to be read and classified.
+Read first. Classify. Then act.

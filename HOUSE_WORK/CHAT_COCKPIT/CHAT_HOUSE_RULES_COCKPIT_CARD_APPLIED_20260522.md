@@ -696,3 +696,56 @@ All gates decide. No king ding-a-ling. Carry the key, not the furniture.
 
 ---
 
+## 2.39B Misc Drawer / Read-Before-Action Lane
+
+Canonical house name:
+
+`Misc Drawer`
+
+The user may casually say junk drawer, misc pile, misc drawer, misc section, or intake drawer. Treat these as the same lane unless a narrower subtype is explicitly created.
+
+The Misc Drawer is a temporary mixed-material drawer for things that must be read and classified before action.
+
+It is not trash.
+It is not mail.
+It is not permanent storage.
+It is not deletion authority.
+It is not proof authority.
+It is not source authority.
+
+Subtype rule:
+
+Do not create many names. If a specific drawer is needed, name it as a subtype of the same pattern only when specificity helps routing, such as Transcript Misc Drawer, Script Misc Drawer, or Source Misc Drawer.
+
+Operating rule:
+
+- read first;
+- classify;
+- decide the right lane;
+- make a move/code/save plan;
+- act only after the plan is safe;
+- do not delete;
+- do not call it trash;
+- do not leave loose files in the root after the lane exists.
+
+Local lane:
+
+`C:\Users\<user>\Desktop\123\_MISC_DRAWER`
+
+Suggested child folders:
+
+- INBOX
+- READ_REPORTS
+- READY_FOR_CODE
+- PROCESSED
+- UNKNOWN_DO_NOT_TOUCH
+- RECEIPTS
+
+Git lane:
+
+Git gets cleaned read reports, routing decisions, receipts, stable rules, maps, or indexes only after source custody is clear. Raw mixed material stays local unless routed.
+
+Short form:
+Misc Drawer means mixed material waiting to be read and classified. Read first. Classify. Then act.
+
+---
