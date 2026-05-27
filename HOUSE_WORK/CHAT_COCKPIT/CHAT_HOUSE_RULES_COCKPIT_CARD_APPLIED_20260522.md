@@ -749,3 +749,40 @@ Short form:
 Misc Drawer means mixed material waiting to be read and classified. Read first. Classify. Then act.
 
 ---
+
+## 2.39C PowerShell Code Gate / Parse-First Runner
+
+Generated PowerShell must pass Code Gate before user execution unless it is a visibly trivial one-line command.
+
+The Code Gate protects the user from parser mistakes, brittle generated-script shapes, unsafe auto-runs, false PASS, and root/report slop.
+
+Working order:
+
+1. parse first;
+2. classify risk;
+3. block parser FAIL;
+4. block Git-write, delete, move, network, or system scripts unless explicitly allowed;
+5. run only after syntax and risk pass;
+6. capture output, exit code, and target status;
+7. remember that Code Gate PASS is not job PASS.
+
+Rules:
+
+- parser FAIL means never run;
+- style warnings are WATCH, not automatic failure;
+- PASS WITH WATCH is allowed when the watch was expected and named in advance;
+- target exit code 1 with PASS WITH WATCH output is watch, not generic failure;
+- save scripts still need commit, push, HEAD equals origin/main, and clean status;
+- delete/move/system scripts need separate lane approval;
+- reports go to _MISC_DRAWER\READ_REPORTS;
+- helper/test files go to _MISC_DRAWER\READY_FOR_CODE or a stable local tools folder;
+- do not leave helper/report slop in Desktop\123 root.
+
+Generation style:
+
+Avoid dense inline PowerShell calls. Precompute Ok, Verdict, and Evidence, then call the function with named parameters.
+
+Short form:
+Parse first. Run second. Save third. Code Gate PASS is not job PASS.
+
+---

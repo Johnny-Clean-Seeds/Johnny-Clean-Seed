@@ -1,0 +1,46 @@
+POWERSHELL CODE GATE PARSE-FIRST RULE RECEIPT
+Date: 20260527_194115
+Repo: C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz
+Branch: main
+Pre-HEAD: fbc570c
+
+Verdict:
+PASS PENDING PUSH / CODE SAFETY LANE INSERTED.
+
+Created or updated:
+- BRAIN_LEARNING/POWERSHELL_CODE_GATE_PARSE_FIRST_RULE_20260527.md
+- HOUSE_WORK/WORK_SHED/THINK_TANK/GATE_RUNS/POWERSHELL_CODE_GATE_PARSE_FIRST_WASH_20260527.md
+- HOUSE_WORK/CHAT_COCKPIT/CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+- PROOF_HISTORY/POWERSHELL_CODE_GATE_PARSE_FIRST_RULE_RECEIPT_20260527_194115.txt
+
+Local-only tool:
+- C:\Users\13527\Documents\Tools\PowerShellCodeGate\POWERSHELL_CODE_GATE_RUNNER_V1.3.ps1
+- C:\Users\13527\Documents\Tools\PowerShellCodeGate\README_POWERSHELL_CODE_GATE_V1.0.txt
+
+Local-only CHAT drop-copies:
+- C:\Users\13527\Desktop\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- C:\Users\13527\Desktop\123\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+
+Proof reports verified before save:
+- C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\POWERSHELL_CODE_GATE_TEST_LADDER_V1.1_REPORT_20260527_193549.md
+- C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\POWERSHELL_CODE_GATE_RUNNER_REPORT_V1.3_20260527_193549_POWERSHELL_CODE_GATE_TEST_LADDER_V1.1.ps1.md
+
+Required proof observed:
+- PASS WITH WATCH core ladder safety;
+- no FAIL verdict rows in ladder report;
+- expected WATCH row present;
+- expected false-PASS watch;
+- runner V1.3 child target status TARGET_PASS_WITH_WATCH.
+
+Boundary held:
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no doctrine promotion;
+- no delete authority;
+- no proof/source/receipt burning;
+- no mule rule change;
+- no raw source/transcript Git staging.
+
+Short form:
+Parse first. Run second. Save third. Code Gate PASS is not job PASS.

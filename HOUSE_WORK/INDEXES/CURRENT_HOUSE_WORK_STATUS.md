@@ -6669,3 +6669,19 @@ Placement:
 - local CHAT drop-copies on Desktop and Desktop\123
 Boundary: no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no doctrine promotion, no delete authority, no raw mixed material Git staging, no mule rule change.
 Short form: Misc Drawer means mixed material waiting to be read and classified. Read first. Classify. Then act.
+
+## 20260527_194115 — PowerShell Code Gate / Parse-First Runner Rule
+
+Status: READY FOR SAVE ROUTE / CODE SAFETY LANE SAVED.
+Intent: prevent generated PowerShell from reaching the user before parser/risk/proof checks.
+Placement:
+- BRAIN_LEARNING/POWERSHELL_CODE_GATE_PARSE_FIRST_RULE_20260527.md
+- HOUSE_WORK/WORK_SHED/THINK_TANK/GATE_RUNS/POWERSHELL_CODE_GATE_PARSE_FIRST_WASH_20260527.md
+- cockpit section 2.39C in HOUSE_WORK/CHAT_COCKPIT/CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- local tool copy at C:\Users\13527\Documents\Tools\PowerShellCodeGate\POWERSHELL_CODE_GATE_RUNNER_V1.3.ps1
+- local CHAT drop-copies on Desktop and Desktop\123
+Proof source:
+- C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\POWERSHELL_CODE_GATE_TEST_LADDER_V1.1_REPORT_20260527_193549.md
+- C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\POWERSHELL_CODE_GATE_RUNNER_REPORT_V1.3_20260527_193549_POWERSHELL_CODE_GATE_TEST_LADDER_V1.1.ps1.md
+Boundary: no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no doctrine promotion, no delete authority, no move/delete/network/system auto-run, no mule rule change.
+Short form: Parse first. Run second. Save third. Code Gate PASS is not job PASS.
