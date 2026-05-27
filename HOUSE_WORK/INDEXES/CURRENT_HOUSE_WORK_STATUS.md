@@ -6545,3 +6545,23 @@ KEEP / COMPRESS / POINTER-ONLY / SHED / MERGE / PARK / NEEDS REVIEW / PROOF NEED
 
 Boundary:
 No CURRENT_TRUTH_INDEX rewrite. No ACTIVE_GUIDES rewrite. No doctrine promotion. No automatic deletion.
+
+## 20260527 - Learning Loop / Trail Custody Growth Rule
+
+Status: LIVING PROCESS RULE / CANDIDATE SAVED.
+
+Saved:
+- BRAIN_LEARNING\LEARNING_LOOP_TRAIL_CUSTODY_GROWTH_RULE_20260527.md
+- HOUSE_WORK\WORK_SHED\THINK_TANK\LIVE_PROCESS\LEARNING_LOOP_TRAIL_CUSTODY_GROWTH_THINK_TANK_20260527.md
+- HOUSE_WORK\WORK_SHED\THINK_TANK\GATE_RUNS\LEARNING_LOOP_TRAIL_CUSTODY_GROWTH_GATE_RUN_20260527.md
+- HOUSE_WORK\CHAT_COCKPIT\CHAT_COCKPIT_LEARNING_LOOP_TRAIL_CUSTODY_PATCH_20260527.md
+- PROOF_HISTORY\LEARNING_LOOP_TRAIL_CUSTODY_GROWTH_RULE_RECEIPT_20260527_013451.txt
+
+Meaning:
+After a compounding failure trail, do not close from final success. Preserve the trail, map causes, check existing rules, extract lessons, apply Soft Suit behavior, prove against the original failure, save one object, shed weight, then resume.
+
+Short pointer:
+Failure cannot pass through unchanged.
+
+Boundary:
+No doctrine promotion. No new boss. No ACTIVE_GUIDES or CURRENT_TRUTH_INDEX rewrite.
