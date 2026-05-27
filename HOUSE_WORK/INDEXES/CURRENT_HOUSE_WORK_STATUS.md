@@ -6625,3 +6625,23 @@ No raw chat deletion. No transcript/source folders. No doctrine promotion. No AC
 
 Pointer:
 Tree the meaning. Grey the residue. Keep proof safe.
+
+## 20260527 - House Next-Move Recommendation Loop
+
+Status: LIVING RECOMMENDATION / PROCESS RULE SAVED.
+
+Saved:
+- BRAIN_LEARNING\HOUSE_NEXT_MOVE_RECOMMENDATION_LOOP_RULE_20260527.md
+- HOUSE_WORK\WORK_SHED\THINK_TANK\LIVE_PROCESS\HOUSE_NEXT_MOVE_RECOMMENDATION_LOOP_THINK_TANK_20260527.md
+- HOUSE_WORK\WORK_SHED\THINK_TANK\GATE_RUNS\HOUSE_NEXT_MOVE_RECOMMENDATION_LOOP_GATE_RUN_20260527.md
+- HOUSE_WORK\CHAT_COCKPIT\CHAT_COCKPIT_HOUSE_NEXT_MOVE_RECOMMENDATION_LOOP_PATCH_20260527.md
+- PROOF_HISTORY\HOUSE_NEXT_MOVE_RECOMMENDATION_LOOP_RECEIPT_20260527_035851.txt
+
+Meaning:
+The house should generate next-clean-move candidates from current state, gate them, rank them, and recommend the best move with backup, parked, and blocked alternatives. Execution still requires authority.
+
+Boundary:
+No autonomous execution. No transcripts/source/research folders. No doctrine promotion. No new boss/gate. No ACTIVE_GUIDES or CURRENT_TRUTH_INDEX rewrite.
+
+Pointer:
+House proposes. Gates judge. Assistant obeys.
