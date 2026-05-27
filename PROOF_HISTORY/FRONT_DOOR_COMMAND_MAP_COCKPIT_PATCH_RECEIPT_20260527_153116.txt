@@ -1,0 +1,45 @@
+FRONT-DOOR COMMAND MAP COCKPIT PATCH RECEIPT
+Timestamp: 20260527_153116
+Repo: C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz
+
+Object:
+Corrected front-door command map for cockpit/router support.
+
+Files written:
+HOUSE_WORK\CHAT_COCKPIT\CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+HOUSE_WORK\CHAT_COCKPIT\CHAT_COCKPIT_FRONT_DOOR_COMMAND_MAP_PATCH_20260527.md
+PROOF_HISTORY\FRONT_DOOR_COMMAND_MAP_COCKPIT_PATCH_RECEIPT_20260527_153116.txt
+
+Local drop-copy targets refreshed after save:
+C:\Users\13527\Desktop\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+C:\Users\13527\Desktop\123\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+
+Placement:
+Cockpit/router support object.
+Motion/entry map only.
+Original router remains parent.
+
+Boundary:
+No ACTIVE_GUIDES rewrite.
+No CURRENT_TRUTH_INDEX rewrite.
+No doctrine promotion.
+No raw transcript Git staging.
+No source folder staging.
+No porch cleanup trigger.
+No autonomy.
+No auto-save behavior added.
+
+Proof condition:
+The patch proves itself only by live routing behavior:
+deep walkthrough parks the micro-thread and walks the whole house;
+nxt continues only the approved sequence;
+lock/save saves one object with proof.
+
+Short pointer:
+Door first. Alpha second. Router third.
+
+SHA256 proof:
+F6152492E334B7FAD26A1DBF325ECA0B45101BE141ADE3AE595D52CEB46BA117  HOUSE_WORK\CHAT_COCKPIT\CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+499D894CC3088F3A0A097229F518952E90CECDC37F2A4A8B8A85649D2EEDBE6A  HOUSE_WORK\CHAT_COCKPIT\CHAT_COCKPIT_FRONT_DOOR_COMMAND_MAP_PATCH_20260527.md
+F6152492E334B7FAD26A1DBF325ECA0B45101BE141ADE3AE595D52CEB46BA117  C:\Users\13527\Desktop\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+F6152492E334B7FAD26A1DBF325ECA0B45101BE141ADE3AE595D52CEB46BA117  C:\Users\13527\Desktop\123\CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md

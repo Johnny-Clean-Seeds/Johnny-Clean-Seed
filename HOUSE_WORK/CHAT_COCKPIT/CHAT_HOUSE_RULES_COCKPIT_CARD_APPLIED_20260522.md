@@ -548,3 +548,105 @@ Boundary:
 
 Short form:
 Size first. Surface second. Work third. Proof closes.
+
+---
+
+## 2.39 Front-Door Command Map / Alpha Object Selector
+
+Before Alpha locks the task, run the Front Door Selector.
+
+Core joint:
+
+Front Door selects the command shape. Alpha locks the selected object. Router sends it to the right house-rule family. Gates judge it. Final Judge closes it. Safe Dissolution drops what does not belong live.
+
+Flow:
+
+`USER WORDS / EVENT -> FRONT DOOR SELECTOR -> OBJECT DECLARATION -> ALPHA / ENTRY LOCK -> ROUTER -> ROOM / RULE FAMILY -> GATE WALK -> OUTPUT TYPE -> SAFE DISSOLUTION -> FINAL RESPONSE`
+
+Front Door command shapes:
+
+- pause: stop motion.
+- nxt: continue current approved sequence only.
+- deep walkthrough: park the micro-thread; walk the whole house.
+- lock/save: one save object; proof route.
+- run gates: judge object; do not auto-save.
+- think tank: broaden/refine; do not execute.
+- code/script: file-first; clean-copy rule.
+- porch/root: custody map before movement.
+- source/transcript: source custody; no raw transcript Git.
+- proof/PASS/hash: receipt/proof lane.
+- mule: handoff/review boundary.
+
+Object declaration asks what Alpha receives:
+
+- current micro-task;
+- whole house;
+- save object;
+- source object;
+- proof object;
+- root/porch object;
+- tool/code object;
+- blocked/pause state.
+
+Alpha / entry lock then locks:
+
+- object;
+- source;
+- mode;
+- lane;
+- boundary;
+- proof need;
+- what must not change.
+
+Room families:
+
+- authority spine;
+- cockpit/chat behavior;
+- proof/receipt;
+- save/Git;
+- source custody;
+- porch/root;
+- tools/code;
+- suit/soft suit;
+- Think Tank;
+- gates;
+- mule;
+- memory/data saving.
+
+Gate walk:
+
+- fit;
+- redundancy/waste;
+- boundary;
+- proof;
+- neighbor effects;
+- Final Judge.
+
+Output types:
+
+- answer;
+- inspect;
+- propose;
+- park;
+- block;
+- save one object;
+- execute only if approved.
+
+Boundary:
+
+- this is a motion/entry map, not a full rule copy;
+- original cockpit/router remains parent;
+- no autonomy;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no raw transcript/source Git staging;
+- no cleanup trigger;
+- no auto-save from a map alone.
+
+Proof:
+
+The map proves itself only by behavior. A "deep walkthrough" command must park the current micro-thread and walk the whole house. A "nxt" command must continue only the approved sequence. A "lock/save" command must save one object with proof.
+
+Short form:
+Door first. Alpha second. Router third.
