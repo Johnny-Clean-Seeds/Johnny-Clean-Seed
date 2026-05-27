@@ -6565,3 +6565,23 @@ Failure cannot pass through unchanged.
 
 Boundary:
 No doctrine promotion. No new boss. No ACTIVE_GUIDES or CURRENT_TRUTH_INDEX rewrite.
+
+## 20260527 - Safe Dissolution / Data Saving / Chat Weight Hygiene
+
+Status: LIVING SOFT SUIT FUNCTION SAVED.
+
+Saved:
+- BRAIN_LEARNING\SAFE_DISSOLUTION_DATA_SAVING_CHAT_WEIGHT_HYGIENE_RULE_20260527.md
+- HOUSE_WORK\WORK_SHED\THINK_TANK\LIVE_PROCESS\SAFE_DISSOLUTION_DATA_SAVING_CHAT_WEIGHT_HYGIENE_THINK_TANK_20260527.md
+- HOUSE_WORK\WORK_SHED\THINK_TANK\GATE_RUNS\SAFE_DISSOLUTION_DATA_SAVING_CHAT_WEIGHT_HYGIENE_GATE_RUN_20260527.md
+- HOUSE_WORK\CHAT_COCKPIT\CHAT_COCKPIT_SAFE_DISSOLUTION_DATA_SAVING_PATCH_20260527.md
+- PROOF_HISTORY\SAFE_DISSOLUTION_DATA_SAVING_CHAT_WEIGHT_HYGIENE_RECEIPT_20260527_033152.txt
+
+Meaning:
+The assistant must carry only the active object, trigger, blocker, proof pointer, and next condition. Saved/proofed/local/source material becomes pointer/custody/lane instead of live chat weight.
+
+Boundary:
+No doctrine promotion. No new boss/gate. No transcripts/source folders. No ACTIVE_GUIDES or CURRENT_TRUTH_INDEX rewrite.
+
+Pointer:
+Carry the key, not the furniture.
