@@ -6585,3 +6585,23 @@ No doctrine promotion. No new boss/gate. No transcripts/source folders. No ACTIV
 
 Pointer:
 Carry the key, not the furniture.
+
+## 20260527 - Proof Hash Custody and Parked Carryover
+
+Status: LIVING PROOF WORKFLOW RULE SAVED.
+
+Saved:
+- BRAIN_LEARNING\PROOF_HASH_CUSTODY_AND_PARKED_CARRYOVER_RULE_20260527.md
+- HOUSE_WORK\WORK_SHED\THINK_TANK\LIVE_PROCESS\PROOF_HASH_CUSTODY_AND_PARKED_CARRYOVER_THINK_TANK_20260527.md
+- HOUSE_WORK\WORK_SHED\THINK_TANK\GATE_RUNS\PROOF_HASH_CUSTODY_AND_PARKED_CARRYOVER_GATE_RUN_20260527.md
+- HOUSE_WORK\CHAT_COCKPIT\CHAT_COCKPIT_PROOF_HASH_CUSTODY_CARRYOVER_PATCH_20260527.md
+- PROOF_HISTORY\PROOF_HASH_CUSTODY_AND_PARKED_CARRYOVER_RECEIPT_20260527_034015.txt
+
+Meaning:
+Chat-only hashes/PASS claims are temporary reports unless written into a durable receipt, manifest, index, proof file, or custody report. Small proof items should be parked and carried into the next real save instead of creating proof-bloat commits.
+
+Boundary:
+No doctrine promotion. No new boss/gate. No transcripts/source folders. No ACTIVE_GUIDES or CURRENT_TRUTH_INDEX rewrite.
+
+Pointer:
+Park small proof. Save it with the next real object.
