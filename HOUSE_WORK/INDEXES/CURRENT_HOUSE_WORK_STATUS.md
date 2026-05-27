@@ -6605,3 +6605,23 @@ No doctrine promotion. No new boss/gate. No transcripts/source folders. No ACTIV
 
 Pointer:
 Park small proof. Save it with the next real object.
+
+## 20260527 - Memory Forest / Grey-Vanish Cascade
+
+Status: CANDIDATE MEMORY-HYGIENE PROCESS SAVED.
+
+Saved:
+- BRAIN_LEARNING\MEMORY_FOREST_GREY_VANISH_CASCADE_RULE_20260527.md
+- HOUSE_WORK\WORK_SHED\THINK_TANK\LIVE_PROCESS\MEMORY_FOREST_GREY_VANISH_CASCADE_THINK_TANK_20260527.md
+- HOUSE_WORK\WORK_SHED\THINK_TANK\GATE_RUNS\MEMORY_FOREST_GREY_VANISH_CASCADE_GATE_RUN_20260527.md
+- HOUSE_WORK\CHAT_COCKPIT\CHAT_COCKPIT_MEMORY_FOREST_GREY_VANISH_PATCH_20260527.md
+- PROOF_HISTORY\MEMORY_FOREST_GREY_VANISH_CASCADE_RECEIPT_20260527_034927.txt
+
+Meaning:
+Old chat should be consolidated into concept trees with branches, cross-links, proof pointers, decay states, and return triggers. Raw chat can grey or vanish from live carry only after safe consolidation and proof-custody checks.
+
+Boundary:
+No raw chat deletion. No transcript/source folders. No doctrine promotion. No ACTIVE_GUIDES or CURRENT_TRUTH_INDEX rewrite. No new boss/gate.
+
+Pointer:
+Tree the meaning. Grey the residue. Keep proof safe.
