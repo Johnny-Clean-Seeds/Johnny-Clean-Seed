@@ -650,3 +650,49 @@ The map proves itself only by behavior. A "deep walkthrough" command must park t
 
 Short form:
 Door first. Alpha second. Router third.
+
+## 2.39A All-Gates Data Waste Team Entry Protocol
+
+Data Waste is a team behavior, not one throne.
+
+When dead chat weight, duplicate carried material, old notes, repeated explanations, saved-but-still-carried rules, or over-loaded suit material appear, do not crown one file or one gate.
+
+Let the gate team decide before writing, updating, shedding, burning, dissolving, parking, or carrying material.
+
+Team roles:
+
+- Redundancy / Waste Gate detects duplicate or over-carried weight.
+- Safe Dissolution decides live-load state.
+- Memory Forest / Grey-Vanish preserves meaning while reducing raw carry.
+- Note Burning releases note weight only after clean disposition.
+- No Parking gives every held item a lane and return trigger.
+- Cockpit decides what must affect assistant chat behavior.
+- Final Judge checks that no gate became king.
+- CONSOLIDATOR may propose packing only after repeated evidence.
+
+Rules:
+
+- Scores find neighbors; scores do not choose writes.
+- Detection is not deletion.
+- Dissolve means stop carrying live weight, not destroy evidence.
+- Burn means release active note weight after the useful part has a home.
+- Carry only the key: active object, trigger, current blocker, proof pointer, next condition.
+- Do not carry the furniture when the key is enough.
+
+Blocked:
+
+- no single gate gets the throne;
+- no highest-score write target without role reading;
+- no proof/source/receipt burning;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no doctrine promotion;
+- no raw transcript/source Git staging;
+- no cockpit update without CHAT drop-copies;
+- no mule rule change unless mule lane is explicitly selected.
+
+Short form:
+All gates decide. No king ding-a-ling. Carry the key, not the furniture.
+
+---
+

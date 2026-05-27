@@ -6645,3 +6645,15 @@ No autonomous execution. No transcripts/source/research folders. No doctrine pro
 
 Pointer:
 House proposes. Gates judge. Assistant obeys.
+
+## 20260527_183559 — All-Gates Data Waste Team Entry Protocol
+
+Status: READY FOR SAVE ROUTE / CONNECTOR PROTOCOL SAVED.
+Intent: prevent data/chat-weight waste without crowning one file or one gate.
+Placement:
+- BRAIN_LEARNING/ALL_GATES_DATA_WASTE_TEAM_ENTRY_PROTOCOL_20260527.md
+- HOUSE_WORK/WORK_SHED/THINK_TANK/GATE_RUNS/ALL_GATES_DATA_WASTE_TEAM_ENTRY_WASH_20260527.md
+- cockpit section 2.39A in HOUSE_WORK/CHAT_COCKPIT/CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- local CHAT drop-copies on Desktop and Desktop\123
+Boundary: no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no doctrine promotion, no delete authority, no mule rule change, no raw source/transcript Git staging.
+Short form: All gates decide. No king ding-a-ling. Carry the key, not the furniture.
