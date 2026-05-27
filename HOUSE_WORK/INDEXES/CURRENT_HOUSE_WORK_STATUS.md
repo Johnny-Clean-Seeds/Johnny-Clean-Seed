@@ -6527,3 +6527,21 @@ Save scripts must prove source/repo/state/files/commit/push/remote/final-clean b
 
 Boundary:
 No doctrine promotion. No new boss/gate. No ACTIVE_GUIDES or CURRENT_TRUTH_INDEX rewrite.
+
+## 20260527 - Redundancy / Waste Gate Candidate
+
+Status: CANDIDATE GATE / LIVE PROCESS HELPER SAVED.
+
+Saved:
+- BRAIN_LEARNING\REDUNDANCY_WASTE_GATE_CANDIDATE_RULE_20260527.md
+- HOUSE_WORK\WORK_SHED\THINK_TANK\GATE_CANDIDATES\REDUNDANCY_WASTE_GATE_CANDIDATE_20260527.md
+- PROOF_HISTORY\REDUNDANCY_WASTE_GATE_CANDIDATE_SAVE_RECEIPT_20260527_011733.txt
+
+Meaning:
+Detect redundant data waste, dead chat weight, duplicate files/rules, over-carried suit load, stale copies, unnecessary script bulk, repeated source material, bloated proof, and old route assumptions that survived correction.
+
+Verdicts:
+KEEP / COMPRESS / POINTER-ONLY / SHED / MERGE / PARK / NEEDS REVIEW / PROOF NEEDED.
+
+Boundary:
+No CURRENT_TRUTH_INDEX rewrite. No ACTIVE_GUIDES rewrite. No doctrine promotion. No automatic deletion.
