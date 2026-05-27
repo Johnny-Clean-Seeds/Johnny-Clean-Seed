@@ -6513,3 +6513,17 @@ Boundary:
 - no delete;
 - stronger status requires future live use.
 
+
+## 20260527 - Self-Verifying Save Script Rule
+
+Status: LIVING PROCESS RULE SAVED.
+
+Saved:
+- BRAIN_LEARNING\SELF_VERIFYING_SAVE_SCRIPT_RULE_20260527.md
+- PROOF_HISTORY\SELF_VERIFYING_SAVE_SCRIPT_RULE_RECEIPT_20260527_010302.txt
+
+Meaning:
+Save scripts must prove source/repo/state/files/commit/push/remote/final-clean before printing completion.
+
+Boundary:
+No doctrine promotion. No new boss/gate. No ACTIVE_GUIDES or CURRENT_TRUTH_INDEX rewrite.
