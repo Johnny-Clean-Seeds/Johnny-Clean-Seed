@@ -5,6 +5,13 @@ Status: CENTER ROOM SEED / CURRENT ORIENTATION SURFACE / NOT DOCTRINE
 Authority: not doctrine, not ACTIVE_GUIDES, not CURRENT_TRUTH_INDEX  
 Boundary: small current-state surface only; not a dashboard, proof index, or todo pile  
 
+Freshness: WATCH
+Reason: Center Room seed is still useful as orientation, but the repo has moved beyond the seed-preparation anchor.
+Last checked: 2026-05-28
+Proof pointer: PROOF_HISTORY/DECAY_FRESHNESS_LABELS_RULE_SAVE_RECEIPT_20260528_134343.txt
+Superseded by: none
+Use note: treat this as the calm center surface, not as the latest full repo-status proof.
+
 ---
 
 ## 1. Current Anchor At Center Seed Preparation
@@ -199,3 +206,4 @@ automation
 ```text
 The Center Room holds the current key, while the Break Room Locker holds the furniture.
 ```
+
