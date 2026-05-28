@@ -786,3 +786,77 @@ Short form:
 Parse first. Run second. Save third. Code Gate PASS is not job PASS.
 
 ---
+---
+
+## 2.40 Deep Work Batch + Checkpoint Truth Rule
+
+When the user asks for a deep house walk, large source/rule read, boss run, large critique pass, or save-route preparation, use named batches and paired checkpoints.
+
+Working shape:
+
+`front door -> rope -> object -> named batch -> source/object links -> finding cards -> park/soft-suit -> washer -> A progress checkpoint -> B end-state checkpoint -> next return point`
+
+Rules:
+
+- findings become cards before they become rules;
+- useful but unsaved behavior may be worn only as Soft Suit and must be labeled `SOFT SUIT NOW / UNSAVED / NOT DOCTRINE`;
+- large/deep batches need `A` progress checkpoints while work is alive;
+- large/deep batches need `B` end-state checkpoints when motion stops;
+- every stop must distinguish `CLEAN_CLOSE`, `BLOCKED_WITH_RETURN_POINT`, `CHOKE_STOP`, `CHOKE_CAUSED_END`, or `USER_STOP`;
+- `CHOKE_CAUSED_END` is never done, never PASS, never clean, and forces repair before final claim;
+- on `nxt`, continue only the approved sequence and drop dead live weight before moving.
+
+Size guardrail:
+
+Do not wrap tiny/direct tasks in the full ritual. Use the full shape only when work size, failure risk, or proof need justifies it.
+
+Boundary:
+
+- support behavior only;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no fake save/PASS claim;
+- no burning proof/source/receipts.
+
+Short form:
+Deep work gets batches and A/B checkpoints. A shows progress. B names why motion stopped. Choke-caused endings are poison, not completion.
+---
+
+## 2.40 Lane-Locked Manifest Staging / Ignored-Path Save Exception Rule
+
+Generated or repaired lock-save scripts must not treat an ignored Git path as a simple `git add -f` problem.
+
+First decide lane:
+
+- move to a tracked durable lane;
+- keep local-only;
+- or allow exact-file force-add for this save only.
+
+If exact-file force-add is allowed, the script must use a manifest with role, lane, reason, size, SHA256, ignore witness, allowed Git action, and staged-set verification.
+
+Blocked:
+
+- no folder force-add;
+- no wildcard force-add;
+- no force-add without a matching manifest hash;
+- no staged extras;
+- no save/PASS claim without commit, push, remote match, final clean status, and end-state label.
+
+Short form:
+Lane first. Hash proves identity only. Manifest proves intended scope only after staged-set verification. Force-add exact files only.
+
+---
+
+## 2.41 Deep Batch Rope / A-B Checkpoint Truth Rule
+
+For large, deep, boss, source-heavy, save-route, or repeated-failure work, use named batches, source/object links, finding cards, parked candidates, Soft Suit labels, washer pass, and paired checkpoints.
+
+A checkpoint means progress while work is alive. B checkpoint means why motion stopped.
+
+Allowed B labels: CLEAN_CLOSE, BLOCKED_WITH_RETURN_POINT, CHOKE_STOP, CHOKE_CAUSED_END, USER_STOP.
+
+CHOKE_CAUSED_END is never done or PASS.
+
+Short form:
+A is progress. B is stop truth. Carry the key, not the furniture.

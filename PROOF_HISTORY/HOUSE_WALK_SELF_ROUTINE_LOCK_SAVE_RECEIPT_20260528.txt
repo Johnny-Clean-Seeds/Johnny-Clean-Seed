@@ -1,0 +1,8 @@
+HOUSE WALK SELF-ROUTINE LOCK SAVE SUPPORT RECEIPT
+SaveId: LANE_LOCKED_MANIFEST_STAGING_20260528
+RunStamp: 20260528_192322
+Status: included in combined Lane-Locked Manifest Staging save package
+Boundary: no doctrine promotion; no ACTIVE_GUIDES edit; no CURRENT_TRUTH_INDEX edit
+SavedRule: BRAIN_LEARNING/DEEP_WORK_BATCH_LINK_AND_CHECKPOINT_TRUTH_RULE_20260528.md
+SavedFitReport: HOUSE_WORK/WORK_SHED/SORTING_BENCH/HOUSE_WALK_SELF_ROUTINE_SAVE_FIT_REPORT_20260528.md
+Note: final Git proof is printed in the combined terminal copy-back block.
