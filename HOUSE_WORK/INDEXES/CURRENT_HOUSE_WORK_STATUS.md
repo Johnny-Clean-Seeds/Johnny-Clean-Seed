@@ -6725,3 +6725,5 @@ Boundary:
 No doctrine promotion, no ACTIVE_GUIDES edit, no CURRENT_TRUTH_INDEX edit, no automation, no helper write-authority expansion.
 
 - 2026-05-28: Saved metacognition source cross-exam candidate report, evidence ledger, candidate rule card, helper V2 TODO, and receipt. Boundary: candidate only; no doctrine/ACTIVE_GUIDES/CURRENT_TRUTH_INDEX/raw transcript Git.
+
+- 2026-05-28: Saved SOURCE_TO_HOUSE_INTAKE_V2 design spec. Boundary: design only; script not built; no raw transcript Git; no doctrine/ACTIVE_GUIDES/CURRENT_TRUTH_INDEX.
