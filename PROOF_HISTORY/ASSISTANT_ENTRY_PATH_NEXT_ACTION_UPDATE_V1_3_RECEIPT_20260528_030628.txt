@@ -1,0 +1,17 @@
+ASSISTANT ENTRY PATH NEXT ACTION UPDATE V1.3 RECEIPT
+Date: 20260528_030628
+RepoRoot: C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz
+Old HEAD: a9c580f52771791963927ad203aca7359bea4e9f
+Origin before: a9c580f52771791963927ad203aca7359bea4e9f
+Entry path: C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\HOUSE_WORK\ASSISTANT_PATH\ASSISTANT_ENTRY_PATH_CANDIDATE_V1.md
+Section start line: 558
+Section end marker line: 580
+Before SHA256: B12028CEA01219C2AF83591836C173791BB7236801FED7888B68049848A9BEA3
+Backup path: C:\Users\13527\Desktop\123\COMMAND_CENTER\BACKUPS\ASSISTANT_ENTRY_PATH_CANDIDATE_V1_BEFORE_NEXT_ACTION_UPDATE_V1_3_20260528_030628.md
+Backup SHA256: B12028CEA01219C2AF83591836C173791BB7236801FED7888B68049848A9BEA3
+After SHA256: 5F58A984885376EC5A7102438AE2EB135A9F47A394369F4FE579AA5AE8E78CC4
+Orientation result path: C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\HOUSE_WORK\WORK_SHED\SORTING_BENCH\SAVED_WAYFINDING_ORIENTATION_RESULT_20260528.md
+Orientation result SHA256: 93B3F1E63883A4E2B5BD511BD2E017CAC531C5E9D8E6071CFF7B9C0BEC1E9B38
+Patch method: bounded Section 9 replacement; stale marker verified inside section before write; parser-safe replacement text.
+Helper-shape rule applied: Git output captured through scalar-safe First-Line; proof fields checked for 40-character hashes.
+Boundary: entry path only; no doctrine promotion; no ACTIVE_GUIDES edit; no CURRENT_TRUTH_INDEX edit; no registry expansion; no helper scan.

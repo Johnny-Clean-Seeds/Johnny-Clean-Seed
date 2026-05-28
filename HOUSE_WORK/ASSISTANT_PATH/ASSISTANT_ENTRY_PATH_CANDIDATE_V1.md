@@ -557,11 +557,13 @@ Do not read the whole house unless this entry path fails.
 
 ## 9. Next Clean Move
 
-Next move:
+Previous next move: Run Fresh-Reader Orientation Test V1 on this candidate file.
 
-```text
-Run Fresh-Reader Orientation Test V1 on this candidate file.
-```
+Current result: COMPLETE / PASS WITH WATCH
+
+Saved proof-support: HOUSE_WORK/WORK_SHED/SORTING_BENCH/SAVED_WAYFINDING_ORIENTATION_RESULT_20260528.md
+
+Current next move: Use this entry path as the narrow live orientation path until a new named burden appears.
 
 Do not create another path file first.
 
@@ -569,13 +571,13 @@ Do not create helper code first.
 
 Do not repair helper registry first.
 
-Do not save/push first.
+Do not expand File Registry first.
+
+Do not build Proof Index first.
 
 The next move is judgment:
 
-```text
-Can this single file answer enough orientation questions to reduce burden?
-```
+When a new burden appears, choose the smallest proof object from the saved path files.
 
 ---
 
@@ -873,3 +875,4 @@ Current close status:
 ```text
 PENDING FRESH-READER ORIENTATION TEST
 ```
+
