@@ -6723,3 +6723,5 @@ Helper packets must report BUILT/PACKAGED/HASHED/CODE-GATED/LIVE-RUN/OUTPUT-JUDG
 
 Boundary:
 No doctrine promotion, no ACTIVE_GUIDES edit, no CURRENT_TRUTH_INDEX edit, no automation, no helper write-authority expansion.
+
+- 2026-05-28: Saved metacognition source cross-exam candidate report, evidence ledger, candidate rule card, helper V2 TODO, and receipt. Boundary: candidate only; no doctrine/ACTIVE_GUIDES/CURRENT_TRUTH_INDEX/raw transcript Git.
