@@ -860,3 +860,27 @@ CHOKE_CAUSED_END is never done or PASS.
 
 Short form:
 A is progress. B is stop truth. Carry the key, not the furniture.
+---
+
+## 2.42 House Keyring Graph / Keyring-Chain-Snap-Link Rule
+
+A rule pile is dirty when it is unkeyed accumulation. A rule pack can be clean when it is a keyed, mapped, proof-aware toolset.
+
+Use parent keys, subkeys, child keys, keyrings, chains, snap-links, proof states, lifecycle states, authority boundaries, and hash/version identity for major house objects when the task is large, source-heavy, tool-heavy, save-heavy, or repeatedly confusing.
+
+Keyrings group related keys. Chains record order. Snap-links connect without merging authority. Capability keys grant exact bounded actions only.
+
+Outside ideas may be borrowed if the shoe fits, but they remain source ore until made house-native and tested.
+
+Blocked:
+
+- no graph database by default;
+- no universal mapper before small map proof;
+- no keying every sentence;
+- no snap-link as doctrine;
+- no hash as quality proof;
+- no key as broad authority;
+- no ACTIVE_GUIDES or CURRENT_TRUTH_INDEX rewrite from this map.
+
+Short form:
+Key the object, map the chain, snap the link, prove the state, keep authority separate.
