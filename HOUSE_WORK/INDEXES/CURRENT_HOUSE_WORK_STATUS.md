@@ -6706,3 +6706,20 @@ Status: routed candidate helper with watch; save packet prepared.
 Short form: fix -> concept -> cross-exam -> fit -> route -> prove -> shed.
 Boundary: no doctrine promotion, no ACTIVE_GUIDES rewrite, no CURRENT_TRUTH_INDEX rewrite, no mass edit.
 Proof: post-route check passed with failed checks 0 before save.
+
+## Helper Confidence Ladder and Source-to-House File Logic â€” 20260528
+
+Status: saved as helper-file-logic rule candidate.
+
+Saved files:
+- BRAIN_LEARNING/HELPER_CONFIDENCE_LADDER_AND_SOURCE_TO_HOUSE_FILE_LOGIC_RULE_20260528.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/HELPER_CONFIDENCE_LADDER_AND_SOURCE_TO_HOUSE_CAPTURE_20260528.md
+- HOUSE_WORK/TODO/SOURCE_TO_HOUSE_HELPER_LOGIC_NEXT_WORK_20260528.md
+- HOUSE_WORK/WORK_SHED/TEMPLATES/SOURCE_TO_HOUSE_HELPER_OUTPUT_CONTRACT_TEMPLATE_20260528.md
+- PROOF_HISTORY/HELPER_CONFIDENCE_LADDER_AND_SOURCE_TO_HOUSE_FILE_LOGIC_RECEIPT_20260528.txt
+
+Meaning:
+Helper packets must report BUILT/PACKAGED/HASHED/CODE-GATED/LIVE-RUN/OUTPUT-JUDGED/PLACED/PROVEN separately. Source-to-house helpers should convert exact local source folders into manifest, chunks, dissect extract, digest, candidate patterns, fit decision, and receipt before assistant review.
+
+Boundary:
+No doctrine promotion, no ACTIVE_GUIDES edit, no CURRENT_TRUTH_INDEX edit, no automation, no helper write-authority expansion.
