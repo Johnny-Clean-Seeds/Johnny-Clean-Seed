@@ -6927,3 +6927,97 @@ Verdict:
 
 Next route:
 - use this template on the next suitable save route or proof-test the next candidate mechanism.
+
+---
+
+## 20260528 - Dead Chat Shed tiny proof locked
+
+Saved candidate tiny proof card testing whether the recent run trail can be compressed into a minimal active-state key.
+
+Saved file:
+- BRAIN_LEARNING/DEAD_CHAT_SHED_TINY_PROOF_20260528.md
+
+Proof result:
+- Dead Chat Shed proved one live-carry compression class: saved proof pointers can replace old live furniture without deleting evidence.
+
+Boundary held:
+- no evidence deletion;
+- no raw chat archive;
+- no helper/code build;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no universal chat rule install;
+- no direct mechanism promotion.
+
+Verdict:
+- PASS CANDIDATE / DEAD CHAT SHED PROVED ONE LIVE-CARRY COMPRESSION CLASS / NOT PROMOTED
+
+Next route:
+- proof-test Helper Output Shape Contract or use Lane-Locked Save Manifest Template on the next suitable save route.
+
+---
+
+## 20260528 - Live Carry Shed tiny proof route repair locked
+
+The first Dead Chat Shed save route was blocked because the generated report and receipt paths were ignored by .gitignore.
+
+Repaired durable saved file:
+- BRAIN_LEARNING/LIVE_CARRY_SHED_TINY_PROOF_20260528.md
+
+Repaired receipt:
+- PROOF_HISTORY/LIVE_CARRY_SHED_TINY_PROOF_LOCK_RECEIPT_20260528.txt
+
+Original local ignored files:
+- BRAIN_LEARNING/DEAD_CHAT_SHED_TINY_PROOF_20260528.md
+- PROOF_HISTORY/DEAD_CHAT_SHED_TINY_PROOF_LOCK_RECEIPT_20260528.txt
+
+Boundary held:
+- no evidence deletion;
+- no raw chat archive;
+- no helper/code build;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no universal chat rule install;
+- no direct mechanism promotion;
+- no force-add pattern promotion.
+
+Verdict:
+- PASS CANDIDATE / LIVE CARRY SHED ROUTE REPAIRED / NOT PROMOTED
+
+Next route:
+- proof-test Helper Output Shape Contract or use Lane-Locked Save Manifest Template on the next suitable save route.
+
+---
+
+## 20260528 - Live Carry Compression tiny proof route repair locked
+
+The prior Dead Chat Shed / Live Carry Shed save routes were blocked because generated proof-card paths were ignored by .gitignore.
+
+Repaired durable saved file:
+- BRAIN_LEARNING/LIVE_CARRY_COMPRESSION_TINY_PROOF_20260528.md
+
+Repaired receipt:
+- PROOF_HISTORY/LIVE_CARRY_COMPRESSION_TINY_PROOF_LOCK_RECEIPT_20260528.txt
+
+Source ignored files:
+- BRAIN_LEARNING/LIVE_CARRY_SHED_TINY_PROOF_20260528.md
+- PROOF_HISTORY/LIVE_CARRY_SHED_TINY_PROOF_LOCK_RECEIPT_20260528.txt
+
+Boundary held:
+- no evidence deletion;
+- no raw chat archive;
+- no helper/code build;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no universal chat rule install;
+- no direct mechanism promotion;
+- no force-add pattern promotion.
+
+Verdict:
+- PASS CANDIDATE / LIVE CARRY COMPRESSION ROUTE REPAIRED / NOT PROMOTED
+
+Next route:
+- proof-test Helper Output Shape Contract or use Lane-Locked Save Manifest Template on the next suitable save route.

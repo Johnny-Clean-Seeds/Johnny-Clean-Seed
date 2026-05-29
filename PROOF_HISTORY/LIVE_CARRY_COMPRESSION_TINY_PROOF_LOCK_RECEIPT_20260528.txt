@@ -1,0 +1,47 @@
+LIVE CARRY COMPRESSION TINY PROOF LOCK RECEIPT
+DateTag: 20260528
+RunId: 20260528_211738
+Repo: C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz
+Branch: main
+BaseHead: 1e1827fcf565b317c223a2b5b52f246498427c30
+
+REPAIR
+Reason: prior DEAD_CHAT_SHED / LIVE_CARRY_SHED paths were ignored by .gitignore.
+SourceReport: BRAIN_LEARNING/LIVE_CARRY_SHED_TINY_PROOF_20260528.md
+SourceReportSHA256: 57CEC5BB7C023D00F180AB56C4D59EA5B9690FC19232A5A83BDD0CA1A8E514A8
+SourceReceipt: PROOF_HISTORY/LIVE_CARRY_SHED_TINY_PROOF_LOCK_RECEIPT_20260528.txt
+SourceReceiptSHA256: F55D8025C932C213DC7749E43BFDB122B678AF32CA3CD6CEF631EA51C1C73894
+NewReport: BRAIN_LEARNING/LIVE_CARRY_COMPRESSION_TINY_PROOF_20260528.md
+NewReportSHA256: 428EFDE91E0BA2DAC3B7D88E51CB65140CCC2718A32D329579488BCF861E5E48
+
+OBJECT
+Name: Live Carry Compression Tiny Proof Card
+OriginalMechanismName: Dead Chat Shed / Live Carry Shed
+Type: tiny proof card / candidate mechanism proof
+Lane: BRAIN_LEARNING
+Authority: NOT doctrine; NOT ACTIVE_GUIDES; NOT CURRENT_TRUTH_INDEX
+
+BOUNDARY HELD
+- no evidence deleted
+- no raw chat archive saved
+- no raw transcript/source Git staging
+- no helper/code build
+- no doctrine promotion
+- no ACTIVE_GUIDES edit
+- no CURRENT_TRUTH_INDEX edit
+- no universal chat rule install
+- no direct mechanism promotion
+- no force-add pattern promotion
+- exact-file staging only
+
+FIT DECISION
+ADOPT: Live Carry Compression as candidate mechanism after proving one live-carry compression class
+ADAPT: future template only after another live use proves repeatability
+PROOF_PARK: old ignored local files remain local proof support only
+BLOCK: deletion authority, doctrine promotion, authority-file edits, helper build, broad scan, force-add ignored paths
+
+NEXT ROUTE
+Proof-test Helper Output Shape Contract or use Lane-Locked Save Manifest Template on the next suitable save route.
+
+VERDICT
+PASS CANDIDATE / REPAIR LOCK-SAVE READY / NOT PROMOTED
