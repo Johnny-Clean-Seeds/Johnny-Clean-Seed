@@ -7243,3 +7243,38 @@ Boundary held:
 
 Next route:
 - run a small current-chain close/hold check before continuing mechanism proofs.
+
+---
+
+## 20260528 - Current mechanism chain close/hold check locked
+
+Saved close/hold judgment for the current mechanism proof chain.
+
+Saved file:
+- BRAIN_LEARNING/CURRENT_CHAIN_CLOSE_HOLD_CHECK_20260528.md
+
+Decision:
+- CLOSE WITH WATCH
+
+Meaning:
+- support pack available;
+- no more mechanism proofs by default;
+- use supports only when a real task triggers them;
+- return to user-directed work.
+
+Boundary held:
+- no planner;
+- no dashboard;
+- no helper/code build;
+- no global routing system;
+- no Level 1 Keyring;
+- no global label system;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite.
+
+Verdict:
+- CLOSE WITH WATCH / SUPPORT PACK AVAILABLE / NO MORE MECHANISM PROOFS BY DEFAULT / NOT PROMOTED
+
+Next route:
+- return to user-directed work; use Task Size Gate first; use support pack only if triggered.
