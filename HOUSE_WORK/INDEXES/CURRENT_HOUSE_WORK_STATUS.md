@@ -7187,3 +7187,32 @@ Boundary held:
 
 Next route:
 - use the label set once in a later orientation or save-selection task; do not build dashboard/helper/global labels.
+
+---
+
+## 20260528 - Freshness labels used for next route selection
+
+Saved one-use selection card applying Freshness / Decay Labels to choose the next bounded route.
+
+Saved file:
+- BRAIN_LEARNING/FRESHNESS_LABELS_USE_NEXT_ROUTE_SELECTION_20260528.md
+
+Selection result:
+- Wayfinding Save-Selection selected for the next tiny proof.
+
+Boundary held:
+- no dashboard;
+- no registry;
+- no helper/code build;
+- no global relabeling;
+- no full Keyring;
+- no Level 1 Keyring;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite.
+
+Verdict:
+- PASS CANDIDATE / FRESHNESS LABELS USED ONCE / WAYFINDING SAVE-SELECTION SELECTED FOR TINY PROOF / NOT PROMOTED
+
+Next route:
+- build BRAIN_LEARNING/WAYFINDING_SAVE_SELECTION_TINY_PROOF_20260528.md as one tiny proof card only.
