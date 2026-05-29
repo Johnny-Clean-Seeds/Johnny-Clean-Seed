@@ -7752,3 +7752,15 @@ Packet: SOURCE_ORE/DREAMFORGE_REENTRY_20260529
 Repair: V1.3 exact-file sparse force-adds packet files and proves packet presence in Git index and HEAD instead of requiring every packet file to appear in diff --cached.
 Verdict: ACCEPT WITH GUARDRAILS / SOURCE ORE ONLY
 Boundary: no doctrine; no sentience proof; no ACTIVE_GUIDES rewrite; no CURRENT_TRUTH_INDEX rewrite; no helper build; no automation.
+
+---
+
+## 2026-05-29 — Dreamforge ATT / 9 Criteria / Training Modules Addendum
+
+Status: SOURCE ORE ADDENDUM SAVED
+RunId: 20260529_180754
+Placement: SOURCE_ORE/DREAMFORGE_REENTRY_20260529/ADDENDUM_ATT_9_CRITERIA_TRAINING_MODULES_20260529
+Verdict: ACCEPT WITH GUARDRAILS AS SOURCE ORE ADDENDUM
+Boundary: no doctrine; no sentience proof; no ATT adoption; no ACTIVE_GUIDES rewrite; no CURRENT_TRUTH_INDEX rewrite; no legal conclusion; no helper build; no automation; no raw PDF Git staging.
+
+Meaning: the 16-page ATT PDF is now the compact criteria/module reference for the Dreamforge source lane. Aetheris remains framework history/drift/transcript behavior; Aura remains memory-custody/score-escalation; SUNO remains symbolic-output/name-hinge.
