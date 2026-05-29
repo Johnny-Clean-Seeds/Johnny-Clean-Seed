@@ -7304,3 +7304,32 @@ Boundary held:
 
 Next route:
 - use this comparison on the next real task; build a small task ledger only if future measurement is requested.
+
+---
+
+## 20260528 - Helper task ledger and Soft Suit report-route addendum locked
+
+Saved small task-ledger template for helper value comparison and Soft Suit addendum for report pasteback behavior.
+
+Saved files:
+- BRAIN_LEARNING/HELPER_VALUE_COMPARISON_TASK_LEDGER_TEMPLATE_20260528.md
+- BRAIN_LEARNING/SOFT_SUIT_REPORT_PASTEBACK_NEXT_CODE_RULE_20260528.md
+
+Soft Suit behavior addendum:
+- after user sends a report: PASS -> next code; FAIL -> fix code; no code needed -> next clean action.
+
+Boundary held:
+- no helper build;
+- no dashboard;
+- no automation;
+- no broad benchmark harness;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no cockpit rewrite.
+
+Verdict:
+- TASK LEDGER READY / SOFT SUIT REPORT-ROUTE ADDENDUM SAVED / NOT PROMOTED
+
+Next route:
+- after future report pasteback, send next code directly on PASS or narrow fix code on FAIL.
