@@ -1,0 +1,44 @@
+SOURCE TO HOUSE MECHANISM EXTRACTION REPORT LOCK RECEIPT
+DateTag: 20260528
+RunId: 20260528_210329
+Repo: C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz
+Branch: main
+BaseHead: 41f7967977756ffc3ea702e3997b91082ed2e882
+
+OBJECT
+Name: Source-to-House Intake V2 Mechanism Extraction Report
+Type: candidate mechanism extraction report
+Lane: BRAIN_LEARNING
+Authority: NOT doctrine; NOT ACTIVE_GUIDES; NOT CURRENT_TRUTH_INDEX
+Supports: Source-to-House custody chain; The Chuck Norris Pressure Test; Source-to-House Intake V2 Comparison Layer Addendum
+
+SAVED FILES
+Report: BRAIN_LEARNING/SOURCE_TO_HOUSE_INTAKE_V2_MECHANISM_EXTRACTION_REPORT_20260528.md
+ReportSHA256: 18E27E27ED1162F80199721C303FD8159268B65644DCCDE5A6067628BC791DB6
+StatusUpdate: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+StatusSHA256: 5FE8DC61CCA1391D3E63B1825C755FFC130AFE03B322CE5439C026FE9F3941EF
+
+BOUNDARY HELD
+- no raw chunks saved
+- no raw transcript/source Git staging
+- no helper/code build
+- no doctrine promotion
+- no ACTIVE_GUIDES edit
+- no CURRENT_TRUTH_INDEX edit
+- no broad rescan
+- no all-24-file archive
+- no direct mechanism promotion
+- exact-file staging only
+
+FIT DECISION
+ADOPT: mechanism extraction report as candidate report
+ADOPT MECHANISMS: Helper Confidence Ladder; Helper Output Shape Contract; House Keyring Graph; House Walk Routine; Lane-Locked Manifest Staging; Solution-to-Concept Loop; Dead Chat Shed; Source-to-House Intake V2 Design Spec; Think Tank Opposition Lens; Wayfinding Save-Selection; Wayfinding Event-Chain Branch
+ADAPT: Break Room Locker; Center Room/Common Room; Decay/Freshness Labels; File Registry Seed; Helper Issue Routing; Wayfinding Proof-Memory System; Rule Expansion Cross-Exam; Saved Wayfinding Orientation
+PROOF_PARK: metacognition fit report and evidence ledger as support only
+BLOCK: doctrine promotion, raw chunks, helper build, broad rescan, authority-file edits, all-24 save
+
+NEXT ROUTE
+Run proof-selection pass on the strongest mechanism candidates and choose one tiny proof test. Recommended first candidates: House Keyring Graph, Dead Chat Shed, Lane-Locked Manifest Staging, Helper Output Shape Contract.
+
+VERDICT
+PASS WITH GUARDRAILS / MECHANISM EXTRACTION REPORT LOCK-SAVE READY / NOT PROMOTED

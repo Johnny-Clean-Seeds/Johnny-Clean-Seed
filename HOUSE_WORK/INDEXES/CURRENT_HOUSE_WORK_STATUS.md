@@ -6826,3 +6826,50 @@ Verdict:
 
 Next route:
 - build the narrow Source-to-House Intake V2 Mechanism Extraction Report using Source-to-House custody, The Chuck Norris pressure test, and this comparison layer addendum.
+
+---
+
+## 20260528 - Source-to-House Intake V2 mechanism extraction report locked
+
+Saved candidate mechanism extraction report using Source-to-House custody, The Chuck Norris pressure test, and the comparison-layer addendum.
+
+Saved file:
+- BRAIN_LEARNING/SOURCE_TO_HOUSE_INTAKE_V2_MECHANISM_EXTRACTION_REPORT_20260528.md
+
+Extracted ADOPT mechanism candidates:
+- Helper Confidence Ladder;
+- Helper Output Shape Contract;
+- House Keyring Graph;
+- House Walk Routine;
+- Lane-Locked Manifest Staging;
+- Solution-to-Concept Loop;
+- Dead Chat Shed;
+- Source-to-House Intake V2 Design Spec;
+- Think Tank Opposition Lens;
+- Wayfinding Save-Selection;
+- Wayfinding Event-Chain Branch.
+
+Compressed ADAPT pressure:
+- Break Room Locker;
+- Center Room / Common Room;
+- Decay / Freshness Labels;
+- File Registry Seed;
+- Helper Issue Routing;
+- Wayfinding Proof-Memory System;
+- Rule Expansion Cross-Exam;
+- Saved Wayfinding Orientation.
+
+Boundary held:
+- no raw chunks;
+- no helper/code build;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no broad rescan;
+- no direct mechanism promotion.
+
+Verdict:
+- PASS WITH GUARDRAILS / MECHANISM EXTRACTION REPORT READY / NOT PROMOTED
+
+Next route:
+- run proof-selection pass on the strongest mechanism candidates and choose one tiny proof test.
