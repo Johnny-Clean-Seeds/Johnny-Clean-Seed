@@ -7632,3 +7632,31 @@ Proof summary:
 Boundary held: helper proof/candidate lock only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no dashboard.
 
 Next route: use V1.3 as the proved base for the next bounded source-wash run or inspect the V1.3 report contents before expanding scope.
+---
+
+## 2026-05-29 — Source Wash Chain Progress Lock
+
+Current source-wash/helper-governor progress locked after commit $KnownProofShort.
+
+State:
+
+- RUN_SOURCE_WASH_FULL_CYCLE_V1.3.ps1 proved as report-only helper-controller candidate.
+- Real bounded run: B_CLEAN_CLOSE / WASH_CLEAN_REPORT_ONLY.
+- Processed/read: 29 / 29.
+- Errors/rough spots:   / 0.
+- Governor: SMOOTH_RAMP / CRUISE; throttle  ; ramp 2.
+- Branch-cut save wrapper V2.0 solved the save-wrapper vine by using exact manifest authority, exact-file force-add, staged-set verification, remote match, and final clean status.
+
+Boundary:
+
+- helper proof/progress lock only;
+- no doctrine;
+- no ACTIVE_GUIDES;
+- no CURRENT_TRUTH_INDEX;
+- no automation;
+- no dashboard;
+- no raw run-output Git staging.
+
+Next clean state:
+
+Use Source Wash V1.3 as the proved helper pattern for the next bounded wash/helper-governor evolution. Do not carry the failed wrapper versions live except as proof-history pointers.
