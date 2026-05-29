@@ -6785,3 +6785,44 @@ Verdict:
 
 Next route:
 - build the narrow Source-to-House Intake V2 Mechanism Extraction Report using The Chuck Norris pressure test.
+
+---
+
+## 20260528 - Source-to-House Intake V2 comparison layer addendum locked
+
+Saved candidate comparison-layer addendum for the upcoming Source-to-House Intake V2 Mechanism Extraction Report.
+
+Saved file:
+- BRAIN_LEARNING/SOURCE_TO_HOUSE_INTAKE_V2_COMPARISON_LAYER_ADDENDUM_20260528.md
+
+Purpose:
+- Compare the internal Chuck Norris / Source-to-House report method against outside review, decision, systems, dependency, and learning methods.
+
+Adopted comparison additions:
+- Decision Record / ADR spine;
+- Alternatives Matrix;
+- Premortem / failure-first pass;
+- FMEA-style Failure Mode Register;
+- Contradiction Scan;
+- Context Classifier;
+- A3 Problem Spine;
+- Dependency / Neighbor Map;
+- Governing-Assumption Audit;
+- Maturity / Evolution Labels;
+- Readiness Review;
+- OODA-style Re-entry Loop.
+
+Boundary held:
+- no raw chunks;
+- no helper/code build;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no broad rescan;
+- no direct mechanism promotion.
+
+Verdict:
+- PASS WITH GUARDRAILS / COMPARISON LAYER READY / NOT PROMOTED
+
+Next route:
+- build the narrow Source-to-House Intake V2 Mechanism Extraction Report using Source-to-House custody, The Chuck Norris pressure test, and this comparison layer addendum.
