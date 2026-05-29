@@ -7660,3 +7660,24 @@ Boundary:
 Next clean state:
 
 Use Source Wash V1.3 as the proved helper pattern for the next bounded wash/helper-governor evolution. Do not carry the failed wrapper versions live except as proof-history pointers.
+
+---
+
+## 2026-05-29 — House File Toolbox Supervisor Direction Lock
+
+Saved forward direction for HOUSE_FILE_TOOLBOX_V3.3_SUPERVISOR.
+
+Current target: supervisor-first local toolbox architecture.
+
+Locked carry:
+
+- menu is child, supervisor is parent;
+- action manifests steer;
+- watcher proves;
+- recovery ladder routes next move;
+- learning ledger is local pattern memory, not doctrine;
+- Git save remains exact-file manifest workflow only;
+- window cleanup touches only toolbox-opened windows and remains conservative;
+- .cmd owns ToolHome repair/bootstrap.
+
+Boundary: direction/progress lock only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no dashboard.
