@@ -7390,3 +7390,31 @@ Boundary held:
 
 Next route:
 - create a tiny current-replay plan for the sample if the user wants to compare old vs current more directly.
+
+---
+
+## 20260528 - Helper rubric current replay plan 01 locked
+
+Saved current minimum-helper replay plan for the old YouTube transcript / Desktop PowerShell sample.
+
+Saved file:
+- BRAIN_LEARNING/HELPER_RUBRIC_CURRENT_REPLAY_PLAN_01_20260528.md
+
+Plan verdict:
+- current replay plan ready;
+- minimum-helper Level 2/3 selected;
+- no replay run yet;
+- not promoted.
+
+Boundary held:
+- no replay run;
+- no scanner;
+- no dashboard;
+- no automation;
+- no helper build;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite.
+
+Next route:
+- if direct comparison is still needed, make the minimum-helper transcript utility file as local-only user tool.
