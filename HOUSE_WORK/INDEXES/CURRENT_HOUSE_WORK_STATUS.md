@@ -7021,3 +7021,30 @@ Verdict:
 
 Next route:
 - proof-test Helper Output Shape Contract or use Lane-Locked Save Manifest Template on the next suitable save route.
+
+---
+
+## 20260528 - Helper Output Shape Contract tiny proof locked
+
+Saved candidate tiny proof card testing whether recent Code Gate pastebacks and target outputs provide enough structured fields for clean judgment and next-route selection.
+
+Saved file:
+- BRAIN_LEARNING/HELPER_OUTPUT_SHAPE_CONTRACT_TINY_PROOF_20260528.md
+
+Proof result:
+- Helper Output Shape Contract proved one judgment class: structured output lets the assistant classify PASS/WATCH/FAIL and choose next route without rereading the whole run.
+
+Boundary held:
+- no raw chunks;
+- no helper/code build;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no universal helper standard install;
+- no direct mechanism promotion.
+
+Verdict:
+- PASS CANDIDATE / HELPER OUTPUT SHAPE CONTRACT PROVED ONE JUDGMENT CLASS / NOT PROMOTED
+
+Next route:
+- build a small Helper Output Shape Contract Template if useful, proof-test the next candidate mechanism, or use Lane-Locked Save Manifest Template on the next suitable save route.
