@@ -6900,3 +6900,30 @@ Verdict:
 
 Next route:
 - decide whether to build a small Lane-Locked Save Manifest Template or proof-test the next candidate mechanism.
+
+---
+
+## 20260528 - Lane-Locked Save Manifest Template locked
+
+Saved candidate template after Lane-Locked Manifest Staging proved one failure class.
+
+Saved file:
+- BRAIN_LEARNING/LANE_LOCKED_SAVE_MANIFEST_TEMPLATE_20260528.md
+
+Template purpose:
+- declare save object, lane, path, authority status, Local + URL/local-only status, expected staged files, blocked-path risk, and proof close before save PASS is claimed.
+
+Boundary held:
+- no raw chunks;
+- no helper/code build;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no universal save-rule install;
+- no direct mechanism promotion.
+
+Verdict:
+- PASS CANDIDATE / SMALL TEMPLATE READY / NOT PROMOTED
+
+Next route:
+- use this template on the next suitable save route or proof-test the next candidate mechanism.
