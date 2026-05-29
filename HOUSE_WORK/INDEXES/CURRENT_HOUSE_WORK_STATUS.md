@@ -7075,3 +7075,34 @@ Verdict:
 
 Next route:
 - use this template on the next suitable helper/report output or run tiny proof-selection for House Keyring Graph.
+
+---
+
+## 20260528 - House Keyring Graph tiny proof-selection locked
+
+Saved candidate proof-selection card for House Keyring Graph.
+
+Saved file:
+- BRAIN_LEARNING/HOUSE_KEYRING_GRAPH_TINY_PROOF_SELECTION_20260528.md
+
+Selection result:
+- READY FOR TINY PROOF ONLY / NOT READY FOR BUILD / NOT PROMOTED
+
+Selected proof shape:
+- one-chain keyring proof card using recent saved chain only.
+
+Boundary held:
+- no full Keyring build;
+- no registry;
+- no dashboard;
+- no helper/code build;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no authority-spine replacement.
+
+Verdict:
+- READY FOR TINY PROOF / HOUSE KEYRING GRAPH SELECTED FOR ONE-CHAIN PROOF / NOT PROMOTED
+
+Next route:
+- build HOUSE_KEYRING_GRAPH_ONE_CHAIN_TINY_PROOF_20260528.md as one small table only.
