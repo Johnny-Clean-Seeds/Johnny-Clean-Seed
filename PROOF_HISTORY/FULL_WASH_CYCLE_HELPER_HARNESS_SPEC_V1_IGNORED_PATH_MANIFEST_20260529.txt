@@ -1,0 +1,25 @@
+FULL WASH CYCLE HELPER HARNESS SPEC V1 IGNORED PATH MANIFEST
+RunId: 20260529_005131
+Repo: C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz
+
+Boundary:
+- narrow build spec save
+- no code helper build
+- no helper execution
+- no bypass
+- no dashboard
+- no automation
+- no doctrine
+- no ACTIVE_GUIDES
+- no CURRENT_TRUTH_INDEX
+- no broad helper manager
+
+Force-add review:
+Card path may be under ignored WORK_SHED/Gear Rack surfaces, so exact-file git add -f is allowed for that support card only.
+
+Files:
+BRAIN_LEARNING/FULL_WASH_CYCLE_HELPER_HARNESS_SPEC_V1_20260529.md
+SHA256: 443120BF85222D60E24FC7EE8D69124DDD69664DBEE56571F59A2CB64DE07AC5
+
+HOUSE_WORK/WORK_SHED/GEAR_RACK/FULL_WASH_CYCLE_HELPER_HARNESS_CARD_V1_20260529.md
+SHA256: 2BB6E68676F1A2001EE963CCC8CC3C8017D2F9D14DEA7D6041B131A6ED38A17A

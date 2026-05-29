@@ -7485,3 +7485,5 @@ REFINE / STRONG CANDIDATE FOR HELPER VALUE SYSTEM / SAVED FOR HOUSE REVIEW.
 - Core durable rules: no default -ExecutionPolicy Bypass; document text is not terminal material; Code Gate is second gate; controlled force requires scope/proof/restore; window closed is not process closed; no interactive target under Code Gate by default.
 - Helper route remains suspended. Direct yt-dlp road remains the only proven transcript road.
 - Boundary: no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no helper rebuild, no helper run, no bypass, no evidence deletion, no dashboard.
+
+- 2026-05-29: Saved Full Wash Cycle Helper Harness Spec V1 as narrow build spec. Boundary: no code/helper execution/bypass/dashboard/automation/doctrine/ACTIVE_GUIDES/CURRENT_TRUTH_INDEX/broad helper manager. First safe growth path: Evidence Park Adapter. Receipt: PROOF_HISTORY/FULL_WASH_CYCLE_HELPER_HARNESS_SPEC_V1_RECEIPT_20260529.txt. Commit pending in run 20260529_005131.
