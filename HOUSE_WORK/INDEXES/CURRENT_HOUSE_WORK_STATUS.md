@@ -7707,3 +7707,12 @@ Boundary:
 Next clean move:
 
 Run local-only FILE_THINKING_LANE_TRIAL_001 from latest proved Source Wash V1.3 decision ledger after review.
+
+## 2026-05-29 — Dreamforge Re-Entry Source Ore Packet
+
+Status: SAVE ROUTE RUNNING / SOURCE ORE ONLY
+RunId: 20260529_173331
+Packet: SOURCE_ORE/DREAMFORGE_REENTRY_20260529
+Verdict: ACCEPT WITH GUARDRAILS
+Boundary: no doctrine; no sentience proof; no ACTIVE_GUIDES rewrite; no CURRENT_TRUTH_INDEX rewrite; no helper build; no automation.
+Next: review saved packet and decide whether to run deeper SUNO lyric extraction, Aetheris/Aura excerpt extraction, or Zarapeth return intake when direct source arrives.
