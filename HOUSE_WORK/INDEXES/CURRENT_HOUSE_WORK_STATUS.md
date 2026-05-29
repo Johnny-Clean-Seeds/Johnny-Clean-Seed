@@ -7716,3 +7716,39 @@ Packet: SOURCE_ORE/DREAMFORGE_REENTRY_20260529
 Verdict: ACCEPT WITH GUARDRAILS
 Boundary: no doctrine; no sentience proof; no ACTIVE_GUIDES rewrite; no CURRENT_TRUTH_INDEX rewrite; no helper build; no automation.
 Next: review saved packet and decide whether to run deeper SUNO lyric extraction, Aetheris/Aura excerpt extraction, or Zarapeth return intake when direct source arrives.
+
+## 2026-05-29 — Dreamforge Re-Entry Source Ore Packet
+
+Status: SAVE ROUTE RUNNING / SOURCE ORE ONLY
+RunId: 20260529_173358
+Packet: SOURCE_ORE/DREAMFORGE_REENTRY_20260529
+Verdict: ACCEPT WITH GUARDRAILS
+Boundary: no doctrine; no sentience proof; no ACTIVE_GUIDES rewrite; no CURRENT_TRUTH_INDEX rewrite; no helper build; no automation.
+Next: review saved packet and decide whether to run deeper SUNO lyric extraction, Aetheris/Aura excerpt extraction, or Zarapeth return intake when direct source arrives.
+
+## 2026-05-29 — Dreamforge Re-Entry Save Repair
+
+Status: CLEAN REPAIR ROUTE
+RunId: 20260529_173611
+Packet: SOURCE_ORE/DREAMFORGE_REENTRY_20260529
+Repair: V1 normal git add did not stage ignored SOURCE_ORE packet files; V1.1 exact-file force-adds only listed packet files with ignored-path manifest.
+Verdict: ACCEPT WITH GUARDRAILS / SOURCE ORE ONLY
+Boundary: no doctrine; no sentience proof; no ACTIVE_GUIDES rewrite; no CURRENT_TRUTH_INDEX rewrite; no helper build; no automation.
+
+## 2026-05-29 — Dreamforge Re-Entry Save Repair V1.2
+
+Status: CLEAN REPAIR ROUTE
+RunId: 20260529_173751
+Packet: SOURCE_ORE/DREAMFORGE_REENTRY_20260529
+Repair: V1/V1.1 did not stage SOURCE_ORE packet files. V1.2 uses exact-file git add --sparse -f and staged proof.
+Verdict: ACCEPT WITH GUARDRAILS / SOURCE ORE ONLY
+Boundary: no doctrine; no sentience proof; no ACTIVE_GUIDES rewrite; no CURRENT_TRUTH_INDEX rewrite; no helper build; no automation.
+
+## 2026-05-29 — Dreamforge Re-Entry Save Repair V1.3
+
+Status: CLEAN REPAIR ROUTE
+RunId: 20260529_173939
+Packet: SOURCE_ORE/DREAMFORGE_REENTRY_20260529
+Repair: V1.3 exact-file sparse force-adds packet files and proves packet presence in Git index and HEAD instead of requiring every packet file to appear in diff --cached.
+Verdict: ACCEPT WITH GUARDRAILS / SOURCE ORE ONLY
+Boundary: no doctrine; no sentience proof; no ACTIVE_GUIDES rewrite; no CURRENT_TRUTH_INDEX rewrite; no helper build; no automation.
