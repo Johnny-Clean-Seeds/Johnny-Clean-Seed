@@ -6873,3 +6873,30 @@ Verdict:
 
 Next route:
 - run proof-selection pass on the strongest mechanism candidates and choose one tiny proof test.
+
+---
+
+## 20260528 - Lane-Locked Manifest Staging tiny proof locked
+
+Saved candidate tiny proof card using the Chuck Norris V1 save failure and V1.2 repair as the evidence event.
+
+Saved file:
+- BRAIN_LEARNING/LANE_LOCKED_MANIFEST_STAGING_TINY_PROOF_20260528.md
+
+Proof result:
+- Lane-Locked Manifest Staging proved one failure class: ignored-path / expected-staged-file mismatch before false PASS.
+
+Boundary held:
+- no raw chunks;
+- no helper/code build;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no universal save-rule install;
+- no direct mechanism promotion.
+
+Verdict:
+- PASS CANDIDATE / LANE-LOCKED MANIFEST STAGING PROVED ONE FAILURE CLASS / NOT PROMOTED
+
+Next route:
+- decide whether to build a small Lane-Locked Save Manifest Template or proof-test the next candidate mechanism.
