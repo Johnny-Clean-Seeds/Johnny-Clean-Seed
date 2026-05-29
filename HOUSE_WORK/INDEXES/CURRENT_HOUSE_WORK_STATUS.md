@@ -6732,3 +6732,56 @@ No doctrine promotion, no ACTIVE_GUIDES edit, no CURRENT_TRUTH_INDEX edit, no au
 - 2026-05-28: Saved House Keyring Graph architecture: keyed rule/tool/source/proof object model, parent/subkey/child keys, keyrings, chains, snap-links, capability keys, shoe-fit import rule, object card template, seed map, completeness ledger, cockpit behavior addendum, and receipt. Boundary: architecture support only; no doctrine, ACTIVE_GUIDES, or CURRENT_TRUTH_INDEX promotion.
 
 - 2026-05-28: Saved Source-to-House Wash fit decision report from run 20260528_201152. Boundary: fit decision layer only; raw chunks local-only; no doctrine/ACTIVE_GUIDES/CURRENT_TRUTH_INDEX; next return is Source-to-House Intake V2 focused extraction using House Keyring Map V1.
+
+---
+
+## 20260528 — Chuck Norris Pressure Test guardrail locked
+
+Saved candidate pressure-test / three-pass review guardrail for Source-to-House Intake V2 Mechanism Extraction.
+
+Saved file:
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/CHUCK_NORRIS_PRESSURE_TEST_SOURCE_TO_HOUSE_INTAKE_V2_GUARDRAIL_20260528.md
+
+Verdict:
+- PASS WITH GUARDRAILS / READY FOR NARROW REPORT BUILD / NOT PROMOTED
+
+Boundary held:
+- no raw chunks;
+- no helper/code build;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no all-24-file archive;
+- no broad rescan;
+- no proof support becoming authority;
+- no ADAPT rule pile.
+
+Next route:
+- build the narrow Source-to-House Intake V2 Mechanism Extraction Report using The Chuck Norris pressure test before final shape.
+
+---
+
+## 20260528 - Chuck Norris Pressure Test guardrail route repair
+
+The V1 save target under HOUSE_WORK/WORK_SHED was blocked by .gitignore.
+
+Durable saved report:
+- BRAIN_LEARNING/CHUCK_NORRIS_PRESSURE_TEST_SOURCE_TO_HOUSE_INTAKE_V2_GUARDRAIL_20260528.md
+
+Original local-only partial report:
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/CHUCK_NORRIS_PRESSURE_TEST_SOURCE_TO_HOUSE_INTAKE_V2_GUARDRAIL_20260528.md
+
+Boundary held:
+- no raw chunks;
+- no helper/code build;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no broad rescan;
+- no proof support becoming authority.
+
+Verdict:
+- PASS WITH GUARDRAILS / ROUTE REPAIRED / NOT PROMOTED
+
+Next route:
+- build the narrow Source-to-House Intake V2 Mechanism Extraction Report using The Chuck Norris pressure test.
