@@ -1,0 +1,31 @@
+LONG_FILE_CUSTODY_HARNESS_V1_IGNORED_PATH_MANIFEST
+RunId: 20260529_022731
+Purpose: exact-file save manifest for Long File Custody Harness V1 process candidate and support template.
+Boundary: no automation; no helper build; no doctrine install; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no dashboard; no runner.
+
+FILES:
+- Role: process harness candidate
+  Path: BRAIN_LEARNING/LONG_FILE_CUSTODY_HARNESS_V1_20260529.md
+  SHA256: B2E0F249F1493CB189FF3B6B2B0005A1B9FE305DA574304FE97CA7F76631D967
+  GitAction: exact-file add
+
+- Role: rope ledger template
+  Path: HOUSE_WORK/WORK_SHED/TEMPLATES/LONG_FILE_ROPE_LEDGER_TEMPLATE_V1_20260529.md
+  SHA256: 4B87841FC9CC38EA15128476DCF1DB250DA8BF50229B4D43CCB1B6BECD783FBC
+  GitAction: exact-file add
+
+- Role: source fit report and preserved notes
+  Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/LONG_FILE_CUSTODY_HARNESS_SOURCE_FIT_REPORT_20260529.md
+  SHA256: 7929C4F186A5C31029F3129E659CDE37EE096C5E8E3EDFF93D95453AFAA7F59D
+  GitAction: exact-file add
+
+- Role: status index update
+  Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+  SHA256: 5C20E0E8DF850FA2027EBF033FA650926C85DE29CD7816411D37BEC7BEEB3FB7
+  GitAction: exact-file add
+
+Blocked:
+- no folder force-add
+- no wildcard force-add
+- no staged extras
+- no PASS claim without commit, push, remote match, clean status, and end-state label

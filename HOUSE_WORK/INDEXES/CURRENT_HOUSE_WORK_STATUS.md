@@ -7495,3 +7495,11 @@ REFINE / STRONG CANDIDATE FOR HELPER VALUE SYSTEM / SAVED FOR HOUSE REVIEW.
 - Transcript source: HOUSE_WORK/WORK_SHED/SOURCE_MATERIAL/TRANSCRIPTS/YOUTUBE_BRAINWASH_SELF_SUCCESS_TRANSCRIPT_SOURCE_20260527.md
 - Test report: HOUSE_WORK/WORK_SHED/GEAR_RACK/HELPER_HARNESS_TESTS/FULL_WASH_HELPER_L0_WITNESS_TRANSCRIPT_SOURCE_TEST_20260529.md
 - Boundary: no helper execution; no bypass; no delete; no dashboard; no automation; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; exact-file Git save only.
+
+## 2026-05-29 - Long File Custody Harness V1
+
+- Saved LONG_FILE_CUSTODY_HARNESS_V1 as process harness candidate for long file/report/research custody.
+- Saved support template LONG_FILE_ROPE_LEDGER_TEMPLATE_V1.
+- Saved source fit report preserving pasted source notes and external analog fit.
+- Core sentence: invisible work must become inspectable without becoming chat bloat.
+- Boundary: no automation, no helper build, no doctrine install, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no dashboard, no runner.
