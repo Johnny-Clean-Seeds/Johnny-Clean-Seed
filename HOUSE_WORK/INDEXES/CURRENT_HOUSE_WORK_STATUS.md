@@ -7131,3 +7131,32 @@ Boundary held:
 
 Next route:
 - use this Level 0 table once in a later orientation or save-selection task before any promotion or Level 1 movement.
+
+---
+
+## 20260528 - Keyring Level 0 table used for next mechanism selection
+
+Saved one use of the Level 0 Keyring table as an orientation/save-selection tool.
+
+Saved file:
+- BRAIN_LEARNING/KEYRING_LEVEL0_USE_NEXT_MECHANISM_SELECTION_20260528.md
+
+Selection result:
+- Freshness / Decay Labels selected for the next tiny proof.
+
+Boundary held:
+- no Level 1 Keyring movement;
+- no full Keyring build;
+- no registry;
+- no dashboard;
+- no helper/code build;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no authority-spine replacement.
+
+Verdict:
+- PASS CANDIDATE / LEVEL 0 KEYRING TABLE USED ONCE / FRESHNESS-DECAY LABELS SELECTED FOR TINY PROOF / NOT PROMOTED
+
+Next route:
+- build BRAIN_LEARNING/FRESHNESS_DECAY_LABELS_TINY_PROOF_20260528.md as one tiny proof card only.

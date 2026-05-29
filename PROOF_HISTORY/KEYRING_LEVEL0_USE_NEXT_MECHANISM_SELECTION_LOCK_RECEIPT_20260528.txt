@@ -1,0 +1,49 @@
+KEYRING LEVEL0 USE NEXT MECHANISM SELECTION LOCK RECEIPT
+DateTag: 20260528
+RunId: 20260528_214906
+Repo: C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz
+Branch: main
+BaseHead: 05bceaadae02494f4bf64ffc30da93df0df4b0ab
+
+OBJECT
+Name: Keyring Level 0 Use - Next Mechanism Selection
+Type: save-selection card / proof-of-use for Level 0 Keyring table
+Lane: BRAIN_LEARNING
+Authority: NOT doctrine; NOT ACTIVE_GUIDES; NOT CURRENT_TRUTH_INDEX
+SourceTable: BRAIN_LEARNING/HOUSE_KEYRING_GRAPH_ONE_CHAIN_TINY_PROOF_20260528.md
+
+SELECTED NEXT MECHANISM
+Freshness / Decay Labels Tiny Proof
+
+SAVED FILES
+Report: BRAIN_LEARNING/KEYRING_LEVEL0_USE_NEXT_MECHANISM_SELECTION_20260528.md
+ReportSHA256: A47C1049CAF1A986FCD0E8C55493EA13E30426CA0591B8739F1C5F7FE5AB5AC2
+StatusUpdate: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+StatusSHA256: 0969F60E7F921CFF08E19F9C00FFE8F3FCE412C3A5CD65E4B2D09BF08ECA2391
+
+BOUNDARY HELD
+- no Level 1 Keyring movement
+- no full Keyring build
+- no registry
+- no dashboard
+- no helper/code build
+- no broad scan
+- no doctrine promotion
+- no ACTIVE_GUIDES edit
+- no CURRENT_TRUTH_INDEX edit
+- no authority-spine replacement
+- exact-file staging only
+
+FIT DECISION
+ADOPT: use Level 0 Keyring table once as orientation/save-selection support
+ADOPT: Freshness / Decay Labels selected for next tiny proof
+ADAPT: freshness labels must remain row-level state support, not authority
+PROOF: this card proves one next-route selection class
+PARK: Level 1 Keyring, registry, dashboard, helper, authority integration
+BLOCK: promotion, authority edit, helper build, broad scan, command surface
+
+NEXT ROUTE
+Build BRAIN_LEARNING/FRESHNESS_DECAY_LABELS_TINY_PROOF_20260528.md as one tiny proof card only.
+
+VERDICT
+PASS CANDIDATE / LEVEL 0 KEYRING TABLE USED ONCE / NEXT MECHANISM SELECTED / NOT PROMOTED
