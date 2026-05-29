@@ -7459,3 +7459,23 @@ Boundary:
 
 Verdict:
 READY FOR NARROW LIVE USE AS SOFT SUIT METHOD / SAVED FOR HOUSE REVIEW.
+## 20260528_233902 — Helper Value Audit + Helper Seat Ledger System
+
+Saved house process candidate for measuring whether helpers actually reduce burden and preserve object custody.
+
+Files:
+- BRAIN_LEARNING/HELPER_VALUE_AUDIT_AND_HELPER_SEAT_LEDGER_SYSTEM_20260528.md
+- HOUSE_WORK/WORK_SHED/GEAR_RACK/HELPER_VALUE_AUDIT_AND_HELPER_SEAT_LEDGER_CARD_20260528.md
+- PROOF_HISTORY/HELPER_VALUE_AUDIT_AND_HELPER_SEAT_LEDGER_IGNORED_PATH_MANIFEST_20260528.txt
+- PROOF_HISTORY/HELPER_VALUE_AUDIT_AND_HELPER_SEAT_LEDGER_RECEIPT_20260528.txt
+
+Boundary:
+- candidate helper evaluation system only;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no mule rule change;
+- no helper build.
+
+Verdict:
+REFINE / STRONG CANDIDATE FOR HELPER VALUE SYSTEM / SAVED FOR HOUSE REVIEW.

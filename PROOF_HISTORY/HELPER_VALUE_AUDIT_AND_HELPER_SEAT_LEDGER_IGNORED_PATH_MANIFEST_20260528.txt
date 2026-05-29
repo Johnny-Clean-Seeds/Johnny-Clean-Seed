@@ -1,0 +1,24 @@
+HELPER_VALUE_AUDIT_AND_HELPER_SEAT_LEDGER_IGNORED_PATH_MANIFEST
+RunId: 20260528_233902
+
+IgnoredPathObject:
+- HOUSE_WORK/WORK_SHED/GEAR_RACK/HELPER_VALUE_AUDIT_AND_HELPER_SEAT_LEDGER_CARD_20260528.md
+
+Reason:
+HOUSE_WORK/WORK_SHED may be ignored by .gitignore. This save intentionally includes the exact Gear Rack card as a tracked house process candidate copy.
+
+AllowedGitAction:
+- git add -f -- HOUSE_WORK/WORK_SHED/GEAR_RACK/HELPER_VALUE_AUDIT_AND_HELPER_SEAT_LEDGER_CARD_20260528.md
+
+Blocked:
+- no folder force-add;
+- no wildcard force-add;
+- no staged extras;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no mule rule change;
+- no helper build.
+
+GearSHA256:
+32571E95761D783C6061818802E81361A906899531E23608445F43088BB936BB
