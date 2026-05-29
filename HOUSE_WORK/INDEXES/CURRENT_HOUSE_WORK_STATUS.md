@@ -7048,3 +7048,30 @@ Verdict:
 
 Next route:
 - build a small Helper Output Shape Contract Template if useful, proof-test the next candidate mechanism, or use Lane-Locked Save Manifest Template on the next suitable save route.
+
+---
+
+## 20260528 - Helper Output Shape Contract Template locked
+
+Saved candidate template after Helper Output Shape Contract proved one judgment class.
+
+Saved file:
+- BRAIN_LEARNING/HELPER_OUTPUT_SHAPE_CONTRACT_TEMPLATE_20260528.md
+
+Template purpose:
+- provide a small reusable output shape for helper/report pastebacks so PASS/WATCH/FAIL, proof state, boundary, and next route can be judged without rereading the whole run.
+
+Boundary held:
+- no raw chunks;
+- no helper/code build;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no universal helper standard install;
+- no direct mechanism promotion.
+
+Verdict:
+- PASS CANDIDATE / SMALL TEMPLATE READY / NOT PROMOTED
+
+Next route:
+- use this template on the next suitable helper/report output or run tiny proof-selection for House Keyring Graph.
