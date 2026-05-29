@@ -7516,3 +7516,17 @@ Saved:
 ReceiptSHA256: 5CE576180119B0FD7CA5EB383F33898ABE06C50537F0E862F0EC4265BBC75BCE
 Boundary: design contract and build/proof TODO only; no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no automation, no dashboard, no helper build, no controller run.
 Next: build report-only RUN_SOURCE_WASH_FULL_CYCLE_V1.ps1 through Code Gate.
+
+## 2026-05-29 — Helper Stability Governor V1
+
+Status: LOCK-SAVE ROUTE
+Object: HELPER_STABILITY_GOVERNOR_V1
+Placement: Local Code Workbench -> Helper Runtime Patterns -> Helper Stability Governor
+Saved:
+- BRAIN_LEARNING/HELPER_STABILITY_GOVERNOR_V1_20260529.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/HELPER_STABILITY_GOVERNOR_V1_FIT_REPORT_20260529.md
+- HOUSE_WORK/TODO/HELPER_STABILITY_GOVERNOR_V1_BUILD_AND_PROOF_TODO_20260529.md
+- PROOF_HISTORY/HELPER_STABILITY_GOVERNOR_V1_IGNORED_PATH_MANIFEST_20260529.txt
+- PROOF_HISTORY/HELPER_STABILITY_GOVERNOR_V1_LOCK_RECEIPT_20260529.txt
+Boundary: helper-pattern candidate only; no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no module build, no automation, no dashboard.
+Next: build RUN_SOURCE_WASH_FULL_CYCLE_V1.1.ps1 with embedded governor and Code Gate it.
