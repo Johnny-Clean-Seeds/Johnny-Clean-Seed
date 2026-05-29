@@ -7418,3 +7418,44 @@ Boundary held:
 
 Next route:
 - if direct comparison is still needed, make the minimum-helper transcript utility file as local-only user tool.
+
+## 20260528_233027 — After-Run Breadcrumb Wash / Leap-Close Living Order
+
+Saved house process candidate from transcript failure wash and living-order deep list.
+
+Files:
+- BRAIN_LEARNING/AFTER_RUN_BREADCRUMB_WASH_LEAP_CLOSE_LIVING_ORDER_20260528.md
+- HOUSE_WORK/WORK_SHED/GEAR_RACK/AFTER_RUN_BREADCRUMB_WASH_LEAP_CLOSE_CARD_20260528.md
+- PROOF_HISTORY/AFTER_RUN_BREADCRUMB_WASH_LEAP_CLOSE_RECEIPT_20260528.txt
+
+Boundary:
+- candidate living order only;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no mule rule change;
+- no helper build.
+
+Verdict:
+READY FOR NARROW LIVE USE AS SOFT SUIT METHOD / SAVED FOR HOUSE REVIEW.
+## 20260528_233215 — After-Run Breadcrumb Wash / Leap-Close Living Order
+
+Saved house process candidate from transcript failure wash.
+
+Files:
+- BRAIN_LEARNING/AFTER_RUN_BREADCRUMB_WASH_LEAP_CLOSE_LIVING_ORDER_20260528.md
+- HOUSE_WORK/WORK_SHED/GEAR_RACK/AFTER_RUN_BREADCRUMB_WASH_LEAP_CLOSE_CARD_20260528.md
+- PROOF_HISTORY/AFTER_RUN_BREADCRUMB_WASH_LEAP_CLOSE_IGNORED_PATH_MANIFEST_20260528.txt
+- PROOF_HISTORY/AFTER_RUN_BREADCRUMB_WASH_LEAP_CLOSE_RECEIPT_20260528.txt
+
+Boundary:
+- candidate living order only;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no mule rule change;
+- no helper build;
+- Gear Rack file staged through exact-file force-add with ignored-path manifest.
+
+Verdict:
+READY FOR NARROW LIVE USE AS SOFT SUIT METHOD / SAVED FOR HOUSE REVIEW.

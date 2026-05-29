@@ -1,0 +1,42 @@
+AFTER_RUN_BREADCRUMB_WASH_LEAP_CLOSE_IGNORED_PATH_MANIFEST
+RunId: 20260528_233215
+Object: Gear Rack copy of After-Run Breadcrumb Wash / Leap-Close Living Order
+
+IgnoredPath:
+- HOUSE_WORK/WORK_SHED/GEAR_RACK/AFTER_RUN_BREADCRUMB_WASH_LEAP_CLOSE_CARD_20260528.md
+
+Role:
+- operating Gear Rack copy of the same full living-order content saved in BRAIN_LEARNING
+
+Lane:
+- HOUSE_WORK/WORK_SHED/GEAR_RACK
+
+Reason:
+- user requested lock/save without dropping content
+- Gear Rack operating copy belongs near work use
+- path is ignored by .gitignore, so exact-file force-add requires manifest and staged-set verification
+
+SizeBytes:
+- 11499
+
+SHA256:
+- 9AACFEB417C65AD8D5F4AB4D21FC8D081330D9FA46C84F2A73006FAE040D4E81
+
+IgnoreWitness:
+.gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/GEAR_RACK/AFTER_RUN_BREADCRUMB_WASH_LEAP_CLOSE_CARD_20260528.md
+
+AllowedGitAction:
+- git add -f -- HOUSE_WORK/WORK_SHED/GEAR_RACK/AFTER_RUN_BREADCRUMB_WASH_LEAP_CLOSE_CARD_20260528.md
+
+BlockedGitActions:
+- no folder force-add
+- no wildcard force-add
+- no staged extras
+- no doctrine promotion
+- no ACTIVE_GUIDES rewrite
+- no CURRENT_TRUTH_INDEX rewrite
+- no mule rule change
+- no helper build
+
+ManifestVerdict:
+- EXACT_FILE_FORCE_ADD_ALLOWED_FOR_THIS_SAVE_ONLY
