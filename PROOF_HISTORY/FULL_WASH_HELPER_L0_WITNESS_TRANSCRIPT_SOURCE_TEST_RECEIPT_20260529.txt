@@ -1,0 +1,13 @@
+FULL_WASH_HELPER_L0_WITNESS_TRANSCRIPT_SOURCE_TEST_RECEIPT
+EndState: MANUAL_REPAIR_CONTINUATION
+Message: First real-object Full Wash helper harness L0 witness/source-custody test prepared after runner choke.
+Object: You CAN Brainwash YOURSELF To Succeed! #psychologyfacts #humanbehavior_2026-05-27_00-47-42.txt
+Source: HOUSE_WORK/WORK_SHED/SOURCE_MATERIAL/TRANSCRIPTS/YOUTUBE_BRAINWASH_SELF_SUCCESS_TRANSCRIPT_SOURCE_20260527.md
+SourceSHA256: C6F22F9A93EED81F42D2E75E14FCAD7735BAF0C6F4342E3BBD0AF9160059F66C
+Report: HOUSE_WORK/WORK_SHED/GEAR_RACK/HELPER_HARNESS_TESTS/FULL_WASH_HELPER_L0_WITNESS_TRANSCRIPT_SOURCE_TEST_20260529.md
+ReportSHA256: B629817494530605A302709BCE8C02EBD5035BD0A99C5C2AD51A895894A251D9
+Status: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+StatusSHA256: CFA08F7F7CFA4CA3B75F726FF5A2C3E2AAE3C69F1FC25EB9CAF2631ECFD0AA29
+Boundary: real transcript object; L0 witness/source-custody test only; no helper execution; no bypass; no delete; no dashboard; no automation; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX.
+PriorRunnerFailures: V1 git wrapper empty subcommand; V1.1 branch scalar read bug; V1.2 null Count bug; V1.3 Resolve-Path before receipt existed.
+CloseNeed: exact-file stage, commit, push, clean proof.
