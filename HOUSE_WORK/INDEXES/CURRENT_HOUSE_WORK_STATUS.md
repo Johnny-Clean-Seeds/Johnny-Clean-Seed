@@ -7106,3 +7106,28 @@ Verdict:
 
 Next route:
 - build HOUSE_KEYRING_GRAPH_ONE_CHAIN_TINY_PROOF_20260528.md as one small table only.
+
+---
+
+## 20260528 - House Keyring Graph One-Chain Tiny Proof locked
+
+Saved Level 0 one-chain manual Keyring proof using the expanded eleven-column table.
+
+Saved file:
+- BRAIN_LEARNING/HOUSE_KEYRING_GRAPH_ONE_CHAIN_TINY_PROOF_20260528.md
+
+Proof result:
+- PASS CANDIDATE / LEVEL 0 ONE-CHAIN KEYRING PROOF READY / NOT PROMOTED
+
+Boundary held:
+- no full Keyring build;
+- no registry;
+- no dashboard;
+- no helper/code build;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no authority-spine replacement.
+
+Next route:
+- use this Level 0 table once in a later orientation or save-selection task before any promotion or Level 1 movement.
