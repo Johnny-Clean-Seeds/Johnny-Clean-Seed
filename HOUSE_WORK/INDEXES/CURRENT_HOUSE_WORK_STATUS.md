@@ -7479,3 +7479,9 @@ Boundary:
 
 Verdict:
 REFINE / STRONG CANDIDATE FOR HELPER VALUE SYSTEM / SAVED FOR HOUSE REVIEW.
+## 20260529_002903 - PowerShell front-gate / helper trust incident repair
+
+- Saved narrow incident repair pack for POWERSHELL_FRONT_GATE_BYPASS_AND_COPY_SURFACE_FAILURE_20260529.
+- Core durable rules: no default -ExecutionPolicy Bypass; document text is not terminal material; Code Gate is second gate; controlled force requires scope/proof/restore; window closed is not process closed; no interactive target under Code Gate by default.
+- Helper route remains suspended. Direct yt-dlp road remains the only proven transcript road.
+- Boundary: no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no helper rebuild, no helper run, no bypass, no evidence deletion, no dashboard.
