@@ -1,0 +1,48 @@
+SOURCE_WASH_FULL_CYCLE_V1_3_IGNORED_PATH_MANIFEST
+RunId: 20260529_032818
+WrapperVersion: V2.0
+Purpose: exact-file staging manifest for proved helper-controller candidate save.
+Boundary: exact files only; no folder force-add; no wildcard force-add.
+
+RepoRoot: C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz
+
+V2.0 branch-cut repair note:
+The proved wash controller is not the failing object. The repeated failures were all in the lock-save wrapper branch. V1.0 failed the runner/target write contract. V1.1 failed brittle proof-field reading. V1.2 failed ignored-path staging. V1.3 failed dirty-status parsing. V1.4 still let git check-ignore decide whether an exact intended file needed force-add; that failed when a file was already staged/residue under an ignored parent. V2.0 cuts the branch: the exact manifest is the staging authority. Every intended file is staged with git add -f -- exact path only, then the staged set is verified before commit. No folder force-add. No wildcard force-add. No unmanifested path.
+
+Tracked candidate script:
+- Role: proved report-only helper-controller candidate
+- Lane: HOUSE_WORK/WORK_SHED/TOOLS/SOURCE_WASH
+- Path: HOUSE_WORK\WORK_SHED\TOOLS\SOURCE_WASH\RUN_SOURCE_WASH_FULL_CYCLE_V1_3.ps1
+- SHA256: 77259FE0372BB42AA8BFA49D77FDC5D97178532D898D4449D7F54ED057746440
+- AllowedGitAction: exact-file force-add allowed only for this manifest path; staged-set verification blocks extras
+
+Proof card:
+- Role: proof summary and placement judgment
+- Path: HOUSE_WORK\WORK_SHED\SORTING_BENCH\SOURCE_WASH_FULL_CYCLE_V1_3_PROOF_CARD_20260529.md
+- SHA256: 5B8872FA354B838C3749853AD8532613AA4CF7EF893961900CF8D7DAA5031B62
+- AllowedGitAction: exact-file force-add allowed only for this manifest path; staged-set verification blocks extras
+
+Current status:
+- Role: current work status update
+- Path: HOUSE_WORK\INDEXES\CURRENT_HOUSE_WORK_STATUS.md
+- AllowedGitAction: exact-file force-add allowed only for this manifest path; staged-set verification blocks extras
+
+Receipt:
+- Role: lock-save receipt
+- Path: PROOF_HISTORY\SOURCE_WASH_FULL_CYCLE_V1_3_LOCK_RECEIPT_20260529_20260529_032818.txt
+- AllowedGitAction: exact-file force-add allowed only for this manifest path after receipt write; staged-set verification blocks extras
+
+Known prior wrapper residue included in repair staging:
+- Prior wrapper residue allowed for exact-file staging: PROOF_HISTORY\SOURCE_WASH_FULL_CYCLE_V1_3_IGNORED_PATH_MANIFEST_20260529_20260529_031851.txt SHA256=BD9507DAF9689D36E23F14A20AA1B5C7A48C251343849FE352A4368FED940A53
+- Prior wrapper residue allowed for exact-file staging: PROOF_HISTORY\SOURCE_WASH_FULL_CYCLE_V1_3_IGNORED_PATH_MANIFEST_20260529_20260529_032340.txt SHA256=8A97F7F374E84184FC6BCE89FCF5D26F0E17BCB23C069F8F4FD4539BF924799E
+- Prior wrapper residue allowed for exact-file staging: PROOF_HISTORY\SOURCE_WASH_FULL_CYCLE_V1_3_LOCK_RECEIPT_20260529_20260529_031851.txt SHA256=2AEDAF20FE3FA97F44CBC7733D11C154A6E36FEF3454DF47C5C1A563853681F9
+- Prior wrapper residue allowed for exact-file staging: PROOF_HISTORY\SOURCE_WASH_FULL_CYCLE_V1_3_LOCK_RECEIPT_20260529_20260529_032340.txt SHA256=2C30DA064183E4BC4CA1D0AE05247DC225F146324AD783A2FE0DE380E123A81A
+
+Blocked:
+- no folder force-add
+- no wildcard force-add
+- no raw run-output Git staging
+- no doctrine
+- no ACTIVE_GUIDES
+- no CURRENT_TRUTH_INDEX
+- no automation

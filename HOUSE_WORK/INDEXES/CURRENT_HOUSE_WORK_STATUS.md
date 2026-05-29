@@ -7530,3 +7530,105 @@ Saved:
 - PROOF_HISTORY/HELPER_STABILITY_GOVERNOR_V1_LOCK_RECEIPT_20260529.txt
 Boundary: helper-pattern candidate only; no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no module build, no automation, no dashboard.
 Next: build RUN_SOURCE_WASH_FULL_CYCLE_V1.1.ps1 with embedded governor and Code Gate it.
+
+---
+
+## 2026-05-29 — Source Wash Full Cycle V1.3 proof save
+
+Status: RUN_SOURCE_WASH_FULL_CYCLE_V1.3.ps1 = REAL RUN PASS / REPORT-ONLY / GOVERNOR PROVED
+
+Commit pending in this save run.
+
+Saved candidate helper controller:
+
+HOUSE_WORK/WORK_SHED/TOOLS/SOURCE_WASH/RUN_SOURCE_WASH_FULL_CYCLE_V1_3.ps1
+
+Proof card:
+
+HOUSE_WORK/WORK_SHED/SORTING_BENCH/SOURCE_WASH_FULL_CYCLE_V1_3_PROOF_CARD_20260529.md
+
+Local proof pointer:
+
+$RunDirFull
+
+Proof summary:
+
+- EndState: $endState
+- WashVerdict: $washVerdict
+- Processed/Queued/Read: $processed / 29 / 29
+- Skipped/Error/Rough: $skippedCount / 0 / 0
+- Governor: $governorState / CRUISE
+- ThrottleEvents: $governorThrottleEvents
+- RampEvents: $governorRampEvents
+
+Boundary held: helper proof/candidate lock only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no dashboard.
+
+Next route: use V1.3 as the proved base for the next bounded source-wash run or inspect the V1.3 report contents before expanding scope.
+
+---
+
+## 2026-05-29 — Source Wash Full Cycle V1.3 proof save
+
+Status: RUN_SOURCE_WASH_FULL_CYCLE_V1.3.ps1 = REAL RUN PASS / REPORT-ONLY / GOVERNOR PROVED
+
+Commit pending in this save run. V1.3 also repairs ignored-path exact-file staging after the V1.2 wrapper stopped at git add.
+
+Saved candidate helper controller:
+
+HOUSE_WORK/WORK_SHED/TOOLS/SOURCE_WASH/RUN_SOURCE_WASH_FULL_CYCLE_V1_3.ps1
+
+Proof card:
+
+HOUSE_WORK/WORK_SHED/SORTING_BENCH/SOURCE_WASH_FULL_CYCLE_V1_3_PROOF_CARD_20260529.md
+
+Local proof pointer:
+
+$RunDirFull
+
+Proof summary:
+
+- EndState: $endState
+- WashVerdict: $washVerdict
+- Processed/Queued/Read: $processed / 29 / 29
+- Skipped/Error/Rough: $skippedCount / 0 / 0
+- Governor: $governorState / CRUISE
+- ThrottleEvents: $governorThrottleEvents
+- RampEvents: $governorRampEvents
+
+Boundary held: helper proof/candidate lock only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no dashboard.
+
+Next route: use V1.3 as the proved base for the next bounded source-wash run or inspect the V1.3 report contents before expanding scope.
+
+---
+
+## 2026-05-29 — Source Wash Full Cycle V1.3 proof save
+
+Status: RUN_SOURCE_WASH_FULL_CYCLE_V1.3.ps1 = REAL RUN PASS / REPORT-ONLY / GOVERNOR PROVED
+
+Commit pending in this save run. V1.3 also repairs ignored-path exact-file staging after the V1.2 wrapper stopped at git add.
+
+Saved candidate helper controller:
+
+HOUSE_WORK/WORK_SHED/TOOLS/SOURCE_WASH/RUN_SOURCE_WASH_FULL_CYCLE_V1_3.ps1
+
+Proof card:
+
+HOUSE_WORK/WORK_SHED/SORTING_BENCH/SOURCE_WASH_FULL_CYCLE_V1_3_PROOF_CARD_20260529.md
+
+Local proof pointer:
+
+$RunDirFull
+
+Proof summary:
+
+- EndState: $endState
+- WashVerdict: $washVerdict
+- Processed/Queued/Read: $processed / 29 / 29
+- Skipped/Error/Rough: $skippedCount / 0 / 0
+- Governor: $governorState / CRUISE
+- ThrottleEvents: $governorThrottleEvents
+- RampEvents: $governorRampEvents
+
+Boundary held: helper proof/candidate lock only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no dashboard.
+
+Next route: use V1.3 as the proved base for the next bounded source-wash run or inspect the V1.3 report contents before expanding scope.
