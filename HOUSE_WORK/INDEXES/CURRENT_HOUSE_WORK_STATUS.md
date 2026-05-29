@@ -7278,3 +7278,29 @@ Verdict:
 
 Next route:
 - return to user-directed work; use Task Size Gate first; use support pack only if triggered.
+
+---
+
+## 20260528 - Helper Value Comparison baseline report locked
+
+Saved baseline evaluation comparing no-helper history, old-style helper flow, and current helper/support-pack workflow.
+
+Saved file:
+- BRAIN_LEARNING/HELPER_VALUE_COMPARISON_BASELINE_REPORT_20260528.md
+
+Baseline verdict:
+- current helper/support-pack is strongest for proof-heavy repo/local work;
+- no-helper remains best for tiny judgment tasks;
+- old-style helper should not return as default.
+
+Boundary held:
+- no helper build;
+- no dashboard;
+- no automation;
+- no broad benchmark harness;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite.
+
+Next route:
+- use this comparison on the next real task; build a small task ledger only if future measurement is requested.

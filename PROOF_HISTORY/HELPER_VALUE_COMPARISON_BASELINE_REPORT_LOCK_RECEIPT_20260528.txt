@@ -1,0 +1,41 @@
+HELPER VALUE COMPARISON BASELINE REPORT LOCK RECEIPT
+DateTag: 20260528
+RunId: 20260528_220412
+Repo: C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz
+Branch: main
+BaseHead: e6dc46ec85336d96d27727c002b519cce6d5d5a9
+
+OBJECT
+Name: Helper Value Comparison Baseline Report
+Type: baseline evaluation report
+Lane: BRAIN_LEARNING
+Authority: NOT doctrine; NOT ACTIVE_GUIDES; NOT CURRENT_TRUTH_INDEX
+SourceTrigger: user asked how much the helper is helping versus old style and no-helper history
+
+SAVED FILES
+Report: BRAIN_LEARNING/HELPER_VALUE_COMPARISON_BASELINE_REPORT_20260528.md
+ReportSHA256: 42A84593F602A4500C6BA537CE11912CB4F0C3D101F679F7F98485F5C44EB2F3
+StatusUpdate: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+StatusSHA256: 4720C7F49BF6E73B0FEDB0AA75080CBD0F6E8C6F5B2828A584904E6B262F7B4B
+
+BOUNDARY HELD
+- no helper build
+- no dashboard
+- no automation
+- no broad benchmark harness
+- no doctrine promotion
+- no ACTIVE_GUIDES edit
+- no CURRENT_TRUTH_INDEX edit
+- exact-file staging only
+
+FIT DECISION
+ADOPT: current helper/support-pack for proof-heavy repo/local work
+ADAPT: keep no-helper chat for tiny judgment tasks
+PARK: future task ledger unless user asks for ongoing measurement
+BLOCK: old-style helper as default, helper build from this report alone, dashboard, automation, authority edits
+
+NEXT ROUTE
+Use this comparison on the next real task. Build HELPER_VALUE_COMPARISON_TASK_LEDGER_TEMPLATE_20260528.md only if future measurement is requested.
+
+VERDICT
+BASELINE SAVED / CURRENT HELPER HELPS MOST AS BOUNDED PROOF LANE / NOT PROMOTED
