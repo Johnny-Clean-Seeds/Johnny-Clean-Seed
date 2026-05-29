@@ -7360,3 +7360,33 @@ Boundary held:
 
 Next route:
 - pick one old task sample and score it with this rubric before deciding on any replay or tiny counter.
+
+---
+
+## 20260528 - Helper rubric old task sample score 01 locked
+
+Saved first use of Helper Burden / Value Rubric against an old no-helper task sample.
+
+Saved file:
+- BRAIN_LEARNING/HELPER_RUBRIC_OLD_TASK_SAMPLE_SCORE_01_20260528.md
+
+Sample selected:
+- old YouTube transcript / Desktop PowerShell task from no-helper history.
+
+Verdict:
+- current minimum-helper Level 2/3 would likely help;
+- full helper/save chain would likely over-serve;
+- do not replay yet; make a tiny current-replay plan only if needed.
+
+Boundary held:
+- no replay run;
+- no scanner;
+- no dashboard;
+- no automation;
+- no helper build;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite.
+
+Next route:
+- create a tiny current-replay plan for the sample if the user wants to compare old vs current more directly.

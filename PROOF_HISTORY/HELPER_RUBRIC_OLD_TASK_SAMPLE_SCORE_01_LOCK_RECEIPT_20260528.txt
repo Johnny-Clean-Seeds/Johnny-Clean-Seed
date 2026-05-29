@@ -1,0 +1,44 @@
+HELPER RUBRIC OLD TASK SAMPLE SCORE 01 LOCK RECEIPT
+DateTag: 20260528
+RunId: 20260528_222355
+Repo: C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz
+Branch: main
+BaseHead: e9da938c5191505eedaa9a8619a86269291a7f11
+
+OBJECT
+Name: Helper Rubric Old Task Sample Score 01
+Type: rubric use / old sample score
+Lane: BRAIN_LEARNING
+Authority: NOT doctrine; NOT ACTIVE_GUIDES; NOT CURRENT_TRUTH_INDEX
+RubricSource: BRAIN_LEARNING/HELPER_BURDEN_VALUE_RUBRIC_20260528.md
+
+SAMPLE
+Old no-helper sample: YouTube transcript / Desktop PowerShell task
+Reason: path confusion, manual run friction, repeated correction, no clean report-pasteback contract
+
+SAVED FILES
+Score: BRAIN_LEARNING/HELPER_RUBRIC_OLD_TASK_SAMPLE_SCORE_01_20260528.md
+ScoreSHA256: 80ED7A9B79F6198E6C51EB85F2D6E0F039D3E16E7879502B36F5C98BCC19F3DD
+StatusUpdate: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+StatusSHA256: D509F7A3ED5FBC46FBB13ACB7BF6CA7A2FCF05C8D3583A830AE314BEF7AB6D00
+
+BOUNDARY HELD
+- no replay run
+- no scanner
+- no dashboard
+- no automation
+- no helper build
+- no doctrine promotion
+- no ACTIVE_GUIDES edit
+- no CURRENT_TRUTH_INDEX edit
+- exact-file staging only
+
+VERDICT
+CURRENT MINIMUM-HELPER LEVEL 2/3 WOULD LIKELY HELP THIS TASK
+FULL HELPER/SAVE CHAIN WOULD LIKELY OVER-SERVE IT
+
+NEXT ROUTE
+Create a tiny current-replay plan for this sample if the user wants to compare old vs current more directly.
+
+FINAL
+OLD SAMPLE SCORED / RUBRIC USED / NOT PROMOTED
