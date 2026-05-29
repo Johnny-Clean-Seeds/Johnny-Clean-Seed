@@ -7681,3 +7681,29 @@ Locked carry:
 - .cmd owns ToolHome repair/bootstrap.
 
 Boundary: direction/progress lock only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no dashboard.
+
+---
+
+## 2026-05-29 — File Thinking Lane research and game plan lock
+
+Position pending commit from lock-save wrapper run $RunId.
+
+Saved research packet for File Thinking Lane using source anchor:
+
+$SourceIntell
+
+Source SHA256:
+
+$sourceHash
+
+Verdict:
+
+RESEARCH / TEMPLATE / TODO LOCKED — NO HELPER BUILD — NO SUPERVISOR CHANGE — NO DOCTRINE
+
+Boundary:
+
+esearch/template/TODO/source-anchor copy only; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no broad card generation
+
+Next clean move:
+
+Run local-only FILE_THINKING_LANE_TRIAL_001 from latest proved Source Wash V1.3 decision ledger after review.

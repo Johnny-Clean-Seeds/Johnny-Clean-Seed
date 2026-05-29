@@ -1,0 +1,473 @@
+You’re right. I was compressing too early. I dropped too much because I tried to make it “cleaner” before I had fully gathered the concepts. That violated the research stage. This is now worn as:
+
+`SOFT SUIT NOW / UNSAVED / NOT DOCTRINE`
+
+Working center:
+
+`File Thinking Lane = a house-native lane where helpers place file judgment, provenance, proof state, boundaries, and next moves so the file system can explain itself without turning helper judgment into authority.`
+
+The point is not a template. The point is to gather every related concept, then sort it into a living architecture.
+
+## 1. The core concept stack
+
+The File Thinking Lane is made from these concepts, not one concept.
+
+`file identity` — exact object: path, hash, size, timestamp, extension.
+
+`file description` — what it appears to be.
+
+`file role` — what job it does in the house.
+
+`file provenance` — where it came from, what touched it, what generated it, what it generated.
+
+`file custody` — where it entered, where it moved, what receipt proves the move.
+
+`file proof state` — what is actually proved, what is only suspected, what is not proved.
+
+`file boundary` — local-only, Git-safe, raw-source, proof, tool, doctrine-blocked, private, unknown.
+
+`file route` — read, review, park, Code Gate, save, reject, merge, index, shed.
+
+`file memory weight` — carry live, park, burn from active carry, keep as proof trail.
+
+`file relationships` — sibling files, parent run, source bundle, receipts, manifests, ledgers, commits.
+
+`file lifecycle` — draft, active, reviewed, stale, superseded, rejected, merged, archived.
+
+`cluster thinking` — run folders, save packets, helper sequences, wash reports, tool packs, and source bundles need a card too, because their meaning is between files.
+
+That is the gathered center. A single “file note” is too small.
+
+## 2. Outside concepts to borrow
+
+The outside standards are not bosses. They are bones.
+
+Dublin Core gives the description layer. It defines a small cross-domain element set for resource description; this supports `title / description / type / relation / source / date / format / identifier` style fields. ([DCMI][1])
+
+W3C PROV gives the provenance layer. Its core model describes entities produced or used by activities, influenced by agents. That maps cleanly to house objects: file = entity, wash/save/helper run = activity, assistant/user/tool = agent. ([W3C][2])
+
+PREMIS gives the preservation/custody layer. Its model uses Objects, Events, Rights, and Agents, which fits receipts, custody events, preservation proof, and “what happened to this file” tracking. ([The Library of Congress][3])
+
+RO-Crate gives the cluster/package layer. It is built around a metadata document for a research object or folder-like package, which maps to house run folders and proof bundles. ([researchobject.org][4])
+
+DCAT gives the catalog/discovery layer. It is a W3C vocabulary for interoperable data catalogs, which maps to indexes that let helpers find file cards, cluster cards, datasets, reports, and distributions. ([W3C][5])
+
+BagIt gives the payload/tag/checksum custody instinct. It supports the idea that payload files and metadata/tag files can travel together, with manifests/checksums preserving identity and transfer integrity. ([RFC Editor][6])
+
+FAIR gives the reuse pressure: material should be findable, accessible, interoperable, and reusable, with metadata rich enough to support reuse and qualified references between data and metadata. ([GO FAIR][7])
+
+SPDX gives the software/helper-tool layer. It is an open standard for software bill-of-material information, including provenance, license, security, and related data; this matters for helper scripts, code candidates, and tool packs. ([SPDX][8])
+
+CodeMeta gives the software metadata bridge. It exists because software metadata is scattered across incompatible repositories/tools, and it uses a common JSON-LD vocabulary to make software metadata shareable. ([CodeMeta][9])
+
+OpenLineage gives the run/job/dataset facet idea. Facets are atomic metadata pieces attached to runs, jobs, and datasets. That maps strongly to supervisor action manifests/results: proof facet, boundary facet, thinking-card facet, smoke-break facet, Code Gate facet. ([GitHub][10])
+
+OCFL gives versioned preservation storage thinking. It emphasizes that digital objects change over time and need explicit versioning policy; that matters for stale cards, superseded cards, and hash mismatch states. ([Oxford Common File Layout][11])
+
+Sidecar metadata gives the local pattern: metadata can live beside a file when the file format cannot or should not be modified. But sidecars can break if the source file is moved or renamed, so the house should prefer central indexes plus hashes over fragile filename-only pairing. ([Wikipedia][12])
+
+## 3. House rules that already apply
+
+The File Thinking Lane must obey the house. It does not get special authority.
+
+The Final Judge rule says every object has a job and every gate gets judged; close only when object role, gate role, proof, and boundary line up. That means a File Thinking Card must itself be judged by role: is it orientation, proof, route, or source? It cannot pretend to be all of them. 
+
+The Porch rule says dropped/generated files must be read, classified, moved to lane, and receipted; folders/packages are treated as package identities first. That means File Thinking starts at intake: object name, type, source path, classification, route, action, destination, receipt, next assistant action. 
+
+The Misc Drawer rule says mixed material is temporary read-before-action material, not trash, not proof, not permanent storage, and not deletion authority. That means local File Thinking trials belong under `_MISC_DRAWER\READ_REPORTS` until reviewed. 
+
+The Code Gate rule says parse first, run second, save third, and Code Gate PASS is not job PASS. That means a helper script’s File Thinking Card must distinguish parser proof from job proof. 
+
+The No Parking rule says every project object gets a fit decision: fits now, refine then route, reject, hold with reason/lane/risk/return trigger, or review lane. That is basically the File Thinking routing engine. 
+
+The Smoke Break rule says task switches and long loops require releasing old-task momentum, walking/feeling the house, identifying the right lane, and returning focused. File Thinking needs a `carry / park / burn` field because dead live weight is part of the house problem. 
+
+The Data Waste Team rule says detection is not deletion, burn means release active note weight after useful meaning has a home, and carry only the key: active object, trigger, blocker, proof pointer, next condition. File Thinking must reduce live carry, not create more live carry. 
+
+The Deep Work Batch rule says deep work uses front door, rope, object, named batch, source links, finding cards, park/soft-suit, washer, A progress checkpoint, B end-state checkpoint, and next return point. That means File Thinking research itself must create finding cards before rules. 
+
+The supervisor direction already locked the machine shape: supervisor-first local toolbox, menu as child, action manifests steering, watcher proof, recovery ladder routing, learning ledger local pattern memory, exact-file Git save, conservative owned-window cleanup, and ToolHome bootstrap. File Thinking must attach to that route, not bypass it. 
+
+The latest wash review gives the first real data source: 1000 decision rows, with proof context, source ore, boundary notes, proof-state files, review files, parked files, orientation context, pattern-only files, and skips. That is not abstract; the helper is already classifying file roles. 
+
+## 4. All rooms, fitted to this lane
+
+Front Door / Porch:
+
+Job: catch dropped/generated files and packages.
+
+File Thinking role: first identity and intake event.
+
+Required concepts: object name, source path, object type, package identity, first route, receipt, next assistant action.
+
+Do not scatter folder contents before the package itself has identity.
+
+Misc Drawer:
+
+Job: hold mixed material that must be read and classified before action.
+
+File Thinking role: local working home for trial cards, read reports, and uncertain cards.
+
+Boundary: not trash, not proof, not permanent storage.
+
+Work Shed:
+
+Job: helper operations, tools, templates, sorting benches, local tool outputs.
+
+File Thinking role: operational home.
+
+Durable rooms:
+
+`HOUSE_WORK/WORK_SHED/FILE_THINKING/TEMPLATES`
+
+`HOUSE_WORK/WORK_SHED/FILE_THINKING/CARDS`
+
+`HOUSE_WORK/WORK_SHED/FILE_THINKING/CLUSTER_CARDS`
+
+`HOUSE_WORK/WORK_SHED/FILE_THINKING/INDEXES`
+
+`HOUSE_WORK/WORK_SHED/FILE_THINKING/REVIEW_QUEUE`
+
+`HOUSE_WORK/WORK_SHED/FILE_THINKING/LANE_RULES`
+
+Sorting Bench:
+
+Job: compare, critique, synthesize, fit-check.
+
+File Thinking role: research notes, fit reports, trial judgments, concept maps.
+
+This is where `FILE_THINKING_LANE_RESEARCH_NOTES_V1` belongs.
+
+Toolbox / Supervisor:
+
+Job: run safe helper actions through manifest, watcher, result, recovery.
+
+File Thinking role: enforce `ThinkingCardPolicy`.
+
+Manifest fields should include:
+
+`ThinkingCardPolicy`
+
+`ThinkingCardLevel`
+
+`ThinkingCardSelectionRule`
+
+`ThinkingCardOutputRoot`
+
+`ThinkingCardCloseStandard`
+
+`ThinkingCardBoundary`
+
+`ThinkingCardProofSource`
+
+`ThinkingCardReviewNeeded`
+
+Recovery Room:
+
+Job: route failures and resume cleanly.
+
+File Thinking role: repeated failure objects get thinking cards.
+
+Trigger: three same-event failures, post-smoke-break unresolved issue, or stale loop.
+
+Learning Ledger:
+
+Job: local pattern memory, not doctrine.
+
+File Thinking role: stores recurring file-pattern lessons, not one-off file cards.
+
+Risk: learning ledger becoming a junk drawer.
+
+Rule: repeated pattern only; one-off file state belongs in card/index.
+
+Proof History:
+
+Job: proof receipts and close evidence.
+
+File Thinking role: cards may point to Proof History; they do not become Proof History.
+
+Rule: receipts prove actions; cards orient objects.
+
+Brain Learning:
+
+Job: high-level rule learning.
+
+File Thinking role: only the lane rule goes here, not all cards.
+
+Chat Cockpit:
+
+Job: assistant-facing live behavior.
+
+File Thinking role: only if the lane changes assistant behavior, such as “when asked for deep file research, gather before compressing.”
+
+Command Center:
+
+Job: task routing, pickup, receipts, context cart.
+
+File Thinking role: can receive trial packets, kickoff cards, and YOU GOT MAIL style events.
+
+Git / URL:
+
+Job: durable project save, public-safe map.
+
+File Thinking role: only reviewed L2 cards, templates, lane rules, indexes, receipts.
+
+Raw local cards stay local unless selected.
+
+## 5. Concepts that must be gathered into the rule packet
+
+Here is the full concept inventory. This should go into the research packet, not be lost.
+
+`File Identity`
+
+Path, relative path, hash, size, extension, modified time, first seen, last seen, card hash, card status.
+
+`File Description`
+
+Plain-language description, headings, excerpt, file type, visible structure, format, human-readable yes/no.
+
+`File Role`
+
+Proof context, receipt, manifest, action result, source ore, tool script, code pattern, rule candidate, boundary note, index/status context, orientation context, review item, parked review, local-only helper, raw source, skip/non-text.
+
+`File Provenance`
+
+Generated by, generated at, used by, derived from, source run, source action manifest, source action result, related agent, related tool, related commit, related receipt.
+
+`File Custody`
+
+Porch event, move/copy state, source path, destination path, receipt, local-only versus repo, package identity, folder identity.
+
+`Proof / Trust State`
+
+Externally claimed, suspected, directly verified, Code Gate parser pass, job pass, Git saved, commit pushed, HEAD equals origin, final clean status, report-only proof, bounded proof, not exhaustive proof.
+
+`Boundary`
+
+No doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no automation, no move/delete, no Git unless exact-file save, local-only, raw source not staged, private/source-heavy not public.
+
+`Routing`
+
+Read, classify, review, park, reject, merge, index, Code Gate, save exact-file, make card, make cluster card, shed from live carry, keep proof trail, return trigger.
+
+`Carry / Burn`
+
+Carry key only, burn active note weight, preserve proof/source, stale card, duplicate card, superseded card, merged card, rejected noise.
+
+`Lifecycle`
+
+DRAFT_LOCAL, USEFUL_LOCAL, REVIEW_NEEDED, REVIEWED_HOUSE_CARD, STALE_HASH_MISMATCH, SUPERSEDED, REJECTED_AS_NOISE, MERGED_INTO_CLUSTER_CARD, PARKED_WITH_RETURN_TRIGGER.
+
+`Card Levels`
+
+L0 ledger row, L1 local selected card, L2 reviewed house card.
+
+`Card Types`
+
+File card, cluster card, package card, code/helper card, proof-set card, repeated-failure card, source-ore card, boundary card.
+
+`Cluster Thinking`
+
+Run folder, wash output, save packet, helper sequence, code intake pack, source bundle, proof bundle.
+
+Cluster fields:
+
+expected files, present files, missing files, stale files, source run, verdict, proof surface, next move.
+
+`Supervisor Hook`
+
+ThinkingCardPolicy, selection rule, output root, close standard, review need, policy enforcement.
+
+`Policy Values`
+
+NONE, LEDGER_ONLY, OPTIONAL_SELECTED, REQUIRED_FOR_UNKNOWN, REQUIRED_FOR_CODE_INTAKE, REQUIRED_FOR_REPEATED_FAILURE, REQUIRED_BEFORE_GIT_SAVE, REQUIRED_FOR_DURABLE_HELPER, REQUIRED_FOR_CLUSTER_OUTPUT.
+
+`Selection Rules`
+
+Select unknown review, parked review, boundary note, proof-state item, source ore selected for later, code pattern, new helper, repeated failure object, Git-save candidate.
+
+`Quality Gate`
+
+A card passes only if it answers:
+
+What is this object?
+
+Why should a helper care?
+
+What was checked?
+
+What is proved?
+
+What is not proved?
+
+What boundary applies?
+
+What is the next clean move?
+
+What can be shed from live carry?
+
+`Anti-Bloat`
+
+Do not card everything. L0 for many, L1 for selected, L2 for reviewed. Reject cards that only restate filename. Merge repetitive cards into cluster cards. Mark stale by hash mismatch.
+
+`Unknown Rule`
+
+UNKNOWN is allowed only if the card says what was checked and where the unknown remains.
+
+`Research Rule`
+
+Gather first. Sort second. Fit third. Build later.
+
+## 6. The deeper architecture
+
+The lane should not be:
+
+`file -> note`
+
+That is too weak.
+
+It should be:
+
+`file/package enters -> intake event -> L0 classification -> selected L1 orientation -> proof links -> boundary -> next move -> review -> optional L2 durable card/index`
+
+For clusters:
+
+`run/package -> cluster identity -> expected pieces -> present pieces -> proof surfaces -> missing/stale pieces -> cluster verdict -> next move -> optional durable cluster card`
+
+For supervisor actions:
+
+`action manifest -> ThinkingCardPolicy -> helper run -> watcher result -> L0 ledger -> selected cards -> close standard`
+
+For repeated failure:
+
+`failure loop -> smoke break -> failure-object card -> recovery route -> proof result -> learning ledger only if repeated pattern`
+
+For Git save:
+
+`candidate file -> fit decision -> thinking card or no-card reason -> exact-file manifest -> Code Gate/save proof -> commit/push/clean -> card points to receipt`
+
+## 7. Better outside-standard mapping
+
+Use these as translation, not as copied structure.
+
+Dublin Core maps to `description`.
+
+PROV maps to `provenance`.
+
+PREMIS maps to `preservation/custody`.
+
+BagIt maps to `payload + tag + checksums`.
+
+RO-Crate maps to `cluster/package thinking`.
+
+DCAT maps to `catalog/index`.
+
+FAIR maps to `findability and reuse`.
+
+SPDX maps to `software/helper supply chain`.
+
+CodeMeta maps to `helper/tool metadata`.
+
+OpenLineage maps to `run/job/dataset facets`.
+
+OCFL maps to `versioned digital objects and stale/superseded lifecycle`.
+
+Sidecar metadata maps to `local card beside object`, but house should guard against fragile filename-only links by using hash and index.
+
+IIIF manifests map to `structured presentation of complex objects`; useful later for visual/source collections, not first build.
+
+Pester/replay harness maps to `prove the card generator itself`.
+
+Traceability Matrix maps to `source claim -> file -> proof -> decision`.
+
+Assurance Case / GSN maps to `claim-evidence-argument`, useful later for proof clusters.
+
+FMEA/STPA maps to `failure and hazard analysis`, useful for card-bloat and false-authority risk.
+
+ADR lifecycle maps to `why this lane exists and what tradeoffs were accepted`.
+
+## 8. Gaps still open
+
+We are still missing these, and they must stay in the research packet.
+
+How does a card refresh when the file hash changes?
+
+How does a cluster card refresh when a folder gains or loses files?
+
+How do we prevent stale cards from sounding current?
+
+How do we keep cards from duplicating receipts?
+
+How do we keep cards from duplicating manifests?
+
+How do we keep the learning ledger from swallowing file state?
+
+How do we decide one file card versus one cluster card?
+
+How do we mark private/source-heavy material without leaking it to Git?
+
+How do helper-generated cards get reviewed before L2?
+
+How do cards survive moved files? Hash plus relative path plus original path.
+
+How do cards handle deleted/missing files? Missing object state, not silent removal.
+
+How do cards handle generated helper code? CodeMeta/SPDX-like fields plus Code Gate proof.
+
+How do cards handle “source ore” that is useful but not ready? Park with return trigger.
+
+How do cards help smoke break? Carry/burn/park/proof-trail field.
+
+How do cards help future helpers? Next move plus do-not-claim field.
+
+## 9. First build should still wait
+
+Do not code this yet.
+
+The next object should be the research packet with every gathered concept and rule. It should be saved as research/planning only.
+
+Packet:
+
+`FILE_THINKING_LANE_RESEARCH_NOTES_V1_20260529.md`
+
+`FILE_THINKING_LANE_CONCEPT_AND_RULE_GATHER_MAP_V1_20260529.md`
+
+`FILE_THINKING_CARD_TEMPLATE_V1_20260529.md`
+
+`FILE_THINKING_CLUSTER_CARD_TEMPLATE_V1_20260529.md`
+
+`FILE_THINKING_LANE_GAME_PLAN_SIDE_NOTES_V1_20260529.md`
+
+`FILE_THINKING_LANE_TRIAL_001_TODO_20260529.md`
+
+Boundary:
+
+research/template/TODO only; no helper build; no supervisor change; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation.
+
+## 10. Final fitted sentence
+
+Use this as the research anchor:
+
+`Give helper file-judgment a home, a proof boundary, a lifecycle, and a next move.`
+
+That sentence carries all the pieces without shrinking them.
+
+The first useful shape is not “File Thinking Card.” It is:
+
+`File Thinking Lane = L0 ledger + L1 local cards + L2 reviewed cards + cluster cards + supervisor policy + proof boundaries + smoke-break carry state.`
+
+That is the complete gather pass.
+
+[1]: https://www.dublincore.org/documents/dces/?utm_source=chatgpt.com "DCMI: Dublin Core™ Metadata Element Set, Version 1.1"
+[2]: https://www.w3.org/TR/prov-dm/?utm_source=chatgpt.com "PROV-DM: The PROV Data Model"
+[3]: https://www.loc.gov/standards/premis/v3/?utm_source=chatgpt.com "PREMIS Data Dictionary for Preservation Metadata, Version 3.0"
+[4]: https://www.researchobject.org/ro-crate/specification/1.1/metadata.html?utm_source=chatgpt.com "Metadata of the RO-Crate"
+[5]: https://www.w3.org/TR/vocab-dcat-3/?utm_source=chatgpt.com "Data Catalog Vocabulary (DCAT) - Version 3"
+[6]: https://www.rfc-editor.org/rfc/rfc5013.html?utm_source=chatgpt.com "RFC 5013: The Dublin Core Metadata Element Set"
+[7]: https://www.go-fair.org/fair-principles/?utm_source=chatgpt.com "FAIR Principles"
+[8]: https://spdx.dev/about/overview/?utm_source=chatgpt.com "Overview – SPDX"
+[9]: https://codemeta.github.io/?utm_source=chatgpt.com "The CodeMeta Project"
+[10]: https://github.com/OpenLineage/OpenLineage/blob/main/spec/OpenLineage.md?utm_source=chatgpt.com "OpenLineage/spec/OpenLineage.md at main"
+[11]: https://ocfl.io/draft/spec/?utm_source=chatgpt.com "Oxford Common File Layout Specification"
+[12]: https://en.wikipedia.org/wiki/Sidecar_file?utm_source=chatgpt.com "Sidecar file"
+
