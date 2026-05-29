@@ -7503,3 +7503,16 @@ REFINE / STRONG CANDIDATE FOR HELPER VALUE SYSTEM / SAVED FOR HOUSE REVIEW.
 - Saved source fit report preserving pasted source notes and external analog fit.
 - Core sentence: invisible work must become inspectable without becoming chat bloat.
 - Boundary: no automation, no helper build, no doctrine install, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no dashboard, no runner.
+## 2026-05-29 — Source Wash Full Cycle Harness V1
+
+Status: LOCK-SAVE ROUTE
+Object: SOURCE_WASH_FULL_CYCLE_HARNESS_V1
+Placement: Local Code Workbench -> Source-to-House Wash Helper -> Full Wash Cycle Harness
+Saved:
+- BRAIN_LEARNING/SOURCE_WASH_FULL_CYCLE_HARNESS_V1_20260529.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/SOURCE_WASH_FULL_CYCLE_HARNESS_V1_FIT_REPORT_20260529.md
+- HOUSE_WORK/TODO/SOURCE_WASH_FULL_CYCLE_HARNESS_V1_BUILD_AND_PROOF_TODO_20260529.md
+- PROOF_HISTORY/SOURCE_WASH_FULL_CYCLE_HARNESS_V1_LOCK_RECEIPT_20260529.txt
+ReceiptSHA256: 5CE576180119B0FD7CA5EB383F33898ABE06C50537F0E862F0EC4265BBC75BCE
+Boundary: design contract and build/proof TODO only; no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no automation, no dashboard, no helper build, no controller run.
+Next: build report-only RUN_SOURCE_WASH_FULL_CYCLE_V1.ps1 through Code Gate.
