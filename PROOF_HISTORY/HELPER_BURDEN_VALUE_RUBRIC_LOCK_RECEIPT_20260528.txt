@@ -1,0 +1,55 @@
+HELPER BURDEN VALUE RUBRIC LOCK RECEIPT
+DateTag: 20260528
+RunId: 20260528_222124
+Repo: C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz
+Branch: main
+BaseHead: cb996797b1d734ad81ddf9856a9869d536781dc9
+
+OBJECT
+Name: Helper Burden / Value Rubric
+Type: rubric / evaluation model
+Lane: BRAIN_LEARNING
+Authority: NOT doctrine; NOT ACTIVE_GUIDES; NOT CURRENT_TRUTH_INDEX
+SourceTrigger: user requested fuller concept and copy-paste method without dropping material
+
+SAVED FILES
+Rubric: BRAIN_LEARNING/HELPER_BURDEN_VALUE_RUBRIC_20260528.md
+RubricSHA256: F8DAAE3E756852ED55DBEF55A2967666A7693F80CC1492370D3D1FAD4B05B5E4
+StatusUpdate: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+StatusSHA256: 19DC15AEA3E6A783504A88A82D048FDF60BBD4CB8B9A7193C774794930931703
+
+CAPTURED CONCEPTS
+- helper value is not one score
+- helper as burden-routing device
+- savings plus safety plus reuse minus tax
+- six ledgers: cost, savings, safety, flow, reuse, debt
+- helper levels 0 through 6
+- helper verdict labels
+- proportional minimum-helper rule
+- replay test design
+- copy-paste method
+- dead weight to drop
+- carry-forward concepts
+- hard verdict and next use
+
+BOUNDARY HELD
+- no scanner
+- no dashboard
+- no automation
+- no helper build
+- no doctrine promotion
+- no ACTIVE_GUIDES edit
+- no CURRENT_TRUTH_INDEX edit
+- exact-file staging only
+
+FIT DECISION
+ADOPT: rubric as evaluation model for helper value
+ADAPT: use smallest helper level that proves the task
+PARK: scanner, dashboard, automation, helper build
+BLOCK: measuring bytes without proof value, assuming helper always helps, authority edits from this rubric alone
+
+NEXT ROUTE
+Pick one old task sample and score it with this rubric before deciding on replay or a tiny read-only counter.
+
+VERDICT
+HELPER BURDEN VALUE RUBRIC SAVED / EVALUATION MODEL READY / NOT PROMOTED

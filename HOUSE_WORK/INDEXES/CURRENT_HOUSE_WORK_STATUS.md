@@ -7333,3 +7333,30 @@ Verdict:
 
 Next route:
 - after future report pasteback, send next code directly on PASS or narrow fix code on FAIL.
+
+---
+
+## 20260528 - Helper Burden / Value Rubric locked
+
+Saved a fuller rubric for judging whether helpers are actually helping, saving, transferring burden, adding proof, or creating bloat.
+
+Saved file:
+- BRAIN_LEARNING/HELPER_BURDEN_VALUE_RUBRIC_20260528.md
+
+Core verdict:
+- the helper is not automatically a savings device;
+- the helper is a burden-routing device;
+- use it when burden belongs in durable proof;
+- do not use it when burden belongs in simple judgment.
+
+Boundary held:
+- no scanner;
+- no dashboard;
+- no automation;
+- no helper build;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite.
+
+Next route:
+- pick one old task sample and score it with this rubric before deciding on any replay or tiny counter.
