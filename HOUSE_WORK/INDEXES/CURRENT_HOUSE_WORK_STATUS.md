@@ -7216,3 +7216,30 @@ Verdict:
 
 Next route:
 - build BRAIN_LEARNING/WAYFINDING_SAVE_SELECTION_TINY_PROOF_20260528.md as one tiny proof card only.
+
+---
+
+## 20260528 - Wayfinding Save-Selection tiny proof locked
+
+Saved candidate tiny proof card testing whether a small wayfinding card can select one next route without becoming a planner/dashboard/helper/global system.
+
+Saved file:
+- BRAIN_LEARNING/WAYFINDING_SAVE_SELECTION_TINY_PROOF_20260528.md
+
+Proof result:
+- PASS CANDIDATE / WAYFINDING SAVE-SELECTION PROVED ONE NEXT-ROUTE CLASS / NOT PROMOTED
+
+Boundary held:
+- no planner;
+- no dashboard;
+- no helper/code build;
+- no global routing system;
+- no automation;
+- no broad scan;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no Keyring Level 1 movement.
+
+Next route:
+- run a small current-chain close/hold check before continuing mechanism proofs.
