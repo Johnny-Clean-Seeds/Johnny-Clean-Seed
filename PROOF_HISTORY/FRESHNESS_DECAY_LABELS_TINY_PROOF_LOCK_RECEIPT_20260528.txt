@@ -1,0 +1,45 @@
+FRESHNESS DECAY LABELS TINY PROOF LOCK RECEIPT
+DateTag: 20260528
+RunId: 20260528_215110
+Repo: C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz
+Branch: main
+BaseHead: 80fee2584843dbcc37b269c0732d6e0ce57ea459
+
+OBJECT
+Name: Freshness / Decay Labels Tiny Proof
+Type: tiny proof card / candidate mechanism proof
+Lane: BRAIN_LEARNING
+Authority: NOT doctrine; NOT ACTIVE_GUIDES; NOT CURRENT_TRUTH_INDEX
+SourceSelection: BRAIN_LEARNING/KEYRING_LEVEL0_USE_NEXT_MECHANISM_SELECTION_20260528.md
+
+SAVED FILES
+Report: BRAIN_LEARNING/FRESHNESS_DECAY_LABELS_TINY_PROOF_20260528.md
+ReportSHA256: 08D3868FCF98B403D5200979B5F1BF652C3D22FE8197331123A7D408537323A1
+StatusUpdate: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+StatusSHA256: 8B7BA896F894EE148269F53D4A134FED7A4912BCA69BDF66E78EFBA263909A9B
+
+BOUNDARY HELD
+- no dashboard
+- no registry
+- no helper/code build
+- no broad scan
+- no global relabeling
+- no doctrine promotion
+- no ACTIVE_GUIDES edit
+- no CURRENT_TRUTH_INDEX edit
+- no Keyring Level 1 movement
+- no full Keyring build
+- exact-file staging only
+
+FIT DECISION
+ADOPT: Freshness / Decay Labels as candidate mechanism for live-carry hygiene and Keyring row safety
+ADAPT: label set may be narrowed after live use; avoid adding labels unless real ambiguity appears
+PROOF: one-chain table shows labels reduce stale/live confusion
+PARK: dashboard, registry, helper, broad relabeling, Level 1 Keyring, authority integration
+BLOCK: promotion, authority edit, global relabeling, helper build, broad scan, labels-as-authority
+
+NEXT ROUTE
+Use the label set once in a later orientation or save-selection task. Do not build dashboard, helper, or global label system.
+
+VERDICT
+PASS CANDIDATE / FRESHNESS-DECAY LABELS TINY PROOF LOCK-SAVE READY / NOT PROMOTED

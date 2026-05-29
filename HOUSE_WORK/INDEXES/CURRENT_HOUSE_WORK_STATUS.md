@@ -7160,3 +7160,30 @@ Verdict:
 
 Next route:
 - build BRAIN_LEARNING/FRESHNESS_DECAY_LABELS_TINY_PROOF_20260528.md as one tiny proof card only.
+
+---
+
+## 20260528 - Freshness / Decay Labels tiny proof locked
+
+Saved candidate tiny proof card testing whether a small freshness/decay label set reduces stale/live confusion across one saved chain.
+
+Saved file:
+- BRAIN_LEARNING/FRESHNESS_DECAY_LABELS_TINY_PROOF_20260528.md
+
+Proof result:
+- PASS CANDIDATE / FRESHNESS-DECAY LABELS PROVED ONE LIVE-CARRY CLASS / NOT PROMOTED
+
+Boundary held:
+- no dashboard;
+- no registry;
+- no helper/code build;
+- no broad scan;
+- no global relabeling;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no Keyring Level 1 movement;
+- no full Keyring build.
+
+Next route:
+- use the label set once in a later orientation or save-selection task; do not build dashboard/helper/global labels.
