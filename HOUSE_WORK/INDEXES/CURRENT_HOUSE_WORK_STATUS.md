@@ -205,3 +205,20 @@ pause/lane/ledger/TODO/receipt/status only; no doctrine; no ACTIVE_GUIDES; no CU
 
 Next rope:
 Resume manual frame-to-candidate contract test design.
+
+## 2026-05-30 — Dual-Shell Tandem Gate Bridge living piles saved
+
+RunId: 20260530_032908
+Status: SUPPORT CONCEPT / LIVING PILES / METHOD SAVED
+
+Saved object:
+Dual-Shell Tandem Gate Bridge deep-search living concept, research piles, route map, living idea ledger, focal-core side-piles method, TODO, suit card.
+
+Core rule:
+One visible operator shell and one visible gate shell work in tandem under the same session. Packets carry keys. Receipts carry proof. Closing operator session closes, parks, or stops gate work.
+
+Boundary:
+support concept/method/piles/map/TODO/receipt/status only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no script implementation; no watcher; no named pipe; no automation; no tool install
+
+Next rope:
+Design DUAL_SHELL_TANDEM_GATE_BRIDGE_SESSION_PROTOCOL_V1.

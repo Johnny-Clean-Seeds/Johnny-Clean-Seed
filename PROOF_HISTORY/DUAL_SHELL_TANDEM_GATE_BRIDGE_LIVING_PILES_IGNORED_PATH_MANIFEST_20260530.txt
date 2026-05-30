@@ -1,0 +1,87 @@
+DUAL_SHELL_TANDEM_GATE_BRIDGE_LIVING_PILES_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_032908
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: BRAIN_LEARNING/DUAL_SHELL_TANDEM_GATE_BRIDGE_DEEP_SEARCH_LIVING_CONCEPT_20260530.md
+Role: planned save object member
+Lane: Dual-Shell Tandem Gate Bridge living concept/piles
+Reason: concept/method/piles/route/TODO/suit/proof
+SizeBytes: 2309
+SHA256: 19A5B46B6F3925781C2D66F900E28ECBCCE7F230CC236608B34AF82E5D7D7A62
+IgnoreWitness: .gitignore:37:*BRIDGE*	BRAIN_LEARNING/DUAL_SHELL_TANDEM_GATE_BRIDGE_DEEP_SEARCH_LIVING_CONCEPT_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: BRAIN_LEARNING/FOCAL_CORE_SIDE_PILES_WORK_METHOD_20260530.md
+Role: planned save object member
+Lane: Dual-Shell Tandem Gate Bridge living concept/piles
+Reason: concept/method/piles/route/TODO/suit/proof
+SizeBytes: 1223
+SHA256: E87C9B0C5F45C808D3B29C44D4BF87F5FAC1FFA9B6E40CA98DB565E5C8F3F176
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/DUAL_SHELL_TANDEM_GATE_BRIDGE_RESEARCH_PILES_20260530.md
+Role: planned save object member
+Lane: Dual-Shell Tandem Gate Bridge living concept/piles
+Reason: concept/method/piles/route/TODO/suit/proof
+SizeBytes: 1680
+SHA256: A7F4122A9F4BEC5CC126B9412CE9E8955D4F64E9333B8417C8F891F214A8D332
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/DUAL_SHELL_TANDEM_GATE_BRIDGE_RESEARCH_PILES_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/DUAL_SHELL_TANDEM_GATE_BRIDGE_LIVING_IDEA_LEDGER_20260530.md
+Role: planned save object member
+Lane: Dual-Shell Tandem Gate Bridge living concept/piles
+Reason: concept/method/piles/route/TODO/suit/proof
+SizeBytes: 1339
+SHA256: 26C48827A0F3F1E2B3969C9B68D213402E313CB77F35BCD47EA968CBCF6BD846
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/DUAL_SHELL_TANDEM_GATE_BRIDGE_LIVING_IDEA_LEDGER_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/DUAL_SHELL_TANDEM_GATE_BRIDGE_ROUTE_MAP_V1_20260530.md
+Role: planned save object member
+Lane: Dual-Shell Tandem Gate Bridge living concept/piles
+Reason: concept/method/piles/route/TODO/suit/proof
+SizeBytes: 861
+SHA256: 25D5873B7CDBF37866504DF3025D476F8FB65F923F9A0751869ECA636CCE1E82
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/DUAL_SHELL_TANDEM_GATE_BRIDGE_ROUTE_MAP_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/TODO/DUAL_SHELL_TANDEM_GATE_BRIDGE_SESSION_PROTOCOL_TODO_20260530.md
+Role: planned save object member
+Lane: Dual-Shell Tandem Gate Bridge living concept/piles
+Reason: concept/method/piles/route/TODO/suit/proof
+SizeBytes: 719
+SHA256: 09F8E3E89427BFDC6273D1C0BF124E4AAD824AD87F93C0C7103404368B0BFF30
+IgnoreWitness: .gitignore:37:*BRIDGE*	HOUSE_WORK/TODO/DUAL_SHELL_TANDEM_GATE_BRIDGE_SESSION_PROTOCOL_TODO_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/DUAL_SHELL_TANDEM_GATE_BRIDGE_SUIT_CARD_V1_20260530.md
+Role: planned save object member
+Lane: Dual-Shell Tandem Gate Bridge living concept/piles
+Reason: concept/method/piles/route/TODO/suit/proof
+SizeBytes: 698
+SHA256: 236ABA9268CA3DEF7B7B2E6AD9FF8F8D4F9C3EFB56D72D7713B4CBBC9F2B4DE0
+IgnoreWitness: .gitignore:37:*BRIDGE*	HOUSE_WORK/CHAT_COCKPIT/DUAL_SHELL_TANDEM_GATE_BRIDGE_SUIT_CARD_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Dual-Shell Tandem Gate Bridge living concept/piles
+Reason: concept/method/piles/route/TODO/suit/proof
+SizeBytes: 9893
+SHA256: 25A441C4D96FE5E5CA1B5B9E20C9B486710D5FE6D0AB6BBD05F2FC0ADC0FDC91
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/DUAL_SHELL_TANDEM_GATE_BRIDGE_LIVING_PILES_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Dual-Shell Tandem Gate Bridge living concept/piles
+Reason: concept/method/piles/route/TODO/suit/proof
+SizeBytes: 1368
+SHA256: DBD68B2C4C28D9ABB56F932AEF5C0BC5F949A01BC7D1A561AEB27BA9AC3D8924
+IgnoreWitness: .gitignore:37:*BRIDGE*	PROOF_HISTORY/DUAL_SHELL_TANDEM_GATE_BRIDGE_LIVING_PILES_LOCK_RECEIPT_20260530.txt
+AllowedGitAction: git add -f -- exact file only
+

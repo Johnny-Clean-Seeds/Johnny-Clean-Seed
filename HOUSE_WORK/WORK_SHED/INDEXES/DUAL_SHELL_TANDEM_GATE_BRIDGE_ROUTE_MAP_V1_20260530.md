@@ -1,0 +1,51 @@
+# Dual-Shell Tandem Gate Bridge Route Map V1
+
+Date: 2026-05-30
+Status: SUPPORT MAP / NOT IMPLEMENTATION
+
+## Route
+
+OPERATOR_SESSION_OPEN
+-> GATE_SESSION_PAIR
+-> SESSION_BLACKBOARD_READY
+-> PACKET_SUBMITTED
+-> PACKET_VALIDATED
+-> PACKET_CLAIMED
+-> KEY_LEDGER_ROUTE_CHECK
+-> GATE_FOR_GATES_ROUTE
+-> SPECIALIST_GATE_WORK
+-> RECEIPT_WRITTEN
+-> RECEIPT_MATCHED
+-> OPERATOR_ACK
+-> ARCHIVE_OR_NEXT_PACKET
+-> SESSION_CLOSE
+
+## Folder concept
+
+COMMAND_CENTER/DUAL_SHELL_TANDEM/SESSIONS/<SessionId>/
+
+STATE
+INBOX
+CLAIMED
+RUNNING
+RECEIPTS
+ACKED
+INVALID
+DEAD_LETTER
+PARKED
+ARCHIVE
+LOGS
+
+## Version ladder
+
+V0 Manual Split Tandem.
+V1 File Packet Tandem.
+V2 Visible Waiting Gate.
+V3 Session-Tethered Launch.
+V4 Gate-for-Gates Router.
+V5 Receipt Dashboard.
+V6 Named Pipe Upgrade after protocol proof.
+
+## Next route
+
+Design DUAL_SHELL_TANDEM_GATE_BRIDGE_SESSION_PROTOCOL_V1.
