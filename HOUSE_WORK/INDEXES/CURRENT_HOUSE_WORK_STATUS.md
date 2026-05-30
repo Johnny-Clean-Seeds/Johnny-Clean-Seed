@@ -342,3 +342,17 @@ structure + question what does structure do + candidate order + proof bridge str
 
 Boundary:
 Git support evidence/ledger/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no watcher; no automation; no tool install; no user-local operational writes outside Git repo
+
+## 2026-05-30 — Shell Outtake / Whirlpool web-fit refinement saved
+
+RunId: 20260530_044326
+Status: V1.1 WEB-FIT REFINEMENT / SUPPORT ONLY
+
+Core:
+Outside source-ore patterns sharpened the Shell Outtake / Whirlpool concept. Intake/Outtake are boundary translators; surfaces are ports; files are proof/event store; shell is user view; Final Gate decides; Outtake presents; Whirlpool remains blocked behind orchestrated precheck.
+
+V1.1 order:
+0 Iterative Zoom Ordering Method; 1 Burn Old Weight; 2 Surface/Port Authority Split; 3 Dual-Format Contract; 4 Same-Shell User Contract; 5 Intake Translator/Custody Gate; 6 Washer/Chew Gate Pipeline; 7 File Proof/Event Store Contract; 8 Final Gate/Orchestrator; 9 Outtake Presenter/User ViewModel; 10 Keys/Ledgers/Helpers Coordination; 11 Blackboard/Session Coordination Candidate; 12 Whirlpool Precheck; 13 Whirlpool Cycle.
+
+Boundary:
+Git support refinement/report/order/template/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no watcher; no automation; no tool install; no user-local operational writes outside Git repo
