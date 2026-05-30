@@ -1,0 +1,26 @@
+Living System Front Door Bridge Tunnel V1.4 Manifest
+RunId: 20260530_121854
+WorkKey: LIVING-SYSTEM-FRONT-DOOR-BRIDGE-TUNNEL-20260530-V1-4
+OldHead: 8582a5840d983b60600b40186a80bf4e2b509ace
+OriginBefore: 8582a5840d983b60600b40186a80bf4e2b509ace
+Boundary: exact-file staging only; no folder force-add; no wildcard force-add
+
+Files:
+0 | 1 | 2
+0 | 1 | 2
+0 | 1 | 2
+0 | 1 | 2
+0 | 1 | 2
+0 | 1 | 2
+0 | 1 | 2
+0 | 1 | 2
+0 | 1 | 2
+0 | 1 | 2
+0 | 1 | 2
+0 | 1 | 2
+0 | 1 | 2
+0 | 1 | 2
+0 | 1 | 2
+0 | 1 | 2
+0 | 1 | 2
+0 | 1 | 2

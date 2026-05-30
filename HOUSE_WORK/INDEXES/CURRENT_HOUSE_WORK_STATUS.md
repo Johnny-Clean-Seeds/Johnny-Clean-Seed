@@ -25,3 +25,34 @@ Blocked lanes:
 - doctrine
 - ACTIVE_GUIDES
 - CURRENT_TRUTH_INDEX
+---
+
+## Living System Front Door / Bridge-Tunnel V1.4 Save
+
+Date: 2026-05-30
+RunId: 20260530_121854
+WorkKey: LIVING-SYSTEM-FRONT-DOOR-BRIDGE-TUNNEL-20260530-V1-4
+Status: SAME-PROCESS SMOKE-BREAK DESIGN/MAP/PILOT SAVE ROUTE
+
+Saved object:
+- same-process 25% workflow with smoke-break reset
+- last-six-copy drift review
+- front-door pointer
+- living front-door ledger
+- node registry
+- tool-bearing bridge/tunnel registry
+- hub toolbelt registry
+- chat-load manifest
+- 3-time/3-zoom walk card
+- node/tunnel/toolbelt templates
+- cockpit suit card
+- proof receipt and exact-file manifest
+
+Important correction:
+V1.4 does not update ACTIVE_ANCHOR by default. Use -UpdateActiveAnchor only if explicitly selected.
+
+Boundary held:
+No broad ledger refactor. No delete. No move. No watcher. No automation. No Whirlpool. No doctrine. No ACTIVE_GUIDES. No CURRENT_TRUTH_INDEX. No universal mapper. No graph database. No whole-house crawl.
+
+Next clean move:
+Run the Chat Drop/current-navigation-spine pilot through the new front-door ledger and tool-bearing tunnel registry before expanding.

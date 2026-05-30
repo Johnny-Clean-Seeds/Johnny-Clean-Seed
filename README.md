@@ -89,6 +89,16 @@ It does not rewrite the model.
 
 It routes the assistant to the active packet and labels proof/history/source-ore correctly.
 
+<!-- LIVING_SYSTEM_FRONT_DOOR_POINTER_START -->
+## Living System Front Door Pointer
 
+For the current Living System front-door / bridge-tunnel pilot, start at:
 
+START_HERE_CURRENT_HOUSE_LEDGER.md
 
+That file points to:
+
+HOUSE_WORK/WORK_SHED/INDEXES/LIVING_SYSTEM_FRONT_DOOR_LEDGER_V1_4_20260530.md
+
+Boundary: pointer only. It does not replace CURRENT_TRUTH_INDEX, ACTIVE_ANCHOR, ACTIVE_GUIDES, proof receipts, or user command.
+<!-- LIVING_SYSTEM_FRONT_DOOR_POINTER_END -->
