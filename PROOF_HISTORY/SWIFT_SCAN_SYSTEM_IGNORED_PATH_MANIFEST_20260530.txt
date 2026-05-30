@@ -1,0 +1,14 @@
+# Swift Scan System Ignored-Path Manifest
+
+Date: 2026-05-30
+RunId: 20260530_073554
+WorkKey: SWIFTSCAN-20260530-RESET-REVIEW-HOUSE-WALK-SYSTEM
+SourceBase: origin/main @ 7dff532c4e4d0bccea5df3bb8cd746fd091393da
+
+| Path | Role | SHA256 | GitAction |
+|---|---|---|---|
+| HOUSE_WORK/WORK_SHED/SORTING_BENCH/SWIFT_SCAN_SOURCE_FIT_AND_GAP_FILL_REPORT_20260530.md | source fit / gap fill | 0DEC8360A59B0E2A7A2C1B9850218FE14C42663C29F4F45532775B4AC1DE7B45 | exact-file force-add only if ignored |
+| HOUSE_WORK/WORK_SHED/INDEXES/SWIFT_SCAN_ROOM_ORDER_MAP_V1_20260530.md | room order map | 8A759291F1E679A7316A38DB07B0C10B41F66DEC4C5524A9DED8409AB9965B2F | exact-file force-add only if ignored |
+| HOUSE_WORK/WORK_SHED/SORTING_BENCH/SCALE_STEP_CHAIN_PROOF_REVIEW_NEXT_OBJECT_20260530.md | next object plan | 8A978DD7AF7226CA29C90686B397630686C19B6C2A32FBE504B55660F22C84B9 | exact-file force-add only if ignored |
+
+Boundary: no folder force-add; no wildcard force-add; no staged extras.
