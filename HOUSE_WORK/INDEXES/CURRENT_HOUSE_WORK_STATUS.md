@@ -285,3 +285,20 @@ Git support protocol/map/templates/fit-report/suit/status/receipt only; no doctr
 
 Next rope:
 Manual V0 session packet worksheet.
+
+## 2026-05-30 — Word Wash Base-Word Proof Rule saved
+
+RunId: 20260530_040630
+Status: SUPPORT RULE / WORD-WASH OUTPUT PROOF
+
+Core:
+A base-word output must be semantically fit and must always prove its path. Surprising output is blocked unless it proves the bridge from input to output.
+
+Test seed:
+Input awareness + question what does awareness mean -> clean base word knowing.
+
+Boundary:
+Git support rule/map/template/fit-report/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no watcher; no automation; no tool install; no user-local operational writes outside Git repo
+
+Next:
+Use this rule to revise the word-wash file trial before treating it as clean behavior.
