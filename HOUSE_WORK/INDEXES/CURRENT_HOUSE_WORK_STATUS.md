@@ -200,3 +200,24 @@ Build one bounded repair save for selected first-wave tickets only.
 Boundary:
 No target living-object repair in this packet, no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no broad refactor, no delete, no move, no automation.
 <!-- LIVING_OBJECT_REGISTRY_V2_FIRST_WAVE_REPAIR_PACKET_END -->
+
+<!-- LIVING_OBJECT_REGISTRY_V2_FIRST_WAVE_BOUNDED_REPAIR_START -->
+## 2026-05-30 — Living Object Registry V2 first-wave bounded repair
+WorkKey: LIVING-OBJECT-REGISTRY-V2-FIRST-WAVE-BOUNDED-REPAIR-20260530-V1
+Status: selected named-gap repair only; not doctrine.
+
+Tickets read: 50
+Repaired targets: 50
+Skipped targets: 0
+
+Route index: HOUSE_WORK/WORK_SHED/INDEXES/LIVING_OBJECT_REGISTRY_V2_FIRST_WAVE_REPAIR_ROUTE_INDEX_20260530.md
+Repair report: HOUSE_WORK/WORK_SHED/SORTING_BENCH/LIVING_OBJECT_REGISTRY_V2_FIRST_WAVE_BOUNDED_REPAIR_REPORT_20260530.md
+Skipped report: HOUSE_WORK/WORK_SHED/SORTING_BENCH/LIVING_OBJECT_REGISTRY_V2_FIRST_WAVE_BOUNDED_REPAIR_SKIPPED_TARGETS_20260530.md
+Receipt: PROOF_HISTORY/LIVING_OBJECT_REGISTRY_V2_FIRST_WAVE_BOUNDED_REPAIR_RECEIPT_20260530.txt
+
+Next:
+Rerun Living Object Registry V2 species-contract audit and compare selected first-wave gaps.
+
+Boundary:
+No doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, broad refactor, delete, move, automation, watcher, Whirlpool.
+<!-- LIVING_OBJECT_REGISTRY_V2_FIRST_WAVE_BOUNDED_REPAIR_END -->
