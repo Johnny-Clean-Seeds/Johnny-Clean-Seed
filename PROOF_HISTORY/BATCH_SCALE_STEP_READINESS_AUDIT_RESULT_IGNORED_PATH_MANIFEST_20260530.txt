@@ -1,0 +1,51 @@
+BATCH_SCALE_STEP_READINESS_AUDIT_RESULT_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_055729
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/BATCH_SCALE_STEP_READINESS_AUDIT_RESULT_EVIDENCE_20260530.md
+Role: planned save object member
+Lane: Batch Scale-Step Readiness Audit result evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 2287
+SHA256: C9E692CFEEE5406615191F0898B24A1866C6445232D68A0A9C4FDB5DE805D1DC
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/BATCH_SCALE_STEP_READINESS_AUDIT_RESULT_EVIDENCE_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/BATCH_SCALE_STEP_READINESS_AUDIT_RESULT_LEDGER_V1_20260530.md
+Role: planned save object member
+Lane: Batch Scale-Step Readiness Audit result evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 1018
+SHA256: 1BBFE88A32410B2CB3594EECB736B1699D76AC2B595265700DE82EACCAFE41C6
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/BATCH_SCALE_STEP_READINESS_AUDIT_RESULT_LEDGER_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/BATCH_SCALE_STEP_READINESS_AUDIT_RESULT_SUIT_CARD_V1_20260530.md
+Role: planned save object member
+Lane: Batch Scale-Step Readiness Audit result evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 870
+SHA256: B3726633655ECCE8954DCFDDB8A6BA8432B5E624A0A5F9EC13F3AB1EE0B91D61
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Batch Scale-Step Readiness Audit result evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 26553
+SHA256: 4F8EBC62BED1F6739251EBA7BA1A7CB06BE8EC8E38739FE5780F8A1DFBEE157C
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/BATCH_SCALE_STEP_READINESS_AUDIT_RESULT_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Batch Scale-Step Readiness Audit result evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 1768
+SHA256: F9E44CB1FC6477C128DBE523DDC6F93189FD19DE3D2D41CA8FA777AB3941AD9F
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
