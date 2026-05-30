@@ -1,60 +1,27 @@
-# Scale-Step Chain Proof Review — Next Object
+# Scale-Step Chain Proof Review Next Object — Completed
 
 Date: 2026-05-30
-RunId: 20260530_073554
-Status: NEXT OBJECT / PROOF REVIEW PLAN / NOT DOCTRINE
-WorkKey: SWIFTSCAN-20260530-RESET-REVIEW-HOUSE-WALK-SYSTEM
-SystemKey: SWIFT-SCAN-V1-1
-SourceBase: origin/main @ 7dff532c4e4d0bccea5df3bb8cd746fd091393da
+RunId: 20260530_074701
+WorkKey: SCALECHAIN-20260530-MAX5-MAX8-MAX10-PROOF-REVIEW
+Status: NEXT OBJECT PLACED BY SWIFT SCAN / COMPLETED BY PROOF REVIEW
 
-## Why this object exists
+## Original next object
 
-The Max5 -> Max8 -> Max10 chain gathered enough evidence for a narrow pattern.
+Swift Scan placed the next object:
 
-More canary bumps now risk becoming batch momentum instead of judgment.
+Scale-Step Chain Proof Review — Max5 -> Max8 -> Max10
 
-## Current proof chain
+## Completion
 
-Max5 passed.
-Max8 passed.
-Max10 passed.
+This object is now completed by:
 
-## Proven
+- BRAIN_LEARNING/SCALE_STEP_CHAIN_PROOF_REVIEW_MAX5_TO_MAX10_20260530.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/SCALE_STEP_CHAIN_PROOF_REVIEW_MAX5_TO_MAX10_20260530.md
+- HOUSE_WORK/WORK_SHED/INDEXES/SCALE_STEP_CHAIN_PROOF_REVIEW_LEDGER_V1_20260530.md
+- HOUSE_WORK/CHAT_COCKPIT/SCALE_STEP_CHAIN_PROOF_REVIEW_SUIT_CARD_V1_20260530.md
 
-Bounded canary scale-step audit reliability through Max10.
-Expected rejects can be carried without treating them as failures.
-Save route can run Code Gate -> direct save -> commit -> push -> final clean.
-PowerShell operator-binding failure became an applied guard.
+## Result
 
-## Not proven
+The Max5 -> Max8 -> Max10 chain proves a narrow bounded canary scale-step pattern.
 
-Full batch.
-Autonomous generation.
-Implementation.
-Watcher.
-Automation.
-Whirlpool.
-Doctrine.
-ACTIVE_GUIDES.
-CURRENT_TRUTH_INDEX.
-
-## Current pointer
-
-main @ 7dff532c4e4d0bccea5df3bb8cd746fd091393da.
-Max10 suit/ledger is current proof pointer.
-
-## Stale/proof-only
-
-Max8 suit/ledger.
-Older drop-copy piles.
-Repeated proof chatter.
-
-## Parked
-
-Max12 script / larger bounded audit.
-
-Max12 should run only if it tests a distinct new risk. It should not run merely because it is bigger.
-
-## Next clean action
-
-Write the compact Scale-Step Chain Proof Review before deciding whether to run Max12, design a smarter targeted audit, or stop the scale lane.
+Max12 remains parked until a new risk is named.

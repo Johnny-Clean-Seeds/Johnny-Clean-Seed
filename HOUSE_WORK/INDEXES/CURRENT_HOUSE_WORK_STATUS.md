@@ -724,3 +724,20 @@ Swift Scan is saved as a living Soft Suit system for evidence saturation, stale-
 
 Boundary:
 No doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no full batch, no implementation, no watcher, no automation, no Whirlpool.
+## 2026-05-30 — Scale-Step Chain Proof Review saved
+
+RunId: 20260530_074701
+WorkKey: SCALECHAIN-20260530-MAX5-MAX8-MAX10-PROOF-REVIEW
+RepairKey: POWERPLAY-CRIME-SCENE-20260530-SCALECHAIN-V1-MANIFEST-ORDER-REPAIR
+Base: 8b105d8a911f5fb6d5fa9e95910f06ad52733385
+
+Saved compact review for Max5 -> Max8 -> Max10 chain.
+
+Verdict:
+SCALE_CHAIN_PROOF_REVIEW_SAVED / MAX5_MAX8_MAX10_NARROW_PATTERN_PROVEN / MAX12_PARKED_UNTIL_NEW_RISK / FULL_BATCH_STILL_BLOCKED
+
+Current next move:
+Only run Max12 or larger bounded audit if a new risk is named first. Otherwise stop scale bumps and move to smarter targeted-risk design or close the scale lane.
+
+Blocked:
+full batch; autonomous generation; implementation; watcher; automation; Whirlpool; doctrine; ACTIVE_GUIDES; CURRENT_TRUTH_INDEX.
