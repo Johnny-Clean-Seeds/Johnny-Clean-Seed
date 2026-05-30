@@ -56,3 +56,18 @@ No broad ledger refactor. No delete. No move. No watcher. No automation. No Whir
 
 Next clean move:
 Run the Chat Drop/current-navigation-spine pilot through the new front-door ledger and tool-bearing tunnel registry before expanding.
+## 2026-05-30 — README front-door / chat-source compression V1.5
+
+WorkKey: README-FRONT-DOOR-CHAT-SOURCE-20260530-V1-5
+
+Status: README front-door pointer repair and URL/LEDGER/MAP/KEY chat source compression.
+
+Boundary: pointer/chat-source compression only; no broad refactor, delete, move, watcher, automation, Whirlpool, doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, universal mapper, graph database, or whole-house crawl.
+
+## 2026-05-30 — Lower-layer save-route harness root repair
+
+WorkKey: LOWER-LAYER-SAVE-ROUTE-HARNESS-ROOT-REPAIR-20260530-V1-2-1
+
+Status: Root repair after repeated save-route failures. Consumes bounded V1.5 partial footprint and installs Push-to-Shove / Scratch-and-Sniff and save-route harness rules.
+
+Boundary: root repair + known V1.5 footprint only; no broad refactor, delete, move, watcher, automation, Whirlpool, doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, universal mapper, graph database, or whole-house crawl.
