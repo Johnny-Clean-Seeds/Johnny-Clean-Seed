@@ -691,3 +691,61 @@ Do not promote doctrine.
 Do not rewrite ACTIVE_GUIDES.
 Do not rewrite CURRENT_TRUTH_INDEX.
 
+<!-- PATH_CLASS_50_WAVE_REPAIR:0302F2E04FB8B8D4 -->
+## Path-Class 50-Wave Repair Note
+
+Status: CONFIRMED_PATH_CLASS_REPAIR / NOT_DOCTRINE
+WorkKey: PATH-CLASS-50-WAVE-REPAIR-20260530-V1
+RunId: 20260530_195739
+
+Object path: BRAIN_LEARNING/SOURCE_TO_HOUSE_INTAKE_V2_COMPARISON_LAYER_ADDENDUM_20260528.md
+Source inputs: INTAKE
+Path class: key/hash/intake issue
+Repair type: INTAKE_GATE_KEY_HASH_GUARD
+Confirmed fields/classes: HashToReceiptPurpose, Keying
+
+Controlled key:
+- WorkKey: PATH-CLASS-50-WAVE-REPAIR-20260530-V1
+- Key tags: PATH_CLASS_REVIEW, CONFIRMED_50_PACKET, INTAKE_GATE_KEY_HASH_GUARD, ROOT_LAYER_DROP_DOWN
+
+Hash-to-receipt join:
+- Target SHA256 before repair: 46DC34DD5350A6C55AF655650D30905E90D7292DEB93993E4E27DA42229BCDDA
+- Receipt: PROOF_HISTORY/PATH_CLASS_50_WAVE_BOUNDED_REPAIR_RECEIPT_20260530.txt
+- Route index: HOUSE_WORK/WORK_SHED/INDEXES/PATH_CLASS_50_WAVE_REPAIR_ROUTE_INDEX_20260530.md
+- What this hash proves: the bounded pre-repair target state for this packet.
+- What this hash does not prove: doctrine promotion, full object cleanliness, or unrelated field closure.
+
+Route / ledger / map:
+- Ledger home: confirmed path-class packet saved with this repair.
+- Map relation: Intake Gate finding and Root-Layer watch row -> path-class review -> confirmed packet -> bounded target note -> re-audit compare.
+- Return path: confirmed packet and re-audit compare report.
+
+Root-layer drop-down:
+- Upper object: parked watch-row finding for this path.
+- Lower object: path class, helper/tool, route/path, key/hash/intake, proof-only, or stale-currentness cause.
+- Root cause tested: row was reviewed against current target content before repair.
+- Separation verdict: repair only the named reviewed fields/classes; do not judge unrelated object health.
+- Runtime proof needed: re-run Intake Gate and Root-Layer helpers after repair.
+
+No-op / skip-only latch:
+- NO-OP NO-COMMIT LATCH applies to the runner.
+- SKIP-ONLY IS NOT REPAIR.
+- Commit allowed only when RepairedTargets > 0.
+- Commit message must match actual action.
+
+Currentness and disposition:
+- Currentness: CURRENT_SUPPORT_REPAIR_NOTE
+- Disposition: KEEP_WITH_OBJECT_UNTIL_REAUDIT
+- Next condition: re-audit and compare closure for this path and these fields/classes.
+
+Boundary:
+- confirmed packet rows only
+- no doctrine
+- no ACTIVE_GUIDES
+- no CURRENT_TRUTH_INDEX
+- no broad refactor
+- no delete
+- no move
+- no automation
+- no watcher
+<!-- /PATH_CLASS_50_WAVE_REPAIR:0302F2E04FB8B8D4 -->

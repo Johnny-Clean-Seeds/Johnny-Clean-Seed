@@ -1,0 +1,11 @@
+PATH_CLASS_50_WAVE_BOUNDED_REPAIR_RECEIPT
+RunId: 20260530_195739
+WorkKey: PATH-CLASS-50-WAVE-REPAIR-20260530-V1
+OldHead: e6c99d69be0deed58d98a925953d533d5b6d9e5f
+TicketsRead: 50
+RepairedTickets: 50
+RepairedTargets: 39
+SkippedTargets: 0
+CommitGate: RepairedTargets > 0, so commit is allowed.
+CommitMessage: Repair path-class reviewed watch rows
+Boundary: confirmed packet rows only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no broad refactor; no delete; no move; no automation.

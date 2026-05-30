@@ -1,0 +1,457 @@
+# Confirmed 50-Ticket Repair Packet
+
+RunId: 20260530_195649
+Source review: C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\PATH_CLASS_REVIEW_CLOSEOUT_20260530_195649.md
+Input Intake findings: C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\INTAKE_GATE_KEY_HASH_JOIN_AUDIT_FINDINGS_20260530_194553.csv
+Input Root-Layer findings: C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\ROOT_LAYER_SKIPPED_ISSUE_HISTORY_AUDIT_FINDINGS_20260530_194553.csv
+Rule: repair only rows below. Skip-only is not repair. No-op is no commit.
+
+### Ticket 1
+- SourceKind: ROOT_LAYER
+- Path: HOUSE_WORK/CHAT_COCKPIT/REPAIR_WAVE_MATURITY_INTAKE_GATE_KEY_HASH_SUIT_CARD_V1_20260530.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: NOOP_COMMIT_TRUTH_REVIEW
+- RepairType: ROOT_LAYER_DROP_DOWN
+- Message: No-op/commit truth risk appears without obvious no-commit guard.
+- SHA256: 14D8DCAB79EBD2605823FCE46E13C8306D0D544AFEE9C71EA4EEEBF04D5278F8
+
+### Ticket 2
+- SourceKind: ROOT_LAYER
+- Path: BRAIN_LEARNING/LOWER_LAYER_SAVE_ROUTE_HARNESS_ROOT_REPAIR_RULE_20260530.md
+- PathClass: route/path issue
+- FieldOrClass: POSSIBLE_SKIPPED_LOWER_ROOT_REVIEW
+- RepairType: ROUTE_PATH_REPAIR
+- Message: Issue mentions lower/root/tool failure language without clear upper/lower separation.
+- SHA256: A7DA45CF7BFDBE909F2D93F752F728639B6D22FA3BFA3FFC51D51041AC7D675A
+
+### Ticket 3
+- SourceKind: ROOT_LAYER
+- Path: BRAIN_LEARNING/REPAIR_WAVE_MATURITY_AND_INTAKE_GATE_KEY_HASH_RULE_20260530.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: POSSIBLE_SKIPPED_LOWER_ROOT_REVIEW
+- RepairType: ROOT_LAYER_DROP_DOWN
+- Message: Issue mentions lower/root/tool failure language without clear upper/lower separation.
+- SHA256: 94D425054D967860DC3E739E49ED74D52759C87025EFE02D37F59CF2078605A3
+
+### Ticket 4
+- SourceKind: ROOT_LAYER
+- Path: HOUSE_WORK/CHAT_COCKPIT/LIVING_INTAKE_PROTOCOL_STACK_SOFT_SUIT_CARD_V1_20260530.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: POSSIBLE_SKIPPED_LOWER_ROOT_REVIEW
+- RepairType: ROOT_LAYER_DROP_DOWN
+- Message: Issue mentions lower/root/tool failure language without clear upper/lower separation.
+- SHA256: D7BDF150FE157F8AFFACFF7257EA31DF87DFE57C2F613180B557EBE57792F57B
+
+### Ticket 5
+- SourceKind: ROOT_LAYER
+- Path: HOUSE_WORK/TODO/LIVING_OBJECT_REGISTRY_V2_FIRST_WAVE_BOUNDED_REPAIR_TICKETS_20260530.md
+- PathClass: route/path issue
+- FieldOrClass: POSSIBLE_SKIPPED_LOWER_ROOT_REVIEW
+- RepairType: ROUTE_PATH_REPAIR
+- Message: Issue mentions lower/root/tool failure language without clear upper/lower separation.
+- SHA256: EB5F59629D0A66C8DFB1F940E4F7CDEEFA6FFCB5678EC79368FC0032A00F0DDF
+
+### Ticket 6
+- SourceKind: ROOT_LAYER
+- Path: HOUSE_WORK/WORK_SHED/INDEXES/LOWER_LEVEL_ERROR_POWERPLAY_BREADCRUMB_CHAIN_LEDGER_V1_20260530.md
+- PathClass: route/path issue
+- FieldOrClass: POSSIBLE_SKIPPED_LOWER_ROOT_REVIEW
+- RepairType: ROUTE_PATH_REPAIR
+- Message: Issue mentions lower/root/tool failure language without clear upper/lower separation.
+- SHA256: 8868BD17D121764FBFF6BE0627B0675A64093D675D7FE1F437562F8D1F299815
+
+### Ticket 7
+- SourceKind: ROOT_LAYER
+- Path: HOUSE_WORK/WORK_SHED/INDEXES/MAX10_BATCH_SCALE_STEP_AUDIT_LEDGER_V1_20260530.md
+- PathClass: route/path issue
+- FieldOrClass: POSSIBLE_SKIPPED_LOWER_ROOT_REVIEW
+- RepairType: ROUTE_PATH_REPAIR
+- Message: Issue mentions lower/root/tool failure language without clear upper/lower separation.
+- SHA256: 6765949D013286866AE853E0F2C66A87CA2BE23F428A3537A570FEA6F7C999C2
+
+### Ticket 8
+- SourceKind: ROOT_LAYER
+- Path: HOUSE_WORK/WORK_SHED/INDEXES/TRIPLE_CHECK_BEFORE_RESEND_HARDENING_CHECKLIST_V1_20260530.md
+- PathClass: route/path issue
+- FieldOrClass: POSSIBLE_SKIPPED_LOWER_ROOT_REVIEW
+- RepairType: ROUTE_PATH_REPAIR
+- Message: Issue mentions lower/root/tool failure language without clear upper/lower separation.
+- SHA256: 15A5992819B403328E50765E157E33561135C649EA85124BFB0442C3606792BC
+
+### Ticket 9
+- SourceKind: ROOT_LAYER
+- Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/LIVING_OBJECT_REGISTRY_V2_FIRST_WAVE_REPAIR_PACKET_20260530/FIRST_WAVE_REPAIR_PACKET_SUMMARY.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: POSSIBLE_SKIPPED_LOWER_ROOT_REVIEW
+- RepairType: ROOT_LAYER_DROP_DOWN
+- Message: Issue mentions lower/root/tool failure language without clear upper/lower separation.
+- SHA256: C4F2C1474432AB38818CCF23A2B607FF505FF19B9253127556E9289ABE85AF3A
+
+### Ticket 10
+- SourceKind: ROOT_LAYER
+- Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/LOWER_LAYER_SAVE_ROUTE_HARNESS_V1_1_NESTED_ARRAY_CRIME_SCENE_20260530.md
+- PathClass: route/path issue
+- FieldOrClass: POSSIBLE_SKIPPED_LOWER_ROOT_REVIEW
+- RepairType: ROUTE_PATH_REPAIR
+- Message: Issue mentions lower/root/tool failure language without clear upper/lower separation.
+- SHA256: A70BA64702ED101BBFE646602F7711B218C09B72ACFAA46A83FABD590DAF069E
+
+### Ticket 11
+- SourceKind: ROOT_LAYER
+- Path: COMMAND_CENTER/TODO/TODO_GATE_EVIDENCE_HOW_FOUND_NEXT_USE_20260524_043525.md
+- PathClass: route/path issue
+- FieldOrClass: MISSING_DISPOSITION_REVIEW
+- RepairType: ROUTE_PATH_REPAIR
+- Message: Issue-like artifact lacks obvious disposition or return trigger.
+- SHA256: F00344EF463192BDED43365F940788782610013EABB5255DBB87D31FAEE5EC9F
+
+### Ticket 12
+- SourceKind: ROOT_LAYER
+- Path: COMMAND_CENTER/TODO/TODO_NEW_ISSUES_TRUE_SEAM_NEXT_USE_20260524_001305.md
+- PathClass: route/path issue
+- FieldOrClass: MISSING_DISPOSITION_REVIEW
+- RepairType: ROUTE_PATH_REPAIR
+- Message: Issue-like artifact lacks obvious disposition or return trigger.
+- SHA256: 9CC3917DE83C66DE7100A38A1FD2BA0DDA46CB90CC9FFF070CDBBD74F9867FAE
+
+### Ticket 13
+- SourceKind: ROOT_LAYER
+- Path: COMMAND_CENTER/TODO/TODO_SCOPED_PATH_HOME_SIGN_REPAIR_20260524.md
+- PathClass: route/path issue
+- FieldOrClass: MISSING_DISPOSITION_REVIEW
+- RepairType: ROUTE_PATH_REPAIR
+- Message: Issue-like artifact lacks obvious disposition or return trigger.
+- SHA256: 83AACA0797DAD191031475CCFAB9F33E7A9A2E1B3DB7520D74DC9F114013B50F
+
+### Ticket 14
+- SourceKind: ROOT_LAYER
+- Path: HOUSE_WORK/TODO/FRONT_GATE_PACKET_PLANNER_V0_READ_ONLY_NEXT_USE_TODO_20260529.md
+- PathClass: route/path issue
+- FieldOrClass: MISSING_DISPOSITION_REVIEW
+- RepairType: ROUTE_PATH_REPAIR
+- Message: Issue-like artifact lacks obvious disposition or return trigger.
+- SHA256: 619295599E601E3D135E49724BA0AE2ACE9F4B2FFD37A20DF01461FB94B3A48D
+
+### Ticket 15
+- SourceKind: ROOT_LAYER
+- Path: HOUSE_WORK/TODO/RULE_QUALITY_WORDING_COVERAGE_REPAIR_TODO_20260522_050634.md
+- PathClass: route/path issue
+- FieldOrClass: MISSING_DISPOSITION_REVIEW
+- RepairType: ROUTE_PATH_REPAIR
+- Message: Issue-like artifact lacks obvious disposition or return trigger.
+- SHA256: EF220B7A8A90722DA48221C0F54704F7E5054FC74FD69CDB9CD5222ABF7888E0
+
+### Ticket 16
+- SourceKind: INTAKE
+- Path: BRAIN_LEARNING/ASSISTANT_DOOR_RELAY_LOCAL_MANUAL_INTAKE_RULE_20260521_132918.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: Hash
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious hash/fixity/manifest marker.
+- SHA256: F79E55835491E21E63D3D6217C704A98A7DA5147E6E283884697E76E5F290AC0
+
+### Ticket 17
+- SourceKind: INTAKE
+- Path: BRAIN_LEARNING/PINK_PONY_DINER_DENSE_RANT_INTAKE_RULE_20260519.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: Hash
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious hash/fixity/manifest marker.
+- SHA256: E5C118D055F2744988884EA79C8C77B14F5EC9D5EEC803C9D31C4E5D66D37B92
+
+### Ticket 18
+- SourceKind: INTAKE
+- Path: BRAIN_LEARNING/THINK_BEFORE_WORK_INTAKE_ALARM_GATE_20260518.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: Hash
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious hash/fixity/manifest marker.
+- SHA256: 948B94832346CA389C69C7F21F36F10D4C8D91961A6AD599892910E55D5AC773
+
+### Ticket 19
+- SourceKind: INTAKE
+- Path: COMMAND_CENTER/CURRENT_CONTEXT_CART/YOU_GOT_MAIL__ROOT_DROP_INTAKE_AND_NERVE_SIGNAL_WASH_20260524_092335.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: Hash
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious hash/fixity/manifest marker.
+- SHA256: FEFDFFD8988FBD525D1454B0274555D3294153899C84F0FFB0D33C19FA07A596
+
+### Ticket 20
+- SourceKind: INTAKE
+- Path: HOUSE_WORK/CHAT_COCKPIT/INTAKE_GATE_SYSTEM_SUIT_CARD_V1_20260530.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: Hash
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious hash/fixity/manifest marker.
+- SHA256: 4FC639F522EFE8B9D45868E9AD43832BFF1B57FD04A6D030F0E27D0C1D4608A2
+
+### Ticket 21
+- SourceKind: INTAKE
+- Path: HOUSE_WORK/CHAT_COCKPIT/LIVING_INTAKE_PROTOCOL_STACK_SOFT_SUIT_CARD_V1_20260530.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: Hash
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious hash/fixity/manifest marker.
+- SHA256: D7BDF150FE157F8AFFACFF7257EA31DF87DFE57C2F613180B557EBE57792F57B
+
+### Ticket 22
+- SourceKind: INTAKE
+- Path: HOUSE_WORK/CHAT_COCKPIT/ORGANIC_PATHING_SOFT_SUIT_CARD_V1_20260530.md
+- PathClass: route/path issue
+- FieldOrClass: Hash
+- RepairType: ROUTE_PATH_REPAIR
+- Message: Missing obvious hash/fixity/manifest marker.
+- SHA256: 3042AFADDBEFB017E5440997B4D74C644900CE7643F798F8A750ACC209B347B6
+
+### Ticket 23
+- SourceKind: INTAKE
+- Path: HOUSE_WORK/TODO/INTAKE_GATE_PATH_ECOLOGY_DEEP_DIVE_TODO_20260530.md
+- PathClass: route/path issue
+- FieldOrClass: Hash
+- RepairType: ROUTE_PATH_REPAIR
+- Message: Missing obvious hash/fixity/manifest marker.
+- SHA256: 2227D0BDB6EC26B1D5BA63F3277F47297660F8DAE35CAC91DA7C9C760E8354C9
+
+### Ticket 24
+- SourceKind: INTAKE
+- Path: HOUSE_WORK/TODO/LIVING_INTAKE_PROTOCOL_STACK_THREE_BITE_TEST_TODO_20260530.md
+- PathClass: route/path issue
+- FieldOrClass: Hash
+- RepairType: ROUTE_PATH_REPAIR
+- Message: Missing obvious hash/fixity/manifest marker.
+- SHA256: 934FF2F210618B27D9E0BE6EC4F1C6CEAF367D8E6617D5C0B62297B268CA47FD
+
+### Ticket 25
+- SourceKind: INTAKE
+- Path: HOUSE_WORK/TODO/SOURCE_TO_HOUSE_INTAKE_V2_MECHANISM_EXTRACTION_TODO_20260528.md
+- PathClass: route/path issue
+- FieldOrClass: Hash
+- RepairType: ROUTE_PATH_REPAIR
+- Message: Missing obvious hash/fixity/manifest marker.
+- SHA256: 071EBC138E10109AA4D618539A19FA53AF288910E9CB044698F377AE41EA0849
+
+### Ticket 26
+- SourceKind: INTAKE
+- Path: HOUSE_WORK/WORK_SHED/INDEXES/INTAKE_GATE_SYSTEM_GATE_STACK_MAP_V1_20260530.md
+- PathClass: route/path issue
+- FieldOrClass: Hash
+- RepairType: ROUTE_PATH_REPAIR
+- Message: Missing obvious hash/fixity/manifest marker.
+- SHA256: 337283924583025E6D1BE8969D242CDD8FDFD0809C03F540F2E1F051D806C570
+
+### Ticket 27
+- SourceKind: INTAKE
+- Path: HOUSE_WORK/WORK_SHED/INDEXES/LIVING_OBJECT_REGISTRY_V2_FIRST_WAVE_REPAIR_ROUTE_INDEX_20260530.md
+- PathClass: route/path issue
+- FieldOrClass: Hash
+- RepairType: ROUTE_PATH_REPAIR
+- Message: Missing obvious hash/fixity/manifest marker.
+- SHA256: A8F6DE2A415D02FF6D13C53474360B6873ED33536344071E897A995B46CE6FF9
+
+### Ticket 28
+- SourceKind: INTAKE
+- Path: HOUSE_WORK/WORK_SHED/INDEXES/ORGANIC_PATHING_KEY_LEDGER_MAP_JOIN_V1_20260530.md
+- PathClass: route/path issue
+- FieldOrClass: Hash
+- RepairType: ROUTE_PATH_REPAIR
+- Message: Missing obvious hash/fixity/manifest marker.
+- SHA256: E583B3655F4C7B49AA6D041ADEBC616C5AD964EE2EE84C6DFCE2C97088E91F2B
+
+### Ticket 29
+- SourceKind: INTAKE
+- Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/INTAKE_GATE_PATH_ECOLOGY_PRE_DIVE_CAPTURE_20260530.md
+- PathClass: route/path issue
+- FieldOrClass: Hash
+- RepairType: ROUTE_PATH_REPAIR
+- Message: Missing obvious hash/fixity/manifest marker.
+- SHA256: D72BB5E8A06AFC92FE458E33C479A2F9AC7CBC8EDE04C313F7105A0B85F7D1AD
+
+### Ticket 30
+- SourceKind: INTAKE
+- Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/LIVING_OBJECT_REGISTRY_V2_FIRST_WAVE_BOUNDED_REPAIR_REPORT_20260530.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: Hash
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious hash/fixity/manifest marker.
+- SHA256: 0FB561845F54A7CD1B20069125DFEF88F6D7277714483A474D929E1FF9199D99
+
+### Ticket 31
+- SourceKind: INTAKE
+- Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/ORGANIC_PATHING_SOFT_SUIT_DEEPENED_FIT_REPORT_20260530.md
+- PathClass: route/path issue
+- FieldOrClass: Hash
+- RepairType: ROUTE_PATH_REPAIR
+- Message: Missing obvious hash/fixity/manifest marker.
+- SHA256: 433914E9675ACEF105C82ED209B420EA355AC98F768401A9A10595DB90B5A62A
+
+### Ticket 32
+- SourceKind: INTAKE
+- Path: HOUSE_WORK/WORK_SHED/TEMPLATES/INTAKE_PROTOCOL_STACK_CARD_V1_20260530.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: Hash
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious hash/fixity/manifest marker.
+- SHA256: E94B0C9F736F4C38CD914FC8ABBB784F25DE0A8ACA39C1D71ED8E250643F0BC7
+
+### Ticket 33
+- SourceKind: INTAKE
+- Path: BRAIN_LEARNING/ASSISTANT_DOOR_RELAY_LOCAL_MANUAL_INTAKE_RULE_20260521_132918.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: Keying
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious controlled key/tag/WorkKey marker.
+- SHA256: F79E55835491E21E63D3D6217C704A98A7DA5147E6E283884697E76E5F290AC0
+
+### Ticket 34
+- SourceKind: INTAKE
+- Path: BRAIN_LEARNING/ASSISTANT_DOOR_RELAY_LOCAL_MANUAL_INTAKE_RULE_20260521_132918.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: Return
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious return/next condition.
+- SHA256: F79E55835491E21E63D3D6217C704A98A7DA5147E6E283884697E76E5F290AC0
+
+### Ticket 35
+- SourceKind: INTAKE
+- Path: BRAIN_LEARNING/CHUCK_NORRIS_PRESSURE_TEST_SOURCE_TO_HOUSE_INTAKE_V2_GUARDRAIL_20260528.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: Keying
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious controlled key/tag/WorkKey marker.
+- SHA256: 735717C7C8E3F3D9F23BF5775D5668E4057CA0904AAFAD80B269A1CA8DBD9082
+
+### Ticket 36
+- SourceKind: INTAKE
+- Path: BRAIN_LEARNING/INTAKE_GATE_SYSTEM_CONCEPT_CARD_V1_20260530.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: Keying
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious controlled key/tag/WorkKey marker.
+- SHA256: EBA6EB83E2D2FF7429F04B1B5C890B2F1CCAB2463A96571685E989346BF3C725
+
+### Ticket 37
+- SourceKind: INTAKE
+- Path: BRAIN_LEARNING/INTAKE_KEY_CODE_WORKING_RULES_CONDENSED_20260530.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: Keying
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious controlled key/tag/WorkKey marker.
+- SHA256: FC50E2F9C276F52A8C4AE642A76E4331C8F1C4CCCBF7824F323130E86E0DB0CC
+
+### Ticket 38
+- SourceKind: INTAKE
+- Path: BRAIN_LEARNING/KEY_HASH_WORK_IDENTITY_LEDGER_MAP_NAMING_RULE_20260530.md
+- PathClass: route/path issue
+- FieldOrClass: Return
+- RepairType: ROUTE_PATH_REPAIR
+- Message: Missing obvious return/next condition.
+- SHA256: DCFD783E4E3DA07B47CF4BEE73CE61ACA381F5CF2E2234E9A2854BBD5E858EB0
+
+### Ticket 39
+- SourceKind: INTAKE
+- Path: BRAIN_LEARNING/PINK_PONY_DINER_DENSE_RANT_INTAKE_RULE_20260519.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: Boundary
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious boundary/not-doctrine marker.
+- SHA256: E5C118D055F2744988884EA79C8C77B14F5EC9D5EEC803C9D31C4E5D66D37B92
+
+### Ticket 40
+- SourceKind: INTAKE
+- Path: BRAIN_LEARNING/PINK_PONY_DINER_DENSE_RANT_INTAKE_RULE_20260519.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: CurrentnessDisposition
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious currentness/disposition marker.
+- SHA256: E5C118D055F2744988884EA79C8C77B14F5EC9D5EEC803C9D31C4E5D66D37B92
+
+### Ticket 41
+- SourceKind: INTAKE
+- Path: BRAIN_LEARNING/PINK_PONY_DINER_DENSE_RANT_INTAKE_RULE_20260519.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: HashToReceiptPurpose
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Hash/proof relationship may lack receipt/purpose/exclusion language.
+- SHA256: E5C118D055F2744988884EA79C8C77B14F5EC9D5EEC803C9D31C4E5D66D37B92
+
+### Ticket 42
+- SourceKind: INTAKE
+- Path: BRAIN_LEARNING/PINK_PONY_DINER_DENSE_RANT_INTAKE_RULE_20260519.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: Keying
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious controlled key/tag/WorkKey marker.
+- SHA256: E5C118D055F2744988884EA79C8C77B14F5EC9D5EEC803C9D31C4E5D66D37B92
+
+### Ticket 43
+- SourceKind: INTAKE
+- Path: BRAIN_LEARNING/PINK_PONY_DINER_DENSE_RANT_INTAKE_RULE_20260519.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: Return
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious return/next condition.
+- SHA256: E5C118D055F2744988884EA79C8C77B14F5EC9D5EEC803C9D31C4E5D66D37B92
+
+### Ticket 44
+- SourceKind: INTAKE
+- Path: BRAIN_LEARNING/PINK_PONY_DINER_DENSE_RANT_INTAKE_RULE_20260519.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: RouteLedgerMap
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious route/ledger/map/relation marker.
+- SHA256: E5C118D055F2744988884EA79C8C77B14F5EC9D5EEC803C9D31C4E5D66D37B92
+
+### Ticket 45
+- SourceKind: INTAKE
+- Path: BRAIN_LEARNING/PORCH_DROP_EVENT_TRIGGER_AND_PACKAGE_INTAKE_RULE_20260522.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: Keying
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious controlled key/tag/WorkKey marker.
+- SHA256: C83708DC247DF7DB8A6F748F496901A104856D7D3AEF5B25C03A5357AF894B3C
+
+### Ticket 46
+- SourceKind: INTAKE
+- Path: BRAIN_LEARNING/PORCH_DROP_EVENT_TRIGGER_AND_PACKAGE_INTAKE_RULE_20260522.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: Return
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious return/next condition.
+- SHA256: C83708DC247DF7DB8A6F748F496901A104856D7D3AEF5B25C03A5357AF894B3C
+
+### Ticket 47
+- SourceKind: INTAKE
+- Path: BRAIN_LEARNING/ROOT_DROP_HASH_KEY_INTAKE_RULE_20260530.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: Keying
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious controlled key/tag/WorkKey marker.
+- SHA256: 618A44CE6E1611B6FA4CD9B8B75F5B81A7C1FB5D95F2A16649F6753FA8DF3A7E
+
+### Ticket 48
+- SourceKind: INTAKE
+- Path: BRAIN_LEARNING/ROOT_DROP_ZONE_IMMEDIATE_INTAKE_RULE_20260524.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: Keying
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious controlled key/tag/WorkKey marker.
+- SHA256: 162BEB0943894AFFC87007B5D85C3B0770D08A4FD9468D2C336F4D7BE8C98BDF
+
+### Ticket 49
+- SourceKind: INTAKE
+- Path: BRAIN_LEARNING/SOURCE_TO_HOUSE_INTAKE_V2_COMPARISON_LAYER_ADDENDUM_20260528.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: HashToReceiptPurpose
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Hash/proof relationship may lack receipt/purpose/exclusion language.
+- SHA256: 46DC34DD5350A6C55AF655650D30905E90D7292DEB93993E4E27DA42229BCDDA
+
+### Ticket 50
+- SourceKind: INTAKE
+- Path: BRAIN_LEARNING/SOURCE_TO_HOUSE_INTAKE_V2_COMPARISON_LAYER_ADDENDUM_20260528.md
+- PathClass: key/hash/intake issue
+- FieldOrClass: Keying
+- RepairType: INTAKE_GATE_KEY_HASH_GUARD
+- Message: Missing obvious controlled key/tag/WorkKey marker.
+- SHA256: 46DC34DD5350A6C55AF655650D30905E90D7292DEB93993E4E27DA42229BCDDA
