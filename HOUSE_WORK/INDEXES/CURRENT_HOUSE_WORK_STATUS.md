@@ -125,3 +125,23 @@ support rules/maps/templates/fit-report/receipt/status only; no doctrine; no ACT
 
 Next rope:
 Manual key-code intake test design. No automation, no watcher, no scripted helper yet.
+
+## 2026-05-30 — Intake + Key-Code condensed working rules saved
+
+RunId: 20260530_022020
+Status: SUPPORT CONSOLIDATION / WORKING SURFACE / NOT PROMOTED
+
+Saved object:
+Condensed working-rule layer for Intake Gate System and Key-Code Intake Order.
+
+Purpose:
+Reduce repetition and live-carry weight while keeping the saved ideas alive in files as real working rules/concepts/ideas.
+
+Boundary:
+support consolidation/rule/map/template/fit-report/receipt/status only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no broad crawler
+
+Working spine:
+Root holds; explicit intake pass hashes/keys; keys request ledger/map routes; dispatch governor limits fan-out; logical growth order makes proof unlock next; branches join back to the vine; helpers receive context/handoff/readiness; Final Judge closes only with proof and one next action.
+
+Next rope:
+Manual key-code intake test design.

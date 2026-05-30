@@ -1,0 +1,69 @@
+INTAKE_KEY_CODE_CONDENSED_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_022020
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: BRAIN_LEARNING/INTAKE_KEY_CODE_WORKING_RULES_CONDENSED_20260530.md
+Role: planned save object member
+Lane: Intake + Key-Code condensed working support
+Reason: condensation, live-carry reduction, working-rule orientation
+SizeBytes: 4714
+SHA256: FC50E2F9C276F52A8C4AE642A76E4331C8F1C4CCCBF7824F323130E86E0DB0CC
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/INTAKE_KEY_CODE_CONDENSATION_FIT_REPORT_20260530.md
+Role: planned save object member
+Lane: Intake + Key-Code condensed working support
+Reason: condensation, live-carry reduction, working-rule orientation
+SizeBytes: 1982
+SHA256: CA87754554EDF2DE14ABEDAECEE5856CA6BD45AFF81E2E6FB293EBC5C12C91F3
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/INTAKE_KEY_CODE_CONDENSATION_FIT_REPORT_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/INTAKE_KEY_CODE_WORKING_RULE_MAP_V1_20260530.md
+Role: planned save object member
+Lane: Intake + Key-Code condensed working support
+Reason: condensation, live-carry reduction, working-rule orientation
+SizeBytes: 1328
+SHA256: 429F21421A79BB7C552CC7D1A6985D2B49F8D3B8113FC7D5553EF585AF321E51
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/INTAKE_KEY_CODE_WORKING_RULE_MAP_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/TEMPLATES/KEYED_INTAKE_MANUAL_TEST_TEMPLATE_V1_20260530.md
+Role: planned save object member
+Lane: Intake + Key-Code condensed working support
+Reason: condensation, live-carry reduction, working-rule orientation
+SizeBytes: 1049
+SHA256: 268C9C9EC2ACCECF0E7CC968C842C36B1CCC190F8A016AD061B463CA8A71A33E
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/TEMPLATES/KEYED_INTAKE_MANUAL_TEST_TEMPLATE_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/INTAKE_KEY_CODE_CONDENSED_SUIT_CARD_V1_20260530.md
+Role: planned save object member
+Lane: Intake + Key-Code condensed working support
+Reason: condensation, live-carry reduction, working-rule orientation
+SizeBytes: 767
+SHA256: 9FBECD2C23A288BF5FE8C90B990A8C569533440FD0CFECC69DC9944288108E76
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Intake + Key-Code condensed working support
+Reason: condensation, live-carry reduction, working-rule orientation
+SizeBytes: 6731
+SHA256: 07C39664847998AE1F2E415B235888C22F03AE455E43AC86B31088D01E923D02
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/INTAKE_KEY_CODE_CONDENSED_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Intake + Key-Code condensed working support
+Reason: condensation, live-carry reduction, working-rule orientation
+SizeBytes: 1081
+SHA256: 6C73D9D2C50EA430B591119DD4B4606C0BB92AE3A98CB1A6A268E03499524B44
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
