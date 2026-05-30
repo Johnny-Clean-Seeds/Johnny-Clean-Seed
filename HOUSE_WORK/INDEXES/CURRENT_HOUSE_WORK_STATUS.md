@@ -640,3 +640,55 @@ Local-only Desktop exports:
 
 Boundary:
 Support behavior/cockpit/source-crosscheck/keymap/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no watcher; no Whirlpool; no implementation; no full batch unlock.
+## 2026-05-30 — Max8 Batch Scale-Step audit evidence saved
+
+RunId: 20260530_065142
+Status: MAX8_SCALE_STEP_AUDIT_EVIDENCE / SUPPORT ONLY
+WorkKey: MAX8-20260530-BATCH-SCALE-STEP-AUDIT
+
+Local report:
+C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\MAX8_BATCH_SCALE_STEP_AUDIT_V1_20260530_065142.md
+
+Local report SHA256:
+F8EB588E102185907CD59D31A5F4DD76D997D534239EC7845266F71067ED1AF5
+
+Evidence verdict:
+MAX8_SCALE_STEP_AUDIT_PASS
+
+Trial verdict:
+BATCH_PASS_MAX8_CANARY_SCALE_STEP_AUDIT
+
+Core:
+MaxRows=8 scale-step audit passed with ActualRows=8, PassRows=5, ExpectedRejectRows=3, UnexpectedRows=0, MissingSchemaFields=0. Rows include Max5 base rows plus key/hash humility, powerplay/crime-scene repair path, and scope-bloat expected reject.
+
+Still blocked:
+full batch, autonomous candidate generation, implementation, watcher, automation, Whirlpool, doctrine promotion, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite.
+
+Boundary:
+Git support evidence/ledger/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no full batch; no watcher; no automation; no tool install; no user-local operational writes outside local report/drop-copies; no Whirlpool.
+## 2026-05-30 — Max8 Batch Scale-Step audit evidence saved
+
+RunId: 20260530_065926
+Status: MAX8_SCALE_STEP_AUDIT_EVIDENCE / SUPPORT ONLY
+WorkKey: MAX8-20260530-BATCH-SCALE-STEP-AUDIT
+
+Local report:
+C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\MAX8_BATCH_SCALE_STEP_AUDIT_V1_1_20260530_065926.md
+
+Local report SHA256:
+6980FAB185015F75BF2395C19E9E5C178235FCE1A493B57DDE2FC7A101003AB8
+
+Evidence verdict:
+MAX8_SCALE_STEP_AUDIT_PASS
+
+Trial verdict:
+BATCH_PASS_MAX8_CANARY_SCALE_STEP_AUDIT
+
+Core:
+MaxRows=8 scale-step audit passed with ActualRows=8, PassRows=5, ExpectedRejectRows=3, UnexpectedRows=0, MissingSchemaFields=0. Rows include Max5 base rows plus key/hash humility, powerplay/crime-scene repair path, and scope-bloat expected reject.
+
+Still blocked:
+full batch, autonomous candidate generation, implementation, watcher, automation, Whirlpool, doctrine promotion, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite.
+
+Boundary:
+Git support evidence/ledger/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no full batch; no watcher; no automation; no tool install; no user-local operational writes outside local report/drop-copies; no Whirlpool.

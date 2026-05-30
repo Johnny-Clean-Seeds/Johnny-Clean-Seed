@@ -1,23 +1,25 @@
 # ACTIVE ANCHOR
 
 Date: 2026-05-30
-RunId: 20260530_063445
-WorkKey: USFCHR-20260530-USER-SAID-FIRST-CROSSCHECK-HOUSE-ROPE
-RepairKey: POWERPLAY-CRIME-SCENE-20260530-USFCHR-V1-REPAIR
-Current object: User-Said-First / Git-Crosscheck / Source-Load / House-Rope living rule save, repaired through V1.1 powerplay/crime-scene route.
-Base checked: origin/main @ 8ed7dbac1389d2bea885561798b3fff458d92bc9
+RunId: 20260530_065926
+WorkKey: MAX8-20260530-BATCH-SCALE-STEP-AUDIT
+
+Current object: Max8 Batch Scale-Step Audit evidence save.
+Base checked: origin/main @ b4a05a3a7eb9162b52ad6cdd98cfe71455d0e7d2
 
 Wear now:
 USER SAID FIRST -> GIT CROSSCHECK -> FRESH LOADED SOURCES -> HOUSE DOOR + ROPE -> BEST ROOM -> BEST NEXT MOVE.
-
-Companion wear:
+333 = 3-Time Evaluation + 3-Dive Widening + 3-Revision Final Clean.
 EXPOSURE -> POWERPLAY / CRIME SCENE -> PRESERVE -> REPAIR ROUTE -> PROVE -> RESUME.
 
-Next clean move after save:
-Gear-change closeout / suit refresh before deciding whether another bounded scale-step audit is justified.
+Current proof:
+MaxRows=8, ActualRows=8, PassRows=5, ExpectedRejectRows=3, UnexpectedRows=0, MissingSchemaFields=0.
+
+Next clean move:
+Paste proof back to chat. Run close/mid/far before deciding whether MaxRows=10 is justified.
 
 Still blocked:
-Full batch, autonomous generation, implementation, watcher, automation, Whirlpool.
+Full batch, autonomous generation, implementation, watcher, automation, Whirlpool, doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX.
 
 Boundary:
-Support behavior only. No doctrine. No ACTIVE_GUIDES. No CURRENT_TRUTH_INDEX.
+Support evidence only. No doctrine. No ACTIVE_GUIDES. No CURRENT_TRUTH_INDEX.
