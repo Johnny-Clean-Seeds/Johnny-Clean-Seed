@@ -221,3 +221,23 @@ Rerun Living Object Registry V2 species-contract audit and compare selected firs
 Boundary:
 No doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, broad refactor, delete, move, automation, watcher, Whirlpool.
 <!-- LIVING_OBJECT_REGISTRY_V2_FIRST_WAVE_BOUNDED_REPAIR_END -->
+
+<!-- REPAIR_WAVE_MATURITY_INTAKE_GATE_KEY_HASH_GUARD_START -->
+## 2026-05-30 — Repair Wave Maturity + Intake Gate Key/Hash Guard
+WorkKey: REPAIR-WAVE-MATURITY-INTAKE-GATE-KEY-HASH-GUARD-20260530-V1
+Status: Support guard saved; not doctrine.
+
+Added:
+- Repair Wave Maturity Suit.
+- Intake Gate key/hash guard.
+- Intake Gate key/hash audit card.
+- Intake Gate key/hash route index.
+- Intake Gate key/hash read/report audit helper.
+- TODO to run audit before named-gap repair.
+
+Next:
+Run the Intake Gate key/hash join audit.
+
+Boundary:
+No target living-object repair, no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no broad refactor, no delete, no move, no automation.
+<!-- REPAIR_WAVE_MATURITY_INTAKE_GATE_KEY_HASH_GUARD_END -->

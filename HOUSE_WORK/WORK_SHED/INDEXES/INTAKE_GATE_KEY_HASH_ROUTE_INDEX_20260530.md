@@ -1,0 +1,17 @@
+# Intake Gate Key / Hash Route Index
+
+Date: 2026-05-30
+Status: ROUTE INDEX / SUPPORT / NOT DOCTRINE
+WorkKey: REPAIR-WAVE-MATURITY-INTAKE-GATE-KEY-HASH-GUARD-20260530-V1
+
+Route:
+Source/Object -> Intake Gate -> Key/Tag -> Hash -> Receipt/Purpose -> Ledger/Map/Route -> Boundary -> Return -> Currentness/Disposition -> Audit report -> Named-gap repair only.
+
+Related:
+- Suit: HOUSE_WORK/CHAT_COCKPIT/REPAIR_WAVE_MATURITY_INTAKE_GATE_KEY_HASH_SUIT_CARD_V1_20260530.md
+- Template: HOUSE_WORK/WORK_SHED/TEMPLATES/INTAKE_GATE_KEY_HASH_AUDIT_CARD_V1_20260530.md
+- Helper: HOUSE_WORK/WORK_SHED/GEAR_RACK/CHECK_INTAKE_GATE_KEY_HASH_JOIN_V1_20260530.ps1
+- TODO: HOUSE_WORK/TODO/INTAKE_GATE_KEY_HASH_JOIN_AUDIT_TODO_20260530.md
+- Receipt: PROOF_HISTORY/REPAIR_WAVE_MATURITY_INTAKE_GATE_KEY_HASH_GUARD_RECEIPT_20260530.txt
+
+Boundary: read/report first; no broad repair.
