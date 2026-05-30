@@ -1,0 +1,69 @@
+PRE_BATCH_READINESS_ORACLE_ADVERSARIAL_AUDIT_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_053402
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: BRAIN_LEARNING/PRE_BATCH_READINESS_ORACLE_ADVERSARIAL_AUDIT_RULE_20260530.md
+Role: planned save object member
+Lane: Pre-Batch Readiness / Oracle / Adversarial Audit
+Reason: support rule/fit-report/base-map/template/suit/status/receipt
+SizeBytes: 3478
+SHA256: 10E2C6C6A68ABA67BA826530411FF46AFBA9805F6B21AAB8EC10AB915BAE4646
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/PRE_BATCH_READINESS_ORACLE_ADVERSARIAL_AUDIT_FIT_REPORT_20260530.md
+Role: planned save object member
+Lane: Pre-Batch Readiness / Oracle / Adversarial Audit
+Reason: support rule/fit-report/base-map/template/suit/status/receipt
+SizeBytes: 1711
+SHA256: C125B80BCB21E18D5F05B2B6A2EDA168467924730D50C90AE1D52649E264B51B
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/PRE_BATCH_READINESS_ORACLE_ADVERSARIAL_AUDIT_FIT_REPORT_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/PRE_BATCH_READINESS_ORACLE_ADVERSARIAL_AUDIT_BASE_MAP_V1_20260530.md
+Role: planned save object member
+Lane: Pre-Batch Readiness / Oracle / Adversarial Audit
+Reason: support rule/fit-report/base-map/template/suit/status/receipt
+SizeBytes: 2121
+SHA256: 28E589FC108DBD83F41DAE9E4797DD5FD0F14B0BF5C7DC70BE515A560498E819
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/PRE_BATCH_READINESS_ORACLE_ADVERSARIAL_AUDIT_BASE_MAP_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/TEMPLATES/PRE_BATCH_READINESS_ORACLE_ADVERSARIAL_AUDIT_TEMPLATE_V1_20260530.md
+Role: planned save object member
+Lane: Pre-Batch Readiness / Oracle / Adversarial Audit
+Reason: support rule/fit-report/base-map/template/suit/status/receipt
+SizeBytes: 1387
+SHA256: B49A97F03739EB16BA88C4AC262CE692CCFD234FD8BA1437A0676CADD50107CE
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/TEMPLATES/PRE_BATCH_READINESS_ORACLE_ADVERSARIAL_AUDIT_TEMPLATE_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/PRE_BATCH_READINESS_ORACLE_ADVERSARIAL_AUDIT_SUIT_CARD_V1_20260530.md
+Role: planned save object member
+Lane: Pre-Batch Readiness / Oracle / Adversarial Audit
+Reason: support rule/fit-report/base-map/template/suit/status/receipt
+SizeBytes: 983
+SHA256: E3F3B04B06E2F087E5EDFC3FF71FB5D486FBA50CD94E5B894B00688F5ED9A28A
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Pre-Batch Readiness / Oracle / Adversarial Audit
+Reason: support rule/fit-report/base-map/template/suit/status/receipt
+SizeBytes: 21965
+SHA256: 876E1360CF2FF3223D695D6A5340F7C2F2C3D89AA95C480B7BFBD835F75AFDBB
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/PRE_BATCH_READINESS_ORACLE_ADVERSARIAL_AUDIT_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Pre-Batch Readiness / Oracle / Adversarial Audit
+Reason: support rule/fit-report/base-map/template/suit/status/receipt
+SizeBytes: 1410
+SHA256: 9FA1821223F6D18E58DBDA00588E462C116861EF2EE5451CEA0CEF8F01C26035
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+

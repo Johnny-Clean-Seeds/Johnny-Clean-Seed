@@ -465,3 +465,18 @@ V1 boundary test exposed a valid tie and dirty verifier-after-block behavior. V1
 
 Boundary:
 Git support rule/evidence/ledger/template/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no watcher; no automation; no tool install; no user-local operational writes outside Git repo
+
+## 2026-05-30 — Pre-Batch Readiness / Oracle / Adversarial Audit rule saved
+
+RunId: 20260530_053402
+Status: SUPPORT RULE / BATCH PERMISSION GATE
+
+Core:
+The next move is not batch itself. It is a batch permission gate named PRE_BATCH_READINESS_ORACLE_ADVERSARIAL_AUDIT_V1. The audit checks oracle limits, metamorphic fit, adversarial rows, row isolation, no global fake PASS, dead-letter routing, backpressure, traceability, shell readability, and boundary before any tiny batch verifier is allowed.
+
+Hard verdict:
+BATCH_NOT_READY_AS_NEXT_ACTION
+PRE_BATCH_READINESS_ORACLE_ADVERSARIAL_AUDIT_READY_AS_NEXT_ACTION
+
+Boundary:
+Git support rule/fit-report/base-map/template/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no batch verifier; no watcher; no automation; no tool install; no user-local operational writes outside Git repo; no Whirlpool
