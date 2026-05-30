@@ -168,3 +168,20 @@ support evidence/result/fit/map/template/receipt/status only; no doctrine; no AC
 
 Next rope:
 Manual duplicate/collision and branch-failure test design before any scripted helper.
+
+## 2026-05-30 — Frame-to-Script Candidate System final review saved
+
+RunId: 20260530_025830
+Status: SUPPORT CONCEPT / READY FOR FRAME CONTRACT TEMPLATE / NOT PROMOTED
+
+Saved object:
+Frame-to-Script Candidate System final review, contract template, policy template, route map, fit report, and suit card.
+
+Core rule:
+Frames request candidates. Keys route frames. Ledger/map orders. Policy bounds. Helpers write artifacts. Code Gate tests. Proof and placement decide use. Nothing auto-runs.
+
+Boundary:
+support concept/review/map/template/fit-report/receipt/status only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no broad crawler; no generator; no cmd launcher
+
+Next rope:
+Manual frame-to-candidate contract test design. No generator, no cmd launcher, no tool placement.

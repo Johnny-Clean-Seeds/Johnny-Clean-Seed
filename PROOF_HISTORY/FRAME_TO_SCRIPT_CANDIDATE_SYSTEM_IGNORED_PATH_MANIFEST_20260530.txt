@@ -1,0 +1,78 @@
+FRAME_TO_SCRIPT_CANDIDATE_SYSTEM_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_025830
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: BRAIN_LEARNING/FRAME_TO_SCRIPT_CANDIDATE_SYSTEM_FINAL_REVIEW_20260530.md
+Role: planned save object member
+Lane: Frame-to-Script Candidate support architecture
+Reason: final review, contract/policy template, route map, suit card, proof
+SizeBytes: 9944
+SHA256: 5D9E15950A090086F3A620B0DF62E7DDA87124F421A404CF221C0112A454922F
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/FRAME_TO_SCRIPT_CANDIDATE_SYSTEM_FIT_REPORT_20260530.md
+Role: planned save object member
+Lane: Frame-to-Script Candidate support architecture
+Reason: final review, contract/policy template, route map, suit card, proof
+SizeBytes: 1436
+SHA256: 984B918D35BDCDACCDBBD461D8EE89C0A9C9E9C00D1195DE95F9D06483AE04F6
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/FRAME_TO_SCRIPT_CANDIDATE_SYSTEM_FIT_REPORT_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/TEMPLATES/FRAME_TO_SCRIPT_CANDIDATE_CONTRACT_TEMPLATE_V1_20260530.md
+Role: planned save object member
+Lane: Frame-to-Script Candidate support architecture
+Reason: final review, contract/policy template, route map, suit card, proof
+SizeBytes: 2652
+SHA256: 385A22637D5E37F80F6E17FFD41D827E356B836DF934A25155D5C1D8C23E536F
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/TEMPLATES/FRAME_TO_SCRIPT_CANDIDATE_CONTRACT_TEMPLATE_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/TEMPLATES/FRAME_TO_SCRIPT_CANDIDATE_POLICY_TEMPLATE_V1_20260530.md
+Role: planned save object member
+Lane: Frame-to-Script Candidate support architecture
+Reason: final review, contract/policy template, route map, suit card, proof
+SizeBytes: 1157
+SHA256: D1A8D19A702CB878099B6A376A0CB30CFF63C12319DC164A8D35619B5FDAA271
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/TEMPLATES/FRAME_TO_SCRIPT_CANDIDATE_POLICY_TEMPLATE_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/FRAME_TO_SCRIPT_CANDIDATE_ROUTE_MAP_V1_20260530.md
+Role: planned save object member
+Lane: Frame-to-Script Candidate support architecture
+Reason: final review, contract/policy template, route map, suit card, proof
+SizeBytes: 811
+SHA256: 39B7615735EDA43F3B04C44388399D78DB7573AA583227C472D27E74406DE707
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/FRAME_TO_SCRIPT_CANDIDATE_ROUTE_MAP_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/FRAME_TO_SCRIPT_CANDIDATE_SUIT_CARD_V1_20260530.md
+Role: planned save object member
+Lane: Frame-to-Script Candidate support architecture
+Reason: final review, contract/policy template, route map, suit card, proof
+SizeBytes: 798
+SHA256: 61172B9450F86F1FBE5F11A4F203CC1F03B71D06276035B8B515BBB31D220B6C
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Frame-to-Script Candidate support architecture
+Reason: final review, contract/policy template, route map, suit card, proof
+SizeBytes: 8420
+SHA256: AE9D7BF956EB2F10F430622722A1ABE7F293CBA86FFD0BBEB3D9D3BED763B91B
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/FRAME_TO_SCRIPT_CANDIDATE_SYSTEM_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Frame-to-Script Candidate support architecture
+Reason: final review, contract/policy template, route map, suit card, proof
+SizeBytes: 1253
+SHA256: 3864D5897BD4BC7FF2F7790FD5FE15BA5611313BE8BFCE18C121411C89FB7F5E
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
