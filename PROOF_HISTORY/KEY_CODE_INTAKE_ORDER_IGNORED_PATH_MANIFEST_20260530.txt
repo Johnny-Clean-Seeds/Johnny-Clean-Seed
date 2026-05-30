@@ -1,0 +1,87 @@
+KEY_CODE_INTAKE_ORDER_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_021110
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: BRAIN_LEARNING/ROOT_DROP_HASH_KEY_INTAKE_RULE_20260530.md
+Role: planned save object member
+Lane: Intake Gate key-code ordering support
+Reason: root hash/key intake, key dispatch governor, logical growth order, branch join-back
+SizeBytes: 1167
+SHA256: 618A44CE6E1611B6FA4CD9B8B75F5B81A7C1FB5D95F2A16649F6753FA8DF3A7E
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: BRAIN_LEARNING/KEY_CODE_DISPATCH_GOVERNOR_LOGICAL_GROWTH_ORDER_20260530.md
+Role: planned save object member
+Lane: Intake Gate key-code ordering support
+Reason: root hash/key intake, key dispatch governor, logical growth order, branch join-back
+SizeBytes: 1993
+SHA256: CF9E1CCB5ACC9E208B74EA2532F824A0E9FCF14D4436B0722DFAADB01E6FAD94
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: BRAIN_LEARNING/BRANCH_JOIN_BACK_VINE_GROWTH_RULE_20260530.md
+Role: planned save object member
+Lane: Intake Gate key-code ordering support
+Reason: root hash/key intake, key dispatch governor, logical growth order, branch join-back
+SizeBytes: 1745
+SHA256: 68C1E857094A655402CD8ABA39492A3A692BF2D85B9750AAC5CCAD32DB057D8E
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/KEY_CODE_INTAKE_ORDER_FIT_REPORT_20260530.md
+Role: planned save object member
+Lane: Intake Gate key-code ordering support
+Reason: root hash/key intake, key dispatch governor, logical growth order, branch join-back
+SizeBytes: 2117
+SHA256: C7D3807EC28E3734D3F84FFA4AB4DAF6B03C66A2DFA55DE4913C1C2DA216F3B4
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/KEY_CODE_INTAKE_ORDER_FIT_REPORT_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/KEY_CODE_INTAKE_ROUTE_MAP_V1_20260530.md
+Role: planned save object member
+Lane: Intake Gate key-code ordering support
+Reason: root hash/key intake, key dispatch governor, logical growth order, branch join-back
+SizeBytes: 1255
+SHA256: 58EA9B3D8CE69497A07232DCB690648F9091DD37CBF54AA7B308534E76967C2A
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/KEY_CODE_INTAKE_ROUTE_MAP_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/TEMPLATES/KEY_CODE_ROUTE_LEDGER_TEMPLATE_V1_20260530.md
+Role: planned save object member
+Lane: Intake Gate key-code ordering support
+Reason: root hash/key intake, key dispatch governor, logical growth order, branch join-back
+SizeBytes: 1191
+SHA256: E62BC9DA75ACB199B775494F273824078BDD88C0F5A76EF329DF3FEA24E8A24A
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/TEMPLATES/KEY_CODE_ROUTE_LEDGER_TEMPLATE_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/KEY_CODE_INTAKE_ORDER_SUIT_CARD_V1_20260530.md
+Role: planned save object member
+Lane: Intake Gate key-code ordering support
+Reason: root hash/key intake, key dispatch governor, logical growth order, branch join-back
+SizeBytes: 924
+SHA256: 74E073544420DA370FD3E6FA38CE3BD4D073DD4C5C5A0352F30447752CF0F892
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Intake Gate key-code ordering support
+Reason: root hash/key intake, key dispatch governor, logical growth order, branch join-back
+SizeBytes: 5826
+SHA256: D683366273ED4282B68114FB96A1EC7FE2CD34FDEB4A222230D786EC902A607B
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/KEY_CODE_INTAKE_ORDER_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Intake Gate key-code ordering support
+Reason: root hash/key intake, key dispatch governor, logical growth order, branch join-back
+SizeBytes: 1151
+SHA256: A2E954BC625CBD036B1C949E7234DB727A309F1285D29ADBDA7DE578AC1D3D98
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+

@@ -102,3 +102,26 @@ support concept/rule/map/template/fit-report/receipt/status only; no doctrine; n
 
 Next rope:
 Manual intake test design on one selected mixed object. No scripted intake helper yet.
+
+## 2026-05-30 — Key-code intake order and branch join-back rules saved
+
+RunId: 20260530_021110
+Status: SUPPORT RULES / READY FOR MANUAL TEST DESIGN / NOT PROMOTED
+
+Saved object:
+Root drop hash/key intake, key-code dispatch governor, logical growth order, and branch join-back/vine growth rules.
+
+Core corrections:
+No detectors, pulsers, heartbeats, watchers, or polling.
+Root holds; explicit intake pass hashes/keys.
+Keys request routes; keys do not directly spawn helpers.
+Ledger/map orders routes and controls boundary, proof, and next surface.
+Dispatch governor limits fan-out.
+Logical growth order makes each proven step a prerequisite for the next.
+Branches may run in parallel only when bounded and must declare join-back.
+
+Boundary:
+support rules/maps/templates/fit-report/receipt/status only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no broad crawler
+
+Next rope:
+Manual key-code intake test design. No automation, no watcher, no scripted helper yet.
