@@ -1,0 +1,51 @@
+WORD_WASH_SECOND_TRIAL_EVIDENCE_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_041903
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/WORD_WASH_BASE_WORD_PROOF_SECOND_TRIAL_EVIDENCE_20260530.md
+Role: planned save object member
+Lane: Word Wash second trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 871
+SHA256: 9C259160FC59A89E44B99659D776683D72A50B92FD381C1DC347D9A357C5F14B
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/WORD_WASH_BASE_WORD_PROOF_SECOND_TRIAL_EVIDENCE_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/WORD_WASH_BASE_WORD_PROOF_TRIAL_SERIES_LEDGER_V1_20260530.md
+Role: planned save object member
+Lane: Word Wash second trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 1315
+SHA256: 6241E2818EF1DBF8B324F943C2D5B6FB03F6750FFAE36B811BE76A9AF36B699C
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/WORD_WASH_BASE_WORD_PROOF_TRIAL_SERIES_LEDGER_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/WORD_WASH_BASE_WORD_PROOF_TRIAL_SERIES_SUIT_CARD_V1_20260530.md
+Role: planned save object member
+Lane: Word Wash second trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 466
+SHA256: 3A9DD9AE68849A77D90EE2F8D26538015EA280BF85F08B89A01221F9C8A6D174
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Word Wash second trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 14991
+SHA256: FB6CAA86BDF20FA4D08CB2497D94C0FCD53D7D5AD428632F68D9CFCFB142F772
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/WORD_WASH_SECOND_TRIAL_EVIDENCE_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Word Wash second trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 1334
+SHA256: 553D0BC15F3D29AC19C2C87F194ECE6C3CA71E6A5EF82AE5F25B998F50DB5FAE
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+

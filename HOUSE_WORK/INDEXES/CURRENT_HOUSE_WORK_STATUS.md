@@ -322,3 +322,23 @@ Targets run by Code Gate with empty live task inputs need a clean PROBE_ONLY pat
 
 Boundary:
 Git support rule/evidence/map/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no watcher; no automation; no tool install; no user-local operational writes outside Git repo
+
+## 2026-05-30 — Word Wash second proof trial evidence saved
+
+RunId: 20260530_041903
+Status: SECOND_TRIAL_EVIDENCE / TRIAL_SERIES_LEDGER
+
+Trial report:
+C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\WORD_WASH_BASE_WORD_PROOF_TRIAL_20260530_041723.md
+
+Trial report SHA256:
+2E1C91AAB9CDB72F1077EA5CBB6056CA02CB726913AA45137547F97B6D224CF2
+
+Evidence verdict:
+SECOND_TRIAL_EVIDENCE_PASS
+
+Core:
+structure + question what does structure do + candidate order + proof bridge structure -> arranged parts -> stable relation -> order returned PASS_PROVEN.
+
+Boundary:
+Git support evidence/ledger/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no watcher; no automation; no tool install; no user-local operational writes outside Git repo
