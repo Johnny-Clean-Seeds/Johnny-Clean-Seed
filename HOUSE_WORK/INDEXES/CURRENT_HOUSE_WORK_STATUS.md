@@ -124,3 +124,34 @@ Boundary held:
 Next clean move:
 - Deep dive Intake Gate as the path metabolism mouth: classify incoming material, attach keys, join ledgers/maps, require helper path evidence, preserve proof/source boundaries, and assign return triggers.
 <!-- ORGANIC_PATHING_SOFT_SUIT_DEEPENED_JOIN_V1_END -->
+
+<!-- LIVING_INTAKE_PROTOCOL_STACK_V4_TRUE_PATHING_START -->
+## 2026-05-30 — Living Intake Protocol Stack V4 true pathing source saved
+WorkKey: LIVING-INTAKE-PROTOCOL-STACK-V4-TRUE-PATHING-20260530-V1
+Status: Candidate/support save; not doctrine.
+
+Source evidence:
+- Local source: C:\Users\13527\Desktop\123\true pathing.txt
+- Source SHA256: 9CA4BE8500D6FC49DC5D7AB360624C39B452D6FAAB9A5096728FE22E7A245627
+- Source copy: HOUSE_WORK/WORK_SHED/SOURCE_ORE/TRUE_PATHING_REPLY_SOURCE_COPY_20260530.txt
+
+Saved:
+- candidate brain file;
+- source evidence copy;
+- fit report;
+- protocol stack card template;
+- helper control shell template;
+- chat cockpit soft suit card;
+- Three-Bite Test TODO;
+- manifest;
+- receipt.
+
+Core finding:
+THE INTAKE GATE IS THE HOUSE PROTOCOL STACK THAT PREVENTS RAW CONTACT FROM MASQUERADING AS LIVING TRUTH.
+
+Next:
+Run Three-Bite Test with Intake Protocol Stack Card.
+
+Boundary:
+No doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, broad refactor, delete, move, automation, watcher, universal mapper, graph database, or whole-house crawl.
+<!-- LIVING_INTAKE_PROTOCOL_STACK_V4_TRUE_PATHING_END -->
