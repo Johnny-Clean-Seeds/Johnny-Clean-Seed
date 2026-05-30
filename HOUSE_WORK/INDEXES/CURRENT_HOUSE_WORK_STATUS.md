@@ -155,3 +155,31 @@ Run Three-Bite Test with Intake Protocol Stack Card.
 Boundary:
 No doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, broad refactor, delete, move, automation, watcher, universal mapper, graph database, or whole-house crawl.
 <!-- LIVING_INTAKE_PROTOCOL_STACK_V4_TRUE_PATHING_END -->
+
+<!-- WHOLE_HOUSE_LIVING_OBJECT_REGISTRY_PROTOCOL_V2_START -->
+## 2026-05-30 — Whole House Living Object Registry Protocol V2 candidate
+WorkKey: WHOLE-HOUSE-LIVING-OBJECT-REGISTRY-PROTOCOL-V2-20260530-V1
+Status: Candidate/support save; not doctrine.
+
+Saved:
+- Whole House Living Object Registry Protocol V2 candidate.
+- Fit report.
+- Living Object Contract Card.
+- Species Contract Wall Template.
+- Hash-to-Receipt Joiner Card.
+- Route Court Card.
+- Policy Gate Object Movement Card.
+- Soft Suit Card.
+- Audit and bounded repair TODO.
+- Copy/paste card.
+- Manifest and receipt.
+
+Core law:
+A living object is clean only when identity, species, authority, custody, hash, receipt, key, room, route, lineage, policy, trace, currentness, disposition, return, and next condition agree.
+
+Next:
+Run read/report audit, then repair only named gaps.
+
+Boundary:
+No doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, broad refactor, delete, move, automation, watcher, Whirlpool.
+<!-- WHOLE_HOUSE_LIVING_OBJECT_REGISTRY_PROTOCOL_V2_END -->
