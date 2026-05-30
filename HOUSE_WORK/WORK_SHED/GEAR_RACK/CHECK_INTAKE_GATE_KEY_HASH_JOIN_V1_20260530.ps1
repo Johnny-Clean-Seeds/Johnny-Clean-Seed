@@ -10,8 +10,8 @@ Set-StrictMode -Version Latest
 
 function Add-Line {
     param(
-        [Parameter(Mandatory=$true)][AllowEmptyCollection()][System.Collections.Generic.List[string]]$Lines,
-        [Parameter(Mandatory=$true)][AllowEmptyString()][string]$Text
+        [Parameter(Mandatory=$true, Position=0)][object]$Lines,
+        [Parameter(Mandatory=$true, Position=1)][AllowEmptyString()][string]$Text
     )
     $Lines.Add($Text) | Out-Null
 }
@@ -173,46 +173,46 @@ if ($Blocker -gt 0 -or $BlockFindings -gt 0) { $Final = "BLOCKER_ADJACENT_REVIEW
 elseif ($Watch -gt 0 -or $WatchFindings -gt 0) { $Final = "PASS_WITH_WATCH" }
 
 $Md = New-Object System.Collections.Generic.List[string]
-Add-Line $Md "# Intake Gate Key / Hash Join Audit Report"
-Add-Line $Md ""
-Add-Line $Md "RunId: $RunId"
-Add-Line $Md "Mode: READ_REPORT_ONLY"
-Add-Line $Md "Head: $Head"
-Add-Line $Md ""
-Add-Line $Md "## Verdict"
-Add-Line $Md ""
-Add-Line $Md "````text"
-Add-Line $Md $Final
-Add-Line $Md "````"
-Add-Line $Md ""
-Add-Line $Md "## Counts"
-Add-Line $Md ""
-Add-Line $Md "- Records: $($Records.Count)"
-Add-Line $Md "- PASS: $Pass"
-Add-Line $Md "- WATCH: $Watch"
-Add-Line $Md "- BLOCKER_ADJACENT_REVIEW: $Blocker"
-Add-Line $Md "- WATCH findings: $WatchFindings"
-Add-Line $Md "- BLOCK findings: $BlockFindings"
-Add-Line $Md ""
-Add-Line $Md "## Top findings"
-Add-Line $Md ""
+Add-Line -Lines $Md -Text "# Intake Gate Key / Hash Join Audit Report"
+Add-Line -Lines $Md -Text ""
+Add-Line -Lines $Md -Text "RunId: $RunId"
+Add-Line -Lines $Md -Text "Mode: READ_REPORT_ONLY"
+Add-Line -Lines $Md -Text "Head: $Head"
+Add-Line -Lines $Md -Text ""
+Add-Line -Lines $Md -Text "## Verdict"
+Add-Line -Lines $Md -Text ""
+Add-Line -Lines $Md -Text "````text"
+Add-Line -Lines $Md -Text $Final
+Add-Line -Lines $Md -Text "````"
+Add-Line -Lines $Md -Text ""
+Add-Line -Lines $Md -Text "## Counts"
+Add-Line -Lines $Md -Text ""
+Add-Line -Lines $Md -Text "- Records: $($Records.Count)"
+Add-Line -Lines $Md -Text "- PASS: $Pass"
+Add-Line -Lines $Md -Text "- WATCH: $Watch"
+Add-Line -Lines $Md -Text "- BLOCKER_ADJACENT_REVIEW: $Blocker"
+Add-Line -Lines $Md -Text "- WATCH findings: $WatchFindings"
+Add-Line -Lines $Md -Text "- BLOCK findings: $BlockFindings"
+Add-Line -Lines $Md -Text ""
+Add-Line -Lines $Md -Text "## Top findings"
+Add-Line -Lines $Md -Text ""
 $Top = @($Findings | Select-Object -First $MaxTopFindings)
 if ($Top.Count -eq 0) {
-    Add-Line $Md "No findings."
+    Add-Line -Lines $Md -Text "No findings."
 } else {
     foreach ($F in $Top) {
-        Add-Line $Md "- [$($F.Severity)] $($F.Path) :: $($F.Field) :: $($F.Message)"
+        Add-Line -Lines $Md -Text "- [$($F.Severity)] $($F.Path) :: $($F.Field) :: $($F.Message)"
     }
 }
-Add-Line $Md ""
-Add-Line $Md "## Outputs"
-Add-Line $Md ""
-Add-Line $Md "- Records CSV: $RecordsCsv"
-Add-Line $Md "- Findings CSV: $FindingsCsv"
-Add-Line $Md ""
-Add-Line $Md "## Boundary"
-Add-Line $Md ""
-Add-Line $Md "Read/report only. No Git writes. No commit. No push. No delete. No move. No doctrine."
+Add-Line -Lines $Md -Text ""
+Add-Line -Lines $Md -Text "## Outputs"
+Add-Line -Lines $Md -Text ""
+Add-Line -Lines $Md -Text "- Records CSV: $RecordsCsv"
+Add-Line -Lines $Md -Text "- Findings CSV: $FindingsCsv"
+Add-Line -Lines $Md -Text ""
+Add-Line -Lines $Md -Text "## Boundary"
+Add-Line -Lines $Md -Text ""
+Add-Line -Lines $Md -Text "Read/report only. No Git writes. No commit. No push. No delete. No move. No doctrine."
 [System.IO.File]::WriteAllText($ReportMd, ($Md -join "`r`n"), [System.Text.UTF8Encoding]::new($false))
 
 Write-Host "XxXxX ===== COPY BACK TO CHAT START ===== XxXxX"

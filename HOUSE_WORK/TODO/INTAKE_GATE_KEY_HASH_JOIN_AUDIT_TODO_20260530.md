@@ -9,7 +9,7 @@ Run Intake Gate key/hash read/report audit.
 
 Command:
 ``powershell
-pwsh -ExecutionPolicy Bypass -File "$env:USERPROFILE\DesktopS\Jxhnny_Kl33N_Seedz\HOUSE_WORK\WORK_SHED\GEAR_RACK\CHECK_INTAKE_GATE_KEY_HASH_JOIN_V1_20260530.ps1"
+pwsh -ExecutionPolicy Bypass -File "$env:USERPROFILE\Desktop\123\Jxhnny_Kl33N_Seedz\HOUSE_WORK\WORK_SHED\GEAR_RACK\CHECK_INTAKE_GATE_KEY_HASH_JOIN_V1_1_20260530.ps1"
 ``
 
 Repair rule:
