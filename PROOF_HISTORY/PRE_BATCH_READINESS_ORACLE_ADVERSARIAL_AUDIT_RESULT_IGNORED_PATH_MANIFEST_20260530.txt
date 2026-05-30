@@ -1,0 +1,51 @@
+PRE_BATCH_READINESS_ORACLE_ADVERSARIAL_AUDIT_RESULT_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_054014
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/PRE_BATCH_READINESS_ORACLE_ADVERSARIAL_AUDIT_RESULT_EVIDENCE_20260530.md
+Role: planned save object member
+Lane: Pre-Batch Audit result evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 2154
+SHA256: CDCDCE5EFADB63252588A914C4ED0566A7666C524B4CE7E235E9507E379C6B47
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/PRE_BATCH_READINESS_ORACLE_ADVERSARIAL_AUDIT_RESULT_EVIDENCE_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/PRE_BATCH_READINESS_ORACLE_ADVERSARIAL_AUDIT_RESULT_LEDGER_V1_20260530.md
+Role: planned save object member
+Lane: Pre-Batch Audit result evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 763
+SHA256: 8F1A7E2BEAC7F4AA84F5178A4963FBB23D516E1E0014E53563085D9975958F36
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/PRE_BATCH_READINESS_ORACLE_ADVERSARIAL_AUDIT_RESULT_LEDGER_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/PRE_BATCH_READINESS_ORACLE_ADVERSARIAL_AUDIT_RESULT_SUIT_CARD_V1_20260530.md
+Role: planned save object member
+Lane: Pre-Batch Audit result evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 824
+SHA256: C0E35A7639313BB8DBB391DE4E1123C8E67AD48441ACFB1056FA3A001E356442
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Pre-Batch Audit result evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 23057
+SHA256: 3FD00C377FAB6AC4A87C4126B1A2F580002A66EB91D52B61152171A4B9AD20DB
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/PRE_BATCH_READINESS_ORACLE_ADVERSARIAL_AUDIT_RESULT_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Pre-Batch Audit result evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 1570
+SHA256: C46DE8728F066CA53DF8D05901FE7CC1EA2EFAC0BA5CDA39E4C9876C127E008E
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
