@@ -760,3 +760,11 @@ RuleKey: LOWER-LEVEL-ERROR-POWERPLAY-FREEZE-RULE-V1
 Status: SAVED RULE CANDIDATE / ACTIVE SOFT SUIT BEHAVIOR / NOT DOCTRINE
 Summary: When a lower/base-layer error appears during higher-level work, freeze the upper task, preserve evidence, classify the lower layer as a Powerplay candidate, repair the lowest true failing layer, prove it, and only then resume the upper object.
 Boundary: no broad audit, no automation, no watcher, no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX.
+
+## 2026-05-30 — Lower-Level Error Powerplay Breadcrumb Chain Summary
+
+Status: SAVED BY LOCK SCRIPT
+WorkKey: LOWERLEVEL-BREADCRUMB-CHAIN-20260530
+Meaning: high-row review is source triage, not proof; breadcrumb trail points to helper/script-generation base layer.
+Next object: HELPER_SCRIPT_GENERATION_BASE_LAYER_GUARD.
+Blocked: broad audit; automation; watcher; implementation; Whirlpool; doctrine; ACTIVE_GUIDES; CURRENT_TRUTH_INDEX.
