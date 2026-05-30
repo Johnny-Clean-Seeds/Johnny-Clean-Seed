@@ -1,0 +1,79 @@
+KEY_LEDGER_MAP_DRIVER_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_010525
+WorkKey: KEY_2E6F99ED9EFE
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: BRAIN_LEARNING/KEY_LEDGER_MAP_DRIVER_RULE_20260530.md
+Role: planned save object member
+Lane: keyed support architecture save
+Reason: lock/save Key/Ledger/Map Driver concept and actor-owned learning events
+SizeBytes: 4259
+SHA256: C5AE586CDFCB9E9BD286387D0F477A7077C1F0042059A57AD9DE3B0941DE4CD5
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/KEY_LEDGER_MAP_DRIVER_FIT_REPORT_20260530.md
+Role: planned save object member
+Lane: keyed support architecture save
+Reason: lock/save Key/Ledger/Map Driver concept and actor-owned learning events
+SizeBytes: 1835
+SHA256: F2BC8395E220434F926231620FBB9E4C5DDA1408B256DCC44B8C32B42CD74A43
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/KEY_LEDGER_MAP_DRIVER_FIT_REPORT_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/KEY_LEDGER_MAP_DRIVER_MAP_V1_20260530.md
+Role: planned save object member
+Lane: keyed support architecture save
+Reason: lock/save Key/Ledger/Map Driver concept and actor-owned learning events
+SizeBytes: 1772
+SHA256: 434EBFD58171E26532537AB11F3D03BB10DA6CBEF5D1FEF6DC755F8FB7E8FFE6
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/KEY_LEDGER_MAP_DRIVER_MAP_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/TEMPLATES/KEY_LEDGER_MAP_DRIVER_OBJECT_CARD_TEMPLATE_V1_20260530.md
+Role: planned save object member
+Lane: keyed support architecture save
+Reason: lock/save Key/Ledger/Map Driver concept and actor-owned learning events
+SizeBytes: 1138
+SHA256: F2844392B0586DBCF4B7D821693006E7B8C9264792AD200334329E0F6510F5D3
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/TEMPLATES/KEY_LEDGER_MAP_DRIVER_OBJECT_CARD_TEMPLATE_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/KEY_LEDGER_MAP_DRIVER_CWD_ROUTE_LEARNING_EVENT_20260530.md
+Role: planned save object member
+Lane: keyed support architecture save
+Reason: lock/save Key/Ledger/Map Driver concept and actor-owned learning events
+SizeBytes: 1096
+SHA256: 4A23AD2074E480DFE12EB5A5B3F9C3579C31C7A7DC4ED409F0DE9A7993D04514
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/KEY_LEDGER_MAP_DRIVER_CWD_ROUTE_LEARNING_EVENT_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/KEY_LEDGER_MAP_DRIVER_IGNORED_PATH_LEARNING_EVENT_20260530.md
+Role: planned save object member
+Lane: keyed support architecture save
+Reason: lock/save Key/Ledger/Map Driver concept and actor-owned learning events
+SizeBytes: 1344
+SHA256: 0D54D210FFB3056360EB12BF679CF5FB0D2CF6D2A20698024E965E95CAD8CA47
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/KEY_LEDGER_MAP_DRIVER_IGNORED_PATH_LEARNING_EVENT_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: keyed support architecture save
+Reason: lock/save Key/Ledger/Map Driver concept and actor-owned learning events
+SizeBytes: 3937
+SHA256: 90DF0FCF161818FD2022D3DC3948689032B331FB8554D3DEEE2E40106930FF10
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/KEY_LEDGER_MAP_DRIVER_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: keyed support architecture save
+Reason: lock/save Key/Ledger/Map Driver concept and actor-owned learning events
+SizeBytes: 1480
+SHA256: FBE5CC67ACC56706FEF84DB606F628DDA81AF180AFDF9EA56E470F248CC59C39
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+

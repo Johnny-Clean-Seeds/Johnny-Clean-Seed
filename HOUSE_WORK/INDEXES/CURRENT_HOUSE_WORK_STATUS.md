@@ -25,3 +25,60 @@ Support rules/templates/maps/ledgers/checkpoint only. No doctrine, no ACTIVE_GUI
 ## Next rope
 
 First live use should create a helper growth report parent folder and reverse summary packet, with shared learning log plus actor-local self-reflection if an actor causes an error.
+
+## 2026-05-30 — Key/Ledger/Map Driver concept saved
+
+RunId: 20260530_010247
+WorkKey: KEY_2E6F99ED9EFE
+Status: SUPPORT ARCHITECTURE / READY FOR NARROW LIVE USE / NOT PROMOTED
+
+Saved concept:
+Keys identify, maps route, ledgers drive state, events prove motion, summaries reverse-walk, and final packets close only after proof.
+
+Learning event:
+V1 CWD route ownership failure recorded as a file-level actor-owned helper/script learning event. Repair rule: Git-route proof must use git -C <RepoRoot> or equivalent real directory change and verify the repo route before writes.
+
+Boundary:
+support rule/map/template/report/learning-event/receipt/status only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no broad crawler
+
+Saved files:
+- BRAIN_LEARNING/KEY_LEDGER_MAP_DRIVER_RULE_20260530.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/KEY_LEDGER_MAP_DRIVER_FIT_REPORT_20260530.md
+- HOUSE_WORK/WORK_SHED/INDEXES/KEY_LEDGER_MAP_DRIVER_MAP_V1_20260530.md
+- HOUSE_WORK/WORK_SHED/TEMPLATES/KEY_LEDGER_MAP_DRIVER_OBJECT_CARD_TEMPLATE_V1_20260530.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/KEY_LEDGER_MAP_DRIVER_CWD_ROUTE_LEARNING_EVENT_20260530.md
+- PROOF_HISTORY/KEY_LEDGER_MAP_DRIVER_LOCK_RECEIPT_20260530.txt
+
+Next rope:
+Use this driver concept in the Helper Growth Chain Flight Recorder first live-use packet.
+
+## 2026-05-30 — Key/Ledger/Map Driver concept saved
+
+RunId: 20260530_010525
+WorkKey: KEY_2E6F99ED9EFE
+Status: SUPPORT ARCHITECTURE / READY FOR NARROW LIVE USE / NOT PROMOTED
+
+Saved concept:
+Keys identify, maps route, ledgers drive state, events prove motion, summaries reverse-walk, and final packets close only after proof.
+
+Learning events:
+- V1 CWD route ownership failure recorded as a file-level actor-owned helper/script learning event.
+- V1.1 ignored-path staging failure recorded as a file-level actor-owned helper/script learning event.
+
+Boundary:
+support rule/map/template/report/learning-events/manifest/receipt/status only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no broad crawler
+
+Saved files:
+- BRAIN_LEARNING/KEY_LEDGER_MAP_DRIVER_RULE_20260530.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/KEY_LEDGER_MAP_DRIVER_FIT_REPORT_20260530.md
+- HOUSE_WORK/WORK_SHED/INDEXES/KEY_LEDGER_MAP_DRIVER_MAP_V1_20260530.md
+- HOUSE_WORK/WORK_SHED/TEMPLATES/KEY_LEDGER_MAP_DRIVER_OBJECT_CARD_TEMPLATE_V1_20260530.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/KEY_LEDGER_MAP_DRIVER_CWD_ROUTE_LEARNING_EVENT_20260530.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/KEY_LEDGER_MAP_DRIVER_IGNORED_PATH_LEARNING_EVENT_20260530.md
+- PROOF_HISTORY/KEY_LEDGER_MAP_DRIVER_IGNORED_PATH_MANIFEST_20260530.txt
+- HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+- PROOF_HISTORY/KEY_LEDGER_MAP_DRIVER_LOCK_RECEIPT_20260530.txt
+
+
+Next rope:
+Use this driver concept in the Helper Growth Chain Flight Recorder first live-use packet.
