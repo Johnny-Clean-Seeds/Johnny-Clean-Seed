@@ -7765,3 +7765,24 @@ Boundary: no doctrine; no sentience proof; no ATT adoption; no ACTIVE_GUIDES rew
 
 Meaning: the 16-page ATT PDF is now the compact criteria/module reference for the Dreamforge source lane. Aetheris remains framework history/drift/transcript behavior; Aura remains memory-custody/score-escalation; SUNO remains symbolic-output/name-hinge.
 - 2026-05-29: Saved Freshen' up reset/orientation ritual support rule and helper save-content failure learning. Boundary: support rules and failure power-play only; no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no automation, no broad cleanup authority. Repair learned: planned artifact content must be validated before write mode; parser/probe pass is not write-content proof.
+## 2026-05-29 — Helper Living Memory Ledger seeded
+
+Status: saved by LOCK_SAVE_HELPER_LIVING_MEMORY_LEDGER_V1.ps1 run $RunId.
+
+Meaning: helper fixes should teach helper-specific living ledgers/maps, not only chat. Each helper family should preserve what was, what broke, false blame, root cause, fix, current state, proof receipts, rejected behavior, and return triggers.
+
+Files:
+
+- $RuleRel
+- $TemplateRel
+- $MapRel
+- $FixRel
+- $SaveHelperLedgerRel
+- $TodoRel
+- $ReceiptRel
+
+Boundary: support rule / living idea / helper memory ledger seed only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no broad helper rewrite.
+
+- 2026-05-29: Added Freshen' up internal orientation/task-continuation support rule and assistant-rules-to-file parking/opening rule. Boundary: support/routing/ledger seed only; no doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, automation, or broad helper rewrite. RunId: 20260529_225910.
+
+- 2026-05-29: Added Freshen' up internal orientation/task-continuation support rule, assistant-rules-to-file parking/opening rule, and save-script Git wrapper argument-list failure lesson. V1.1 repaired the V1 bare-git wrapper failure by using explicit $GitArgs, blocking empty git calls, and exact-staging ignored planned files only. Boundary: support/routing/ledger seed/helper issue learning only; no doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, automation, or broad helper rewrite. RunId: 20260529_230327.
