@@ -1,0 +1,78 @@
+CHAT_SOFTSUIT_LIVING_IDEA_LEDGER_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_033911
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/CHAT_SOFTSUIT_LIVING_IDEA_LEDGER_20260530.md
+Role: planned save object member
+Lane: Chat/Soft-Suit living idea ledger unload
+Reason: unload suit/chat material into ledger entries and minimal carry
+SizeBytes: 6159
+SHA256: 604974334B3708EE136C9D4DDDE723D6B625181D3D2B2C2BDA43D1C2D74B9E17
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/CHAT_SOFTSUIT_LIVING_IDEA_LEDGER_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/CHAT_SOFTSUIT_UNLOAD_TO_LEDGER_CLOSEOUT_20260530.md
+Role: planned save object member
+Lane: Chat/Soft-Suit living idea ledger unload
+Reason: unload suit/chat material into ledger entries and minimal carry
+SizeBytes: 1078
+SHA256: 28ED991F4A57F0476C27E047EBAAE7B5627BB6358EC5BC5D8DFCD06EF5778787
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/CHAT_SOFTSUIT_UNLOAD_TO_LEDGER_CLOSEOUT_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/TEMPLATES/LIVING_IDEA_LEDGER_ENTRY_TEMPLATE_V1_20260530.md
+Role: planned save object member
+Lane: Chat/Soft-Suit living idea ledger unload
+Reason: unload suit/chat material into ledger entries and minimal carry
+SizeBytes: 451
+SHA256: 1907FBB9F75794494F12DBB05162682D68797A23BE4023BEEBEA649C5D13368D
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/TEMPLATES/LIVING_IDEA_LEDGER_ENTRY_TEMPLATE_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/TODO/POST_LEDGER_UNLOAD_NEXT_ROPES_20260530.md
+Role: planned save object member
+Lane: Chat/Soft-Suit living idea ledger unload
+Reason: unload suit/chat material into ledger entries and minimal carry
+SizeBytes: 752
+SHA256: 87E74B1BA39DCACEEEBFD1982DC8AC5AC9553342FE90D1A4E137C8510402F475
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/CHAT_SOFTSUIT_LEDGER_MINIMAL_CARRY_CARD_20260530.md
+Role: planned save object member
+Lane: Chat/Soft-Suit living idea ledger unload
+Reason: unload suit/chat material into ledger entries and minimal carry
+SizeBytes: 673
+SHA256: 2EA5A5FA513EB2A51786557D92546CAF9087B393A949F56267BAD7FD70FA8CB5
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/CHAT_SOFTSUIT_LIVING_IDEA_LEDGER_FIT_REPORT_20260530.md
+Role: planned save object member
+Lane: Chat/Soft-Suit living idea ledger unload
+Reason: unload suit/chat material into ledger entries and minimal carry
+SizeBytes: 771
+SHA256: DC363FAD60AC9804A1AD02173A5C0ACA2B84279AEFFCDB1AA3BAA09B7D31116C
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/CHAT_SOFTSUIT_LIVING_IDEA_LEDGER_FIT_REPORT_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Chat/Soft-Suit living idea ledger unload
+Reason: unload suit/chat material into ledger entries and minimal carry
+SizeBytes: 11287
+SHA256: 763A19D056C4CE6D82D5D3CD8BC32A4536AFDD6E60842B84585EE693717F3B83
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/CHAT_SOFTSUIT_LIVING_IDEA_LEDGER_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Chat/Soft-Suit living idea ledger unload
+Reason: unload suit/chat material into ledger entries and minimal carry
+SizeBytes: 1146
+SHA256: FBCC25D16CE9DF016F32108BECE9EC85744422BADED03C4286EE876C02ADF1A9
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+

@@ -239,3 +239,21 @@ support rule/map/template/fit-report/receipt/status only; no doctrine; no ACTIVE
 
 Next rope:
 Resume DUAL_SHELL_TANDEM_GATE_BRIDGE_SESSION_PROTOCOL_V1.
+
+## 2026-05-30 — Chat / Soft-Suit living idea ledger unload
+
+RunId: 20260530_033911
+Status: CHAT_SOFTSUIT_UNLOADED_TO_LEDGER / MINIMAL POINTER CARRY
+
+Saved:
+living idea ledger, unload closeout, ledger entry template, post-unload next ropes, minimal carry card, fit report, receipt.
+
+Minimal carry after unload:
+Repo 7038552abb91eefa9e2ac93969b6057e6f353c76.
+Next rope DUAL_SHELL_TANDEM_GATE_BRIDGE_SESSION_PROTOCOL_V1.
+Parked duplicate/collision + branch-failure manual test design.
+Recent rule Pending Bay / Complete Set Bundle Gate.
+Method Focal Core + Side Piles.
+
+Boundary:
+ledger/unload/status/suit card/TODO/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no helper run; no script implementation
