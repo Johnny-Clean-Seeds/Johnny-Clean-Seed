@@ -1,0 +1,78 @@
+INTAKE_GATE_SYSTEM_CONCEPT_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_020151
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: BRAIN_LEARNING/INTAKE_GATE_SYSTEM_CONCEPT_CARD_V1_20260530.md
+Role: planned save object member
+Lane: Intake Gate support architecture
+Reason: save concept, helper-readiness support rule, fit report, gate map, template, suit card, status, receipt
+SizeBytes: 6338
+SHA256: EBA6EB83E2D2FF7429F04B1B5C890B2F1CCAB2463A96571685E989346BF3C725
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: BRAIN_LEARNING/HELPER_CONTEXT_HANDOFF_BALANCE_RULE_20260530.md
+Role: planned save object member
+Lane: Intake Gate support architecture
+Reason: save concept, helper-readiness support rule, fit report, gate map, template, suit card, status, receipt
+SizeBytes: 2158
+SHA256: 2D686ECA6873D08645555BC92051F5DCB7F6F21BCC907EC2EC34FAE29DC9D8C3
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/INTAKE_GATE_SYSTEM_HELPER_READINESS_FIT_REPORT_20260530.md
+Role: planned save object member
+Lane: Intake Gate support architecture
+Reason: save concept, helper-readiness support rule, fit report, gate map, template, suit card, status, receipt
+SizeBytes: 2747
+SHA256: 4F4FCE4737AFA3337B3FB9141F5508855F2C843BB0D4E44FF96983E719857649
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/INTAKE_GATE_SYSTEM_HELPER_READINESS_FIT_REPORT_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/INTAKE_GATE_SYSTEM_GATE_STACK_MAP_V1_20260530.md
+Role: planned save object member
+Lane: Intake Gate support architecture
+Reason: save concept, helper-readiness support rule, fit report, gate map, template, suit card, status, receipt
+SizeBytes: 1474
+SHA256: 337283924583025E6D1BE8969D242CDD8FDFD0809C03F540F2E1F051D806C570
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/INTAKE_GATE_SYSTEM_GATE_STACK_MAP_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/TEMPLATES/INTAKE_GATE_RUN_TEMPLATE_V1_20260530.md
+Role: planned save object member
+Lane: Intake Gate support architecture
+Reason: save concept, helper-readiness support rule, fit report, gate map, template, suit card, status, receipt
+SizeBytes: 1285
+SHA256: 0B217C1A678CB1A8A8F3F35038FD5A5EA3F981EC2E8677565C58E954F3B4325A
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/TEMPLATES/INTAKE_GATE_RUN_TEMPLATE_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/INTAKE_GATE_SYSTEM_SUIT_CARD_V1_20260530.md
+Role: planned save object member
+Lane: Intake Gate support architecture
+Reason: save concept, helper-readiness support rule, fit report, gate map, template, suit card, status, receipt
+SizeBytes: 790
+SHA256: 4FC639F522EFE8B9D45868E9AD43832BFF1B57FD04A6D030F0E27D0C1D4608A2
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Intake Gate support architecture
+Reason: save concept, helper-readiness support rule, fit report, gate map, template, suit card, status, receipt
+SizeBytes: 4835
+SHA256: 7E663B8F2D97A6FE75D5AA435B9229952B9630CBA0A562572743A191E39E7609
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/INTAKE_GATE_SYSTEM_CONCEPT_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Intake Gate support architecture
+Reason: save concept, helper-readiness support rule, fit report, gate map, template, suit card, status, receipt
+SizeBytes: 1155
+SHA256: 6A9A56B5EF1B6ABFBF4AA688F1B4619BE1A8CB82FAC1D1DE37FB3B17EACAB584
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+

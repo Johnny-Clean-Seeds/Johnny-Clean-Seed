@@ -82,3 +82,23 @@ Saved files:
 
 Next rope:
 Use this driver concept in the Helper Growth Chain Flight Recorder first live-use packet.
+
+## 2026-05-30 — Intake Gate System concept with helper-readiness layer saved
+
+RunId: 20260530_020151
+Status: SUPPORT CONCEPT / READY FOR MANUAL TEST DESIGN / NOT PROMOTED
+
+Saved object:
+Intake Gate System with clean helper-readiness layer.
+
+Clean support terms:
+context carry, orientation surface, handoff, readiness, feedback click, balance/wobble, escalation, runbook/playbook.
+
+Correction held:
+Do not front-load dirty learning/training/seeding language. The seed/file/helper does not need to worry about learning; its job is to grow and do the current job. Repeated clean context and proof allow the click to appear naturally.
+
+Boundary:
+support concept/rule/map/template/fit-report/receipt/status only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no broad crawler
+
+Next rope:
+Manual intake test design on one selected mixed object. No scripted intake helper yet.
