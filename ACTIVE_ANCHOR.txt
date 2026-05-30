@@ -1,27 +1,8 @@
-# ACTIVE ANCHOR
-
+ACTIVE_ANCHOR
 Date: 2026-05-30
-RunId: 20260530_082814
-WorkKey: GRANDMASTER-20260530-NODE-ROOT-LEDGER-MAP
-
-Current object: Grandmaster Node Root Ledger Map V1.
-
-Base checked: origin/main @ 7f844f35c6e5d58ed5fb3380c8d2fa94220e1b2f
-
-Wear now:
-- SWIFT SCAN: stop the pile, carry one pointer, review proof, check freshness, block false promotion, forecast failure, synthesize in Creative Room, recover leftovers, record one decision, then move only if the next move has a real job.
-- SCALE CHAIN REVIEW: Max5 -> Max8 -> Max10 proves bounded canary scale-step reliability only; Max12 is parked until a new risk is named.
-- GRANDMASTER NODE ROOT LEDGER: nodes are things, feelers are searching relationships, roots are traveled paths, water is useful proof/context, and every path returns to Grandmaster.
-- FEELER CONNECTION SELF-CHECK: found does not mean clean; test source, proof, lane, neighbor, alternate route, boundary, freshness, and return path.
-- EXPOSURE -> POWERPLAY / CRIME SCENE -> PRESERVE -> REPAIR ROUTE -> PROVE -> RESUME.
-- Copy boxes only when user must copy material.
-- Desktop/drop-copy alerts are loud plain text.
-
-Current proof:
-Max5 -> Max8 -> Max10 passed as bounded canary scale-step audits.
-
-Next clean move:
-Test the Grandmaster map on Legacy Chat Drop Ore classification before any larger graph/ledger build.
-
-Still blocked:
-Full batch, autonomous generation, implementation, watcher, automation, Whirlpool, doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX.
+CurrentHeadExpectedBeforeSave: 78900c2c827a367e38f164db65240c265dd07618
+ActiveObject: LOWER_LEVEL_ERROR_POWERPLAY_FREEZE_RULE_V1
+WorkKey: LOWERLEVEL-ERROR-POWERPLAY-FREEZE-20260530
+RuleKey: LOWER-LEVEL-ERROR-POWERPLAY-FREEZE-RULE-V1
+Status: SAVE ROUTE GENERATED / RUN CODE GATE FIRST / NOT DOCTRINE
+Boundary: lower-level error freeze rule only; no broad audit; no automation; no watcher; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX.

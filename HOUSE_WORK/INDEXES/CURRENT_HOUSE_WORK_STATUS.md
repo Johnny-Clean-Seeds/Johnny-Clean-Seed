@@ -753,3 +753,10 @@ Status: SAVED AS LIVING MAP / SOFT SUIT SUPPORT / NOT DOCTRINE
 Saved Grandmaster Node Root Ledger Map V1 to define node, feeler, and root path grammar; connection self-check; water test; ledger-noise guard; source/proof/provenance links; duplicate-node guard; path decay; loop control; and first test against Legacy Chat Drop Ore.
 
 Boundary: no graph database, no automation, no watcher, no implementation, no full batch, no Whirlpool, no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX.
+## 2026-05-30 — Lower-Level Error Powerplay Freeze Rule
+
+WorkKey: LOWERLEVEL-ERROR-POWERPLAY-FREEZE-20260530
+RuleKey: LOWER-LEVEL-ERROR-POWERPLAY-FREEZE-RULE-V1
+Status: SAVED RULE CANDIDATE / ACTIVE SOFT SUIT BEHAVIOR / NOT DOCTRINE
+Summary: When a lower/base-layer error appears during higher-level work, freeze the upper task, preserve evidence, classify the lower layer as a Powerplay candidate, repair the lowest true failing layer, prove it, and only then resume the upper object.
+Boundary: no broad audit, no automation, no watcher, no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX.
