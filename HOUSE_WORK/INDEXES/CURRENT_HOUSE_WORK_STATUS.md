@@ -768,3 +768,25 @@ WorkKey: LOWERLEVEL-BREADCRUMB-CHAIN-20260530
 Meaning: high-row review is source triage, not proof; breadcrumb trail points to helper/script-generation base layer.
 Next object: HELPER_SCRIPT_GENERATION_BASE_LAYER_GUARD.
 Blocked: broad audit; automation; watcher; implementation; Whirlpool; doctrine; ACTIVE_GUIDES; CURRENT_TRUTH_INDEX.
+
+## 2026-05-30 — Helper Script Generation Base Layer Guard
+
+WorkKey: HELPER-GENERATOR-BASE-LAYER-GUARD-20260530
+RuleKey: HELPER-SCRIPT-GENERATION-BASE-LAYER-GUARD-V1-1
+RunId: 20260530_092145
+Status: SAVED / SUPPORT GUARD / NOT DOCTRINE
+
+Meaning: repeated lower-level helper failures are now routed to a shared helper-generation base-layer guard. Future helper scripts should use safe report-writing primitives, reserved-variable avoidance, variable-first operator handling, manifest/receipt order, and Code Gate/job-proof separation.
+
+Boundary: no broad audit, no full batch, no autonomous generation, no implementation, no watcher, no automation, no Whirlpool, no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX.
+
+## 2026-05-30 — Helper Script Generation Base Layer Guard
+
+WorkKey: HELPER-GENERATOR-BASE-LAYER-GUARD-20260530
+RuleKey: HELPER-SCRIPT-GENERATION-BASE-LAYER-GUARD-V1-2
+RunId: 20260530_092451
+Status: SAVED / SUPPORT GUARD / NOT DOCTRINE
+
+Meaning: repeated lower-level helper failures are now routed to a shared helper-generation base-layer guard. Future helper scripts should use safe report-writing primitives, reserved-variable avoidance, variable-first operator handling, manifest/receipt order, and Code Gate/job-proof separation.
+
+Boundary: no broad audit, no full batch, no autonomous generation, no implementation, no watcher, no automation, no Whirlpool, no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX.
