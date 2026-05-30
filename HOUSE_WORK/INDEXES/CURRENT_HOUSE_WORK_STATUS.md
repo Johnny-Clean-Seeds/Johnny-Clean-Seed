@@ -222,3 +222,20 @@ support concept/method/piles/map/TODO/receipt/status only; no doctrine; no ACTIV
 
 Next rope:
 Design DUAL_SHELL_TANDEM_GATE_BRIDGE_SESSION_PROTOCOL_V1.
+
+## 2026-05-30 — Pending Bay / Complete Set Bundle Gate saved
+
+RunId: 20260530_033402
+Status: SUPPORT RULE / BUNDLE GATE / NOT PROMOTED
+
+Live bundle verdict:
+BUNDLE_COMPLETE / READY_FOR_CODE_GATE
+
+Core rule:
+Related dropped files form a bundle. First gate waits for expected set, hashes/classifies all members, writes manifest, assigns order, and only then routes one next action.
+
+Boundary:
+support rule/map/template/fit-report/receipt/status only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no watcher; no first-file trigger; no script implementation
+
+Next rope:
+Resume DUAL_SHELL_TANDEM_GATE_BRIDGE_SESSION_PROTOCOL_V1.

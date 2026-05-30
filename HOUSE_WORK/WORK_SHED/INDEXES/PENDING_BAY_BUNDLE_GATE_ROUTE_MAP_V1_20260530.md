@@ -1,0 +1,42 @@
+# Pending Bay Bundle Gate Route Map V1
+
+Date: 2026-05-30
+Status: SUPPORT MAP / NOT IMPLEMENTATION
+
+## Route
+
+ROOT_DROP_LANDING
+-> BUNDLE_GATE
+-> MEMBER_DISCOVERY
+-> EXPECTED_SET_CHECK
+-> STABILITY_CHECK
+-> HASH_ALL_PRESENT_MEMBERS
+-> ROLE_CLASSIFICATION
+-> EXTRA_MEMBER_REVIEW
+-> DUPLICATE_CHECK
+-> BUNDLE_ID_KEY_ASSIGNMENT
+-> BUNDLE_MANIFEST
+-> ORDER_GATE
+-> READY_BAY_OR_PENDING_BAY
+-> ONE_NEXT_ACTION
+
+## Pending routes
+
+Missing required members:
+WAITING_FOR_BUNDLE_COMPLETION.
+
+Unknown extra:
+EXTRA_REVIEW_BAY.
+
+Malformed member:
+INVALID_MEMBER_BAY.
+
+Unrouteable after review:
+DEAD_LETTER_BAY.
+
+Complete and ordered:
+READY_BAY.
+
+## No direct route
+
+ROOT_DROP_LANDING must never go directly to execution.

@@ -1,0 +1,69 @@
+PENDING_BAY_COMPLETE_SET_BUNDLE_GATE_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_033402
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: BRAIN_LEARNING/PENDING_BAY_COMPLETE_SET_BUNDLE_GATE_RULE_20260530.md
+Role: planned save object member
+Lane: Pending Bay / Complete Set Bundle Gate
+Reason: support rule/map/template/fit/suit/status/receipt
+SizeBytes: 3867
+SHA256: 2323589BA663A87D762809A6A3149429F7AAE9A73FC6F52529F79FB7AC6A777C
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/PENDING_BAY_COMPLETE_SET_BUNDLE_GATE_FIT_REPORT_20260530.md
+Role: planned save object member
+Lane: Pending Bay / Complete Set Bundle Gate
+Reason: support rule/map/template/fit/suit/status/receipt
+SizeBytes: 1728
+SHA256: 6FE608BCE29719620B45F885684E0E5201EF7F0E10AD409E75796BDE110549A4
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/PENDING_BAY_COMPLETE_SET_BUNDLE_GATE_FIT_REPORT_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/PENDING_BAY_BUNDLE_GATE_ROUTE_MAP_V1_20260530.md
+Role: planned save object member
+Lane: Pending Bay / Complete Set Bundle Gate
+Reason: support rule/map/template/fit/suit/status/receipt
+SizeBytes: 709
+SHA256: 1A140D28D01E4BFBBB141BDD3C7877309311839EA65D9866C4883F15BA154B91
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/PENDING_BAY_BUNDLE_GATE_ROUTE_MAP_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/TEMPLATES/PENDING_BAY_BUNDLE_MANIFEST_TEMPLATE_V1_20260530.md
+Role: planned save object member
+Lane: Pending Bay / Complete Set Bundle Gate
+Reason: support rule/map/template/fit/suit/status/receipt
+SizeBytes: 493
+SHA256: 8D63955A0760723E6E4BEB9BD2CB5BAB92EB5BAD57462EED8AB87E3FA2251178
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/TEMPLATES/PENDING_BAY_BUNDLE_MANIFEST_TEMPLATE_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/PENDING_BAY_COMPLETE_SET_BUNDLE_GATE_SUIT_CARD_V1_20260530.md
+Role: planned save object member
+Lane: Pending Bay / Complete Set Bundle Gate
+Reason: support rule/map/template/fit/suit/status/receipt
+SizeBytes: 698
+SHA256: FF126956EB44EF429089C38DC915253D55003B508553BEB087569A89BD371D2E
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Pending Bay / Complete Set Bundle Gate
+Reason: support rule/map/template/fit/suit/status/receipt
+SizeBytes: 10546
+SHA256: B97321FB21FF840521DAC7081C33E2B76EC9C27FE2D099FF989EB7B191D002E2
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/PENDING_BAY_COMPLETE_SET_BUNDLE_GATE_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Pending Bay / Complete Set Bundle Gate
+Reason: support rule/map/template/fit/suit/status/receipt
+SizeBytes: 1939
+SHA256: 4B2D152B78DFC567F192282BE0352D8D2AB34715AAB354D3BF453F87458C0BF6
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
