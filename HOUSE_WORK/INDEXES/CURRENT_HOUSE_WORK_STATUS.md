@@ -402,3 +402,20 @@ V1 selected order but falsely marked tigershark clean. V1.1 selected order, kept
 
 Boundary:
 Git support rule/evidence/ledger/template/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no watcher; no automation; no tool install; no user-local operational writes outside Git repo
+
+## 2026-05-30 — Gear-Change Closeout / Lifted Fog Re-Walk rule saved
+
+RunId: 20260530_050751
+Status: SUPPORT RULE / LIVE SUIT REFRESH
+
+Core:
+At gear changes, task close, direction changes, or fog lift, the assistant must stop new work, refresh suit state, burn dead chat weight, re-walk the completed job, recover lost items/gaps/TODOs, identify blocked layers, choose next rope, and only then proceed.
+
+Current live suit:
+repo main @ 53d35905102513bd52bfb394dd333093562473dc; proven: base-word proof, probe-safe target, two proof trials, Shell Outtake V1.1, same-shell user-view, Candidate Selection V1.1 dirty-bridge rejection; blocked: autonomous generation, batch verifier, blackboard/session coordination, implementation, watcher, automation, Whirlpool.
+
+Next rope:
+manual chained proof from candidate selection to base-word verifier to shell outtake.
+
+Boundary:
+Git support rule/fit-report/order/template/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no watcher; no automation; no tool install; no user-local operational writes outside Git repo

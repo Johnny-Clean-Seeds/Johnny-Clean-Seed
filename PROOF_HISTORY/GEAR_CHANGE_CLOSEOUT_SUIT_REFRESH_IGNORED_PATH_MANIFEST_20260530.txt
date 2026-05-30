@@ -1,0 +1,69 @@
+GEAR_CHANGE_CLOSEOUT_SUIT_REFRESH_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_050751
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: BRAIN_LEARNING/GEAR_CHANGE_CLOSEOUT_LIFTED_FOG_REWALK_RULE_20260530.md
+Role: planned save object member
+Lane: Gear-Change Closeout / Suit Refresh
+Reason: support rule/fit-report/order/template/suit/status/receipt
+SizeBytes: 2874
+SHA256: FE637AB1B5755A78A912EEB337B07720B305AB4E74D4EDC6C47828375C33995D
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/GEAR_CHANGE_CLOSEOUT_LIFTED_FOG_FIT_REPORT_20260530.md
+Role: planned save object member
+Lane: Gear-Change Closeout / Suit Refresh
+Reason: support rule/fit-report/order/template/suit/status/receipt
+SizeBytes: 1464
+SHA256: 1568ACFA636A42A2E50BD40DBC840A95EBCA227EBE5F39CFE789DC317783C289
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/GEAR_CHANGE_CLOSEOUT_LIFTED_FOG_FIT_REPORT_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/GEAR_CHANGE_CLOSEOUT_WORKING_ORDER_MAP_V1_20260530.md
+Role: planned save object member
+Lane: Gear-Change Closeout / Suit Refresh
+Reason: support rule/fit-report/order/template/suit/status/receipt
+SizeBytes: 1080
+SHA256: 411F954A5B428F8A972CB6478FEDD2ACB64370F6E5D89F1251A93CCAA79A0915
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/GEAR_CHANGE_CLOSEOUT_WORKING_ORDER_MAP_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/TEMPLATES/GEAR_CHANGE_CLOSEOUT_REWALK_CARD_TEMPLATE_V1_20260530.md
+Role: planned save object member
+Lane: Gear-Change Closeout / Suit Refresh
+Reason: support rule/fit-report/order/template/suit/status/receipt
+SizeBytes: 459
+SHA256: 77E5B651E33441D844E451AC2B92CD6C954B4018BBD784FCE61E3AA3D5E97C7D
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/TEMPLATES/GEAR_CHANGE_CLOSEOUT_REWALK_CARD_TEMPLATE_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/GEAR_CHANGE_CLOSEOUT_LIVE_SUIT_CARD_V1_20260530.md
+Role: planned save object member
+Lane: Gear-Change Closeout / Suit Refresh
+Reason: support rule/fit-report/order/template/suit/status/receipt
+SizeBytes: 1175
+SHA256: E509BA1262DD56D4C6A5EAC12737DADFD0E3A428B7403F0F2D3E70E6ED464014
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Gear-Change Closeout / Suit Refresh
+Reason: support rule/fit-report/order/template/suit/status/receipt
+SizeBytes: 19072
+SHA256: B7C06519A3D535D2B96141D01AA91DCA60BFD9F773423A5E29FB8F00FE241B19
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/GEAR_CHANGE_CLOSEOUT_SUIT_REFRESH_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Gear-Change Closeout / Suit Refresh
+Reason: support rule/fit-report/order/template/suit/status/receipt
+SizeBytes: 1246
+SHA256: BE02560AA764F93D4E703C607ADBB87E0BF5F80888BF94C98DB6BD11322E2108
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
