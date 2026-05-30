@@ -185,3 +185,23 @@ support concept/review/map/template/fit-report/receipt/status only; no doctrine;
 
 Next rope:
 Manual frame-to-candidate contract test design. No generator, no cmd launcher, no tool placement.
+
+## 2026-05-30 — Held ideas opened as lanes
+
+RunId: 20260530_030832
+Status: PAUSE CARD / LIVING IDEAS LEDGER / OPEN LANES
+
+Paused active rope:
+Manual frame-to-candidate contract test design.
+
+Parked proof rope:
+Duplicate/collision + branch-failure manual test design.
+
+Living/merge lane:
+Frame-to-Script Candidate System connects to Key/Ledger/Map Driver, Intake Gate System, Key-Code Manual Test Evidence, and Code Gate discipline.
+
+Boundary:
+pause/lane/ledger/TODO/receipt/status only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no generator; no helper run; no cmd launcher
+
+Next rope:
+Resume manual frame-to-candidate contract test design.

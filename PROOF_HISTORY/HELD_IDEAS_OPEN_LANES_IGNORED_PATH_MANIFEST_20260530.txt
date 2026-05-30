@@ -1,0 +1,78 @@
+HELD_IDEAS_OPEN_LANES_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_030832
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/PAUSE_AND_OPEN_LANES_FROM_HELD_IDEAS_20260530.md
+Role: planned save object member
+Lane: Held ideas / living ideas / open lanes
+Reason: pause current work and place held ideas into files
+SizeBytes: 1603
+SHA256: E0EC71FF4ACD5ACE62474AB2D85AD0F5E2C84C50384B94096B93ED10828B4938
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/PAUSE_AND_OPEN_LANES_FROM_HELD_IDEAS_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/LIVING_IDEAS_AND_OPEN_LANES_LEDGER_20260530.md
+Role: planned save object member
+Lane: Held ideas / living ideas / open lanes
+Reason: pause current work and place held ideas into files
+SizeBytes: 2728
+SHA256: C31B6C121648058BCF1F10624AA3B3F8650836B34627BA53AC8A1459BFDCF9DA
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/LIVING_IDEAS_AND_OPEN_LANES_LEDGER_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/TODO/DUPLICATE_COLLISION_BRANCH_FAILURE_MANUAL_TEST_TODO_20260530.md
+Role: planned save object member
+Lane: Held ideas / living ideas / open lanes
+Reason: pause current work and place held ideas into files
+SizeBytes: 902
+SHA256: 25A00D04C86CEB25925D9499550F3675FC5600F314A9B8E7A41F074BD21B5F24
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/TODO/MANUAL_FRAME_TO_CANDIDATE_CONTRACT_TEST_DESIGN_TODO_20260530.md
+Role: planned save object member
+Lane: Held ideas / living ideas / open lanes
+Reason: pause current work and place held ideas into files
+SizeBytes: 1055
+SHA256: 70AAC84AB3F06F26CA6C88D19AD26FDAAB2AD9047BBF982556EA3CD338C206D3
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/FRAME_TO_SCRIPT_MERGE_AND_NEIGHBOR_LANES_20260530.md
+Role: planned save object member
+Lane: Held ideas / living ideas / open lanes
+Reason: pause current work and place held ideas into files
+SizeBytes: 1421
+SHA256: FA76F4FA97240524AB0098F8F04E3EF130B787CD23DE7731230C05C0742B5A74
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/FRAME_TO_SCRIPT_MERGE_AND_NEIGHBOR_LANES_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/HELD_IDEAS_OPEN_LANES_SUIT_CARD_20260530.md
+Role: planned save object member
+Lane: Held ideas / living ideas / open lanes
+Reason: pause current work and place held ideas into files
+SizeBytes: 821
+SHA256: 4BE192773C717B9F5FE7539951F4434D2AFC42B40CCA8DD874DB77F10D4E514B
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Held ideas / living ideas / open lanes
+Reason: pause current work and place held ideas into files
+SizeBytes: 9093
+SHA256: A6388C65FA8D1044648F7AE0E37828EC49F283B3889BABC2B85DF8417D052872
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/HELD_IDEAS_OPEN_LANES_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Held ideas / living ideas / open lanes
+Reason: pause current work and place held ideas into files
+SizeBytes: 1162
+SHA256: 94E2564D86B47906B0F912086198B59383F6617A6CCCE8EB88A0028793477D8D
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
