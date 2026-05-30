@@ -1,17 +1,18 @@
 # ACTIVE ANCHOR
 
 Date: 2026-05-30
-RunId: 20260530_074701
-WorkKey: SCALECHAIN-20260530-MAX5-MAX8-MAX10-PROOF-REVIEW
+RunId: 20260530_082814
+WorkKey: GRANDMASTER-20260530-NODE-ROOT-LEDGER-MAP
 
-Current object: Scale-Step Chain Proof Review — Max5 -> Max8 -> Max10.
+Current object: Grandmaster Node Root Ledger Map V1.
 
-Base checked: origin/main @ 8b105d8a911f5fb6d5fa9e95910f06ad52733385
+Base checked: origin/main @ 7f844f35c6e5d58ed5fb3380c8d2fa94220e1b2f
 
 Wear now:
-- USER SAID FIRST -> GIT CROSSCHECK -> FRESH LOADED SOURCES -> HOUSE DOOR + ROPE -> BEST ROOM -> BEST NEXT MOVE.
 - SWIFT SCAN: stop the pile, carry one pointer, review proof, check freshness, block false promotion, forecast failure, synthesize in Creative Room, recover leftovers, record one decision, then move only if the next move has a real job.
 - SCALE CHAIN REVIEW: Max5 -> Max8 -> Max10 proves bounded canary scale-step reliability only; Max12 is parked until a new risk is named.
+- GRANDMASTER NODE ROOT LEDGER: nodes are things, feelers are searching relationships, roots are traveled paths, water is useful proof/context, and every path returns to Grandmaster.
+- FEELER CONNECTION SELF-CHECK: found does not mean clean; test source, proof, lane, neighbor, alternate route, boundary, freshness, and return path.
 - EXPOSURE -> POWERPLAY / CRIME SCENE -> PRESERVE -> REPAIR ROUTE -> PROVE -> RESUME.
 - Copy boxes only when user must copy material.
 - Desktop/drop-copy alerts are loud plain text.
@@ -20,7 +21,7 @@ Current proof:
 Max5 -> Max8 -> Max10 passed as bounded canary scale-step audits.
 
 Next clean move:
-Name a new risk before Max12 or any larger bounded audit; otherwise stop scale bumps.
+Test the Grandmaster map on Legacy Chat Drop Ore classification before any larger graph/ledger build.
 
 Still blocked:
 Full batch, autonomous generation, implementation, watcher, automation, Whirlpool, doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX.

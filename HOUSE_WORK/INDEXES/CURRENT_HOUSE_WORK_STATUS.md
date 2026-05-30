@@ -741,3 +741,15 @@ Only run Max12 or larger bounded audit if a new risk is named first. Otherwise s
 
 Blocked:
 full batch; autonomous generation; implementation; watcher; automation; Whirlpool; doctrine; ACTIVE_GUIDES; CURRENT_TRUTH_INDEX.
+
+
+## 2026-05-30 — Grandmaster Node Root Ledger Map V1
+
+RunId: 20260530_082814
+WorkKey: GRANDMASTER-20260530-NODE-ROOT-LEDGER-MAP
+SystemKey: GRANDMASTER-NODE-ROOT-LEDGER-MAP-V1-1
+Status: SAVED AS LIVING MAP / SOFT SUIT SUPPORT / NOT DOCTRINE
+
+Saved Grandmaster Node Root Ledger Map V1 to define node, feeler, and root path grammar; connection self-check; water test; ledger-noise guard; source/proof/provenance links; duplicate-node guard; path decay; loop control; and first test against Legacy Chat Drop Ore.
+
+Boundary: no graph database, no automation, no watcher, no implementation, no full batch, no Whirlpool, no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX.
