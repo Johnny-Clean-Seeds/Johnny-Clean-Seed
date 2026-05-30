@@ -1,0 +1,36 @@
+FRESHEN_UP_RESET_ORIENTATION_RITUAL_RECEIPT
+RunId: 20260529_223932
+Date: 2026-05-29
+EndState: CLEAN_SAVE_PENDING_GIT_VERIFY
+
+SavedRule: BRAIN_LEARNING/FRESHEN_UP_RESET_ORIENTATION_RITUAL_RULE_20260529.md
+SavedRuleSha256: 48457FF047A674550D3808DC84BB28327C2997496F19FCA93AEBDF2F01E51DD3
+
+SavedFitCard: HOUSE_WORK/WORK_SHED/SORTING_BENCH/FRESHEN_UP_RESET_ORIENTATION_RITUAL_FIT_CARD_20260529.md
+SavedFitCardSha256: 6EC10EBF1EF63175687FDB87C69E5D2F53EAA309C98C6D98F7DE736FF98DF976
+
+SavedIssueRule: BRAIN_LEARNING/HELPER_SAVE_CONTENT_VALIDATION_AND_ISSUE_LEARNING_RULE_20260529.md
+SavedIssueRuleSha256: 2EACA91146C6DF7D72750DA7E1ADA9CD40BBFF0E645E7168A9972D7F7AF6E4CE
+
+SavedIssueCard: HOUSE_WORK/WORK_SHED/SORTING_BENCH/FRESHEN_UP_SAVE_EMPTY_FIT_CONTENT_FAILURE_POWER_PLAY_20260529.md
+SavedIssueCardSha256: E2F1EFC4B46AFA0DEA431C3044012520833879243750BD522E473D938F62157C
+
+UpdatedStatusIndex: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+UpdatedStatusIndexSha256: 307FC6A44DE6D7C1918CF0196C22EFB71F50C7D5BB9D350FCAC265DBEDA58EC6
+
+PriorFailureConverted:
+- V1 write mode failed at fit-card content binding.
+- Repair uses non-empty artifact validation, literal here-string content, exact partial recovery, and issue-learning capture.
+
+Boundary:
+- support rule only;
+- helper-learning support only;
+- no doctrine;
+- no ACTIVE_GUIDES;
+- no CURRENT_TRUTH_INDEX;
+- no automation;
+- no broad cleanup authority;
+- no delete/move/archive authority.
+
+Meaning:
+Freshen' up means clear dead chat, smoke break, walk the house, read the rules, walk the house again, read the rules again, smoke break, then start the next task.

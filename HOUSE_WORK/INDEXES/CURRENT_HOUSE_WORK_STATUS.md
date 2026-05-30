@@ -7764,3 +7764,4 @@ Verdict: ACCEPT WITH GUARDRAILS AS SOURCE ORE ADDENDUM
 Boundary: no doctrine; no sentience proof; no ATT adoption; no ACTIVE_GUIDES rewrite; no CURRENT_TRUTH_INDEX rewrite; no legal conclusion; no helper build; no automation; no raw PDF Git staging.
 
 Meaning: the 16-page ATT PDF is now the compact criteria/module reference for the Dreamforge source lane. Aetheris remains framework history/drift/transcript behavior; Aura remains memory-custody/score-escalation; SUNO remains symbolic-output/name-hinge.
+- 2026-05-29: Saved Freshen' up reset/orientation ritual support rule and helper save-content failure learning. Boundary: support rules and failure power-play only; no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no automation, no broad cleanup authority. Repair learned: planned artifact content must be validated before write mode; parser/probe pass is not write-content proof.
