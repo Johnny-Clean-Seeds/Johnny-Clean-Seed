@@ -89,3 +89,12 @@ WorkKey: CHAT-DROP-CURRENT-LOAD-REPLACEMENT-20260530-V1
 Status: Chat Drop root rotation rule saved. Root Chat Drop is current live-load tray, not accumulating archive. Old root files move to _OLD_LOADS; current intended load is restored to root. No delete.
 
 Boundary: no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no broad refactor, no automation, no watcher.
+
+## 2026-05-30 - Edward all-room triple pathfinding Soft Suit candidate
+
+- Saved broadened pathfinding search candidate from the WHY_WE_SUCK_SOMETIMES_METHOD search lesson.
+- Status: Soft Suit candidate / not doctrine.
+- Core: all rooms available, one movement active; three straight spines per wave; branch by scent; strengthen by proof; cut weak paths; sew useful hits; label every return; breath reset between waves.
+- Boundary: no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no automation, no watcher, no broad refactor, no delete, no move.
+- Brain file: BRAIN_LEARNING/EDWARD_ALL_ROOM_TRIPLE_PATHFINDING_SOFT_SUIT_CANDIDATE_20260530.md
+- Suit card: HOUSE_WORK/CHAT_COCKPIT/EDWARD_ALL_ROOM_TRIPLE_PATHFINDING_SUIT_CARD_20260530.md
