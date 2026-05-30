@@ -376,3 +376,29 @@ The shell returned a readable user-view projection with RESULT, VERDICT, WHY, NE
 
 Boundary:
 Git support evidence/ledger/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no watcher; no automation; no tool install; no user-local operational writes outside Git repo
+
+## 2026-05-30 — Candidate Selection Gate V1.1 repair evidence saved
+
+RunId: 20260530_050112
+Status: V1_1_REPAIR_EVIDENCE / SUPPORT ONLY
+
+V1 report:
+C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\CANDIDATE_SELECTION_GATE_TRIAL_20260530_045628.md
+
+V1 report SHA256:
+AB61FDD7326D355A66B7BC2817A1E5026E4EDCA99760137CEDF27E5715B1A3E7
+
+V1.1 report:
+C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\CANDIDATE_SELECTION_GATE_TRIAL_V1_1_20260530_045908.md
+
+V1.1 report SHA256:
+E46058BDD806D31631469BC8B35930FFA4426FE39466979D3DB33DAED93E3CB7
+
+Evidence verdict:
+CANDIDATE_SELECTION_V1_1_REPAIR_PASS
+
+Core:
+V1 selected order but falsely marked tigershark clean. V1.1 selected order, kept shape lower-ranked, and rejected tigershark for dirty bridge language: no proven relation.
+
+Boundary:
+Git support rule/evidence/ledger/template/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no watcher; no automation; no tool install; no user-local operational writes outside Git repo

@@ -1,0 +1,69 @@
+CANDIDATE_SELECTION_GATE_V1_1_EVIDENCE_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_050112
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: BRAIN_LEARNING/CANDIDATE_SELECTION_GATE_DIRTY_BRIDGE_REJECTION_RULE_20260530.md
+Role: planned save object member
+Lane: Candidate Selection Gate V1.1 repair evidence
+Reason: support rule/evidence/ledger/template/suit/status/receipt
+SizeBytes: 1102
+SHA256: 2F081E11EC4439E6730372C94C4E96F961D75F199A569C50153CA630F4EA9A9A
+IgnoreWitness: .gitignore:37:*BRIDGE*	BRAIN_LEARNING/CANDIDATE_SELECTION_GATE_DIRTY_BRIDGE_REJECTION_RULE_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/CANDIDATE_SELECTION_GATE_V1_1_REPAIR_EVIDENCE_20260530.md
+Role: planned save object member
+Lane: Candidate Selection Gate V1.1 repair evidence
+Reason: support rule/evidence/ledger/template/suit/status/receipt
+SizeBytes: 1180
+SHA256: 8D0CD78AD471C94221DC824A328CF6E750387E94C650AEE97825DAAE1E984F9E
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/CANDIDATE_SELECTION_GATE_V1_1_REPAIR_EVIDENCE_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/CANDIDATE_SELECTION_GATE_TRIAL_LEDGER_V1_1_20260530.md
+Role: planned save object member
+Lane: Candidate Selection Gate V1.1 repair evidence
+Reason: support rule/evidence/ledger/template/suit/status/receipt
+SizeBytes: 1135
+SHA256: E06C3BA093AD8E1CFFB52C494EE189795630B865181660C66D342386922E6216
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/CANDIDATE_SELECTION_GATE_TRIAL_LEDGER_V1_1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/TEMPLATES/CANDIDATE_SELECTION_GATE_CANDIDATE_PACK_TEMPLATE_V1_1_20260530.md
+Role: planned save object member
+Lane: Candidate Selection Gate V1.1 repair evidence
+Reason: support rule/evidence/ledger/template/suit/status/receipt
+SizeBytes: 686
+SHA256: 49B0287940070FA17569062DB63C7962624BEB823AD555B8AA96D07F85F94D0D
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/TEMPLATES/CANDIDATE_SELECTION_GATE_CANDIDATE_PACK_TEMPLATE_V1_1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/CANDIDATE_SELECTION_GATE_V1_1_SUIT_CARD_20260530.md
+Role: planned save object member
+Lane: Candidate Selection Gate V1.1 repair evidence
+Reason: support rule/evidence/ledger/template/suit/status/receipt
+SizeBytes: 614
+SHA256: F50048C8844CEA9A457E61F304ADC04A3FB81AA3BE29304641302E636D54E5D7
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Candidate Selection Gate V1.1 repair evidence
+Reason: support rule/evidence/ledger/template/suit/status/receipt
+SizeBytes: 17963
+SHA256: 59F890C3D40A521E0BE349F1E5FA9766644A72238E9104FA69E42A9B60092A62
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/CANDIDATE_SELECTION_GATE_V1_1_EVIDENCE_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Candidate Selection Gate V1.1 repair evidence
+Reason: support rule/evidence/ledger/template/suit/status/receipt
+SizeBytes: 1739
+SHA256: 00675700FCC63AE70ACAEEC17CDFAA5EFC6CFEA88A5593E00316728ACE40CB40
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
