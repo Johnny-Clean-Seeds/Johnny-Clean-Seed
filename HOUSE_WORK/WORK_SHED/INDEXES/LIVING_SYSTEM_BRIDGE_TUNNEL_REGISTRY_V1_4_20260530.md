@@ -44,3 +44,17 @@ BridgeID | SourceNode | RelationType | TargetNode | Direction | RequiredToolbelt
 | BRIDGE-008 | NODE-SUIT-CARD | LOADS_FOR_CHAT | NODE-CHAT-LOAD-MANIFEST | SIDE | CHAT_COCKPIT_TOOLBELT | on | Chat Drop copy | LOAD_NOW | Wear the short line, then follow manifest. | long design dump | not doctrine | Chat Cockpit |
 | BRIDGE-009 | NODE-CURRENT-STATUS | RETURNS_TO | NODE-FRONT-DOOR-LEDGER | UP | FRONT_DOOR_TOOLBELT | on | status support only | LOAD_NOW | Status supports navigation. | status-as-authority | not active authority | Front Door |
 | BRIDGE-010 | NODE-ACTIVE-ANCHOR | BLOCKS | BROAD_REFACTOR | SIDE | BOUNDARY_TOOLBELT | on | active anchor | LOAD_NOW | Block broad refactor unless separately selected. | implementation pressure | no broad refactor | Front Door |
+
+<!-- ORGANIC_PATHING_SOFT_SUIT_DEEPENED_JOIN_V1_START -->
+## Organic Pathing support tunnels V1
+
+Status: SUPPORT TUNNELS / NOT DOCTRINE
+WorkKey: ORGANIC-PATHING-SOFT-SUIT-INTAKE-GATE-JOIN-20260530-V1
+
+| BridgeID | SourceNode | RelationType | TargetNode | Direction | RequiredToolbelt | MethodsMode | ProofNeed | LoadShelf | CarryOutLine | LeaveBehind | Boundary | ReturnPath |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| BRIDGE-ORGPATH-001 | NODE-FRONT-DOOR-LEDGER | INDEXES | NODE-ORGANIC-PATHING-JOIN | SIDE | ORGANIC_PATHING_TOOLBELT | on | receipt | LOAD_IF_NEEDED | Use path ecology only when route fog appears. | broad map hunger | support only | Front Door |
+| BRIDGE-ORGPATH-002 | NODE-ORGANIC-PATHING-JOIN | TOOLBELT_FOR | NODE-ORGANIC-PATH-HEALTH-TEMPLATE | DOWN | ORGANIC_PATHING_TOOLBELT | on | template exists | LOAD_IF_NEEDED | Score 3-5 important routes only. | scoring every file | test support only | Work Shed |
+| BRIDGE-ORGPATH-003 | NODE-ORGANIC-PATHING-JOIN | WATCHES | NODE-HELPER-PATHING-HANDOFF | SIDE | HELPER_PATH_EVIDENCE_TOOLBELT | on | handoff exists | LOAD_IF_NEEDED | Ensure helpers return usable path evidence. | vague helper output | support only | Work Shed |
+| BRIDGE-ORGPATH-004 | NODE-ORGANIC-PATHING-JOIN | UNLOCKS_AFTER | NODE-INTAKE-GATE-PATH-ECOLOGY-TODO | FORWARD | INTAKE_GATE_JOIN_TOOLBELT | on | clean lock/save of Organic Pathing | PARKED_WITH_RETURN_TRIGGER | Deep dive Intake Gate as path metabolism mouth. | premature intake rewrite | TODO only | Front Door |
+<!-- ORGANIC_PATHING_SOFT_SUIT_DEEPENED_JOIN_V1_END -->

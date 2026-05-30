@@ -111,3 +111,32 @@ The ledger system is finished enough for chat use when the repo URL leads to `ST
 ## Boundary
 
 This file is a chat source compressor and pointer map. It does not authorize broad refactor, delete, move, watcher, automation, Whirlpool, doctrine promotion, `ACTIVE_GUIDES` rewrite, `CURRENT_TRUTH_INDEX` rewrite, universal mapper, graph database, or whole-house crawl.
+
+<!-- ORGANIC_PATHING_SOFT_SUIT_DEEPENED_JOIN_V1_START -->
+## Organic Pathing key join V1
+
+Status: SUPPORT JOIN / NOT DOCTRINE
+WorkKey: ORGANIC-PATHING-SOFT-SUIT-INTAKE-GATE-JOIN-20260530-V1
+
+Use only after URL -> LEDGER -> MAP -> KEY entry.
+
+Additional support keys:
+- PATH_ECOLOGY
+- CENTER_STRENGTH_PATHING
+- STIGMERGIC_BREADCRUMB
+- ROLE_SIGNALING_PATH
+- COGNITIVE_OFFLOAD_PATH
+- BREADCRUMB_SPINE
+- DESIRE_PATH_COURT
+- CHOKE_TO_PATH_REPAIR
+- PATH_HEALTH_SCORE
+- PATH_METABOLISM
+- HELPER_PATH_EVIDENCE
+- INTAKE_GATE_JOIN
+
+Carry rule stays unchanged:
+one active object, one source/proof pointer, one next condition.
+
+Boundary:
+support key join only; no doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, broad refactor, delete, move, automation, watcher, universal mapper, or whole-house crawl.
+<!-- ORGANIC_PATHING_SOFT_SUIT_DEEPENED_JOIN_V1_END -->

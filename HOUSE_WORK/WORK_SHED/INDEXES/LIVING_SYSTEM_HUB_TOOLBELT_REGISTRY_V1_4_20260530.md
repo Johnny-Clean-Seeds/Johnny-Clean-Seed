@@ -115,3 +115,72 @@ Backpack:
 - clean run command
 - expected copyback
 - proof need
+
+<!-- ORGANIC_PATHING_SOFT_SUIT_DEEPENED_JOIN_V1_START -->
+## Organic Pathing support toolbelts V1
+
+Status: SUPPORT TOOLBELTS / NOT DOCTRINE
+WorkKey: ORGANIC-PATHING-SOFT-SUIT-INTAKE-GATE-JOIN-20260530-V1
+
+### ORGANIC_PATHING_TOOLBELT
+Job: reduce route fog without creating a universal map.
+
+Toolbelt:
+- scent check
+- role-signaling check
+- route-cost check
+- toolbelt-before-tunnel check
+- breadcrumb/trace-size check
+- return-path check
+- desire-path court
+- choke-to-path repair
+- path-health score
+
+Backpack:
+- one active route
+- one proof/source pointer
+- one next condition
+
+Leave behind:
+- broad map hunger
+- every-file scoring
+- stale chat pile
+- proof furniture unless proof is the task
+
+### HELPER_PATH_EVIDENCE_TOOLBELT
+Job: make helpers useful by forcing path-usable output.
+
+Toolbelt:
+- helper output route check
+- source/target check
+- key/ledger/map join check
+- proof/source pointer check
+- return-path check
+- boundary check
+- next-condition check
+
+Backpack:
+- helper route verdict
+- path-health finding
+- key/ledger/map join candidate
+- return trigger
+
+### INTAKE_GATE_JOIN_TOOLBELT
+Job: require intake to attach keys, ledgers, maps, helper evidence, proof need, and return trigger before motion.
+
+Toolbelt:
+- source authority classifier
+- load-shelf classifier
+- key-label classifier
+- ledger/map home finder
+- helper-output usability check
+- proof/custody need check
+- return-trigger check
+- path metabolism label
+
+Backpack:
+- intake classification
+- join target
+- proof need
+- next condition
+<!-- ORGANIC_PATHING_SOFT_SUIT_DEEPENED_JOIN_V1_END -->

@@ -98,3 +98,29 @@ Boundary: no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no broad refact
 - Boundary: no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no automation, no watcher, no broad refactor, no delete, no move.
 - Brain file: BRAIN_LEARNING/EDWARD_ALL_ROOM_TRIPLE_PATHFINDING_SOFT_SUIT_CANDIDATE_20260530.md
 - Suit card: HOUSE_WORK/CHAT_COCKPIT/EDWARD_ALL_ROOM_TRIPLE_PATHFINDING_SUIT_CARD_20260530.md
+
+<!-- ORGANIC_PATHING_SOFT_SUIT_DEEPENED_JOIN_V1_START -->
+## 2026-05-30 — Organic Pathing Soft Suit deepened + Intake Gate join parked
+WorkKey: ORGANIC-PATHING-SOFT-SUIT-INTAKE-GATE-JOIN-20260530-V1
+Status: Soft Suit candidate/support save; key/ledger/map/helper/intake joins named; not doctrine.
+Saved object:
+- Organic Pathing Soft Suit deepened: path ecology, center-strength pathing, stigmergic breadcrumbs, role-signaling paths, cognitive offload paths, breadcrumb spine, desire path court, choke-to-path repair, path health score, path metabolism.
+- Key/Ledger/Map join index for URL / LEDGER / MAP / KEY support.
+- Helper handoff requiring route evidence, path-health checks, proof/source pointer, boundary, and return path.
+- Intake Gate deep-dive TODO parked as next object candidate.
+Boundary held:
+- no broad refactor
+- no delete
+- no move
+- no watcher
+- no automation
+- no Whirlpool
+- no doctrine
+- no ACTIVE_GUIDES
+- no CURRENT_TRUTH_INDEX
+- no universal mapper
+- no graph database
+- no whole-house crawl
+Next clean move:
+- Deep dive Intake Gate as the path metabolism mouth: classify incoming material, attach keys, join ledgers/maps, require helper path evidence, preserve proof/source boundaries, and assign return triggers.
+<!-- ORGANIC_PATHING_SOFT_SUIT_DEEPENED_JOIN_V1_END -->

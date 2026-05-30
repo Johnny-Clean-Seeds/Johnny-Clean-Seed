@@ -23,3 +23,18 @@ NodeID | ObjectType | Path | SourceOfTruth | LoadShelf | OwnerHub | ProofPointer
 | NODE-START-HERE | root pointer | START_HERE_CURRENT_HOUSE_LEDGER.md | repo | LOAD_NOW | Front Door | V1.4 receipt | pointer only | URL front door leads to living ledger. | Front Door |
 | NODE-README | root front door | README.md | repo | LOAD_NOW | Front Door | V1.4 receipt if updated | pointer only | Root URL can show living ledger pointer. | Front Door |
 | NODE-SUIT-CARD | cockpit support | HOUSE_WORK/CHAT_COCKPIT/LIVING_SYSTEM_FRONT_DOOR_BRIDGE_TUNNEL_SUIT_CARD_V1_4_20260530.md | repo + Chat Drop copy | LOAD_NOW | Chat Cockpit | V1.4 receipt | chat behavior support | Wear the short operating line. | Chat Cockpit |
+
+<!-- ORGANIC_PATHING_SOFT_SUIT_DEEPENED_JOIN_V1_START -->
+## Organic Pathing support nodes V1
+
+Status: SUPPORT NODES / NOT DOCTRINE
+WorkKey: ORGANIC-PATHING-SOFT-SUIT-INTAKE-GATE-JOIN-20260530-V1
+
+| NodeID | ObjectType | Path | SourceOfTruth | LoadShelf | OwnerHub | ProofPointer | AuthorityBoundary | AssistantCarryLine | ReturnPath |
+|---|---|---|---|---|---|---|---|---|---|
+| NODE-ORGANIC-PATHING-BRAIN | brain learning candidate | BRAIN_LEARNING/ORGANIC_PATHING_SOFT_SUIT_DEEPENED_20260530.md | repo | LOAD_IF_NEEDED | Work Shed | Organic Pathing receipt | support only | Use only for path fog / route-health work. | Front Door |
+| NODE-ORGANIC-PATHING-JOIN | join index | HOUSE_WORK/WORK_SHED/INDEXES/ORGANIC_PATHING_KEY_LEDGER_MAP_JOIN_V1_20260530.md | repo | LOAD_IF_NEEDED | Grandmaster | Organic Pathing receipt | support map only | Join keys, ledgers, maps, helper, intake. | Grandmaster |
+| NODE-ORGANIC-PATH-HEALTH-TEMPLATE | template | HOUSE_WORK/WORK_SHED/TEMPLATES/ORGANIC_PATH_HEALTH_ROUTE_TEST_TEMPLATE_V1_20260530.md | repo | LOAD_IF_NEEDED | Work Shed | Organic Pathing receipt | test support only | Score important routes, not every movement. | Work Shed |
+| NODE-HELPER-PATHING-HANDOFF | helper handoff | HOUSE_WORK/WORK_SHED/AGENT_HANDOFFS/HELPER_ORGANIC_PATHING_SUPPORT_HANDOFF_20260530.md | repo | LOAD_IF_NEEDED | Work Shed | Organic Pathing receipt | helper support only | Ensure helpers return usable path evidence. | Work Shed |
+| NODE-INTAKE-GATE-PATH-ECOLOGY-TODO | TODO | HOUSE_WORK/TODO/INTAKE_GATE_PATH_ECOLOGY_DEEP_DIVE_TODO_20260530.md | repo | PARKED_WITH_RETURN_TRIGGER | Intake Gate | Organic Pathing receipt | next object only | Deep dive Intake Gate after save. | Front Door |
+<!-- ORGANIC_PATHING_SOFT_SUIT_DEEPENED_JOIN_V1_END -->

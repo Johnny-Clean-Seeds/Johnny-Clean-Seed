@@ -58,3 +58,22 @@ Proof-history furniture unless a proof question requires it.
 ## Boundary
 
 This ledger does not authorize broad refactor, file moves, deletion, watcher, automation, Whirlpool, doctrine promotion, ACTIVE_GUIDES rewrite, CURRENT_TRUTH_INDEX rewrite, universal mapper, graph database, or whole-house crawl.
+
+<!-- ORGANIC_PATHING_SOFT_SUIT_DEEPENED_JOIN_V1_START -->
+## Organic Pathing Soft Suit support join
+
+Status: SUPPORT JOIN / NOT DOCTRINE
+WorkKey: ORGANIC-PATHING-SOFT-SUIT-INTAKE-GATE-JOIN-20260530-V1
+
+After the normal start order, Organic Pathing may be used as a support lens when route fog appears.
+
+Use for:
+- repeated shortcut/desire path review;
+- route-health scoring;
+- helper-output usability check;
+- Intake Gate key/ledger/map join;
+- return-path repair;
+- dirty shortcut blocking.
+
+Do not use this as authority to expand into broad mapping or refactor.
+<!-- ORGANIC_PATHING_SOFT_SUIT_DEEPENED_JOIN_V1_END -->
