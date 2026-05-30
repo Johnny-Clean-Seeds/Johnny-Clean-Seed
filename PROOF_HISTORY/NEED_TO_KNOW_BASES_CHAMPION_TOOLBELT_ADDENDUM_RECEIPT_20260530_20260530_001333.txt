@@ -1,0 +1,26 @@
+NEED_TO_KNOW_BASES_CHAMPION_TOOLBELT_ADDENDUM_RECEIPT
+RunId: 20260530_001333
+Source: C:\Users\13527\Desktop\123\new_ways.txt
+SourceSha256: 55FA1BE4358AF87E0A381FC2040C1603CC82BAE697AA68DF48CDD592D1DB77E9
+SourceBytes: 14324
+Boundary: support rules/templates/map/TODO only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no broad crawler.
+
+PlannedFiles:
+- BRAIN_LEARNING/NEED_TO_KNOW_BASES_CHAMPION_TOOLBELT_DEEP_SYNTHESIS_20260530.md | Role=deep synthesis source capture from new_ways.txt | ForceAdd=False
+- BRAIN_LEARNING/NEED_TO_KNOW_BASES_HELPER_SLICE_RULE_20260530.md | Role=NEED to KNOW bases support rule | ForceAdd=False
+- BRAIN_LEARNING/SOFT_SUIT_LOCK_SAVE_AND_BURN_OFF_RULE_20260530.md | Role=Soft Suit lock save burn-off support rule | ForceAdd=False
+- BRAIN_LEARNING/HELPER_AUTHORITY_TICKET_RULE_20260530.md | Role=helper authority ticket support rule | ForceAdd=False
+- BRAIN_LEARNING/BOUNDED_HELPER_CONTEXT_AND_LOCAL_MEANING_RULE_20260530.md | Role=bounded helper context support rule | ForceAdd=False
+- HOUSE_WORK/WORK_SHED/TEMPLATES/HELPER_NEED_TO_KNOW_SLICE_TEMPLATE_20260530.md | Role=helper need-to-know slice template | ForceAdd=True
+- HOUSE_WORK/WORK_SHED/TEMPLATES/CENTRAL_INCIDENT_RECORD_TEMPLATE_20260530.md | Role=central incident record template | ForceAdd=True
+- HOUSE_WORK/WORK_SHED/TEMPLATES/HELPER_AUTHORITY_TICKET_TEMPLATE_20260530.md | Role=helper authority ticket template | ForceAdd=True
+- HOUSE_WORK/WORK_SHED/TEMPLATES/HELPER_SLICE_CONTRACT_GATE_TEMPLATE_20260530.md | Role=helper slice contract gate template | ForceAdd=True
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/NEED_TO_KNOW_BASES_WCW_CHAMPION_TOOLBELT_FIT_CARD_20260530.md | Role=WCW champion suit fit card | ForceAdd=True
+- HOUSE_WORK/WORK_SHED/RELATION_MAPS/NEED_TO_KNOW_BASES_HELPER_SLICE_MAP_SEED_20260530.md | Role=helper slice relation map seed | ForceAdd=True
+- HOUSE_WORK/WORK_SHED/HELPER_MEMORY_LEDGER/NEED_TO_KNOW_BASES_CHAMPION_TOOLBELT_LIVING_LEDGER_20260530.md | Role=living ledger seed | ForceAdd=True
+- HOUSE_WORK/TODO/NEED_TO_KNOW_BASES_FIRST_LIVE_USE_TODO_20260530.md | Role=first live use TODO | ForceAdd=False
+- PROOF_HISTORY/NEED_TO_KNOW_BASES_CHAMPION_TOOLBELT_IGNORED_PATH_MANIFEST_20260530_20260530_001333.txt | Role=ignored path exact-file manifest | ForceAdd=False
+
+FinalHead: PENDING
+OriginMain: PENDING
+FinalStatusClean: PENDING

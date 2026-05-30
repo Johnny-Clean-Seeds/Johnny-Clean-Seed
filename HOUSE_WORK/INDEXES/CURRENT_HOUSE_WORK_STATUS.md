@@ -7790,3 +7790,10 @@ Boundary: support rule / living idea / helper memory ledger seed only; no doctri
 - 2026-05-29: Captured Hash-Key Front Gate / Helper Packet Router / Start-Stop Handoff / Living Ledger support architecture from local learning_material.txt. Boundary: support architecture only; no doctrine, no automation, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no broad crawler. RunId: 20260529_234221. SourceSha256: 80080A35B1CF6163DFA54EB2F346442E810C879BC34AC22184E45AF9CA66941C
 
 - 2026-05-29: Captured Hash-Key Front Gate / Helper Packet Router / Start-Stop Handoff / Living Ledger support architecture from local learning_material.txt, plus V1.2 save-script pipeline output split power-play learning. Boundary: support architecture only; no doctrine, no automation, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no broad crawler. RunId: 20260529_235416. SourceSha256: 80080A35B1CF6163DFA54EB2F346442E810C879BC34AC22184E45AF9CA66941C
+---
+Date: 20260530
+Update: NEED to KNOW Bases Champion Toolbelt Suit V2 addendum saved as support architecture.
+Source: new_ways.txt
+SourceSha256: 55FA1BE4358AF87E0A381FC2040C1603CC82BAE697AA68DF48CDD592D1DB77E9
+Boundary: support rules/templates/map/TODO only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no broad crawler.
+Next: first live use should create one central incident record and role-specific helper slices.
