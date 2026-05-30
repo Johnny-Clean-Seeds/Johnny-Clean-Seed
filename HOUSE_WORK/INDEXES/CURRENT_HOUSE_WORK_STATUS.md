@@ -529,3 +529,32 @@ full batch, autonomous candidate generation, implementation, watcher, automation
 
 Boundary:
 Git support evidence/ledger/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no full batch; no watcher; no automation; no tool install; no user-local operational writes outside Git repo; no Whirlpool
+
+## 2026-05-30 — Tiny Batch Adversarial trial evidence saved
+
+RunId: 20260530_055216
+Status: ADVERSARIAL_TINY_BATCH_TRIAL_EVIDENCE / SUPPORT ONLY
+
+Trial report:
+C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\TINY_BATCH_ADVERSARIAL_TRIAL_V1_20260530_055029.md
+
+Trial report SHA256:
+0B2E9B556388E9CEC433C7E214F6E525FF0B05BFEE5DDAB4ED5D8E0688F6DB08
+
+Evidence verdict:
+ADVERSARIAL_TINY_BATCH_TRIAL_PASS
+
+Trial verdict:
+BATCH_PASS_ADVERSARIAL_TINY_TRIAL
+
+Core:
+Adversarial tiny batch trial passed with MaxRows=3, ActualRows=3, UnexpectedRows=0, MissingSchemaFields=0. ROW001 control boundary/limit passed, ROW002 circular bridge expected reject blocked selection and skipped verifier, ROW003 wordy fake expected reject blocked selection and skipped verifier.
+
+Command-glue note:
+A pasted command first produced -RunTrialpwsh parameter error before trial run. That was not trial evidence. Later clean run passed.
+
+Still blocked:
+full batch, autonomous candidate generation, implementation, watcher, automation, Whirlpool.
+
+Boundary:
+Git support evidence/ledger/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no full batch; no watcher; no automation; no tool install; no user-local operational writes outside Git repo; no Whirlpool

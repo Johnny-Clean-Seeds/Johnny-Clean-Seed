@@ -1,0 +1,62 @@
+# Tiny Batch Adversarial Trial Ledger V1
+
+Date: 2026-05-30
+Status: TRIAL LEDGER / NOT FULL BATCH
+
+## Trial 001
+
+Report:
+C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\TINY_BATCH_ADVERSARIAL_TRIAL_V1_20260530_055029.md
+
+Report SHA256:
+0B2E9B556388E9CEC433C7E214F6E525FF0B05BFEE5DDAB4ED5D8E0688F6DB08
+
+Evidence verdict:
+ADVERSARIAL_TINY_BATCH_TRIAL_PASS
+
+Trial verdict:
+BATCH_PASS_ADVERSARIAL_TINY_TRIAL
+
+Rows:
+3
+
+MaxRows:
+3
+
+UnexpectedRows:
+0
+
+MissingSchemaFields:
+0
+
+## Rows
+
+1. ROW001_CONTROL_BOUNDARY_LIMIT
+Expected: ROW_PASS
+Actual: ROW_PASS
+Selected: limit
+Selection: PASS_SELECTED
+Verifier: PASS_PROVEN
+
+2. ROW002_CIRCULAR_REJECT
+Expected: ROW_EXPECTED_REJECT
+Actual: ROW_EXPECTED_REJECT
+Selected: none
+Selection: BLOCKED_NO_CLEAN_SELECTION
+Verifier: VERIFIER_NOT_RUN_SELECTION_BLOCKED
+
+3. ROW003_WORDY_FAKE_REJECT
+Expected: ROW_EXPECTED_REJECT
+Actual: ROW_EXPECTED_REJECT
+Selected: none
+Selection: BLOCKED_NO_CLEAN_SELECTION
+Verifier: VERIFIER_NOT_RUN_SELECTION_BLOCKED
+
+## Still blocked
+
+Full batch.
+Autonomous candidate generation.
+Implementation.
+Watcher.
+Automation.
+Whirlpool.

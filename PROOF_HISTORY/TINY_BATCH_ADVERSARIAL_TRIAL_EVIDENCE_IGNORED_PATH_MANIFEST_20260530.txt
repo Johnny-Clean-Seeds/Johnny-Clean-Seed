@@ -1,0 +1,51 @@
+TINY_BATCH_ADVERSARIAL_TRIAL_EVIDENCE_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_055216
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/TINY_BATCH_ADVERSARIAL_TRIAL_EVIDENCE_20260530.md
+Role: planned save object member
+Lane: Tiny Batch Adversarial trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 1880
+SHA256: 3984CA4811FDCAFA2258A21D88A0DFCFA8866C293A61E855E7BE5AEEA174C2C9
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/TINY_BATCH_ADVERSARIAL_TRIAL_EVIDENCE_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/TINY_BATCH_ADVERSARIAL_TRIAL_LEDGER_V1_20260530.md
+Role: planned save object member
+Lane: Tiny Batch Adversarial trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 1095
+SHA256: 079AAA30B8E5D9363958FBDC1DC3FFFBAACFEEDF87BDF03ABF951F452301C1FB
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/TINY_BATCH_ADVERSARIAL_TRIAL_LEDGER_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/TINY_BATCH_ADVERSARIAL_TRIAL_SUIT_CARD_V1_20260530.md
+Role: planned save object member
+Lane: Tiny Batch Adversarial trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 856
+SHA256: 3B0C6A8B2ABBF75B859978926DACF86D08A1BD93336C15AA14CFBBBEDB5B8896
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Tiny Batch Adversarial trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 25380
+SHA256: 43C890343E91E435441956BD1DAA555BBFD9695C2E85C4CA3744A6C5AD3D4AB4
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/TINY_BATCH_ADVERSARIAL_TRIAL_EVIDENCE_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Tiny Batch Adversarial trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 1403
+SHA256: F3508881EF776BF540194B7E5B95C8516AAFF9D15ABE82CB3354A35E752DC944
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
