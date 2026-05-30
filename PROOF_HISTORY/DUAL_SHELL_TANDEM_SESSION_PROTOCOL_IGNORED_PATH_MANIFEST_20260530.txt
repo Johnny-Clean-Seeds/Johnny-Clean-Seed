@@ -1,0 +1,78 @@
+DUAL_SHELL_TANDEM_SESSION_PROTOCOL_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_035219
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: BRAIN_LEARNING/DUAL_SHELL_TANDEM_GATE_BRIDGE_SESSION_PROTOCOL_V1_20260530.md
+Role: planned save object member
+Lane: Dual-Shell Tandem session protocol
+Reason: protocol/map/templates/fit/suit/status/receipt
+SizeBytes: 9630
+SHA256: 4E8D89136B82912CE0C6E4A87061E37FF1AC7686699E3E9738CD13171446D022
+IgnoreWitness: .gitignore:37:*BRIDGE*	BRAIN_LEARNING/DUAL_SHELL_TANDEM_GATE_BRIDGE_SESSION_PROTOCOL_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/DUAL_SHELL_TANDEM_SESSION_PROTOCOL_FIT_REPORT_20260530.md
+Role: planned save object member
+Lane: Dual-Shell Tandem session protocol
+Reason: protocol/map/templates/fit/suit/status/receipt
+SizeBytes: 1045
+SHA256: F311C3B446064880E4CC3C05E6377F52DF4057BCC5E60B75A1AAA98057557AB7
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/DUAL_SHELL_TANDEM_SESSION_PROTOCOL_FIT_REPORT_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/DUAL_SHELL_TANDEM_SESSION_STATE_MAP_V1_20260530.md
+Role: planned save object member
+Lane: Dual-Shell Tandem session protocol
+Reason: protocol/map/templates/fit/suit/status/receipt
+SizeBytes: 1248
+SHA256: BA259A336ED5D4AD5ADDBFEB8977349CFB53BA6067EED7A64C062520B6FE0ABD
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/DUAL_SHELL_TANDEM_SESSION_STATE_MAP_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/TEMPLATES/DUAL_SHELL_TANDEM_SESSION_PACKET_TEMPLATE_V1_20260530.md
+Role: planned save object member
+Lane: Dual-Shell Tandem session protocol
+Reason: protocol/map/templates/fit/suit/status/receipt
+SizeBytes: 521
+SHA256: 8BEA198F293405625808F0E841D5AA2BA6C0A8C57D65ABC194D37847E90B9C94
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/TEMPLATES/DUAL_SHELL_TANDEM_SESSION_PACKET_TEMPLATE_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/TEMPLATES/DUAL_SHELL_TANDEM_SESSION_RECEIPT_TEMPLATE_V1_20260530.md
+Role: planned save object member
+Lane: Dual-Shell Tandem session protocol
+Reason: protocol/map/templates/fit/suit/status/receipt
+SizeBytes: 328
+SHA256: A4B13734BB9569C1278C831CDE1D4F1D2E4C3E75989633A0BFDF635D651810B5
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/TEMPLATES/DUAL_SHELL_TANDEM_SESSION_RECEIPT_TEMPLATE_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/DUAL_SHELL_TANDEM_SESSION_PROTOCOL_SUIT_CARD_V1_20260530.md
+Role: planned save object member
+Lane: Dual-Shell Tandem session protocol
+Reason: protocol/map/templates/fit/suit/status/receipt
+SizeBytes: 683
+SHA256: 9F06C92E8C8B81ED537087C114FA503362993C1E5F01E723155A16FDD4343D03
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Dual-Shell Tandem session protocol
+Reason: protocol/map/templates/fit/suit/status/receipt
+SizeBytes: 12654
+SHA256: 36C184224C0C1422389E6782895BF497785339B397D8A79EA5A273762CFF0836
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/DUAL_SHELL_TANDEM_SESSION_PROTOCOL_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Dual-Shell Tandem session protocol
+Reason: protocol/map/templates/fit/suit/status/receipt
+SizeBytes: 1347
+SHA256: F69D951AC8AFE949EC2126F768E021A76E1254329E8C6AB8CE1F8D4E9A996495
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+

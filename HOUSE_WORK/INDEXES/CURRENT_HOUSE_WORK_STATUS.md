@@ -268,3 +268,20 @@ Same concepts, separate surfaces. Git is durable anchor. AssistantLocal is assis
 
 Boundary:
 Git support rule/map/template/suit/status/receipt plus AssistantLocal chat-load files/receipt only; no user-local operational file writes outside Git repo; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no helper run; no implementation bridge
+
+## 2026-05-30 — Dual-Shell Tandem session protocol saved
+
+RunId: 20260530_035219
+Status: SUPPORT PROTOCOL / NOT IMPLEMENTATION
+
+Saved:
+session protocol, state map, packet template, receipt template, fit report, suit card, receipt.
+
+Core:
+One visible operator shell and one visible gate shell work in tandem under one session. Operator opens/closes authority. Gate acts only through keyed packets. Receipts carry proof. Close cascades.
+
+Boundary:
+Git support protocol/map/templates/fit-report/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no script implementation; no watcher; no named pipe; no automation; no tool install; no user-local operational writes outside Git repo
+
+Next rope:
+Manual V0 session packet worksheet.
