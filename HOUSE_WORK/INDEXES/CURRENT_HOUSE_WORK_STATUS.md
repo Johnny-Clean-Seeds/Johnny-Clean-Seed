@@ -81,3 +81,11 @@ Status: Think Tank / Creative Room expansion saved as support, not doctrine.
 Carry lines: URL / LEDGER / MAP / KEY = SCENT / STATE / RELATION / LANGUAGE. Maximum reach, minimum carry. All rooms available, one room active. All tools available, one toolbelt worn. Scissor cuts, Sew reconnects.
 
 Boundary: no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no broad refactor, no automation, no watcher, no universal mapper, no graph database.
+
+## 2026-05-30 — Chat Drop Current Load Replacement Rule
+
+WorkKey: CHAT-DROP-CURRENT-LOAD-REPLACEMENT-20260530-V1
+
+Status: Chat Drop root rotation rule saved. Root Chat Drop is current live-load tray, not accumulating archive. Old root files move to _OLD_LOADS; current intended load is restored to root. No delete.
+
+Boundary: no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no broad refactor, no automation, no watcher.
