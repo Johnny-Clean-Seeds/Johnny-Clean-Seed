@@ -183,3 +183,20 @@ Run read/report audit, then repair only named gaps.
 Boundary:
 No doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, broad refactor, delete, move, automation, watcher, Whirlpool.
 <!-- WHOLE_HOUSE_LIVING_OBJECT_REGISTRY_PROTOCOL_V2_END -->
+
+<!-- LIVING_OBJECT_REGISTRY_V2_FIRST_WAVE_REPAIR_PACKET_START -->
+## 2026-05-30 — Living Object Registry V2 first-wave repair packet
+WorkKey: LIVING-OBJECT-REGISTRY-V2-FIRST-WAVE-REPAIR-PACKET-20260530-V1
+Status: Evidence/ticket save only; not doctrine.
+
+Purpose:
+Lock the selected first-wave repair candidates from V2 audit triage before any target-file repair.
+
+Selected candidate count: 50
+
+Next:
+Build one bounded repair save for selected first-wave tickets only.
+
+Boundary:
+No target living-object repair in this packet, no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no broad refactor, no delete, no move, no automation.
+<!-- LIVING_OBJECT_REGISTRY_V2_FIRST_WAVE_REPAIR_PACKET_END -->
