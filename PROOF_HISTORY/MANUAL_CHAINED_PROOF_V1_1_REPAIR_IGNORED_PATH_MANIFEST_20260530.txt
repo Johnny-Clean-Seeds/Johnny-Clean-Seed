@@ -1,0 +1,69 @@
+MANUAL_CHAINED_PROOF_V1_1_REPAIR_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_052005
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: BRAIN_LEARNING/MANUAL_CHAINED_PROOF_QUESTION_FIT_AND_BLOCKED_SELECTION_RULE_20260530.md
+Role: planned save object member
+Lane: Manual Chained Proof V1.1 repair evidence
+Reason: support rule/evidence/ledger/template/suit/status/receipt
+SizeBytes: 1647
+SHA256: 8EDF4A2C64EA8F769C2D10E6E8812AE3CBB322322AEE46640BD86F93259BF832
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/MANUAL_CHAINED_PROOF_V1_1_REPAIR_EVIDENCE_20260530.md
+Role: planned save object member
+Lane: Manual Chained Proof V1.1 repair evidence
+Reason: support rule/evidence/ledger/template/suit/status/receipt
+SizeBytes: 1550
+SHA256: 985FEB571069005AA8504E4B7A1D37D7B66CABBEC0DB438C61DD8BB9DE51E4BD
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/MANUAL_CHAINED_PROOF_V1_1_REPAIR_EVIDENCE_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/MANUAL_CHAINED_PROOF_TRIAL_LEDGER_V1_1_20260530.md
+Role: planned save object member
+Lane: Manual Chained Proof V1.1 repair evidence
+Reason: support rule/evidence/ledger/template/suit/status/receipt
+SizeBytes: 1270
+SHA256: 6A6D3F646527C61FB2690EAEC5015825FC880B310484889880E27191C22F82F1
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/MANUAL_CHAINED_PROOF_TRIAL_LEDGER_V1_1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/TEMPLATES/MANUAL_CHAINED_PROOF_TRIAL_TEMPLATE_V1_1_20260530.md
+Role: planned save object member
+Lane: Manual Chained Proof V1.1 repair evidence
+Reason: support rule/evidence/ledger/template/suit/status/receipt
+SizeBytes: 575
+SHA256: 9DA4779C6145B1AA5BB2BFA5F2F5E2F67C126D4682C99D6ACF8D909B7905CD18
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/TEMPLATES/MANUAL_CHAINED_PROOF_TRIAL_TEMPLATE_V1_1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/MANUAL_CHAINED_PROOF_V1_1_SUIT_CARD_20260530.md
+Role: planned save object member
+Lane: Manual Chained Proof V1.1 repair evidence
+Reason: support rule/evidence/ledger/template/suit/status/receipt
+SizeBytes: 730
+SHA256: 2A254B988257CC1DA67D5132B736C8C99720214631AEBBBFBC4B938E4CFCEFAE
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Manual Chained Proof V1.1 repair evidence
+Reason: support rule/evidence/ledger/template/suit/status/receipt
+SizeBytes: 21066
+SHA256: B3F0214969123CFCE729B4C9785387C4FC3EEFD1118C978ED622114C7F46D52C
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/MANUAL_CHAINED_PROOF_V1_1_REPAIR_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Manual Chained Proof V1.1 repair evidence
+Reason: support rule/evidence/ledger/template/suit/status/receipt
+SizeBytes: 1684
+SHA256: F4E9CCE48D10B916405F5EA86E020C663A1B64C5A24A12D26D510823130C5E72
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+

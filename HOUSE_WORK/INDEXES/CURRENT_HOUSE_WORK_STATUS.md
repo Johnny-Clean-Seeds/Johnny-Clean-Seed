@@ -439,3 +439,29 @@ Manual chain passed: Candidate Selection Gate selected order, Base-Word Proof Ve
 
 Boundary:
 Git support evidence/ledger/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no watcher; no automation; no tool install; no user-local operational writes outside Git repo
+
+## 2026-05-30 — Manual Chained Proof V1.1 repair evidence saved
+
+RunId: 20260530_052005
+Status: V1_1_REPAIR_EVIDENCE / SUPPORT ONLY
+
+Blocked report:
+C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\MANUAL_CHAINED_PROOF_TRIAL_20260530_051558.md
+
+Blocked report SHA256:
+5B8FC414F428F7CAF13D7B401ACB1EEF38DB91AD6AFA8BA825EC413ECCD1E003
+
+V1.1 report:
+C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\MANUAL_CHAINED_PROOF_TRIAL_V1_1_20260530_051808.md
+
+V1.1 report SHA256:
+DC9AFD85F6D9B21EDD2CFD07668337D1047C3C96BCAD66E2DC1C6AEFBFB22ED5
+
+Evidence verdict:
+MANUAL_CHAINED_PROOF_V1_1_REPAIR_PASS
+
+Core:
+V1 boundary test exposed a valid tie and dirty verifier-after-block behavior. V1.1 repaired this by stopping verifier after blocked selection and adding question-fit scoring. Repaired result passed: boundary -> limit; cloud rejected; shell outtake emitted user view; Whirlpool blocked.
+
+Boundary:
+Git support rule/evidence/ledger/template/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no watcher; no automation; no tool install; no user-local operational writes outside Git repo
