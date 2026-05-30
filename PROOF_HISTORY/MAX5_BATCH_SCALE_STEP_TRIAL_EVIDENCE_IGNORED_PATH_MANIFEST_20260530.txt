@@ -1,0 +1,51 @@
+MAX5_BATCH_SCALE_STEP_TRIAL_EVIDENCE_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_060212
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/MAX5_BATCH_SCALE_STEP_TRIAL_EVIDENCE_20260530.md
+Role: planned save object member
+Lane: Max5 Batch Scale-Step trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 1998
+SHA256: B0017BA9E6E22C7C2EB677C39FE33FD53129BB1FC97DE302BF658BE89F643949
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/MAX5_BATCH_SCALE_STEP_TRIAL_EVIDENCE_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/MAX5_BATCH_SCALE_STEP_TRIAL_LEDGER_V1_20260530.md
+Role: planned save object member
+Lane: Max5 Batch Scale-Step trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 1366
+SHA256: E0691172F48EE24FF670CAD1F8F80FC21675FECB19DB5A2F61074E757247C3D2
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/MAX5_BATCH_SCALE_STEP_TRIAL_LEDGER_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/MAX5_BATCH_SCALE_STEP_TRIAL_SUIT_CARD_V1_20260530.md
+Role: planned save object member
+Lane: Max5 Batch Scale-Step trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 963
+SHA256: 974E279844EA52AC5EDB77D328B348E3DC381F2BDF5112E90919B81FBC440AC9
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Max5 Batch Scale-Step trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 27637
+SHA256: 2C34BE2379F7E10A1EE827D43A46394231BB888144C8BADEAC8C8A1409DF5C67
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/MAX5_BATCH_SCALE_STEP_TRIAL_EVIDENCE_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Max5 Batch Scale-Step trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 1391
+SHA256: 0D3805DE88D1F1B77985C45E603DD6B1F9897C2366708E52DD9A79279568F6BC
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+

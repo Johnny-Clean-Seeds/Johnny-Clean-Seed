@@ -587,3 +587,29 @@ The next allowed object is a MaxRows=5 read/report-only scale-step trial. Full b
 
 Boundary:
 Git support evidence/ledger/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no MaxRows=5 trial; no full batch; no watcher; no automation; no tool install; no user-local operational writes outside Git repo; no Whirlpool
+
+## 2026-05-30 — Max5 Batch Scale-Step trial evidence saved
+
+RunId: 20260530_060212
+Status: MAX5_SCALE_STEP_TRIAL_EVIDENCE / SUPPORT ONLY
+
+Trial report:
+C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\MAX5_BATCH_SCALE_STEP_TRIAL_V1_20260530_060015.md
+
+Trial report SHA256:
+E9D6AB3DC279B25C5DEFFB4FA6AEF73E8ABFE1EAE9F0D1DBEDDA853FFBFA3CE1
+
+Evidence verdict:
+MAX5_SCALE_STEP_TRIAL_PASS
+
+Trial verdict:
+BATCH_PASS_MAX5_SCALE_STEP_TRIAL
+
+Core:
+MaxRows=5 scale-step trial passed with ActualRows=5, PassRows=3, ExpectedRejectRows=2, UnexpectedRows=0, MissingSchemaFields=0. Rows: structure/order pass, boundary/limit pass, signal/message new transfer pass, circular expected reject, wordy fake expected reject.
+
+Still blocked:
+full batch, autonomous candidate generation, implementation, watcher, automation, Whirlpool.
+
+Boundary:
+Git support evidence/ledger/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no full batch; no watcher; no automation; no tool install; no user-local operational writes outside Git repo; no Whirlpool
