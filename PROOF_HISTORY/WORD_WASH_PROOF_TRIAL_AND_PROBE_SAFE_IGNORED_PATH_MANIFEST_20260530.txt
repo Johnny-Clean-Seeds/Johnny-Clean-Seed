@@ -1,0 +1,60 @@
+WORD_WASH_PROOF_TRIAL_AND_PROBE_SAFE_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_041503
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: BRAIN_LEARNING/PROBE_SAFE_TARGET_RULE_20260530.md
+Role: planned save object member
+Lane: Word Wash trial evidence and Probe-Safe Target Rule
+Reason: support rule/evidence/map/suit/status/receipt
+SizeBytes: 1374
+SHA256: 5D44EE3B8906B54A08FF121E2CD15312B3FEAE6F50744349F1EE62AF93F37F9D
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/WORD_WASH_BASE_WORD_PROOF_TRIAL_EVIDENCE_20260530.md
+Role: planned save object member
+Lane: Word Wash trial evidence and Probe-Safe Target Rule
+Reason: support rule/evidence/map/suit/status/receipt
+SizeBytes: 1347
+SHA256: 605E3431C4A648E20644F81C6649B3D4365183ADF82D51EC0E3A7160460A65C3
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/WORD_WASH_BASE_WORD_PROOF_TRIAL_EVIDENCE_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/WORD_WASH_PROOF_TRIAL_AND_PROBE_SAFE_ROUTE_MAP_V1_20260530.md
+Role: planned save object member
+Lane: Word Wash trial evidence and Probe-Safe Target Rule
+Reason: support rule/evidence/map/suit/status/receipt
+SizeBytes: 831
+SHA256: 8BDDC702DF390B237A3E0A65F2E527A1706846CF45655126BCBF86BAD598A2E9
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/WORD_WASH_PROOF_TRIAL_AND_PROBE_SAFE_ROUTE_MAP_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/WORD_WASH_PROOF_TRIAL_AND_PROBE_SAFE_SUIT_CARD_V1_20260530.md
+Role: planned save object member
+Lane: Word Wash trial evidence and Probe-Safe Target Rule
+Reason: support rule/evidence/map/suit/status/receipt
+SizeBytes: 565
+SHA256: 0DBCDF5493337C43F8A700BABFAAC6F65B807C5B7317229D44DF41396466AD66
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Word Wash trial evidence and Probe-Safe Target Rule
+Reason: support rule/evidence/map/suit/status/receipt
+SizeBytes: 14204
+SHA256: 78089DDBDC18BAF084EF51A100D17175AB2BF765F43A6238372FC7AA9F4A3757
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/WORD_WASH_PROOF_TRIAL_AND_PROBE_SAFE_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Word Wash trial evidence and Probe-Safe Target Rule
+Reason: support rule/evidence/map/suit/status/receipt
+SizeBytes: 1376
+SHA256: 51CAC9CC3AD3DDE132611DF98A69B9A1545018B2D17244EF760198DBE6778A54
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+

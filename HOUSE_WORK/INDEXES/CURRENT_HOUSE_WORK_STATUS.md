@@ -302,3 +302,23 @@ Git support rule/map/template/fit-report/suit/status/receipt only; no doctrine; 
 
 Next:
 Use this rule to revise the word-wash file trial before treating it as clean behavior.
+
+## 2026-05-30 — Word Wash V1.2 trial evidence and Probe-Safe Target Rule saved
+
+RunId: 20260530_041503
+Status: TRIAL_EVIDENCE / POWERPLAY_REPAIR / SUPPORT_RULE
+
+Trial report:
+C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\WORD_WASH_BASE_WORD_PROOF_TRIAL_20260530_041238.md
+
+Trial report SHA256:
+082DBCADCA34B6CDF7E775947A40965E9AF3E8EF47715A1429CB0F29682E9C41
+
+Trial evidence verdict:
+TRIAL_EVIDENCE_PASS
+
+Core:
+Targets run by Code Gate with empty live task inputs need a clean PROBE_ONLY path. Real task strictness belongs inside the real-run gate, not PowerShell parameter binding.
+
+Boundary:
+Git support rule/evidence/map/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no watcher; no automation; no tool install; no user-local operational writes outside Git repo
