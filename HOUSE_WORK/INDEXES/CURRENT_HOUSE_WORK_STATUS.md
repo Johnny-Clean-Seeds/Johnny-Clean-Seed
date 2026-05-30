@@ -145,3 +145,26 @@ Root holds; explicit intake pass hashes/keys; keys request ledger/map routes; di
 
 Next rope:
 Manual key-code intake test design.
+
+## 2026-05-30 — Key-code manual intake test evidence saved
+
+RunId: 20260530_023825
+Status: SUPPORT EVIDENCE / MANUAL TEST PASS / NOT PROMOTED
+
+Saved object:
+Manual key-code intake test result with real dropped file hash and refinements.
+
+Dropped file:
+C:\Users\13527\Desktop\123\KEY_CODE_INTAKE_MANUAL_TEST_DESIGN_V1.md
+
+SHA256:
+71EB575ACA3928AE67EA8B852C30E2B962EEBA589C73340AF06E48936CC4CFEE
+
+Refinements preserved:
+hash identity not quality; key route not authority; no wildcard key routes; duplicate/collision checks; branch failure/compensation; join-back artifact; governor scope; next-key unlock proof.
+
+Boundary:
+support evidence/result/fit/map/template/receipt/status only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no broad crawler; no helper script
+
+Next rope:
+Manual duplicate/collision and branch-failure test design before any scripted helper.
