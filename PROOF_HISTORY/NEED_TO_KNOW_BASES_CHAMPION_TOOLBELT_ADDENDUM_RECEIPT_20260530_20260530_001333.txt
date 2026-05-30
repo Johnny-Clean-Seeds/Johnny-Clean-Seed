@@ -21,6 +21,8 @@ PlannedFiles:
 - HOUSE_WORK/TODO/NEED_TO_KNOW_BASES_FIRST_LIVE_USE_TODO_20260530.md | Role=first live use TODO | ForceAdd=False
 - PROOF_HISTORY/NEED_TO_KNOW_BASES_CHAMPION_TOOLBELT_IGNORED_PATH_MANIFEST_20260530_20260530_001333.txt | Role=ignored path exact-file manifest | ForceAdd=False
 
-FinalHead: PENDING
-OriginMain: PENDING
-FinalStatusClean: PENDING
+FinalHead: fb5cd56bd9c1795c4060198fea92680e3f934011
+OriginMain: fb5cd56bd9c1795c4060198fea92680e3f934011
+FinalStatusClean: True
+HeadEqualsOriginMain: True
+ReceiptFinalizedAt: 2026-05-30T00:13:39.3611821-04:00
