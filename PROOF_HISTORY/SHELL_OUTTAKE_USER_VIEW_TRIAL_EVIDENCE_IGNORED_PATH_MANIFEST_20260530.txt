@@ -1,0 +1,51 @@
+SHELL_OUTTAKE_USER_VIEW_TRIAL_EVIDENCE_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_045315
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/SHELL_OUTTAKE_USER_VIEW_TRIAL_EVIDENCE_20260530.md
+Role: planned save object member
+Lane: Shell Outtake user-view trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 1203
+SHA256: 08DDC68B72C76BCE1781AF76A3E5CA5EBBB9EC398F6AB9053C64E217C3396C3D
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/SHELL_OUTTAKE_USER_VIEW_TRIAL_EVIDENCE_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/SHELL_OUTTAKE_USER_VIEW_TRIAL_LEDGER_V1_20260530.md
+Role: planned save object member
+Lane: Shell Outtake user-view trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 991
+SHA256: 75CC4E851A38FE07B484055311FD672EF2DCED06959FF4E8A1E43A04BA0952D1
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/SHELL_OUTTAKE_USER_VIEW_TRIAL_LEDGER_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/SHELL_OUTTAKE_USER_VIEW_TRIAL_SUIT_CARD_V1_20260530.md
+Role: planned save object member
+Lane: Shell Outtake user-view trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 505
+SHA256: 2B3EFA97A7483DB1AEE4566EFD22B6A5C1A254722B5BA7113F159BBC3987BEE0
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Shell Outtake user-view trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 16934
+SHA256: B8CA3C7791860E38B5D04EBB7A855DED117E4FAEC2274FE4AF441D1B2217A4C4
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/SHELL_OUTTAKE_USER_VIEW_TRIAL_EVIDENCE_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Shell Outtake user-view trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 1309
+SHA256: 8ED46092EDC7A0F61657C12E701A4D1323B4369D24BD22129E27C11B64797141
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+

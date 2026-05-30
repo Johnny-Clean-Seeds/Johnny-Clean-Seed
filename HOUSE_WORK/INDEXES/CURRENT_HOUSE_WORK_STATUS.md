@@ -356,3 +356,23 @@ V1.1 order:
 
 Boundary:
 Git support refinement/report/order/template/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no watcher; no automation; no tool install; no user-local operational writes outside Git repo
+
+## 2026-05-30 — Shell Outtake user-view trial evidence saved
+
+RunId: 20260530_045315
+Status: USER_VIEW_TRIAL_EVIDENCE / SUPPORT ONLY
+
+Trial report:
+C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\SHELL_OUTTAKE_USER_VIEW_TRIAL_20260530_044713.md
+
+Trial report SHA256:
+8E36B17CEF24039E579207895409DC8983664CC1A90E136930C2A8AE1CE13A44
+
+Evidence verdict:
+USER_VIEW_TRIAL_EVIDENCE_PASS
+
+Core:
+The shell returned a readable user-view projection with RESULT, VERDICT, WHY, NEXT, PROOF, SOURCE, and BOUNDARY. File proof remained in the report. Source hash matched. Whirlpool stayed blocked.
+
+Boundary:
+Git support evidence/ledger/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no watcher; no automation; no tool install; no user-local operational writes outside Git repo
