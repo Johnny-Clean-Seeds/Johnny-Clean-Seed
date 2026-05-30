@@ -794,3 +794,17 @@ Boundary: no broad audit, no full batch, no autonomous generation, no implementa
 - 2026-05-30: Saved Triple-Check Before Resend Hardening order-of-operations process rule. Boundary: process rule and suit/checklist only; no helper implementation, automation, watcher, doctrine, ACTIVE_GUIDES, or CURRENT_TRUTH_INDEX.
 
 - 2026-05-30: Saved Triple-Check Before Resend Hardening order-of-operations process rule. Boundary: process rule and suit/checklist only; no helper implementation, automation, watcher, doctrine, ACTIVE_GUIDES, or CURRENT_TRUTH_INDEX.
+
+## 2026-05-30 - Chain supervisor stage-manifest/state-ledger rule
+
+- Saved rule candidate for replacing loose one-stage helper chains with one local supervisor.
+- Current source clue: full house gate wash stopped at READY_FOR_ONE_BLOCK_FAMILY_SELECTION, then separate trigger helper stopped at READY_FOR_DEEP_REVIEW.
+- Decision: build V2 supervisor from manifest/state-ledger template before deeper wash remediation.
+- Boundary: no implementation run, no broad repair, no cleanup, no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX.
+
+## 2026-05-30 - Chain supervisor stage-manifest/state-ledger rule
+
+- Saved rule candidate for replacing loose one-stage helper chains with one local supervisor.
+- Current source clue: full house gate wash stopped at READY_FOR_ONE_BLOCK_FAMILY_SELECTION, then separate trigger helper stopped at READY_FOR_DEEP_REVIEW.
+- Decision: build V2 supervisor from manifest/state-ledger template before deeper wash remediation.
+- Boundary: no implementation run, no broad repair, no cleanup, no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX.

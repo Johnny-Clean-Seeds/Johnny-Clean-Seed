@@ -1,0 +1,4 @@
+CHAIN_SUPERVISOR_STAGE_MANIFEST_STATE_LEDGER_IGNORED_PATH_MANIFEST_20260530
+RunId: 20260530_103320
+Ignored paths intentionally not added to Git: local read reports under Desktop\123\_MISC_DRAWER\READ_REPORTS and Desktop\Chat Drop current copies.
+No ignored project source was force-added.

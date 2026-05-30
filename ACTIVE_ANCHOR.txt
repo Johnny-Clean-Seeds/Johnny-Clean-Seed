@@ -1,20 +1,4 @@
-ACTIVE ANCHOR
-
-Current saved object:
-TRIPLE_CHECK_BEFORE_RESEND_HARDENING_ORDER_OF_OPERATIONS
-
-Current position:
-main after this save
-
-Next allowed move:
-Use the rule on the next helper resend/reuse after a lower-layer breadcrumb trail, or return to the active helper base-layer proof lane.
-
-Blocked:
-No broad audit.
-No automation.
-No watcher.
-No implementation.
-No Whirlpool.
-No doctrine.
-No ACTIVE_GUIDES.
-No CURRENT_TRUTH_INDEX.
+ACTIVE_ANCHOR: CHAIN_SUPERVISOR_STAGE_MANIFEST_STATE_LEDGER_RULE_20260530
+RunId: 20260530_103320
+State: saved rule candidate and V2 supervisor template placement.
+Next: build local-only V2 chain supervisor proof, then run through Code Gate.
