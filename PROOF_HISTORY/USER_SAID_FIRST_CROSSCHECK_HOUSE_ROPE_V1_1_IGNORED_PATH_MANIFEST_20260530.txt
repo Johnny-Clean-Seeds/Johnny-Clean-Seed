@@ -1,0 +1,24 @@
+USER_SAID_FIRST_CROSSCHECK_HOUSE_ROPE_V1_1_IGNORED_PATH_MANIFEST
+RunId: 20260530_063445
+Date: 2026-05-30
+WorkKey: USFCHR-20260530-USER-SAID-FIRST-CROSSCHECK-HOUSE-ROPE
+RepairKey: POWERPLAY-CRIME-SCENE-20260530-USFCHR-V1-REPAIR
+FileKey: FILE-IGNORED-PATH-MANIFEST
+SourceBase: origin/main @ 8ed7dbac1389d2bea885561798b3fff458d92bc9
+
+Purpose:
+V1 failed because ignored Work Shed files were staged through a normal git add. V1.1 uses the lane-locked ignored-path save exception: exact-file force-add only, never folder/wildcard force-add, with staged-set verification after staging.
+
+Ignored path ledger:
+
+| Path | SHA256 | SizeBytes | IgnoreWitness | AllowedGitAction |
+|---|---:|---:|---|---|
+| HOUSE_WORK/WORK_SHED/SORTING_BENCH/USER_SAID_FIRST_CROSSCHECK_HOUSE_ROPE_SOURCE_CROSSCHECK_20260530.md | 843E77BFA428DF3D848E21B2FE0D6A55018FE7C86AFD199F42D78422707FE629 | 3632 | .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/USER_SAID_FIRST_CROSSCHECK_HOUSE_ROPE_SOURCE_CROSSCHECK_20260530.md | exact-file force-add only if ignored |
+| HOUSE_WORK/WORK_SHED/SORTING_BENCH/USER_SAID_FIRST_CROSSCHECK_HOUSE_ROPE_V1_FAILURE_POWERPLAY_CRIME_SCENE_20260530.md | 5A35034AF081D32B41164B5B38ED4A00F535C8558E95E321A62E7406729A4A39 | 2269 | .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/USER_SAID_FIRST_CROSSCHECK_HOUSE_ROPE_V1_FAILURE_POWERPLAY_CRIME_SCENE_20260530.md | exact-file force-add only if ignored |
+| HOUSE_WORK/WORK_SHED/INDEXES/USER_SAID_FIRST_CROSSCHECK_HOUSE_ROPE_LEGEND_LEDGER_KEYMAP_20260530.md | BA643E9B22A90664042165BBB434CC2332C15E786A0439F785E96040F676DCD2 | 6176 | .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/USER_SAID_FIRST_CROSSCHECK_HOUSE_ROPE_LEGEND_LEDGER_KEYMAP_20260530.md | exact-file force-add only if ignored |
+
+Allowed action:
+Only files listed above may use exact-file force-add, and only when Git reports them ignored. All other planned files use normal git add.
+
+Boundary:
+No folder force-add. No wildcard force-add. No staged extras. No doctrine. No ACTIVE_GUIDES. No CURRENT_TRUTH_INDEX.

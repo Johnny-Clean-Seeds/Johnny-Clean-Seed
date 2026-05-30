@@ -1,28 +1,23 @@
-ACTIVE ANCHOR
+# ACTIVE ANCHOR
 
-Current position:
-main after scope/form/alarm/growth current-route checkpoint
+Date: 2026-05-30
+RunId: 20260530_063445
+WorkKey: USFCHR-20260530-USER-SAID-FIRST-CROSSCHECK-HOUSE-ROPE
+RepairKey: POWERPLAY-CRIME-SCENE-20260530-USFCHR-V1-REPAIR
+Current object: User-Said-First / Git-Crosscheck / Source-Load / House-Rope living rule save, repaired through V1.1 powerplay/crime-scene route.
+Base checked: origin/main @ 8ed7dbac1389d2bea885561798b3fff458d92bc9
 
-Base before save:
-main @ 17e27ef
+Wear now:
+USER SAID FIRST -> GIT CROSSCHECK -> FRESH LOADED SOURCES -> HOUSE DOOR + ROPE -> BEST ROOM -> BEST NEXT MOVE.
 
-Saved:
-Scope/Form/Alarm/Growth current route checkpoint.
-Next route TODO.
-Receipt.
+Companion wear:
+EXPOSURE -> POWERPLAY / CRIME SCENE -> PRESERVE -> REPAIR ROUTE -> PROVE -> RESUME.
 
-Verdict:
-PASS WITH GUARDRAILS / CURRENT ROUTE CHECKPOINT SAVED / NO PROMOTION
+Next clean move after save:
+Gear-change closeout / suit refresh before deciding whether another bounded scale-step audit is justified.
 
-Next allowed move:
-Continue normal project work using the full method stack. When the next issue appears, classify it by alarm group, phase severity, and house placement. Save durable project material locally and to Git.
+Still blocked:
+Full batch, autonomous generation, implementation, watcher, automation, Whirlpool.
 
-Blocked:
-Do not open broad new rule piles without a real task.
-Do not run broad Whirlpool for cosmetic cleanup.
-Do not treat chat, memory, mule output, or source ore as authority by itself.
-Do not rewrite doctrine.
-Do not rewrite ACTIVE_GUIDES.
-Do not rewrite CURRENT_TRUTH_INDEX.
-Do not install automation.
-Do not promote without separate proof.
+Boundary:
+Support behavior only. No doctrine. No ACTIVE_GUIDES. No CURRENT_TRUTH_INDEX.

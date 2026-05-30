@@ -884,3 +884,72 @@ Blocked:
 
 Short form:
 Key the object, map the chain, snap the link, prove the state, keep authority separate.
+
+---
+
+## 2.43 User-Said-First / Git Crosscheck / Source-Load / House-Rope Rule
+
+When the user posts a proof/status/result message or asks to lock a thinking/routing correction, do not jump straight to the first visible next task.
+
+Required order:
+
+1. Say what the user said in plain terms.
+2. Cross-check the Git URL/repo, commit, head, and hashes when available.
+3. Read the freshest loaded project sources already present; do not carry stale drop-copy ideas over newer living state.
+4. Enter through the house door with the rope: object, source, lane, boundary, proof need, and blocked lanes.
+5. Pick the best-fit room for the current task/message.
+6. State the best next move, even when it differs from the posted momentum.
+
+Key/hash requirement:
+
+Any durable save created from this rule must mark files with WorkKey/FileKey and record final SHA256 values in a receipt and, where stable, in a legend/ledger/keymap.
+
+Desktop export requirement:
+
+If this creates or updates cockpit/source support files, export visible drop-copies to Desktop and Desktop\123 so chat can load the fresh source instead of stale ideas.
+
+Blocked:
+
+- no stale chat-state save over newer Git state;
+- no fake PASS from hash alone;
+- no cockpit update without drop-copies;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite;
+- no automation, watcher, Whirlpool, implementation, or full-batch unlock.
+
+Short form:
+User said first. Git fresh second. Loaded sources third. House rope fourth. Best judgment fifth.
+---
+
+## 2.44 Exposure Triggers Powerplay / Crime Scene Rule
+
+When a failure exposes a missing companion mechanic, boundary leak, save-route gap, stale assumption, or false certainty, treat the exposure as POWERPLAY / CRIME SCENE.
+
+Required order:
+
+1. Stop the old motion.
+2. Preserve the failure evidence.
+3. Name the exposed gap.
+4. Separate concept correctness from route/body failure.
+5. Identify the violated or missing rule/mechanic.
+6. Repair the route in the smallest safe way.
+7. Resume only after proof.
+
+Current proof example:
+
+The User-Said-First Crosscheck House-Rope concept was right. V1 failed because the save body tried normal Git staging against ignored Work Shed paths. The correct repair is lane-locked ignored-path exception: exact-file force-add, manifest/hash, and staged-set verification.
+
+Blocked:
+
+- no broad cleanup from exposure alone;
+- no deletion to hide the scene;
+- no folder force-add;
+- no wildcard force-add;
+- no fake PASS before remote match and final clean status;
+- no doctrine promotion;
+- no ACTIVE_GUIDES rewrite;
+- no CURRENT_TRUTH_INDEX rewrite.
+
+Short form:
+Exposure means freeze the scene, preserve proof, repair the route, then resume.

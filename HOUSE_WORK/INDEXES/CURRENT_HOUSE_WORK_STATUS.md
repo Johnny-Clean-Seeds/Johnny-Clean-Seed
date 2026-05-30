@@ -613,3 +613,30 @@ full batch, autonomous candidate generation, implementation, watcher, automation
 
 Boundary:
 Git support evidence/ledger/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no full batch; no watcher; no automation; no tool install; no user-local operational writes outside Git repo; no Whirlpool
+
+## 2026-05-30 — User-Said-First crosscheck house-rope living rule saved
+
+RunId: 20260530_061728
+Status: LIVING_RULE_SAVE / CHAT_COCKPIT_SUPPORT / NOT DOCTRINE
+WorkKey: USFCHR-20260530-USER-SAID-FIRST-CROSSCHECK-HOUSE-ROPE
+BaseChecked: origin/main @ 8ed7dbac1389d2bea885561798b3fff458d92bc9
+
+Saved rule:
+Before deciding the next move after a proof/status/result message, first go over what the user said, then cross-check Git/current source, then read freshest loaded project sources, then enter through the house door with the rope, choose the best-fit room, and only then state the best next move.
+
+Saved files:
+- BRAIN_LEARNING/USER_SAID_FIRST_CROSSCHECK_HOUSE_ROPE_LIVING_RULE_20260530.md
+- HOUSE_WORK/CHAT_COCKPIT/USER_SAID_FIRST_CROSSCHECK_HOUSE_ROPE_SUIT_CARD_V1_20260530.md
+- HOUSE_WORK/CHAT_COCKPIT/CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/USER_SAID_FIRST_CROSSCHECK_HOUSE_ROPE_SOURCE_CROSSCHECK_20260530.md
+- HOUSE_WORK/WORK_SHED/INDEXES/USER_SAID_FIRST_CROSSCHECK_HOUSE_ROPE_LEGEND_LEDGER_KEYMAP_20260530.md
+- PROOF_HISTORY/USER_SAID_FIRST_CROSSCHECK_HOUSE_ROPE_LOCK_RECEIPT_20260530.txt
+
+Local-only Desktop exports:
+- CHAT_DROP_COPY__CHAT_HOUSE_RULES_COCKPIT_CARD_APPLIED_20260522.md
+- CHAT_DROP_COPY__USER_SAID_FIRST_CROSSCHECK_HOUSE_ROPE_SUIT_CARD_V1.md
+- CHAT_DROP_COPY__USER_SAID_FIRST_CROSSCHECK_HOUSE_ROPE_LEGEND_LEDGER_KEYMAP_V1.md
+- SOURCE_DROP_COPY__USER_SAID_FIRST_CROSSCHECK_HOUSE_ROPE_SOURCE_CROSSCHECK_V1.md
+
+Boundary:
+Support behavior/cockpit/source-crosscheck/keymap/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no watcher; no Whirlpool; no implementation; no full batch unlock.
