@@ -1,0 +1,51 @@
+TINY_BATCH_VERIFIER_TRIAL_EVIDENCE_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_054639
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/TINY_BATCH_VERIFIER_TRIAL_EVIDENCE_20260530.md
+Role: planned save object member
+Lane: Tiny Batch Verifier trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 1653
+SHA256: 4902465A58EDD05740B953EC014DE5EFB260A4DB828DA91D14D248F85B0638B2
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/TINY_BATCH_VERIFIER_TRIAL_EVIDENCE_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/TINY_BATCH_VERIFIER_TRIAL_LEDGER_V1_20260530.md
+Role: planned save object member
+Lane: Tiny Batch Verifier trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 1004
+SHA256: D57796D85186BFE3D3D42C2BD5F156763F9C6DDFB49B4BCC3A92F0E4BB606DD1
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/TINY_BATCH_VERIFIER_TRIAL_LEDGER_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/TINY_BATCH_VERIFIER_TRIAL_SUIT_CARD_V1_20260530.md
+Role: planned save object member
+Lane: Tiny Batch Verifier trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 772
+SHA256: 147E89389E39E4059F1777D38962E415B54D7C6CF23DB458FCD346DEB2F9E965
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Tiny Batch Verifier trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 24093
+SHA256: 66C0832C800161275E7C5614A23027FDDBB749E8E4FC1569372DD802C608FEF5
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/TINY_BATCH_VERIFIER_TRIAL_EVIDENCE_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Tiny Batch Verifier trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 1352
+SHA256: D2D039B94F9EBB3B498695502EAC259CDBB7C14944EAD0B91A83444AF6D6016A
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+

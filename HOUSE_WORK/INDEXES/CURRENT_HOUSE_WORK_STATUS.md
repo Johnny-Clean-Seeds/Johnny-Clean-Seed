@@ -503,3 +503,29 @@ The next allowed object is a tiny read/report-only batch verifier with MaxRows=3
 
 Boundary:
 Git support evidence/ledger/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no batch verifier; no watcher; no automation; no tool install; no user-local operational writes outside Git repo; no Whirlpool
+
+## 2026-05-30 — Tiny Batch Verifier trial evidence saved
+
+RunId: 20260530_054639
+Status: TINY_BATCH_TRIAL_EVIDENCE / SUPPORT ONLY
+
+Trial report:
+C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\TINY_BATCH_VERIFIER_TRIAL_V1_20260530_054445.md
+
+Trial report SHA256:
+F2A2FFD61A8D7EA7DC3F868FBAD27BBC9ACD49ADDF90E87FA0A110F957537F13
+
+Evidence verdict:
+TINY_BATCH_TRIAL_PASS
+
+Trial verdict:
+BATCH_PASS_TINY_TRIAL
+
+Core:
+Tiny batch verifier trial passed with MaxRows=3, ActualRows=3, UnexpectedRows=0, MissingSchemaFields=0. ROW001 structure/order passed, ROW002 boundary/limit passed, ROW003 expected dirty reject blocked selection and skipped verifier cleanly.
+
+Still blocked:
+full batch, autonomous candidate generation, implementation, watcher, automation, Whirlpool.
+
+Boundary:
+Git support evidence/ledger/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no full batch; no watcher; no automation; no tool install; no user-local operational writes outside Git repo; no Whirlpool
