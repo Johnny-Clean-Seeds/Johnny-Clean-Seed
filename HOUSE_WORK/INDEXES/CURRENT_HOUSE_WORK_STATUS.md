@@ -419,3 +419,23 @@ manual chained proof from candidate selection to base-word verifier to shell out
 
 Boundary:
 Git support rule/fit-report/order/template/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no watcher; no automation; no tool install; no user-local operational writes outside Git repo
+
+## 2026-05-30 — Manual Chained Proof trial evidence saved
+
+RunId: 20260530_051320
+Status: MANUAL_CHAINED_PROOF_EVIDENCE / SUPPORT ONLY
+
+Trial report:
+C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\MANUAL_CHAINED_PROOF_TRIAL_20260530_051137.md
+
+Trial report SHA256:
+1FC0BE2C2CAD6EAC637AC203DE7F3FB5D844853900437E7C74216F948BBDADF0
+
+Evidence verdict:
+MANUAL_CHAINED_PROOF_PASS
+
+Core:
+Manual chain passed: Candidate Selection Gate selected order, Base-Word Proof Verifier proved order, Shell Outtake emitted user-view result, and tigershark remained rejected for dirty bridge language. Whirlpool stayed blocked.
+
+Boundary:
+Git support evidence/ledger/suit/status/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no implementation; no watcher; no automation; no tool install; no user-local operational writes outside Git repo

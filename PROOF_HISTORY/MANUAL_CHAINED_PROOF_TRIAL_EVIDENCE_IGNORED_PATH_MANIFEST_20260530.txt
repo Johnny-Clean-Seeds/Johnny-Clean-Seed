@@ -1,0 +1,51 @@
+MANUAL_CHAINED_PROOF_TRIAL_EVIDENCE_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_051320
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/MANUAL_CHAINED_PROOF_TRIAL_EVIDENCE_20260530.md
+Role: planned save object member
+Lane: Manual Chained Proof trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 1177
+SHA256: 31E18BA4FC71BEE69DCC8CFAFE04FCD4AC8F39C8F8AE0CC3B7865FAF9731BD95
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/MANUAL_CHAINED_PROOF_TRIAL_EVIDENCE_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/MANUAL_CHAINED_PROOF_TRIAL_LEDGER_V1_20260530.md
+Role: planned save object member
+Lane: Manual Chained Proof trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 872
+SHA256: 536C91EC07E40BFEA018DFDD46892355EAF82BAACF9B7F35086DE5CFFA333972
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/MANUAL_CHAINED_PROOF_TRIAL_LEDGER_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/MANUAL_CHAINED_PROOF_TRIAL_SUIT_CARD_V1_20260530.md
+Role: planned save object member
+Lane: Manual Chained Proof trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 774
+SHA256: A9E07B7553826406D8028E4FF1976795CB3BD9216AA52DA81F9E5D03D9BD57A8
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned save object member
+Lane: Manual Chained Proof trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 19924
+SHA256: AC91F803AE991EDCF7CB134F5FD7CC2B7B5AC8F007461FBDAE9BEA58225AF99E
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/MANUAL_CHAINED_PROOF_TRIAL_EVIDENCE_LOCK_RECEIPT_20260530.txt
+Role: planned save object member
+Lane: Manual Chained Proof trial evidence
+Reason: support evidence/ledger/suit/status/receipt
+SizeBytes: 1260
+SHA256: 7D95805CBF67563839F738DF7F72693E229B9132CD96EF44509C7D3CEB166775
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
