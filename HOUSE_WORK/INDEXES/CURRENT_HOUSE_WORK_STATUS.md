@@ -71,3 +71,13 @@ WorkKey: LOWER-LAYER-SAVE-ROUTE-HARNESS-ROOT-REPAIR-20260530-V1-2-1
 Status: Root repair after repeated save-route failures. Consumes bounded V1.5 partial footprint and installs Push-to-Shove / Scratch-and-Sniff and save-route harness rules.
 
 Boundary: root repair + known V1.5 footprint only; no broad refactor, delete, move, watcher, automation, Whirlpool, doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, universal mapper, graph database, or whole-house crawl.
+
+## 2026-05-30 — Edward Scissorhands / Tool-Bearing Tunnel Think Tank V1
+
+WorkKey: LIVING-SYSTEM-EDWARD-SCISSORHANDS-THINK-TANK-20260530-V1
+
+Status: Think Tank / Creative Room expansion saved as support, not doctrine.
+
+Carry lines: URL / LEDGER / MAP / KEY = SCENT / STATE / RELATION / LANGUAGE. Maximum reach, minimum carry. All rooms available, one room active. All tools available, one toolbelt worn. Scissor cuts, Sew reconnects.
+
+Boundary: no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no broad refactor, no automation, no watcher, no universal mapper, no graph database.
