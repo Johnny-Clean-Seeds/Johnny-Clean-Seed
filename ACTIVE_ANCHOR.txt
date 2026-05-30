@@ -1,7 +1,20 @@
-Active anchor: HELPER_SCRIPT_GENERATION_BASE_LAYER_GUARD
-Date: 2026-05-30
-RunId: 20260530_092451
-WorkKey: HELPER-GENERATOR-BASE-LAYER-GUARD-20260530
-Current repo base before save: e6729745ba0204778ebfabca686689561368a3e5
-Next object: use guard on the next generated helper or repair helper before execution.
-Blocked: broad audit; full batch; autonomous generation; implementation; watcher; automation; Whirlpool; doctrine; ACTIVE_GUIDES; CURRENT_TRUTH_INDEX.
+ACTIVE ANCHOR
+
+Current saved object:
+TRIPLE_CHECK_BEFORE_RESEND_HARDENING_ORDER_OF_OPERATIONS
+
+Current position:
+main after this save
+
+Next allowed move:
+Use the rule on the next helper resend/reuse after a lower-layer breadcrumb trail, or return to the active helper base-layer proof lane.
+
+Blocked:
+No broad audit.
+No automation.
+No watcher.
+No implementation.
+No Whirlpool.
+No doctrine.
+No ACTIVE_GUIDES.
+No CURRENT_TRUTH_INDEX.

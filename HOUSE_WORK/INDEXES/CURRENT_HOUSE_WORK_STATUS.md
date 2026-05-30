@@ -790,3 +790,7 @@ Status: SAVED / SUPPORT GUARD / NOT DOCTRINE
 Meaning: repeated lower-level helper failures are now routed to a shared helper-generation base-layer guard. Future helper scripts should use safe report-writing primitives, reserved-variable avoidance, variable-first operator handling, manifest/receipt order, and Code Gate/job-proof separation.
 
 Boundary: no broad audit, no full batch, no autonomous generation, no implementation, no watcher, no automation, no Whirlpool, no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX.
+
+- 2026-05-30: Saved Triple-Check Before Resend Hardening order-of-operations process rule. Boundary: process rule and suit/checklist only; no helper implementation, automation, watcher, doctrine, ACTIVE_GUIDES, or CURRENT_TRUTH_INDEX.
+
+- 2026-05-30: Saved Triple-Check Before Resend Hardening order-of-operations process rule. Boundary: process rule and suit/checklist only; no helper implementation, automation, watcher, doctrine, ACTIVE_GUIDES, or CURRENT_TRUTH_INDEX.
