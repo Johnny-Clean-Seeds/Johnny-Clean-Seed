@@ -1,0 +1,78 @@
+NO_BLEED_SURFACE_POINTER_ARCHITECTURE_IGNORED_PATH_MANIFEST
+Date: 2026-05-30
+RunId: 20260530_034741
+AllowedGitAction: exact-file git add -f only
+BlockedGitAction: no folder force-add; no wildcard force-add
+
+Path: BRAIN_LEARNING/NO_BLEED_SURFACE_POINTER_ARCHITECTURE_RULE_20260530.md
+Role: planned Git save object member
+Lane: No-bleed surface pointer architecture
+Reason: Git durable no-bleed anchor rule/map/ledger/template/suit/receipt
+SizeBytes: 3233
+SHA256: F4FC638C06FE28D54645FEE59B5534A503C51BCF1E758102BFA41EDD9020FB4B
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/NO_BLEED_SURFACE_POINTER_LEDGER_20260530.md
+Role: planned Git save object member
+Lane: No-bleed surface pointer architecture
+Reason: Git durable no-bleed anchor rule/map/ledger/template/suit/receipt
+SizeBytes: 4258
+SHA256: 0A32675D9977DCCA2FBFAE19CD12B59F66BB6EA591650FFA1D0C6E322D1AACEF
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/NO_BLEED_SURFACE_POINTER_LEDGER_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/INDEXES/GIT_TO_ASSISTANT_POINTER_ROUTE_MAP_V1_20260530.md
+Role: planned Git save object member
+Lane: No-bleed surface pointer architecture
+Reason: Git durable no-bleed anchor rule/map/ledger/template/suit/receipt
+SizeBytes: 1144
+SHA256: FE253763F54E9D25DCB4CDAAFD3676E0A36BBFA01231841756AB79271CFFE993
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/INDEXES/GIT_TO_ASSISTANT_POINTER_ROUTE_MAP_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/TEMPLATES/SURFACE_POINTER_ENTRY_TEMPLATE_V1_20260530.md
+Role: planned Git save object member
+Lane: No-bleed surface pointer architecture
+Reason: Git durable no-bleed anchor rule/map/ledger/template/suit/receipt
+SizeBytes: 473
+SHA256: 652BB7AEB83BAC12938AEF5EB3ADF37876E0F0A63A322E32886BC8029BEE83DC
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/TEMPLATES/SURFACE_POINTER_ENTRY_TEMPLATE_V1_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/CHAT_COCKPIT/NO_BLEED_SURFACE_POINTER_MINIMAL_CARRY_CARD_V1_20260530.md
+Role: planned Git save object member
+Lane: No-bleed surface pointer architecture
+Reason: Git durable no-bleed anchor rule/map/ledger/template/suit/receipt
+SizeBytes: 770
+SHA256: 8539FD26CF2FF88E91974F13724B2611414825EC0FCC7090A08D2E17C1D7FB95
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/WORK_SHED/SORTING_BENCH/NO_BLEED_SURFACE_POINTER_ARCHITECTURE_FIT_REPORT_20260530.md
+Role: planned Git save object member
+Lane: No-bleed surface pointer architecture
+Reason: Git durable no-bleed anchor rule/map/ledger/template/suit/receipt
+SizeBytes: 828
+SHA256: 541E80E2D7445DC58C550D3BA38761B78A518D519BB84EF3F8700F6871442A68
+IgnoreWitness: .gitignore:34:*SHED*	HOUSE_WORK/WORK_SHED/SORTING_BENCH/NO_BLEED_SURFACE_POINTER_ARCHITECTURE_FIT_REPORT_20260530.md
+AllowedGitAction: git add -f -- exact file only
+
+Path: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+Role: planned Git save object member
+Lane: No-bleed surface pointer architecture
+Reason: Git durable no-bleed anchor rule/map/ledger/template/suit/receipt
+SizeBytes: 11894
+SHA256: C780E4B18199B21FAB53D05BECFF276E40116ECA3C5A3106374D49BCA3C15D86
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+
+Path: PROOF_HISTORY/NO_BLEED_SURFACE_POINTER_ARCHITECTURE_LOCK_RECEIPT_20260530.txt
+Role: planned Git save object member
+Lane: No-bleed surface pointer architecture
+Reason: Git durable no-bleed anchor rule/map/ledger/template/suit/receipt
+SizeBytes: 1320
+SHA256: F01A4FBD7BF2CF5CB135637F8A0A979A296B483FCB25A48841153071CD369A42
+IgnoreWitness: NOT_IGNORED_BY_CHECK_IGNORE
+AllowedGitAction: git add -f -- exact file only
+

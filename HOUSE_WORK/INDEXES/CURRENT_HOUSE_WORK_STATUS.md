@@ -257,3 +257,14 @@ Method Focal Core + Side Piles.
 
 Boundary:
 ledger/unload/status/suit card/TODO/receipt only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no helper run; no script implementation
+
+## 2026-05-30 — No-bleed surface pointer architecture saved
+
+RunId: 20260530_034741
+Status: GIT_POINTER_RULE / ASSISTANT_LOCAL_LOAD_FILES / NO_USER_LOCAL_BLEED
+
+Core rule:
+Same concepts, separate surfaces. Git is durable anchor. AssistantLocal is assistant load map. UserLocal is user operation. Chat is minimal live pointer.
+
+Boundary:
+Git support rule/map/template/suit/status/receipt plus AssistantLocal chat-load files/receipt only; no user-local operational file writes outside Git repo; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no helper run; no implementation bridge
