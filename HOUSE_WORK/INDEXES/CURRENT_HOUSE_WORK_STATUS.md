@@ -249,3 +249,28 @@ Run the Intake Gate key/hash join audit.
 Boundary:
 No target living-object repair, no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX, no broad refactor, no delete, no move, no automation.
 <!-- REPAIR_WAVE_MATURITY_INTAKE_GATE_KEY_HASH_GUARD_END -->
+
+## Coding Room proof chain save - 20260531_060900
+
+Status: SAVE ROOM APPROVED LOCK/SAVE DRAFT; lock/save script executed with exact-file staging.
+
+Saved objects:
+- BRAIN_LEARNING/KNOW_DONT_THINK_LOWER_LAYER_DIAGNOSIS_RULE_20260531.md
+- HOUSE_WORK/WORK_SHED/SORTING_BENCH/CODING_ROOM_PROOF_CHAIN_SAVE_PACKET_20260531.md
+- HOUSE_WORK/CHAT_COCKPIT/CODING_ROOM_PROOF_CHAIN_AND_LOWER_LAYER_SUIT_CARD_20260531.md
+- PROOF_HISTORY/CODING_ROOM_PROOF_CHAIN_SAVE_MANIFEST_20260531_20260531_060900.csv
+- PROOF_HISTORY/CODING_ROOM_PROOF_CHAIN_SAVE_RECEIPT_20260531_20260531_060900.txt
+
+Proof:
+- Save-Candidate Packet V1.2: 12/12 proof rows, MissingRequiredProofRows=0.
+- Save Room Decision Packet V1: PassedChecks=10, FailedChecks=0.
+- Rule captured: lower-layer diagnosis must be proved, not guessed.
+- Lock/save script V1.2 repaired the V1 Code Gate parser/probe cleanup blockers plus the V1.1 Git output char-index failure.
+
+Boundary:
+- No raw READ_REPORTS ingestion.
+- No doctrine.
+- No ACTIVE_GUIDES.
+- No CURRENT_TRUTH_INDEX.
+- No automation/watcher.
+- No move/removal.
