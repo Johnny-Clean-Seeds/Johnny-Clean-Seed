@@ -294,3 +294,18 @@ Saved objects:
 - PROOF_HISTORY/HELPER_SHAPE_SELFTEST_BENCH_LIVE_USE_RECEIPT_20260531_20260531_061757.txt
 
 Boundary: support candidate only; no doctrine; no ACTIVE_GUIDES; no CURRENT_TRUTH_INDEX; no automation; no watcher; no move/removal/reset/stash/checkout.
+## 2026-05-31 — Generated Helper Shape Contract Gate rule locked
+
+Status: SUPPORT RULE SAVED / NEXT OBJECT NAMED / NOT DOCTRINE
+
+Saved the generated-helper shape contract rule and fit packet after repeated lower-layer helper failures:
+target missing, empty collection binder rejection, inline-if runtime shape failure, output identity drift, invalid mixed Sort-Object shape, and empty proof/content string rejection.
+
+Next object:
+READ_GENERATED_HELPER_SHAPE_CONTRACT_GATE_V1_LOCAL_ONLY
+
+First target:
+READ_CODING_ROOM_LOCK_SAVE_WRITER_RECEIPT_PAIRING_WAVE_01_V1_1_UNIQUE_20260531_1215.ps1
+
+Boundary:
+No doctrine. No ACTIVE_GUIDES. No CURRENT_TRUTH_INDEX. No implementation. No watcher. No automation.
