@@ -1,0 +1,64 @@
+Claim + Capability Live Replay receipt
+Date: 2026-05-31
+Workspace: C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz
+
+Request
+- User said: nxt.
+- Interpreted by house rule as continuing only the current approved sequence.
+
+Current approved sequence
+- Bridge harness first.
+- Then small live replay pack.
+- Then candidate save packet.
+
+Work completed
+- Created the two-row Claim + Capability Live Replay Pack.
+- Added a compact live replay runner.
+- Updated the bridge route index to point from live replay to candidate save packet.
+- Updated the bridge next-work card so the next bite is candidate save packet, not repeated replay.
+- Added the candidate save packet next-work card.
+
+Local helper files used
+- BRAIN_LEARNING/SPLIT_PROOF_SAVE_FLOW_RULE_20260518.md
+- BRAIN_LEARNING/SELF_VERIFYING_SAVE_SCRIPT_RULE_20260527.md
+- BRAIN_LEARNING/SAVE_SCRIPT_MANIFEST_RECEIPT_ORDER_GUARD_20260530.md
+- BRAIN_LEARNING/SAVE_SCRIPT_GIT_WRAPPER_ARGUMENT_LIST_RULE_20260529.md
+- BRAIN_LEARNING/STAGED_SET_ACTUAL_CHANGED_FILES_GUARD_20260530.md
+- BRAIN_LEARNING/GIT_SAVE_PUSH_DEFAULT_RULE_20260522.md
+- BRAIN_LEARNING/SAVE_LOCATION_DEFAULT_LOCAL_AND_URL_RULE_20260522.md
+- Existing COMMAND_CENTER/SCRIPTS/SAVE_SCRIPTS examples were checked for shape, but not run because they are target-specific and include stale repo/path assumptions.
+
+Bridge harness rerun
+- Runner: HOUSE_WORK/WORK_SHED/GEAR_RACK/RUN_CLAIM_CAPABILITY_BRIDGE_HARNESS_V1_20260531.ps1
+- Run id: 20260531_035235
+- Final verdict: PASS
+- Fixture count: 20
+- Fixture failures: 0
+- Coverage failures: 0
+- Report: C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\CLAIM_CAPABILITY_BRIDGE_HARNESS_REPORT_20260531_035235.md
+
+Live replay run
+- Runner: HOUSE_WORK/WORK_SHED/GEAR_RACK/RUN_CLAIM_CAPABILITY_LIVE_REPLAY_V1_20260531.ps1
+- Run id: 20260531_035242
+- Final verdict: PASS
+- Replay count: 2
+- Replay failures: 0
+- Report: C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\CLAIM_CAPABILITY_LIVE_REPLAY_REPORT_20260531_035242.md
+
+Replay decisions
+- LRP-001: nxt -> CONTINUE_APPROVED_SEQUENCE_ONLY / NO_HELPER_DISPATCH
+- LRP-002: helper recommends promotion -> PARK_FOR_FINAL_JUDGE / BLOCKED
+
+Lower save-layer issue
+- New live replay files under HOUSE_WORK/WORK_SHED are hidden by .gitignore:34 = *SHED*.
+- Updated bridge route files can also match .gitignore:37 = *BRIDGE*.
+- Fix: keep ignored-path manifest and exact-path force-add only the intended files.
+
+Boundary
+- Candidate support only.
+- No adoption.
+- No ACTIVE_GUIDES.
+- No CURRENT_TRUTH_INDEX.
+- No rule install.
+- No stale-route retirement.
+- Pre-existing dirty files remain untouched.

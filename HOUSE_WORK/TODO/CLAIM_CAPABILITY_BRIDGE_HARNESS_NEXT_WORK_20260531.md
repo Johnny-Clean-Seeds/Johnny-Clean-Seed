@@ -1,7 +1,7 @@
 # Claim + Capability Bridge Harness Next Work
 
 Date: 2026-05-31
-Status: TODO / STARTED / NOT DOCTRINE
+Status: SECOND LIVE REPLAY COMPLETE / NOT DOCTRINE
 WorkKey: CLAIM-CAPABILITY-BRIDGE-HARNESS-20260531-V1
 
 ## Done in first bite
@@ -11,12 +11,19 @@ WorkKey: CLAIM-CAPABILITY-BRIDGE-HARNESS-20260531-V1
 - First bridge harness pack created.
 - Compact runner helper created.
 
+## Done in second bite
+
+- Bridge harness helper rerun path stayed clean.
+- Two-row live replay pack created.
+- Low-risk `nxt` replay passed as bounded continuation only.
+- High-risk helper-promotion replay blocked at Final Judge.
+
 ## Next checks
 
-- Run the bridge harness helper.
-- If helper fails, freeze upper harness judgment and fix the lower helper layer first.
-- If helper passes, use the report as harness proof, not doctrine proof.
-- Add a second live replay only after the first fixture pack is clean.
+- Build the candidate save packet.
+- Include Claim Engine V2.2 source pointer, Helper Capability System V2.3 source pointer, bridge harness pack, live replay pack, coverage matrix, reports, and receipts.
+- Keep boundary as candidate support only.
+- Do not adopt, install, retire routes, or update truth state from this packet.
 
 ## Boundary
 
