@@ -24,6 +24,16 @@ Git is for locked/public proof when selected. COMMAND_CENTER is for live working
 4. ROOM_INDEX.md
 5. relevant ROOM_CARD.md or POINTER_CARD.md
 
+Helper doorway:
+
+When the active task involves helpers, child shell, mule packets, local code workbench, or burden reduction, also read:
+
+```text
+HELPER_FRONT_DOOR_CURRENT_20260530.md
+```
+
+This names the active command-center root, stale old-path warning, helper operating order, and proof-return latch.
+
 ## Boundary
 
 This is a local 123 setup only. It does not write to Mr.Kleen. It does not run git. It does not install doctrine. It does not expand bridge permissions. It does not create junctions or symlinks.

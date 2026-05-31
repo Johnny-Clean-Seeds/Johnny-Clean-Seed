@@ -20,6 +20,7 @@ It helps answer:
 - what object was worked?
 - what files were created or changed?
 - what proof was produced?
+- what proof object was loaded before any state claim?
 - what boundary held?
 - what failed, if anything?
 - what is the next route?
@@ -91,6 +92,8 @@ EndState:
 Message:
 Repo:
 RunId:
+ProofObject:
+ProofObjectLoaded:
 Report:
 Receipt:
 StatusUpdate:
@@ -132,6 +135,8 @@ Unexpected:
 | Message | gives short human summary |
 | Repo | confirms repo root |
 | RunId | identifies run instance |
+| ProofObject | names the proof-bearing object for any state claim |
+| ProofObjectLoaded | says whether that object was actually loaded/read before judgment |
 | Report | gives saved/read report path |
 | Receipt | gives proof receipt path |
 | StatusUpdate | gives current-status file path |
@@ -171,6 +176,17 @@ Accept with watch when:
 - line-ending warnings appear but final status is clean;
 - target output is complete enough to judge.
 
+### MISSING BONE
+
+Use this verdict when:
+
+- output claims current local/mule/helper state;
+- the needed proof object is absent, unnamed, or not loaded;
+- a helper says RUN PASS but cannot prove JOB PASS or HOUSE PASS;
+- a report path is named but not readable from the current carry.
+
+MISSING BONE is not failure theater. It is the clean stop that prevents map-feel from becoming state truth.
+
 ### FAIL / FIX ROUTE
 
 Send fix route when:
@@ -184,6 +200,44 @@ Send fix route when:
 - final status is dirty;
 - HEAD does not match origin/main after push;
 - output lacks enough fields to judge.
+- proof object is missing and the task requires a state claim.
+
+---
+
+## 6A. Helper Verdict Split
+
+Do not collapse all helper success into one PASS.
+
+```text
+RUN PASS
+Helper executed.
+
+OUTPUT PASS
+Expected output file/report was produced.
+
+JOB PASS
+Output satisfies the intended job.
+
+HOUSE PASS
+Result fits authority, custody, proof, boundary, and next state.
+
+PASS WITH WATCH
+Works with named warnings.
+
+NOT PASS
+One of the required proof/job/house checks failed.
+
+MISSING BONE
+Helper output claims state, but proof object is absent.
+```
+
+Rule:
+
+```text
+No BONE / no state claim.
+Code Gate PASS is not job PASS.
+RUN PASS is not HOUSE PASS.
+```
 
 ---
 
@@ -203,6 +257,8 @@ FilesMatched:
 Skipped:
 Warnings:
 Blockers:
+ProofObject:
+ProofObjectLoaded:
 Report:
 ReportSHA256:
 Verdict:
@@ -236,6 +292,8 @@ Output:
 OutputSHA256:
 Warnings:
 Blockers:
+ProofObject:
+ProofObjectLoaded:
 Verdict:
 Boundary:
 NextRoute:

@@ -1,12 +1,12 @@
 # Claim + Capability Bridge Harness Route Index
 
 Date: 2026-05-31
-Status: ROUTE INDEX / SECOND LIVE REPLAY COMPLETE / NOT DOCTRINE
+Status: ROUTE INDEX / CANDIDATE SAVE PACKET BUILT / NOT DOCTRINE
 WorkKey: CLAIM-CAPABILITY-BRIDGE-HARNESS-20260531-V1
 
 ## Route
 
-Custody plan source -> Claim candidate -> Capability source -> Bridge harness pack -> Runner helper -> Read report -> Receipt -> Live replay pack -> Candidate save packet.
+Custody plan source -> Claim candidate pointer -> Capability source pointer -> Bridge harness pack -> Runner helper -> Read report -> Receipt -> Live replay pack -> Candidate save packet -> Front Door wiring design.
 
 ## Active surfaces
 
@@ -17,9 +17,11 @@ Custody plan source -> Claim candidate -> Capability source -> Bridge harness pa
 - Runner: `HOUSE_WORK/WORK_SHED/GEAR_RACK/RUN_CLAIM_CAPABILITY_BRIDGE_HARNESS_V1_20260531.ps1`
 - Live replay pack: `HOUSE_WORK/WORK_SHED/SORTING_BENCH/CLAIM_CAPABILITY_LIVE_REPLAY_PACK_20260531/`
 - Live replay runner: `HOUSE_WORK/WORK_SHED/GEAR_RACK/RUN_CLAIM_CAPABILITY_LIVE_REPLAY_V1_20260531.ps1`
+- Candidate save packet: `HOUSE_WORK/WORK_SHED/SORTING_BENCH/CLAIM_CAPABILITY_CANDIDATE_SAVE_PACKET_20260531/`
+- Candidate save packet runner: `HOUSE_WORK/WORK_SHED/GEAR_RACK/RUN_CLAIM_CAPABILITY_CANDIDATE_SAVE_PACKET_V1_20260531.ps1`
 - Proof receipt: `PROOF_HISTORY/CLAIM_CAPABILITY_BRIDGE_HARNESS_RECEIPT_20260531.txt`
 - Ignored path manifest: `PROOF_HISTORY/CLAIM_CAPABILITY_BRIDGE_HARNESS_IGNORED_PATH_MANIFEST_20260531.txt`
 
 ## Boundary
 
-Candidate support only. The route proves the first harness pass and the first two-row live replay; it does not adopt the Claim Engine or Capability Engine.
+Candidate support only. The route proves the first harness pass, the first two-row live replay, and the source-safe candidate save packet; it does not adopt the Claim Engine or Capability Engine.

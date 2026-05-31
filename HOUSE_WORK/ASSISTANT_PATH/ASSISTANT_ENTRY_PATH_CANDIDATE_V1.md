@@ -67,6 +67,26 @@ Stale trigger:
 This file becomes stale when the current lane changes, a save route changes Git/head status, a parked branch resumes, helper-registry counts change, or Code Gate/local helper status changes.
 ```
 
+Current-state claim latch:
+
+```text
+Before claiming current local/mule/helper state, identify the current proof object.
+
+If proof object is loaded:
+use it.
+
+If proof object is not loaded:
+say ORIENTATION ONLY or MISSING PROOF FINDING.
+
+If user supplied a report but the receipt file is not loaded:
+say USER-REPORTED STATE.
+
+If map and receipt conflict:
+receipt/readback/local proof outranks map for current state.
+
+Never use map-feel as house-state.
+```
+
 ---
 
 ## 2. Main Goal
@@ -220,6 +240,36 @@ Use:
 
 ```text
 judge whether one entry path can answer enough orientation questions to reduce live-chat burden.
+```
+
+### Live object 4
+
+Object:
+
+```text
+CURRENT_PROOF_NEED_LATCH_V0_20260530.md
+```
+
+Status:
+
+```text
+CANDIDATE SUPPORT / NOT DOCTRINE
+```
+
+Use:
+
+```text
+prevent current-state claims from outrunning the current proof object.
+```
+
+Do not assume:
+
+```text
+not a proof index;
+not a helper registry repair;
+not ACTIVE_GUIDES;
+not CURRENT_TRUTH_INDEX;
+not a broad scan command.
 ```
 
 ---
@@ -551,6 +601,18 @@ Purpose:
 front-door task shape, no fake PASS, no broad movement, no save promotion.
 ```
 
+5. Current proof need latch:
+
+```text
+CURRENT_PROOF_NEED_LATCH_V0_20260530.md
+```
+
+Purpose:
+
+```text
+state-claim gate for local/mule/helper currentness: no bone, no state claim.
+```
+
 Do not read the whole house unless this entry path fails.
 
 ---
@@ -596,16 +658,23 @@ Using only this file, answer:
 8. What is the next clean move?
 9. What proof would close that move?
 10. What does PASS mean here?
+11. What proof object is needed before a current-state claim?
+12. Is that proof object loaded/read here?
+13. If it is absent, does the reader stop?
+14. Can the reader label ORIENTATION ONLY instead of STATE?
+15. Can the reader name missing proof as a finding?
 ```
 
 Pass standard:
 
 ```text
-8/10 answers cleanly from this file
+8/10 orientation answers cleanly from this file
+4/5 fresh-proof answers cleanly from this file
 no broad scan needed
 no old chat needed
 no helper code needed
 no doctrine claim
+no current-state claim without loaded proof
 ```
 
 Fail standard:
@@ -617,6 +686,8 @@ reader cannot find current lane;
 reader cannot name the next move;
 reader cannot tell parked from live;
 reader needs broad scan to orient.
+reader answers current state from map-feel;
+reader treats missing proof as a small caveat instead of a finding.
 ```
 
 If fail:
@@ -635,6 +706,12 @@ If pass:
 
 ```text
 decide the next smallest path object from the missing-answer pressure.
+```
+
+If fresh-proof fails:
+
+```text
+repair the current-state claim latch before helper-registry expansion, proof-index work, or broader path growth.
 ```
 
 ---
@@ -703,6 +780,48 @@ PROOF:
 
 ```text
 Evidence that the object did the job it claimed, under the right boundary.
+```
+
+BONE:
+
+```text
+A proof-bearing object: receipt, readback, commit/status block, helper report, mule return note, source extraction note, hash manifest, or screenshot.
+```
+
+CURRENT PROOF OBJECT:
+
+```text
+The receipt/readback/report/status block that must be loaded before a current-state claim.
+```
+
+STATE CLAIM:
+
+```text
+A statement about what is true now in local, mule, helper, repo, custody, or house state.
+```
+
+MAP-FEEL:
+
+```text
+Orientation-level inference from maps, ledgers, suits, filenames, source cards, or old chat. Useful, but not state proof.
+```
+
+ORIENTATION ONLY:
+
+```text
+A route or structure read based on support surfaces, without current proof loaded.
+```
+
+MISSING PROOF FINDING:
+
+```text
+The valid result when the needed proof object is absent from current carry or cannot be named.
+```
+
+NO BONE / NO STATE CLAIM:
+
+```text
+Hard latch preventing current-state claims without loaded proof.
 ```
 
 PASS:
@@ -864,7 +983,9 @@ This candidate closes only when one of these happens:
 
 ```text
 PASS: Fresh-Reader Orientation Test answers at least 8/10 cleanly from this file.
+FRESH-PROOF PASS: Fresh-proof extension stops state claims without loaded proof.
 REPAIR: Test exposes missing current-lane, proof, or next-action clarity.
+FRESH-PROOF REPAIR: Test exposes map-feel being treated as current truth.
 SPLIT: Test proves vocabulary confusion requires CONTROLLED_VOCABULARY_V1.md.
 PARK: User stops path work with return trigger.
 BLOCK: File adds burden or causes false authority.
@@ -873,6 +994,6 @@ BLOCK: File adds burden or causes false authority.
 Current close status:
 
 ```text
-PENDING FRESH-READER ORIENTATION TEST
+PASS WITH WATCH / NEEDS FRESH-PROOF EXTENSION TEST
 ```
 
