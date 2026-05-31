@@ -21,6 +21,7 @@ The local current plan says the next real work is harness building, then the bri
 | Shape contract gate lesson | Saved as support rule | `BRAIN_LEARNING/GENERATED_HELPER_SHAPE_CONTRACT_GATE_RULE_20260531.md` |
 | Proof surface class lesson | Saved as active learning rule | `BRAIN_LEARNING/HELPER_PROOF_SURFACE_CLASS_BEFORE_PAIR_STRENGTH_RULE_20260531.md` |
 | Lower-layer diagnosis lesson | Saved as operating support rule | `BRAIN_LEARNING/KNOW_DONT_THINK_LOWER_LAYER_DIAGNOSIS_RULE_20260531.md` |
+| Assistant context carrier need-to-know support | Support room and local-only generator created | `HOUSE_WORK/SYSTEM_ALIGNMENT_ROOM/ASSISTANT_CONTEXT_CARRIER_20260531/README.md` |
 
 ## Next Bite
 
@@ -67,5 +68,6 @@ Load:
 3. `HOUSE_WORK/WORK_SHED/INDEXES/RECURSIVE_HOUSE_FLOW_SPINE_V1_20260530.md`
 4. `HOUSE_WORK/WORK_SHED/INDEXES/CLAIM_CAPABILITY_BRIDGE_HARNESS_ROUTE_INDEX_20260531.md`
 5. this board
+6. `HOUSE_WORK/SYSTEM_ALIGNMENT_ROOM/ASSISTANT_CONTEXT_CARRIER_20260531/README.md` when outside/chat helper context is active
 
 Then work only the next bite.

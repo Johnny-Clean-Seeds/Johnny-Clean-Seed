@@ -1,0 +1,24 @@
+RequiredField,ExistingSource,CurrentQuality,MissingPiece,RiskIfMissing,ProposedFix,TrackedOrLocal
+GeneratedAt,Carrier generator,GOOD,None,Stale carrier use,Generate every run,Local
+Freshness,Carrier generator,GOOD,None,Old status used as current,Mark CURRENT/STALE/NEEDS_VERIFY,Local
+ActualSourceRoot,START_HERE and generator,GOOD,None,Wrong root work,Record absolute root and source map,Local
+RepoRoot,Git probe,GOOD,None,Wrong repo surface,Record exact repo root,Local
+Head,Git probe,GOOD,None,Old commit assumed,Record HEAD at generation,Local
+OriginMain,Git probe,GOOD,None,Assume pushed state,Record origin/main at generation,Local
+HeadEqualsOrigin,Git probe,GOOD,None,False sync claim,Compare exact hashes,Local
+TrackedStatus,Git status,GOOD,None,Dirty state missed,Record status count and sample,Local
+IgnoredImportantWatch,Git ignored status,PARTIAL,Needs bounded count/pointer,Ignored files treated irrelevant,Record count and pointer only,Local
+RootLooseState,Root file walk,GOOD,None,Root files forgotten,Record count and manifest pointer,Local
+CurrentAnchor,ACTIVE_ANCHOR.txt,GOOD,Source class needed,Chat memory becomes anchor,Carrier source map row,Local
+CurrentActiveObject,ACTIVE_ANCHOR plus status,PARTIAL,May need selected active file,Wrong object selected,Use anchor plus route pointer,Local
+CurrentNextObject,ACTIVE_ANCHOR plus board,GOOD,None,Wrong next move,Record next object source,Local
+CurrentRoute,Start ledger plus alignment room,GOOD,None,Whole-house load,Carry route pointer only,Local
+LatestClosedObjects,CURRENT_HOUSE_WORK_STATUS,PARTIAL,Needs last few pointers,Old closeout mistaken current,Record last pointers only,Local
+OpenBlockers,Status and TODOs,PARTIAL,Needs active blocker source,Forward motion over blocker,Record named blockers only,Local
+LocalOnlyEvidence,Local custody,PARTIAL,Needs pointer list,Local proof ignored,Carry pointer not content,Local
+SupportSurfacesNotApproval,Anchor legend,GOOD,None,Support becomes approval,Carry support-surface list,Tracked and local
+ApprovalReceipts,PROOF_HISTORY,PARTIAL,Needs route-specific subset,Receipt overgeneralized,Carry exact relevant receipts only,Local
+StaleOrSuperseded,Status/source map,PARTIAL,Needs explicit old-state rows,Stale state guides action,Mark stale rows in source map,Local
+MuleVacationFallback,Runbook,GOOD,None,Chat stops or mutates unsafely,Use fallback runbook,Tracked
+AssistantDoNotAssume,Legend/card,GOOD,None,False equivalences,Carry traps,Tracked
+SourceMap,Generator,GOOD,None,Naked summary,One row per field,Local

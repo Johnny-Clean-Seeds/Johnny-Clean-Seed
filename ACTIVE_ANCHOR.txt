@@ -1,5 +1,5 @@
 ACTIVE_ANCHOR
-Updated: 20260531_151000
-Current: HELPER_LOGIC_RULE_MIRROR_ALIGNMENT_LOCKED
+Updated: 20260531_163200
+Current: ASSISTANT_CONTEXT_CARRIER_NEED_TO_KNOW_SUPPORT_LOCKED
 Next: CLAIM_CAPABILITY_FRONT_DOOR_WIRING
-Boundary: pointer/alignment support only; no broad repair, delete, move, doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, watcher, automation, stale-route retirement, helper-school install, or promotion.
+Boundary: need-to-know carrier support only; no broad repair, delete, doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, watcher, automation, stale-route retirement, helper-school install, or promotion.

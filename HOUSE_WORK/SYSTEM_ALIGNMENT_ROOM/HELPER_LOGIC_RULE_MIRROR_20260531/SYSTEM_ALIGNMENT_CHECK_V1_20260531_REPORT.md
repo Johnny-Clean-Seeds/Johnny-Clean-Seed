@@ -29,6 +29,9 @@ Missing required surfaces: 0
 | Idea Concept Master Index | File | True | past-week concept map | support collection |
 | Theme Cluster Ledger | File | True | theme counts | support collection |
 | Source Room Summary | File | True | local/repo source rooms | support collection |
+| Assistant Context Carrier Room | File | True | outside-helper need-to-know support | not doctrine |
+| Need-To-Know Load Rules | File | True | helper file-scope rule | support only |
+| Assistant Context Carrier Generator | File | True | local-only current carrier generator | read/report only |
 | Local Current Plan | File | True | game plan source | context only |
 | Local Helper Capability Pack Readme | File | True | local helper-file support | candidate support, not tested |
 | Local Helper Capability Coverage Matrix | File | True | coverage ideas | candidate support, not tested |

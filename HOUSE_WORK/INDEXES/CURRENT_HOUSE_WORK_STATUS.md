@@ -221,6 +221,42 @@ Boundary:
 No doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, broad refactor, delete, move, watcher, automation, stale-route retirement, helper-school install, or promotion.
 <!-- HELPER_LOGIC_RULE_MIRROR_20260531_END -->
 
+<!-- ASSISTANT_CONTEXT_CARRIER_20260531_START -->
+## 2026-05-31 — Assistant context carrier / need-to-know support room
+WorkKey: ASSISTANT-CONTEXT-CARRIER-AND-ANCHOR-LEGEND-20260531-V1
+Status: Support room and local-only carrier generator created; not doctrine.
+
+Source packets read:
+- `MULE_PACKET_HELPER_AUTONOMY_ROOT_CLEAR_SHAPE_GATE_JOB_20260531.md`
+- `MULE_WORK_PACKET_ASSISTANT_CONTEXT_CARRIER_AND_VISIBILITY_GAP_20260531.md`
+
+Root packet custody:
+- `C:\Users\13527\Desktop\123\_LOCAL_CUSTODY_AND_RECEIPTS\ROOT_PACKET_READ_APPLY_CLEAR_20260531_163123\ROOT_PACKET_READ_APPLY_CLEAR_RECEIPT_20260531.txt`
+
+Saved:
+- assistant context carrier room;
+- anchor legend;
+- need-to-know load rules;
+- chat assistant file visibility capability card;
+- existing-surface discovery;
+- gap matrix;
+- agent capability comparison;
+- save/park decision;
+- local-only carrier generator.
+
+Generated local carrier proof:
+- `C:\Users\13527\Desktop\123\_LOCAL_CUSTODY_AND_RECEIPTS\ASSISTANT_CONTEXT_CARRIER_RUNS_20260531\RUN_20260531_163206\ASSISTANT_CONTEXT_CARRIER_RECEIPT.txt`
+
+Core rule:
+Helpers get need-to-know state: whole file only when the active task needs full structure; otherwise use pointer, hash, receipt, source map row, or small line window.
+
+Next clean move:
+Build `CLAIM-CAPABILITY-FRONT-DOOR-WIRING-20260531-V1` as candidate support only.
+
+Boundary:
+No doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, broad refactor, delete, watcher, automation, stale-route retirement, helper-school install, or promotion.
+<!-- ASSISTANT_CONTEXT_CARRIER_20260531_END -->
+
 <!-- LIVING_OBJECT_REGISTRY_V2_FIRST_WAVE_REPAIR_PACKET_START -->
 ## 2026-05-30 — Living Object Registry V2 first-wave repair packet
 WorkKey: LIVING-OBJECT-REGISTRY-V2-FIRST-WAVE-REPAIR-PACKET-20260530-V1

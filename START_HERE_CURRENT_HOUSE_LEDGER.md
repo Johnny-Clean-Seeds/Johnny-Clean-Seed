@@ -25,6 +25,14 @@ Then load:
 
 `HOUSE_WORK/SYSTEM_ALIGNMENT_ROOM/HELPER_LOGIC_RULE_MIRROR_20260531/CURRENT_GAME_PLAN_BOARD_20260531.md`
 
+When the active job is outside-helper orientation, chat/file visibility, need-to-know context, or mule-vacation fallback, also load:
+
+`HOUSE_WORK/SYSTEM_ALIGNMENT_ROOM/ASSISTANT_CONTEXT_CARRIER_20260531/README.md`
+
+Then use the latest local-only generated carrier under:
+
+`C:\Users\13527\Desktop\123\_LOCAL_CUSTODY_AND_RECEIPTS\ASSISTANT_CONTEXT_CARRIER_RUNS_20260531\`
+
 Then, only if needed, follow:
 
 `HOUSE_WORK/WORK_SHED/INDEXES/LIVING_SYSTEM_CHAT_LOAD_MANIFEST_V1_4_20260530.md`
