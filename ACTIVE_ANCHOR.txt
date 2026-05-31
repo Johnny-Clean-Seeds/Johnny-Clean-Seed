@@ -1,5 +1,5 @@
 ACTIVE_ANCHOR
-Updated: 20260530_112953
-Current: FULL_HOUSE_WASH_V3_PROGRESS_LOCKED
-Next: LIVING_SYSTEM_LEDGER_BRIDGE_TUNNEL_MAP
-Boundary: link/map/design first; no broad repair, delete, move, doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, watcher, automation, or Whirlpool.
+Updated: 20260531_151000
+Current: HELPER_LOGIC_RULE_MIRROR_ALIGNMENT_LOCKED
+Next: CLAIM_CAPABILITY_FRONT_DOOR_WIRING
+Boundary: pointer/alignment support only; no broad repair, delete, move, doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, watcher, automation, stale-route retirement, helper-school install, or promotion.

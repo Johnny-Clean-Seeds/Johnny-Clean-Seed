@@ -192,6 +192,35 @@ Boundary:
 No doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, broad refactor, delete, move, automation, watcher, Whirlpool.
 <!-- WHOLE_HOUSE_LIVING_OBJECT_REGISTRY_PROTOCOL_V2_END -->
 
+<!-- HELPER_LOGIC_RULE_MIRROR_20260531_START -->
+## 2026-05-31 — Helper logic / rule mirror alignment room
+WorkKey: HELPER-LOGIC-RULE-MIRROR-20260531-V1
+Status: Support alignment room created; not doctrine.
+
+Saved:
+- alignment room README;
+- system alignment and game-plan report;
+- current game-plan board;
+- system mirror matrix;
+- helper-file alignment ledger;
+- verifier helper and verification receipt.
+
+Core join:
+Front Door -> Claim split -> Capability legality -> Helper/task boundary -> Return contract -> Receiver assay -> Disposition.
+
+Verification:
+- required alignment surfaces present: 19 / 19;
+- missing required surfaces: 0;
+- concept theme rows loaded: 15;
+- desktop root file count: 1 (`desktop.ini`).
+
+Next clean move:
+Build `CLAIM-CAPABILITY-FRONT-DOOR-WIRING-20260531-V1` as candidate support only.
+
+Boundary:
+No doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, broad refactor, delete, move, watcher, automation, stale-route retirement, helper-school install, or promotion.
+<!-- HELPER_LOGIC_RULE_MIRROR_20260531_END -->
+
 <!-- LIVING_OBJECT_REGISTRY_V2_FIRST_WAVE_REPAIR_PACKET_START -->
 ## 2026-05-30 — Living Object Registry V2 first-wave repair packet
 WorkKey: LIVING-OBJECT-REGISTRY-V2-FIRST-WAVE-REPAIR-PACKET-20260530-V1
