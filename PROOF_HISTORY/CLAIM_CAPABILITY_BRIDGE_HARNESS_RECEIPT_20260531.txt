@@ -1,0 +1,64 @@
+Claim + Capability Bridge Harness receipt
+Date: 2026-05-31
+Workspace: C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz
+
+Request
+- Find and start the game plan.
+- Use the helper rooms/tools where useful.
+- Fix lower-worker issues instead of covering the surface.
+- Do not leave loose files in C:\Users\13527\Desktop\123 root.
+
+Game plan found
+- Source: C:\Users\13527\Desktop\123\_LOCAL_CUSTODY_AND_RECEIPTS\ROOT_LOOSE_DOCS_20260531_033722\CURRENT_PLAN.txt
+- Current plan says the next real work is the Claim + Capability Harness Pack.
+- First bounded move: build and prove the Claim + Capability Bridge Harness.
+
+Root cleanout
+- Moved 26 ordinary loose root files out of C:\Users\13527\Desktop\123.
+- Custody destination: C:\Users\13527\Desktop\123\_LOCAL_CUSTODY_AND_RECEIPTS\ROOT_LOOSE_DOCS_20260531_033722
+- Receipt: C:\Users\13527\Desktop\123\_MISC_DRAWER\ROOT_CLEANOUT_CUSTODY\ROOT_LOOSE_FILE_CLEANOUT_20260531_033722\ROOT_LOOSE_FILE_CLEANOUT_RECEIPT_20260531_033722.md
+- Manifest: C:\Users\13527\Desktop\123\_MISC_DRAWER\ROOT_CLEANOUT_CUSTODY\ROOT_LOOSE_FILE_CLEANOUT_20260531_033722\ROOT_LOOSE_FILE_CLEANOUT_MANIFEST_20260531_033722.csv
+- Result: ROOT_LOOSE_FILE_CLEANOUT_COMPLETE
+- Root files after cleanup: desktop.ini only
+- Hash check: all moved-file hashes matched
+
+Harness built
+- Candidate: BRAIN_LEARNING/CLAIM_CAPABILITY_BRIDGE_HARNESS_CANDIDATE_20260531.md
+- Suit card: HOUSE_WORK/CHAT_COCKPIT/CLAIM_CAPABILITY_BRIDGE_HARNESS_SUIT_CARD_V1_20260531.md
+- Next work card: HOUSE_WORK/TODO/CLAIM_CAPABILITY_BRIDGE_HARNESS_NEXT_WORK_20260531.md
+- Route index: HOUSE_WORK/WORK_SHED/INDEXES/CLAIM_CAPABILITY_BRIDGE_HARNESS_ROUTE_INDEX_20260531.md
+- Harness spec: HOUSE_WORK/WORK_SHED/SORTING_BENCH/CLAIM_CAPABILITY_BRIDGE_HARNESS_PACK_20260531/CLAIM_CAPABILITY_BRIDGE_HARNESS_V1_20260531.md
+- Fixtures: HOUSE_WORK/WORK_SHED/SORTING_BENCH/CLAIM_CAPABILITY_BRIDGE_HARNESS_PACK_20260531/CLAIM_CAPABILITY_FIXTURES_V1_20260531.csv
+- Coverage matrix: HOUSE_WORK/WORK_SHED/SORTING_BENCH/CLAIM_CAPABILITY_BRIDGE_HARNESS_PACK_20260531/CLAIM_CAPABILITY_COVERAGE_MATRIX_V1_20260531.csv
+- Runner: HOUSE_WORK/WORK_SHED/GEAR_RACK/RUN_CLAIM_CAPABILITY_BRIDGE_HARNESS_V1_20260531.ps1
+
+Harness run
+- Parser check: PARSE_OK
+- Fixture count: 20
+- Coverage row count: 21
+- Run id: 20260531_034036
+- End state: CLEAN_CLOSE
+- Final verdict: PASS
+- Fixture failures: 0
+- Coverage failures: 0
+- Report: C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\CLAIM_CAPABILITY_BRIDGE_HARNESS_REPORT_20260531_034036.md
+- Results CSV: C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\CLAIM_CAPABILITY_BRIDGE_HARNESS_RESULTS_20260531_034036.csv
+- Coverage CSV: C:\Users\13527\Desktop\123\_MISC_DRAWER\READ_REPORTS\CLAIM_CAPABILITY_BRIDGE_HARNESS_COVERAGE_20260531_034036.csv
+
+Lower save-layer issue fixed
+- Normal git status hid the new harness files.
+- Cause: broad .gitignore rules:
+  - .gitignore:34 = *SHED*
+  - .gitignore:37 = *BRIDGE*
+- Fix: record an ignored-path manifest and force-add only the exact intended paths.
+- Do not use a broad add. Unrelated ignored local-only files remain outside the commit.
+
+Helper audit
+- Sidecar helper: Laplace
+- Scope: read-only verification of root cleanliness, ignored-path cause, harness pass report, and staging risk.
+- Result: confirmed root contains only desktop.ini, harness files are ignored by *BRIDGE* and *SHED*, report is PASS with 20 fixture passes and 0 failures, and nothing was staged before the final exact-path add.
+
+Boundary
+- Pre-existing dirty files were preserved untouched.
+- Local-only token/key/mail/mule ignored paths were not added.
+- This receipt records the first clean start of the Claim + Capability Bridge Harness, not completion of the entire game plan.

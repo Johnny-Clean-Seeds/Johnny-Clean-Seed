@@ -1,0 +1,22 @@
+Organ,CoveredBy,ExpectedMinimum
+claim force,CLM-001;CLM-003;CLM-010,1
+surface,CLM-001;CLM-008,1
+inference,CLM-006,1
+proof scope,CLM-002;CLM-004;CLM-007;CLM-008,1
+authority,CLM-005;CLM-010;CAP-006;CAP-008,1
+capability,CLM-004;BRG-001;BRG-002,1
+sink,CAP-005;CLM-007,1
+truth state,CLM-002;CLM-006;CLM-008;CAP-005,1
+lifecycle,CLM-001;CLM-009;CAP-003,1
+commitment,CLM-009;CLM-010,1
+defeater,CLM-009;CAP-007,1
+registry,CAP-001;CAP-006,1
+boundary,CAP-001;CAP-002;CAP-004;CAP-007,1
+grant chain,CAP-001;CAP-002,1
+token,CAP-002;CAP-003,1
+caveat,CAP-003;CAP-007,1
+monitor,CAP-003,1
+PDP/PEP,CAP-004,1
+admission,CAP-004;CAP-007,1
+receiver assay,CLM-003;CAP-005;BRG-001;BRG-002,1
+Final Judge,CLM-005;CLM-010;CAP-008,1
