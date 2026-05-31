@@ -14,8 +14,9 @@ Give a worker one clean current entry route before they enter the house.
 2. Check ACTIVE_ANCHOR.txt.
 3. Check HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md as support only.
 4. Read HOUSE_WORK/WORK_SHED/INDEXES/LIVING_SYSTEM_CHAT_LOAD_MANIFEST_V1_4_20260530.md.
-5. Use the selected hub toolbelt.
-6. Follow only needed tunnels.
+5. If the active job is recursive agreement, pathfinding, key/hash, intake, helper routing, or repair-wave review, read HOUSE_WORK/WORK_SHED/INDEXES/RECURSIVE_HOUSE_FLOW_SPINE_V1_20260530.md.
+6. Use the selected hub toolbelt.
+7. Follow only needed tunnels.
 
 ## Current bridge/tunnel pilot files
 
@@ -23,6 +24,7 @@ Give a worker one clean current entry route before they enter the house.
 - HOUSE_WORK/WORK_SHED/INDEXES/LIVING_SYSTEM_BRIDGE_TUNNEL_REGISTRY_V1_4_20260530.md
 - HOUSE_WORK/WORK_SHED/INDEXES/LIVING_SYSTEM_HUB_TOOLBELT_REGISTRY_V1_4_20260530.md
 - HOUSE_WORK/WORK_SHED/INDEXES/LIVING_SYSTEM_CHAT_LOAD_MANIFEST_V1_4_20260530.md
+- HOUSE_WORK/WORK_SHED/INDEXES/RECURSIVE_HOUSE_FLOW_SPINE_V1_20260530.md
 - HOUSE_WORK/WORK_SHED/INDEXES/LIVING_SYSTEM_SAME_PROCESS_CHECKPOINT_LEDGER_V1_4_20260530.md
 - HOUSE_WORK/WORK_SHED/INDEXES/LIVING_SYSTEM_DRIFT_REVIEW_LAST_SIX_COPIES_V1_4_20260530.md
 
@@ -38,6 +40,7 @@ Tools:
 - blocked-lane check
 - direct living ledger pointer
 - chat-load manifest pointer
+- recursive spine pointer
 - proof pointer
 - next-object selector
 - smoke-break reset before next wave

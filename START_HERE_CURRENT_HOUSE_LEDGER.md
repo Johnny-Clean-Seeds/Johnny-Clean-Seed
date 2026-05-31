@@ -13,6 +13,10 @@ Then load:
 
 `HOUSE_WORK/WORK_SHED/INDEXES/LIVING_SYSTEM_CHAT_SOURCE_URL_LEDGER_MAP_KEY_V1_5_20260530.md`
 
+When the active job is recursive agreement, pathfinding, key/hash routing, Intake Gate routing, helper packet routing, or repair-wave review, also load:
+
+`HOUSE_WORK/WORK_SHED/INDEXES/RECURSIVE_HOUSE_FLOW_SPINE_V1_20260530.md`
+
 Then, only if needed, follow:
 
 `HOUSE_WORK/WORK_SHED/INDEXES/LIVING_SYSTEM_CHAT_LOAD_MANIFEST_V1_4_20260530.md`
@@ -25,6 +29,7 @@ Chat should carry only:
 2. LEDGER
 3. MAP
 4. KEY
+5. SPINE, only when recursive/pathing agreement is active
 
 Proof/history/source furniture stays in house/proof history unless a proof question needs it.
 

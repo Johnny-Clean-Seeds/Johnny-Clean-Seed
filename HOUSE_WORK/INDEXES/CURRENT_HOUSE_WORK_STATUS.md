@@ -1,10 +1,12 @@
 # Current House Work Status
 
-Updated: 20260530_112953
-Current clean head: 8aff6c523bd690faa649a6ce4b16fecd1e7229a0
+Updated: 20260530_214028
+Current clean head before recursive spine pass: b87d99b5e31d0c2f3bfa96627171afe739470031
 
 Latest locked progress:
-- Full House Wash V3 single-command supervisor progress and ledger bridge/tunnel next plan saved.
+- Path-class review + confirmed 50-ticket repair wave closed and re-audited.
+- House oddity walk source-load candidate saved.
+- Recursive house flow spine being installed as support pointer so pathfinding, key/hash, Intake Gate, helper routing, repair waves, and branch join-back share one loop without broad rewrite.
 
 Current full wash source:
 - FULL_HOUSE_GATE_WASH_SINGLE_COMMAND_SUPERVISOR_V3 / latest run 20260530_105416.
@@ -13,7 +15,7 @@ Current full wash source:
 - One selected cause family: SECURITY_CREDENTIAL_SURFACE / 567 review rows / 0 block.
 
 Next allowed object:
-- LIVING_SYSTEM_LEDGER_BRIDGE_TUNNEL_MAP focused design and first bridge inventory.
+- Use RECURSIVE_HOUSE_FLOW_SPINE_V1 on one bounded object: root top-level package classification, 20-source project chat load packet, or next parked-row review packet.
 
 Blocked lanes:
 - broad repair
@@ -25,6 +27,12 @@ Blocked lanes:
 - doctrine
 - ACTIVE_GUIDES
 - CURRENT_TRUTH_INDEX
+
+Root cleanup completed in this pass:
+- Rainbow Text Forge paired scripts routed to `C:\Users\13527\Desktop\123\_TOOLS_AND_SCRIPTS\RAINBOW_TEXT_FORGE_V1_20260530`
+- Receipt: `C:\Users\13527\Desktop\123\_MISC_DRAWER\ROOT_CLEANOUT_CUSTODY\RAINBOW_TEXT_FORGE_ROOT_CLASSIFICATION_20260530_214028\RAINBOW_TEXT_FORGE_ROOT_CLASSIFICATION_RECEIPT_20260530_214028.md`
+
+Disposition: tool package moved as a pair; no run, no install, no deletion, no Chat Drop edit.
 ---
 
 ## Living System Front Door / Bridge-Tunnel V1.4 Save

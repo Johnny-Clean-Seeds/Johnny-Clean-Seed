@@ -20,6 +20,7 @@ WorkKey: LIVING-SYSTEM-FRONT-DOOR-BRIDGE-TUNNEL-20260530-V1-4
 - HOUSE_WORK/WORK_SHED/INDEXES/LIVING_SYSTEM_HUB_TOOLBELT_REGISTRY_V1_4_20260530.md
 - HOUSE_WORK/WORK_SHED/INDEXES/LIVING_SYSTEM_SAME_PROCESS_CHECKPOINT_LEDGER_V1_4_20260530.md
 - HOUSE_WORK/WORK_SHED/INDEXES/LIVING_SYSTEM_DRIFT_REVIEW_LAST_SIX_COPIES_V1_4_20260530.md
+- HOUSE_WORK/WORK_SHED/INDEXES/RECURSIVE_HOUSE_FLOW_SPINE_V1_20260530.md when recursive agreement, pathfinding, key/hash, intake, helper routing, or repair-wave review is active
 
 ## Proof only
 
@@ -39,7 +40,7 @@ WorkKey: LIVING-SYSTEM-FRONT-DOOR-BRIDGE-TUNNEL-20260530-V1-4
 
 ## Carry line
 
-Use V1.4. Load the front-door ledger, then the chat-load manifest, then only the needed tunnel/toolbelt.
+Use V1.4. Load the front-door ledger, then the chat-load manifest, then only the needed tunnel/toolbelt. If the active job is recursive/pathing agreement, carry the recursive spine pointer instead of live-carrying every support card.
 
 ## Boundary
 

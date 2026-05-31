@@ -8,7 +8,7 @@ WorkKey: README-FRONT-DOOR-CHAT-SOURCE-20260530-V1-5
 
 Reduce assistant chat load to one clean source set:
 
-URL -> LEDGER -> MAP -> KEY -> only needed tunnel.
+URL -> LEDGER -> MAP -> KEY -> SPINE WHEN NEEDED -> only needed tunnel.
 
 ## URL
 
@@ -35,6 +35,10 @@ Support only:
 Proof pointer:
 
 `PROOF_HISTORY/LIVING_SYSTEM_FRONT_DOOR_BRIDGE_TUNNEL_V1_4_LOCK_RECEIPT_20260530_121854.txt`
+
+Recursive/pathing spine pointer:
+
+`HOUSE_WORK/WORK_SHED/INDEXES/RECURSIVE_HOUSE_FLOW_SPINE_V1_20260530.md`
 
 ## MAP
 
@@ -88,6 +92,11 @@ Use map files only as needed. Do not load all tunnels by default.
 - DROPS_FROM_CHAT
 - TOOLBELT_FOR
 - SMOKE_BREAK_BEFORE
+- MIRRORS
+- RECURSES_TO
+- JOINS_BACK_TO
+- HASH_IDENTIFIES
+- KEY_ROUTES
 
 ## Chat carry rule
 
@@ -95,7 +104,8 @@ Carry:
 
 1. one active object;
 2. one source/proof pointer;
-3. one next condition.
+3. one next condition;
+4. one recursive spine pointer only when pathing/rule agreement is the active job.
 
 Drop:
 
