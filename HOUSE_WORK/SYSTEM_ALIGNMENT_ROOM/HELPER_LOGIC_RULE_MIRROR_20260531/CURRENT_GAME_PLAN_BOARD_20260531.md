@@ -22,6 +22,9 @@ The local current plan says the next real work is harness building, then the bri
 | Proof surface class lesson | Saved as active learning rule | `BRAIN_LEARNING/HELPER_PROOF_SURFACE_CLASS_BEFORE_PAIR_STRENGTH_RULE_20260531.md` |
 | Lower-layer diagnosis lesson | Saved as operating support rule | `BRAIN_LEARNING/KNOW_DONT_THINK_LOWER_LAYER_DIAGNOSIS_RULE_20260531.md` |
 | Assistant context carrier need-to-know support | Support room and local-only generator created | `HOUSE_WORK/SYSTEM_ALIGNMENT_ROOM/ASSISTANT_CONTEXT_CARRIER_20260531/README.md` |
+| Root source intake + Hash-Tunnel fit | Support room created; candidate wiring aid parked | `HOUSE_WORK/SYSTEM_ALIGNMENT_ROOM/ROOT_SOURCE_INTAKE_AND_HASH_TUNNEL_20260531/README.md` |
+| Intake Gate house routine mirror | Read/report gate run completed; routine candidate parked | `HOUSE_WORK/SYSTEM_ALIGNMENT_ROOM/INTAKE_GATE_HOUSE_ROUTINE_MIRROR_20260531/README.md` |
+| Triple-pass Intake Gate routine suit walk | Soft Suit test captured through walls, upside-down, and web-deep-search passes | `HOUSE_WORK/CHAT_COCKPIT/TRIPLE_PASS_INTAKE_GATE_HOUSE_ROUTINE_SUIT_CARD_20260531.md` |
 
 ## Next Bite
 
@@ -32,8 +35,15 @@ Minimum shape:
 1. Front Door receives one object/claim.
 2. Claim Engine splits force, surface, proof need, authority risk, and missing proof.
 3. Capability checker decides if a helper/tool can legally move.
-4. Packet states exact input, capability, blocked actions, return contract, and receiver assay.
-5. Result is accepted, parked, blocked, or sent to Final Judge candidate review.
+4. Hash-Tunnel layer keeps identity/custody separate from meaning/authority/adoption.
+5. Packet states exact input, capability, blocked actions, return contract, and receiver assay.
+6. Result is accepted, parked, blocked, or sent to Final Judge candidate review.
+
+Candidate support to consider:
+
+- `HOUSE_WORK/SYSTEM_ALIGNMENT_ROOM/ROOT_SOURCE_INTAKE_AND_HASH_TUNNEL_20260531/CLAIM_CAPABILITY_FRONT_DOOR_WIRING_CANDIDATE_V1_20260531.md`
+- `HOUSE_WORK/SYSTEM_ALIGNMENT_ROOM/INTAKE_GATE_HOUSE_ROUTINE_MIRROR_20260531/HELPER_ROUTINE_LOOP_CANDIDATE_V1_20260531.md`
+- `HOUSE_WORK/CHAT_COCKPIT/TRIPLE_PASS_INTAKE_GATE_HOUSE_ROUTINE_SUIT_CARD_20260531.md`
 
 ## Test Rows To Keep Close
 
@@ -69,5 +79,8 @@ Load:
 4. `HOUSE_WORK/WORK_SHED/INDEXES/CLAIM_CAPABILITY_BRIDGE_HARNESS_ROUTE_INDEX_20260531.md`
 5. this board
 6. `HOUSE_WORK/SYSTEM_ALIGNMENT_ROOM/ASSISTANT_CONTEXT_CARRIER_20260531/README.md` when outside/chat helper context is active
+7. `HOUSE_WORK/SYSTEM_ALIGNMENT_ROOM/ROOT_SOURCE_INTAKE_AND_HASH_TUNNEL_20260531/README.md` when root drops, hash-tunnel, dock/risk seeds, or concept-harvest requests are active
+8. `HOUSE_WORK/SYSTEM_ALIGNMENT_ROOM/INTAKE_GATE_HOUSE_ROUTINE_MIRROR_20260531/README.md` when Intake Gate, helper routine, old-history pattern transfer, or mirror/re-audit work is active
+9. `HOUSE_WORK/CHAT_COCKPIT/TRIPLE_PASS_INTAKE_GATE_HOUSE_ROUTINE_SUIT_CARD_20260531.md` when the active work needs the walls/upside-down/web pass order in chat memory
 
 Then work only the next bite.

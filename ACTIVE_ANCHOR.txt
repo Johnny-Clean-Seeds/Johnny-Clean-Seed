@@ -1,5 +1,5 @@
 ACTIVE_ANCHOR
-Updated: 20260531_163200
-Current: ASSISTANT_CONTEXT_CARRIER_NEED_TO_KNOW_SUPPORT_LOCKED
+Updated: 20260531_203140
+Current: TRIPLE_PASS_INTAKE_GATE_HOUSE_ROUTINE_SUIT_LOCKED
 Next: CLAIM_CAPABILITY_FRONT_DOOR_WIRING
-Boundary: need-to-know carrier support only; no broad repair, delete, doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, watcher, automation, stale-route retirement, helper-school install, or promotion.
+Boundary: triple-pass support/suit only; use walls/upside-down/web as candidate support for the next bite; no broad repair, delete, doctrine, ACTIVE_GUIDES, CURRENT_TRUTH_INDEX, watcher, automation, stale-route retirement, helper-school install, or promotion.

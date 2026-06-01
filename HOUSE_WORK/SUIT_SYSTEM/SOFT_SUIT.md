@@ -94,9 +94,9 @@ Only Hard Suit may approve a controlled dump into active files.
 
 ## Current active boss slots
 
-1. Empty
-2. Empty
-3. Empty
+1. `TRIPLE_PASS_INTAKE_GATE_HOUSE_ROUTINE_20260531` — testing; active live suit pass for walls/upside-down/web-deep-search routine mirror.
+2. `CLAIM_CAPABILITY_FRONT_DOOR_WIRING` — active boss; next real design bite that should receive the routine only as candidate support.
+3. `DAILY_HOUSE_WALK_DIGEST_DUE_ON_CONTACT` — parked signal; do not mix into the active pass until selected or until the current pass closes cleanly.
 
 ## Close condition
 

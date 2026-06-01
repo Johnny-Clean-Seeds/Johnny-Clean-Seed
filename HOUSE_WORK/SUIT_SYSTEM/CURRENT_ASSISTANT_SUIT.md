@@ -37,6 +37,20 @@ Promote only after the candidate works cleanly with the attached Hard Suit.
 
 Move out, park, fail-fit, or support-link anything that does not belong in the active pack.
 
+## Current triple-pass support link
+
+Use this support room when Intake Gate, helper routine, old-history pattern transfer, walls/upside-down walk, or web-deep-search synthesis is the active pass:
+
+- HOUSE_WORK/SYSTEM_ALIGNMENT_ROOM/INTAKE_GATE_HOUSE_ROUTINE_MIRROR_20260531/README.md
+
+Current wear line:
+
+`walls pass -> apply one suit/routine improvement -> upside-down pass -> apply inversion guard -> web/deep-search pass -> apply only source-fitted method keys -> receipt -> re-audit or park`
+
+This support link does not promote the routine to Hard Suit, doctrine, `ACTIVE_GUIDES`, or `CURRENT_TRUTH_INDEX`.
+
+When a new working pattern appears during the pass, save it immediately as candidate support with a key, route, proof need, boundary, and return trigger. Promotion waits for the Suit Filter Gate.
+
 ## Suit files
 
 - BRAIN/SUIT/SOFT_SUIT.md
