@@ -454,3 +454,13 @@ Summary:
 - Active task pointer purpose, fields, status values, repair triggers, and command resolution rules captured.
 - Pointer shape saved as design only.
 - Next target after save: V0.3 confirmation card design, not full UI or implementation.
+
+## 20260603_132904 - Command Grammar V0.3 confirmation card design
+
+Status: COMMAND_GRAMMAR_V0_3_CONFIRMATION_CARD_SAVE_PENDING_COMMIT
+
+Summary:
+- V0.3 confirmation card design passed locally.
+- Parsed intent does not equal permission.
+- Confirmation card fields, required matrix, user options, expiration conditions, and default no-action rule captured.
+- Next target after save: V0.4 pointer read/write rules or V0.5 first read-only inspect command design, not full UI or implementation.
