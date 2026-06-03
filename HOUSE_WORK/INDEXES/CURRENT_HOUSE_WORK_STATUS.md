@@ -431,3 +431,16 @@ Summary:
 - Micro 003 independent verification passed.
 - Project Command Center command grammar / action tree goal captured.
 - Next target after save: build V0.1 command lexicon and alias map, not a full UI.
+
+## 20260603_132134 - Command Grammar V0.1 lexicon / alias / input flow design
+
+Status: COMMAND_GRAMMAR_V0_1_DESIGN_SAVE_PENDING_COMMIT
+
+Summary:
+- V0.1 lexicon/alias/input-flow design passed locally.
+- Terminal input-flow rule captured.
+- Output-is-not-input rule captured.
+- PowerShell command-family tree and typo variants captured.
+- Active task pointer V0.1 shape captured.
+- Confirmation card requirement preserved.
+- Next target after save: V0.2 active task pointer design or V0.3 confirmation card design, not full UI.
