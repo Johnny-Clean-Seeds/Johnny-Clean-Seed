@@ -487,3 +487,14 @@ Summary:
 - No pointer file created.
 - No implementation.
 - Next target after save: decide whether to design V0.6 guarded local-only read implementation or stop and inspect the stack.
+
+## 20260603_134421 - Warning self-classification and explanation rule
+
+Status: WARNING_SELF_CLASSIFICATION_AND_EXPLANATION_RULE_SAVE_PENDING_COMMIT
+
+Summary:
+- Captured the rule triggered by the V0.6 stack inspection warnings.
+- Any report emitting WARNING_COUNT must classify and explain warnings before returning control.
+- Required warning counts: BLOCKING, NON_BLOCKING, WATCH, UNKNOWN.
+- Required explanation: what happened, why it matters, blocker status, evidence, effect, non-effect, second-review need, and next legal action.
+- Current case result: prior 2 warnings were nonblocking; V0.6 design remains allowed with watch after this rule save.
