@@ -444,3 +444,13 @@ Summary:
 - Active task pointer V0.1 shape captured.
 - Confirmation card requirement preserved.
 - Next target after save: V0.2 active task pointer design or V0.3 confirmation card design, not full UI.
+
+## 20260603_132531 - Command Grammar V0.2 active task pointer design
+
+Status: COMMAND_GRAMMAR_V0_2_ACTIVE_TASK_POINTER_SAVE_PENDING_COMMIT
+
+Summary:
+- V0.2 active task pointer design passed locally.
+- Active task pointer purpose, fields, status values, repair triggers, and command resolution rules captured.
+- Pointer shape saved as design only.
+- Next target after save: V0.3 confirmation card design, not full UI or implementation.
