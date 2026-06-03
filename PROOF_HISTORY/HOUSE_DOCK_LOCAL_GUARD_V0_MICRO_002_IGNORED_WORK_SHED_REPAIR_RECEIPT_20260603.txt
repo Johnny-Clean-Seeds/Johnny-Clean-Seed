@@ -1,0 +1,40 @@
+HOUSE_DOCK LOCAL GUARD V0 / MICRO 002 IGNORED PATHS REPAIR RECEIPT V1.1
+
+Generated: 20260603_125943
+
+Issue:
+The first save gate pushed commit 95a4cadc45fed7707ddb8de8d2847637d6ac5eb3 but did not commit the WORK_SHED fit report because HOUSE_WORK/WORK_SHED is ignored.
+
+The first repair script then found a second ignored path:
+PROOF_HISTORY/HOUSE_DOCK_LOCAL_GUARD_V0_MICRO_002_IGNORED_WORK_SHED_REPAIR_RECEIPT_20260603.txt
+
+LowerIssue:
+The repair script only force-added the ignored WORK_SHED fit report. It tried to add the PROOF_HISTORY repair receipt normally, but this repo also ignores that exact receipt path.
+
+Repair:
+Force-add both exact intended ignored paths:
+1. HOUSE_WORK/WORK_SHED/SORTING_BENCH/HOUSE_DOCK_LOCAL_GUARD_V0_AND_MICRO_002_EVIDENCE_STACK_20260603.md
+2. PROOF_HISTORY/HOUSE_DOCK_LOCAL_GUARD_V0_MICRO_002_IGNORED_WORK_SHED_REPAIR_RECEIPT_20260603.txt
+
+Also stage the status index:
+3. HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+
+Boundary:
+Exact ignored-path repair only.
+Handles partial failed repair state.
+No local guard code copied into Git.
+No Micro 003.
+No doctrine rewrite.
+No ACTIVE_GUIDES rewrite.
+No CURRENT_TRUTH_INDEX rewrite.
+No watcher.
+No move/delete/cleanup.
+No protected-path mutation.
+
+DoesNotProve:
+This repair does not rerun Micro 002.
+This repair does not prove broad guard safety.
+This repair only repairs Git custody for the ignored support evidence/report paths.
+
+StopLine:
+Do not proceed to Micro 003 until this exact ignored-path repair is committed, pushed, and final status is clean.

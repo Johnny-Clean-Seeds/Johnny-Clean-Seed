@@ -390,3 +390,32 @@ Summary:
 - Micro 002 verifier repair V2 passed guard review.
 - Micro 002 independent verification passed.
 - Next move: close save gate, then choose next bounded implementation step.
+
+## 20260603_125806 - Ignored WORK_SHED repair for House Dock Guard / Micro 002 save gate
+
+Status: IGNORED_WORK_SHED_EVIDENCE_FILE_REPAIR_PENDING_COMMIT
+
+Issue:
+The first save gate pushed successfully, but the intended WORK_SHED evidence report was ignored by .gitignore and needed exact force-add.
+
+Repair:
+- Force-add exact file: HOUSE_WORK/WORK_SHED/SORTING_BENCH/HOUSE_DOCK_LOCAL_GUARD_V0_AND_MICRO_002_EVIDENCE_STACK_20260603.md
+- Add repair receipt: PROOF_HISTORY/HOUSE_DOCK_LOCAL_GUARD_V0_MICRO_002_IGNORED_WORK_SHED_REPAIR_RECEIPT_20260603.txt
+
+Boundary:
+Exact ignored support evidence repair only. No local guard code, no Micro 003, no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX.
+
+## 20260603_125943 - Ignored paths V1.1 repair for House Dock Guard / Micro 002 save gate
+
+Status: IGNORED_PATHS_REPAIR_V1_1_PENDING_COMMIT
+
+Issue:
+The WORK_SHED repair found a second ignored path under PROOF_HISTORY.
+
+Repair:
+- Force-add exact WORK_SHED evidence report: HOUSE_WORK/WORK_SHED/SORTING_BENCH/HOUSE_DOCK_LOCAL_GUARD_V0_AND_MICRO_002_EVIDENCE_STACK_20260603.md
+- Force-add exact repair receipt: PROOF_HISTORY/HOUSE_DOCK_LOCAL_GUARD_V0_MICRO_002_IGNORED_WORK_SHED_REPAIR_RECEIPT_20260603.txt
+- Stage status index update: HOUSE_WORK/INDEXES/CURRENT_HOUSE_WORK_STATUS.md
+
+Boundary:
+Exact ignored-path repair only. No local guard code, no Micro 003, no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX.
