@@ -1,0 +1,319 @@
+OPENAI_IDEA_OUTBOX_REPO_DESIGN_V0_1_RAW_20260603
+
+Status: DESIGN SPEC / NOT IMPLEMENTATION / NOT SUBMISSION
+Checkpoint: main @ d22d19f5432b602315b61441bb5309df6da08ede
+Object: OPENAI_IDEA_OUTBOX_REPO_DESIGN_V0_1
+FirstTargetIdea: HASH_COUPLED_WORK_PATHFINDER_AND_ROOT_GHOST_COLLAPSE_LOGIC
+
+# Purpose
+
+Design a separate Git-style idea outbox where useful AI-system ideas can be filtered, cleaned, hashed, versioned, and prepared for possible OpenAI submission.
+
+The outbox is not a claim machine. It is a custody and preparation system.
+
+It can prove:
+
+- we formed an idea;
+- we cleaned it into a public-safe shape;
+- we versioned it;
+- we preserved custody;
+- we prepared a submission packet.
+
+It does not prove:
+
+- OpenAI received it;
+- OpenAI read it;
+- OpenAI used it;
+- OpenAI adopted it;
+- the idea is original in the absolute sense;
+- the idea is scientifically proven.
+
+# Repository Boundary
+
+The future repository should be a separate public-safe outbox, not a mirror of the private house.
+
+Working name:
+
+OPENAI_IDEA_OUTBOX
+
+The repo should hold cleaned, bounded, submission-ready or submission-candidate artifacts only. It should not hold private raw chats, local-only house files, internal personal material, full project exports, private helper traces, or raw decks.
+
+The repo may hold public-safe summaries of internal ideas if each summary passes the filter and names its limits.
+
+# Idea Intake Rule
+
+Every idea enters as an intake candidate, not as a polished claim.
+
+Required intake fields:
+
+- IdeaId
+- IdeaName
+- IntakeDate
+- SourceType
+- SourcePointer
+- CustodyHash
+- PublicSafeStatus
+- InfluenceStatus
+- CleaningStatus
+- Version
+- CurrentDisposition
+- NextAction
+- DoesNotProve
+
+Allowed starting dispositions:
+
+- INTAKE_RAW
+- NEEDS_PUBLIC_SAFE_FILTER
+- NEEDS_SOURCE_INFLUENCE_REVIEW
+- NEEDS_DEDUP_REVIEW
+- PARKED
+- REJECTED
+- CLEANING_CANDIDATE
+
+No idea may jump from raw intake to submission-ready.
+
+# Original / Source Influence Rule
+
+The outbox should never claim absolute originality. It should record what is known about origin and influence.
+
+Required source influence labels:
+
+- USER_FORMED
+- ASSISTANT_HELPED_WORDING
+- MIXED_CHAT_DERIVED
+- INSPIRED_BY_EXISTING_PUBLIC_IDEAS
+- PRIOR_ART_UNREVIEWED
+- PRIOR_ART_REVIEWED_LIGHTLY
+- PRIOR_ART_REVIEWED_WITH_LINKS
+- ORIGIN_UNKNOWN
+
+Every idea packet must include a plain-language influence statement:
+
+"This packet records our cleaned formulation and custody. It does not claim absolute originality or exclusive invention."
+
+If the idea depends on known public concepts, those influences should be named in `03_PRIOR_ART_AND_INFLUENCES.md` before promotion.
+
+# Public-Safe Filter
+
+Before any artifact enters the outbox repo, it must pass a public-safe filter.
+
+Block if the artifact contains:
+
+- private local paths beyond broad non-sensitive custody pointers;
+- raw private chat content;
+- private project internals not needed for the idea;
+- secrets, tokens, keys, account data, or credentials;
+- personal data not required for the idea;
+- unwashed internal naming that exposes private context;
+- claims that OpenAI received, read, accepted, used, or adopted the idea;
+- claims that the idea is scientifically proven without evidence;
+- claims that local receipt equals external receipt.
+
+Allow if the artifact contains:
+
+- a clean idea summary;
+- public-safe problem statement;
+- mechanism sketch;
+- bounded test cases;
+- prior-art and influence notes;
+- risk and misuse notes;
+- hashes of public-safe prepared artifacts;
+- internal source pointers only when they are non-sensitive and necessary for custody.
+
+# Hash And Custody Rule
+
+Each idea folder should preserve custody through hashes and versioned records.
+
+Minimum custody chain:
+
+1. Hash the raw local source or source pointer record.
+2. Hash the cleaned idea card.
+3. Hash each prepared packet file.
+4. Record the final packet manifest hash.
+5. Record any external submission receipt separately, only if one exists.
+
+Hash records should say what the hash proves.
+
+Example:
+
+Hash proves: this local file had this byte content at this time.
+Hash does not prove: novelty, truth, external receipt, adoption, or legal ownership.
+
+# Submission Packet Format
+
+A submission packet should be concise, public-safe, and bounded.
+
+Required sections:
+
+- Idea name
+- One-sentence summary
+- Problem addressed
+- Mechanism sketch
+- Why it may be useful
+- Example use cases
+- Test cases or evaluation sketch
+- Risks and misuse
+- Prior art and influences
+- What this packet does not claim
+- Contact or follow-up note, if user approves
+- Artifact hash manifest
+
+Packet status values:
+
+- DRAFT
+- PUBLIC_SAFE_REVIEW
+- READY_TO_SUBMIT
+- SUBMITTED_SELF_REPORTED
+- EXTERNAL_RECEIPT_RECORDED
+- PARKED
+- RETIRED
+
+`SUBMITTED_SELF_REPORTED` may only mean the user says it was submitted. `EXTERNAL_RECEIPT_RECORDED` requires an actual external receipt artifact.
+
+# No-False-Claim Rule
+
+The outbox must block any sentence that implies external acceptance without evidence.
+
+Blocked claims:
+
+- OpenAI received this.
+- OpenAI read this.
+- OpenAI is using this.
+- OpenAI adopted this.
+- This proves the idea is original.
+- This proves the idea is scientifically correct.
+- This is now an OpenAI feature request record.
+- This local repo is an official submission channel.
+
+Allowed claims:
+
+- We prepared this packet.
+- We preserved local custody.
+- We recorded hashes.
+- We marked the packet ready to submit.
+- We recorded a user-reported submission.
+- We recorded an external receipt, if one exists.
+
+# First Idea Folder Design
+
+Target idea:
+
+HASH_COUPLED_WORK_PATHFINDER_AND_ROOT_GHOST_COLLAPSE_LOGIC
+
+Folder name:
+
+IDEAS/HASH_COUPLED_WORK_PATHFINDER_ROOT_GHOST_COLLAPSE_LOGIC/
+
+Proposed files:
+
+OPENAI_IDEA_OUTBOX/
+  README.md
+  OUTBOX_RULES.md
+  SUBMISSION_BOUNDARY.md
+  IDEA_LEDGER.csv
+  IDEAS/
+    HASH_COUPLED_WORK_PATHFINDER_ROOT_GHOST_COLLAPSE_LOGIC/
+      00_IDEA_CARD.md
+      01_PROBLEM_STATEMENT.md
+      02_MECHANISM.md
+      03_PRIOR_ART_AND_INFLUENCES.md
+      04_TEST_CASES.md
+      05_RISKS_AND_MISUSE.md
+      06_SUBMISSION_PACKET.md
+      07_RECEIPT_AND_HASHES.md
+
+First idea file purposes:
+
+- `00_IDEA_CARD.md`: short identity card, status, boundaries, and one-sentence value.
+- `01_PROBLEM_STATEMENT.md`: the problem the idea is meant to solve.
+- `02_MECHANISM.md`: public-safe mechanism sketch without private house internals.
+- `03_PRIOR_ART_AND_INFLUENCES.md`: known influences, unknowns, and review status.
+- `04_TEST_CASES.md`: examples and expected behavior.
+- `05_RISKS_AND_MISUSE.md`: overclaim, privacy, security, and misuse risks.
+- `06_SUBMISSION_PACKET.md`: clean packet body for possible submission.
+- `07_RECEIPT_AND_HASHES.md`: local hashes and any external receipt if one later exists.
+
+# What Gets Parked
+
+Park material when:
+
+- public-safe status is unknown;
+- source influence is unclear;
+- the idea is too broad to explain cleanly;
+- mechanism and problem statement do not match;
+- test cases are missing;
+- private/raw content is still embedded;
+- the packet overclaims external receipt, originality, proof, or adoption;
+- a similar idea may already exist and needs prior-art review;
+- the user has not approved public-facing wording.
+
+Parked material must have a return trigger.
+
+Example return triggers:
+
+- public-safe rewrite complete;
+- source influence row added;
+- prior-art review started;
+- first three test cases drafted;
+- user approves contact/submission language.
+
+# What Gets Promoted
+
+Promote only when:
+
+- public-safe filter passes;
+- source/influence statement exists;
+- problem statement is clear;
+- mechanism is bounded;
+- risks and misuse are named;
+- at least small test cases exist;
+- hash manifest exists;
+- no-false-claim scan passes;
+- user approves the public-facing packet.
+
+Promotion levels:
+
+- RAW_INTAKE -> CLEANING_CANDIDATE
+- CLEANING_CANDIDATE -> PUBLIC_SAFE_DRAFT
+- PUBLIC_SAFE_DRAFT -> READY_TO_SUBMIT
+- READY_TO_SUBMIT -> SUBMITTED_SELF_REPORTED
+- SUBMITTED_SELF_REPORTED -> EXTERNAL_RECEIPT_RECORDED
+
+No promotion should imply OpenAI action unless external proof exists.
+
+# What Counts As Closed
+
+Closed states must be specific.
+
+Local preparation closed:
+
+- all required public-safe packet files exist;
+- hashes are recorded;
+- no-false-claim check passes;
+- user approves the packet as ready.
+
+Submission attempt closed:
+
+- user records that a submission attempt happened, or parks the packet with a return trigger.
+
+External receipt closed:
+
+- an external receipt artifact exists and is hashed.
+
+Rejected closed:
+
+- rejection reason is recorded;
+- private/raw source remains outside the public outbox;
+- return trigger is either named or explicitly set to none.
+
+The outbox must never use "closed" to mean OpenAI accepted, read, used, or adopted an idea unless a specific external artifact proves that exact claim.
+
+# V0.1 Build Boundary
+
+This file is the design spec only.
+
+This pass does not create the actual `OPENAI_IDEA_OUTBOX/` repo.
+This pass does not create the first idea packet.
+This pass does not prepare a real submission.
+This pass does not contact OpenAI.
+This pass does not claim novelty, proof, receipt, use, acceptance, or adoption.
