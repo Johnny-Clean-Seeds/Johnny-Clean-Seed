@@ -474,3 +474,16 @@ Summary:
 - Pointer read/write triggers, evidence requirements, stale conditions, repair card, and receipt shape captured.
 - No pointer file created.
 - Next target after save: V0.5 first read-only inspect command design, not full UI or implementation.
+
+## 20260603_133747 - Command Grammar V0.5 first read-only inspect command design
+
+Status: COMMAND_GRAMMAR_V0_5_FIRST_READ_ONLY_INSPECT_COMMAND_SAVE_PENDING_COMMIT
+
+Summary:
+- V0.5 first read-only inspect command design passed locally.
+- Primary command: inspect last task.
+- Inspect means read-only.
+- Pointer status handling, missing/stale/ambiguous cards, and inspect card shape captured.
+- No pointer file created.
+- No implementation.
+- Next target after save: decide whether to design V0.6 guarded local-only read implementation or stop and inspect the stack.
