@@ -464,3 +464,13 @@ Summary:
 - Parsed intent does not equal permission.
 - Confirmation card fields, required matrix, user options, expiration conditions, and default no-action rule captured.
 - Next target after save: V0.4 pointer read/write rules or V0.5 first read-only inspect command design, not full UI or implementation.
+
+## 20260603_133312 - Command Grammar V0.4 pointer read/write rules design
+
+Status: COMMAND_GRAMMAR_V0_4_POINTER_READ_WRITE_RULES_SAVE_PENDING_COMMIT
+
+Summary:
+- V0.4 pointer read/write rules design passed locally.
+- Pointer read/write triggers, evidence requirements, stale conditions, repair card, and receipt shape captured.
+- No pointer file created.
+- Next target after save: V0.5 first read-only inspect command design, not full UI or implementation.
