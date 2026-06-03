@@ -498,3 +498,15 @@ Summary:
 - Required warning counts: BLOCKING, NON_BLOCKING, WATCH, UNKNOWN.
 - Required explanation: what happened, why it matters, blocker status, evidence, effect, non-effect, second-review need, and next legal action.
 - Current case result: prior 2 warnings were nonblocking; V0.6 design remains allowed with watch after this rule save.
+
+## 20260603_134856 - Command Grammar V0.6 guarded local-only read implementation design
+
+Status: COMMAND_GRAMMAR_V0_6_DESIGN_SAVE_PENDING_COMMIT
+
+Summary:
+- V0.6 guarded local-only read implementation design passed locally.
+- V0.6 remains design only.
+- Future implementation target: READ_ONLY_INSPECT_ACTIVE_TASK_V0.
+- Future behavior must be local-only, read-only, pointer-read only, and guard-reviewed.
+- Warning self-classification is built into the V0.6 report shape.
+- No implementation, no pointer file, no full UI, no Micro 004.
