@@ -510,3 +510,13 @@ Summary:
 - Future behavior must be local-only, read-only, pointer-read only, and guard-reviewed.
 - Warning self-classification is built into the V0.6 report shape.
 - No implementation, no pointer file, no full UI, no Micro 004.
+
+## 20260603_140117 - Console Severity Color Rule
+
+Status: CONSOLE_SEVERITY_COLOR_RULE_SAVE_PENDING_COMMIT
+
+Summary:
+- Captured console severity color rule after read-only inspect output was correct but visually flat.
+- Color is additive to full plain-text classification and proof.
+- Future scripts should color warning counts, warning explanations, pass/fail lines, next legal action, paths, hashes, DoesNotProve, and StopLine.
+- No implementation in this save.
