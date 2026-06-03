@@ -374,3 +374,19 @@ READ_CODING_ROOM_LOCK_SAVE_WRITER_RECEIPT_PAIRING_WAVE_01_V1_1_UNIQUE_20260531_1
 
 Boundary:
 No doctrine. No ACTIVE_GUIDES. No CURRENT_TRUTH_INDEX. No implementation. No watcher. No automation.
+
+## 20260603_125519 - House Dock Local Guard V0 / Micro 002 proof stack
+
+Status: HOUSE_DOCK_LOCAL_GUARD_V0_AND_MICRO_002_PROOF_STACK_SAVED_PENDING_COMMIT
+
+Summary:
+- Guard V0 Soft Suit active.
+- Guard V0 installed and self-tested locally.
+- Auto-fix intelligence candidate 001 captured.
+- Wrong-fix stop rule captured.
+- User-addressed rule save stack captured.
+- Transcript repaste contamination rule captured.
+- Micro 002 proof run passed.
+- Micro 002 verifier repair V2 passed guard review.
+- Micro 002 independent verification passed.
+- Next move: close save gate, then choose next bounded implementation step.
