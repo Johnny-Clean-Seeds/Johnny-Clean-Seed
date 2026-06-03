@@ -419,3 +419,15 @@ Repair:
 
 Boundary:
 Exact ignored-path repair only. No local guard code, no Micro 003, no doctrine, no ACTIVE_GUIDES, no CURRENT_TRUTH_INDEX.
+
+## 20260603_131528 - Micro 003 inspect face and command grammar goal
+
+Status: MICRO_003_INSPECT_FACE_AND_COMMAND_GRAMMAR_GOAL_SAVE_PENDING_COMMIT
+
+Summary:
+- Micro 003 design passed.
+- Micro 003 guard review passed.
+- Micro 003 inspect-only face run passed.
+- Micro 003 independent verification passed.
+- Project Command Center command grammar / action tree goal captured.
+- Next target after save: build V0.1 command lexicon and alias map, not a full UI.
