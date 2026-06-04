@@ -40,6 +40,13 @@ Tech file boundary:
 - Widen inspection only when a named gate, proof need, risk, or explicit user approval requires it.
 - Parked, proof-history, test, or neighboring material is support evidence only; it does not become active authority by proximity.
 
+Root touch clean exit rule:
+- If Codex touches, reads, uses, creates, or stages any loose file or temporary folder in the workspace root, Codex must inspect the root before final response.
+- Any touched/used loose root file must have its content extracted into the project target or routed to an explicit custody folder with path, hash, and receipt before final response.
+- Any temporary root folder created by Codex, including Git worktrees, scratch folders, generated patch fallout, or copied packet folders, must be removed or routed to custody before final response.
+- Do not leave root trash for the user to find later. Root may retain only intentional project/custody folders and system files such as desktop.ini.
+- Final response after root contact must report the root loose-file count and any custody receipt path.
+
 Source-of-truth order:
 1. Read CURRENT_TRUTH_INDEX.txt first.
 2. Read ACTIVE_GUIDES only after the index.
