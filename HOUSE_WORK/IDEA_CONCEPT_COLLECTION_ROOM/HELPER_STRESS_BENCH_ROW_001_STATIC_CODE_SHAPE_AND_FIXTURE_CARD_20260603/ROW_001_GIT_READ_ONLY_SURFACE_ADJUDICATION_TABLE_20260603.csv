@@ -1,0 +1,5 @@
+Class,Line,Verdict,Evidence,Reason
+GIT_WRAPPER_SURFACE,105,WATCH_ALLOWLIST_CALLERS_REQUIRED,& git @GitArgs 2>$null,Generic GitArgs wrapper is acceptable only if every caller is hard-coded to an allowed read-only command.
+READ_ONLY_GIT_DIRECT,120,READ_ONLY_CONFIRMED,& git status --short 2>$null,git status --short is a read-only repo status probe.
+READ_GIT_VALUE_CALLER,155,READ_ONLY_CONFIRMED,"Read-GitValue -WorkDir $RepoRoot -GitArgs @(""rev-parse"", ""HEAD"") -Fallback ""[unavailable]""",Caller is hard-coded to git rev-parse HEAD.
+READ_GIT_VALUE_CALLER,156,READ_ONLY_CONFIRMED,"Read-GitValue -WorkDir $RepoRoot -GitArgs @(""rev-parse"", ""origin/main"") -Fallback ""[unavailable]""",Caller is hard-coded to git rev-parse origin/main.
