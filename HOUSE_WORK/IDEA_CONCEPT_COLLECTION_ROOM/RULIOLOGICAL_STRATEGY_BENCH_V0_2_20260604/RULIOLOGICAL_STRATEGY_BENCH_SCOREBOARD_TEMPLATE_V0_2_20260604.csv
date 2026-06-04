@@ -1,0 +1,3 @@
+"RunId","StrategyId","StrategyVersion","FixtureId","FixtureClass","RefereeGate","BoundarySurvival","AuthoritySeparation","ProofSurvival","ExactSetDiscipline","Visibility","LegalCompletion","Recovery","CostEfficiency","UserBurden","BloatRisk","RefusalRisk","OverallVerdict","Disposition","TracePointer","ReceiptPointer","NextCondition"
+"TEMPLATE","","","","","NOT_RUN","","","","","","","","","","","","NOT_SCORED","NOT_DECIDED","","",""
+"EXAMPLE_FIELD_ORDER","VISIBLE_NARROW_RAIL","V0","ROW_001_UNKNOWN_AUTHORITY","Authority","NOT_RUN","0-2","0-2","0-2","0-2","0-2","0-2","0-2","0-2","0-2","LOW/MED/HIGH","LOW/MED/HIGH","NOT_SCORED","ADOPT/ADAPT/PARK/BLOCK/PROOF/LEAVE_BE","required","required","required"
