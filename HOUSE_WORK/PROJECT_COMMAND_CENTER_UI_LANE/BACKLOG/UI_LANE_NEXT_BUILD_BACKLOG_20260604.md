@@ -6,21 +6,17 @@ WorkKey: UI-LANE-NEXT-BUILD-BACKLOG-20260604
 
 ## Now
 
-- Save V0.1 UI lane design/proof packet.
-- Keep root clean.
-- Preserve source handoff custody.
+- Save Phase 2 exact set after manifest/receipt and root checks pass.
+- Keep unrelated helper/root-cleanup artifacts visible but unstaged unless selected by a separate save gate.
+- Preserve Phase 2 handoff source custody.
 - Avoid activating existing command-center scripts.
 
 ## Next
 
-- Build command schema as inert JSON or CSV.
-- Create sample action cards for:
-  - `inspect last task`;
-  - `root check`;
-  - `show proof`;
-  - `save gate`.
-- Draft static markdown wireframe from screen/panel map.
-- Add fixture cards for command parsing contamination.
+- Convert command registry into an inert machine-readable schema only after review.
+- Create static markdown wireframes from dashboard state model.
+- Add command-resolution fixture cards for unknown aliases, path ambiguity, and proof-missing states.
+- Add a compact sample receipt card for proof viewer review.
 
 ## Later
 
@@ -35,7 +31,8 @@ WorkKey: UI-LANE-NEXT-BUILD-BACKLOG-20260604
 - Watcher/automation.
 - Remote-door integration.
 - Package install.
-- Commit/push until exact staged-set decision is clean.
+- Broad staging of unrelated helper/root-cleanup artifacts.
+- UI code or local reader implementation until acceptance fixtures exist.
 
 ## Parked
 
@@ -46,4 +43,4 @@ WorkKey: UI-LANE-NEXT-BUILD-BACKLOG-20260604
 
 - Whether a future prototype should be static HTML, markdown wireframe, or a small local app.
 - Whether and when the UI lane may read live project status files through code.
-- Whether to commit this UI lane packet together with prior untracked cleanup artifacts or keep it as an exact later save set.
+- Whether the older helper/root-cleanup artifacts should get their own exact-set save gate.
