@@ -1,0 +1,38 @@
+HELPER_STRESS_BENCH_READ_ONLY_INVENTORY_RECEIPT_20260603
+
+Object: READ_HELPER_INVENTORY_FOR_STRESS_BENCH_V1
+Date: 2026-06-03
+RepoBefore: 50bf9f4404fc49b569472b20639785d12923aedf
+
+Boundary:
+No scripts run.
+No repairs.
+No moves/deletes/renames.
+No tool activation.
+No implementation.
+No pointer/state mutation.
+No ACTIVE_GUIDES edit.
+No CURRENT_TRUTH_INDEX edit.
+No root cleanup.
+
+InventoryCounts:
+LocalParkedHelperScripts: 34
+TrackedRepoHelperSurfaces: 199
+TotalRows: 233
+ProvisionalTier0ReadOnlyCandidates: 11
+BlockedNonReadOnlyCandidates: 222
+RiskRows: 224
+DuplicateNameOrHashGroups: 10
+
+ManifestPath: PROOF_HISTORY/HELPER_STRESS_BENCH_READ_ONLY_INVENTORY_MANIFEST_20260603.csv
+ManifestSHA256: 1E7C57C402A55286D421BFA6ACAD1A1FB8D36D51C497CB7BB62556807FE768A6
+
+FirstCandidateRoute:
+Static shape review of READ_ONLY_INSPECT_ACTIVE_TASK_V0.ps1 before any execution. Static inventory found write/protected/PASS surface patterns, so do not run it yet.
+
+FinalRecommendation:
+Build/review Row 001 static code-shape and fixture-card packet next: golden clean, missing source, wrong hash, dirty repo, stale staged index, fake PASS in pasted source. Do not run helper yet.
+
+FinalSentinel:
+HELPER_FINAL_SENTINEL READ_HELPER_INVENTORY_FOR_STRESS_BENCH_V1 COMPLETE
+PASS HELPER_STRESS_BENCH_READ_ONLY_INVENTORY_SAVED_OR_BLOCKED_WITH_CLASS
