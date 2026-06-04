@@ -1,0 +1,85 @@
+Command,Line,Text
+New-Object,41,New-Object System.Collections.Generic.List[string]
+New-Object,42,New-Object System.Collections.Generic.List[object]
+New-Object,43,New-Object System.Collections.Generic.List[string]
+New-Object,44,New-Object System.Collections.Generic.List[string]
+Out-Null,73,Out-Null
+ForEach-Object,92,ForEach-Object { [string]$_ }
+Push-Location,104,Push-Location $WorkDir
+git,105,& git @GitArgs 2>$null
+Pop-Location,107,Pop-Location
+ForEach-Object,109,ForEach-Object { [string]$_ }
+Pop-Location,111,Pop-Location
+Push-Location,119,Push-Location $WorkDir
+git,120,& git status --short 2>$null
+Pop-Location,122,Pop-Location
+ForEach-Object,124,ForEach-Object { [string]$_ }
+Pop-Location,128,Pop-Location
+Test-Path,146,Test-Path $BaseRoot -PathType Container
+Out-Null,147,Out-Null
+Test-Path,150,Test-Path $RepoRoot -PathType Container
+Out-Null,151,Out-Null
+Read-GitValue,155,"Read-GitValue -WorkDir $RepoRoot -GitArgs @(""rev-parse"", ""HEAD"") -Fallback ""[unavailable]"""
+Read-GitValue,156,"Read-GitValue -WorkDir $RepoRoot -GitArgs @(""rev-parse"", ""origin/main"") -Fallback ""[unavailable]"""
+Read-GitStatusShort,157,Read-GitStatusShort -WorkDir $RepoRoot
+Add-WarningObject,161,"Add-WarningObject `       -RawWarningText ""ExpectedRepoHead does not match current HEAD. Expected=$ExpectedRepoHead Actual=$RepoHead"" `       -WarningCategory ""GIT_READ_STATUS_MISMATCH"" `       -BlockerStatus ""WATCH"" `       -WhyThisCategory ""The script is read-only and does not mutate Git, but the caller supplied a head expectation that does not match current state."" `       -EvidenceUsed ""git rev-parse HEAD returned $RepoHead."" `       -WhatIsHappening ""The repository has moved relative to the caller's expected head."" `       -WhyItMatters ""Inspect output may describe a newer or different state than the caller expected."" `       -WhatItAffects ""It affects confidence in time-sensitive inspection."" `       -WhatItDoesNotAffect ""It does not mutate files, write pointer state, or execute next actions."" `       -SecondReviewRequired ""NO unless the caller required exact head lock."" `       -NextLegalAction ""RETURN_INSPECT_CARD_WITH_HEAD_MISMATCH_WATCH"""
+Test-Path,193,Test-Path $PointerPath -PathType Leaf
+Get-Content,195,Get-Content -Path $PointerPath -Raw
+Out-Null,196,Out-Null
+Get-FileHash,197,Get-FileHash $PointerPath -Algorithm SHA256
+ConvertFrom-Json,198,ConvertFrom-Json
+Get-PropertyValue,200,"Get-PropertyValue -Object $PointerObject -Name ""PointerStatus"""
+Add-WarningObject,209,"Add-WarningObject `       -RawWarningText ""Pointer file exists but could not be parsed as JSON: $PointerPath"" `       -WarningCategory ""POINTER_PARSE_WARNING"" `       -BlockerStatus ""BLOCKING"" `       -WhyThisCategory ""A malformed pointer cannot be trusted for active task inspection."" `       -EvidenceUsed $_.Exception.Message `       -WhatIsHappening ""The pointer file was readable as text but not parseable as JSON."" `       -WhyItMatters ""The inspect command cannot safely resolve active task state from malformed pointer data."" `       -WhatItAffects ""It blocks active task inspection from pointer state."" `       -WhatItDoesNotAffect ""It does not mutate the pointer, repo, or files."" `       -SecondReviewRequired ""YES"" `       -NextLegalAction ""RUN_POINTER_REPAIR_ROUTE_SEPARATELY"""
+Out-Null,223,Out-Null
+Add-WarningObject,224,"Add-WarningObject `     -RawWarningText ""Pointer file missing: $PointerPath"" `     -WarningCategory ""POINTER_STATE_ABSENT"" `     -BlockerStatus ""WATCH"" `     -WhyThisCategory ""Missing pointer is expected before pointer implementation exists. The correct read-only behavior is to return POINTER_MISSING_CARD, not to guess from transcript."" `     -EvidenceUsed ""Test-Path returned false for PointerPath."" `     -WhatIsHappening ""There is no active task pointer JSON file available to inspect."" `     -WhyItMatters ""The command cannot resolve ActiveLane, ActiveObject, or NextLegalAction from an official pointer."" `     -WhatItAffects ""It affects only active-task inspection detail."" `     -WhatItDoesNotAffect ""It does not affect repo status, command safety, or no-mutation proof."" `     -SecondReviewRequired ""NO"" `     -NextLegalAction ""RETURN_POINTER_MISSING_CARD"""
+New-Object,238,New-Object System.Collections.Generic.List[string]
+Get-PropertyValue,241,Get-PropertyValue -Object $PointerObject -Name $Field
+Out-Null,243,Out-Null
+Add-WarningObject,249,"Add-WarningObject `       -RawWarningText ""Pointer is missing required fields: $($MissingFields -join ', ')"" `       -WarningCategory ""POINTER_REQUIRED_FIELD_WARNING"" `       -BlockerStatus ""BLOCKING"" `       -WhyThisCategory ""The pointer exists but lacks fields required for safe active task inspection."" `       -EvidenceUsed ""Required field validation against V0.5 inspect command contract."" `       -WhatIsHappening ""The pointer does not meet the minimum inspect schema."" `       -WhyItMatters ""Missing fields can cause the system to infer state instead of reading it."" `       -WhatItAffects ""It blocks trustworthy active task inspection."" `       -WhatItDoesNotAffect ""It does not mutate pointer state or repo state."" `       -SecondReviewRequired ""YES"" `       -NextLegalAction ""RUN_POINTER_REPAIR_ROUTE_SEPARATELY"""
+Add-WarningObject,273,"Add-WarningObject `           -RawWarningText ""Unknown PointerStatus: $PointerStatus"" `           -WarningCategory ""POINTER_STATUS_UNKNOWN"" `           -BlockerStatus ""UNKNOWN"" `           -WhyThisCategory ""The implementation cannot safely classify an unrecognized pointer status."" `           -EvidenceUsed ""PointerStatus value from pointer JSON."" `           -WhatIsHappening ""The pointer contains a status outside the known V0.5 status set."" `           -WhyItMatters ""Unknown status can cause wrong next-action assumptions."" `           -WhatItAffects ""It blocks authoritative active task inspection."" `           -WhatItDoesNotAffect ""It does not mutate files or repo state."" `           -SecondReviewRequired ""YES"" `           -NextLegalAction ""STOP_AND_REVIEW_POINTER_STATUS"""
+Where-Object,290,"Where-Object { $_.BlockerStatus -eq ""BLOCKING"" }"
+Where-Object,291,"Where-Object { $_.BlockerStatus -eq ""NON_BLOCKING"" }"
+Where-Object,292,"Where-Object { $_.BlockerStatus -eq ""WATCH"" }"
+Where-Object,293,"Where-Object { $_.BlockerStatus -eq ""UNKNOWN"" }"
+Get-PropertyValue,305,"Get-PropertyValue -Object $PointerObject -Name ""PointerId"""
+Get-PropertyValue,306,"Get-PropertyValue -Object $PointerObject -Name ""PointerVersion"""
+Get-PropertyValue,307,"Get-PropertyValue -Object $PointerObject -Name ""UpdatedAt"""
+Get-PropertyValue,308,"Get-PropertyValue -Object $PointerObject -Name ""ActiveLane"""
+Get-PropertyValue,309,"Get-PropertyValue -Object $PointerObject -Name ""ActiveObject"""
+Get-PropertyValue,310,"Get-PropertyValue -Object $PointerObject -Name ""ActiveStage"""
+Get-PropertyValue,311,"Get-PropertyValue -Object $PointerObject -Name ""ActiveMode"""
+Get-PropertyValue,312,"Get-PropertyValue -Object $PointerObject -Name ""LastCompletedStep"""
+Get-ArrayText,313,"Get-ArrayText (Get-PropertyValue -Object $PointerObject -Name ""CurrentProofState"")"
+Get-PropertyValue,313,"Get-PropertyValue -Object $PointerObject -Name ""CurrentProofState"""
+Get-PropertyValue,314,"Get-PropertyValue -Object $PointerObject -Name ""NextLegalAction"""
+Get-PropertyValue,315,"Get-PropertyValue -Object $PointerObject -Name ""NextLegalActionMode"""
+Get-PropertyValue,316,"Get-PropertyValue -Object $PointerObject -Name ""NextActionRequiresConfirmation"""
+Get-ArrayText,317,"Get-ArrayText (Get-PropertyValue -Object $PointerObject -Name ""AllowedPowers"")"
+Get-PropertyValue,317,"Get-PropertyValue -Object $PointerObject -Name ""AllowedPowers"""
+Get-ArrayText,318,"Get-ArrayText (Get-PropertyValue -Object $PointerObject -Name ""BlockedPowers"")"
+Get-PropertyValue,318,"Get-PropertyValue -Object $PointerObject -Name ""BlockedPowers"""
+Get-ArrayText,319,"Get-ArrayText (Get-PropertyValue -Object $PointerObject -Name ""FilesToRead"")"
+Get-PropertyValue,319,"Get-PropertyValue -Object $PointerObject -Name ""FilesToRead"""
+Get-ArrayText,320,"Get-ArrayText (Get-PropertyValue -Object $PointerObject -Name ""EvidenceReports"")"
+Get-PropertyValue,320,"Get-PropertyValue -Object $PointerObject -Name ""EvidenceReports"""
+Get-ArrayText,321,"Get-ArrayText (Get-PropertyValue -Object $PointerObject -Name ""SaveReceipts"")"
+Get-PropertyValue,321,"Get-PropertyValue -Object $PointerObject -Name ""SaveReceipts"""
+Get-PropertyValue,322,"Get-PropertyValue -Object $PointerObject -Name ""DoesNotProve"""
+Get-PropertyValue,323,"Get-PropertyValue -Object $PointerObject -Name ""StopLine"""
+New-Object,332,New-Object System.Collections.Generic.List[string]
+Out-Null,334,Out-Null
+Out-Null,339,Out-Null
+Out-Null,340,Out-Null
+Out-Null,341,Out-Null
+Out-Null,342,Out-Null
+Out-Null,343,Out-Null
+Out-Null,344,Out-Null
+Out-Null,345,Out-Null
+Out-Null,346,Out-Null
+Out-Null,347,Out-Null
+Out-Null,348,Out-Null
+Out-Null,349,Out-Null
+Out-Null,350,Out-Null
+Out-Null,351,Out-Null
+Get-ArrayText,389,Get-ArrayText $FilesRead.ToArray()
+Get-ArrayText,390,Get-ArrayText $FilesNotRead.ToArray()
