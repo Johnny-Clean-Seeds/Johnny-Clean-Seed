@@ -1,0 +1,4 @@
+Line,Term,Disposition,WhySafe,Evidence
+297,LOCK,WARNING_BLOCKER_CONDITION_CHECK,"This line checks warning collections to stop or route separately. It does not lock, save, mutate, or authorize execution.",} elseif ($UnknownWarnings.Count -gt 0 -or $BlockingWarnings.Count -gt 0) {
+342,LOCK,WARNING_EXPLANATION_OUTPUT_FIELD,This line writes a warning explanation into an in-memory output list. It does not write files or create authority.,"$WarningExplanationLines.Add(""BlockerStatus: $($Warning.BlockerStatus)"") | Out-Null"
+357,LOCK,FINAL_VERDICT_WARNING_BLOCKER_CONDITION_CHECK,"This line routes the final verdict to WATCH_STOP when unknown or blocking warnings exist. It is a stop guard, not authority escalation.",} elseif ($UnknownWarnings.Count -gt 0 -or $BlockingWarnings.Count -gt 0) {

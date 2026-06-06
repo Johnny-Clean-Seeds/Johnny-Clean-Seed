@@ -1,0 +1,8 @@
+ScenarioId,ScenarioName,PrimaryJudgment,SecondaryJudgment,TargetHelperStatus,RequiredNextMove,ForbiddenClaim
+001,Generated runner repair loop,NO_START_RUNNER_LAYER_UNSTABLE,BLOCK_STATIC_REVIEW,TARGET_NOT_RUN,Stop runner lane and switch to manual markdown design,Target helper failed
+002,Code-shaped text inside wrapper,REQUIRES_MANUAL_DESIGN,REQUIRES_NON_EXPANDING_TEMPLATE_PROOF,TARGET_NOT_RUN,Keep source inert until non-expanding template proof exists,Visual paste equals runtime proof
+003,Automatic variable collision,REQUIRES_NAME_GUARD,BLOCK_STATIC_REVIEW,TARGET_NOT_RUN,Static naming review before any execution,Run first and repair after collision
+004,Here-string expansion risk,REQUIRES_NON_EXPANDING_TEMPLATE_PROOF,BLOCK_STATIC_REVIEW,TARGET_NOT_RUN,Prove literal transport separately before execution,Quote repair loop is acceptable
+005,Path construction and wrong-lane write,REQUIRES_PATH_PROOF,BLOCK_STATIC_REVIEW,TARGET_NOT_RUN,Expected-vs-actual path proof before mutation,Wrong-lane write is harmless without disclosure
+006,False target run claim,TARGET_NOT_RUN,CORRECT_RECORD_REQUIRED,TARGET_NOT_RUN,Correct the record and preserve no-start boundary,Helper failed
+007,No-op / skip is not repair,WATCH_STATIC_REVIEW,PARK_FIXTURE_ONLY,UNKNOWN_OR_NOT_RUN,Record skip as evidence only,Repair complete

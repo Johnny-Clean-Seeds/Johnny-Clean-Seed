@@ -1,0 +1,12 @@
+LOSSLESS_ACCOUNTING_PROTECTED_CORE_BEGIN
+
+1. Any compression, archive creation, delete, move out, route to custody, prune, cleanout, dedupe, shrink, overwrite, replacement, retirement, removal from live carry, or data-bearing transformation must be fully accounted before finalization.
+2. Fully accounted means the record names what was there before, what changed, what is there now, what rule/gate/method was applied before, what rule/gate/method is applied now, why the choice was made, who/what authorized the scope, source path, destination path, action kind, bytes, hashes when available, file counts for directories, timestamp, status, what was preserved, what was lost or not proven, where recovery/custody lives, and how to verify it.
+3. If a rule, file, folder, tool, concept, receipt, ledger, prompt, script, archive, or source object is changed, the accounting must state the old rule/state, the new rule/state, exactly what the rule was, exactly what it is now, and why the change was chosen.
+4. If proof cannot be made, the action is blocked or must be marked `UNPROVEN_ACCOUNTING_BLOCKED`; do not call it clean, done, compressed, removed, moved, parked, restored, or safe.
+5. This protected core cannot be removed, weakened, bypassed, superseded, narrowed, paused, exempted, or overridden by any later rule, code, cleanup, compression, reducer, installer, helper, worker, automation, or interpretation. Conflicts resolve in favor of more accounting, more preservation, and more recovery proof.
+6. This protected core may only be changed by additive language that keeps or strengthens every protection here. Additions cannot create exceptions that reduce protection.
+7. If removal, alteration, weakening, or bypass is attempted, the attempt is invalid. The guard rule/code must restore or reinsert this protected core before any further compression, move, removal, cleanup, retirement, or live-carry change continues.
+8. This rule protects all files, folders, rules, tools, concepts, receipts, ledgers, scripts, archives, prompts, source ore, proof history, live/project materials, and custody materials unless the user explicitly creates a narrower protected replacement with equal or stronger accounting language.
+
+LOSSLESS_ACCOUNTING_PROTECTED_CORE_END

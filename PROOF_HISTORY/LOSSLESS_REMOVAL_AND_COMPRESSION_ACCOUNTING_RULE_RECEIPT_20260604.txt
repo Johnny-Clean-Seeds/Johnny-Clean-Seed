@@ -1,0 +1,29 @@
+LOSSLESS_REMOVAL_AND_COMPRESSION_ACCOUNTING_RULE_RECEIPT
+Date: 2026-06-04
+Status: RULE WRITTEN / PROTECTED CORE SEEDED / GUARD SCRIPT PLANNED
+
+RuleFile:
+C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\BRAIN_LEARNING\LOSSLESS_REMOVAL_AND_COMPRESSION_ACCOUNTING_RULE_20260604.md
+
+CoreSeed:
+C:\Users\13527\Desktop\123\Jxhnny_Kl33N_Seedz\PROOF_HISTORY\LOSSLESS_ACCOUNTABILITY_RULE_CORE_SEED_20260604.txt
+
+RecoveryEvidence:
+C:\Users\13527\Desktop\123\_LOCAL_CUSTODY_N_RECEIPTS\RECYCLE_BIN_RECOVERY_20260604_203541\REPORTS\RECYCLE_BIN_RECOVERY_SUMMARY.txt
+
+Reason:
+The user reported a recent apparent data loss from about 1 GB to about 600 MB and explicitly required a rule that anything compressed or removed must be fully accounted for.
+
+Decision:
+Write a BRAIN_LEARNING rule with a protected core. The core defines what fully accounted means, requires before/after rule and data state, blocks unproven removal/compression, and rejects any later rule or code that tries to weaken or remove this protection.
+
+Boundary:
+No ACTIVE_GUIDES edit.
+No CURRENT_TRUTH_INDEX edit.
+No deletion.
+No Recycle Bin emptying.
+No watcher or automation install.
+No source cleanup authorized by this receipt.
+
+Closeout:
+LOSSLESS_ACCOUNTING_RULE_WRITTEN_WITH_PROTECTED_CORE
