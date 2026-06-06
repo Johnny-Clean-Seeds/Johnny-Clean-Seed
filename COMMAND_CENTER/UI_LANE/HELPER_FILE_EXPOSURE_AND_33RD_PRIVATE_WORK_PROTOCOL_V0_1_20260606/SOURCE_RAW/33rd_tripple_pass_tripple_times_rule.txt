@@ -1,0 +1,1146 @@
+Here is the stronger second draft, built from the uploaded draft and tightened into a cleaner method card. 
+
+````markdown
+# THE 33RD / DOUBLE-TRIPLE PASS
+## Deep Research / Deep Pressure / Rebuild Method
+
+Status: METHOD CARD / DEEP RESEARCH MODE / NOT DEFAULT FOR EVERY TASK  
+Use: When the user says “deep research,” or when a task is large, high-risk, source-heavy, architectural, proof-sensitive, or likely to drift.
+
+---
+
+## 1. Core Definition
+
+`THE 33RD / DOUBLE-TRIPLE PASS` is a controlled deep-research method.
+
+It is not a normal outline.  
+It is not a one-shot summary.  
+It is not just “search the web.”  
+It is not three headings filled once.  
+It is not ceremonial thinking.
+
+It is a repeated source-pressure route:
+
+```text
+FULL TRIPLE PASS 1
+pause
+
+FULL TRIPLE PASS 2
+using Pass 1 as the new source
+pause
+
+FULL TRIPLE PASS 3
+using Pass 2 as the new source
+then close, carry, or park
+````
+
+Each full triple pass contains three zones:
+
+```text
+WALLS
+CEILING
+ROOF
+```
+
+So the full method has nine working zones:
+
+```text
+Round 1 — Walls / Ceiling / Roof
+Round 2 — Walls / Ceiling / Roof
+Round 3 — Walls / Ceiling / Roof
+```
+
+Each round picks up the prior round and reworks it.
+
+The goal is not repetition.
+The goal is pressure, correction, and cleaner emergence.
+
+---
+
+## 2. Trigger Rule
+
+When the user says:
+
+```text
+let’s do deep research
+```
+
+default to:
+
+```text
+invoke the 33rd / double-triple pass
+```
+
+unless the user narrows the job or says not to.
+
+This method is for:
+
+```text
+deep research
+large source files
+major critique
+hard architecture
+system design
+proof work
+custody work
+recovery work
+high-risk decisions
+big repair passes
+source-to-live transformation
+multi-agent / mule / assistant routing design
+```
+
+Do not use the full 33rd for ordinary small tasks unless explicitly requested.
+
+For smaller jobs, use a lighter pass.
+
+---
+
+## 3. Actor Rule
+
+### Assistant / ChatGPT
+
+When the user invokes deep research, the assistant should assume the 33rd is active unless narrowed.
+
+### Mule
+
+Mule only uses the 33rd when the handoff or packet explicitly tells him to use it.
+
+Do not score Mule against the 33rd if he was not assigned it.
+
+### Tools
+
+Tools do not decide the method.
+
+The active zone decides the toolbelt.
+
+---
+
+## 4. One Full Triple Pass
+
+A full triple pass is:
+
+```text
+WALLS
+  use the tools, rooms, source reading, file review, searches, and research that fit visible-body work
+  leave trace
+  pause
+
+CEILING
+  use the tools, rooms, source reading, mapping, proof review, and architecture checks that fit load-bearing work
+  leave trace
+  pause
+
+ROOF
+  use the tools, rooms, source reading, outside comparison, web search, risk review, guard checks, and failure-mode work that fit protection work
+  leave trace
+  pause
+```
+
+Only after all three zones are complete does one full triple pass count.
+
+---
+
+# 5. Zone Standards
+
+## 5.1 WALLS — Visible Body
+
+Walls examine what is visibly present.
+
+Walls is the body scan.
+
+Use Walls to study:
+
+```text
+files
+sections
+headings
+objects
+claims
+visible parts
+actors
+cards
+UI pieces
+named rules
+named tools
+obvious gaps
+surface contradictions
+repeated terms
+missing labels
+bad wording
+what the user sees
+what the assistant sees
+what the file says it is
+```
+
+Walls asks:
+
+```text
+What exists?
+What is named?
+What is visible?
+What is missing on the surface?
+What looks important but unsupported?
+What is confusing to the user?
+What is confusing to the assistant?
+What objects are present but not classified?
+What does the body currently look like?
+```
+
+Walls must leave trace:
+
+```text
+Visible findings:
+Surface gaps:
+Objects found:
+Unclear names:
+Weak wording:
+Contradictions:
+Candidate repairs:
+Blocked items:
+Carry line:
+```
+
+Walls failure:
+
+```text
+If Walls does not name the visible body, later structure will be built on fog.
+```
+
+---
+
+## 5.2 CEILING — Load-Bearing Structure
+
+Ceiling examines what holds the visible body up.
+
+Ceiling is the structural scan.
+
+Use Ceiling to study:
+
+```text
+dependencies
+rule chains
+indexes
+ledgers
+custody chains
+schemas
+state machines
+source-to-live paths
+file-to-file relationships
+authority flow
+handoff flow
+proof requirements
+receipt gates
+version relationships
+what owns what
+what depends on what
+what must exist for the object to stand
+```
+
+Ceiling asks:
+
+```text
+What holds this together?
+What depends on what?
+Where is the load carried?
+What breaks if one support is missing?
+What is implied but not stated?
+What needs an index?
+What needs a ledger?
+What needs a schema?
+What needs a receipt?
+What source proves the current shape?
+What structure is missing behind the visible body?
+```
+
+Ceiling must leave trace:
+
+```text
+Load-bearing findings:
+Dependency map:
+Authority map:
+Missing supports:
+Rule needs:
+Index needs:
+Ledger needs:
+Schema needs:
+Proof needs:
+Receipt needs:
+Structural repairs:
+Blocked items:
+Carry line:
+```
+
+Ceiling failure:
+
+```text
+If Ceiling does not expose the supports, the work may look complete while having no load-bearing spine.
+```
+
+---
+
+## 5.3 ROOF — Weather Shield / Outside Pressure
+
+Roof examines what protects the whole thing from pressure.
+
+Roof is the protection scan.
+
+Use Roof to study:
+
+```text
+drift
+misuse
+future pressure
+outside pressure
+hostile interpretation
+careless assistant behavior
+authority leaks
+proof gaps
+mutation risk
+tool overreach
+false completion
+bad handoffs
+source drift
+web/source comparison
+guard needs
+stop conditions
+DoesNotProve
+future challenge points
+```
+
+Roof asks:
+
+```text
+What can break this later?
+Where can rain get in?
+What can be abused?
+What future event will expose a weakness?
+What would a careless assistant misunderstand?
+What would a mule overrun?
+What would a tool mutate too early?
+What would a user think is approved when it is not?
+What needs a guard?
+What needs a stop line?
+What needs DoesNotProve?
+What must never be silently assumed?
+```
+
+Roof must leave trace:
+
+```text
+Risk findings:
+Drift risks:
+Authority leaks:
+Failure modes:
+Guard needs:
+Stop conditions:
+DoesNotProve lines:
+Future pressure points:
+Blocked items:
+Carry line:
+```
+
+Roof failure:
+
+```text
+If Roof does not test outside pressure, the work may survive the draft but fail the first real event.
+```
+
+---
+
+# 6. Three-Round Structure
+
+## Round 1 — Discover
+
+Purpose:
+
+Find what is there.
+
+Round 1 is the first living read.
+It does not need to be perfect.
+It must be honest.
+
+```text
+Round 1 Walls:
+Find the visible body.
+
+Round 1 Ceiling:
+Find the first structure.
+
+Round 1 Roof:
+Find the first risks and protection gaps.
+```
+
+Round 1 output:
+
+```text
+First discovered version:
+Major parts:
+Major gaps:
+First structure:
+First risks:
+Blocked items:
+First carry line:
+Round 1 checkpoint:
+```
+
+Round 1 failure:
+
+```text
+If Round 1 tries to be final, it will hide what it does not understand.
+```
+
+---
+
+## Round 2 — Pressure
+
+Purpose:
+
+Pick up Round 1 and test it.
+
+Do not start fresh.
+Do not pretend Round 1 never happened.
+Use Round 1 as source.
+
+```text
+Round 2 Walls:
+Where was the first visible body weak, vague, cluttered, mislabeled, or missing?
+
+Round 2 Ceiling:
+Where did the first structure fail under load?
+
+Round 2 Roof:
+Where did the first protection layer fail against drift, misuse, future pressure, or authority confusion?
+```
+
+Round 2 output:
+
+```text
+Pressure findings:
+Corrections:
+Structural upgrades:
+Boundary upgrades:
+Repaired wording:
+New blocked items:
+Second carry line:
+Round 2 checkpoint:
+```
+
+Round 2 failure:
+
+```text
+If Round 2 merely repeats Round 1, it is ritual, not pressure.
+```
+
+---
+
+## Round 3 — Sew / Rebuild
+
+Purpose:
+
+Pick up Round 2 and build the cleaner version.
+
+Do not merely summarize.
+Do not polish weakness.
+Repair and sew.
+
+```text
+Round 3 Walls:
+What should be visible and usable now?
+
+Round 3 Ceiling:
+What rules, indexes, ledgers, receipts, schemas, and state objects hold it now?
+
+Round 3 Roof:
+What guards, stop conditions, DoesNotProve lines, and future-proofing protect it now?
+```
+
+Round 3 output:
+
+```text
+Clean rebuilt version:
+Final repairs:
+Remaining gaps:
+Parked items:
+Proof needs:
+Future triggers:
+Final carry line:
+Final receipt:
+```
+
+Round 3 failure:
+
+```text
+If Round 3 claims eternal finality, it becomes doctrine too early.
+```
+
+Round 3 closes the current pass.
+It does not close the future.
+
+---
+
+# 7. Required Trace Rule
+
+No pass counts unless it leaves trace.
+
+A valid zone must leave visible output.
+
+Minimum acceptable trace:
+
+```text
+findings
+missing parts
+repairs
+blocked items
+carry line
+checkpoint or receipt
+```
+
+Strong trace:
+
+```text
+source used
+tool used
+zone question
+finding
+repair
+proof need
+blocked item
+DoesNotProve
+carry line
+receipt
+```
+
+Hard rule:
+
+```text
+NO TRACE = NO PASS
+```
+
+If the work only happens inside hidden reasoning, the method failed.
+
+---
+
+# 8. Pause Rule
+
+Pause between zones.
+
+Pause after Walls.
+Pause after Ceiling.
+Pause after Roof.
+Pause between full rounds.
+
+The pause is not decoration.
+
+The pause prevents zone-smearing.
+
+Walls should not quietly become Ceiling.
+Ceiling should not quietly become Roof.
+Roof should not quietly become final judgment.
+
+Pause means:
+
+```text
+drop the prior zone’s momentum
+state what was found
+state what carries forward
+state what is blocked
+then enter the next zone cleanly
+```
+
+Pause output:
+
+```text
+Zone completed:
+Carry forward:
+Blocked:
+Next zone:
+```
+
+---
+
+# 9. Tool / Room / Research Rule
+
+Each zone gets the tools, rooms, and research methods that fit that zone.
+
+Do not use the same toolbelt blindly in every zone.
+
+The zone decides the toolbelt.
+
+## Walls Toolbelt
+
+Walls may use:
+
+```text
+file search
+source reading
+heading inventory
+section inventory
+UI inspection
+visible object mapping
+claim listing
+term listing
+surface contradiction scan
+```
+
+## Ceiling Toolbelt
+
+Ceiling may use:
+
+```text
+dependency mapping
+schema analysis
+source-to-live tracing
+proof-chain review
+authority-flow mapping
+state-machine review
+ledger/index review
+version comparison
+relationship mapping
+```
+
+## Roof Toolbelt
+
+Roof may use:
+
+```text
+web search
+outside pattern comparison
+failure-mode analysis
+adversarial critique
+guard review
+authority testing
+risk register
+DoesNotProve extraction
+stop-condition design
+future-event pressure testing
+```
+
+Search rule:
+
+```text
+Every search must answer the current zone’s question.
+No random research.
+No wandering.
+```
+
+---
+
+# 10. Source Rule
+
+The 33rd must stay source-bound.
+
+Every round may create new insight, but it must not detach from source.
+
+Allowed:
+
+```text
+source reading
+outside research
+pattern comparison
+inference clearly marked
+candidate repair
+parked idea
+```
+
+Blocked:
+
+```text
+making up source content
+treating inference as source fact
+dropping source boundaries
+forgetting DoesNotProve
+smoothing contradictions away
+compressing scars into generic advice
+```
+
+Source carry rule:
+
+```text
+SOURCE FIRST.
+INFERENCE MARKED.
+REPAIR SEPARATE.
+PARK FUTURE MATERIAL.
+```
+
+---
+
+# 11. Deep Research Is Not Endless Research
+
+The 33rd is deep, but it is bounded.
+
+It has a defined frame:
+
+```text
+3 rounds
+3 zones per round
+trace each zone
+pause between zones
+receipt at the end
+```
+
+If the work is not finished after Round 3, do not fake completion.
+
+Return:
+
+```text
+WHAT IS DONE:
+WHAT IS STILL WEAK:
+WHAT NEEDS NEW KNOWLEDGE:
+WHAT IS PARKED:
+WHAT SHOULD NOT BE CLAIMED:
+NEXT LEGAL PASS:
+```
+
+The method allows future growth without pretending the current pass solved everything.
+
+---
+
+# 12. Scale Rule
+
+Not every task gets the full 33rd.
+
+Use the full 33rd when:
+
+```text
+the user says deep research
+the source is large
+the stakes are high
+the system is architectural
+the task affects rules
+the task affects custody
+the task affects proof
+the task affects file mutation
+the task has repeated failures
+the task needs outside research
+the task will become a handoff, doctrine candidate, or build spec
+```
+
+Use a lighter pass when:
+
+```text
+the task is small
+the answer is simple
+the user asks for a quick check
+no source transformation is happening
+no rule/custody/proof risk exists
+```
+
+Lighter forms:
+
+```text
+single triple pass
+Walls/Ceiling/Roof only once
+one-zone scan
+quick roof check
+quick ceiling check
+```
+
+Do not waste the full 33rd on small tasks.
+
+Do not refuse the full 33rd when the task clearly needs it.
+
+---
+
+# 13. What This Method Protects Against
+
+The 33rd protects against:
+
+```text
+one-shot summaries
+fake final answers
+pretty weak rewrites
+source drift
+tool overreach
+missing proof
+hidden assumptions
+dropped boundaries
+weak DoesNotProve
+false completion
+authority confusion
+assistant confidence replacing evidence
+large-file soft compression
+outlines that become false authority
+web research that wanders off-task
+```
+
+It also protects against the opposite failure:
+
+```text
+endless vague thinking with no artifact
+```
+
+Deep thinking must still produce work.
+
+---
+
+# 14. Failure Labels
+
+Use these when the method breaks.
+
+```text
+PASS_WITHOUT_TRACE
+ZONE_SMEAR
+ROUND_REPEAT_NOT_PRESSURE
+SOURCE_DRIFT
+RESEARCH_WANDER
+RITUAL_METHOD_USE
+OVERHEAVY_METHOD_USE
+HIDDEN_PASS
+DOES_NOT_PROVE_DROPPED
+FALSE_FINALITY
+TOOLBELT_MISMATCH
+MULE_NOT_PACKETED_FOR_33RD
+```
+
+Definitions:
+
+`PASS_WITHOUT_TRACE`
+A pass happened in words but left no findings, repairs, blocked items, or carry line.
+
+`ZONE_SMEAR`
+Walls, Ceiling, and Roof blurred into the same review.
+
+`ROUND_REPEAT_NOT_PRESSURE`
+Round 2 or Round 3 repeated prior work instead of testing and improving it.
+
+`SOURCE_DRIFT`
+The method produced claims that detached from the source.
+
+`RESEARCH_WANDER`
+Searches were performed but did not answer the zone question.
+
+`RITUAL_METHOD_USE`
+The assistant named the method but did not perform it.
+
+`OVERHEAVY_METHOD_USE`
+The full method was used where a small answer was enough.
+
+`HIDDEN_PASS`
+The assistant did the pass only internally and gave no visible trace.
+
+`DOES_NOT_PROVE_DROPPED`
+The negative boundary disappeared during summary or rebuild.
+
+`FALSE_FINALITY`
+Round 3 pretended to be permanent doctrine.
+
+`TOOLBELT_MISMATCH`
+The wrong tools were used for the zone.
+
+`MULE_NOT_PACKETED_FOR_33RD`
+Mule was judged by the 33rd even though the handoff did not assign it.
+
+---
+
+# 15. Required Receipts
+
+A full 33rd run should end with a receipt.
+
+Minimum receipt:
+
+```text
+33RD_RECEIPT
+
+Status:
+ActiveObject:
+SourceUsed:
+OutsideResearchUsed:
+ToolsUsed:
+RoundsCompleted:
+ZonesCompleted:
+
+Round1WallsTrace:
+Round1CeilingTrace:
+Round1RoofTrace:
+
+Round2WallsTrace:
+Round2CeilingTrace:
+Round2RoofTrace:
+
+Round3WallsTrace:
+Round3CeilingTrace:
+Round3RoofTrace:
+
+Findings:
+Repairs:
+BlockedItems:
+ParkedItems:
+DoesNotProve:
+NextLegalPass:
+FinalCarryLine:
+```
+
+Short receipt:
+
+```text
+33RD COMPLETE / PARTIAL / BLOCKED
+
+Done:
+Still weak:
+Parked:
+Blocked:
+DoesNotProve:
+Next legal pass:
+```
+
+No receipt means the method is not closed.
+
+---
+
+# 16. 33rd Workbench Sheet
+
+Use this at the start of a deep research run.
+
+```text
+33RD_WORKBENCH
+
+ActiveObject:
+UserRequest:
+SourceSet:
+Known Boundaries:
+Allowed Tools:
+Forbidden Actions:
+Expected Output:
+Stop Conditions:
+
+ROUND 1 — DISCOVER
+[ ] Walls
+[ ] Ceiling
+[ ] Roof
+
+ROUND 2 — PRESSURE
+[ ] Walls
+[ ] Ceiling
+[ ] Roof
+
+ROUND 3 — SEW / REBUILD
+[ ] Walls
+[ ] Ceiling
+[ ] Roof
+
+Trace Required:
+Receipt Required:
+DoesNotProve Required:
+Next Legal Pass Required:
+```
+
+For very large work, the first answer may be only:
+
+```text
+SOURCE STATUS
+WORKBENCH
+ROUND PLAN
+STOP CONDITIONS
+NEXT LEGAL ACTION
+```
+
+That is acceptable.
+
+The dangerous data burn is not the planner.
+The dangerous data burn is a full-document rewrite before the planner exists.
+
+---
+
+# 17. DoesNotProve Library
+
+Use these as needed.
+
+```text
+This pass does not prove the system is complete.
+This pass does not prove doctrine promotion is safe.
+This pass does not prove future events cannot change the method.
+This pass does not prove all sources were exhausted.
+This pass does not prove Mule should use the 33rd unless the packet says so.
+This pass does not prove a draft is installed.
+This pass does not prove a handoff was executed.
+This pass does not prove mutation is authorized.
+This pass does not prove the next pass is unnecessary.
+This pass does not replace receipts, proof, or source custody.
+```
+
+---
+
+# 18. Weak Spots / Hard Critique
+
+## Weak Spot 1 — It Can Become Ritual
+
+If the assistant says Walls / Ceiling / Roof but leaves no trace, the method is fake.
+
+Repair:
+
+```text
+NO TRACE = NO PASS
+```
+
+## Weak Spot 2 — It Can Become Too Heavy
+
+Nine zones can be wasteful for small tasks.
+
+Repair:
+
+```text
+Full 33rd only when invoked or justified by task size/risk.
+```
+
+## Weak Spot 3 — The Zones Can Blur
+
+Walls, Ceiling, and Roof can collapse into one generic review.
+
+Repair:
+
+```text
+Walls = visible body
+Ceiling = load-bearing structure
+Roof = outside protection
+```
+
+## Weak Spot 4 — Research Can Wander
+
+Web search can become a side quest.
+
+Repair:
+
+```text
+Each search must answer the current zone question.
+```
+
+## Weak Spot 5 — Round 3 Can Pretend To Be Final
+
+The third round can sound too complete.
+
+Repair:
+
+```text
+Round 3 is best current rebuild, not eternal doctrine.
+Close with Done / Weak / Parked / Future Trigger / DoesNotProve.
+```
+
+## Weak Spot 6 — The Assistant Can Hide The Work
+
+If the pass happens only inside hidden reasoning, the user cannot verify it.
+
+Repair:
+
+```text
+Visible trace required.
+```
+
+## Weak Spot 7 — It Can Drop New Events
+
+The method can become too rigid if it refuses new challenges.
+
+Repair:
+
+```text
+New events can update methods.
+Core invariants protect the floor.
+Methods stay revisable.
+```
+
+## Weak Spot 8 — It Can Confuse Pressure With Negativity
+
+Pressure is not pessimism.
+
+Repair:
+
+```text
+Critique must produce repair, not just damage.
+```
+
+## Weak Spot 9 — It Can Overtrust Tools
+
+Tools can produce outputs without judgment.
+
+Repair:
+
+```text
+Tool output enters the zone as evidence, not final truth.
+```
+
+---
+
+# 19. Core Invariants
+
+These should not drift.
+
+```text
+Deep research invokes the 33rd by default.
+
+The 33rd is three full triple passes.
+
+A full triple pass is Walls, Ceiling, Roof.
+
+Each zone uses fitting tools, rooms, source reading, and research.
+
+Each zone leaves trace.
+
+Each round reworks the prior round.
+
+Pause between zones.
+
+No pass counts without output.
+
+Mule only uses the 33rd when explicitly packeted.
+
+Round 3 is a current rebuild, not permanent doctrine.
+
+No trace, no pass.
+```
+
+---
+
+# 20. Short Command Form
+
+```text
+DEEP RESEARCH = 33RD
+
+Round 1 — Discover:
+  Walls -> Ceiling -> Roof
+
+Round 2 — Pressure:
+  Walls -> Ceiling -> Roof
+
+Round 3 — Sew / Rebuild:
+  Walls -> Ceiling -> Roof
+
+Each zone uses the tools/rooms/source/web/research that fit that zone.
+Pause between zones.
+Each zone leaves trace.
+Each round reworks the prior round.
+Close with receipt, DoesNotProve, parked items, and next legal pass.
+```
+
+---
+
+# 21. Final Carry Line
+
+```text
+A FULL TRIPLE PASS =
+WALLS WITH TOOLS / ROOMS / RESEARCH,
+PAUSE;
+CEILING WITH TOOLS / ROOMS / RESEARCH,
+PAUSE;
+ROOF WITH TOOLS / ROOMS / RESEARCH,
+PAUSE.
+
+THE 33RD =
+THREE FULL TRIPLE PASSES,
+EACH ONE REWORKING THE LAST.
+
+DEEP RESEARCH =
+33RD BY DEFAULT.
+
+NO PASS COUNTS UNLESS IT LEAVES TRACE.
+
+MULE ONLY USES IT WHEN THE HANDOFF TELLS HIM.
+
+THE METHOD IS DEEP PRESSURE, NOT OUTLINE WORSHIP.
+```
+
+```
+
+Main upgrade: I made it stricter around failure labels, receipts, scaling, source custody, and hidden work. The strongest guard is still this:
+
+`NO TRACE = NO PASS.`
+```

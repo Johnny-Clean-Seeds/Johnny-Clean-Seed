@@ -1,0 +1,260 @@
+{
+  "ScanType": "DRY_RUN_REPORT_ONLY_DEEP_SCAN_WASH",
+  "Root": "C:\\Users\\13527\\Desktop\\123",
+  "OutputFolder": "C:\\Users\\13527\\Desktop\\123\\HOUSE_WORK\\PROJECT_COMMAND_CENTER_UI_LANE\\DEEP_SCAN_WASH_DRY_RUN_20260606",
+  "ExcludedOutputFolderFromScanning": true,
+  "Inventory": {
+    "TotalFiles": 22433,
+    "TotalBytes": 1849843140.0,
+    "OutputFolder": "C:\\Users\\13527\\Desktop\\123\\HOUSE_WORK\\PROJECT_COMMAND_CENTER_UI_LANE\\DEEP_SCAN_WASH_DRY_RUN_20260606",
+    "ExcludedOutputFolder": true,
+    "RootFiles": 1,
+    "ScanUtc": "2026-06-06T07:51:02.1823498Z"
+  },
+  "ContentSignalCounts": [
+    {
+      "Category": "REVIEW_REQUIRED",
+      "HitLines": "683",
+      "Files": "99",
+      "SampleRows": "250"
+    },
+    {
+      "Category": "BLOCK_STOP",
+      "HitLines": "84121",
+      "Files": "6347",
+      "SampleRows": "250"
+    },
+    {
+      "Category": "PROOF_GAP",
+      "HitLines": "8986",
+      "Files": "1369",
+      "SampleRows": "250"
+    },
+    {
+      "Category": "NEXT_ACTION",
+      "HitLines": "3613",
+      "Files": "674",
+      "SampleRows": "250"
+    },
+    {
+      "Category": "PARKED_DRAFT",
+      "HitLines": "160244",
+      "Files": "6426",
+      "SampleRows": "250"
+    },
+    {
+      "Category": "MUTATION_LANGUAGE",
+      "HitLines": "121064",
+      "Files": "10543",
+      "SampleRows": "250"
+    },
+    {
+      "Category": "MUTATION_FLAG_TRUE",
+      "HitLines": "31",
+      "Files": "31",
+      "SampleRows": "31"
+    },
+    {
+      "Category": "AUTHORITY_SURFACE",
+      "HitLines": "333446",
+      "Files": "11063",
+      "SampleRows": "250"
+    },
+    {
+      "Category": "PRIVATE_SEALED",
+      "HitLines": "23597",
+      "Files": "1896",
+      "SampleRows": "250"
+    },
+    {
+      "Category": "OUTSIDE_SOURCE",
+      "HitLines": "28675",
+      "Files": "1181",
+      "SampleRows": "250"
+    },
+    {
+      "Category": "SECRET_SURFACE",
+      "HitLines": "9278",
+      "Files": "760",
+      "SampleRows": "250"
+    }
+  ],
+  "FilenameSignalCounts": [
+    {
+      "Category": "ROOT_FILE",
+      "Files": "1",
+      "Bytes": "115"
+    },
+    {
+      "Category": "REVIEW_REQUIRED",
+      "Files": "2211",
+      "Bytes": "235930261"
+    },
+    {
+      "Category": "BLOCK_STOP",
+      "Files": "1550",
+      "Bytes": "131893715"
+    },
+    {
+      "Category": "PARKED_DRAFT",
+      "Files": "900",
+      "Bytes": "43452663"
+    },
+    {
+      "Category": "MUTATION_LANGUAGE",
+      "Files": "10211",
+      "Bytes": "1197923630"
+    },
+    {
+      "Category": "AUTHORITY_SURFACE",
+      "Files": "2511",
+      "Bytes": "293601642"
+    },
+    {
+      "Category": "PRIVATE_SEALED",
+      "Files": "12",
+      "Bytes": "149082"
+    },
+    {
+      "Category": "OUTSIDE_SOURCE",
+      "Files": "470",
+      "Bytes": "14090694"
+    },
+    {
+      "Category": "SECRET_SURFACE",
+      "Files": "129",
+      "Bytes": "8204148"
+    },
+    {
+      "Category": "BINARY_ARCHIVE_EXECUTABLE",
+      "Files": "460",
+      "Bytes": "1239613941"
+    }
+  ],
+  "ClassCounts": [
+    {
+      "Name": "RECEIPT",
+      "Count": "11639",
+      "Bytes": "1224690412"
+    },
+    {
+      "Name": "GENERAL",
+      "Count": "6130",
+      "Bytes": "298544887"
+    },
+    {
+      "Name": "SOURCE",
+      "Count": "2035",
+      "Bytes": "222898519"
+    },
+    {
+      "Name": "SCRIPT_OR_RUNNER",
+      "Count": "1355",
+      "Bytes": "27570354"
+    },
+    {
+      "Name": "REVIEW_REPORT",
+      "Count": "461",
+      "Bytes": "10020882"
+    },
+    {
+      "Name": "PACKET_OR_ORDER",
+      "Count": "356",
+      "Bytes": "57009036"
+    },
+    {
+      "Name": "MANIFEST",
+      "Count": "245",
+      "Bytes": "2804423"
+    },
+    {
+      "Name": "HASH_LEDGER",
+      "Count": "119",
+      "Bytes": "5651704"
+    },
+    {
+      "Name": "GUARD",
+      "Count": "55",
+      "Bytes": "490940"
+    },
+    {
+      "Name": "BLOCKER",
+      "Count": "37",
+      "Bytes": "161868"
+    },
+    {
+      "Name": "ROOT_FILE",
+      "Count": "1",
+      "Bytes": "115"
+    }
+  ],
+  "TopLevelCounts": [
+    {
+      "Name": "_LOCAL_CUSTODY_N_RECEIPTS",
+      "Count": "9836",
+      "Bytes": "1204605291"
+    },
+    {
+      "Name": "Jxhnny_Kl33N_Seedz",
+      "Count": "8387",
+      "Bytes": "378346766"
+    },
+    {
+      "Name": "_MISC_DRAWER",
+      "Count": "2120",
+      "Bytes": "224166105"
+    },
+    {
+      "Name": "_LOCAL_CUSTODY_AND_RECEIPTS",
+      "Count": "676",
+      "Bytes": "12920910"
+    },
+    {
+      "Name": "_TRANSCRIPT_CUSTODY",
+      "Count": "640",
+      "Bytes": "9588106"
+    },
+    {
+      "Name": "_TOOLS_AND_SCRIPTS",
+      "Count": "516",
+      "Bytes": "9229995"
+    },
+    {
+      "Name": "_SOURCE_RESEARCH_NOTES",
+      "Count": "123",
+      "Bytes": "5195983"
+    },
+    {
+      "Name": "HOUSE_WORK",
+      "Count": "60",
+      "Bytes": "3231512"
+    },
+    {
+      "Name": "COMMAND_CENTER",
+      "Count": "38",
+      "Bytes": "202235"
+    },
+    {
+      "Name": "_CHAT_DROPS",
+      "Count": "33",
+      "Bytes": "1272809"
+    },
+    {
+      "Name": "_MEDIA_ASSETS",
+      "Count": "3",
+      "Bytes": "1083313"
+    },
+    {
+      "Name": "ROOT",
+      "Count": "1",
+      "Bytes": "115"
+    }
+  ],
+  "MutationPerformed": false,
+  "Deleted": false,
+  "Moved": false,
+  "Installed": false,
+  "Committed": false,
+  "OutsideSourcesUsed": false,
+  "FinishedUtc": "2026-06-06T07:55:57.6082731Z"
+}

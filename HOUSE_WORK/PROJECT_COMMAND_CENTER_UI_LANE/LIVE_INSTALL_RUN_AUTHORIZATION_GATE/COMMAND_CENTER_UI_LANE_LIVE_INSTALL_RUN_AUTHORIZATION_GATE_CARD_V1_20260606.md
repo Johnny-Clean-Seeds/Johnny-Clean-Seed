@@ -1,0 +1,30 @@
+# COMMAND CENTER UI LANE LIVE INSTALL RUN AUTHORIZATION GATE CARD
+## V1
+
+Date: 20260606
+GeneratedUtc: 2026-06-06T20:40:29.8266502Z
+GateScript: C:\Users\13527\Desktop\123\HOUSE_WORK\PROJECT_COMMAND_CENTER_UI_LANE\LIVE_INSTALL_RUN_AUTHORIZATION_GATE\COMMAND_CENTER_UI_LANE_LIVE_INSTALL_RUN_AUTHORIZATION_GATE_V1_20260606.ps1
+
+# Required Phrase
+
+I AUTHORIZE RUNNING THE COMMAND CENTER UI LANE LIVE INSTALL NOW
+
+# Meaning
+
+This gate can authorize running the built execution script.
+It does not run the install itself.
+
+# Pending Run
+
+pwsh -NoProfile -ExecutionPolicy Bypass -File "C:\Users\13527\Desktop\123\HOUSE_WORK\PROJECT_COMMAND_CENTER_UI_LANE\LIVE_INSTALL_RUN_AUTHORIZATION_GATE\COMMAND_CENTER_UI_LANE_LIVE_INSTALL_RUN_AUTHORIZATION_GATE_V1_20260606.ps1"
+
+# Authorization Run
+
+pwsh -NoProfile -ExecutionPolicy Bypass -File "C:\Users\13527\Desktop\123\HOUSE_WORK\PROJECT_COMMAND_CENTER_UI_LANE\LIVE_INSTALL_RUN_AUTHORIZATION_GATE\COMMAND_CENTER_UI_LANE_LIVE_INSTALL_RUN_AUTHORIZATION_GATE_V1_20260606.ps1" -AuthorizeRunInstall -AuthorizationPhrase "I AUTHORIZE RUNNING THE COMMAND CENTER UI LANE LIVE INSTALL NOW" -AuthorizedBy "Jonathon"
+
+# Boundary
+
+No live install by this gate.
+No file copy by this gate.
+No target folder creation by this gate.
+No doctrine promotion.
