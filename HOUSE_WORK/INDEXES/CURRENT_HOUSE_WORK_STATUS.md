@@ -551,9 +551,10 @@ Summary:
 - ManifestSha256: 0CEDCDBAD5BF0FF819B60D6991964684C23579F6F478B5B44016AA975BE82FEE
 - Verdict: APPLY_ROOT_LEGACY_RESIDUE_PHASE2_DONE / ROOT_LEGACY_PACKAGES_PARKED_WITH_RETURN_TRIGGER / ROOT_UNEXPECTED_DIRECT_ITEMS_REMAIN_FOR_REVIEW
 - Boundary: old/legacy root residue parked or routed; packages not installed; no target helper run; no commit/push by script.
+
 ## Project Command Center UI Lane V0.1 — 2026-06-04
 
-Status: UI_LANE_BIG_JOB_COMPLETE_WITH_BLOCKER_BURNDOWN_PENDING_SAVE
+Status: UI_LANE_BIG_JOB_COMPLETE_WITH_BLOCKER_BURNDOWN_SAVED_AND_PUSHED
 
 Lane:
 - HOUSE_WORK/PROJECT_COMMAND_CENTER_UI_LANE/
@@ -589,10 +590,11 @@ Boundary:
 Closeout:
 - ROOT_NO_LOOSE_FILES_CHECK_PASS
 - TARGET_HELPER_NOT_RUN
-## Project Command Center UI Lane Phase 2 - 2026-06-04
+- SAVE_CLOSEOUT_COMPLETED_AFTER_SEPARATE_GATE: pushed commits 6616735, fc71fc5, and 9205ea8.
 
-Status: UI_LANE_PHASE2_BIG_JOB_COMPLETE_WITH_BLOCKER_BURNDOWN_PENDING_SAVE
-PriorSave: UI_LANE_EXACT_SET_SAVE_COMMIT_AND_PUSH_PROVED at 7e7bf473c6c218bbbd62232dbb2d2a08005a8096
+## Project Command Center UI Lane Phase 2 — 2026-06-04
+
+Status: UI_LANE_PHASE2_BIG_JOB_COMPLETE_WITH_BLOCKER_BURNDOWN_SAVED_AND_PUSHED
 
 Lane:
 - HOUSE_WORK/PROJECT_COMMAND_CENTER_UI_LANE/
@@ -629,3 +631,16 @@ Closeout:
 - HASH_BACKED_REVERSIBILITY_RECORDED
 - TARGET_HELPER_NOT_RUN
 - ROOT_NO_LOOSE_FILES_CHECK_PASS
+
+## Command Center UI Lane Save Closeout — 2026-06-06
+
+Status: SAVED_AND_PUSHED
+
+Commits:
+- 6616735 Install Command Center UI lane
+- fc71fc5 Save loose proof and Row 001 cleanup candidates
+- 9205ea8 Save Row 001 local runner reference packet
+
+Boundary:
+- UI lane work, loose proof/Row 001 cleanup candidates, and Row 001 runner reference packet are saved and pushed to origin/main.
+- Remaining local change after this closeout is this status index update itself.
