@@ -1,0 +1,5 @@
+"Layer","Evidence","Verdict"
+"LOWER_FILE_LAYER","lower_defect_count=0; lower_file_defect_not_found_count=4","LOWER_FILE_DEFECT_NOT_FOUND"
+"REPORT_LAYER","report_defect_count=1; report_defect_not_found_count=0","REPORT_LAYER_DEFECT_CONFIRMED"
+"COMMAND_OR_SHELL_LAYER","V0.1 trace and prior scan both showed elseif parsed as command after split interactive block.","COMMAND_LAYER_DEFECT_CONFIRMED_BY_REPEATED_INTERACTIVE_ELSEIF_FAILURE"
+"ROOT_CAUSE_CLASSIFICATION","lower_defect_count=0; lower_file_defect_not_found_count=4; report_defect_count=1","REPORT_LAYER_DEFECT_CONFIRMED_LOWER_FILE_DEFECT_NOT_FOUND"

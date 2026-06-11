@@ -1,0 +1,73 @@
+# STATIC SCAN: POST DELTA REVIEW ROUTE RECONSIDERATION SELECTOR
+
+Status:
+STATIC_GATE_SCAN_BLOCKED_REPAIR_REQUIRED_NO_EXECUTION / NO_EXECUTION / NO_SCRIPT_REPAIR / NO_PHYSICAL_ACTION
+
+Candidate:
+BUILD_POST_DELTA_REVIEW_ROUTE_RECONSIDERATION_SELECTOR_NO_EXECUTION_20260609_V0_1.ps1
+
+Candidate path:
+C:\Users\13527\Desktop\123\HOUSE_WORK\PROJECT_COMMAND_CENTER_UI_LANE\HELPER_FILE_SURFACE_PREFLIGHT_20260606\BUILD_POST_DELTA_REVIEW_ROUTE_RECONSIDERATION_SELECTOR_NO_EXECUTION_20260609_V0_1.ps1
+
+Candidate SHA256:
+35DF0CD2FCDCD2F2C6249A0FCB95AA17ECA49D4E669FD7A8CA3DE9A99B3BC6B7
+
+Candidate parser error count:
+0
+
+Candidate parser errors:
+none
+
+Source static gate CSV:
+C:\Users\13527\Desktop\123\HOUSE_WORK\PROJECT_COMMAND_CENTER_UI_LANE\HELPER_FILE_SURFACE_PREFLIGHT_20260606\STATIC_GATE__GENERATED_HELPER_REPAIR_COLLECTION_PARAMETER_BINDING_NO_EXECUTION_20260609.csv
+
+Source static gate CSV SHA256:
+564ECC2560DA57D85D6777288BDD1009510EFCB5FF291D9E32D0E7C9691AA8EB
+
+Source selector CSV:
+C:\Users\13527\Desktop\123\HOUSE_WORK\PROJECT_COMMAND_CENTER_UI_LANE\HELPER_FILE_SURFACE_PREFLIGHT_20260606\SELECTOR__GENERATED_HELPER_CANDIDATES_FOR_STATIC_GATE_NO_EXECUTION_20260609.csv
+
+Source selector CSV SHA256:
+0EA56AA647141BE95106B476336EA62BC80ABD838E27062044C2D67BCDCF6C19
+
+Counts:
+- total_gate_count: 10
+- pass_or_not_applicable_count: 8
+- review_required_count: 1
+- blocked_repair_required_count: 1
+
+Gate scan rows:
+
+GateId     StaticVerdict                       Evidence
+------     -------------                       --------
+CPB-SG-001 STATIC_GATE_PASS                    Found array normalization and array-count pattern.
+CPB-SG-002 STATIC_GATE_PASS                    Found foreach over explicit array-wrapped source.
+CPB-SG-003 STATIC_GATE_PASS_NOT_APPLICABLE     No Group-Object usage found.
+CPB-SG-004 STATIC_GATE_PASS                    Found here-string plus Set-Content evidence.
+CPB-SG-005 STATIC_GATE_PASS                    Found string-cast line handling and no direct null append.
+CPB-SG-006 STATIC_GATE_PASS                    Found pscustomobject rows and Export-Csv.
+CPB-SG-007 STATIC_GATE_REVIEW_REQUIRED         Array-count pattern found, but direct .Count also appears and
+                                               needs review.
+CPB-SG-008 STATIC_GATE_PASS                    Found explicit array parameter and array-wrapped source evidence.
+CPB-SG-009 STATIC_GATE_BLOCKED_REPAIR_REQUIRED No clear blocker/issue-count verdict dominance evidence.
+CPB-SG-010 STATIC_GATE_PASS                    Found hash/receipt, diff-or-duplicate evidence, and gate/boundary
+                                               language.
+
+
+
+Control meaning:
+This is a static text scan only.
+The candidate was not executed.
+If blocked_repair_required_count is greater than zero, the candidate remains blocked.
+
+DoesNotProve:
+This scan does not execute the candidate helper.
+This scan does not repair the candidate helper.
+This scan does not authorize route, cleanup, delete, rename, move, commit, push, source rewrite, doctrine promotion, or helper execution.
+This scan does not prove runtime safety.
+
+Next single action:
+DECIDE_REPAIR_THIS_CANDIDATE_OR_SCAN_NEXT_GENERATED_HELPER_NO_EXECUTION
+
+Final verdict:
+STATIC_GATE_SCAN_BLOCKED_REPAIR_REQUIRED_NO_EXECUTION

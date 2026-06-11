@@ -1,0 +1,599 @@
+<#
+ROOT HELD GROUP ROUTE DRY-RUN SELECTOR 20260609 V0.3
+Status: DRY_RUN_SELECTOR_BUILDER_REPAIR_V0_3 / READ_ONLY_CLASSIFICATION / NO_PHYSICAL_ROUTING
+
+Repair reason:
+  V0.1 failed under Set-StrictMode because a collection-like value collapsed to a scalar and .Count was called.
+  V0.2 repaired scalar count checks but failed on strict parameter binding. V0.3 uses loose input intake and internal path-list normalization before parsing route proof files.
+
+Boundary:
+  This script does not move, delete, rename, route, execute helper scripts, commit, push, or rewrite source.
+  It writes only report/receipt/freeze/fix-note files into the existing helper-file surface preflight lane.
+#>
+
+[CmdletBinding()]
+param(
+    [string]$ProjectRoot = (Join-Path $env:USERPROFILE 'Desktop\123'),
+    [string]$RepoRel = 'Jxhnny_Kl33N_Seedz',
+    [string]$LaneRel = 'HOUSE_WORK\PROJECT_COMMAND_CENTER_UI_LANE\HELPER_FILE_SURFACE_PREFLIGHT_20260606',
+    [string]$ExpectedHead = 'bdc74ff82837fe30a10f7f5047d0b54b65321016'
+)
+
+Set-StrictMode -Version Latest
+$ErrorActionPreference = 'Stop'
+
+$ReportName = 'ROOT_HELD_GROUP_ROUTE_DRY_RUN_SELECTOR_V0_3_20260609.md'
+$ReceiptName = 'ROOT_HELD_GROUP_ROUTE_DRY_RUN_SELECTOR_RECEIPT_V0_3_20260609.txt'
+$ErrorFreezeName = 'ERROR_FREEZE__ROOT_HELD_ROUTE_DRY_RUN_SELECTOR_V0_2_PARAM_BINDING_20260609.md'
+$FixNoteName = 'FIX_NOTE__ROOT_HELD_ROUTE_DRY_RUN_SELECTOR_V0_3_LOOSE_INPUT_NORMALIZATION_20260609.md'
+$FixReceiptName = 'HASH_RECEIPT__ROOT_HELD_ROUTE_DRY_RUN_SELECTOR_V0_3_FIX_20260609.txt'
+
+function Measure-Items {
+    param([AllowNull()]$Value)
+    if ($null -eq $Value) { return 0 }
+    return @($Value).Length
+}
+
+function New-RowObject {
+    param([hashtable]$Values)
+    return [pscustomobject]$Values
+}
+
+function Get-Sha256Safe {
+    param([Parameter(Mandatory=$true)][string]$Path)
+    try {
+        if (-not (Test-Path -LiteralPath $Path -PathType Leaf)) { return $null }
+        return (Get-FileHash -LiteralPath $Path -Algorithm SHA256).Hash.ToUpperInvariant()
+    } catch {
+        return "HASH_READ_FAILED: $($_.Exception.Message)"
+    }
+}
+
+function Escape-Md {
+    param([AllowNull()][string]$Text)
+    if ($null -eq $Text) { return '' }
+    return ($Text -replace '\|','\\|' -replace "`r?`n", ' ')
+}
+
+function Invoke-GitSafe {
+    param(
+        [Parameter(Mandatory=$true)][string]$RepoPath,
+        [Parameter(Mandatory=$true)][string[]]$GitArgs
+    )
+    try {
+        $rawOutput = & git -C $RepoPath @GitArgs 2>&1
+        $code = $LASTEXITCODE
+        $outputArray = @($rawOutput)
+        return [pscustomobject]@{ Code = $code; Output = $outputArray }
+    } catch {
+        return [pscustomobject]@{ Code = 999; Output = @($_.Exception.Message) }
+    }
+}
+
+function Get-ReceptionistRole {
+    param(
+        [Parameter(Mandatory=$true)][System.IO.FileInfo]$FileInfo,
+        [AllowNull()][string]$DeltaStatus
+    )
+    $name = $FileInfo.Name
+    $ext = $FileInfo.Extension.ToLowerInvariant()
+    $size = [int64]$FileInfo.Length
+
+    if ($name -ieq 'desktop.ini') {
+        return [pscustomobject]@{
+            Role='SYSTEM_FILE_LEAVE_IN_PLACE'; State='VERIFIED_PRESENT'; Authority='ORIENTS_ONLY'; Risk='BLOCKED_RISK_SYSTEM_FILE'; Confidence='HIGH_CONFIDENCE'; Proposal='PROPOSE_LEAVE_IN_PLACE'; Reason='Windows/system metadata candidate; not deletion proof.'
+        }
+    }
+    if ($ext -in @('.ps1','.bat','.cmd','.exe','.vbs','.js','.py','.psm1')) {
+        return [pscustomobject]@{
+            Role='EXECUTABLE_HELPER_REVIEW_REQUIRED'; State='VERIFIED_PRESENT'; Authority='EXECUTION_CANDIDATE_ONLY'; Risk='HIGH_RISK_EXECUTABLE'; Confidence='HIGH_CONFIDENCE'; Proposal='PROPOSE_REVIEW_AS_HELPER'; Reason='Executable or script-like file; review only, never auto-run.'
+        }
+    }
+    if ($name -match '(?i)receipt|hash_receipt') {
+        return [pscustomobject]@{
+            Role='RECEIPT'; State='VERIFIED_PRESENT'; Authority='PROVES_PAST_ACTION'; Risk='LOW_RISK_POINTER'; Confidence='HIGH_CONFIDENCE'; Proposal='PROPOSE_INDEX_AS_PROOF_HISTORY'; Reason='Name indicates receipt/proof object; receipt is proof, not active order.'
+        }
+    }
+    if ($name -match '(?i)error_freeze|failure|incident') {
+        return [pscustomobject]@{
+            Role='ERROR_FREEZE'; State='VERIFIED_PRESENT'; Authority='PROVES_PAST_ACTION'; Risk='MEDIUM_RISK_CUSTODY_DECISION'; Confidence='HIGH_CONFIDENCE'; Proposal='PROPOSE_INDEX_AS_PROOF_HISTORY'; Reason='Name indicates failure freeze or incident evidence.'
+        }
+    }
+    if ($name -match '(?i)fix_note|repair') {
+        return [pscustomobject]@{
+            Role='FIX_NOTE'; State='VERIFIED_PRESENT'; Authority='SUPPORTS_DECISION'; Risk='LOW_RISK_SUPPORT'; Confidence='MEDIUM_CONFIDENCE'; Proposal='PROPOSE_KEEP_AS_SUPPORT'; Reason='Name indicates repair/fix support note.'
+        }
+    }
+    if ($name -match '(?i)route|ledger|closeout|option|queue|review|plan') {
+        return [pscustomobject]@{
+            Role='LEDGER'; State='VERIFIED_PRESENT'; Authority='SUPPORTS_DECISION'; Risk='MEDIUM_RISK_CUSTODY_DECISION'; Confidence='MEDIUM_CONFIDENCE'; Proposal='PROPOSE_KEEP_AS_SUPPORT'; Reason='Name indicates planning/review/ledger object; not movement authority.'
+        }
+    }
+    if ($size -eq 0) {
+        return [pscustomobject]@{
+            Role='OLD_LOAD_OR_SUPERSEDED'; State='VERIFIED_PRESENT'; Authority='ORIENTS_ONLY'; Risk='MEDIUM_RISK_OLD_LOAD'; Confidence='LOW_CONFIDENCE'; Proposal='PROPOSE_USER_DECISION'; Reason='Zero-byte file is a review signal only; not trash proof.'
+        }
+    }
+    if ($ext -in @('.md','.txt','.json','.csv','.log')) {
+        return [pscustomobject]@{
+            Role='SUPPORT_GUARDRAIL'; State='VERIFIED_PRESENT'; Authority='ORIENTS_ONLY'; Risk='LOW_RISK_SUPPORT'; Confidence='MEDIUM_CONFIDENCE'; Proposal='PROPOSE_KEEP_AS_SUPPORT'; Reason='Text/support-like file; review as support unless current source proof says otherwise.'
+        }
+    }
+
+    return [pscustomobject]@{
+        Role='UNKNOWN_NEEDS_USER'; State='USER_DECISION_REQUIRED'; Authority='USER_APPROVAL_REQUIRED'; Risk='MEDIUM_RISK_CUSTODY_DECISION'; Confidence='LOW_CONFIDENCE'; Proposal='PROPOSE_USER_DECISION'; Reason='No strong controlled-label match; user review required.'
+    }
+}
+
+function Normalize-StringList {
+    param([AllowNull()][object]$Value)
+    $list = New-Object System.Collections.Generic.List[string]
+    if ($null -eq $Value) { return @($list.ToArray()) }
+
+    if ($Value -is [string]) {
+        if (-not [string]::IsNullOrWhiteSpace($Value)) { $list.Add([string]$Value) | Out-Null }
+        return @($list.ToArray())
+    }
+
+    if ($Value -is [System.Collections.IEnumerable]) {
+        foreach ($item in $Value) {
+            if ($null -eq $item) { continue }
+            $s = ([string]$item).Trim()
+            if (-not [string]::IsNullOrWhiteSpace($s)) { $list.Add($s) | Out-Null }
+        }
+        return @($list.ToArray())
+    }
+
+    $single = ([string]$Value).Trim()
+    if (-not [string]::IsNullOrWhiteSpace($single)) { $list.Add($single) | Out-Null }
+    return @($list.ToArray())
+}
+
+function Extract-ExpectedRootRows {
+    param(
+        [AllowNull()][object]$InputFilePaths,
+        [Parameter(Mandatory=$true)][string]$RootPath
+    )
+
+    $rows = New-Object System.Collections.Generic.List[object]
+    $inputPathList = @(Normalize-StringList -Value $InputFilePaths)
+    foreach ($inputPath in @($inputPathList)) {
+        if ([string]::IsNullOrWhiteSpace([string]$inputPath)) { continue }
+        if (-not (Test-Path -LiteralPath $inputPath -PathType Leaf)) { continue }
+        $lines = @(Get-Content -LiteralPath $inputPath -ErrorAction Stop)
+        $lineNo = 0
+        foreach ($line in @($lines)) {
+            $lineNo++
+            $paths = @([regex]::Matches([string]$line, 'C:\Users\13527\Desktop\123\[^`|\]\)\s,]+'))
+            if ((Measure-Items $paths) -eq 0) { continue }
+            $hashMatch = [regex]::Match([string]$line, '(?i)\b[A-F0-9]{64}\b')
+            $hash = if ($hashMatch.Success) { $hashMatch.Value.ToUpperInvariant() } else { $null }
+            foreach ($p in @($paths)) {
+                $pathText = ([string]$p.Value).Trim().Trim('`').Trim()
+                try {
+                    $parent = Split-Path -LiteralPath $pathText -Parent
+                    if ($parent -ne $RootPath) { continue }
+                } catch { continue }
+                $rows.Add([pscustomobject]@{
+                    ExpectedPath = $pathText
+                    ExpectedName = Split-Path -Leaf $pathText
+                    ExpectedHash = $hash
+                    SourceProofFile = $inputPath
+                    SourceLine = $lineNo
+                }) | Out-Null
+            }
+        }
+    }
+    return @($rows)
+}
+
+$RepoPath = Join-Path $ProjectRoot $RepoRel
+$LanePath = Join-Path $ProjectRoot $LaneRel
+$ReportPath = Join-Path $LanePath $ReportName
+$ReceiptPath = Join-Path $LanePath $ReceiptName
+$ErrorFreezePath = Join-Path $LanePath $ErrorFreezeName
+$FixNotePath = Join-Path $LanePath $FixNoteName
+$FixReceiptPath = Join-Path $LanePath $FixReceiptName
+$Blockers = New-Object System.Collections.Generic.List[string]
+$Warnings = New-Object System.Collections.Generic.List[string]
+
+if (-not (Test-Path -LiteralPath $ProjectRoot -PathType Container)) {
+    throw "Project root not found: $ProjectRoot"
+}
+if (-not (Test-Path -LiteralPath $LanePath -PathType Container)) {
+    throw "Lane path not found. Refusing to create new lane folder during dry-run selector repair: $LanePath"
+}
+foreach ($outPath in @($ReportPath, $ReceiptPath, $ErrorFreezePath, $FixNotePath, $FixReceiptPath)) {
+    if (Test-Path -LiteralPath $outPath -PathType Leaf) {
+        throw "Output already exists. Refusing overwrite: $outPath"
+    }
+}
+
+$gitAvailable = $true
+try { $null = & git --version 2>&1 } catch { $gitAvailable = $false }
+if (-not $gitAvailable) { $Blockers.Add('GIT_NOT_AVAILABLE') | Out-Null }
+
+$gitHead = $null
+$gitStatusLines = @()
+if (Test-Path -LiteralPath $RepoPath -PathType Container) {
+    if ($gitAvailable) {
+        $headResult = Invoke-GitSafe -RepoPath $RepoPath -GitArgs @('rev-parse','HEAD')
+        if ($headResult.Code -eq 0 -and (Measure-Items $headResult.Output) -gt 0) {
+            $gitHead = ([string]@($headResult.Output)[0]).Trim()
+        } else {
+            $Blockers.Add('GIT_HEAD_READ_FAILED') | Out-Null
+        }
+        $statusResult = Invoke-GitSafe -RepoPath $RepoPath -GitArgs @('status','--porcelain')
+        if ($statusResult.Code -eq 0) {
+            $gitStatusLines = @($statusResult.Output)
+        } else {
+            $Blockers.Add('GIT_STATUS_READ_FAILED') | Out-Null
+        }
+        if ($gitHead -and ($gitHead -ne $ExpectedHead)) {
+            $Blockers.Add("EXPECTED_HEAD_MISMATCH expected=$ExpectedHead actual=$gitHead") | Out-Null
+        }
+        if ((Measure-Items $gitStatusLines) -gt 0) {
+            $Blockers.Add("GIT_STATUS_NOT_CLEAN count=$(Measure-Items $gitStatusLines)") | Out-Null
+        }
+    }
+} else {
+    $Blockers.Add("REPO_PATH_NOT_FOUND $RepoPath") | Out-Null
+}
+
+$routeProofList = New-Object System.Collections.Generic.List[string]
+foreach ($base in @($LanePath, $RepoPath)) {
+    if (Test-Path -LiteralPath $base -PathType Container) {
+        $found = @(Get-ChildItem -LiteralPath $base -Recurse -File -Force -ErrorAction SilentlyContinue |
+            Where-Object { $_.Name -match 'ROOT_HELD_GROUP_ROUTE_PLAN_ONLY|ROOT_HELD_GROUP_ROUTE|HELD_GROUP_ROUTE' } |
+            Select-Object -ExpandProperty FullName)
+        foreach ($f in @($found)) {
+            if ($null -ne $f -and -not $routeProofList.Contains([string]$f)) { $routeProofList.Add([string]$f) | Out-Null }
+        }
+    }
+}
+$routeProofCandidates = @($routeProofList.ToArray() | Sort-Object -Unique)
+if ((Measure-Items $routeProofCandidates) -eq 0) {
+    $Blockers.Add('ROUTE_PLAN_PROOF_OBJECTS_NOT_FOUND_BY_NAME_SEARCH') | Out-Null
+}
+
+$expectedRows = @(Extract-ExpectedRootRows -InputFilePaths $routeProofCandidates -RootPath $ProjectRoot)
+$expectedByPath = @{}
+foreach ($row in @($expectedRows)) {
+    if ($null -eq $row) { continue }
+    if (-not $expectedByPath.ContainsKey($row.ExpectedPath)) {
+        $expectedByPath[$row.ExpectedPath] = $row
+    }
+}
+if ((Measure-Items $expectedByPath.Keys) -eq 0) {
+    $Warnings.Add('NO_EXPECTED_ROOT_ROWS_PARSED_FROM_ROUTE_PLAN_PROOF_FILES; report will still snapshot live root and block route execution.') | Out-Null
+}
+
+$liveFiles = @(Get-ChildItem -LiteralPath $ProjectRoot -File -Force -ErrorAction Stop | Sort-Object Name)
+$liveByPath = @{}
+foreach ($f in @($liveFiles)) { $liveByPath[$f.FullName] = $f }
+
+$tickets = New-Object System.Collections.Generic.List[object]
+$allPaths = New-Object System.Collections.Generic.HashSet[string]
+foreach ($p in @($expectedByPath.Keys)) { [void]$allPaths.Add([string]$p) }
+foreach ($p in @($liveByPath.Keys)) { [void]$allPaths.Add([string]$p) }
+
+$ticketIndex = 0
+foreach ($path in @($allPaths | Sort-Object)) {
+    $ticketIndex++
+    $expected = if ($expectedByPath.ContainsKey($path)) { $expectedByPath[$path] } else { $null }
+    $fileInfo = if ($liveByPath.ContainsKey($path)) { $liveByPath[$path] } else { $null }
+    $delta = 'UNKNOWN'
+    $currentHash = $null
+    $expectedHash = $null
+    $name = Split-Path -Leaf $path
+    $size = $null
+    $ext = [System.IO.Path]::GetExtension($name)
+    $lastWrite = $null
+
+    if ($null -ne $expected) { $expectedHash = $expected.ExpectedHash }
+
+    if ($null -ne $fileInfo) {
+        $currentHash = Get-Sha256Safe -Path $fileInfo.FullName
+        $size = $fileInfo.Length
+        $lastWrite = $fileInfo.LastWriteTime.ToString('yyyy-MM-dd HH:mm:ss')
+        if ($null -eq $expected) { $delta = 'NEW_SINCE_ROUTE_PLAN_OR_NOT_PARSED_FROM_PLAN' }
+        elseif ($expectedHash -and $currentHash -and $currentHash -eq $expectedHash) { $delta = 'HASH_MATCHED' }
+        elseif ($expectedHash -and $currentHash -and $currentHash -ne $expectedHash) { $delta = 'HASH_CHANGED' }
+        else { $delta = 'VERIFIED_PRESENT_EXPECTED_HASH_NOT_AVAILABLE' }
+    } else {
+        $delta = 'MISSING_AT_REVIEW'
+    }
+
+    if ($null -ne $fileInfo) {
+        $role = Get-ReceptionistRole -FileInfo $fileInfo -DeltaStatus $delta
+    } else {
+        $role = [pscustomobject]@{
+            Role='UNKNOWN_NEEDS_USER'; State='MISSING_AT_REVIEW'; Authority='USER_APPROVAL_REQUIRED'; Risk='MEDIUM_RISK_CUSTODY_DECISION'; Confidence='LOW_CONFIDENCE'; Proposal='PROPOSE_USER_DECISION'; Reason='Expected object was not present during live-root dry run.'
+        }
+    }
+
+    if ($delta -eq 'HASH_CHANGED') {
+        $role.Risk = 'BLOCKED_RISK_AUTHORITY_CONFLICT'
+        $role.Confidence = 'HIGH_CONFIDENCE'
+        $role.Proposal = 'PROPOSE_BLOCK'
+        $role.Reason = $role.Reason + ' Hash differs from expected route-plan proof; block before any route.'
+    } elseif ($delta -eq 'NEW_SINCE_ROUTE_PLAN_OR_NOT_PARSED_FROM_PLAN') {
+        $role.State = 'NEW_SINCE_LAST_SNAPSHOT'
+        if ($role.Risk -notmatch '^HIGH|^BLOCKED') { $role.Risk = 'MEDIUM_RISK_CUSTODY_DECISION' }
+        $role.Proposal = 'PROPOSE_USER_DECISION'
+        $role.Reason = $role.Reason + ' New/not-parsed relative to expected route-plan set; user review needed.'
+    }
+
+    $tickets.Add([pscustomobject]@{
+        TicketID = ('RHG-DRY-{0:D3}' -f $ticketIndex)
+        FileName = $name
+        CurrentPath = $path
+        ExpectedHash = $expectedHash
+        CurrentHash = $currentHash
+        SizeBytes = $size
+        Extension = $ext
+        LastWrite = $lastWrite
+        DeltaStatus = $delta
+        RoleLabel = $role.Role
+        StateLabel = $role.State
+        AuthorityLabel = $role.Authority
+        RiskLabel = $role.Risk
+        ConfidenceLabel = $role.Confidence
+        ProposalLabel = $role.Proposal
+        Reason = $role.Reason
+        UserDecisionNeeded = if ($role.Proposal -match 'USER_DECISION|BLOCK|REVIEW') { 'YES' } else { 'NO' }
+        BlockedActions = 'move;delete;rename;route;execute;commit;push;cleanup'
+        ActionNow = 'NO'
+    }) | Out-Null
+}
+
+$ticketsArray = @($tickets)
+$deltaGroups = @($ticketsArray | Group-Object DeltaStatus | Sort-Object Name)
+$roleGroups = @($ticketsArray | Group-Object RoleLabel | Sort-Object Name)
+$riskGroups = @($ticketsArray | Group-Object RiskLabel | Sort-Object Name)
+$actionNowYes = @($ticketsArray | Where-Object { $_.ActionNow -ne 'NO' })
+if ((Measure-Items $actionNowYes) -gt 0) { $Blockers.Add("ACTION_NOW_NON_NO_ROWS count=$(Measure-Items $actionNowYes)") | Out-Null }
+
+$liveDeltaRows = @($ticketsArray | Where-Object { $_.DeltaStatus -in @('HASH_CHANGED','MISSING_AT_REVIEW','NEW_SINCE_ROUTE_PLAN_OR_NOT_PARSED_FROM_PLAN') })
+$verdict = if ((Measure-Items $Blockers) -gt 0) {
+    'ROOT_HELD_GROUP_ROUTE_DRY_RUN_SELECTOR_V0_3_WRITTEN_WITH_BLOCKERS_REVIEW_REQUIRED'
+} elseif ((Measure-Items $liveDeltaRows) -gt 0) {
+    'ROOT_HELD_GROUP_ROUTE_DRY_RUN_SELECTOR_V0_3_WRITTEN_WITH_LIVE_DELTAS_REVIEW_REQUIRED'
+} else {
+    'ROOT_HELD_GROUP_ROUTE_DRY_RUN_SELECTOR_V0_3_READY_WITH_NO_PHYSICAL_ACTION'
+}
+
+$freeze = New-Object System.Collections.Generic.List[string]
+$freeze.Add('# ERROR FREEZE — ROOT HELD ROUTE DRY-RUN SELECTOR V0.2 PARAMETER BINDING 20260609') | Out-Null
+$freeze.Add('') | Out-Null
+$freeze.Add('Status: ERROR_FREEZE / SCRIPT_DEFECT_CAPTURE / NOT_ROUTE_FAILURE / NOT_USER_ERROR') | Out-Null
+$freeze.Add('') | Out-Null
+$freeze.Add('## Trigger') | Out-Null
+$freeze.Add('') | Out-Null
+$freeze.Add('V0.2 run failed at Extract-ExpectedRootRows with: Argument types do not match.') | Out-Null
+$freeze.Add('') | Out-Null
+$freeze.Add('## Failure Family') | Out-Null
+$freeze.Add('') | Out-Null
+$freeze.Add('PowerShell strict parameter binding rejected the proof-file list shape before the parser could normalize it internally.') | Out-Null
+$freeze.Add('') | Out-Null
+$freeze.Add('## DoesNotProve') | Out-Null
+$freeze.Add('') | Out-Null
+$freeze.Add('This error does not prove route failure, Git failure, user misuse, file safety, cleanup approval, or movement approval. It proves only a generated-script input-normalization defect.') | Out-Null
+
+$fix = New-Object System.Collections.Generic.List[string]
+$fix.Add('# FIX NOTE — ROOT HELD ROUTE DRY-RUN SELECTOR V0.3 LOOSE INPUT NORMALIZATION 20260609') | Out-Null
+$fix.Add('') | Out-Null
+$fix.Add('Status: FIX_NOTE / SAME_FAILURE_FAMILY_REPAIR / NO_PHYSICAL_ROUTING') | Out-Null
+$fix.Add('') | Out-Null
+$fix.Add('## Fix') | Out-Null
+$fix.Add('') | Out-Null
+$fix.Add('V0.3 keeps the V0.2 count-normalization repair and adds `Normalize-StringList`. `Extract-ExpectedRootRows` now accepts loose `[object]` input and normalizes strings, arrays, and enumerable lists inside the function before parsing route proof files.') | Out-Null
+$fix.Add('') | Out-Null
+$fix.Add('## Boundary') | Out-Null
+$fix.Add('') | Out-Null
+$fix.Add('This fix does not authorize movement, deletion, cleanup, route execution, helper execution, commit, or push.') | Out-Null
+
+[System.IO.File]::WriteAllLines($ErrorFreezePath, [string[]]$freeze, [System.Text.UTF8Encoding]::new($false))
+[System.IO.File]::WriteAllLines($FixNotePath, [string[]]$fix, [System.Text.UTF8Encoding]::new($false))
+$ErrorFreezeHash = Get-Sha256Safe -Path $ErrorFreezePath
+$FixNoteHash = Get-Sha256Safe -Path $FixNotePath
+
+$report = New-Object System.Collections.Generic.List[string]
+$report.Add('# ROOT HELD GROUP ROUTE DRY-RUN SELECTOR V0.3 20260609') | Out-Null
+$report.Add('') | Out-Null
+$report.Add('Status: DRY_RUN_SELECTOR / RECEPTIONIST_TICKET_BOARD / READ_ONLY_REPORT / NOT_ROUTE_ORDER / NOT_CLEANUP_ORDER') | Out-Null
+$report.Add('') | Out-Null
+$report.Add('## 1. Active Object') | Out-Null
+$report.Add('') | Out-Null
+$report.Add('`USER_APPROVED_ROOT_HELD_GROUP_ROUTE_DRY_RUN_SELECTOR_20260608`') | Out-Null
+$report.Add('') | Out-Null
+$report.Add('This report uses the receptionist pattern: see, name, ticket, propose, review, learn, then maybe later move. This report performs no physical route.') | Out-Null
+$report.Add('') | Out-Null
+$report.Add('## 2. Failure Capture') | Out-Null
+$report.Add('') | Out-Null
+$report.Add('- error_freeze_path: `' + (Escape-Md $ErrorFreezePath) + '`') | Out-Null
+$report.Add('- error_freeze_sha256: `' + (Escape-Md $ErrorFreezeHash) + '`') | Out-Null
+$report.Add('- fix_note_path: `' + (Escape-Md $FixNotePath) + '`') | Out-Null
+$report.Add('- fix_note_sha256: `' + (Escape-Md $FixNoteHash) + '`') | Out-Null
+$report.Add('') | Out-Null
+$report.Add('## 3. Boundary') | Out-Null
+$report.Add('') | Out-Null
+$report.Add('- files_moved_count: 0') | Out-Null
+$report.Add('- files_deleted_count: 0') | Out-Null
+$report.Add('- files_renamed_count: 0') | Out-Null
+$report.Add('- files_routed_count: 0') | Out-Null
+$report.Add('- files_executed_count: 0') | Out-Null
+$report.Add('- commits_count: 0') | Out-Null
+$report.Add('- pushes_count: 0') | Out-Null
+$report.Add('- action_now_yes_rows: ' + (Measure-Items $actionNowYes)) | Out-Null
+$report.Add('') | Out-Null
+$report.Add('## 4. Git and Route-Plan Proof Check') | Out-Null
+$report.Add('') | Out-Null
+$report.Add('| Check | Result |') | Out-Null
+$report.Add('|---|---|') | Out-Null
+$report.Add('| Project root | `' + (Escape-Md $ProjectRoot) + '` |') | Out-Null
+$report.Add('| Nested repo | `' + (Escape-Md $RepoPath) + '` |') | Out-Null
+$report.Add('| Expected HEAD | `' + $ExpectedHead + '` |') | Out-Null
+$report.Add('| Actual HEAD | `' + (Escape-Md $gitHead) + '` |') | Out-Null
+$report.Add('| Git status entries | `' + (Measure-Items $gitStatusLines) + '` |') | Out-Null
+$report.Add('| Route proof candidates found | `' + (Measure-Items $routeProofCandidates) + '` |') | Out-Null
+$report.Add('| Expected root rows parsed | `' + (Measure-Items $expectedByPath.Keys) + '` |') | Out-Null
+$report.Add('| Live root top-level file count | `' + (Measure-Items $liveFiles) + '` |') | Out-Null
+$report.Add('') | Out-Null
+if ((Measure-Items $routeProofCandidates) -gt 0) {
+    $report.Add('### Route Proof Candidate Files') | Out-Null
+    $report.Add('') | Out-Null
+    foreach ($rp in @($routeProofCandidates)) { $report.Add('- `' + (Escape-Md $rp) + '`') | Out-Null }
+    $report.Add('') | Out-Null
+}
+if ((Measure-Items $Blockers) -gt 0) {
+    $report.Add('## 5. Blockers') | Out-Null
+    $report.Add('') | Out-Null
+    foreach ($b in @($Blockers)) { $report.Add('- ' + (Escape-Md $b)) | Out-Null }
+    $report.Add('') | Out-Null
+}
+if ((Measure-Items $Warnings) -gt 0) {
+    $report.Add('## 6. Warnings') | Out-Null
+    $report.Add('') | Out-Null
+    foreach ($w in @($Warnings)) { $report.Add('- ' + (Escape-Md $w)) | Out-Null }
+    $report.Add('') | Out-Null
+}
+$report.Add('## 7. Delta Summary') | Out-Null
+$report.Add('') | Out-Null
+$report.Add('| DeltaStatus | Count |') | Out-Null
+$report.Add('|---|---:|') | Out-Null
+foreach ($g in @($deltaGroups)) { $report.Add('| ' + (Escape-Md $g.Name) + ' | ' + (Measure-Items $g.Group) + ' |') | Out-Null }
+$report.Add('') | Out-Null
+$report.Add('## 8. Role Summary') | Out-Null
+$report.Add('') | Out-Null
+$report.Add('| RoleLabel | Count |') | Out-Null
+$report.Add('|---|---:|') | Out-Null
+foreach ($g in @($roleGroups)) { $report.Add('| ' + (Escape-Md $g.Name) + ' | ' + (Measure-Items $g.Group) + ' |') | Out-Null }
+$report.Add('') | Out-Null
+$report.Add('## 9. Risk Summary') | Out-Null
+$report.Add('') | Out-Null
+$report.Add('| RiskLabel | Count |') | Out-Null
+$report.Add('|---|---:|') | Out-Null
+foreach ($g in @($riskGroups)) { $report.Add('| ' + (Escape-Md $g.Name) + ' | ' + (Measure-Items $g.Group) + ' |') | Out-Null }
+$report.Add('') | Out-Null
+$report.Add('## 10. Receptionist Ticket Board') | Out-Null
+$report.Add('') | Out-Null
+$report.Add('| TicketID | FileName | DeltaStatus | RoleLabel | StateLabel | RiskLabel | ConfidenceLabel | ProposalLabel | UserDecisionNeeded | ActionNow |') | Out-Null
+$report.Add('|---|---|---|---|---|---|---|---|---|---|') | Out-Null
+foreach ($t in @($ticketsArray)) {
+    $report.Add('| ' + (Escape-Md $t.TicketID) + ' | `' + (Escape-Md $t.FileName) + '` | ' + (Escape-Md $t.DeltaStatus) + ' | ' + (Escape-Md $t.RoleLabel) + ' | ' + (Escape-Md $t.StateLabel) + ' | ' + (Escape-Md $t.RiskLabel) + ' | ' + (Escape-Md $t.ConfidenceLabel) + ' | ' + (Escape-Md $t.ProposalLabel) + ' | ' + (Escape-Md $t.UserDecisionNeeded) + ' | ' + (Escape-Md $t.ActionNow) + ' |') | Out-Null
+}
+$report.Add('') | Out-Null
+$report.Add('## 11. Ticket Detail') | Out-Null
+$report.Add('') | Out-Null
+foreach ($t in @($ticketsArray)) {
+    $report.Add('### ' + (Escape-Md $t.TicketID) + ' — `' + (Escape-Md $t.FileName) + '`') | Out-Null
+    $report.Add('') | Out-Null
+    $report.Add('- current_path: `' + (Escape-Md $t.CurrentPath) + '`') | Out-Null
+    $report.Add('- expected_sha256: `' + (Escape-Md $t.ExpectedHash) + '`') | Out-Null
+    $report.Add('- current_sha256: `' + (Escape-Md $t.CurrentHash) + '`') | Out-Null
+    $report.Add('- size_bytes: `' + (Escape-Md ([string]$t.SizeBytes)) + '`') | Out-Null
+    $report.Add('- last_write: `' + (Escape-Md $t.LastWrite) + '`') | Out-Null
+    $report.Add('- authority_label: `' + (Escape-Md $t.AuthorityLabel) + '`') | Out-Null
+    $report.Add('- blocked_actions: `' + (Escape-Md $t.BlockedActions) + '`') | Out-Null
+    $report.Add('- reason: ' + (Escape-Md $t.Reason)) | Out-Null
+    $report.Add('- action_now: `NO`') | Out-Null
+    $report.Add('') | Out-Null
+}
+$report.Add('## 12. Stress Bench') | Out-Null
+$report.Add('') | Out-Null
+$report.Add('| Stress Item | Result |') | Out-Null
+$report.Add('|---|---|') | Out-Null
+$report.Add('| No move | PASS |') | Out-Null
+$report.Add('| No delete | PASS |') | Out-Null
+$report.Add('| No rename | PASS |') | Out-Null
+$report.Add('| No route execution | PASS |') | Out-Null
+$report.Add('| No helper execution | PASS |') | Out-Null
+$report.Add('| No commit | PASS |') | Out-Null
+$report.Add('| No push | PASS |') | Out-Null
+$report.Add('| ActionNow defaults to NO | ' + ($(if ((Measure-Items $actionNowYes) -eq 0) { 'PASS' } else { 'FAIL' })) + ' |') | Out-Null
+$report.Add('| Blockers present | ' + ($(if ((Measure-Items $Blockers) -eq 0) { 'NO' } else { 'YES' })) + ' |') | Out-Null
+$report.Add('') | Out-Null
+$report.Add('## 13. DoesNotProve') | Out-Null
+$report.Add('') | Out-Null
+$report.Add('This dry-run selector report proves only that the live root was snapshotted, route-plan proof candidates were searched, expected rows were parsed where possible, receptionist tickets were generated, the V0.1/V0.2 runner failure was frozen, and no physical file action was performed.') | Out-Null
+$report.Add('') | Out-Null
+$report.Add('It does not prove that any file should move, any destination is approved, any helper is safe to run, cleanup is approved, Git push is approved, route execution is approved, source is correct, or the project is complete.') | Out-Null
+$report.Add('') | Out-Null
+$report.Add('## 14. Next Single Action') | Out-Null
+$report.Add('') | Out-Null
+if ((Measure-Items $Blockers) -gt 0) {
+    $report.Add('Review blockers and repair the same failure family before any executor or physical route is designed.') | Out-Null
+} else {
+    $report.Add('User reviews the ticket board and explicitly marks which rows, if any, may become approved-for-later movement candidates. No executor exists yet.') | Out-Null
+}
+$report.Add('') | Out-Null
+$report.Add('Final scoped verdict: `' + $verdict + '`') | Out-Null
+
+[System.IO.File]::WriteAllLines($ReportPath, [string[]]$report, [System.Text.UTF8Encoding]::new($false))
+$ReportHash = Get-Sha256Safe -Path $ReportPath
+
+$receipt = @(
+    'ROOT HELD GROUP ROUTE DRY-RUN SELECTOR RECEIPT V0.3 20260609',
+    "created_at: $(Get-Date -Format o)",
+    'script_result: REPORT_WRITTEN',
+    "error_freeze_path: $ErrorFreezePath",
+    "error_freeze_sha256: $ErrorFreezeHash",
+    "fix_note_path: $FixNotePath",
+    "fix_note_sha256: $FixNoteHash",
+    "report_path: $ReportPath",
+    "report_sha256: $ReportHash",
+    "project_root: $ProjectRoot",
+    "repo_path: $RepoPath",
+    "expected_head: $ExpectedHead",
+    "actual_head: $gitHead",
+    "git_status_entry_count: $(Measure-Items $gitStatusLines)",
+    "route_proof_candidate_count: $(Measure-Items $routeProofCandidates)",
+    "expected_root_rows_parsed_count: $(Measure-Items $expectedByPath.Keys)",
+    "live_root_top_level_file_count: $(Measure-Items $liveFiles)",
+    "ticket_count: $(Measure-Items $ticketsArray)",
+    "blocker_count: $(Measure-Items $Blockers)",
+    "warning_count: $(Measure-Items $Warnings)",
+    'files_moved_count: 0',
+    'files_deleted_count: 0',
+    'files_renamed_count: 0',
+    'files_routed_count: 0',
+    'files_executed_count: 0',
+    'commits_count: 0',
+    'pushes_count: 0',
+    "final_verdict: $verdict",
+    'does_not_prove: movement approved; cleanup approved; executor approved; helper safe; source correct; project complete'
+)
+[System.IO.File]::WriteAllLines($ReceiptPath, [string[]]$receipt, [System.Text.UTF8Encoding]::new($false))
+$ReceiptHash = Get-Sha256Safe -Path $ReceiptPath
+
+$fixReceipt = @(
+    'HASH RECEIPT ROOT HELD ROUTE DRY-RUN SELECTOR V0.3 FIX 20260609',
+    "created_at: $(Get-Date -Format o)",
+    "error_freeze_path: $ErrorFreezePath",
+    "error_freeze_sha256: $ErrorFreezeHash",
+    "fix_note_path: $FixNotePath",
+    "fix_note_sha256: $FixNoteHash",
+    "dry_run_report_path: $ReportPath",
+    "dry_run_report_sha256: $ReportHash",
+    "dry_run_receipt_path: $ReceiptPath",
+    "dry_run_receipt_sha256: $ReceiptHash",
+    'physical_actions: move=0 delete=0 rename=0 route=0 execute=0 commit=0 push=0',
+    "final_verdict: $verdict"
+)
+[System.IO.File]::WriteAllLines($FixReceiptPath, [string[]]$fixReceipt, [System.Text.UTF8Encoding]::new($false))
+$FixReceiptHash = Get-Sha256Safe -Path $FixReceiptPath
+
+Write-Host '=== ROOT HELD GROUP ROUTE DRY-RUN SELECTOR V0.3 COMPLETE ==='
+Write-Host "error_freeze_path: $ErrorFreezePath"
+Write-Host "error_freeze_sha256: $ErrorFreezeHash"
+Write-Host "fix_note_path: $FixNotePath"
+Write-Host "fix_note_sha256: $FixNoteHash"
+Write-Host "fix_receipt_path: $FixReceiptPath"
+Write-Host "fix_receipt_sha256: $FixReceiptHash"
+Write-Host "output_report_path: $ReportPath"
+Write-Host "output_report_sha256: $ReportHash"
+Write-Host "output_receipt_path: $ReceiptPath"
+Write-Host "output_receipt_sha256: $ReceiptHash"
+Write-Host "final_verdict: $verdict"
+Write-Host 'physical_actions: move=0 delete=0 rename=0 route=0 execute=0 commit=0 push=0'

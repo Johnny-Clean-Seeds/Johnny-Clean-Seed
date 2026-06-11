@@ -1,0 +1,9 @@
+{
+  "Status": "STARTED",
+  "RunId": "EXPECTED_HUNG_20260604_192756",
+  "JobName": "EXPECTED_HUNG",
+  "StartedUtc": "2026-06-04T23:27:56.8571819Z",
+  "ParentPid": 4060,
+  "RequiresKeyboardInput": false,
+  "ProofType": "FILE_FIRST_PARENT_STARTED"
+}

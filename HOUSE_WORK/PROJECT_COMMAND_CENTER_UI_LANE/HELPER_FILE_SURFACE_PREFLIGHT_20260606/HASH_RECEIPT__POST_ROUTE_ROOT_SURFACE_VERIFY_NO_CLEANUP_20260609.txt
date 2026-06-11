@@ -1,0 +1,9 @@
+report_path: C:\Users\13527\Desktop\123\HOUSE_WORK\PROJECT_COMMAND_CENTER_UI_LANE\HELPER_FILE_SURFACE_PREFLIGHT_20260606\POST_ROUTE_ROOT_SURFACE_VERIFY_NO_CLEANUP_20260609.md
+report_sha256: 42718F181B314CBD556AE499F3FA2FD926A8220DC39946754936C6855BA43793
+root_file_count: 80
+root_directory_count: 14
+unexpected_root_file_count: 77
+missing_expected_hold_count: 0
+final_verdict: POST_ROUTE_ROOT_SURFACE_VERIFY_REVIEW_REQUIRED
+next_single_action: DECIDE_NEXT_ROOT_CUSTODY_BRANCH_AFTER_ROUTE_55_CLOSEOUT
+physical_actions: move=0 delete=0 rename=0 route=0 cleanup=0 execute_helpers=0 commit=0 push=0

@@ -1,0 +1,8 @@
+{
+  "Status": "STARTED",
+  "RunId": "PASS_DELAYED_20260604_192752",
+  "StartedUtc": "2026-06-04T23:27:53.1849703Z",
+  "ChildPid": 7048,
+  "RequiresKeyboardInput": false,
+  "TestKind": "PASS_DELAYED"
+}

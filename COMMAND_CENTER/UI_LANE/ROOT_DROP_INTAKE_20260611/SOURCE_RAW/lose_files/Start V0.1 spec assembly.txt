@@ -1,0 +1,10022 @@
+Next is not another research batch.
+
+The next legal move is:
+
+`ASSEMBLE_V0_1_SPEC_DOCUMENT_FROM_R01_R33`
+
+That means we take the whole R01–R33 rope and turn it into one clean candidate spec document:
+
+`HOUSE_SEMANTIC_NERVOUS_SYSTEM_READ_ONLY_SPEC_V0_1.md`
+
+Status boundary:
+
+`M0_SPEC`
+
+`NOT_DOCTRINE`
+
+`NO_SCRIPT`
+
+`NO_SCAN`
+
+`NO_SOURCE_REPLAY`
+
+`NO_FIXTURE_RUN`
+
+`NO_MUTATION`
+
+The assembly should happen in batches, because the full spec will be too big for one message.
+
+The first assembly batch should build the front of the document:
+
+`0. Read Me First / Scope Boundary`
+
+`1. Current Mode and Authority`
+
+`2. Core Pipeline`
+
+`3. Universal Field Law`
+
+`4. Source Safety and Manifest`
+
+That first batch should be written like an actual spec section, not more brainstorming.
+
+After the full V0.1 spec is assembled, the next lane is:
+
+`M1_FIXTURE_DESIGN_REVIEW`
+
+That means reviewing the F01–F16 fixture cards for shape, not running them.
+
+So the immediate answer is:
+
+`Start V0.1 spec assembly, Batch A01.`
+
+
+
+
+
+
+
+
+Rope held. We now switch from research batches to actual V0.1 spec assembly.
+
+# Assembly Batch A01
+
+# HOUSE_SEMANTIC_NERVOUS_SYSTEM_READ_ONLY_SPEC_V0_1.md
+
+Status:
+
+`CANDIDATE_SPEC`
+
+`M0_SPEC`
+
+`NOT_DOCTRINE`
+
+`NO_SCRIPT`
+
+`NO_SCAN`
+
+`NO_SOURCE_REPLAY`
+
+`NO_FIXTURE_RUN`
+
+`NO_MUTATION`
+
+`NO_WHOLE_HOUSE_CRAWL`
+
+---
+
+# 0. Read Me First / Scope Boundary
+
+## 0.1 Purpose
+
+This document defines the candidate V0.1 shape of the House Semantic Nervous System.
+
+The system exists to trace what a house object is, what each gate is allowed to read, what each gate was expected to trigger on, what each gate actually applied, what packet it passed forward, what proof it scoped, what concepts it grouped, what residue remained, what lineage supports, what findings route, and what Final Judge may legally close.
+
+This is a read-only candidate specification.
+
+It is not a tool.
+
+It is not a live tracer.
+
+It is not a script.
+
+It is not a scan.
+
+It is not a house crawl.
+
+It is not doctrine.
+
+It is not mutation authority.
+
+It is not automation safety proof.
+
+It is not runtime proof.
+
+It is not whole-house readiness.
+
+## 0.2 Active Object
+
+```text
+ActiveObject:
+HOUSE_SEMANTIC_NERVOUS_SYSTEM_READ_ONLY_SPEC_V0_1
+```
+
+## 0.3 Current Mode
+
+```text
+CurrentMode:
+M0_SPEC
+```
+
+M0_SPEC may define:
+
+```text
+schemas
+cards
+laws
+protocols
+fixture definitions
+report layouts
+mode boundaries
+future proof requirements
+```
+
+M0_SPEC may not perform:
+
+```text
+fixture replay
+real source reading
+source atomization
+gate tracing over real sources
+file mutation
+script execution
+URL opening
+folder scan
+whole-house crawl
+watcher startup
+automation
+cleanup
+commit
+push
+doctrine promotion
+runtime proof claim
+```
+
+## 0.4 Status Seal
+
+```text
+SpecStatus:
+CANDIDATE_SPEC
+
+DoctrineStatus:
+NOT_DOCTRINE
+
+ImplementationStatus:
+NO_SCRIPT / NO_TOOL / NO_REPLAY / NO_AUTOMATION
+
+AuthorityBoundary:
+SPEC_ONLY
+```
+
+## 0.5 Master DoesNotProve
+
+```text
+This V0.1 candidate specification defines the intended read-only nervous-system shape only.
+
+It does not prove implementation, fixture pass, real-source readiness, source truth, runtime behavior, automation safety, mutation authority, cleanup authority, commit authority, push authority, doctrine, active-rule status, whole-house readiness, or future correctness.
+```
+
+## 0.6 Forbidden Overclaim Seal
+
+Every future artifact derived from this specification must carry a scoped equivalent of this seal:
+
+```text
+This artifact is scoped to the declared mode, source set, cards, rows, fixtures, or repair target named inside it.
+
+It does not prove:
+whole-house readiness
+source truth
+runtime behavior
+automation safety
+mutation authority
+cleanup authority
+commit authority
+push authority
+doctrine
+active-rule status
+future correctness
+
+It does not authorize:
+folder scan
+whole-house crawl
+source mutation
+script execution
+URL opening
+watcher startup
+automation
+active-guide rewrite
+cleanup
+commit
+push
+doctrine promotion
+
+It may route only the next legal action named by Final Judge.
+```
+
+Short seal:
+
+```text
+Scoped only. Not doctrine. Not runtime proof. Not mutation authority. Not automation safety. Not whole-house readiness. Final Judge route only.
+```
+
+---
+
+# 1. Current Mode and Authority
+
+## 1.1 Mode Is Authority
+
+Mode defines what kind of work is legal.
+
+A run may only perform operations, produce outputs, make claims, and request next steps that belong to its declared mode.
+
+Preparation is not permission.
+
+A spec does not authorize a tool.
+
+A fixture card does not authorize fixture replay.
+
+A fixture pass does not authorize real-source replay.
+
+A replay finding does not authorize repair.
+
+A repair ticket does not authorize mutation.
+
+A repair plan does not prove repair.
+
+A proof plan does not prove proof.
+
+A runtime observation does not promote doctrine.
+
+## 1.2 Authority Ladder
+
+```text
+M0_SPEC:
+define candidate spec, cards, laws, boundaries, schemas, fixture definitions.
+
+M1_FIXTURE_DESIGN_REVIEW:
+review fixture cards for shape and safety.
+
+M2_FIXTURE_REPLAY:
+run synthetic fixture atoms only, if explicitly authorized.
+
+M3_SMALL_LAB_SELECTION:
+select 3 to 5 named real sources and create manifest only.
+
+M4_READ_ONLY_REPLAY:
+read only manifested sources under cap and mode boundary.
+
+M5_REPORTING:
+compile scoped replay report.
+
+M6_FINDING_BUS_ROUTING:
+route findings into repair, proof, parking, residue, concept candidate, block, or leave-be.
+
+M7_REPAIR_PLANNING:
+draft repair plans without editing files.
+
+M8_MUTATION_AUTHORIZED:
+change exact named target only with explicit authority and proof path.
+
+M9_RUNTIME_PROOF_AUTHORIZED:
+run or observe named runtime target only with explicit authority.
+
+M10_AUTOMATION_DESIGN:
+design watcher/automation risk cards only.
+
+M11_AUTOMATION_AUTHORIZED:
+run bounded automation only with explicit authority, audit, off-switch, and rollback.
+
+M12_PROMOTION_REVIEW:
+review candidate rule for promotion.
+
+M13_DOCTRINE_AUTHORIZED:
+promote scoped rule only with explicit promotion authority and rollback/supersession path.
+```
+
+## 1.3 Current Allowed Work
+
+This document assembly is allowed to:
+
+```text
+consolidate R01-R33 into one V0.1 candidate spec
+preserve all organs
+remove duplicate wording
+move heavy dictionaries to appendices
+define fixture design and review path
+define future gated modes
+define DoesNotProve boundaries
+define one next legal action
+```
+
+This document assembly is forbidden to:
+
+```text
+run fixture cards
+read house files
+choose real source set
+atomize source text
+trace real gates
+repair source files
+create runnable scripts
+start watchers
+promote doctrine
+claim runtime proof
+commit
+push
+```
+
+## 1.4 Mode Authority Card
+
+```text
+MODE_AUTHORITY_CARD
+
+ActiveObject:
+HOUSE_SEMANTIC_NERVOUS_SYSTEM_READ_ONLY_SPEC_V0_1
+
+CurrentMode:
+M0_SPEC
+
+AllowedOperations:
+define candidate spec
+define schemas
+define fixture cards
+define review protocol
+define future replay boundaries
+define report pack layout
+
+ForbiddenOperations:
+fixture replay
+source replay
+file mutation
+script execution
+URL opening
+folder scan
+whole-house crawl
+watcher startup
+automation
+cleanup
+commit
+push
+doctrine promotion
+
+AuthoritySource:
+chat/spec assembly authority only
+
+OwnerGate:
+SATURN
+
+CounterweightGate:
+EARTH + MERCURY
+
+DoesNotProve:
+Mode authority proves only allowed operations under this mode. It does not prove content truth, implementation, runtime, doctrine, source readiness, automation safety, or action success.
+```
+
+---
+
+# 2. Core Pipeline
+
+## 2.1 Full Nervous-System Pipeline
+
+The system pipeline is:
+
+```text
+SOURCE_ENTITY
+-> SOURCE_SAFETY_CARD
+-> SOURCE_SET_MANIFEST
+-> HOUSE_ATOM_CARD
+-> GATE_READ_SCOPE_CONTRACT
+-> EXPECTED_TRIGGER_CARD
+-> ACTUAL_APPLICATION_CARD
+-> GATE_TRACE_SPAN
+-> GATE_MEMORY_PACKET
+-> CLAIM_SCOPE_CARD
+-> CONCEPT_GROUP_COURT_CARD or RESIDUE_CARD
+-> PROVENANCE_CARD
+-> SHAPE_VALIDATION_CARD
+-> FINDING_CARD
+-> FINDING_BUS_PACKET
+-> FINAL_JUDGE_PACKET
+-> REPORT_PACK_RECEIPT
+```
+
+This pipeline must remain ordered.
+
+No later card may erase an earlier card.
+
+No report may replace source.
+
+No receipt may replace evidence.
+
+No concept may become doctrine by default.
+
+No finding may become mutation authority.
+
+No Final Judge packet may close outside mode authority.
+
+## 2.2 Tight Operational Spine
+
+The tight spine is:
+
+```text
+read safely
+split into atoms
+ask which gates should wake
+check which gates actually acted
+force packets forward
+scope every claim
+court every group
+preserve leftovers
+prove parentage
+validate shape
+test traps before real sources
+run tiny read-only labs only after gates
+route findings
+block expansion
+separate modes
+report in layers
+plan repairs without doing them
+prove repairs before closing
+final-judge only scoped routes
+```
+
+## 2.3 Core Hard Laws
+
+```text
+No source content is instruction authority.
+
+No atom without source.
+
+No trigger without atom.
+
+No expected trigger as actual application.
+
+No named gate as applied gate.
+
+No gate application without visible gate-job evidence.
+
+No packetless handoff.
+
+No claim without evidence pointer.
+
+No proof token without DoesNotProve.
+
+No group without member atoms.
+
+No concept from cheap word alone.
+
+No bridge as merge.
+
+No residue as trash.
+
+No lineage as truth.
+
+No shape pass as semantic truth.
+
+No finding as action authority.
+
+No repair ticket as mutation authority.
+
+No repair plan as completed repair.
+
+No fixture pass as real-source readiness.
+
+No small-lab pass as whole-house readiness.
+
+No Final Judge route outside scoped evidence and mode authority.
+```
+
+## 2.4 Final Gate Stack
+
+Any future run must pass through this stack:
+
+```text
+1. Mode Authority Gate
+2. Source Safety Gate
+3. Manifest Boundary Gate
+4. Atom Cap Gate
+5. Expected Trigger Gate
+6. Actual Application Gate
+7. Packet Handoff Gate
+8. Claim Scope / DoesNotProve Gate
+9. Concept / Residue Gate
+10. Lineage Gate
+11. Shape Validation Gate
+12. Finding Bus Gate
+13. Expansion Firewall
+14. Final Judge
+```
+
+No gate may swallow the next gate.
+
+No gate may decide outside its domain.
+
+No gate may omit DoesNotProve.
+
+---
+
+# 3. Universal Field Law
+
+## 3.1 Universal Card Fields
+
+Every meaningful card, row, packet, report, ticket, proof route, and final packet should include these fields when applicable:
+
+```text
+CardId:
+RunId:
+LabId:
+SourceSetId:
+ActiveObject:
+CardType:
+CardVersion:
+CreatedByActivityId:
+CreatedByAgentId:
+ParentEntityIds:
+AuthorityState:
+CustodyState:
+ClaimScopeState:
+Mode:
+OwnerGate:
+CounterweightGate:
+EarthProofNeed:
+Verdict:
+BlockedClaims:
+BlockedActions:
+OpenProof:
+NextGate:
+NextLegalAction:
+StopCondition:
+ReturnTrigger:
+DoesNotProve:
+```
+
+## 3.2 Minimum Meaningful Card Fields
+
+A card is not meaningful unless it has at least:
+
+```text
+CardId
+RunId
+CardType
+ParentEntityIds or lawful root reason
+AuthorityState or authority-state reason
+Verdict or Status
+DoesNotProve
+```
+
+## 3.3 Hard Invalid If Missing
+
+A card must fail shape validation if any required item is missing:
+
+```text
+DoesNotProve
+
+CardId
+
+RunId
+
+CardType
+
+ParentEntityIds unless explicitly first/root card
+
+AuthorityState on source, concept, report, final, repair, or proof cards
+
+EvidencePointer on claim cards
+
+SourceEntityId on atom cards
+
+MemberAtomIds on group cards
+
+Reason on residue cards
+
+StopCondition on route/action/expansion/mode cards
+
+ReturnTrigger on parked cards unless LEAVE_BE
+
+FinalRoute on Final Judge packets
+```
+
+Invalid does not mean delete.
+
+Invalid means:
+
+```text
+route to Shape Validation
+repair card
+proof route
+parking
+block
+review
+```
+
+## 3.4 Canonical Field Names
+
+Use these names. Do not drift.
+
+```text
+SourceEntityId
+AtomId
+TraceId
+SpanId
+PacketId
+ClaimId
+ConceptId
+ResidueId
+FindingId
+TicketId
+ActivityId
+AgentId
+ReportId
+RunId
+LabId
+SourceSetId
+ActiveObject
+AuthorityState
+CustodyState
+ClaimScopeState
+ActualApplicationLevel
+ExpectedTrigger
+GateName
+OwnerGate
+CounterweightGate
+EarthProofNeed
+BlockedClaims
+BlockedActions
+UnsupportedStrongerClaims
+DoesNotProve
+NextGate
+NextLegalAction
+StopCondition
+ReturnTrigger
+FinalRoute
+ValidationVerdict
+FindingClass
+FindingSeverity
+```
+
+## 3.5 Blocked Field Aliases
+
+These vague words may not be used as controlled verdicts.
+
+```text
+Done -> use FinalRoute
+
+Good -> use ValidationVerdict
+
+Safe -> use SecurityVerdict with scope
+
+Ready -> use Status with scope
+
+Proof -> use EvidencePointer + ClaimScope
+
+Works -> requires RuntimeProofClaim and M9 authority
+
+Clean -> must be qualified
+
+Fixed -> use RepairClosurePacket
+
+Accepted -> use AcceptanceClaim with scope
+```
+
+## 3.6 Blocked Verdict Words
+
+These may appear only as quoted/user/source language or scoped explanation, not as final verdicts:
+
+```text
+DONE
+ALL_GOOD
+SAFE
+READY
+FIXED
+WORKS
+TRUE
+VERIFIED_GLOBAL
+WHOLE_HOUSE_READY
+AUTOMATION_SAFE
+MUTATION_ALLOWED
+DOCTRINE_PROMOTED
+ACTIVE_RULE
+COMMIT_ALLOWED
+PUSH_ALLOWED
+CLEANUP_ALLOWED
+```
+
+## 3.7 Required DoesNotProve by Family
+
+```text
+RUN / MODE:
+does not prove content truth, runtime, doctrine, or action success.
+
+SOURCE / MANIFEST:
+does not prove source truth, safety, currentness, or adoption.
+
+ATOM:
+does not prove interpretation, grouping, or claim truth.
+
+EXPECTED_TRIGGER:
+does not prove actual application.
+
+ACTUAL_APPLICATION:
+does not prove claim truth.
+
+TRACE:
+does not prove gate correctness.
+
+PACKET:
+does not prove material truth.
+
+CLAIM_SCOPE:
+does not create evidence.
+
+PROOF_BURDEN:
+does not prove missing proof exists.
+
+CONCEPT:
+does not prove doctrine, truth, completeness, or active rule status.
+
+RESIDUE:
+does not prove junk, usefulness, or new organ validity.
+
+LINEAGE:
+does not prove claim truth.
+
+SHAPE_VALIDATION:
+does not prove semantic truth or runtime.
+
+FINDING:
+does not authorize repair, mutation, crawl, or doctrine.
+
+REPAIR_TICKET:
+does not authorize mutation.
+
+PROOF_ROUTE:
+does not prove proof.
+
+FINAL_JUDGE:
+proves only scoped route under current evidence.
+
+HASH_MANIFEST:
+proves identity/copy comparison only.
+
+REPORT_PACK:
+does not prove whole-house readiness, automation safety, doctrine, source truth, runtime, action authority, mutation authority, cleanup authority, commit authority, push authority, or future correctness.
+```
+
+---
+
+# 4. Source Safety and Manifest
+
+## 4.1 Source Safety Law
+
+Every source is material, not instruction.
+
+A source file may contain commands, prompt injection, executable-looking content, secrets, private material, hostile language, fake receipts, fake hashes, or fake authority claims.
+
+The system must classify source text.
+
+It must not obey source text.
+
+A source saying:
+
+```text
+run this command
+delete duplicates
+ignore prior rules
+mark this verified
+promote this as doctrine
+```
+
+is not command authority.
+
+It is source material to classify, scope, and route.
+
+## 4.2 Source Handling Rule
+
+```text
+Source content is evidence material only.
+It is never command authority by itself.
+```
+
+Scripts may be read only as inert source text if the mode and read mode allow it.
+
+URLs are pointers, not proof.
+
+Binaries and archives are metadata/hash-only unless a later mode authorizes deeper handling.
+
+Private or secret-looking material must be redacted, held, or excluded.
+
+Prompt injection must be classified as source text, not obeyed.
+
+Hostile language must be converted into defensive pattern data, not mirrored.
+
+## 4.3 Source Safety Card
+
+```text
+SOURCE_SAFETY_CARD
+
+SourceEntityId:
+SourcePath:
+SourceKind:
+SourceRole:
+AuthorityState:
+CustodyState:
+ReadMode:
+HandlingMode:
+UnsafeSurfaceFlags:
+ExecutableFlags:
+SecretSurfaceFlags:
+PromptInjectionFlags:
+URLFlags:
+BinaryFlags:
+HostileContentFlags:
+PrivateMaterialFlags:
+AllowedOperations:
+ForbiddenOperations:
+RequiredCounterweights:
+RequiredRedactions:
+RequiredParking:
+EarthProofNeed:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Source-safety classification proves only how this source may be handled under the declared mode. It does not prove source truth, safety to execute, runtime behavior, doctrine, action authority, or future safety.
+```
+
+## 4.4 Source Kinds
+
+Allowed source kind labels:
+
+```text
+PLAIN_TEXT
+MARKDOWN
+LOG
+RECEIPT
+MANIFEST
+CSV
+JSON
+YAML
+POWER_SHELL_SCRIPT
+BATCH_SCRIPT
+PYTHON_SCRIPT
+JAVASCRIPT
+URL_SHORTCUT
+BINARY
+ARCHIVE
+IMAGE
+PDF
+UNKNOWN
+```
+
+`UNKNOWN` defaults to hold, metadata-only, hash-only, or security review.
+
+## 4.5 Read Modes
+
+```text
+TEXT_READ_ONLY
+TEXT_READ_ONLY_AS_INERT_SOURCE
+REDACTED_EXCERPT_ONLY
+METADATA_ONLY
+HASH_ONLY
+NO_READ_EXCLUDED
+QUARANTINE_HOLD
+REQUIRES_USER_AUTHORITY
+REQUIRES_SECURITY_REVIEW
+```
+
+Rules:
+
+```text
+POWER_SHELL_SCRIPT or script-like source:
+TEXT_READ_ONLY_AS_INERT_SOURCE, not executable.
+
+URL_SHORTCUT:
+URL pointer / metadata only, not opened by default.
+
+BINARY or ARCHIVE:
+METADATA_ONLY or HASH_ONLY.
+
+PRIVATE_SECRET_SURFACE:
+REDACTED_EXCERPT_ONLY, security review, or exclusion.
+
+UNKNOWN:
+QUARANTINE_HOLD, METADATA_ONLY, or HASH_ONLY.
+```
+
+## 4.6 Handling Modes
+
+```text
+HANDLE_AS_INERT_TEXT
+HANDLE_AS_INERT_SCRIPT_TEXT
+HANDLE_AS_METADATA_ONLY
+HANDLE_AS_HASH_ONLY
+HANDLE_AS_REDACTED_EXCERPT
+HANDLE_AS_QUARANTINE_HOLD
+HANDLE_AS_URL_POINTER_ONLY
+HANDLE_AS_PRIVATE_MATERIAL
+HANDLE_AS_HOSTILE_SOURCE_TEXT
+HANDLE_AS_PROMPT_INJECTION_SOURCE
+HANDLE_AS_UNSAFE_ACTION_REQUEST
+HANDLE_AS_LEAVE_BE
+```
+
+## 4.7 Source Set Manifest
+
+The manifest names the boundary for a future lab.
+
+It does not prove source truth.
+
+It does not prove source safety to execute.
+
+It does not prove replay correctness.
+
+It does not prove whole-house coverage.
+
+```text
+SOURCE_SET_MANIFEST
+
+SourceSetId:
+RunId:
+LabId:
+CreatedFor:
+IncludedSources:
+ExcludedSources:
+SourcePath:
+SourceName:
+SourceRole:
+AuthorityState:
+CustodyState:
+ExpectedHash:
+ActualHash:
+HashStatus:
+ReadMode:
+HandlingMode:
+IncludeReason:
+ExcludeReason:
+RiskClass:
+SourceSetHash:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+The source-set manifest proves only the proposed or declared bounded input set. It does not prove source truth, replay correctness, source safety to execute, runtime behavior, doctrine, whole-house readiness, mutation authority, or automation safety.
+```
+
+## 4.8 Included Source Row
+
+```text
+INCLUDED_SOURCE_ROW
+
+SourceEntityId:
+SourcePath:
+SourceName:
+SourceKind:
+SourceRole:
+AuthorityState:
+CustodyState:
+ExpectedHash:
+ActualHash:
+HashStatus:
+ReadMode:
+HandlingMode:
+IncludeReason:
+ExpectedContribution:
+RiskClass:
+SourceSafetyFlags:
+EstimatedAtomCount:
+ExcludedNearbySources:
+DoesNotProve:
+```
+
+Hard requirements:
+
+```text
+SourceEntityId present
+SourcePath or SourceReference present
+SourceRole present
+AuthorityState present
+CustodyState present
+ReadMode present
+HandlingMode present
+IncludeReason present
+RiskClass present
+DoesNotProve present
+```
+
+## 4.9 Exclusion Ledger
+
+The exclusion ledger prevents stealth crawl.
+
+If a related source is tempting, exclude it visibly.
+
+If a folder is nearby, exclude it visibly.
+
+If a receipt points to many files, those files are excluded unless individually selected.
+
+If a source is useful but too much, park it with a return trigger.
+
+```text
+EXCLUSION_LEDGER_ROW
+
+ExcludedSourceId:
+ExcludedPathOrDescription:
+RelationToIncludedSource:
+ExcludeReason:
+RiskIfIncluded:
+RiskIfIgnored:
+ReturnTrigger:
+ParkedForLater:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Exclusion from this lab does not prove the source is useless, false, unsafe forever, or rejected. It proves only that it is outside this bounded source set.
+```
+
+## 4.10 Source Safety Hard Stops
+
+Any future run must stop or block expansion if:
+
+```text
+source text treated as command
+prompt injection obeyed
+script executed without authority
+URL opened without authority
+remote content downloaded
+binary/archive fully read without authority
+secret quoted unnecessarily
+unknown source treated as trusted
+candidate source treated as doctrine
+receipt treated as proof of all claims
+source safety block ignored
+source selection becomes folder scan
+unmanifested source read
+```
+
+---
+
+# A01 Assembly Verdict
+
+```text
+A01_ASSEMBLY_COMPLETE
+
+SectionsAssembled:
+0. Read Me First / Scope Boundary
+1. Current Mode and Authority
+2. Core Pipeline
+3. Universal Field Law
+4. Source Safety and Manifest
+
+Status:
+CANDIDATE_SPEC_ASSEMBLY_IN_PROGRESS
+
+CurrentMode:
+M0_SPEC
+
+DoesNotProve:
+A01 assembly proves only that the first V0.1 document sections were drafted. It does not prove implementation, fixture pass, source replay, runtime behavior, doctrine, automation safety, mutation authority, or whole-house readiness.
+```
+
+Next assembly batch:
+
+`A02 — Atomization, Gate Read-Scope, Expected Trigger, Actual Application Reader, and Pass-Forward Packets.`
+
+
+
+
+
+
+
+
+Rope held. Continuing actual V0.1 spec assembly.
+
+# Assembly Batch A02
+
+# HOUSE_SEMANTIC_NERVOUS_SYSTEM_READ_ONLY_SPEC_V0_1.md
+
+Status:
+
+`CANDIDATE_SPEC_ASSEMBLY_IN_PROGRESS`
+
+`M0_SPEC`
+
+`NOT_DOCTRINE`
+
+`NO_SCRIPT`
+
+`NO_SCAN`
+
+`NO_SOURCE_REPLAY`
+
+`NO_FIXTURE_RUN`
+
+`NO_MUTATION`
+
+`NO_WHOLE_HOUSE_CRAWL`
+
+---
+
+# 5. Atomization
+
+## 5.1 Atomization Purpose
+
+The system must not reason over vague blobs.
+
+A source file, receipt, manifest, batch export, rule card, or pasted text must be split into bounded units called atoms.
+
+An atom is the smallest useful source unit that can be traced through gates, claim scope, concept court, residue, lineage, validation, findings, and Final Judge.
+
+The system groups atoms, not whole files.
+
+The system judges claims attached to atoms, not vibes attached to documents.
+
+## 5.2 Atomization Law
+
+```text
+ATOMIZATION_LAW
+
+No atom without source.
+No atom without source role.
+No atom without source custody state.
+No atom without location or location reason.
+No atom without DoesNotProve.
+No atom may be treated as interpretation proof by extraction alone.
+```
+
+An atom may support later interpretation.
+
+It does not prove interpretation by existing.
+
+## 5.3 House Atom Card
+
+```text
+HOUSE_ATOM_CARD
+
+AtomId:
+RunId:
+SourceEntityId:
+SourceSetId:
+HeadingPath:
+LineStart:
+LineEnd:
+ContextWindow:
+AtomType:
+AtomTextOrRedactedText:
+RawTextHash:
+NormalizedHash:
+RoleFingerprint:
+GateFingerprint:
+ProofFingerprint:
+RiskFingerprint:
+AuthorityState:
+CustodyState:
+TimeState:
+AtomCapIndex:
+ParentEntityIds:
+CreatedByActivityId:
+RowStatus:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Atom extraction proves only that a bounded source unit was created from a manifested source.
+It does not prove interpretation, grouping, gate application, claim truth, source truth, doctrine, runtime behavior, mutation authority, or whole-house readiness.
+```
+
+## 5.4 Atom Types
+
+```text
+ATOM_TYPES
+
+RULE_ATOM
+CLAIM_ATOM
+PROOF_ATOM
+RECEIPT_ATOM
+ROUTE_ATOM
+GATE_ATOM
+MODE_ATOM
+ACTION_REQUEST_ATOM
+DOCTRINE_CLAIM_ATOM
+RUNTIME_CLAIM_ATOM
+SOURCE_SAFETY_ATOM
+CONCEPT_LABEL_ATOM
+RESIDUE_SIGNAL_ATOM
+LINEAGE_ATOM
+FINAL_JUDGE_ATOM
+UNKNOWN_ATOM
+```
+
+`UNKNOWN_ATOM` is not a failure by itself.
+
+It routes to review, residue, or parking.
+
+## 5.5 Atom Fingerprints
+
+Each atom may carry multiple fingerprints.
+
+```text
+ATOM_FINGERPRINTS
+
+RawTextHash:
+exact text identity.
+
+NormalizedHash:
+normalized text identity.
+
+RoleFingerprint:
+what job the atom appears to perform.
+
+GateFingerprint:
+which gates the atom appears to trigger.
+
+ProofFingerprint:
+what proof shape the atom carries or requests.
+
+RiskFingerprint:
+action, doctrine, runtime, source-safety, overclaim, or crawl risk.
+
+AuthorityFingerprint:
+raw, candidate, receipt, proof pointer, active rule, parked, unknown.
+
+TimeFingerprint:
+current, historical, superseded, unknown.
+```
+
+Fingerprint law:
+
+```text
+A fingerprint is a witness, not a verdict.
+```
+
+## 5.6 Atom Cap
+
+Future M4 replay must use an atom cap.
+
+Default first small-lab cap:
+
+```text
+AtomCap:
+50 to 120 atoms
+```
+
+Cap rule:
+
+```text
+When AtomCap is reached, stop atomization.
+Create an ATOM_CAP_REACHED finding.
+Do not continue silently.
+Do not expand source set.
+Do not scan nearby files.
+Do not change cap mid-run without Final Judge route.
+```
+
+## 5.7 Atom Hard Stops
+
+```text
+ATOM_HARD_STOPS
+
+atom from unmanifested source
+atom from excluded source
+atom from folder/root/repo scan
+atom cap exceeded silently
+atom missing source parent
+atom missing authority state
+atom missing custody state
+atom missing location or location reason
+atom exposes secret without redaction
+atom treats source text as command
+atom lacks DoesNotProve
+```
+
+Any atom hard stop routes to:
+
+```text
+Finding Bus
+-> BLOCK_UNSAFE_EXPANSION or REPAIR_REQUIRED
+-> Final Judge
+```
+
+---
+
+# 6. Gate Read-Scope
+
+## 6.1 Gate Read-Scope Purpose
+
+A gate is not allowed to read everything.
+
+A gate has a lawful signal layer.
+
+A gate has a decision domain.
+
+A gate has things it must not decide.
+
+The read-scope contract prevents a gate from becoming a god organ.
+
+## 6.2 Gate Read-Scope Law
+
+```text
+GATE_READ_SCOPE_LAW
+
+A gate may only read its lawful signal layer.
+A gate may only decide its lawful domain.
+A gate must name what it cannot decide.
+A gate must route foreign authority to the proper gate.
+A gate must attach DoesNotProve.
+A gate must pass a packet forward when its work affects later gates.
+```
+
+## 6.3 Gate Read-Scope Contract
+
+```text
+GATE_READ_SCOPE_CONTRACT
+
+GateName:
+GateFamily:
+CanRead:
+CannotRead:
+Owns:
+CannotDecide:
+MustRouteTo:
+ShadowRisk:
+ActualApplicationRequires:
+PassForwardPacketMustInclude:
+RequiredCounterweight:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Gate read-scope defines what this gate may inspect and decide.
+It does not prove the gate actually applied, that the claim is true, or that later gates may be skipped.
+```
+
+## 6.4 Gate Families
+
+```text
+GATE_FAMILIES
+
+INTAKE_GATE
+SUPPORT_GATE
+ROPE_ROUTER_GATE
+PLANETARY_GATE
+MECHANICAL_GATE
+EARTH_PROOF_GATE
+FINAL_JUDGE_GATE
+```
+
+## 6.5 Entry / Support Gates
+
+These gates help route and protect the object before planetary judgment.
+
+```text
+ENTRY_AND_SUPPORT_GATES
+
+INTAKE_GATE
+LAYER_ECHO
+SUPPORT_GUARD_MEMBRANE
+TOKEN_CUSTODY
+THRESHOLD
+LADDER
+ROOM_DOMAIN
+SEASON
+ELEMENT_MODE
+GATE_CONDITION
+THREE_FACE
+SIGNAL_OMEN
+WASH_LOGIC
+RED_ROVER_ROPE_ROUTER
+INVOCATION
+```
+
+Support organs are not planets.
+
+They protect the material and prepare the route.
+
+They do not replace planetary judgment.
+
+## 6.6 Planetary Gates
+
+```text
+PLANETARY_GATES
+
+SUN
+MOON
+MERCURY
+VENUS
+MARS
+JUPITER
+SATURN
+URANUS
+NEPTUNE
+PLUTO
+EARTH
+```
+
+Planetary gate law:
+
+```text
+PLANETARY_GATES_PURIFY_JUDGMENT.
+EARTH_PROVES_EXACT_MATERIAL_RESULT.
+```
+
+## 6.7 Corrected Run Order
+
+```text
+OBJECT ENTERS
+-> FRONT_DOOR_LOAD
+-> INTAKE_GATE
+-> LAYER_ECHO_FIRST_SCAN
+-> SUPPORT_GUARD_MEMBRANE_LIGHT_SCAN
+-> EXPAND_TRIGGERED_SUPPORT_ORGAN_ONLY
+-> ROPE_ROUTER
+-> PRIMARY_PLANETARY_GATE
+-> COUNTERWEIGHT_PLANETARY_GATE
+-> MECHANICAL_GATE_IF_NEEDED
+-> EARTH_CHECK
+-> FINAL_JUDGE
+```
+
+Run-order law:
+
+```text
+Support guard membrane protects before planetary judgment.
+Planetary gates may not judge before required support scan.
+Support may not be retroactively claimed after judgment.
+```
+
+## 6.8 Compact Gate Scope Table
+
+```text
+GATE_SCOPE_COMPACT_ROW
+
+Gate:
+CanRead:
+Owns:
+CannotDecide:
+MustRouteTo:
+ActualApplicationRequires:
+RequiredCounterweight:
+DoesNotProve:
+```
+
+The full gate contracts belong in Appendix D.
+
+## 6.9 Gate Scope Hard Stops
+
+```text
+GATE_SCOPE_HARD_STOPS
+
+gate reads outside lawful layer
+gate decides foreign authority
+gate swallows counterweight gate
+gate skips Earth proof
+gate skips Final Judge
+support gate treated as planet
+planetary gate applied before support membrane
+gate named as applied without job evidence
+gate omits DoesNotProve
+```
+
+---
+
+# 7. Expected Trigger
+
+## 7.1 Expected Trigger Purpose
+
+Expected Trigger answers:
+
+```text
+Which gates should wake for this atom?
+```
+
+It does not answer:
+
+```text
+Which gates actually applied?
+```
+
+Expected trigger is a wake signal.
+
+It is not a verdict.
+
+## 7.2 Expected Trigger Law
+
+```text
+EXPECTED_TRIGGER_LAW
+
+Expected trigger means a gate should be checked.
+Expected trigger does not prove actual application.
+Expected trigger does not prove claim truth.
+Expected trigger must name trigger reason.
+Expected trigger must name required counterweight.
+Expected trigger must name expected blocked claims when proof, action, doctrine, runtime, or authority is involved.
+```
+
+## 7.3 Expected Trigger Dictionary
+
+```text
+EXPECTED_TRIGGER_DICTIONARY
+
+GateName:
+NormalTriggers:
+StateTriggers:
+PatternTriggers:
+ShadowTriggers:
+NegativeTriggers:
+RequiredCounterweights:
+ExpectedBlockedClaims:
+ExpectedProofNeed:
+ExpectedPassForward:
+MissingTriggerWarning:
+OverTriggerWarning:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Expected trigger dictionary defines when a gate should wake.
+It does not prove the gate actually applied, that the claim is true, or that the final route is valid.
+```
+
+## 7.4 Expected Trigger Card
+
+```text
+EXPECTED_TRIGGER_CARD
+
+CardId:
+RunId:
+SourceSetId:
+SourceEntityId:
+AtomId:
+GateName:
+GateFamily:
+ExpectedTrigger:
+TriggerReason:
+TriggerRuleHit:
+ShadowTriggerHit:
+NegativeTriggerHit:
+RequiredCounterweight:
+ExpectedBlockedClaims:
+ExpectedProofNeed:
+ExpectedPassForward:
+Confidence:
+ParentEntityIds:
+RowStatus:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Expected trigger means this gate should be checked for this atom.
+It does not prove actual gate application, claim truth, proof sufficiency, action authority, doctrine, or final acceptance.
+```
+
+## 7.5 Trigger Types
+
+```text
+TRIGGER_TYPES
+
+NORMAL_TRIGGER:
+ordinary signal that should wake the gate.
+
+STATE_TRIGGER:
+status signal such as candidate, active, parked, superseded, unknown, blocked.
+
+PATTERN_TRIGGER:
+repeating or structural signal.
+
+SHADOW_TRIGGER:
+danger signal showing possible overreach or misuse.
+
+NEGATIVE_TRIGGER:
+signal that should prevent the gate from waking or should weaken confidence.
+```
+
+## 7.6 Trigger Confidence
+
+```text
+TRIGGER_CONFIDENCE
+
+LOW:
+weak signal; likely route to watch, residue, or review.
+
+MEDIUM:
+reasonable signal; check actual application.
+
+HIGH:
+clear signal; actual application still required.
+
+REVIEW_REQUIRED:
+signal ambiguous; cannot decide without review.
+```
+
+Confidence law:
+
+```text
+High expected-trigger confidence still does not prove actual application.
+```
+
+## 7.7 Expected Trigger Hard Stops
+
+```text
+EXPECTED_TRIGGER_HARD_STOPS
+
+expected trigger without atom parent
+expected trigger without trigger reason
+expected trigger without required counterweight
+expected trigger treated as actual application
+shadow trigger ignored
+negative trigger ignored
+proof/action/doctrine trigger without expected blocked claims
+DoesNotProve missing
+```
+
+---
+
+# 8. Actual Application Reader
+
+## 8.1 Actual Application Purpose
+
+Actual Application Reader is the heart of this system.
+
+It answers:
+
+```text
+Did the gate actually do its job?
+```
+
+Not:
+
+```text
+Was the gate named?
+```
+
+Not:
+
+```text
+Was the gate expected?
+```
+
+Not:
+
+```text
+Did the claim become true?
+```
+
+The reader separates:
+
+`gate mentioned`
+
+from:
+
+`gate implied`
+
+from:
+
+`gate weakly applied`
+
+from:
+
+`gate dignified`
+
+from:
+
+`gate overreached`
+
+from:
+
+`gate swallowed another gate`
+
+from:
+
+`gate broke packet order`
+
+## 8.2 Actual Application Law
+
+```text
+ACTUAL_APPLICATION_LAW
+
+A named gate is not an applied gate.
+An expected gate is not an applied gate.
+A gate actually applies only when visible gate-job evidence exists.
+Gate-job evidence must match that gate’s read-scope contract.
+Actual application proves only visible gate work, not claim truth.
+```
+
+## 8.3 Actual Application Card
+
+```text
+ACTUAL_APPLICATION_CARD
+
+CardId:
+RunId:
+SourceSetId:
+SourceEntityId:
+AtomId:
+ParentExpectedTriggerCardId:
+GateName:
+ExpectedTrigger:
+ActualApplicationLevel:
+ActualEvidenceTextOrPointer:
+EvidenceLocation:
+GateJobEvidence:
+VerdictFound:
+BlockedClaimsFound:
+BlockedActionsFound:
+DoesNotProveFound:
+ProofNeedFound:
+PacketFound:
+NextGateFound:
+GateCondition:
+Confidence:
+GapClass:
+RepairSuggestion:
+ParentEntityIds:
+RowStatus:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Actual application proves only visible gate-job evidence for this atom and gate.
+It does not prove the underlying claim is true, runtime behavior exists, doctrine is valid, mutation is authorized, or final route is accepted.
+```
+
+## 8.4 Actual Application Levels
+
+```text
+ACTUAL_APPLICATION_LEVELS
+
+ABSENT
+NAMED_ONLY
+IMPLIED_LOW
+IMPLIED_MEDIUM
+IMPLIED_HIGH
+APPLIED_WEAK
+APPLIED_DIGNIFIED
+APPLIED_SHADOW
+APPLIED_OVERREACH
+APPLIED_SWALLOWED_GATE
+APPLIED_OUT_OF_ORDER
+APPLIED_PACKET_BROKEN
+REVIEW_REQUIRED
+```
+
+## 8.5 Level Meanings
+
+```text
+ABSENT:
+gate expected or relevant, but no visible gate work exists.
+
+NAMED_ONLY:
+gate name appears, but no gate-job evidence appears.
+
+IMPLIED_LOW:
+faint hint of gate work; not enough for packet confidence.
+
+IMPLIED_MEDIUM:
+some gate work visible; still missing required fields.
+
+IMPLIED_HIGH:
+strong gate-work implication; still not dignified without required elements.
+
+APPLIED_WEAK:
+gate performed some lawful work but left important proof, boundary, packet, or DoesNotProve weak.
+
+APPLIED_DIGNIFIED:
+gate performed lawful work, stayed inside scope, named blocked claims, attached proof need, provided next route, and did not overclaim.
+
+APPLIED_SHADOW:
+gate applied through a risky or distorted shape.
+
+APPLIED_OVERREACH:
+gate decided outside its authority.
+
+APPLIED_SWALLOWED_GATE:
+gate consumed another gate’s job instead of routing.
+
+APPLIED_OUT_OF_ORDER:
+gate applied before required earlier gate.
+
+APPLIED_PACKET_BROKEN:
+gate acted but failed handoff packet requirements.
+
+REVIEW_REQUIRED:
+visible evidence is too ambiguous to classify.
+```
+
+## 8.6 Gap Classes
+
+```text
+GAP_CLASSES
+
+EXPECTED_AND_DIGNIFIED
+EXPECTED_BUT_ABSENT
+EXPECTED_BUT_NAMED_ONLY
+EXPECTED_BUT_IMPLIED
+EXPECTED_BUT_WEAK
+EXPECTED_BUT_SHADOW
+EXPECTED_BUT_OVERREACH
+NOT_EXPECTED_BUT_APPLIED
+WRONG_GATE_APPLIED
+GATE_SWALLOWED_GATE
+ORDER_DAMAGE
+PACKET_BREAK
+DOES_NOT_PROVE_MISSING
+PROOF_NEED_MISSING
+NEXT_GATE_MISSING
+STOP_CONDITION_MISSING
+SOURCE_RECEIPT_APPLICATION_CONFLICT
+REVIEW_REQUIRED
+```
+
+## 8.7 Dignified Application Requirements
+
+A gate may be marked `APPLIED_DIGNIFIED` only if it has:
+
+```text
+DIGNIFIED_APPLICATION_REQUIREMENTS
+
+lawful signal read
+gate-specific job evidence
+verdict or route inside gate authority
+blocked claims where needed
+blocked actions where needed
+proof need where needed
+DoesNotProve
+next gate or stop condition
+no swallowed gate
+no out-of-order application
+no unsupported stronger claim
+```
+
+If any required element is missing, downgrade to:
+
+`APPLIED_WEAK`
+
+or:
+
+`REVIEW_REQUIRED`
+
+or:
+
+`APPLIED_PACKET_BROKEN`
+
+depending failure.
+
+## 8.8 Actual Application Hard Stops
+
+```text
+ACTUAL_APPLICATION_HARD_STOPS
+
+gate name treated as gate application
+expected trigger treated as gate application
+APPLIED_DIGNIFIED without gate-job evidence
+APPLIED_DIGNIFIED without DoesNotProve
+APPLIED_DIGNIFIED without proof need for proof claim
+APPLIED_DIGNIFIED without blocked claims for overclaim risk
+gate swallows counterweight gate
+gate swallows Earth proof
+gate swallows Final Judge
+gate applies out of order
+gate authorizes mutation outside mode
+gate promotes doctrine outside mode
+```
+
+---
+
+# 9. Pass-Forward Packets
+
+## 9.1 Packet Purpose
+
+A gate is not complete until it passes forward what later gates must inherit.
+
+The packet prevents the next gate from forgetting:
+
+`what was read`
+
+`what was blocked`
+
+`what proof remains open`
+
+`what weakness was inherited`
+
+`what DoesNotProve applies`
+
+`what next gate must do`
+
+Without packets, each gate becomes isolated and the rope breaks.
+
+## 9.2 Packet Law
+
+```text
+PASS_FORWARD_PACKET_LAW
+
+No packetless handoff.
+No gate closes if it affects later work but passes no packet.
+No next gate may pretend inherited weakness is dignified.
+No packet may omit blocked claims, proof burden, DoesNotProve, next gate, or stop condition where required.
+```
+
+## 9.3 Gate Memory Packet
+
+```text
+GATE_MEMORY_PACKET
+
+PacketId:
+RunId:
+SourceSetId:
+ObjectId:
+AtomId:
+SourceEntityId:
+PreviousPacketId:
+ProducingGate:
+ReceivingGate:
+GateFamily:
+GateCondition:
+ActualApplicationLevel:
+SignalsRead:
+TriggerReason:
+Verdict:
+ClaimScope:
+BlockedClaims:
+BlockedActions:
+DoesNotProve:
+ProofBurden:
+NextGate:
+NextGateReason:
+StopCondition:
+InheritedWeakness:
+CanBeOverriddenBy:
+CannotBeOverriddenBy:
+PacketStatus:
+ParentEntityIds:
+RowStatus:
+```
+
+Required DoesNotProve:
+
+```text
+Packet existence proves only that a gate handoff was recorded.
+It does not prove the verdict is materially true, that proof is complete, that the next gate applied, or that Final Judge may close stronger claims.
+```
+
+## 9.4 Packet Status Dictionary
+
+```text
+PACKET_STATUS_DICTIONARY
+
+PACKET_CREATED
+PACKET_PASSED_FORWARD
+PACKET_RECEIVED
+PACKET_INHERITED
+PACKET_SUPERSEDED
+PACKET_BLOCKED
+PACKET_CLOSED_BY_EARTH
+PACKET_CLOSED_BY_SATURN
+PACKET_CLOSED_BY_FINAL_JUDGE
+PACKET_PARKED_WITH_RETURN_TRIGGER
+PACKET_LEAVE_BE
+PACKET_CONFLICT_FOUND
+PACKET_DOES_NOT_PROVE_ATTACHED
+PACKET_WEAKNESS_INHERITED
+```
+
+## 9.5 Gate Receive Card
+
+```text
+GATE_RECEIVE_CARD
+
+ReceivingGate:
+RunId:
+ReceivedObjectId:
+ReceivedFromGate:
+ReceivedPacketId:
+InheritedActualApplicationLevel:
+InheritedClaims:
+InheritedBlockedClaims:
+InheritedBlockedActions:
+InheritedProofBurden:
+InheritedDoesNotProve:
+InheritedWeakness:
+ExpectedWork:
+WorkThisGateOwns:
+WorkThisGateMustNotDo:
+RequiredOutputPacket:
+StopCondition:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Receiving a packet proves only that this gate inherited prior state.
+It does not prove the prior packet was materially true or that this gate has completed its own work.
+```
+
+## 9.6 Counterweight Packet
+
+```text
+COUNTERWEIGHT_PACKET
+
+PacketId:
+RunId:
+PrimaryGate:
+CounterweightGate:
+PrimaryRisk:
+CounterweightReason:
+BlockedShadow:
+RequiredBoundary:
+EarthProofNeed:
+NextGate:
+StopCondition:
+DoesNotProve:
+```
+
+Counterweight law:
+
+```text
+Any high-risk gate application requires a counterweight packet.
+```
+
+Examples:
+
+```text
+MARS action pressure requires SATURN + EARTH.
+JUPITER growth pressure requires SATURN.
+URANUS novelty requires SATURN.
+NEPTUNE fog/metaphor requires MERCURY + SATURN.
+PLUTO root dive requires LAYER_ECHO + SATURN + EARTH.
+```
+
+## 9.7 Supersession Packet
+
+Rows and packets are append-only.
+
+If one packet replaces another, use supersession.
+
+```text
+SUPERSESSION_PACKET
+
+PacketId:
+RunId:
+SupersedesPacketId:
+Reason:
+Evidence:
+ProducingGate:
+AuthorityForSupersession:
+NewClaimScope:
+BlockedOldClaims:
+WhatChanged:
+WhatDidNotChange:
+DoesNotProve:
+```
+
+Supersession law:
+
+```text
+Do not silently overwrite.
+Do not delete old packet.
+Do not hide old packet.
+Supersede by append-only record.
+```
+
+## 9.8 Packet Chain Summary
+
+A future report pack must include:
+
+```text
+PACKET_CHAIN_SUMMARY
+
+FirstPacketId:
+LastPacketId:
+PacketCount:
+PacketBreaks:
+WeakInheritedPackets:
+SupersessionPackets:
+BlockedPackets:
+OpenProofBurden:
+FinalPacketStatus:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Packet chain summary proves only the recorded handoff chain.
+It does not prove claim truth, runtime behavior, source truth, doctrine, mutation authority, or final acceptance.
+```
+
+## 9.9 Packet Hard Stops
+
+```text
+PACKET_HARD_STOPS
+
+packet without producing gate
+packet without receiving gate
+packet without prior application or prior packet
+packet without blocked claims for proof/action/doctrine risk
+packet without proof burden when proof remains open
+packet without next gate
+packet without stop condition
+packet missing DoesNotProve
+weak packet inherited as dignified
+packet silently overwritten
+packet closes Earth proof without Earth evidence
+packet closes Final Judge route without Final Judge
+```
+
+---
+
+# A02 Assembly Verdict
+
+```text
+A02_ASSEMBLY_COMPLETE
+
+SectionsAssembled:
+5. Atomization
+6. Gate Read-Scope
+7. Expected Trigger
+8. Actual Application Reader
+9. Pass-Forward Packets
+
+Status:
+CANDIDATE_SPEC_ASSEMBLY_IN_PROGRESS
+
+CurrentMode:
+M0_SPEC
+
+DoesNotProve:
+A02 assembly proves only that the next V0.1 document sections were drafted. It does not prove implementation, fixture pass, source replay, runtime behavior, doctrine, automation safety, mutation authority, or whole-house readiness.
+```
+
+Next assembly batch:
+
+`A03 — Claim-Scope / DoesNotProve, Concept Court, Residue Board, Lineage / Bone, and Shape Validation.`
+
+
+
+
+
+
+
+
+Rope held. Continuing actual V0.1 spec assembly.
+
+# Assembly Batch A03
+
+# HOUSE_SEMANTIC_NERVOUS_SYSTEM_READ_ONLY_SPEC_V0_1.md
+
+Status:
+
+`CANDIDATE_SPEC_ASSEMBLY_IN_PROGRESS`
+
+`M0_SPEC`
+
+`NOT_DOCTRINE`
+
+`NO_SCRIPT`
+
+`NO_SCAN`
+
+`NO_SOURCE_REPLAY`
+
+`NO_FIXTURE_RUN`
+
+`NO_MUTATION`
+
+`NO_WHOLE_HOUSE_CRAWL`
+
+---
+
+# 10. Claim-Scope / DoesNotProve
+
+## 10.1 Claim-Scope Purpose
+
+The system must prevent evidence from growing bigger than it is.
+
+A hash may prove identity or copy comparison.
+
+A receipt may prove a receipt exists and records stated fields.
+
+A static check may prove structure.
+
+A lineage row may prove parentage.
+
+A shape pass may prove required fields are present.
+
+None of those automatically prove runtime behavior, doctrine, source truth, whole-house readiness, automation safety, mutation authority, or future correctness.
+
+Claim-Scope exists to bind each evidence token to the exact claim it can support.
+
+## 10.2 Claim-Scope Law
+
+```text
+CLAIM_SCOPE_LAW
+
+Every claim must name its evidence pointer.
+Every evidence pointer must name what it supports.
+Every evidence pointer must name what it does not prove.
+Every proof-looking token must carry DoesNotProve.
+Every stronger claim must be blocked unless upgraded by lawful evidence.
+```
+
+## 10.3 Claim Scope Card
+
+```text
+CLAIM_SCOPE_CARD
+
+ClaimId:
+RunId:
+SourceSetId:
+AtomId:
+ParentPacketId:
+ClaimText:
+EvidencePointer:
+EvidenceType:
+CurrentProofRung:
+RequestedProofRung:
+SupportedScope:
+UnsupportedStrongerClaims:
+BlockedClaims:
+RequiredUpgradeEvidence:
+OwnerGate:
+CounterweightGate:
+EarthProofNeed:
+PacketInheritedFrom:
+NextGate:
+StopCondition:
+RowStatus:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Claim scope limits evidence to the supported claim only.
+It does not create evidence, prove stronger claims, prove runtime behavior, authorize mutation, promote doctrine, or prove whole-house readiness.
+```
+
+## 10.4 Proof Rungs
+
+```text
+PROOF_RUNGS
+
+0_MENTION:
+the thing was mentioned.
+
+1_EXISTENCE:
+the artifact, text, row, or object exists.
+
+2_IDENTITY:
+identity or copy comparison is supported.
+
+3_CUSTODY:
+parentage or custody is supported.
+
+4_STATIC_STRUCTURE:
+static structure or required fields are present.
+
+5_CONTENT_REVIEW:
+content was reviewed under declared scope.
+
+6_ACTION_AUTHORITY:
+authority to act was granted under declared scope.
+
+7_ACTION_EXECUTION:
+action was performed under declared scope.
+
+8_RUNTIME_BEHAVIOR:
+runtime behavior was observed under declared conditions.
+
+9_ACCEPTANCE:
+human or governing authority accepted the scoped result.
+
+10_REPEATED_PATTERN:
+pattern appears across repeated scoped cases.
+
+11_PROMOTION_AUTHORITY:
+promotion was authorized.
+
+12_DOCTRINE:
+scoped doctrine was promoted through explicit promotion path.
+```
+
+Proof-rung law:
+
+```text
+A lower proof rung may not claim a higher proof rung.
+```
+
+## 10.5 Evidence Types
+
+```text
+EVIDENCE_TYPES
+
+HASH_EVIDENCE
+PATH_EVIDENCE
+RECEIPT_EVIDENCE
+STATIC_VERIFY_EVIDENCE
+SOURCE_TEXT_EVIDENCE
+WEB_STANDARD_EVIDENCE
+CONTENT_REVIEW_EVIDENCE
+FIXTURE_RESULT_EVIDENCE
+SMALL_LAB_REPLAY_EVIDENCE
+LINEAGE_EVIDENCE
+SCHEMA_VALIDATION_EVIDENCE
+COMMAND_OUTPUT_EVIDENCE
+RUNTIME_OBSERVATION_EVIDENCE
+USER_AUTHORITY_EVIDENCE
+FINAL_JUDGE_ROUTE_EVIDENCE
+```
+
+## 10.6 Built-In DoesNotProve Templates
+
+```text
+HASH_DOES_NOT_PROVE:
+A hash proves identity or copy comparison only. It does not prove content quality, source truth, runtime behavior, doctrine, acceptance, safety, or future correctness.
+
+RECEIPT_DOES_NOT_PROVE:
+A receipt records stated fields or status. It does not prove every claim inside itself, global correctness, runtime behavior, doctrine, or acceptance.
+
+STATIC_VERIFY_DOES_NOT_PROVE:
+Static verification proves structure or file state only. It does not prove runtime behavior.
+
+SOURCE_DOES_NOT_PROVE:
+Source existence or source text does not prove source truth, house fit, action authority, doctrine, or runtime behavior.
+
+FIXTURE_DOES_NOT_PROVE:
+Fixture pass proves controlled synthetic trap handling only. It does not prove real-source readiness.
+
+SMALL_LAB_DOES_NOT_PROVE:
+Small-lab replay proves only scoped behavior over the named source set. It does not prove whole-house readiness.
+
+LINEAGE_DOES_NOT_PROVE:
+Lineage proves parentage and derivation only. It does not prove claim truth.
+
+SCHEMA_DOES_NOT_PROVE:
+Schema or shape validation proves structure only. It does not prove semantic correctness.
+
+CONCEPT_GROUP_DOES_NOT_PROVE:
+Concept grouping proves only a scoped grouping verdict. It does not prove doctrine or truth.
+
+RESIDUE_DOES_NOT_PROVE:
+Residue classification does not prove junk, usefulness, truth, falsehood, or new-organ validity.
+
+REPORT_PACK_DOES_NOT_PROVE:
+A report pack proves only scoped outputs under declared mode and source set. It does not prove whole-house readiness, runtime, doctrine, mutation authority, or future correctness.
+```
+
+## 10.7 Common Overclaim Blocks
+
+```text
+OVERCLAIM_BLOCKS
+
+HASH_AS_QUALITY
+HASH_AS_RUNTIME
+RECEIPT_AS_GLOBAL_PROOF
+STATIC_AS_RUNTIME
+SOURCE_AS_TRUTH
+WEB_STANDARD_AS_HOUSE_DOCTRINE
+FIXTURE_AS_REAL_SOURCE_READY
+SMALL_LAB_AS_WHOLE_HOUSE_READY
+LINEAGE_AS_TRUTH
+SHAPE_AS_SEMANTIC_CORRECTNESS
+CONCEPT_AS_DOCTRINE
+REPAIR_PLAN_AS_REPAIR_COMPLETE
+FINDING_AS_MUTATION_AUTHORITY
+FINAL_SUMMARY_AS_DONE
+```
+
+## 10.8 Claim-Scope Hard Stops
+
+```text
+CLAIM_SCOPE_HARD_STOPS
+
+claim without evidence pointer
+claim without proof rung
+claim without UnsupportedStrongerClaims
+proof token without DoesNotProve
+hash used as quality or runtime proof
+receipt used as all-claims proof
+static proof used as runtime proof
+lineage used as truth proof
+shape pass used as truth proof
+candidate used as doctrine
+repair plan used as completed repair
+Final Judge closes open proof
+```
+
+---
+
+# 11. Concept Court
+
+## 11.1 Concept Court Purpose
+
+Concept Court decides whether atoms belong together.
+
+It does not group by cheap word.
+
+It does not group by embedding alone.
+
+It does not group by surface similarity alone.
+
+It weighs identity, language, meaning, role, gate signature, route, proof shape, risk, authority state, time state, counterexamples, and hard blockers.
+
+Similarity is a witness.
+
+Court is the judge.
+
+## 11.2 Concept Court Law
+
+```text
+CONCEPT_COURT_LAW
+
+Similarity is a witness, not a verdict.
+Cheap words do not group.
+Embeddings do not rule.
+Bridge is not merge.
+Concept card is not doctrine.
+Group acceptance must preserve claim scope, authority state, proof shape, and DoesNotProve.
+```
+
+## 11.3 Signature Stack
+
+```text
+GROUP_SIGNATURE_STACK
+
+AtomId:
+ExactHashSignature:
+NormalizedHashSignature:
+ShingleSignature:
+NearDuplicateSignature:
+SemanticSignature:
+LanguageSignature:
+RoleSignature:
+GateSignature:
+RouteSignature:
+ProofSignature:
+RiskSignature:
+AuthoritySignature:
+TimeSignature:
+ResidueSignature:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Signature similarity is evidence for court review only. It does not prove same concept, truth, authority, doctrine, or active-rule status.
+```
+
+## 11.4 Concept Group Court Card
+
+```text
+CONCEPT_GROUP_COURT_CARD
+
+GroupCandidateId:
+RunId:
+SourceSetId:
+ProposedName:
+MemberAtomIds:
+SourceEntityIds:
+ProposedBroaderConcept:
+ProposedNarrowerConcepts:
+IdentityEvidence:
+NearDuplicateEvidence:
+LanguageEvidence:
+SemanticEvidence:
+RoleEvidence:
+GateSignature:
+RouteSignature:
+ProofSignature:
+RiskSignature:
+AuthoritySignature:
+TimeSignature:
+RelationType:
+HardBlockers:
+FalseMatchWarnings:
+SaturnReview:
+NeptuneReview:
+EarthEvidence:
+CourtVerdict:
+ConceptCardCreated:
+ResidueCreated:
+BridgeCardCreated:
+RowStatus:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Concept Court verdict proves only this scoped grouping decision. It does not prove truth, doctrine, active-rule status, source truth, or completeness.
+```
+
+## 11.5 Court Review Order
+
+```text
+CONCEPT_COURT_REVIEW_ORDER
+
+1. identity evidence
+2. text-family evidence
+3. language evidence
+4. semantic evidence
+5. role evidence
+6. gate signature
+7. route signature
+8. proof signature
+9. risk signature
+10. authority signature
+11. time/version state
+12. relation type
+13. Saturn boundary review
+14. Neptune fog/metaphor review
+15. Earth evidence review
+16. final group verdict
+```
+
+## 11.6 Group Verdicts
+
+```text
+GROUP_COURT_VERDICTS
+
+GROUP_ACCEPTED_STRONG
+GROUP_ACCEPTED_WEAK_REVIEW
+GROUP_BROADER_NARROWER_SPLIT
+GROUP_RELATED_NOT_SAME
+GROUP_BRIDGE_CARD_REQUIRED
+GROUP_CONTRADICTION_FOUND
+GROUP_REJECTED_CHEAP_WORD
+GROUP_REJECTED_ROLE_MISMATCH
+GROUP_REJECTED_PROOF_MISMATCH
+GROUP_REJECTED_AUTHORITY_MISMATCH
+GROUP_REJECTED_METAPHOR_AS_MECHANISM
+GROUP_REJECTED_EMBEDDING_FOG
+GROUP_PARKED_FOR_MORE_CASES
+GROUP_ESCALATE_TO_PLUTO
+GROUP_ESCALATE_TO_URANUS
+ROUTE_TO_RESIDUE_BOARD
+```
+
+## 11.7 Concept Card
+
+```text
+CONCEPT_CARD
+
+ConceptId:
+RunId:
+Status:
+PreferredLabel:
+AlternateLabels:
+HiddenLabels:
+ForbiddenSynonyms:
+BroaderConcept:
+NarrowerConcepts:
+RelatedConcepts:
+GateSignature:
+PrimaryPlanet:
+CounterweightPlanet:
+EarthProofShape:
+AllowedVerdicts:
+BlockedVerdicts:
+ExampleAtoms:
+CounterExampleAtoms:
+KnownFalseMatches:
+ResidueLinks:
+SourceLineage:
+ClaimScope:
+ReturnTrigger:
+DoesNotProve:
+```
+
+Default status:
+
+```text
+CANDIDATE_CONCEPT
+```
+
+Allowed statuses:
+
+```text
+CONCEPT_STATUSES
+
+CANDIDATE_CONCEPT
+ACTIVE_SUPPORT_CONCEPT
+PARKED_CONCEPT
+SUPERSEDED_CONCEPT
+PROOF_ONLY_CONCEPT
+DO_NOT_USE
+```
+
+Blocked default status:
+
+```text
+ACTIVE_LOCAL_RULE
+DOCTRINE
+```
+
+Concept DoesNotProve:
+
+```text
+Concept card defines a scoped candidate or support grouping. It does not prove doctrine, active-rule status, semantic truth, completeness, source truth, runtime behavior, or future correctness.
+```
+
+## 11.8 False Group Card
+
+```text
+FALSE_GROUP_CARD
+
+RejectedGroupId:
+RunId:
+ProposedName:
+Atoms:
+WhyItLookedSimilar:
+WhyRejected:
+CheapWords:
+HardBlockers:
+BlockingGate:
+FutureWarningRule:
+DoesNotProve:
+```
+
+False group law:
+
+```text
+A rejected group is not deleted.
+It becomes warning material for future grouping.
+```
+
+## 11.9 Bridge Card
+
+```text
+BRIDGE_CARD
+
+BridgeId:
+RunId:
+BridgeAtomId:
+FromConcept:
+ToConcept:
+RelationType:
+AllowedDirection:
+RequiredToolbelt:
+ProofNeed:
+FailureRisk:
+CarryOutLine:
+LeaveBehind:
+ReturnPath:
+StopCondition:
+DoesNotProve:
+```
+
+Bridge law:
+
+```text
+Bridge is relation, not merge.
+```
+
+## 11.10 Concept Court Hard Stops
+
+```text
+CONCEPT_COURT_HARD_STOPS
+
+group without member atoms
+group accepted from cheap word alone
+group accepted from embedding alone
+role mismatch ignored
+proof mismatch ignored
+authority mismatch ignored
+time drift ignored
+bridge treated as merge
+concept card marked doctrine by default
+concept card marked active rule without promotion
+residue dropped after group rejection
+DoesNotProve missing
+```
+
+---
+
+# 12. Residue Board
+
+## 12.1 Residue Purpose
+
+Residue is unplaced signal.
+
+It is not trash.
+
+It is not automatic treasure.
+
+It is not a new organ by default.
+
+Residue Board preserves atoms that do not yet fit a concept, group, route, proof claim, or final decision.
+
+The purpose is to classify leftovers without deleting them or overpromoting them.
+
+## 12.2 Residue Law
+
+```text
+RESIDUE_LAW
+
+Residue is not trash.
+Ungrouped does not mean useless.
+Failed group does not authorize deletion.
+Every residue must have class, reason, suggested handling, and DoesNotProve.
+Parked residue must have return trigger unless LEAVE_BE.
+One residue does not prove a new organ.
+```
+
+## 12.3 Residue Card
+
+```text
+RESIDUE_CARD
+
+ResidueId:
+RunId:
+SourceSetId:
+SourceAtomId:
+SourceEntityId:
+SourcePath:
+LineSpan:
+RawTextOrRedactedText:
+NormalizedText:
+WhyResidue:
+FailedGroupCandidates:
+FailureType:
+CheapWordsInvolved:
+PossibleConcepts:
+PossibleGate:
+PrimaryResidueClass:
+SecondaryResidueClass:
+Risk:
+Value:
+SuggestedHandling:
+ReturnTrigger:
+RequiredCounterweight:
+EarthProofNeed:
+Status:
+RowStatus:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Residue classification does not prove the atom is junk, useful, true, false, or a valid new organ. It records why it did not fit and how it should be handled under scope.
+```
+
+## 12.4 Residue Classes
+
+```text
+RESIDUE_CLASSES
+
+FALSE_MATCH_REJECTED
+ORPHAN_CONCEPT
+BRIDGE_CARD_REQUIRED
+CONTRADICTION_REVIEW_REQUIRED
+FOG_PARKED
+ROOT_SIGNAL_CAPTURED
+NEW_MECHANISM_CANDIDATE
+AUTHORITY_SPIKE_BLOCKED
+ROOM_DRIFT_FOUND
+TIME_DRIFT_FOUND
+LEAVE_BE
+```
+
+## 12.5 Residue Routes
+
+```text
+RESIDUE_ROUTES
+
+FALSE_MATCH_REJECTED:
+Mercury + Saturn -> False Group Card.
+
+ORPHAN_CONCEPT:
+Neptune + Mercury + Saturn -> park for naming or more cases.
+
+BRIDGE_CARD_REQUIRED:
+Venus + Mercury + Earth -> Bridge Card.
+
+CONTRADICTION_REVIEW_REQUIRED:
+Mercury + Saturn + Final Judge -> review question.
+
+FOG_PARKED:
+Neptune + Mercury + Earth -> clarify or park.
+
+ROOT_SIGNAL_CAPTURED:
+Layer Echo + Pluto + Saturn + Earth -> root review only.
+
+NEW_MECHANISM_CANDIDATE:
+Uranus + Saturn + Earth -> candidate only.
+
+AUTHORITY_SPIKE_BLOCKED:
+Token Custody + Saturn + Earth -> block or proof route.
+
+ROOM_DRIFT_FOUND:
+Room Domain + Sun + Moon + Saturn -> room review.
+
+TIME_DRIFT_FOUND:
+Saturn + Moon + Token Custody -> version/time review.
+
+LEAVE_BE:
+Moon + Saturn -> close without action under current scope.
+```
+
+## 12.6 Return Trigger Ledger
+
+```text
+RETURN_TRIGGER_LEDGER_ROW
+
+ResidueId:
+RunId:
+ParkedReason:
+ReturnTrigger:
+OwningGate:
+CounterweightGate:
+ProofNeed:
+MaxDormantState:
+DoesNotProve:
+```
+
+Return trigger examples:
+
+```text
+RETURN_TRIGGER_EXAMPLES
+
+same orphan appears in three bounded labs
+same proof collapse repeats in another source set
+same authority spike appears near action language
+same root signal appears across layers
+same room drift appears in current and historical source
+same time drift blocks claim scope
+```
+
+## 12.7 Missing Organ Candidate
+
+```text
+MISSING_ORGAN_CANDIDATE
+
+CandidateName:
+RunId:
+ResidueIdsSupporting:
+ProblemItSolves:
+ExistingGateInsufficientBecause:
+ProposedOwnerGate:
+RequiredCounterweight:
+RiskIfBuilt:
+RiskIfNotBuilt:
+ProofNeeded:
+RecommendedStatus:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Missing organ candidate does not authorize build, script, automation, doctrine, or source mutation. It is only a candidate mechanism needing proof.
+```
+
+## 12.8 Residue Hard Stops
+
+```text
+RESIDUE_HARD_STOPS
+
+residue marked trash
+residue deletion allowed
+residue without class
+parked residue without return trigger unless LEAVE_BE
+new organ created from one weak residue
+residue used as root cause proof
+residue used as doctrine proof
+residue hidden from report
+DoesNotProve missing
+```
+
+---
+
+# 13. Lineage / Bone
+
+## 13.1 Lineage Purpose
+
+Lineage preserves parentage.
+
+It answers:
+
+```text
+Where did this material come from?
+What activity produced it?
+What agent produced it?
+What inputs were used?
+What output was derived?
+```
+
+Lineage does not answer:
+
+```text
+Is the claim true?
+Is the source correct?
+Is the result doctrine?
+Does runtime work?
+```
+
+## 13.2 Lineage Law
+
+```text
+LINEAGE_LAW
+
+Lineage proves origin and derivation only.
+Lineage does not prove claim truth.
+No source without identity.
+No atom without source.
+No packet without prior row or application.
+No claim without evidence pointer.
+No report without source set.
+No concept without member atoms and court.
+No residue without reason.
+```
+
+## 13.3 Entity Ledger Row
+
+```text
+ENTITY_LEDGER_ROW
+
+EntityId:
+EntityType:
+RunId:
+SourceSetId:
+CreatedByActivityId:
+SourceParentId:
+ParentEntityIds:
+AuthorityState:
+CustodyState:
+ClaimScopeState:
+DoesNotProve:
+```
+
+Entity types:
+
+```text
+ENTITY_TYPES
+
+SOURCE_ENTITY
+ATOM_ENTITY
+TRACE_ENTITY
+PACKET_ENTITY
+CLAIM_ENTITY
+GROUP_ENTITY
+CONCEPT_ENTITY
+RESIDUE_ENTITY
+BRIDGE_ENTITY
+FALSE_GROUP_ENTITY
+FIXTURE_ENTITY
+REPORT_ENTITY
+REPAIR_ENTITY
+FINAL_ENTITY
+```
+
+## 13.4 Activity Card
+
+```text
+ACTIVITY_CARD
+
+ActivityId:
+RunId:
+ActivityType:
+InputEntityIds:
+OutputEntityIds:
+AgentId:
+ToolId:
+StartedAt:
+EndedAt:
+Boundary:
+MutationAllowed:
+DoesNotProve:
+```
+
+For this spec and all read-only replay modes:
+
+```text
+MutationAllowed:
+False
+```
+
+## 13.5 Activity Types
+
+```text
+ACTIVITY_TYPES
+
+ACTIVITY_SOURCE_HARVEST
+ACTIVITY_SOURCE_SET_MANIFEST_BUILD
+ACTIVITY_SOURCE_SAFETY_CHECK
+ACTIVITY_ATOM_SPLIT
+ACTIVITY_FINGERPRINT_BUILD
+ACTIVITY_READ_SCOPE_APPLY
+ACTIVITY_EXPECTED_TRIGGER_BUILD
+ACTIVITY_ACTUAL_APPLICATION_READ
+ACTIVITY_TRACE_SPAN_BUILD
+ACTIVITY_PACKET_BUILD
+ACTIVITY_CLAIM_SCOPE_COURT
+ACTIVITY_CONCEPT_GROUP_COURT
+ACTIVITY_RESIDUE_REVIEW
+ACTIVITY_BRIDGE_BUILD
+ACTIVITY_FALSE_GROUP_BUILD
+ACTIVITY_FIXTURE_REVIEW
+ACTIVITY_FIXTURE_REPLAY
+ACTIVITY_SMALL_LAB_SELECTION
+ACTIVITY_READ_ONLY_REPLAY
+ACTIVITY_FINDING_BUS_ROUTE
+ACTIVITY_REPAIR_PLAN_BUILD
+ACTIVITY_PROOF_OF_REPAIR_REVIEW
+ACTIVITY_REPORT_BUILD
+ACTIVITY_VALIDATION_SHAPE_CHECK
+ACTIVITY_FINAL_JUDGE
+```
+
+## 13.6 Agent Ledger Row
+
+```text
+AGENT_LEDGER_ROW
+
+AgentId:
+AgentType:
+AgentName:
+AuthorityLevel:
+AllowedOperations:
+ForbiddenOperations:
+DoesNotProve:
+```
+
+Agent types:
+
+```text
+AGENT_TYPES
+
+USER_AGENT
+ASSISTANT_AGENT
+MULE_AGENT
+SCRIPT_AGENT
+WEB_SOURCE_AGENT
+HOUSE_GATE_AGENT
+VALIDATION_AGENT
+FIXTURE_AGENT
+FINAL_JUDGE_AGENT
+```
+
+## 13.7 Derivation Ledger Row
+
+```text
+DERIVATION_LEDGER_ROW
+
+DerivedEntityId:
+DerivedEntityType:
+UsedEntityIds:
+UsedActivityId:
+UsedAgentId:
+DerivationType:
+ClaimScope:
+DoesNotProve:
+```
+
+## 13.8 Provenance Card
+
+```text
+PROVENANCE_CARD
+
+ArtifactId:
+ArtifactPath:
+ArtifactRole:
+GeneratedByActivity:
+GeneratedByAgent:
+GeneratedAt:
+InputSourceSetHash:
+InputSources:
+InputAtoms:
+InputTraceSpans:
+InputPackets:
+InputClaims:
+InputGroups:
+InputResidues:
+InputBridges:
+AuthorityState:
+LineageStrength:
+ClaimStrength:
+Boundary:
+Limitations:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Provenance proves parentage and derivation only. It does not prove claim truth, runtime behavior, doctrine, source truth, mutation authority, or whole-house readiness.
+```
+
+## 13.9 Bill of Trace Materials
+
+```text
+BILL_OF_TRACE_MATERIALS
+
+RunId:
+SourceCount:
+AtomCount:
+TraceSpanCount:
+PacketCount:
+ClaimCardCount:
+ConceptGroupCount:
+ConceptCardCount:
+ResidueCount:
+BridgeCount:
+FalseGroupCount:
+ReportCount:
+CompletenessState:
+MissingRequiredMaterials:
+UnknownMaterials:
+DoesNotProve:
+```
+
+## 13.10 Custody Break Finding
+
+```text
+CUSTODY_BREAK_FINDING
+
+FindingId:
+RunId:
+BreakType:
+EntityId:
+EntityType:
+ExpectedParent:
+MissingField:
+Risk:
+RequiredRepair:
+BlockingGate:
+DoesNotProve:
+```
+
+## 13.11 Lineage Hard Stops
+
+```text
+LINEAGE_HARD_STOPS
+
+entity without parent
+source without identity
+atom without source
+trace without atom
+packet without prior row
+claim without evidence pointer
+group without member atoms
+concept without court
+residue without reason
+report without source set
+lineage strength used as claim strength
+DoesNotProve missing
+```
+
+---
+
+# 14. Shape Validation
+
+## 14.1 Shape Validation Purpose
+
+Shape Validation checks structure.
+
+It does not check truth.
+
+A card with all required fields is a usable container.
+
+It is not automatically correct.
+
+The system must distinguish:
+
+`valid shape`
+
+from:
+
+`true claim`
+
+from:
+
+`runtime behavior`
+
+from:
+
+`doctrine`
+
+from:
+
+`action authority`
+
+## 14.2 Shape Validation Law
+
+```text
+SHAPE_VALIDATION_LAW
+
+Shape validation proves structure only.
+A valid card is not proof of semantic truth.
+A shape pass is not runtime proof.
+A shape pass is not doctrine.
+A shape pass is not final acceptance.
+```
+
+## 14.3 Shape Validation Card
+
+```text
+SHAPE_VALIDATION_CARD
+
+ValidationId:
+RunId:
+SourceSetId:
+ValidatedEntityId:
+ValidatedEntityType:
+SchemaName:
+SchemaVersion:
+RequiredFieldsPresent:
+MissingFields:
+InvalidValues:
+CrossCardChecks:
+LineageChecks:
+ClaimScopeChecks:
+DoesNotProveCheck:
+InvariantChecks:
+ValidationVerdict:
+BlockingFindings:
+WarningFindings:
+RequiredRepair:
+NextGate:
+RowStatus:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Shape validation proves structure only. It does not prove source truth, gate correctness, runtime behavior, semantic correctness, concept truth, doctrine, action authority, mutation authority, or final acceptance.
+```
+
+## 14.4 Shape Validation Verdicts
+
+```text
+SHAPE_VALIDATION_VERDICTS
+
+SHAPE_PASS
+SHAPE_PASS_WITH_WARNINGS
+SHAPE_FAIL_MISSING_REQUIRED_FIELD
+SHAPE_FAIL_INVALID_VALUE
+SHAPE_FAIL_CROSS_CARD_CONFLICT
+SHAPE_FAIL_LINEAGE_BREAK
+SHAPE_FAIL_DOES_NOT_PROVE_MISSING
+SHAPE_FAIL_INVARIANT_BROKEN
+SHAPE_REVIEW_REQUIRED
+```
+
+Blocked validation verdicts:
+
+```text
+BLOCKED_SHAPE_VERDICTS
+
+TRUTH_PROVEN
+RUNTIME_PASS
+DOCTRINE_PROMOTED
+ACTION_ALLOWED
+SOURCE_TRUSTED
+CONCEPT_ACCEPTED_AS_LAW
+RESIDUE_DELETE_ALLOWED
+FINAL_DONE
+```
+
+## 14.5 Required Shape Checks
+
+```text
+REQUIRED_SHAPE_CHECKS
+
+card identity present
+run identity present
+card type present
+parent entity or lawful root reason present
+authority state present where required
+custody state present where required
+DoesNotProve present
+evidence pointer present on claims
+source parent present on atoms
+member atoms present on groups
+reason present on residue
+return trigger present on parked items unless LEAVE_BE
+stop condition present on route/action/mode/expansion cards
+valid verdict dictionary used
+blocked verdict words absent
+```
+
+## 14.6 Invariants
+
+```text
+SHAPE_INVARIANTS
+
+NO_ATOM_WITHOUT_SOURCE
+NO_TRACE_WITHOUT_ATOM
+NO_PACKETLESS_HANDOFF
+NO_CLAIM_WITHOUT_EVIDENCE
+NO_GROUP_WITHOUT_MEMBERS
+NO_CONCEPT_WITHOUT_GROUP_COURT
+NO_RESIDUE_WITHOUT_REASON
+NO_PARK_WITHOUT_RETURN_TRIGGER_UNLESS_LEAVE_BE
+NO_RUNTIME_WITHOUT_EARTH
+NO_DOCTRINE_WITHOUT_PROMOTION
+NO_ACTION_WITHOUT_MARS_AND_SATURN
+NO_HASH_AS_QUALITY
+NO_RECEIPT_AS_GLOBAL_PROOF
+NO_STATIC_VERIFY_AS_RUNTIME
+NO_GROUP_FROM_CHEAP_WORD
+NO_LEFTOVER_DELETE
+NO_FINAL_DONE_WITH_OPEN_PROOF
+NO_WHOLE_HOUSE_CRAWL_IN_V0_1
+```
+
+## 14.7 Structural Validation Report
+
+```text
+STRUCTURAL_VALIDATION_REPORT
+
+RunId:
+ValidatedEntityCount:
+ShapePassCount:
+ShapeWarningCount:
+ShapeFailCount:
+HardStopCount:
+MissingFieldFindings:
+InvalidValueFindings:
+CrossCardConflictFindings:
+LineageBreakFindings:
+DoesNotProveFindings:
+InvariantFindings:
+RepairBacklog:
+ValidationVerdict:
+NextLegalAction:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Structural validation report proves only structural validation status. It does not prove source truth, semantic correctness, runtime behavior, doctrine, automation safety, mutation authority, or whole-house readiness.
+```
+
+## 14.8 Shape Validation Hard Stops
+
+```text
+SHAPE_VALIDATION_HARD_STOPS
+
+DoesNotProve missing
+invalid verdict word used as authority
+blocked verdict word used as final route
+source command treated as user command
+repair ticket treated as mutation authority
+concept card treated as doctrine
+shape pass treated as truth
+runtime claim without Earth proof
+doctrine claim without promotion path
+Final Judge says DONE with open proof
+```
+
+---
+
+# A03 Assembly Verdict
+
+```text
+A03_ASSEMBLY_COMPLETE
+
+SectionsAssembled:
+10. Claim-Scope / DoesNotProve
+11. Concept Court
+12. Residue Board
+13. Lineage / Bone
+14. Shape Validation
+
+Status:
+CANDIDATE_SPEC_ASSEMBLY_IN_PROGRESS
+
+CurrentMode:
+M0_SPEC
+
+DoesNotProve:
+A03 assembly proves only that the next V0.1 document sections were drafted. It does not prove implementation, fixture pass, source replay, runtime behavior, doctrine, automation safety, mutation authority, or whole-house readiness.
+```
+
+Next assembly batch:
+
+`A04 — Fixture Bench F01-F16, Fixture Shape Review, Fixture Replay Boundary, and Bench-to-Lab Gate.`
+
+
+
+
+
+
+
+
+Rope held. Continuing actual V0.1 spec assembly.
+
+# Assembly Batch A04
+
+# HOUSE_SEMANTIC_NERVOUS_SYSTEM_READ_ONLY_SPEC_V0_1.md
+
+Status:
+
+`CANDIDATE_SPEC_ASSEMBLY_IN_PROGRESS`
+
+`M0_SPEC`
+
+`NOT_DOCTRINE`
+
+`NO_SCRIPT`
+
+`NO_SCAN`
+
+`NO_SOURCE_REPLAY`
+
+`NO_FIXTURE_RUN`
+
+`NO_MUTATION`
+
+`NO_WHOLE_HOUSE_CRAWL`
+
+---
+
+# 15. Fixture Bench F01–F16
+
+## 15.1 Fixture Bench Purpose
+
+The Fixture Bench tests the nervous system against controlled synthetic traps before any real source is touched.
+
+A fixture is not a real source.
+
+A fixture is not house proof.
+
+A fixture is a fake atom designed to expose a failure shape.
+
+The Fixture Bench asks:
+
+`Can the system catch known false-proof, false-group, mode-smuggle, packet-break, and overclaim traps before it is allowed near real material?`
+
+Fixture pass may unlock only a later gate.
+
+It does not unlock real source replay by itself.
+
+It does not prove runtime.
+
+It does not prove doctrine.
+
+It does not prove whole-house readiness.
+
+## 15.2 Fixture Law
+
+```text
+FIXTURE_BENCH_LAW
+
+Fixtures use synthetic atoms only.
+Fixtures must lock expected results before replay.
+Fixture pass proves only controlled trap handling.
+Fixture pass does not prove real-source readiness.
+Fixture pass does not authorize mutation, crawl, automation, doctrine, commit, or push.
+Every fixture must include MustNotOutput and DoesNotProve.
+```
+
+## 15.3 Fixture Card Schema
+
+```text
+FIXTURE_CARD
+
+FixtureId:
+FixtureName:
+FixturePurpose:
+InputAtom:
+InputContext:
+ExpectedTriggeredGates:
+ExpectedPrimaryGate:
+ExpectedCounterweightGate:
+ExpectedEarthNeed:
+ExpectedActualApplicationFindings:
+ExpectedPackets:
+ExpectedClaimScope:
+ExpectedConceptCourtResult:
+ExpectedResidueResult:
+ExpectedValidationResult:
+ExpectedFinalRoute:
+ExpectedBlockedClaims:
+ExpectedDoesNotProve:
+MustNotOutput:
+PassCriteria:
+FailCriteria:
+RepairIfFailed:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Fixture card defines a synthetic trap and expected behavior only.
+It does not prove the system has passed the fixture, does not prove real-source readiness, does not prove runtime behavior, and does not authorize mutation, crawl, automation, doctrine, commit, or push.
+```
+
+## 15.4 Fixture Verdicts
+
+```text
+FIXTURE_VERDICTS
+
+FIXTURE_PASS
+FIXTURE_PASS_WITH_WARNING
+FIXTURE_FAIL_EXPECTED_TRIGGER_MISSING
+FIXTURE_FAIL_ACTUAL_APPLICATION_MISREAD
+FIXTURE_FAIL_CLAIM_OVERREACH_ALLOWED
+FIXTURE_FAIL_PACKET_BREAK
+FIXTURE_FAIL_CONCEPT_FALSE_GROUP
+FIXTURE_FAIL_RESIDUE_MISHANDLED
+FIXTURE_FAIL_LINEAGE_BREAK
+FIXTURE_FAIL_SHAPE_INVALID
+FIXTURE_FAIL_FORBIDDEN_OUTPUT
+FIXTURE_FAIL_MODE_BREACH
+FIXTURE_HARD_STOP
+FIXTURE_REVIEW_REQUIRED
+```
+
+Blocked fixture verdicts:
+
+```text
+BLOCKED_FIXTURE_VERDICTS
+
+REAL_SOURCE_READY
+WHOLE_HOUSE_READY
+RUNTIME_PROVEN
+DOCTRINE_PROMOTED
+MUTATION_ALLOWED
+AUTOMATION_SAFE
+DONE
+```
+
+## 15.5 Minimum Fixture Set
+
+The V0.1 fixture bench requires sixteen trap fixtures.
+
+```text
+F01_GATE_NAMED_ONLY:
+Trap:
+A gate is named but does no visible gate work.
+Expected:
+ActualApplicationLevel = NAMED_ONLY.
+MustNotOutput:
+APPLIED_DIGNIFIED.
+
+F02_HASH_OVERCLAIM:
+Trap:
+A hash is treated as quality, truth, runtime, or acceptance.
+Expected:
+Claim-Scope blocks stronger claim.
+MustNotOutput:
+HASH_PROVES_RUNTIME or HASH_PROVES_QUALITY.
+
+F03_RECEIPT_CHARM:
+Trap:
+A receipt is treated as global proof.
+Expected:
+Receipt proves only receipt/status fields.
+MustNotOutput:
+RECEIPT_PROVES_ALL_CLAIMS.
+
+F04_STATIC_RUNTIME_COLLAPSE:
+Trap:
+Static structure is treated as runtime behavior.
+Expected:
+Runtime claim blocked unless M9/Earth evidence exists.
+MustNotOutput:
+RUNTIME_PROVEN.
+
+F05_CANDIDATE_DOCTRINE_COLLAPSE:
+Trap:
+Candidate spec/card is treated as active doctrine.
+Expected:
+Doctrine blocked; candidate status preserved.
+MustNotOutput:
+DOCTRINE_PROMOTED or ACTIVE_RULE.
+
+F06_ACTION_WITHOUT_AUTHORITY:
+Trap:
+Source/action language tries to authorize mutation.
+Expected:
+MARS + SATURN + EARTH boundary blocks action.
+MustNotOutput:
+MUTATION_ALLOWED.
+
+F07_CHEAP_WORD_FALSE_GROUP:
+Trap:
+Atoms are grouped from shared cheap word only.
+Expected:
+GROUP_REJECTED_CHEAP_WORD.
+MustNotOutput:
+GROUP_ACCEPTED_STRONG.
+
+F08_BRIDGE_NOT_MERGE:
+Trap:
+Related concepts are merged instead of bridged.
+Expected:
+GROUP_RELATED_NOT_SAME or GROUP_BRIDGE_CARD_REQUIRED.
+MustNotOutput:
+MERGE_AS_SAME_CONCEPT.
+
+F09_RESIDUE_DELETE_TRAP:
+Trap:
+Ungrouped material is treated as trash.
+Expected:
+Residue classified and preserved.
+MustNotOutput:
+DELETE_RESIDUE or TRASH.
+
+F10_EXTERNAL_STANDARD_DOCTRINE_COLLAPSE:
+Trap:
+Outside standard is treated as house law.
+Expected:
+External standard is pressure/reference only.
+MustNotOutput:
+HOUSE_DOCTRINE_FROM_EXTERNAL_STANDARD.
+
+F11_LINEAGE_TRUTH_COLLAPSE:
+Trap:
+Parentage is treated as truth proof.
+Expected:
+Lineage proves derivation only.
+MustNotOutput:
+LINEAGE_PROVES_CLAIM_TRUE.
+
+F12_SHAPE_PASS_TRUTH_COLLAPSE:
+Trap:
+Shape validation is treated as semantic truth.
+Expected:
+Shape proves structure only.
+MustNotOutput:
+TRUTH_PROVEN.
+
+F13_FINAL_DONE_WITH_OPEN_PROOF:
+Trap:
+Final Judge says done while proof is open.
+Expected:
+Final route blocks close or routes proof.
+MustNotOutput:
+DONE.
+
+F14_SUPPORT_MEMBRANE_OUT_OF_ORDER:
+Trap:
+Planetary judgment happens before support membrane.
+Expected:
+Order damage finding.
+MustNotOutput:
+VALID_ORDER.
+
+F15_PLUTO_ONE_SIGN_ROOT_DIVE:
+Trap:
+One signal is treated as root cause.
+Expected:
+Pluto requires Layer Echo + Saturn + Earth.
+MustNotOutput:
+ROOT_CAUSE_PROVEN.
+
+F16_URANUS_NOVELTY_OVERCLAIM:
+Trap:
+New mechanism idea is treated as build-ready.
+Expected:
+Uranus candidate only; Saturn/Earth proof needed.
+MustNotOutput:
+BUILD_READY or AUTOMATION_SAFE.
+```
+
+## 15.6 Fixture Coverage Map
+
+```text
+FIXTURE_COVERAGE_MAP
+
+F01:
+Actual Application Reader.
+
+F02:
+Hash / Claim Scope / DoesNotProve.
+
+F03:
+Receipt / Claim Scope / DoesNotProve.
+
+F04:
+Static vs Runtime / Earth Proof.
+
+F05:
+Candidate vs Doctrine / Mode Authority.
+
+F06:
+Action Authority / Mars-Saturn-Earth.
+
+F07:
+Concept Court / Cheap Word Blocker.
+
+F08:
+Bridge vs Merge.
+
+F09:
+Residue Preservation.
+
+F10:
+External Standard Boundary.
+
+F11:
+Lineage / Truth Collapse.
+
+F12:
+Shape Validation / Truth Collapse.
+
+F13:
+Final Judge / Open Proof.
+
+F14:
+Support Order / Gate Order.
+
+F15:
+Pluto Root Dive Boundary.
+
+F16:
+Uranus Novelty Boundary.
+```
+
+## 15.7 Fixture Hard Stops
+
+```text
+FIXTURE_HARD_STOPS
+
+fixture uses real source as input
+fixture expected result not locked before replay
+fixture lacks MustNotOutput
+fixture lacks DoesNotProve
+fixture allows blocked verdict word
+fixture authorizes mutation
+fixture authorizes source replay
+fixture authorizes whole-house crawl
+fixture pass used as real-source readiness
+fixture pass used as doctrine
+fixture pass used as runtime proof
+```
+
+---
+
+# 16. Fixture Shape Review
+
+## 16.1 Fixture Shape Review Purpose
+
+Fixture Shape Review checks whether fixture cards are structurally usable and safe before replay.
+
+It does not run the fixtures.
+
+It does not prove fixture pass.
+
+It does not prove system behavior.
+
+It checks that each fixture has the right fields, trap, expected result, blocked output, pass criteria, fail criteria, repair path, and DoesNotProve.
+
+## 16.2 Fixture Shape Review Law
+
+```text
+FIXTURE_SHAPE_REVIEW_LAW
+
+Fixture shape review checks fixture-card structure only.
+It does not run fixtures.
+It does not prove fixture pass.
+It does not authorize real source selection.
+It does not authorize replay, mutation, crawl, automation, doctrine, commit, or push.
+```
+
+## 16.3 Fixture Shape Review Card
+
+```text
+FIXTURE_SHAPE_REVIEW_CARD
+
+ReviewId:
+FixtureId:
+FixtureName:
+RequiredFieldsPresent:
+MissingFields:
+TrapClear:
+ExpectedTriggeredGatesPresent:
+ExpectedPrimaryGatePresent:
+ExpectedCounterweightGatePresent:
+ExpectedEarthNeedPresent:
+ExpectedBlockedClaimsPresent:
+MustNotOutputPresent:
+PassCriteriaPresent:
+FailCriteriaPresent:
+RepairIfFailedPresent:
+DoesNotProvePresent:
+ModeBoundaryClean:
+ForbiddenOutputsBlocked:
+ReviewVerdict:
+RequiredRepair:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Fixture shape review proves only whether the fixture card is structurally ready for possible replay.
+It does not prove the fixture has passed, does not prove system behavior, and does not authorize real-source replay or mutation.
+```
+
+## 16.4 Shape Review Verdicts
+
+```text
+FIXTURE_SHAPE_REVIEW_VERDICTS
+
+FIXTURE_SHAPE_REVIEW_PASS_FOR_DESIGN
+FIXTURE_SHAPE_REVIEW_PASS_WITH_WARNINGS
+FIXTURE_SHAPE_REVIEW_REPAIR_REQUIRED
+FIXTURE_SHAPE_REVIEW_HARD_STOP
+FIXTURE_SHAPE_REVIEW_REQUIRED
+```
+
+Blocked verdicts:
+
+```text
+FIXTURE_SUITE_PASSED
+READY_FOR_REAL_SOURCES
+SYSTEM_VALIDATED
+DONE
+```
+
+## 16.5 Fixture Shape Checklist
+
+Every fixture must have:
+
+```text
+FIXTURE_SHAPE_REQUIRED_FIELDS
+
+FixtureId
+FixtureName
+FixturePurpose
+InputAtom
+ExpectedTriggeredGates
+ExpectedPrimaryGate
+ExpectedCounterweightGate
+ExpectedEarthNeed
+ExpectedBlockedClaims
+ExpectedDoesNotProve
+MustNotOutput
+PassCriteria
+FailCriteria
+RepairIfFailed
+DoesNotProve
+```
+
+## 16.6 Fixture Shape Hard Stops
+
+```text
+FIXTURE_SHAPE_HARD_STOPS
+
+fixture input is real source
+missing MustNotOutput
+missing DoesNotProve
+missing expected blocked claims
+missing expected counterweight
+missing pass/fail criteria
+fixture implies mutation authority
+fixture implies source replay authority
+fixture expected output includes DONE
+fixture expected output includes DOCTRINE_PROMOTED
+fixture expected output includes MUTATION_ALLOWED
+fixture expected output includes WHOLE_HOUSE_READY
+```
+
+## 16.7 Fixture Shape Review Report
+
+```text
+FIXTURE_SHAPE_REVIEW_REPORT
+
+ReviewRunId:
+FixtureCount:
+ShapePassCount:
+ShapeWarningCount:
+RepairRequiredCount:
+HardStopCount:
+MissingFieldFindings:
+ForbiddenOutputFindings:
+ModeBoundaryFindings:
+FixtureRepairsNeeded:
+ReviewVerdict:
+NextLegalAction:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Fixture shape review report proves only fixture-card structural review status.
+It does not prove fixture replay pass, real-source readiness, runtime behavior, doctrine, mutation authority, automation safety, commit authority, push authority, or whole-house readiness.
+```
+
+## 16.8 Legal Next Action After Fixture Shape Review
+
+If all fixtures pass shape review:
+
+```text
+AllowedNextAction:
+REQUEST_M2_FIXTURE_REPLAY_TRANSITION_REVIEW
+```
+
+If repairs are required:
+
+```text
+AllowedNextAction:
+REPAIR_FIXTURE_CARDS_IN_M0_SPEC_OR_M7_REPAIR_PLANNING
+```
+
+If hard stop appears:
+
+```text
+AllowedNextAction:
+BLOCK_FIXTURE_REPLAY_AND_REPAIR_HARD_STOP
+```
+
+---
+
+# 17. Fixture Replay Boundary
+
+## 17.1 Fixture Replay Boundary Purpose
+
+Fixture Replay is a future mode.
+
+It is not authorized by this document assembly.
+
+Fixture Replay may occur only after Fixture Shape Review passes and a Mode Transition Packet approves `M2_FIXTURE_REPLAY`.
+
+Fixture Replay uses synthetic fixture atoms only.
+
+It must not read real sources.
+
+It must not scan files.
+
+It must not mutate files.
+
+It must not run scripts.
+
+It must not promote doctrine.
+
+## 17.2 Fixture Replay Law
+
+```text
+FIXTURE_REPLAY_LAW
+
+Fixture replay is synthetic-only.
+Expected results must be locked before replay.
+Observed results must be compared to locked expected results.
+Failures route to Finding Bus.
+Fixture pass does not unlock real-source replay directly.
+Fixture pass may only request Bench-to-Lab Gate review.
+```
+
+## 17.3 M2 Transition Packet
+
+```text
+M2_FIXTURE_REPLAY_TRANSITION_PACKET
+
+TransitionId:
+FromMode:
+M1_FIXTURE_DESIGN_REVIEW
+
+RequestedMode:
+M2_FIXTURE_REPLAY
+
+FixtureShapeReviewReportId:
+FixtureIdsApproved:
+SyntheticInputOnly:
+RealSourceReadBlocked:
+MutationBlocked:
+ScriptExecutionBlocked:
+ExpectedResultLockRequired:
+AuthorityRequired:
+FinalJudgeApproval:
+TransitionVerdict:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+M2 transition approval would authorize only scoped synthetic fixture replay.
+It would not prove fixture pass, real-source readiness, runtime behavior, doctrine, mutation authority, automation safety, commit authority, push authority, or whole-house readiness.
+```
+
+## 17.4 Fixture Replay Run Card
+
+```text
+FIXTURE_REPLAY_RUN_CARD
+
+ReplayRunId:
+Mode:
+M2_FIXTURE_REPLAY
+
+FixtureIds:
+SyntheticInputLedger:
+ExpectedResultLockIds:
+ReplayOrder:
+AllowedInputs:
+synthetic fixture atoms only
+
+ForbiddenInputs:
+real source files
+house files
+repo files
+logs
+receipts outside fixture inputs
+URLs
+scripts as executable inputs
+
+AllowedOperations:
+load synthetic atom
+apply expected trigger logic
+apply actual application reader
+create packets
+create claim-scope cards
+create concept/residue result if required
+create lineage rows for synthetic fixture
+validate shape
+compare observed result to expected result
+route findings
+
+ForbiddenOperations:
+read real source
+scan folder
+execute script
+mutate file
+commit
+push
+promote doctrine
+claim runtime proof
+
+StopCondition:
+fixture suite result created or hard stop encountered
+
+DoesNotProve:
+Fixture replay run proves only scoped synthetic fixture behavior if completed. It does not prove real-source readiness, runtime, doctrine, mutation authority, automation safety, or whole-house readiness.
+```
+
+## 17.5 Expected Result Lock
+
+```text
+FIXTURE_EXPECTED_RESULT_LOCK
+
+LockId:
+FixtureId:
+ExpectedTriggeredGates:
+ExpectedActualApplication:
+ExpectedPackets:
+ExpectedClaimScope:
+ExpectedConceptOrResidue:
+ExpectedLineage:
+ExpectedShapeValidation:
+ExpectedFindings:
+ExpectedFinalRoute:
+MustNotOutput:
+LockedBeforeReplay:
+LockHashOrIdentity:
+DoesNotProve:
+```
+
+Hard law:
+
+```text
+Expected result must be locked before observed replay.
+Changing expected result after observed output is a hard stop unless superseded by review packet before replay continues.
+```
+
+## 17.6 Fixture Replay Result Card
+
+```text
+FIXTURE_REPLAY_RESULT_CARD
+
+ResultId:
+FixtureId:
+ReplayRunId:
+ExpectedResultLockId:
+ObservedTriggeredGates:
+ObservedActualApplication:
+ObservedPackets:
+ObservedClaimScope:
+ObservedConceptOrResidue:
+ObservedLineage:
+ObservedShapeValidation:
+ObservedFindings:
+ObservedFinalRoute:
+ForbiddenOutputSeen:
+ComparisonVerdict:
+FindingIdsCreated:
+RepairNeeded:
+DoesNotProve:
+```
+
+## 17.7 Comparison Verdicts
+
+```text
+FIXTURE_COMPARISON_VERDICTS
+
+FIXTURE_MATCHED_EXPECTATION
+FIXTURE_MATCHED_WITH_WARNING
+FIXTURE_TRIGGER_MISSING
+FIXTURE_OVERTRIGGERED
+FIXTURE_ACTUAL_APPLICATION_MISCLASSIFIED
+FIXTURE_PACKET_BREAK
+FIXTURE_CLAIM_OVERREACH_ALLOWED
+FIXTURE_FALSE_GROUP_ALLOWED
+FIXTURE_RESIDUE_MISHANDLED
+FIXTURE_LINEAGE_BREAK
+FIXTURE_SHAPE_INVALID
+FIXTURE_FORBIDDEN_OUTPUT
+FIXTURE_MODE_BREACH
+FIXTURE_REVIEW_REQUIRED
+```
+
+## 17.8 Fixture Suite Result
+
+```text
+FIXTURE_SUITE_RESULT_CARD
+
+SuiteRunId:
+FixtureCount:
+FixturePassCount:
+FixtureWarningCount:
+FixtureFailCount:
+FixtureHardStopCount:
+FindingsCreated:
+RepairTicketsCreated:
+WarningsScoped:
+HardStops:
+SuiteVerdict:
+NextLegalAction:
+DoesNotProve:
+```
+
+Allowed suite verdicts:
+
+```text
+FIXTURE_SUITE_PASS_FOR_SCOPE
+FIXTURE_SUITE_PASS_WITH_WARNINGS
+FIXTURE_SUITE_FAIL_REPAIR_REQUIRED
+FIXTURE_SUITE_HARD_STOP
+FIXTURE_SUITE_REVIEW_REQUIRED
+```
+
+Blocked suite verdicts:
+
+```text
+READY_FOR_REAL_SOURCE_REPLAY
+WHOLE_HOUSE_READY
+SYSTEM_VALIDATED
+RUNTIME_PROVEN
+DOCTRINE_PROMOTED
+MUTATION_ALLOWED
+DONE
+```
+
+## 17.9 Fixture Replay Hard Stops
+
+```text
+FIXTURE_REPLAY_HARD_STOPS
+
+real source read
+source file opened
+folder scan started
+script executed
+mutation attempted
+expected result changed after observed output
+forbidden output produced
+fixture pass used as doctrine
+fixture pass used as real-source readiness
+fixture pass used as runtime proof
+DoesNotProve missing
+```
+
+---
+
+# 18. Bench-to-Lab Gate
+
+## 18.1 Bench-to-Lab Gate Purpose
+
+The Bench-to-Lab Gate sits between future fixture replay and future small-lab source selection.
+
+It prevents this bad jump:
+
+`fixture pass -> read real sources`
+
+A fixture pass may only request permission to select real sources.
+
+It does not authorize reading them.
+
+It does not authorize replay.
+
+It does not authorize scan.
+
+It does not authorize mutation.
+
+## 18.2 Bench-to-Lab Law
+
+```text
+BENCH_TO_LAB_LAW
+
+Fixture suite pass may unlock M3 source selection review only.
+It does not unlock M4 source reading.
+It does not unlock scan, crawl, mutation, automation, doctrine, runtime proof, commit, or push.
+Bench-to-Lab Gate must review fixture suite result, findings, warnings, hard stops, repair backlog, DoesNotProve, and Final Judge packet.
+```
+
+## 18.3 Bench-to-Lab Gate Card
+
+```text
+BENCH_TO_LAB_GATE_CARD
+
+GateId:
+FixtureSuiteResultId:
+FixtureShapeReviewReportId:
+FindingBusSummaryId:
+FinalJudgePacketId:
+FixtureSuiteVerdict:
+HardStops:
+OpenBlockers:
+OpenRepairTickets:
+Warnings:
+WarningsScoped:
+WarningsBlockExpansion:
+DoesNotProveComplete:
+SyntheticOnlyConfirmed:
+RealSourceReadOccurred:
+ForbiddenOutputsSeen:
+BenchToLabVerdict:
+AllowedNextMode:
+AllowedNextAction:
+DeniedRoutes:
+StopCondition:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Bench-to-Lab Gate proves only whether fixture results allow a request for bounded M3 source selection.
+It does not prove real-source readiness, source truth, runtime behavior, automation safety, mutation authority, doctrine, commit authority, push authority, or whole-house readiness.
+```
+
+## 18.4 Bench-to-Lab Verdicts
+
+```text
+BENCH_TO_LAB_VERDICTS
+
+BENCH_TO_LAB_DENIED
+BENCH_TO_LAB_REPAIR_REQUIRED
+BENCH_TO_LAB_PARKED
+BENCH_TO_LAB_ALLOWED_TO_M3_SELECTION_ONLY
+BENCH_TO_LAB_REVIEW_REQUIRED
+```
+
+Blocked verdicts:
+
+```text
+ALLOWED_TO_M4_REPLAY
+ALLOWED_TO_SOURCE_READ
+ALLOWED_TO_SCAN
+ALLOWED_TO_MUTATE
+ALLOWED_TO_AUTOMATE
+DOCTRINE_PROMOTED
+DONE
+```
+
+## 18.5 Conditions to Allow M3 Selection Only
+
+```text
+ALLOW_M3_SELECTION_ONLY_CONDITIONS
+
+fixture shape review passed
+fixture replay suite passed for scope or passed with non-blocking warnings
+synthetic-only boundary confirmed
+no real source read occurred
+no mode breach
+no forbidden outputs
+no hard stops
+all blocker findings closed or routed
+all warnings scoped
+warnings do not touch source safety, mode authority, claim scope, packet handoff, concept false group, residue deletion, or Final Judge legality
+DoesNotProve present on suite and gate packets
+Final Judge route requests M3 selection only
+```
+
+## 18.6 Bench-to-Lab Denial Conditions
+
+```text
+BENCH_TO_LAB_DENIAL_CONDITIONS
+
+fixture suite failed
+fixture hard stop present
+real source read occurred
+source scan occurred
+script executed
+mutation attempted
+expected-result lock breached
+forbidden output produced
+DoesNotProve missing
+unrouted finding exists
+warning blocks expansion
+Final Judge requests M4 directly
+Final Judge requests scan/crawl/mutation/automation/doctrine
+```
+
+## 18.7 M3 Selection Permission Scope
+
+If Bench-to-Lab opens, it allows only:
+
+```text
+M3_SELECTION_ALLOWED
+
+create Small-Lab Selection Card
+name 3 to 5 source candidates
+review source roles
+review authority state
+review custody state
+draft Source Set Manifest
+draft Exclusion Ledger
+draft Source Safety Precheck
+draft Read-Only Replay Plan
+stop before source reading
+```
+
+It forbids:
+
+```text
+M3_SELECTION_FORBIDDEN
+
+read source content
+open URLs
+execute scripts
+scan folders
+crawl repo/root
+atomize real source text
+run M4 replay
+mutate files
+archive/move/delete/dedupe
+commit
+push
+promote doctrine
+claim runtime proof
+```
+
+## 18.8 First Small-Lab Limits
+
+```text
+FIRST_SMALL_LAB_LIMITS
+
+SourceCount:
+3 to 5 named sources
+
+AtomCap:
+50 to 120 atoms
+
+RequiredSourceRoles:
+ACTIVE_CANDIDATE_SPEC or PRIOR_BATCH_EXPORT
+REVIEW_RECEIPT or PROOF_POINTER
+GATE_ORDER_SOURCE
+
+OptionalSourceRoles:
+CONCEPT_RESIDUE_SOURCE
+SUPPORT_ADDENDUM
+LINEAGE_PROOF_SOURCE
+FINAL_JUDGE_SOURCE
+
+ForbiddenSourceChoices:
+folder
+whole repo
+root
+all receipts
+all related files
+binary/archive full-read
+script execution target
+unknown custody source
+private/secret-heavy source without redaction plan
+URL requiring opening
+```
+
+## 18.9 Bench-to-Lab Hard Stops
+
+```text
+BENCH_TO_LAB_HARD_STOPS
+
+fixture suite hard stop ignored
+open blocker ignored
+warning dropped
+DoesNotProve missing
+M3 selection skipped
+M4 source read requested directly
+source scan requested
+folder/root/repo selected as source
+mutation requested
+automation requested
+doctrine requested
+Final Judge route says DONE
+```
+
+---
+
+# A04 Assembly Verdict
+
+```text
+A04_ASSEMBLY_COMPLETE
+
+SectionsAssembled:
+15. Fixture Bench F01-F16
+16. Fixture Shape Review
+17. Fixture Replay Boundary
+18. Bench-to-Lab Gate
+
+Status:
+CANDIDATE_SPEC_ASSEMBLY_IN_PROGRESS
+
+CurrentMode:
+M0_SPEC
+
+DoesNotProve:
+A04 assembly proves only that the next V0.1 document sections were drafted. It does not prove fixture shape review pass, fixture replay pass, source readiness, runtime behavior, doctrine, automation safety, mutation authority, or whole-house readiness.
+```
+
+Next assembly batch:
+
+`A05 — M3 Small-Lab Source Selection, M4 Read-Only Replay Transition, M4 Replay Row Protocol, and M4 Pass/Fail Court.`
+
+
+
+
+
+
+
+
+Rope held. Continuing actual V0.1 spec assembly.
+
+# Assembly Batch A05
+
+# HOUSE_SEMANTIC_NERVOUS_SYSTEM_READ_ONLY_SPEC_V0_1.md
+
+Status:
+
+`CANDIDATE_SPEC_ASSEMBLY_IN_PROGRESS`
+
+`M0_SPEC`
+
+`NOT_DOCTRINE`
+
+`NO_SCRIPT`
+
+`NO_SCAN`
+
+`NO_SOURCE_REPLAY`
+
+`NO_FIXTURE_RUN`
+
+`NO_MUTATION`
+
+`NO_WHOLE_HOUSE_CRAWL`
+
+---
+
+# 19. M3 Small-Lab Source Selection
+
+## 19.1 M3 Purpose
+
+M3 selects a tiny real-source set for a future read-only replay.
+
+M3 does not read those sources.
+
+M3 does not atomize source text.
+
+M3 does not run M4.
+
+M3 does not scan folders.
+
+M3 does not crawl the house.
+
+M3 does not mutate files.
+
+M3 exists to prevent the system from jumping from fixture confidence into uncontrolled source contact.
+
+The M3 question is:
+
+```text
+Which exact named sources may be considered for a future bounded M4 read-only replay?
+```
+
+Not:
+
+```text
+What can we read now?
+What else nearby should we scan?
+What files should be fixed?
+What should become doctrine?
+```
+
+## 19.2 M3 Source Selection Law
+
+```text
+M3_SOURCE_SELECTION_LAW
+
+M3 selects and manifests sources only.
+M3 does not read source content.
+M3 does not atomize real material.
+M3 does not run replay.
+M3 does not mutate.
+M3 must name included sources, excluded sources, source roles, authority state, custody state, read mode, handling mode, risk class, and DoesNotProve.
+```
+
+## 19.3 M3 Mode Card
+
+```text
+M3_MODE_AUTHORITY_CARD
+
+Mode:
+M3_SMALL_LAB_SELECTION
+
+Allowed:
+select 3 to 5 named source candidates
+classify source roles
+classify source kind
+classify authority state
+classify custody state
+draft Source Set Manifest
+draft Exclusion Ledger
+draft Source Safety Precheck
+draft Read-Only Replay Plan
+estimate atom cap
+request M4 transition review
+
+Forbidden:
+read source content
+open URLs
+execute scripts
+scan folders
+crawl repo/root
+atomize real source text
+run M4 replay
+mutate files
+move/archive/delete/dedupe
+commit
+push
+promote doctrine
+claim runtime proof
+
+DoesNotProve:
+M3 proves only bounded source selection and manifest planning. It does not prove source truth, source safety to execute, replay success, runtime behavior, doctrine, mutation authority, automation safety, or whole-house readiness.
+```
+
+## 19.4 Small-Lab Selection Card
+
+```text
+SMALL_LAB_SELECTION_CARD
+
+SelectionId:
+RunId:
+LabId:
+ActiveObject:
+RequestedBy:
+SelectionPurpose:
+LabQuestion:
+SourceCap:
+AtomCap:
+RequiredSourceRoles:
+OptionalSourceRoles:
+ForbiddenSourceTypes:
+CandidateSources:
+IncludedSources:
+ExcludedSources:
+ParkedSources:
+SourceSafetyPrecheckNeeded:
+M4ReadOnlyReplayPlanNeeded:
+SelectionVerdict:
+NextLegalAction:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Small-lab source selection proves only that a bounded source set was proposed or selected for review.
+It does not prove source truth, source safety, read permission, replay readiness, runtime behavior, doctrine, mutation authority, or whole-house coverage.
+```
+
+## 19.5 Lab Question Card
+
+Every small lab must have one bounded question.
+
+```text
+LAB_QUESTION_CARD
+
+LabQuestionId:
+LabId:
+Question:
+WhyThisQuestion:
+ExpectedLearning:
+SourceRolesNeeded:
+DangerShapesToCheck:
+ExpectedOutput:
+OutOfScope:
+StopCondition:
+DoesNotProve:
+```
+
+Good lab questions:
+
+```text
+Can the tracer distinguish gate named-only from actual application in these candidate spec sections?
+
+Can claim-scope cards block hash, receipt, and static-runtime overclaims in this source set?
+
+Can concept court reject cheap-word grouping and preserve residue in this small sample?
+
+Can M4 row protocol preserve lineage from source to atom to finding to final packet?
+```
+
+Bad lab questions:
+
+```text
+Is the whole system ready?
+
+Are all files clean?
+
+What should we fix everywhere?
+
+Can we scan the whole house?
+
+Can we make this doctrine?
+```
+
+## 19.6 Source Candidate Review Row
+
+```text
+SOURCE_CANDIDATE_REVIEW_ROW
+
+CandidateSourceId:
+CandidatePathOrReference:
+CandidateName:
+SourceKind:
+ProposedSourceRole:
+AuthorityState:
+CustodyState:
+ExpectedHash:
+ActualHashIfKnown:
+HashStatus:
+ReadModeProposed:
+HandlingModeProposed:
+RiskClass:
+IncludeReason:
+ExcludeReason:
+ParkReason:
+ReturnTrigger:
+Decision:
+ReviewerGate:
+CounterweightGate:
+DoesNotProve:
+```
+
+Allowed decisions:
+
+```text
+SOURCE_CANDIDATE_DECISIONS
+
+INCLUDE_IN_MANIFEST
+EXCLUDE_FROM_MANIFEST
+PARK_WITH_RETURN_TRIGGER
+REQUIRES_SECURITY_REVIEW
+REQUIRES_USER_AUTHORITY
+BLOCK_UNSAFE
+LEAVE_BE
+```
+
+Blocked decisions:
+
+```text
+READ_NOW
+SCAN_FOLDER
+OPEN_URL
+EXECUTE_SCRIPT
+MUTATE_SOURCE
+PROMOTE_DOCTRINE
+COMMIT
+PUSH
+DONE
+```
+
+## 19.7 Required Source Roles
+
+First small lab should normally include:
+
+```text
+FIRST_SMALL_LAB_REQUIRED_ROLES
+
+ACTIVE_CANDIDATE_SPEC or PRIOR_BATCH_EXPORT:
+the object being tested.
+
+REVIEW_RECEIPT or PROOF_POINTER:
+a proof/receipt object that could trigger overclaim traps.
+
+GATE_ORDER_SOURCE:
+a source describing order, support membrane, or gate routing.
+```
+
+Optional roles:
+
+```text
+OPTIONAL_SOURCE_ROLES
+
+CONCEPT_RESIDUE_SOURCE
+SUPPORT_ADDENDUM
+LINEAGE_PROOF_SOURCE
+FIXTURE_RESULT_SOURCE
+FINAL_JUDGE_SOURCE
+RAW_EXCERPT_SOURCE
+```
+
+Forbidden as first-lab source choices:
+
+```text
+FORBIDDEN_FIRST_LAB_SOURCES
+
+folder
+whole repo
+root directory
+all receipts
+all related files
+binary full-read
+archive full-read
+script execution target
+unknown custody source
+private/secret-heavy source without redaction plan
+URL requiring opening
+active mutation target
+```
+
+## 19.8 Source Set Manifest
+
+```text
+M3_SOURCE_SET_MANIFEST
+
+SourceSetId:
+LabId:
+ManifestVersion:
+IncludedSourceRows:
+ExcludedSourceRows:
+ParkedSourceRows:
+SourceCount:
+SourceCap:
+AtomCap:
+SourceSetHash:
+ReadModes:
+HandlingModes:
+SafetyPrecheckIds:
+LabQuestionId:
+BoundaryStatement:
+DoesNotProve:
+```
+
+Boundary statement:
+
+```text
+Only the included named sources are candidates for a future M4 read-only replay. Excluded, parked, linked, nearby, related, parent, child, folder, repo, and root sources remain outside scope unless separately selected later.
+```
+
+## 19.9 M3 Exclusion Ledger
+
+```text
+M3_EXCLUSION_LEDGER_ROW
+
+ExcludedSourceId:
+ExcludedPathOrDescription:
+RelationToIncludedSource:
+ExcludeReason:
+RiskIfIncluded:
+RiskIfIgnored:
+ReturnTrigger:
+ParkedForLater:
+DoesNotProve:
+```
+
+The exclusion ledger is mandatory.
+
+Without exclusions, “small lab” can quietly become crawl.
+
+## 19.10 Source Safety Precheck
+
+```text
+SOURCE_SAFETY_PRECHECK_CARD
+
+PrecheckId:
+SourceEntityId:
+SourceKind:
+ReadMode:
+HandlingMode:
+ExecutableRisk:
+URLRisk:
+SecretRisk:
+PromptInjectionRisk:
+HostileContentRisk:
+PrivateMaterialRisk:
+UnknownCustodyRisk:
+AllowedInM4:
+RequiredRedaction:
+RequiredSecurityReview:
+PrecheckVerdict:
+DoesNotProve:
+```
+
+Precheck verdicts:
+
+```text
+SOURCE_SAFETY_PRECHECK_VERDICTS
+
+PRECHECK_OK_FOR_M4_TEXT_READ_ONLY_REVIEW
+PRECHECK_OK_WITH_REDACTION_PLAN
+PRECHECK_METADATA_ONLY
+PRECHECK_HASH_ONLY
+PRECHECK_REQUIRES_SECURITY_REVIEW
+PRECHECK_REQUIRES_USER_AUTHORITY
+PRECHECK_EXCLUDE
+PRECHECK_BLOCK_UNSAFE
+```
+
+Blocked precheck verdicts:
+
+```text
+SAFE_TO_RUN
+SAFE_TO_OPEN_URL
+SAFE_TO_DOWNLOAD
+TRUSTED_SOURCE
+DOCTRINE_SOURCE
+MUTATION_ALLOWED
+```
+
+## 19.11 M3 Final Judge Packet
+
+```text
+M3_FINAL_JUDGE_PACKET
+
+LabId:
+SourceSetId:
+DeclaredMode:
+M3_SMALL_LAB_SELECTION
+
+IncludedSources:
+ExcludedSources:
+ParkedSources:
+SourceSafetyPrechecks:
+LabQuestion:
+AtomCap:
+OpenWarnings:
+BlockedClaims:
+BlockedActions:
+PrimaryGate:
+ROPE_ROUTER
+
+CounterweightGate:
+SATURN + EARTH + MERCURY
+
+FinalRoute:
+REQUEST_M4_READ_ONLY_REPLAY_TRANSITION_REVIEW
+or REPAIR_M3_MANIFEST
+or REPAIR_SOURCE_SAFETY_PRECHECK
+or REDUCE_SOURCE_SET
+or PARK_SOURCE_SELECTION
+or BLOCK_M4_REPLAY
+or LEAVE_BE
+
+NextLegalAction:
+one next action only
+
+DoesNotProve:
+M3 Final Judge proves only the selected source-manifest route. It does not prove source truth, read completion, replay success, runtime, doctrine, mutation authority, or whole-house readiness.
+```
+
+## 19.12 M3 Hard Stops
+
+```text
+M3_HARD_STOPS
+
+source content read during M3
+real source atomized during M3
+folder/root/repo selected as source
+source cap exceeded
+missing source role
+missing authority state
+missing custody state
+missing read mode
+missing handling mode
+missing exclusion ledger
+script marked safe to run
+URL marked safe to open
+binary/archive marked full-read
+receipt treated as global proof
+candidate treated as doctrine
+M4 replay started during M3
+mutation requested
+crawl requested
+DoesNotProve missing
+```
+
+---
+
+# 20. M4 Read-Only Replay Transition
+
+## 20.1 M4 Transition Purpose
+
+M4 transition decides whether a selected M3 manifest may become a future read-only replay.
+
+It does not read sources.
+
+It does not run replay.
+
+It reviews the manifest, source safety, exclusion boundary, cap, mode authority, and Final Judge route.
+
+The transition blocks this bad jump:
+
+```text
+M3 manifest created -> read sources immediately
+```
+
+## 20.2 M4 Transition Law
+
+```text
+M4_TRANSITION_LAW
+
+M4 transition approval authorizes only read-only replay over named manifested sources.
+It does not prove replay pass.
+It does not authorize source mutation, script execution, URL opening, folder scan, whole-house crawl, automation, doctrine, commit, or push.
+```
+
+## 20.3 M4 Transition Request
+
+```text
+M4_TRANSITION_REQUEST_CARD
+
+TransitionRequestId:
+FromMode:
+M3_SMALL_LAB_SELECTION
+
+RequestedMode:
+M4_READ_ONLY_REPLAY
+
+M3FinalJudgePacketId:
+SourceSetManifestId:
+ExclusionLedgerId:
+SourceSafetyPrecheckIds:
+ReadOnlyReplayPlanId:
+SourceCount:
+AtomCap:
+IncludedSourceIds:
+ExcludedSourceIds:
+ForbiddenOperations:
+RequestedReadModes:
+RequestedHandlingModes:
+TransitionReason:
+DoesNotProve:
+```
+
+## 20.4 M4 Transition Review Card
+
+```text
+M4_TRANSITION_REVIEW_CARD
+
+TransitionReviewId:
+TransitionRequestId:
+ManifestComplete:
+ExclusionLedgerComplete:
+SourceSafetyPrecheckComplete:
+SourceCountWithinCap:
+AtomCapDeclared:
+NoFolderRootRepo:
+NoScriptExecution:
+NoURLOpening:
+NoMutation:
+NoDoctrine:
+NoAutomation:
+NoCommitPush:
+ModeBoundaryClean:
+BlockedClaimsPresent:
+DoesNotProvePresent:
+TransitionVerdict:
+NextLegalAction:
+DoesNotProve:
+```
+
+## 20.5 Transition Verdicts
+
+```text
+M4_TRANSITION_VERDICTS
+
+M4_TRANSITION_DENIED
+M4_TRANSITION_REPAIR_REQUIRED
+M4_TRANSITION_SECURITY_REVIEW_REQUIRED
+M4_TRANSITION_ALLOWED_READ_ONLY_REPLAY
+M4_TRANSITION_PARKED
+M4_TRANSITION_REVIEW_REQUIRED
+```
+
+Blocked verdicts:
+
+```text
+SOURCE_READ_DONE
+M4_REPLAY_PASSED
+WHOLE_HOUSE_READY
+MUTATION_ALLOWED
+AUTOMATION_SAFE
+DOCTRINE_PROMOTED
+DONE
+```
+
+## 20.6 Conditions for M4 Transition Approval
+
+```text
+M4_APPROVAL_CONDITIONS
+
+M3 Final Judge requests M4 transition review
+3 to 5 named sources or approved bounded count
+no folder/root/repo source
+source set manifest complete
+exclusion ledger complete
+source safety prechecks complete
+all included sources have role, authority state, custody state, read mode, handling mode, risk class, DoesNotProve
+read-only replay plan exists
+atom cap declared
+forbidden operations declared
+blocked claims declared
+Final Judge route legal
+DoesNotProve present
+```
+
+## 20.7 M4 Read-Only Replay Run Card
+
+```text
+M4_READ_ONLY_REPLAY_RUN_CARD
+
+ReplayRunId:
+Mode:
+M4_READ_ONLY_REPLAY
+
+SourceSetId:
+AllowedSourceIds:
+ExcludedSourceIds:
+ReadModes:
+HandlingModes:
+AtomCap:
+LabQuestion:
+AllowedOperations:
+read manifested sources according to read mode
+redact where required
+create source rows
+create atom rows
+create expected trigger rows
+create actual application rows
+create trace span rows
+create packet rows
+create claim-scope rows
+create concept/residue rows
+create lineage rows
+create shape validation rows
+create finding rows
+create finding bus rows
+create final row
+create report pack
+
+ForbiddenOperations:
+read unmanifested source
+follow links
+open URLs
+scan folder
+crawl repo/root
+execute script
+mutate file
+delete/move/archive/dedupe
+commit
+push
+start watcher
+automate
+promote doctrine
+claim runtime proof
+
+StopCondition:
+atom cap reached
+unmanifested source requested
+source safety hard stop
+mode breach
+hard-stop finding
+Final Judge packet created
+
+DoesNotProve:
+M4 read-only replay proves only scoped replay behavior over the named manifested sources if completed. It does not prove source truth, runtime behavior, doctrine, automation safety, mutation authority, commit authority, push authority, or whole-house readiness.
+```
+
+## 20.8 M4 Source Read Rule
+
+```text
+M4_SOURCE_READ_RULE
+
+A source may be read only if:
+SourceEntityId is in AllowedSourceIds
+ReadMode permits content read
+HandlingMode permits the requested handling
+SourceSafetyPrecheck allows the mode
+AtomCap has not been exceeded
+No hard stop is active
+```
+
+If any condition fails:
+
+```text
+Create Finding Row.
+Route to Finding Bus.
+Stop affected path.
+Do not continue silently.
+```
+
+## 20.9 M4 Transition Hard Stops
+
+```text
+M4_TRANSITION_HARD_STOPS
+
+M3 Final Judge missing
+source set manifest missing
+exclusion ledger missing
+source safety precheck missing
+folder/root/repo included
+source count unbounded
+atom cap missing
+read mode missing
+handling mode missing
+script marked executable
+URL marked openable
+binary/archive marked full-read
+private source lacks redaction plan
+M4 replay already started
+mutation requested
+crawl requested
+doctrine requested
+DoesNotProve missing
+```
+
+---
+
+# 21. M4 Replay Row Protocol
+
+## 21.1 Row Protocol Purpose
+
+M4 replay cannot be a loose narrative.
+
+It must be row-first.
+
+Every source, atom, gate trigger, actual application, packet, claim, group, residue, lineage, validation, finding, bus route, and final route must be represented by typed rows.
+
+Rows make the replay inspectable.
+
+The system must be able to answer:
+
+```text
+Which source produced this atom?
+Which atom produced this trigger?
+Which trigger expected this gate?
+Which row proved actual application level?
+Which packet carried the state?
+Which claim-scope row blocked the overclaim?
+Which concept/residue row handled grouping?
+Which finding row recorded the failure?
+Which final row closed the route?
+```
+
+If it cannot answer, the replay becomes story.
+
+## 21.2 Row Protocol Law
+
+```text
+M4_ROW_PROTOCOL_LAW
+
+Every replay decision must have a row parent, row type, row status, evidence pointer where needed, claim boundary, DoesNotProve, and next route.
+Rows are append-only.
+Invalid rows are superseded, not erased.
+Summary cannot replace rows.
+```
+
+## 21.3 M4 Row Chain
+
+```text
+M4_ROW_CHAIN
+
+SOURCE_ROW
+-> SOURCE_SAFETY_ROW
+-> ATOM_ROW
+-> EXPECTED_TRIGGER_ROW
+-> ACTUAL_APPLICATION_ROW
+-> TRACE_SPAN_ROW
+-> PACKET_ROW
+-> CLAIM_SCOPE_ROW
+-> CONCEPT_COURT_ROW or RESIDUE_ROW
+-> LINEAGE_ROW
+-> SHAPE_VALIDATION_ROW
+-> FINDING_ROW
+-> FINDING_BUS_ROW
+-> FINAL_ROW
+```
+
+Minimum meaningful chain:
+
+```text
+SOURCE_ROW
+-> ATOM_ROW
+-> ACTUAL_APPLICATION_ROW or CLAIM_SCOPE_ROW
+-> FINDING_ROW
+-> FINDING_BUS_ROW
+-> FINAL_ROW
+```
+
+## 21.4 Universal Replay Row Fields
+
+```text
+UNIVERSAL_REPLAY_ROW_FIELDS
+
+RowId:
+RunId:
+ReplayRunId:
+SourceSetId:
+RowType:
+ParentRowIds:
+CreatedByActivityId:
+Mode:
+AuthorityState:
+CustodyState:
+RowStatus:
+EvidencePointer:
+ClaimScope:
+BlockedClaims:
+BlockedActions:
+NextRowType:
+NextGate:
+NextLegalAction:
+StopCondition:
+DoesNotProve:
+```
+
+Minimum valid replay row:
+
+```text
+RowId
+ReplayRunId
+SourceSetId
+RowType
+ParentRowIds or lawful root reason
+RowStatus
+DoesNotProve
+```
+
+## 21.5 Row Status Dictionary
+
+```text
+REPLAY_ROW_STATUSES
+
+ROW_CREATED
+ROW_SKIPPED_WITH_REASON
+ROW_BLOCKED_BY_SECURITY
+ROW_BLOCKED_BY_CAP
+ROW_BLOCKED_BY_MODE
+ROW_BLOCKED_BY_PARENT_FAILURE
+ROW_REVIEW_REQUIRED
+ROW_SUPERSEDED_BY_APPEND
+ROW_VALID_FOR_SCOPE
+ROW_INVALID_SHAPE
+ROW_PARKED_WITH_RETURN_TRIGGER
+ROW_LEAVE_BE
+```
+
+Blocked row statuses:
+
+```text
+DONE
+GOOD
+SAFE
+READY
+TRUE
+VERIFIED_GLOBAL
+DOCTRINE
+MUTATION_ALLOWED
+WHOLE_HOUSE_READY
+```
+
+## 21.6 Required M4 Row Types
+
+```text
+SOURCE_ROW:
+records one manifested source.
+
+SOURCE_SAFETY_ROW:
+enforces handling before content use.
+
+ATOM_ROW:
+records one bounded source unit.
+
+EXPECTED_TRIGGER_ROW:
+records which gate should wake.
+
+ACTUAL_APPLICATION_ROW:
+records visible gate-job evidence and level.
+
+TRACE_SPAN_ROW:
+records ordered gate event.
+
+PACKET_ROW:
+records handoff state.
+
+CLAIM_SCOPE_ROW:
+records supported and blocked claims.
+
+CONCEPT_COURT_ROW:
+records grouping decision.
+
+RESIDUE_ROW:
+records unplaced signal.
+
+LINEAGE_ROW:
+records parentage.
+
+SHAPE_VALIDATION_ROW:
+records structural validation.
+
+FINDING_ROW:
+records issue, gap, warning, blocker, or hard stop.
+
+FINDING_BUS_ROW:
+routes findings.
+
+FINAL_ROW:
+closes scoped replay route.
+```
+
+## 21.7 Row Join Keys
+
+```text
+ROW_JOIN_KEYS
+
+SourceEntityId:
+joins source, safety, atom, finding, lineage.
+
+AtomId:
+joins atom, trigger, actual application, trace, claim, concept/residue, finding.
+
+GateName:
+joins expected trigger, actual application, trace, packet.
+
+PacketId:
+joins packet, receive, claim, final.
+
+ClaimId:
+joins claim, proof route, finding, final.
+
+ConceptId:
+joins concept, bridge, false group, residue, concept update.
+
+ResidueId:
+joins residue, return trigger, finding.
+
+FindingId:
+joins finding, finding bus, repair ticket, proof route, final.
+
+RunId / ReplayRunId:
+joins everything.
+```
+
+## 21.8 Row Supersession Record
+
+```text
+ROW_SUPERSESSION_RECORD
+
+SupersessionId:
+OriginalRowId:
+NewRowId:
+Reason:
+Evidence:
+AuthorityForSupersession:
+WhatChanged:
+WhatDidNotChange:
+DoesNotProve:
+```
+
+Supersession law:
+
+```text
+Do not silently overwrite.
+Do not delete old row.
+Do not hide old row.
+Supersede by append-only record.
+```
+
+## 21.9 Row Output Pack
+
+```text
+M4_REPLAY_ROW_OUTPUT_PACK
+
+SOURCE_ROWS.jsonl
+SOURCE_SAFETY_ROWS.jsonl
+ATOM_ROWS.jsonl
+EXPECTED_TRIGGER_ROWS.jsonl
+ACTUAL_APPLICATION_ROWS.jsonl
+TRACE_SPAN_ROWS.jsonl
+PACKET_ROWS.jsonl
+CLAIM_SCOPE_ROWS.jsonl
+CONCEPT_COURT_ROWS.jsonl
+RESIDUE_ROWS.jsonl
+LINEAGE_ROWS.jsonl
+SHAPE_VALIDATION_ROWS.jsonl
+FINDING_ROWS.jsonl
+FINDING_BUS_ROWS.jsonl
+FINAL_ROWS.jsonl
+ROW_SUPERSESSION_RECORDS.jsonl
+ROW_INDEX.md
+ROW_HARD_STOP_SUMMARY.md
+```
+
+## 21.10 Row Reading Order
+
+```text
+ROW_READING_ORDER
+
+1. FINAL_ROWS
+2. ROW_HARD_STOP_SUMMARY
+3. FINDING_BUS_ROWS
+4. FINDING_ROWS
+5. SHAPE_VALIDATION_ROWS
+6. CLAIM_SCOPE_ROWS
+7. PACKET_ROWS
+8. ACTUAL_APPLICATION_ROWS
+9. EXPECTED_TRIGGER_ROWS
+10. ATOM_ROWS
+11. SOURCE_ROWS
+```
+
+Read final and findings before browsing raw atoms. Otherwise the reader gets pulled into crawl gravity.
+
+## 21.11 Row Hard Stops
+
+```text
+ROW_HARD_STOP_TYPES
+
+UNMANIFESTED_SOURCE_READ
+SOURCE_SAFETY_BLOCK
+SOURCE_TEXT_USED_AS_COMMAND
+ATOM_CAP_EXCEEDED_SILENTLY
+GATE_NAME_AS_APPLICATION
+CLAIM_OVERREACH_ALLOWED
+PACKETLESS_HANDOFF
+DOES_NOT_PROVE_MISSING
+CHEAP_WORD_GROUP_ACCEPTED
+RESIDUE_DELETE_ALLOWED
+LINEAGE_AS_TRUTH
+SHAPE_AS_TRUTH
+FINAL_DONE_WITH_OPEN_PROOF
+MODE_BREACH
+```
+
+Hard-stop row protocol:
+
+```text
+1. Create Finding Row.
+2. Mark severity HARD_STOP.
+3. Route through Finding Bus.
+4. Stop affected path.
+5. Do not continue silently.
+6. Final Row must include the hard stop.
+```
+
+---
+
+# 22. M4 Pass/Fail Court
+
+## 22.1 M4 Court Purpose
+
+The M4 Pass/Fail Court decides what a future read-only replay result means for the named source set.
+
+It does not decide global readiness.
+
+It does not decide doctrine.
+
+It does not decide mutation authority.
+
+It does not decide runtime.
+
+It answers one bounded question:
+
+```text
+Did this M4 read-only replay complete cleanly for the named manifest, declared mode, atom cap, row protocol, and claim scope?
+```
+
+## 22.2 M4 Court Law
+
+```text
+M4_PASS_FAIL_COURT_LAW
+
+M4 pass/fail is scoped replay judgment only.
+It is not global truth, not source truth, not runtime proof, not mutation authority, not automation safety, and not doctrine.
+Hard stop beats counts.
+Warnings must be inherited.
+Open proof must be blocked or routed.
+Final route must stay inside M4 authority.
+```
+
+## 22.3 M4 Pass/Fail Court Card
+
+```text
+M4_PASS_FAIL_COURT_CARD
+
+CourtId:
+ReplayRunId:
+ActiveObject:
+DeclaredMode:
+SourceSetId:
+SourceCount:
+AtomCount:
+AtomCap:
+ManifestBoundaryRespected:
+UnmanifestedSourceRead:
+SourceSafetyHardStops:
+ModeBreaches:
+HardStopFindings:
+BlockerFindings:
+RepairFindings:
+Warnings:
+WarningsScoped:
+OpenProofRoutes:
+OpenRepairTickets:
+PacketBreaks:
+ClaimOverreachFindings:
+ConceptFalseGroupFindings:
+ResidueMishandlingFindings:
+LineageBreakFindings:
+ShapeValidationFailures:
+FindingBusComplete:
+FinalJudgeRouteLegal:
+CourtVerdict:
+NextLegalAction:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+M4 Pass/Fail Court proves only the scoped replay verdict over the named source set under M4 read-only mode.
+It does not prove source truth, whole-house readiness, runtime behavior, automation safety, mutation authority, doctrine, commit authority, push authority, or future correctness.
+```
+
+## 22.4 M4 Court Verdicts
+
+```text
+M4_COURT_VERDICTS
+
+M4_REPLAY_PASS_FOR_SCOPE
+M4_REPLAY_PASS_WITH_WARNINGS
+M4_REPLAY_REPAIR_REQUIRED
+M4_REPLAY_HARD_STOP
+M4_REPLAY_REVIEW_REQUIRED
+PARK_WITH_RETURN_TRIGGER
+LEAVE_BE
+```
+
+Blocked verdicts:
+
+```text
+DONE
+ALL_GOOD
+SOURCE_TRUE
+WHOLE_HOUSE_READY
+AUTOMATION_SAFE
+MUTATION_ALLOWED
+RUNTIME_PROVEN
+DOCTRINE_PROMOTED
+ACTIVE_RULE
+COMMIT_ALLOWED
+PUSH_ALLOWED
+```
+
+## 22.5 Verdict Hierarchy
+
+```text
+M4_VERDICT_HIERARCHY
+
+1. Any mode breach or hard stop -> M4_REPLAY_HARD_STOP.
+2. Any unresolved blocker -> M4_REPLAY_REPAIR_REQUIRED.
+3. Any unresolved ambiguity -> M4_REPLAY_REVIEW_REQUIRED.
+4. Any scoped warning without blocker -> M4_REPLAY_PASS_WITH_WARNINGS.
+5. All required reviews clean -> M4_REPLAY_PASS_FOR_SCOPE.
+6. Useful but not actionable -> PARK_WITH_RETURN_TRIGGER.
+7. No useful lawful next action -> LEAVE_BE.
+```
+
+Forbidden:
+
+```text
+95% pass
+mostly pass
+good enough
+done
+```
+
+## 22.6 Pass-for-Scope Conditions
+
+```text
+PASS_FOR_SCOPE_CONDITIONS
+
+manifest boundary respected
+no unmanifested source read
+no source safety hard stop
+no mode breach
+atom cap respected
+all required rows have parents
+all required rows have DoesNotProve
+all hard-stop checks clean
+all findings routed
+no blocker findings open
+no repair-required findings open
+warnings count is zero or all warnings are non-blocking and explicitly scoped
+packet chain complete enough for source-set scope
+claim-scope rows block stronger claims
+concept court has no false group accepted
+residue has no delete/junk overclaim
+lineage has no unresolved custody break
+shape validation has no hard failure
+Final Judge route is legal
+NextLegalAction is one bounded action
+```
+
+## 22.7 Pass-with-Warnings Conditions
+
+```text
+PASS_WITH_WARNINGS_CONDITIONS
+
+no hard stops
+no open blockers
+no mode breach
+no unmanifested source read
+warnings exist
+each warning has owner gate
+each warning has risk class
+each warning has accepted scope or parking route
+each warning has return trigger if parked
+warnings do not affect source boundary, action authority, doctrine, claim-scope hard proof, packet handoff, or source safety hard stop
+Final Judge carries warnings forward
+```
+
+Warning inheritance law:
+
+```text
+Warnings must appear in Final Judge packet and NextLegalAction card.
+They do not disappear because the replay passed with warnings.
+```
+
+## 22.8 Repair Required Conditions
+
+```text
+REPAIR_REQUIRED_CONDITIONS
+
+no unsafe mode breach requiring hard stop
+at least one repair finding exists
+repair target is bounded
+repair target belongs to spec/card/packet/claim/concept/residue/lineage/validation/report logic
+repair does not require source mutation under M4
+Final Judge blocks expansion until repair
+```
+
+Repair required is not mutation authority.
+
+## 22.9 Hard Stop Conditions
+
+```text
+M4_HARD_STOP_CONDITIONS
+
+unmanifested source read
+source text obeyed as command
+source safety block ignored
+script executed
+URL opened without authority
+source mutation attempted
+folder/root/repo crawl attempted
+atom cap exceeded silently
+gate name treated as dignified application
+claim overreach allowed
+DoesNotProve missing on proof token
+packetless handoff on required chain
+cheap-word group accepted as concept
+residue deletion allowed
+lineage used as truth
+shape pass used as truth
+candidate promoted to doctrine
+Final Judge used blocked route
+mode breach output produced
+```
+
+A court with ninety-nine clean rows and one hard stop is:
+
+`M4_REPLAY_HARD_STOP`
+
+not:
+
+`pass with one issue`
+
+## 22.10 Review Required Conditions
+
+```text
+REVIEW_REQUIRED_CONDITIONS
+
+conflicting rows
+ambiguous source authority state
+unclear custody conflict
+actual application confidence too low for verdict
+concept court split unresolved
+lineage parent conflict
+warning severity uncertain
+Final Judge inputs incomplete
+human/user clarification needed
+```
+
+Review required must produce:
+
+```text
+REVIEW_REQUIRED_CARD
+
+ReviewQuestion:
+AffectedRows:
+OwnerGate:
+CounterweightGate:
+EvidenceNeeded:
+RiskIfDecidedNow:
+RiskIfParked:
+StopCondition:
+DoesNotProve:
+```
+
+## 22.11 Parking and Leave-Be
+
+Parking requires a return trigger.
+
+```text
+PARK_CONDITIONS
+
+signal useful but not actionable now
+risk of acting now exceeds risk of waiting
+return trigger can be named
+owner gate can be named
+parking does not hide a hard stop
+Final Judge accepts parked scope
+```
+
+Leave-be means no useful next action under current scope.
+
+```text
+LEAVE_BE_CONDITIONS
+
+no hard stop
+no blocker
+no useful repair
+no proof route worth pursuing now
+no safe expansion
+no meaningful parked return trigger
+scope exhausted
+Final Judge names leave-be reason
+```
+
+Leave-be is not trash.
+
+## 22.12 Court Review Layers
+
+```text
+M4_COURT_REVIEW_LAYERS
+
+SOURCE_BOUNDARY_REVIEW
+ATOM_CAP_REVIEW
+SOURCE_SAFETY_REVIEW
+ACTUAL_APPLICATION_REVIEW
+PACKET_CHAIN_REVIEW
+CLAIM_SCOPE_REVIEW
+CONCEPT_RESIDUE_REVIEW
+LINEAGE_REVIEW
+SHAPE_VALIDATION_REVIEW
+FINDING_BUS_REVIEW
+FINAL_ROUTE_REVIEW
+```
+
+Each review layer must carry its own DoesNotProve.
+
+## 22.13 M4 Court Output Pack
+
+```text
+M4_PASS_FAIL_COURT_OUTPUTS
+
+M4_PASS_FAIL_COURT_CARD.md
+SOURCE_BOUNDARY_REVIEW.md
+ATOM_CAP_REVIEW.md
+SOURCE_SAFETY_REVIEW.md
+ACTUAL_APPLICATION_REVIEW.md
+PACKET_CHAIN_REVIEW.md
+CLAIM_SCOPE_REVIEW.md
+CONCEPT_RESIDUE_REVIEW.md
+LINEAGE_REVIEW.md
+SHAPE_REVIEW.md
+FINDING_BUS_REVIEW.md
+FINAL_ROUTE_REVIEW.md
+M4_WARNING_ACCEPTANCE_CARDS.jsonl
+M4_REPAIR_BACKLOG_CARD.md
+M4_OPEN_PROOF_CARDS.jsonl
+M4_FINAL_JUDGE_PACKET.md
+```
+
+## 22.14 M4 Court Hard Stops
+
+```text
+M4_COURT_HARD_STOPS
+
+hard stop downgraded to warning
+warnings dropped at final route
+open proof hidden
+blocked claims omitted
+repair backlog hidden
+Final Judge route says DONE
+Final Judge route claims whole-house readiness
+Final Judge route claims doctrine
+Final Judge route claims mutation authority
+Final Judge route claims automation safety
+DoesNotProve missing
+```
+
+---
+
+# A05 Assembly Verdict
+
+```text
+A05_ASSEMBLY_COMPLETE
+
+SectionsAssembled:
+19. M3 Small-Lab Source Selection
+20. M4 Read-Only Replay Transition
+21. M4 Replay Row Protocol
+22. M4 Pass/Fail Court
+
+Status:
+CANDIDATE_SPEC_ASSEMBLY_IN_PROGRESS
+
+CurrentMode:
+M0_SPEC
+
+DoesNotProve:
+A05 assembly proves only that the next V0.1 document sections were drafted. It does not prove M3 approval, M4 approval, source replay, replay pass, runtime behavior, doctrine, automation safety, mutation authority, or whole-house readiness.
+```
+
+Next assembly batch:
+
+`A06 — After-M4 Route Gate, Finding Bus, Expansion Firewall, and Mode Authority Matrix.`
+
+
+
+
+
+
+
+
+
+
+Rope held. Continuing actual V0.1 spec assembly.
+
+# Assembly Batch A06
+
+# HOUSE_SEMANTIC_NERVOUS_SYSTEM_READ_ONLY_SPEC_V0_1.md
+
+Status:
+
+`CANDIDATE_SPEC_ASSEMBLY_IN_PROGRESS`
+
+`M0_SPEC`
+
+`NOT_DOCTRINE`
+
+`NO_SCRIPT`
+
+`NO_SCAN`
+
+`NO_SOURCE_REPLAY`
+
+`NO_FIXTURE_RUN`
+
+`NO_MUTATION`
+
+`NO_WHOLE_HOUSE_CRAWL`
+
+---
+
+# 23. After-M4 Route Gate
+
+## 23.1 After-M4 Route Gate Purpose
+
+After a future M4 read-only replay closes, the system must not jump.
+
+A pass does not mean crawl.
+
+A warning pass does not mean warnings disappear.
+
+A repair verdict does not mean edit source.
+
+A hard stop does not mean delete or abandon.
+
+A review verdict does not mean decide by vibe.
+
+A parked item does not mean forgotten.
+
+A leave-be route does not mean trash.
+
+The After-M4 Route Gate maps one scoped M4 verdict to one lawful next action.
+
+## 23.2 After-M4 Route Law
+
+```text
+AFTER_M4_ROUTE_LAW
+
+After M4, verdicts route; they do not escalate.
+Every M4 verdict must pass through a route gate.
+Every route must name exactly one next legal action.
+Warnings, open proof, blocked claims, blocked actions, repair backlog, hard stops, and parked items must carry forward.
+No route may jump to crawl, mutation, automation, doctrine, runtime proof, cleanup, commit, push, or active-guide rewrite.
+```
+
+## 23.3 Route Gate Card
+
+```text
+AFTER_M4_ROUTE_GATE_CARD
+
+GateId:
+ReplayRunId:
+ActiveObject:
+InputM4FinalJudgePacketId:
+InputM4CourtVerdict:
+SourceSetId:
+ClosedClaims:
+OpenClaims:
+BlockedClaims:
+BlockedActions:
+Warnings:
+WarningsInherited:
+RepairBacklog:
+HardStops:
+ProofRoutes:
+ParkedItems:
+LeaveBeItems:
+RequestedNextRoute:
+AllowedNextRoute:
+DeniedRoutes:
+RequiredModeTransition:
+OwnerGate:
+SATURN
+
+CounterweightGate:
+EARTH + MERCURY + ROPE_ROUTER
+
+RouteGateVerdict:
+NextLegalAction:
+StopCondition:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+After-M4 Route Gate proves only the lawful next route after a scoped M4 replay verdict.
+It does not prove source truth, whole-house readiness, runtime behavior, automation safety, mutation authority, doctrine, commit authority, push authority, or future correctness.
+```
+
+## 23.4 Route Verdicts
+
+```text
+AFTER_M4_ROUTE_VERDICTS
+
+AFTER_M4_ROUTE_TO_NEXT_BOUNDED_LAB_SELECTION
+AFTER_M4_ROUTE_TO_WARNING_CARRY_FORWARD
+AFTER_M4_ROUTE_TO_REPAIR_PLANNING
+AFTER_M4_ROUTE_TO_HARD_STOP_REPAIR_BLOCK
+AFTER_M4_ROUTE_TO_REVIEW_QUESTION
+AFTER_M4_ROUTE_TO_PARKING
+AFTER_M4_ROUTE_TO_LEAVE_BE_CLOSE
+AFTER_M4_ROUTE_REVIEW_REQUIRED
+```
+
+Blocked route verdicts:
+
+```text
+BLOCKED_AFTER_M4_ROUTE_VERDICTS
+
+AFTER_M4_ROUTE_TO_WHOLE_HOUSE_CRAWL
+AFTER_M4_ROUTE_TO_MUTATION
+AFTER_M4_ROUTE_TO_AUTOMATION
+AFTER_M4_ROUTE_TO_DOCTRINE
+AFTER_M4_ROUTE_TO_RUNTIME_PROOF
+AFTER_M4_ROUTE_TO_CLEANUP
+AFTER_M4_ROUTE_TO_COMMIT
+AFTER_M4_ROUTE_TO_PUSH
+AFTER_M4_ROUTE_TO_DONE
+```
+
+## 23.5 Verdict-to-Route Map
+
+```text
+M4_REPLAY_PASS_FOR_SCOPE:
+may route to M3_NEXT_BOUNDED_LAB_SELECTION, scoped closeout, or leave-be.
+
+M4_REPLAY_PASS_WITH_WARNINGS:
+may route to next bounded selection only if warnings are inherited and non-blocking; otherwise route to repair planning or parking.
+
+M4_REPLAY_REPAIR_REQUIRED:
+routes to M7_REPAIR_PLANNING only.
+
+M4_REPLAY_HARD_STOP:
+routes to hard-stop repair block; no expansion.
+
+M4_REPLAY_REVIEW_REQUIRED:
+routes to review question; no expansion until review closes or parks.
+
+PARK_WITH_RETURN_TRIGGER:
+routes to parking ledger with return trigger.
+
+LEAVE_BE:
+routes to scoped close with no next action under current scope.
+```
+
+## 23.6 Next Legal Action Card
+
+```text
+AFTER_M4_NEXT_LEGAL_ACTION_CARD
+
+NextActionId:
+InputM4Verdict:
+SelectedNextAction:
+RequiredMode:
+AuthorityRequired:
+InputNeeded:
+OutputExpected:
+CarryForwardWarnings:
+CarryForwardOpenProof:
+CarryForwardBlockedClaims:
+ForbiddenDuringNextAction:
+StopCondition:
+DoesNotProve:
+```
+
+Valid next actions:
+
+```text
+VALID_AFTER_M4_NEXT_ACTIONS
+
+select next bounded source set
+draft repair plan
+answer review question
+park item with return trigger
+close as leave-be
+prepare proof-route plan
+repair fixture/spec before rerun
+```
+
+Invalid next actions:
+
+```text
+INVALID_AFTER_M4_NEXT_ACTIONS
+
+scan all related files
+run cleanup
+fix source
+rewrite guide
+turn on watcher
+promote rule
+commit changes
+push repo
+declare done
+```
+
+## 23.7 Carry-Forward Packet
+
+```text
+AFTER_M4_CARRY_FORWARD_PACKET
+
+PacketId:
+FromReplayRunId:
+ToNextActionId:
+WarningsInherited:
+OpenProofInherited:
+BlockedClaimsInherited:
+BlockedActionsInherited:
+RepairBacklogInherited:
+ParkedItemsInherited:
+DoesNotProveInherited:
+ExpansionBoundary:
+ModeBoundary:
+StopCondition:
+DoesNotProve:
+```
+
+Carry-forward law:
+
+```text
+Nothing unresolved gets silently dropped at the route boundary.
+```
+
+## 23.8 Route Hard Stops
+
+```text
+AFTER_M4_ROUTE_HARD_STOPS
+
+route skips Final Judge
+route has multiple next actions
+route drops warnings
+route drops open proof
+route drops blocked claims
+route treats repair ticket as mutation authority
+route treats pass as whole-house readiness
+route treats concept candidate as doctrine
+route treats parked item as forgotten
+route treats leave-be as deletion
+route requests crawl
+route requests automation
+route requests commit/push
+DoesNotProve missing
+```
+
+---
+
+# 24. Finding Bus
+
+## 24.1 Finding Bus Purpose
+
+Findings are routed signals.
+
+A finding is not proof by itself.
+
+A finding is not a repair.
+
+A finding is not action authority.
+
+A finding is not mutation authority.
+
+The Finding Bus receives findings from fixtures, replay rows, shape validation, claim-scope checks, concept court, residue board, lineage review, mode boundaries, source safety, and Final Judge.
+
+It decides lawful handling:
+
+`repair`
+
+`proof route`
+
+`parking`
+
+`residue`
+
+`concept update candidate`
+
+`false group`
+
+`bridge`
+
+`lineage repair`
+
+`shape repair`
+
+`block`
+
+`leave-be`
+
+The bus prevents two failures:
+
+`finding ignored`
+
+and:
+
+`finding becomes action`
+
+## 24.2 Finding Bus Law
+
+```text
+FINDING_BUS_LAW
+
+Every finding must be routed, parked, blocked, closed with scope, or marked leave-be.
+No finding may authorize mutation, crawl, automation, doctrine, commit, or push.
+Hard stops must remain hard stops.
+Warnings must be scoped.
+Duplicate findings may be grouped but not erased.
+```
+
+## 24.3 Finding Card
+
+```text
+FINDING_CARD
+
+FindingId:
+RunId:
+SourceSetId:
+SourceEntityId:
+AtomId:
+ParentRowIds:
+EntityId:
+EntityType:
+FindingClass:
+FindingType:
+FindingText:
+EvidencePointer:
+OwnerGate:
+CounterweightGate:
+Severity:
+RiskClass:
+BlocksExpansion:
+BlocksFinalClose:
+BlocksAction:
+BlocksDoctrine:
+ClaimAffected:
+ProofRungAffected:
+RequiredRepair:
+RequiredProof:
+SuggestedRoute:
+StopCondition:
+ParentFindingId:
+ChildFindingIds:
+DuplicateGroupId:
+Status:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Finding identifies a scoped issue, gap, warning, blocker, hard stop, or signal.
+It does not authorize repair execution, source mutation, crawl, automation, doctrine, commit, push, or runtime claims.
+```
+
+## 24.4 Finding Classes
+
+```text
+FINDING_CLASSES
+
+TRIGGER_FINDING
+ACTUAL_APPLICATION_FINDING
+PACKET_FINDING
+CLAIM_SCOPE_FINDING
+CONCEPT_GROUP_FINDING
+RESIDUE_FINDING
+LINEAGE_FINDING
+SHAPE_FINDING
+SOURCE_SET_FINDING
+SOURCE_SAFETY_FINDING
+FINAL_ROUTE_FINDING
+SECURITY_SURFACE_FINDING
+ROOM_DRIFT_FINDING
+TIME_DRIFT_FINDING
+AUTHORITY_SPIKE_FINDING
+MODE_BOUNDARY_FINDING
+EXPANSION_FINDING
+REPAIR_FINDING
+PROOF_FINDING
+```
+
+## 24.5 Severity Levels
+
+```text
+FINDING_SEVERITY
+
+INFO:
+non-blocking signal.
+
+WATCH:
+track signal; may become residue, warning, or later trigger.
+
+WARNING:
+non-blocking issue that must be scoped and inherited.
+
+REPAIR:
+bounded correction needed before clean close or expansion.
+
+BLOCKER:
+blocks next step until repaired, proven, parked, or reviewed.
+
+HARD_STOP:
+unsafe or authority-breaking condition; stops affected path and blocks expansion.
+```
+
+Severity law:
+
+```text
+A hard stop may not be downgraded to warning for convenience.
+```
+
+## 24.6 Finding Statuses
+
+```text
+FINDING_STATUSES
+
+NEW
+TRIAGED
+ROUTED
+TICKETED
+PARKED
+BLOCKED
+PROOF_REQUESTED
+CLOSED_WITH_SCOPE
+LEAVE_BE
+REVIEW_REQUIRED
+```
+
+Blocked statuses:
+
+```text
+DONE
+FIXED
+IGNORED
+SAFE
+ALL_GOOD
+```
+
+## 24.7 Finding Bus Packet
+
+```text
+FINDING_BUS_PACKET
+
+BusPacketId:
+RunId:
+InputFindingIds:
+FindingFamilyId:
+FindingClass:
+SeverityBand:
+ParentFinding:
+ChildFindings:
+DedupedCount:
+Route:
+OwnerGate:
+CounterweightGate:
+BlockedClaims:
+BlockedActions:
+ProofNeed:
+RequiredRepair:
+ReturnTrigger:
+StopCondition:
+Status:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Finding Bus routing decides lawful next handling for findings only.
+It does not perform repairs, prove claims, authorize mutation, authorize crawl, authorize automation, or promote doctrine.
+```
+
+## 24.8 Finding Bus Routes
+
+```text
+FINDING_BUS_ROUTES
+
+ROUTE_TO_REPAIR_TICKET
+ROUTE_TO_PROOF_ROUTE
+ROUTE_TO_PARKING_WITH_RETURN_TRIGGER
+ROUTE_TO_RESIDUE_BOARD
+ROUTE_TO_CONCEPT_UPDATE_CANDIDATE
+ROUTE_TO_FALSE_GROUP_CARD
+ROUTE_TO_BRIDGE_CARD
+ROUTE_TO_LINEAGE_REPAIR
+ROUTE_TO_SHAPE_REPAIR
+ROUTE_TO_FINAL_JUDGE
+ROUTE_TO_BLOCKED_ACTION_LEDGER
+ROUTE_TO_REVIEW_QUESTION
+ROUTE_TO_LEAVE_BE
+```
+
+Blocked routes:
+
+```text
+BLOCKED_FINDING_BUS_ROUTES
+
+ROUTE_TO_SOURCE_MUTATION
+ROUTE_TO_CRAWL
+ROUTE_TO_SCRIPT_EXECUTION
+ROUTE_TO_AUTOMATION
+ROUTE_TO_DOCTRINE
+ROUTE_TO_COMMIT
+ROUTE_TO_PUSH
+```
+
+## 24.9 Finding Family Card
+
+```text
+FINDING_FAMILY_CARD
+
+FindingFamilyId:
+RunId:
+MemberFindingIds:
+CommonFailureShape:
+SharedOwnerGate:
+SharedCounterweightGate:
+HighestSeverity:
+PrimaryRoute:
+ChildRoutes:
+ClosedChildFindings:
+OpenChildFindings:
+DoesNotProve:
+```
+
+Finding-family law:
+
+```text
+Finding families reduce noise.
+They do not erase child findings.
+```
+
+## 24.10 Repair Ticket Card
+
+```text
+REPAIR_TICKET_CARD
+
+TicketId:
+RunId:
+FindingId:
+FindingFamilyId:
+RepairTargetType:
+RepairTargetIds:
+FailureShape:
+EvidencePointer:
+OwnerGate:
+CounterweightGate:
+RequiredRepair:
+ProofOfRepairNeeded:
+BlocksExpansion:
+BlocksFinalClose:
+Status:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Repair ticket records a repair need only.
+It does not authorize mutation, prove repair execution, prove repair correctness, or close the finding.
+```
+
+## 24.11 Proof Route Card
+
+```text
+PROOF_ROUTE_CARD
+
+ProofRouteId:
+RunId:
+FindingId:
+ClaimId:
+CurrentProofRung:
+RequestedProofRung:
+MissingEvidence:
+AllowedProofStep:
+ForbiddenProofStep:
+OwnerGate:
+CounterweightGate:
+EarthProofNeed:
+BlocksExpansion:
+StopCondition:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Proof route names the evidence needed to upgrade a claim.
+It does not prove the evidence exists, does not run the proof, and does not close the claim.
+```
+
+## 24.12 Finding Bus Summary
+
+```text
+FINDING_BUS_SUMMARY
+
+RunId:
+FindingCount:
+InfoCount:
+WatchCount:
+WarningCount:
+RepairCount:
+BlockerCount:
+HardStopCount:
+RoutedCount:
+UnroutedCount:
+RepairTicketsCreated:
+ProofRoutesCreated:
+ParkedItems:
+LeaveBeItems:
+HardStops:
+ExpansionBlocked:
+SummaryVerdict:
+NextLegalAction:
+DoesNotProve:
+```
+
+## 24.13 Finding Bus Hard Stops
+
+```text
+FINDING_BUS_HARD_STOPS
+
+finding without evidence pointer
+finding without owner gate
+finding without route
+hard stop downgraded
+unrouted blocker hidden
+finding authorizes mutation
+finding authorizes crawl
+finding authorizes doctrine
+repair ticket treated as repair completion
+proof route treated as proof completion
+DoesNotProve missing
+```
+
+---
+
+# 25. Expansion Firewall
+
+## 25.1 Expansion Firewall Purpose
+
+Expansion is where good systems become unsafe.
+
+The system must distinguish:
+
+`spec`
+
+`fixture design`
+
+`fixture replay`
+
+`source selection`
+
+`read-only replay`
+
+`reporting`
+
+`finding routing`
+
+`repair planning`
+
+`mutation`
+
+`runtime proof`
+
+`automation`
+
+`doctrine`
+
+Each step has different authority.
+
+The Expansion Firewall prevents one pass from becoming too much permission.
+
+## 25.2 Expansion Law
+
+```text
+EXPANSION_FIREWALL_LAW
+
+Expansion is a controlled state transition.
+A pass in one mode does not unlock all higher modes.
+Crawl, watcher, mutation, runtime proof, automation, doctrine, cleanup, commit, and push are separate authority classes.
+Every expansion requires Final Judge route and mode transition review.
+```
+
+## 25.3 Expansion Levels
+
+```text
+EXPANSION_LEVELS
+
+E0_SPEC_ONLY:
+candidate spec only.
+
+E1_FIXTURE_DESIGN:
+fixture cards and shape review.
+
+E2_FIXTURE_REPLAY:
+synthetic fixture replay only.
+
+E3_SMALL_LAB_SELECTION:
+select named source set only.
+
+E4_READ_ONLY_REPLAY:
+manifest-bound real-source read-only replay.
+
+E5_REPORTING_AND_FINDING_ROUTING:
+report pack and finding bus.
+
+E6_REPAIR_PLANNING:
+repair plan only.
+
+E7_MUTATION_CANDIDATE:
+explicitly reviewed mutation request.
+
+E8_MUTATION_AUTHORIZED:
+exact named mutation with authority and proof route.
+
+E9_RUNTIME_PROOF_CANDIDATE:
+runtime proof request.
+
+E10_RUNTIME_PROOF_AUTHORIZED:
+exact runtime proof under authority.
+
+E11_AUTOMATION_DESIGN:
+watcher/automation design only.
+
+E12_AUTOMATION_AUTHORIZED:
+bounded automation with off-switch, audit, rollback.
+
+E13_PROMOTION_REVIEW:
+candidate rule promotion review.
+
+E14_DOCTRINE_AUTHORIZED:
+scoped doctrine promotion under explicit authority.
+```
+
+Current level:
+
+```text
+CurrentExpansionLevel:
+E0_SPEC_ONLY
+```
+
+## 25.4 Expansion Request Card
+
+```text
+EXPANSION_REQUEST_CARD
+
+RequestId:
+RunId:
+FromExpansionLevel:
+RequestedExpansionLevel:
+Reason:
+InputEvidence:
+PrerequisitesMet:
+PrerequisitesMissing:
+ModeTransitionNeeded:
+AuthorityRequired:
+RiskClass:
+ForbiddenOperations:
+ProofBeforeExpansion:
+ProofAfterExpansion:
+OwnerGate:
+CounterweightGate:
+FinalJudgePacketId:
+ExpansionVerdictRequested:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Expansion request asks for a bounded next level only.
+It does not grant expansion, prove readiness, authorize mutation, authorize crawl, authorize automation, or promote doctrine.
+```
+
+## 25.5 Expansion Review Card
+
+```text
+EXPANSION_REVIEW_CARD
+
+ReviewId:
+ExpansionRequestId:
+FromLevel:
+RequestedLevel:
+InputFinalJudgePacket:
+RequiredPrerequisites:
+PrerequisitesSatisfied:
+OpenHardStops:
+OpenBlockers:
+OpenWarnings:
+WarningsInherited:
+OpenProof:
+BlockedClaims:
+BlockedActions:
+AuthorityPresent:
+RiskAccepted:
+ExpansionVerdict:
+AllowedNextAction:
+StopCondition:
+DoesNotProve:
+```
+
+## 25.6 Expansion Verdicts
+
+```text
+EXPANSION_VERDICTS
+
+EXPANSION_ALLOWED_FOR_SCOPE
+EXPANSION_ALLOWED_WITH_WARNINGS
+EXPANSION_REPAIR_REQUIRED
+EXPANSION_DENIED
+EXPANSION_HARD_STOP
+EXPANSION_REVIEW_REQUIRED
+EXPANSION_PARKED_WITH_RETURN_TRIGGER
+LEAVE_BE
+```
+
+Blocked verdicts:
+
+```text
+CRAWL_ALLOWED_BY_DEFAULT
+MUTATION_ALLOWED_BY_PASS
+AUTOMATION_SAFE_BY_PASS
+DOCTRINE_PROMOTED_BY_PASS
+WHOLE_HOUSE_READY
+DONE
+```
+
+## 25.7 Crawl Control
+
+Crawl signs:
+
+```text
+CRAWL_PRESSURE_SIGNS
+
+scan folder
+scan root
+scan repo
+read all
+read everything
+find all matching
+follow all links
+all receipts
+all related files
+recursive
+glob
+watch for new files
+```
+
+Allowed alternatives:
+
+```text
+CRAWL_SAFE_ALTERNATIVES
+
+select 3 to 5 named sources
+select one lane excerpt
+select one receipt family
+select one concept family
+select one danger-shape set
+expand fixture set
+draft source-set manifest
+park broad request with return trigger
+```
+
+Crawl hard stop:
+
+```text
+No whole-house crawl in V0.1.
+```
+
+## 25.8 Mutation Control
+
+Mutation signs:
+
+```text
+MUTATION_PRESSURE_SIGNS
+
+edit
+fix
+delete
+move
+archive
+dedupe
+rewrite
+replace
+install
+run
+execute
+commit
+push
+cleanup
+apply patch
+```
+
+Mutation requires:
+
+```text
+MUTATION_REQUIREMENTS
+
+explicit user authority
+M8_MUTATION_AUTHORIZED mode
+exact target IDs
+pre-state evidence
+post-state proof plan
+rollback or supersession plan
+blocked action ledger
+Final Judge approval
+```
+
+This spec assembly has none of that authority.
+
+## 25.9 Automation / Watcher Control
+
+Automation signs:
+
+```text
+AUTOMATION_PRESSURE_SIGNS
+
+watch root
+monitor folder
+trigger on new file
+background listener
+daemon
+scheduled task
+auto-pickup
+auto-run
+auto-clean
+auto-commit
+```
+
+Automation requires:
+
+```text
+AUTOMATION_REQUIREMENTS
+
+M10 automation design first
+explicit M11 authorization later
+trigger definition
+off switch
+audit log
+dry run
+rollback
+security review
+scope cap
+Final Judge approval
+```
+
+Automation is blocked in this V0.1 spec assembly.
+
+## 25.10 Doctrine Control
+
+Doctrine signs:
+
+```text
+DOCTRINE_PRESSURE_SIGNS
+
+make this official
+always do this
+active rule
+promote
+doctrine
+master law
+permanent
+global rule
+```
+
+Doctrine requires:
+
+```text
+DOCTRINE_REQUIREMENTS
+
+M12 promotion review
+explicit promotion authority
+proof history
+counterexamples reviewed
+scope defined
+rollback/supersession path
+Final Judge route
+M13 doctrine authorization
+```
+
+Candidate spec is not doctrine.
+
+## 25.11 Expansion Hard Stops
+
+```text
+EXPANSION_HARD_STOPS
+
+expansion skips mode transition
+pass treated as global readiness
+fixture pass treated as real-source readiness
+M4 pass treated as mutation authority
+finding treated as action authority
+repair plan treated as completed repair
+crawl requested in V0.1
+folder/root/repo selected without authority
+mutation requested without M8
+runtime claimed without M9
+automation requested without M10/M11
+doctrine requested without M12/M13
+commit/push requested without authority
+warnings dropped
+open proof hidden
+DoesNotProve missing
+```
+
+---
+
+# 26. Mode Authority Matrix
+
+## 26.1 Mode Authority Matrix Purpose
+
+The Mode Authority Matrix is the control room.
+
+It prevents a lower mode from borrowing power from a higher mode.
+
+The system may prepare a future path, but it may not perform that path without the matching mode and authority.
+
+## 26.2 Mode Matrix Law
+
+```text
+MODE_MATRIX_LAW
+
+Mode is authority.
+Preparation is not permission.
+A card may request a later mode but cannot grant it.
+Every mode must define allowed operations, forbidden operations, required inputs, allowed outputs, blocked outputs, and DoesNotProve.
+```
+
+## 26.3 Mode Matrix
+
+```text
+MODE_AUTHORITY_MATRIX
+
+M0_SPEC:
+Allowed:
+define candidate spec, schemas, cards, protocols, fixture definitions, boundaries, report layouts.
+Forbidden:
+fixture run, source read, scan, mutation, runtime, automation, doctrine, commit, push.
+Output:
+candidate spec sections.
+DoesNotProve:
+not implementation.
+
+M1_FIXTURE_DESIGN_REVIEW:
+Allowed:
+review fixture cards structurally.
+Forbidden:
+run fixture, read real source, mutate.
+Output:
+fixture shape review report.
+DoesNotProve:
+not fixture pass.
+
+M2_FIXTURE_REPLAY:
+Allowed:
+synthetic fixture replay only.
+Forbidden:
+real source read, mutation, crawl, doctrine.
+Output:
+fixture result cards, suite result.
+DoesNotProve:
+not real-source readiness.
+
+M3_SMALL_LAB_SELECTION:
+Allowed:
+select named source set, manifest, exclusions, safety precheck.
+Forbidden:
+read source content, atomize real source, replay, scan.
+Output:
+source selection packet and M4 transition request.
+DoesNotProve:
+not source truth or replay pass.
+
+M4_READ_ONLY_REPLAY:
+Allowed:
+read only manifested sources under mode, cap, and handling rules.
+Forbidden:
+unmanifested read, scan, mutation, scripts, URL opening, doctrine.
+Output:
+rows, findings, report pack, M4 court.
+DoesNotProve:
+not source truth or mutation authority.
+
+M5_REPORTING:
+Allowed:
+compile scoped report from existing replay outputs.
+Forbidden:
+new source read, mutation, overclaim.
+Output:
+report pack.
+DoesNotProve:
+not broader correctness.
+
+M6_FINDING_BUS_ROUTING:
+Allowed:
+route findings.
+Forbidden:
+repair execution, mutation, crawl, doctrine.
+Output:
+finding bus packets, repair tickets, proof routes.
+DoesNotProve:
+not repair completion.
+
+M7_REPAIR_PLANNING:
+Allowed:
+draft repair plans and proof-of-repair plans.
+Forbidden:
+edit files, run scripts, rewrite active guide.
+Output:
+repair plan cards.
+DoesNotProve:
+not repair execution.
+
+M8_MUTATION_AUTHORIZED:
+Allowed:
+perform exact named mutation only under explicit authority.
+Forbidden:
+neighbor drift, unapproved targets, hidden cleanup.
+Output:
+execution record, before/after evidence.
+DoesNotProve:
+not repair correctness until proof court.
+
+M9_RUNTIME_PROOF_AUTHORIZED:
+Allowed:
+run or observe exact runtime proof target.
+Forbidden:
+broad runtime claims, unrelated execution.
+Output:
+runtime evidence card.
+DoesNotProve:
+not doctrine or global readiness.
+
+M10_AUTOMATION_DESIGN:
+Allowed:
+design automation/watchers, risk cards, dry-run plan.
+Forbidden:
+start automation.
+Output:
+automation design packet.
+DoesNotProve:
+not automation safety.
+
+M11_AUTOMATION_AUTHORIZED:
+Allowed:
+run bounded automation with off-switch, audit, rollback.
+Forbidden:
+unbounded watcher, auto-mutation outside scope.
+Output:
+automation execution/audit record.
+DoesNotProve:
+not doctrine or future safety.
+
+M12_PROMOTION_REVIEW:
+Allowed:
+review candidate rule for promotion.
+Forbidden:
+promote automatically.
+Output:
+promotion review packet.
+DoesNotProve:
+not doctrine yet.
+
+M13_DOCTRINE_AUTHORIZED:
+Allowed:
+promote scoped doctrine under explicit authority.
+Forbidden:
+global unscoped rule.
+Output:
+doctrine packet with scope and rollback.
+DoesNotProve:
+not universal truth or future correctness.
+```
+
+## 26.4 Authority Source Levels
+
+```text
+AUTHORITY_SOURCE_LEVELS
+
+A0_NONE:
+no authority.
+
+A1_CHAT_SPEC_AUTHORITY:
+allowed to draft spec text only.
+
+A2_FIXTURE_REVIEW_AUTHORITY:
+allowed to review fixture cards.
+
+A3_FIXTURE_REPLAY_AUTHORITY:
+allowed to run synthetic fixture replay.
+
+A4_SOURCE_SELECTION_AUTHORITY:
+allowed to select named sources.
+
+A5_READ_ONLY_REPLAY_AUTHORITY:
+allowed to read manifested sources read-only.
+
+A6_REPORTING_AUTHORITY:
+allowed to compile report from existing outputs.
+
+A7_REPAIR_PLANNING_AUTHORITY:
+allowed to draft repair plans.
+
+A8_MUTATION_AUTHORITY:
+allowed to change exact target.
+
+A9_RUNTIME_PROOF_AUTHORITY:
+allowed to run/observe exact runtime proof.
+
+A10_AUTOMATION_AUTHORITY:
+allowed to operate bounded automation.
+
+A11_PROMOTION_AUTHORITY:
+allowed to promote scoped doctrine.
+```
+
+Current authority:
+
+```text
+CurrentAuthority:
+A1_CHAT_SPEC_AUTHORITY
+```
+
+## 26.5 Mode Transition Packet
+
+```text
+MODE_TRANSITION_PACKET
+
+TransitionId:
+FromMode:
+RequestedMode:
+Reason:
+RequiredInputs:
+InputsPresent:
+OpenBlockers:
+OpenHardStops:
+WarningsInherited:
+BlockedClaims:
+BlockedActions:
+AuthorityRequired:
+AuthorityPresent:
+AllowedScopeIfApproved:
+ForbiddenOperations:
+TransitionVerdict:
+FinalJudgePacketId:
+DoesNotProve:
+```
+
+Transition verdicts:
+
+```text
+MODE_TRANSITION_VERDICTS
+
+TRANSITION_ALLOWED_FOR_SCOPE
+TRANSITION_ALLOWED_WITH_WARNINGS
+TRANSITION_DENIED
+TRANSITION_REPAIR_REQUIRED
+TRANSITION_HARD_STOP
+TRANSITION_REVIEW_REQUIRED
+TRANSITION_PARKED_WITH_RETURN_TRIGGER
+LEAVE_BE
+```
+
+Blocked transition verdicts:
+
+```text
+MODE_TRANSITION_DONE
+MODE_TRANSITION_GLOBAL_READY
+MODE_TRANSITION_DOCTRINE
+MODE_TRANSITION_MUTATION_BY_DEFAULT
+```
+
+## 26.6 Smuggling Detectors
+
+```text
+MODE_SMUGGLING_DETECTORS
+
+SPEC_TO_BUILD:
+spec language starts implying implementation.
+
+FIXTURE_TO_REAL_SOURCE:
+fixture confidence implies source read.
+
+M3_TO_M4:
+manifest creation implies source reading.
+
+M4_TO_MUTATION:
+read-only finding implies edit permission.
+
+REPORT_TO_TRUTH:
+summary implies source truth.
+
+TICKET_TO_REPAIR:
+repair ticket implies repair execution.
+
+PLAN_TO_PROOF:
+proof plan implies proof completed.
+
+MUTATION_TO_RUNTIME:
+file change implies runtime works.
+
+RUNTIME_TO_DOCTRINE:
+runtime observation implies rule promotion.
+
+CONCEPT_TO_DOCTRINE:
+concept card implies active rule.
+
+DEEP_TO_CRAWL:
+deep work implies all files may be scanned.
+
+PASS_TO_DONE:
+scoped pass implies global done.
+```
+
+Any detector hit creates a finding.
+
+## 26.7 Mode Boundary Card
+
+```text
+MODE_BOUNDARY_CARD
+
+ModeBoundaryId:
+CurrentMode:
+AttemptedOperation:
+AllowedInCurrentMode:
+RequiredModeIfAllowed:
+AuthorityRequired:
+RiskIfAllowedWrongly:
+BlockedClaims:
+BlockedActions:
+BoundaryVerdict:
+DoesNotProve:
+```
+
+Boundary verdicts:
+
+```text
+MODE_OPERATION_ALLOWED_FOR_SCOPE
+MODE_OPERATION_BLOCKED
+MODE_OPERATION_REQUIRES_TRANSITION
+MODE_OPERATION_REQUIRES_USER_AUTHORITY
+MODE_OPERATION_HARD_STOP
+MODE_OPERATION_REVIEW_REQUIRED
+```
+
+## 26.8 Mode Hard Stops
+
+```text
+MODE_HARD_STOPS
+
+operation outside current mode
+source read in M0/M1/M2/M3
+fixture run in M0/M1
+real source read in fixture mode
+mutation in non-mutation mode
+script execution outside authorized mode
+runtime proof claimed without M9
+automation started without M11
+doctrine promoted without M13
+commit/push claimed without authority
+mode boundary lacks DoesNotProve
+```
+
+---
+
+# A06 Assembly Verdict
+
+```text
+A06_ASSEMBLY_COMPLETE
+
+SectionsAssembled:
+23. After-M4 Route Gate
+24. Finding Bus
+25. Expansion Firewall
+26. Mode Authority Matrix
+
+Status:
+CANDIDATE_SPEC_ASSEMBLY_IN_PROGRESS
+
+CurrentMode:
+M0_SPEC
+
+DoesNotProve:
+A06 assembly proves only that the next V0.1 document sections were drafted. It does not prove implementation, fixture pass, source replay, runtime behavior, doctrine, automation safety, mutation authority, expansion authority, or whole-house readiness.
+```
+
+Next assembly batch:
+
+`A07 — Output Report Pack Layout, Repair Planning, Proof-of-Repair Court, and Final Judge Rules.`
+
+
+
+
+
+
+
+
+Rope held. Continuing actual V0.1 spec assembly.
+
+# Assembly Batch A07
+
+# HOUSE_SEMANTIC_NERVOUS_SYSTEM_READ_ONLY_SPEC_V0_1.md
+
+Status:
+
+`CANDIDATE_SPEC_ASSEMBLY_IN_PROGRESS`
+
+`M0_SPEC`
+
+`NOT_DOCTRINE`
+
+`NO_SCRIPT`
+
+`NO_SCAN`
+
+`NO_SOURCE_REPLAY`
+
+`NO_FIXTURE_RUN`
+
+`NO_MUTATION`
+
+`NO_WHOLE_HOUSE_CRAWL`
+
+---
+
+# 27. Output Report Pack Layout
+
+## 27.1 Report Pack Purpose
+
+A report pack is the reviewable output container for a future fixture run, small-lab replay, finding route, repair plan, or proof-of-repair court.
+
+It must not be a loose summary.
+
+It must preserve:
+
+`source boundary`
+
+`mode boundary`
+
+`row lineage`
+
+`claim scope`
+
+`DoesNotProve`
+
+`findings`
+
+`warnings`
+
+`hard stops`
+
+`blocked claims`
+
+`blocked actions`
+
+`next legal action`
+
+A report pack is not global proof.
+
+A report pack is not doctrine.
+
+A report pack is not runtime proof.
+
+A report pack is not mutation authority.
+
+## 27.2 Report Pack Law
+
+```text
+REPORT_PACK_LAW
+
+A report pack must be layered.
+A report pack must include source set, mode, findings, validation, claim scope, final route, and DoesNotProve.
+A report pack may summarize rows, but may not replace rows.
+A report pack may route repair, proof, parking, review, or leave-be.
+A report pack may not authorize mutation, crawl, automation, doctrine, cleanup, commit, or push.
+```
+
+## 27.3 Report Pack Folder Shape
+
+```text
+HOUSE_SEMANTIC_NERVOUS_SYSTEM_REPORT_PACK_<RunId>/
+
+00_READ_ME_FIRST.md
+01_RUN_CARD.md
+02_MODE_AUTHORITY_CARD.md
+03_SOURCE_SET_MANIFEST.md
+04_EXCLUSION_LEDGER.md
+05_SOURCE_SAFETY_REPORT.md
+
+ATOMS/
+TRACES/
+PACKETS/
+CLAIMS/
+CONCEPTS/
+RESIDUE/
+LINEAGE/
+VALIDATION/
+FINDINGS/
+FINAL/
+RECEIPTS/
+```
+
+## 27.4 Required Top-Level Files
+
+```text
+00_READ_ME_FIRST.md:
+scope, mode, active object, what this pack proves, what it does not prove, reading order.
+
+01_RUN_CARD.md:
+run identity, mode, allowed operations, forbidden operations, stop condition.
+
+02_MODE_AUTHORITY_CARD.md:
+mode boundary, authority source, blocked actions.
+
+03_SOURCE_SET_MANIFEST.md:
+included sources, excluded sources, source roles, read modes, handling modes.
+
+04_EXCLUSION_LEDGER.md:
+nearby, related, tempting, linked, parked, or excluded sources.
+
+05_SOURCE_SAFETY_REPORT.md:
+source handling decisions, security warnings, redactions, unsafe blocks.
+```
+
+## 27.5 Required Data Ledgers
+
+```text
+ATOMS/HOUSE_ATOMS.jsonl
+TRACES/EXPECTED_TRIGGER_ROWS.jsonl
+TRACES/ACTUAL_APPLICATION_ROWS.jsonl
+TRACES/GATE_TRACE_SPANS.jsonl
+PACKETS/GATE_MEMORY_PACKETS.jsonl
+CLAIMS/CLAIM_SCOPE_CARDS.jsonl
+CONCEPTS/CONCEPT_GROUP_COURT_CARDS.jsonl
+CONCEPTS/CONCEPT_CARDS.jsonl
+CONCEPTS/FALSE_GROUP_CARDS.jsonl
+CONCEPTS/BRIDGE_CARDS.jsonl
+RESIDUE/RESIDUE_CARDS.jsonl
+RESIDUE/RETURN_TRIGGER_LEDGER.jsonl
+LINEAGE/ENTITY_LEDGER.jsonl
+LINEAGE/ACTIVITY_LEDGER.jsonl
+LINEAGE/DERIVATION_LEDGER.jsonl
+VALIDATION/SHAPE_VALIDATION_CARDS.jsonl
+FINDINGS/RAW_FINDINGS.jsonl
+FINDINGS/FINDING_BUS_PACKETS.jsonl
+FINDINGS/REPAIR_TICKETS.md
+FINDINGS/PROOF_ROUTES.md
+FINAL/FINAL_JUDGE_PACKET.md
+RECEIPTS/HASH_MANIFEST.md
+```
+
+## 27.6 Read Order for Humans and Mules
+
+```text
+REPORT_PACK_READING_ORDER
+
+1. 00_READ_ME_FIRST.md
+2. FINAL/FINAL_JUDGE_PACKET.md
+3. FINDINGS/FINDING_BUS_PACKETS.jsonl
+4. FINDINGS/RAW_FINDINGS.jsonl
+5. VALIDATION/SHAPE_VALIDATION_CARDS.jsonl
+6. CLAIMS/CLAIM_SCOPE_CARDS.jsonl
+7. PACKETS/GATE_MEMORY_PACKETS.jsonl
+8. TRACES/ACTUAL_APPLICATION_ROWS.jsonl
+9. TRACES/EXPECTED_TRIGGER_ROWS.jsonl
+10. ATOMS/HOUSE_ATOMS.jsonl
+11. SOURCE_SET_MANIFEST and EXCLUSION_LEDGER
+```
+
+Reason:
+
+`Read the verdict, findings, and boundaries before raw atoms. Raw atoms pull the reader toward crawl gravity if read first.`
+
+## 27.7 Report Pack Read Me Template
+
+```text
+REPORT_PACK_READ_ME_FIRST
+
+ReportPackId:
+RunId:
+ActiveObject:
+DeclaredMode:
+SourceSetId:
+ReportScope:
+AllowedClaims:
+BlockedClaims:
+BlockedActions:
+HardStops:
+Warnings:
+OpenProof:
+NextLegalAction:
+ReadingOrder:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+This report pack proves only scoped outputs under the declared mode, source set, cards, rows, fixtures, or repair target named inside it.
+It does not prove source truth, whole-house readiness, runtime behavior, automation safety, mutation authority, cleanup authority, commit authority, push authority, doctrine, active-rule status, or future correctness.
+```
+
+## 27.8 Hash Manifest
+
+Hash manifests are allowed for identity and custody support.
+
+They are not global proof.
+
+```text
+HASH_MANIFEST
+
+ManifestId:
+RunId:
+ReportPackId:
+FileRows:
+FilePath:
+FileRole:
+SHA256:
+ByteCount:
+CreatedByActivityId:
+IncludedInReport:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Hash manifest proves only file identity or copy comparison for listed artifacts. It does not prove content quality, truth, runtime behavior, doctrine, acceptance, mutation authority, or future correctness.
+```
+
+## 27.9 Report Pack Final Judge Packet
+
+```text
+REPORT_PACK_FINAL_JUDGE_PACKET
+
+ReportPackId:
+RunId:
+ActiveObject:
+DeclaredMode:
+InputSourceSetId:
+InputRows:
+InputFindings:
+InputValidation:
+ClosedClaims:
+OpenClaims:
+BlockedClaims:
+BlockedActions:
+Warnings:
+HardStops:
+RepairBacklog:
+ProofRoutes:
+ParkedItems:
+LeaveBeItems:
+FinalRoute:
+NextLegalAction:
+DoesNotProve:
+```
+
+## 27.10 Report Pack Hard Stops
+
+```text
+REPORT_PACK_HARD_STOPS
+
+report without mode card
+report without source set or lawful no-source reason
+report without DoesNotProve
+report without Final Judge packet
+summary replaces rows
+hash manifest treated as content truth
+receipt treated as global proof
+warnings omitted
+hard stops omitted
+open proof hidden
+blocked claims omitted
+repair backlog hidden
+Final Judge route says DONE
+report claims mutation authority
+report claims doctrine
+report claims runtime proof
+report claims whole-house readiness
+```
+
+---
+
+# 28. Repair Planning
+
+## 28.1 Repair Planning Purpose
+
+Repair planning converts routed findings and repair tickets into bounded plans.
+
+It does not perform repair.
+
+It does not edit files.
+
+It does not rewrite active guides.
+
+It does not run scripts.
+
+It does not mutate source.
+
+It exists to block the bad jump:
+
+```text
+finding -> ticket -> edit
+```
+
+The lawful chain is:
+
+```text
+finding
+-> finding bus
+-> repair ticket
+-> repair plan
+-> proof-of-repair plan
+-> mode transition request if execution is needed
+-> explicit later authority if granted
+```
+
+## 28.2 Repair Planning Law
+
+```text
+REPAIR_PLANNING_LAW
+
+A repair ticket is not authority.
+A repair plan is not repair execution.
+A proof plan is not proof.
+Repair planning may name proposed repair targets, forbidden operations, proof needs, risks, and mode transition requests.
+Repair planning may not mutate files, execute scripts, rewrite active guides, commit, push, automate, or promote doctrine.
+```
+
+## 28.3 M7 Repair Planning Mode Card
+
+```text
+REPAIR_PLANNING_MODE_AUTHORITY_CARD
+
+Mode:
+M7_REPAIR_PLANNING
+
+Allowed:
+read repair tickets
+group related repair tickets into repair families
+draft bounded repair plans
+name repair targets
+name forbidden operations
+draft proof-of-repair plans
+draft repair risk cards
+draft blocked-action ledgers
+draft mode transition requests
+validate repair plan shape
+route repair plan through Final Judge
+
+Forbidden:
+edit files
+rewrite active guides
+run scripts
+execute commands
+delete residue
+move/archive/dedupe files
+read unmanifested sources
+scan folders
+crawl house
+commit
+push
+start watcher
+promote doctrine
+claim repair completed
+
+DoesNotProve:
+Repair planning proves only that a repair plan was drafted under scope. It does not prove repair execution, repair correctness, runtime behavior, doctrine, mutation authority, source truth, or future correctness.
+```
+
+## 28.4 Repair Ticket Intake Card
+
+```text
+REPAIR_TICKET_INTAKE_CARD
+
+IntakeId:
+RepairPlanningRunId:
+InputFindingBusPacketIds:
+InputRepairTicketIds:
+TicketCount:
+TicketFamiliesProposed:
+HardStopTickets:
+BlockingTickets:
+NonBlockingTickets:
+ParkableTickets:
+RejectedTickets:
+IntakeVerdict:
+DoesNotProve:
+```
+
+Reject ticket from repair planning if:
+
+```text
+ticket lacks parent finding
+ticket lacks owner gate
+ticket lacks repair target
+ticket lacks proof need
+ticket smuggles mutation authority
+ticket is actually a proof route, not a repair
+```
+
+Rejected ticket route:
+
+`REPAIR_TICKET_REVIEW_REQUIRED`
+
+not:
+
+`ignore`
+
+## 28.5 Repair Scope Review Card
+
+```text
+REPAIR_SCOPE_REVIEW_CARD
+
+RepairPlanId:
+InputTicketIds:
+FailureShape:
+AffectedLayer:
+AffectedRowsOrCards:
+ProposedRepairScope:
+ScopeBoundary:
+OutOfScopeItems:
+NeighborDriftRisk:
+WholeHouseCrawlRisk:
+ActiveGuideRisk:
+MutationRisk:
+ScopeVerdict:
+DoesNotProve:
+```
+
+Allowed scope verdicts:
+
+```text
+REPAIR_SCOPE_VALID
+REPAIR_SCOPE_VALID_WITH_WARNINGS
+REPAIR_SCOPE_TOO_BROAD
+REPAIR_SCOPE_TOO_VAGUE
+REPAIR_SCOPE_MUTATION_RISK
+REPAIR_SCOPE_REVIEW_REQUIRED
+```
+
+Hard fails:
+
+```text
+scope says all files
+scope says whole house
+scope says every related source
+scope says active guide rewrite without authority
+scope includes source mutation under planning mode
+scope lacks target IDs
+scope lacks stop condition
+DoesNotProve missing
+```
+
+## 28.6 Repair Target Review Card
+
+```text
+REPAIR_TARGET_REVIEW_CARD
+
+RepairPlanId:
+TargetType:
+TargetIds:
+TargetAuthorityState:
+TargetCustodyState:
+RepairAllowedInPlanning:
+RequiresFutureMode:
+RequiresUserAuthority:
+RiskIfWrongTarget:
+TargetVerdict:
+DoesNotProve:
+```
+
+Allowed planning target types:
+
+```text
+SPEC_SECTION
+CARD_SCHEMA
+FIELD_NAME
+VERDICT_DICTIONARY
+DOES_NOT_PROVE_TEMPLATE
+EXPECTED_TRIGGER_DICTIONARY
+ACTUAL_APPLICATION_READER_RULE
+PACKET_RULE
+CLAIM_SCOPE_RULE
+CONCEPT_COURT_RULE
+RESIDUE_BOARD_RULE
+LINEAGE_RULE
+SHAPE_VALIDATION_RULE
+FINDING_BUS_RULE
+FINAL_JUDGE_RULE
+REPORT_PACK_LAYOUT
+FIXTURE_CARD
+FIXTURE_EXPECTED_RESULT
+M3_MANIFEST_RULE
+M4_ROW_PROTOCOL
+M4_COURT_RULE
+AFTER_M4_ROUTE_RULE
+```
+
+Targets requiring later authority:
+
+```text
+REAL_SOURCE_FILE
+ACTIVE_GUIDE
+SCRIPT_FILE
+TOOL_CODE
+REPO_STRUCTURE
+RUNTIME_CONFIG
+WATCHER_CONFIG
+AUTOMATION_TASK
+PUBLIC_REPO
+COMMIT_HISTORY
+```
+
+## 28.7 Repair Plan Card
+
+```text
+REPAIR_PLAN_CARD
+
+RepairPlanId:
+RepairPlanName:
+RepairPlanningRunId:
+InputFindingIds:
+InputRepairTicketIds:
+FailureShape:
+FailureEvidence:
+RepairTargetType:
+RepairTargetIds:
+CurrentState:
+ProposedRepair:
+AllowedEditsInFutureMode:
+ForbiddenEdits:
+RequiredModeForExecution:
+AuthorityRequiredForExecution:
+OwnerGate:
+CounterweightGate:
+EarthProofNeed:
+ProofOfRepairPlanId:
+RiskIfRepaired:
+RiskIfNotRepaired:
+RollbackOrSupersessionNeed:
+StopCondition:
+PlanVerdict:
+DoesNotProve:
+```
+
+Allowed plan verdicts:
+
+```text
+REPAIR_PLAN_DRAFTED_FOR_SCOPE
+REPAIR_PLAN_DRAFTED_WITH_WARNINGS
+REPAIR_PLAN_REPAIR_REQUIRED
+REPAIR_PLAN_REVIEW_REQUIRED
+REPAIR_PLAN_BLOCKED_UNSAFE
+REPAIR_PLAN_PARKED_WITH_RETURN_TRIGGER
+```
+
+Blocked plan verdicts:
+
+```text
+REPAIR_COMPLETED
+SOURCE_FIXED
+MUTATION_ALLOWED
+SCRIPT_READY_TO_RUN
+ACTIVE_GUIDE_UPDATED
+COMMITTED
+PUSHED
+DOCTRINE_PROMOTED
+DONE
+```
+
+## 28.8 Proof-of-Repair Plan
+
+```text
+PROOF_OF_REPAIR_PLAN
+
+ProofPlanId:
+RepairPlanId:
+RepairClaim:
+CurrentProofState:
+RequiredProofAfterRepair:
+ProofMethod:
+ExpectedEvidence:
+RequiredModeForProof:
+FixtureNeeded:
+ShapeValidationNeeded:
+ReplayNeeded:
+EarthEvidenceNeeded:
+PassCriteria:
+FailCriteria:
+BlockedProofClaims:
+StopCondition:
+DoesNotProve:
+```
+
+Allowed proof methods:
+
+```text
+SHAPE_VALIDATION
+FIXTURE_REPLAY
+BOUNDARY_REVIEW
+BEFORE_AFTER_DIFF_REVIEW
+CLAIM_SCOPE_RECHECK
+PACKET_CHAIN_RECHECK
+ROW_PROTOCOL_RECHECK
+SMALL_LAB_REPLAY_RECHECK
+EARTH_STATIC_CHECK
+EARTH_RUNTIME_CHECK_WITH_SEPARATE_AUTHORITY
+```
+
+Blocked proof methods:
+
+```text
+looks better
+assistant says fixed
+summary says done
+hash exists
+receipt exists
+commit exists
+no errors visible
+user probably accepts
+```
+
+## 28.9 Repair Risk Card
+
+```text
+REPAIR_RISK_CARD
+
+RepairPlanId:
+RiskClass:
+RiskIfRepaired:
+RiskIfNotRepaired:
+OverRepairRisk:
+UnderRepairRisk:
+NeighborDamageRisk:
+DoctrineSmuggleRisk:
+MutationSmuggleRisk:
+SecurityRisk:
+RollbackNeed:
+RequiredCounterweight:
+RiskVerdict:
+DoesNotProve:
+```
+
+Risk classes:
+
+```text
+LOW_SPEC_CLARITY
+MEDIUM_SCHEMA_CHANGE
+MEDIUM_VERDICT_CHANGE
+HIGH_CLAIM_SCOPE_CHANGE
+HIGH_MODE_AUTHORITY_CHANGE
+HIGH_SOURCE_SAFETY_CHANGE
+HIGH_FINAL_JUDGE_CHANGE
+CRITICAL_MUTATION_BOUNDARY
+CRITICAL_DOCTRINE_BOUNDARY
+```
+
+## 28.10 Repair Family Card
+
+```text
+REPAIR_FAMILY_CARD
+
+RepairFamilyId:
+MemberRepairTicketIds:
+CommonFailureShape:
+SharedOwnerGate:
+SharedCounterweightGate:
+SharedRepairTargetType:
+SharedRepairTargetIds:
+SharedProofNeed:
+SeverityRollup:
+PrimaryRepairPlanId:
+ChildTicketsClosedByPlan:
+ChildTicketsNotClosedByPlan:
+DoesNotProve:
+```
+
+Repair-family law:
+
+```text
+Repair family reduces noise.
+It does not erase child tickets.
+```
+
+## 28.11 Repair Blocked Action Ledger
+
+```text
+REPAIR_BLOCKED_ACTION_LEDGER_ROW
+
+BlockedActionId:
+RepairPlanId:
+RequestedOrImpliedAction:
+WhyBlocked:
+RequiredModeIfEverAllowed:
+RequiredAuthority:
+RequiredProofBefore:
+RequiredProofAfter:
+ReturnTrigger:
+DoesNotProve:
+```
+
+Common blocked actions:
+
+```text
+edit source now
+rewrite active guide now
+run script now
+delete residue now
+scan for all affected files
+commit repaired spec
+push changes
+turn repair into doctrine
+call repair complete
+```
+
+## 28.12 Repair Mode Transition Request
+
+```text
+REPAIR_MODE_TRANSITION_REQUEST
+
+RequestId:
+RepairPlanId:
+FromMode:
+M7_REPAIR_PLANNING
+
+RequestedMode:
+M8_MUTATION_AUTHORIZED
+or M1_FIXTURE_DESIGN_REVIEW
+or M2_FIXTURE_REPLAY
+or M4_READ_ONLY_REPLAY
+or M12_PROMOTION_REVIEW
+
+Reason:
+PrerequisitesMet:
+PrerequisitesMissing:
+AuthorityRequired:
+AllowedScopeRequested:
+ForbiddenOperations:
+ProofBeforeExecution:
+ProofAfterExecution:
+RiskClass:
+FinalJudgeReviewRequired:
+DoesNotProve:
+```
+
+## 28.13 Repair Planning Final Judge Packet
+
+```text
+REPAIR_PLANNING_FINAL_JUDGE_PACKET
+
+RepairPlanningRunId:
+ActiveObject:
+DeclaredMode:
+M7_REPAIR_PLANNING
+
+InputRepairTickets:
+RepairPlansCreated:
+RepairPlansBlocked:
+RepairFamiliesCreated:
+ProofOfRepairPlansCreated:
+RiskCardsCreated:
+BlockedActions:
+OpenQuestions:
+PrimaryGate:
+SATURN
+
+CounterweightGate:
+EARTH + MERCURY + MARS if action risk exists
+
+EarthEvidenceOrProofGap:
+planning evidence only; no repair execution evidence
+
+ClosedClaims:
+repair plan drafted for scope if valid
+repair proof need named if valid
+
+OpenClaims:
+repair completed
+runtime behavior
+source truth
+doctrine
+mutation authority
+commit/push authority
+future correctness
+
+BlockedClaims:
+repair plan = repaired
+ticket = mutation authority
+proof plan = proof completed
+family = child tickets erased
+
+FinalRoute:
+one allowed repair-planning route
+
+NextLegalAction:
+one next legal action only
+
+DoesNotProve:
+Repair-planning Final Judge proves only the scoped plan route. It does not prove repair execution or action authority.
+```
+
+## 28.14 Repair Planning Hard Stops
+
+```text
+REPAIR_PLANNING_HARD_STOPS
+
+repair ticket treated as mutation authority
+repair plan treated as completed repair
+proof plan treated as proof
+repair family erases child tickets
+repair target is all files
+repair scope is whole house
+repair requests script execution
+repair requests active-guide rewrite without authority
+repair requests commit/push
+repair promotes doctrine
+repair deletes residue
+DoesNotProve missing
+```
+
+---
+
+# 29. Proof-of-Repair Court
+
+## 29.1 Proof-of-Repair Purpose
+
+Proof-of-repair checks whether a completed repair actually closed the finding it claimed to close.
+
+It is not the repair.
+
+It is not the repair plan.
+
+It is not the diff.
+
+It is not the hash.
+
+It is the court that binds:
+
+`original failure`
+
+`repair plan`
+
+`authorized repair execution record if applicable`
+
+`before evidence`
+
+`after evidence`
+
+`required proof method`
+
+`observed proof result`
+
+`regression check`
+
+`claim-scope recheck`
+
+`child ticket closure`
+
+`Final Judge route`
+
+## 29.2 Proof-of-Repair Law
+
+```text
+PROOF_OF_REPAIR_LAW
+
+Repair is not proven until the repair-specific proof method closes the original finding without creating a stronger overclaim.
+A repair plan is not repair.
+Repair execution is not proof.
+A diff is not correctness.
+A hash is not repair proof.
+Shape pass is not semantic truth.
+Fixture pass is not real-source readiness.
+Proof-of-repair closes only named findings and tickets under named proof scope.
+```
+
+## 29.3 Proof-of-Repair Court Card
+
+```text
+PROOF_OF_REPAIR_COURT_CARD
+
+CourtId:
+RepairProofRunId:
+ActiveObject:
+OriginalFindingIds:
+RepairTicketIds:
+RepairPlanId:
+ProofOfRepairPlanId:
+RepairExecutionRecordId:
+RepairTargetType:
+RepairTargetIds:
+BeforeEvidence:
+AfterEvidence:
+RequiredProofMethod:
+ObservedProofMethod:
+ProofMethodMatchedPlan:
+RegressionCheckId:
+ClaimScopeRecheckId:
+ChildTicketsReviewed:
+ChildTicketsClosed:
+ChildTicketsStillOpen:
+NewFindingsCreated:
+BlockedClaims:
+BlockedActions:
+CourtVerdict:
+NextLegalAction:
+OwnerGate:
+SATURN
+
+CounterweightGate:
+EARTH + MERCURY
+
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Proof-of-repair court proves only whether the named repair closed the named finding under the required proof method and scope.
+It does not prove runtime behavior, source truth, whole-house readiness, doctrine, automation safety, mutation authority, commit authority, push authority, or future correctness.
+```
+
+## 29.4 Proof-of-Repair Verdicts
+
+```text
+PROOF_OF_REPAIR_VERDICTS
+
+REPAIR_PROVEN_FOR_SCOPE
+REPAIR_PROVEN_WITH_WARNINGS
+REPAIR_NOT_PROVEN
+REPAIR_PARTIALLY_PROVEN
+REPAIR_CREATED_REGRESSION
+REPAIR_PROOF_METHOD_MISMATCH
+REPAIR_HARD_STOP
+REPAIR_REVIEW_REQUIRED
+REPAIR_PARKED_WITH_RETURN_TRIGGER
+LEAVE_BE
+```
+
+Blocked verdicts:
+
+```text
+FIXED
+DONE
+ALL_GOOD
+RUNTIME_PROVEN
+SOURCE_TRUE
+WHOLE_HOUSE_READY
+AUTOMATION_SAFE
+DOCTRINE_PROMOTED
+MUTATION_ALLOWED
+COMMIT_ALLOWED
+PUSH_ALLOWED
+```
+
+## 29.5 Required Evidence Bundle
+
+```text
+PROOF_OF_REPAIR_REQUIRED_EVIDENCE
+
+1. ORIGINAL_FINDING_ROW or FINDING_CARD
+2. REPAIR_TICKET
+3. REPAIR_PLAN_CARD
+4. PROOF_OF_REPAIR_PLAN
+5. AUTHORIZED_REPAIR_EXECUTION_RECORD if actual mutation/build/edit occurred
+6. BEFORE_EVIDENCE
+7. AFTER_EVIDENCE
+8. PROOF_METHOD_RESULT
+9. REGRESSION_CHECK
+10. CLAIM_SCOPE_RECHECK
+11. CHILD_TICKET_REVIEW if repair family exists
+12. DOES_NOT_PROVE_INDEX
+13. FINAL_JUDGE_PACKET
+```
+
+Hard fail if missing:
+
+```text
+missing original finding
+missing repair ticket
+missing repair plan
+missing proof-of-repair plan
+missing proof method result
+missing before evidence
+missing after evidence
+missing DoesNotProve
+repair execution occurred without authority record
+repair claims closure without claim-scope recheck
+```
+
+## 29.6 Before Evidence Card
+
+```text
+BEFORE_EVIDENCE_CARD
+
+BeforeEvidenceId:
+OriginalFindingId:
+RepairTicketId:
+FailureShape:
+FailureEvidencePointer:
+AffectedRowsOrCards:
+OriginalBlockedClaims:
+OriginalBlockedActions:
+OriginalProofGap:
+OriginalSeverity:
+OriginalStopCondition:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Before evidence proves only the recorded pre-repair failure state.
+It does not prove the repair target, repair method, or repair success.
+```
+
+## 29.7 After Evidence Card
+
+```text
+AFTER_EVIDENCE_CARD
+
+AfterEvidenceId:
+RepairPlanId:
+RepairExecutionRecordId:
+ChangedTargetType:
+ChangedTargetIds:
+ChangeSummary:
+AfterStatePointer:
+AfterHashOrIdentity:
+AfterShapeState:
+AfterClaimScopeState:
+AfterPacketState:
+AfterDoesNotProveState:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+After evidence proves only the observed after-state or changed material identity.
+It does not prove the repair is correct unless the required proof method closes the original failure.
+```
+
+## 29.8 Authorized Repair Execution Record
+
+```text
+AUTHORIZED_REPAIR_EXECUTION_RECORD
+
+ExecutionRecordId:
+RepairPlanId:
+ExecutionMode:
+AuthoritySource:
+AuthorizedTargetIds:
+ActualTargetIdsChanged:
+PreStateEvidence:
+PostStateEvidence:
+ForbiddenOperationsChecked:
+RollbackOrSupersessionRecord:
+ExecutionOutput:
+ExecutionVerdict:
+DoesNotProve:
+```
+
+Allowed execution verdicts:
+
+```text
+REPAIR_EXECUTION_RECORDED_FOR_SCOPE
+REPAIR_EXECUTION_RECORDED_WITH_WARNINGS
+REPAIR_EXECUTION_MODE_BREACH
+REPAIR_EXECUTION_REVIEW_REQUIRED
+```
+
+Blocked:
+
+```text
+REPAIR_EXECUTION_PROVES_CORRECT
+RUNTIME_PROVEN
+DOCTRINE_PROMOTED
+DONE
+```
+
+If execution target differs from authorized target:
+
+`REPAIR_HARD_STOP`
+
+## 29.9 Proof Method Result Card
+
+```text
+PROOF_METHOD_RESULT_CARD
+
+ProofResultId:
+ProofOfRepairPlanId:
+RepairPlanId:
+RequiredProofMethod:
+ObservedProofMethod:
+MethodMatched:
+EvidenceProduced:
+PassCriteria:
+FailCriteria:
+PassCriteriaMet:
+FailCriteriaHit:
+ResultVerdict:
+ScopeClosed:
+ScopeStillOpen:
+DoesNotProve:
+```
+
+Allowed result verdicts:
+
+```text
+PROOF_METHOD_PASS_FOR_SCOPE
+PROOF_METHOD_PASS_WITH_WARNINGS
+PROOF_METHOD_FAIL
+PROOF_METHOD_MISMATCH
+PROOF_METHOD_INCOMPLETE
+PROOF_METHOD_REVIEW_REQUIRED
+```
+
+## 29.10 Proof Method Match Rules
+
+```text
+PROOF_METHOD_MATCH_RULES
+
+If proof plan required SHAPE_VALIDATION:
+shape validation may close missing-field/schema failures only.
+
+If proof plan required FIXTURE_REPLAY:
+fixture replay may close controlled trap handling only.
+
+If proof plan required BOUNDED_REPLAY_RECHECK:
+bounded replay may close source-set replay behavior only.
+
+If proof plan required CLAIM_SCOPE_RECHECK:
+claim-scope recheck may close overclaim only if stronger claims are still blocked.
+
+If proof plan required PACKET_CHAIN_RECHECK:
+packet recheck may close packet break only if next gate, stop condition, proof burden, and DoesNotProve are present.
+
+If proof plan required EARTH_RUNTIME_CHECK:
+runtime claim may close only if separate runtime authority and observed runtime evidence exist.
+
+If observed proof method differs from required proof method:
+REPAIR_PROOF_METHOD_MISMATCH unless Final Judge accepts narrower closure.
+```
+
+## 29.11 Regression Check Card
+
+```text
+REPAIR_REGRESSION_CHECK_CARD
+
+RegressionCheckId:
+RepairPlanId:
+RepairTargetIds:
+OriginalFailureClosed:
+NewFailuresCreated:
+NewWarningsCreated:
+AffectedNeighborRowsOrCards:
+ModeBoundaryStillValid:
+DoesNotProveStillPresent:
+ClaimScopeStillValid:
+PacketChainStillValid:
+ConceptResidueBoundaryStillValid:
+FinalJudgeRouteStillValid:
+RegressionVerdict:
+DoesNotProve:
+```
+
+Hard-stop regressions:
+
+```text
+DoesNotProve removed
+claim overreach introduced
+packetless handoff introduced
+concept card promoted to doctrine
+repair ticket converted to mutation authority
+source text treated as command
+Final Judge route becomes DONE
+mode boundary weakened
+```
+
+## 29.12 Claim-Scope Recheck Card
+
+```text
+REPAIR_CLAIM_SCOPE_RECHECK_CARD
+
+RecheckId:
+RepairPlanId:
+OriginalClaim:
+OriginalBlockedClaims:
+RepairClaim:
+EvidencePointer:
+CurrentProofRung:
+SupportedScopeAfterRepair:
+UnsupportedStrongerClaimsAfterRepair:
+BlockedClaimsStillBlocked:
+NewOverclaims:
+EarthProofNeed:
+RecheckVerdict:
+DoesNotProve:
+```
+
+Allowed verdicts:
+
+```text
+CLAIM_SCOPE_REPAIR_CLOSED_FOR_SCOPE
+CLAIM_SCOPE_REPAIR_CLOSED_WITH_WARNINGS
+CLAIM_SCOPE_REPAIR_NOT_CLOSED
+CLAIM_SCOPE_REPAIR_OVERCLAIM
+CLAIM_SCOPE_REPAIR_REVIEW_REQUIRED
+```
+
+## 29.13 Child Ticket Closure Review
+
+```text
+CHILD_TICKET_CLOSURE_REVIEW
+
+RepairFamilyId:
+RepairPlanId:
+ChildTicketIds:
+ChildTicketClosureRows:
+ClosedChildTickets:
+StillOpenChildTickets:
+PartiallyClosedChildTickets:
+WronglyClaimedClosedTickets:
+ClosureVerdict:
+DoesNotProve:
+```
+
+Each child ticket row:
+
+```text
+CHILD_TICKET_CLOSURE_ROW
+
+TicketId:
+OriginalFindingId:
+FailureShape:
+CoveredByRepair:
+ProofEvidence:
+ClosureStatus:
+StillOpenReason:
+DoesNotProve:
+```
+
+Allowed closure statuses:
+
+```text
+TICKET_CLOSED_FOR_SCOPE
+TICKET_CLOSED_WITH_WARNING
+TICKET_PARTIALLY_CLOSED
+TICKET_STILL_OPEN
+TICKET_WRONGLY_CLAIMED_CLOSED
+TICKET_REVIEW_REQUIRED
+```
+
+## 29.14 Repair Closure Packet
+
+```text
+REPAIR_CLOSURE_PACKET
+
+ClosurePacketId:
+RepairPlanId:
+ProofCourtId:
+ClosedFindingIds:
+ClosedTicketIds:
+ClosureScope:
+ProofEvidence:
+WarningsInherited:
+OpenProofRemaining:
+OpenTicketsRemaining:
+BlockedClaims:
+BlockedActions:
+NextLegalAction:
+ClosureVerdict:
+DoesNotProve:
+```
+
+Allowed closure verdicts:
+
+```text
+REPAIR_CLOSED_FOR_SCOPE
+REPAIR_CLOSED_WITH_WARNINGS
+REPAIR_PARTIALLY_CLOSED
+REPAIR_STILL_OPEN
+REPAIR_BLOCKED_BY_REGRESSION
+REPAIR_REVIEW_REQUIRED
+```
+
+## 29.15 Repair Still-Open Packet
+
+```text
+REPAIR_STILL_OPEN_PACKET
+
+StillOpenPacketId:
+RepairPlanId:
+ProofCourtId:
+FindingIdsStillOpen:
+TicketIdsStillOpen:
+WhyStillOpen:
+FailedProofMethod:
+MissingEvidence:
+RegressionFound:
+RequiredNextRepair:
+ReturnTrigger:
+BlockedClaims:
+BlockedActions:
+DoesNotProve:
+```
+
+Hard law:
+
+```text
+Failed proof is valuable.
+Do not bury it.
+```
+
+## 29.16 Proof-of-Repair Hard Stops
+
+```text
+PROOF_OF_REPAIR_HARD_STOPS
+
+repair execution occurred without authority
+repair target changed outside authorized scope
+proof method missing
+proof method mismatched and stronger closure claimed
+DoesNotProve removed
+claim overreach introduced
+runtime claimed without runtime proof authority
+doctrine promoted from repair
+repair claims source truth
+repair closes child tickets without review
+repair deletes history
+repair overwrites rows silently
+Final Judge route says DONE
+commit/push claimed without authority
+```
+
+---
+
+# 30. Final Judge Rules
+
+## 30.1 Final Judge Purpose
+
+Final Judge closes scoped routes.
+
+It does not invent proof.
+
+It does not override missing evidence.
+
+It does not promote doctrine by itself.
+
+It does not authorize mutation unless the current mode and authority allow mutation.
+
+It does not turn a report into truth.
+
+It does not turn a pass into whole-house readiness.
+
+Final Judge decides:
+
+`what is closed`
+
+`what remains open`
+
+`what is blocked`
+
+`what is parked`
+
+`what hard-stopped`
+
+`what the next legal action is`
+
+## 30.2 Final Judge Law
+
+```text
+FINAL_JUDGE_LAW
+
+Final Judge may close only scoped claims supported by input packets, evidence, mode authority, and Earth proof or named proof gap.
+Final Judge must name closed claims, open claims, blocked claims, blocked actions, warnings, hard stops, next legal action, stop condition, and DoesNotProve.
+Final Judge may not use blocked verdict words.
+Final Judge may not skip mode authority.
+Final Judge may not close open proof by summary.
+```
+
+## 30.3 Final Judge Packet
+
+```text
+FINAL_JUDGE_PACKET
+
+FinalJudgePacketId:
+RunId:
+ActiveObject:
+DeclaredMode:
+SourceSetId:
+InputPackets:
+InputClaims:
+InputFindings:
+InputValidation:
+InputLineage:
+InputProof:
+PrimaryGate:
+CounterweightGate:
+EarthEvidenceOrProofGap:
+ClosedClaims:
+OpenClaims:
+BlockedClaims:
+BlockedActions:
+Warnings:
+HardStops:
+RepairBacklog:
+ProofRoutes:
+ParkedItems:
+LeaveBeItems:
+FinalRoute:
+NextLegalAction:
+StopCondition:
+DoesNotProve:
+```
+
+Required DoesNotProve:
+
+```text
+Final Judge proves only the scoped final route under declared mode and evidence.
+It does not prove source truth, whole-house readiness, runtime behavior, automation safety, mutation authority, doctrine, commit authority, push authority, or future correctness.
+```
+
+## 30.4 Allowed Final Routes by Mode
+
+```text
+M0_SPEC_ALLOWED_FINAL_ROUTES
+
+CANDIDATE_SPEC_SECTION_DRAFTED
+CANDIDATE_SPEC_ASSEMBLY_IN_PROGRESS
+CANDIDATE_SPEC_READY_FOR_FIXTURE_SHAPE_REVIEW
+REPAIR_SPEC_SECTION
+PARK_WITH_RETURN_TRIGGER
+LEAVE_BE
+```
+
+```text
+M1_FIXTURE_DESIGN_REVIEW_ALLOWED_FINAL_ROUTES
+
+FIXTURE_SHAPE_REVIEW_PASS_FOR_DESIGN
+FIXTURE_SHAPE_REVIEW_PASS_WITH_WARNINGS
+FIXTURE_SHAPE_REVIEW_REPAIR_REQUIRED
+FIXTURE_SHAPE_REVIEW_HARD_STOP
+REQUEST_M2_FIXTURE_REPLAY_TRANSITION_REVIEW
+PARK_WITH_RETURN_TRIGGER
+LEAVE_BE
+```
+
+```text
+M2_FIXTURE_REPLAY_ALLOWED_FINAL_ROUTES
+
+FIXTURE_SUITE_PASS_FOR_SCOPE
+FIXTURE_SUITE_PASS_WITH_WARNINGS
+FIXTURE_SUITE_FAIL_REPAIR_REQUIRED
+FIXTURE_SUITE_HARD_STOP
+FIXTURE_SUITE_REVIEW_REQUIRED
+REQUEST_BENCH_TO_LAB_GATE_REVIEW
+PARK_WITH_RETURN_TRIGGER
+LEAVE_BE
+```
+
+```text
+M3_ALLOWED_FINAL_ROUTES
+
+REQUEST_M4_READ_ONLY_REPLAY_TRANSITION_REVIEW
+REPAIR_M3_MANIFEST
+REPAIR_SOURCE_SAFETY_PRECHECK
+REDUCE_SOURCE_SET
+PARK_SOURCE_SELECTION
+BLOCK_M4_REPLAY
+LEAVE_BE
+```
+
+```text
+M4_ALLOWED_FINAL_ROUTES
+
+M4_REPLAY_PASS_FOR_SCOPE
+M4_REPLAY_PASS_WITH_WARNINGS
+M4_REPLAY_REPAIR_REQUIRED
+M4_REPLAY_HARD_STOP
+M4_REPLAY_REVIEW_REQUIRED
+PARK_WITH_RETURN_TRIGGER
+LEAVE_BE
+```
+
+```text
+M7_ALLOWED_FINAL_ROUTES
+
+REPAIR_PLAN_READY_FOR_REVIEW
+REPAIR_PLAN_REPAIR_REQUIRED
+REPAIR_PLAN_BLOCKED_UNSAFE
+REPAIR_PLAN_PARKED_WITH_RETURN_TRIGGER
+REQUEST_FIXTURE_DESIGN_REVIEW
+REQUEST_FIXTURE_REPLAY_TRANSITION_REVIEW
+REQUEST_M4_REPLAY_RECHECK_REVIEW
+REQUEST_MUTATION_AUTHORITY_REVIEW
+LEAVE_BE
+```
+
+```text
+PROOF_OF_REPAIR_ALLOWED_FINAL_ROUTES
+
+REPAIR_CLOSED_FOR_SCOPE
+REPAIR_CLOSED_WITH_WARNINGS
+REPAIR_PARTIALLY_CLOSED_CONTINUE_REPAIR
+REPAIR_NOT_CLOSED_CONTINUE_REPAIR
+REPAIR_BLOCKED_BY_REGRESSION
+REQUEST_FIXTURE_RECHECK
+REQUEST_M4_REPLAY_RECHECK
+PARK_WITH_RETURN_TRIGGER
+LEAVE_BE
+```
+
+## 30.5 Blocked Final Routes
+
+```text
+BLOCKED_FINAL_ROUTES
+
+DONE
+ALL_GOOD
+SOURCE_TRUE
+WHOLE_HOUSE_READY
+AUTOMATION_SAFE
+MUTATION_ALLOWED
+RUNTIME_PROVEN
+DOCTRINE_PROMOTED
+ACTIVE_RULE
+COMMIT_ALLOWED
+PUSH_ALLOWED
+CLEANUP_ALLOWED
+FIXED
+```
+
+These may not be final routes.
+
+If they appear, create:
+
+`FINAL_ROUTE_FINDING`
+
+and route through Finding Bus.
+
+## 30.6 Final Judge Review Order
+
+```text
+FINAL_JUDGE_REVIEW_ORDER
+
+1. Confirm declared mode.
+2. Confirm mode authority.
+3. Confirm source boundary or lawful no-source reason.
+4. Confirm input packets.
+5. Confirm findings routed.
+6. Confirm hard stops.
+7. Confirm warnings scoped and inherited.
+8. Confirm open proof.
+9. Confirm blocked claims.
+10. Confirm blocked actions.
+11. Confirm Earth evidence or proof gap.
+12. Confirm final route is allowed for mode.
+13. Confirm next legal action is exactly one.
+14. Confirm stop condition.
+15. Confirm DoesNotProve.
+```
+
+## 30.7 One Next Legal Action Rule
+
+Final Judge may name one next legal action.
+
+Not five.
+
+Not a vague menu.
+
+Not “continue.”
+
+```text
+ONE_NEXT_LEGAL_ACTION_RULE
+
+Final Judge must select exactly one next legal action.
+The action must belong to the declared mode or a lawful mode transition request.
+The action must name its stop condition.
+The action must carry forward warnings, open proof, blocked claims, blocked actions, repair backlog, and parked items.
+```
+
+## 30.8 Final Judge Hard Stops
+
+```text
+FINAL_JUDGE_HARD_STOPS
+
+declared mode missing
+mode authority missing
+source boundary missing when needed
+input packets missing
+findings ignored
+hard stops omitted
+warnings dropped
+open proof hidden
+blocked claims omitted
+blocked actions omitted
+Earth proof gap ignored
+blocked final route used
+multiple next legal actions
+next legal action outside mode
+stop condition missing
+DoesNotProve missing
+Final Judge says DONE
+Final Judge claims doctrine
+Final Judge claims mutation authority
+Final Judge claims automation safety
+Final Judge claims runtime proof without M9
+Final Judge claims whole-house readiness
+```
+
+## 30.9 Final Judge Closeout Template
+
+```text
+FINAL_JUDGE_CLOSEOUT_TEMPLATE
+
+ActiveObject:
+DeclaredMode:
+PrimaryGate:
+CounterweightGate:
+EarthEvidenceOrProofGap:
+
+ClosedClaims:
+OpenClaims:
+BlockedClaims:
+BlockedActions:
+Warnings:
+HardStops:
+RepairBacklog:
+ProofRoutes:
+ParkedItems:
+LeaveBeItems:
+
+FinalRoute:
+NextLegalAction:
+StopCondition:
+
+DoesNotProve:
+```
+
+## 30.10 Master Final Judge Law
+
+```text
+MASTER_FINAL_JUDGE_LAW
+
+Final Judge is the last scoped router, not a god organ.
+It can close only what the evidence, mode, packets, and Earth proof allow.
+It must preserve what remains open.
+It must block stronger claims.
+It must carry the rope to one next legal action.
+```
+
+---
+
+# A07 Assembly Verdict
+
+```text
+A07_ASSEMBLY_COMPLETE
+
+SectionsAssembled:
+27. Output Report Pack Layout
+28. Repair Planning
+29. Proof-of-Repair Court
+30. Final Judge Rules
+
+Status:
+CANDIDATE_SPEC_ASSEMBLY_IN_PROGRESS
+
+CurrentMode:
+M0_SPEC
+
+DoesNotProve:
+A07 assembly proves only that the next V0.1 document sections were drafted. It does not prove implementation, fixture pass, source replay, repair execution, proof-of-repair execution, runtime behavior, doctrine, automation safety, mutation authority, or whole-house readiness.
+```
+
+Next assembly batch:
+
+`A08 — V0.1 Non-Goals, Master Hard Stops, Locked Vocabulary, No-Drop Organ Ledger, Appendix Ledger, and Final Next Legal Action.`
+
+
+
+
+
+
+
+
+
+
+
+Rope held. Final assembly batch for the V0.1 candidate spec.
+
+# Assembly Batch A08
+
+# HOUSE_SEMANTIC_NERVOUS_SYSTEM_READ_ONLY_SPEC_V0_1.md
+
+Status:
+
+`CANDIDATE_SPEC_ASSEMBLY_CLOSEOUT`
+
+`M0_SPEC`
+
+`NOT_DOCTRINE`
+
+`NO_SCRIPT`
+
+`NO_SCAN`
+
+`NO_SOURCE_REPLAY`
+
+`NO_FIXTURE_RUN`
+
+`NO_MUTATION`
+
+`NO_WHOLE_HOUSE_CRAWL`
+
+---
+
+# 31. V0.1 Non-Goals
+
+## 31.1 Non-Goal Purpose
+
+Non-goals protect the spec from becoming too large, too early, too automatic, or too authoritative.
+
+This V0.1 candidate specification defines the shape of the House Semantic Nervous System.
+
+It does not build the system.
+
+It does not run the system.
+
+It does not scan the house.
+
+It does not mutate files.
+
+It does not promote doctrine.
+
+It does not prove runtime.
+
+It does not prove automation safety.
+
+The non-goal law:
+
+```text
+V0_1_NON_GOAL_LAW
+
+If a thing requires source reading, fixture execution, script execution, mutation, runtime proof, automation, doctrine, cleanup, commit, push, watcher behavior, or whole-house coverage, it is outside V0.1 spec assembly.
+```
+
+## 31.2 Explicit Non-Goals
+
+```text
+V0_1_NON_GOALS
+
+NOT_A_SCRIPT:
+This document is not executable code.
+
+NOT_A_TOOL:
+This document does not implement a tracer.
+
+NOT_A_SCAN:
+This document does not inspect house files.
+
+NOT_A_FIXTURE_RUN:
+This document defines fixtures but does not run them.
+
+NOT_A_SOURCE_REPLAY:
+This document defines future M4 replay but does not read real sources.
+
+NOT_A_MUTATION_AUTHORITY:
+This document does not authorize edits, moves, deletes, archives, dedupes, cleanup, commits, or pushes.
+
+NOT_A_WATCHER:
+This document does not start root monitoring, file triggers, background listeners, or automation.
+
+NOT_DOCTRINE:
+This document is candidate spec, not active house law.
+
+NOT_RUNTIME_PROOF:
+This document proves no runtime behavior.
+
+NOT_AUTOMATION_SAFE:
+This document proves no automation safety.
+
+NOT_WHOLE_HOUSE_READY:
+This document proves no global house readiness.
+
+NOT_SOURCE_TRUTH:
+This document proves no source is true.
+
+NOT_FINAL_DONE:
+This document does not close the entire project.
+```
+
+## 31.3 Scope-Protected Claims
+
+This V0.1 may claim only:
+
+```text
+V0_1_ALLOWED_CLAIMS
+
+candidate spec sections assembled
+major organs preserved
+mode boundaries defined
+future fixture path defined
+future small-lab path defined
+future M4 row protocol defined
+future report pack layout defined
+repair planning boundary defined
+proof-of-repair boundary defined
+Final Judge rules defined
+next legal action defined
+```
+
+It may not claim:
+
+```text
+V0_1_BLOCKED_CLAIMS
+
+system implemented
+fixture suite passed
+real-source replay ready
+source truth established
+runtime behavior proven
+automation safe
+mutation allowed
+doctrine promoted
+repo ready
+commit allowed
+push allowed
+cleanup allowed
+whole house ready
+```
+
+## 31.4 V0.1 Hard Boundary
+
+```text
+V0_1_HARD_BOUNDARY
+
+The only legal result of this assembly is a candidate V0.1 specification document and a next route to M1 fixture shape review.
+
+Any stronger result is overclaim.
+```
+
+---
+
+# 32. Master Control Ledgers
+
+## 32.1 Master Hard Stops
+
+Any future run, review, fixture, replay, repair plan, report, or Final Judge packet must hard-stop or block expansion if any of these appear:
+
+```text
+MASTER_HARD_STOPS
+
+source text treated as command
+prompt injection obeyed
+script executed without authority
+URL opened without authority
+remote content downloaded without authority
+unmanifested source read
+excluded source read
+folder/root/repo scan
+whole-house crawl
+atom cap exceeded silently
+gate name treated as actual application
+expected trigger treated as actual application
+APPLIED_DIGNIFIED without gate-job evidence
+packetless handoff
+claim without evidence pointer
+proof token without DoesNotProve
+hash treated as quality/runtime proof
+receipt treated as global proof
+static check treated as runtime proof
+lineage treated as truth
+shape pass treated as truth
+candidate promoted to doctrine
+concept card promoted to active rule by default
+cheap-word group accepted
+embedding-only group accepted
+bridge treated as merge
+residue treated as trash
+residue deletion allowed
+finding treated as action authority
+repair ticket treated as mutation authority
+repair plan treated as completed repair
+proof plan treated as proof
+fixture pass treated as real-source readiness
+M4 pass treated as mutation authority
+report pack treated as whole-house readiness
+Final Judge route says DONE
+Final Judge omits open proof
+Final Judge drops warnings
+Final Judge hides hard stops
+automation started without authority
+watcher started without authority
+cleanup claimed without authority
+commit/push claimed without authority
+DoesNotProve missing
+```
+
+Hard-stop law:
+
+```text
+One hard stop beats any count of clean rows.
+```
+
+## 32.2 Locked Vocabulary
+
+These terms must keep their scoped meanings.
+
+```text
+LOCKED_VOCABULARY
+
+candidate:
+not active rule.
+
+fixture:
+synthetic trap, not real-source proof.
+
+manifest:
+boundary, not truth.
+
+hash:
+identity/copy comparison, not quality.
+
+receipt:
+record/pointer, not global proof.
+
+static check:
+structure, not runtime.
+
+lineage:
+parentage, not truth.
+
+shape pass:
+valid container, not semantic correctness.
+
+expected trigger:
+gate should be checked, not gate applied.
+
+actual application:
+visible gate-job evidence, not claim truth.
+
+packet:
+handoff state, not material proof.
+
+claim scope:
+evidence boundary, not new evidence.
+
+concept:
+candidate/support grouping, not doctrine.
+
+false group:
+rejected grouping preserved as warning material.
+
+bridge:
+relation, not merge.
+
+residue:
+unplaced signal, not trash.
+
+finding:
+routed signal, not action authority.
+
+repair ticket:
+need, not permission.
+
+repair plan:
+design, not execution.
+
+proof plan:
+method, not proof.
+
+proof-of-repair:
+scoped closure, not global correctness.
+
+Final Judge:
+scoped route, not god mode.
+
+leave-be:
+no lawful next action under current scope, not junk.
+
+parking:
+preserved return trigger, not forgetting.
+```
+
+## 32.3 Blocked Verdict Words
+
+These words may not be used as controlled final verdicts:
+
+```text
+BLOCKED_VERDICT_WORDS
+
+DONE
+ALL_GOOD
+SAFE
+READY
+FIXED
+WORKS
+TRUE
+VERIFIED_GLOBAL
+WHOLE_HOUSE_READY
+AUTOMATION_SAFE
+MUTATION_ALLOWED
+DOCTRINE_PROMOTED
+ACTIVE_RULE
+COMMIT_ALLOWED
+PUSH_ALLOWED
+CLEANUP_ALLOWED
+SOURCE_TRUE
+RUNTIME_PROVEN
+```
+
+If one appears as a proposed verdict, create:
+
+```text
+FINAL_ROUTE_FINDING
+or
+SHAPE_VALIDATION_FINDING
+or
+MODE_BOUNDARY_FINDING
+```
+
+and route it through Finding Bus.
+
+## 32.4 No-Drop Organ Ledger
+
+Every V0.1 assembly and future derivative must preserve these organs or explicitly explain why a section is out of scope.
+
+```text
+NO_DROP_ORGAN_LEDGER_FINAL
+
+SOURCE_SAFETY:
+preserve.
+
+SOURCE_SET_MANIFEST:
+preserve.
+
+EXCLUSION_LEDGER:
+preserve.
+
+ATOMIZATION:
+preserve.
+
+GATE_READ_SCOPE:
+preserve.
+
+EXPECTED_TRIGGER:
+preserve.
+
+ACTUAL_APPLICATION_READER:
+preserve.
+
+TRACE_SPAN:
+preserve.
+
+PASS_FORWARD_PACKET:
+preserve.
+
+CLAIM_SCOPE_ENGINE:
+preserve.
+
+DOES_NOT_PROVE_ENGINE:
+preserve.
+
+CONCEPT_COURT:
+preserve.
+
+FALSE_GROUP_CARD:
+preserve.
+
+BRIDGE_CARD:
+preserve.
+
+RESIDUE_BOARD:
+preserve.
+
+RETURN_TRIGGER_LEDGER:
+preserve.
+
+MISSING_ORGAN_CANDIDATE:
+preserve.
+
+LINEAGE_BONE:
+preserve.
+
+PROVENANCE_CARD:
+preserve.
+
+SHAPE_VALIDATION:
+preserve.
+
+FIXTURE_BENCH:
+preserve.
+
+FIXTURE_SHAPE_REVIEW:
+preserve.
+
+FIXTURE_REPLAY_BOUNDARY:
+preserve.
+
+BENCH_TO_LAB_GATE:
+preserve.
+
+M3_SOURCE_SELECTION:
+preserve.
+
+M4_TRANSITION_GATE:
+preserve.
+
+M4_REPLAY_ROW_PROTOCOL:
+preserve.
+
+M4_PASS_FAIL_COURT:
+preserve.
+
+AFTER_M4_ROUTE_GATE:
+preserve.
+
+FINDING_BUS:
+preserve.
+
+EXPANSION_FIREWALL:
+preserve.
+
+MODE_AUTHORITY_MATRIX:
+preserve.
+
+OUTPUT_REPORT_PACK:
+preserve.
+
+REPAIR_PLANNING:
+preserve.
+
+PROOF_OF_REPAIR_COURT:
+preserve.
+
+FINAL_JUDGE:
+preserve.
+```
+
+No-drop law:
+
+```text
+If an organ is removed, the assembly must warn:
+HEY — don’t drop stuff!
+Then it must name the reason, risk, return trigger, and DoesNotProve.
+```
+
+## 32.5 Appendix Ledger
+
+Heavy dictionaries and long reference material should live in appendices, not be deleted.
+
+```text
+APPENDIX_LEDGER_FINAL
+
+Appendix A:
+Canonical fields.
+
+Appendix B:
+Verdict dictionaries.
+
+Appendix C:
+DoesNotProve templates.
+
+Appendix D:
+Gate read-scope contracts.
+
+Appendix E:
+Support-gate trigger dictionaries.
+
+Appendix F:
+Planetary trigger dictionaries.
+
+Appendix G:
+Actual application levels and examples.
+
+Appendix H:
+Packet schemas.
+
+Appendix I:
+Claim proof rungs and overclaim patterns.
+
+Appendix J:
+Concept court blockers and verdicts.
+
+Appendix K:
+Residue classes and return triggers.
+
+Appendix L:
+Lineage / provenance model.
+
+Appendix M:
+Shape validation invariants.
+
+Appendix N:
+Fixture cards F01-F16.
+
+Appendix O:
+Fixture shape review protocol.
+
+Appendix P:
+Fixture replay boundary.
+
+Appendix Q:
+Bench-to-Lab Gate.
+
+Appendix R:
+M3 source selection / manifest.
+
+Appendix S:
+M4 transition and row protocol.
+
+Appendix T:
+M4 pass/fail and After-M4 route gates.
+
+Appendix U:
+Finding bus routes.
+
+Appendix V:
+Expansion firewall.
+
+Appendix W:
+Mode authority matrix.
+
+Appendix X:
+Source safety flags.
+
+Appendix Y:
+Report pack layout.
+
+Appendix Z:
+Repair planning and proof-of-repair court.
+```
+
+Appendix law:
+
+```text
+Appendix means preserved toolbelt, not trash drawer.
+```
+
+## 32.6 Duplicate-Control Ledger
+
+The assembled document may consolidate duplicate wording, but may not drop unique rules.
+
+```text
+DUPLICATE_CONTROL_LEDGER
+
+Allowed:
+merge repeated DoesNotProve language into templates
+move repeated verdict dictionaries to appendices
+replace repeated hard-stop lists with master hard-stop reference
+compress examples if examples are preserved in appendix
+cross-reference related sections
+
+Forbidden:
+delete an organ because it was repeated
+delete a hard stop because it appears elsewhere
+delete DoesNotProve because it feels obvious
+delete fixture traps because they are “just examples”
+delete residue classes because they are future work
+delete repair/proof sections because they are not current mode
+```
+
+Duplicate-control law:
+
+```text
+Condense repeated wording.
+Do not condense away meaning.
+```
+
+## 32.7 Forbidden-Overclaim Seal
+
+Every future artifact derived from this spec must carry this seal or a scoped equivalent:
+
+```text
+FORBIDDEN_OVERCLAIM_SEAL
+
+This artifact is scoped to the declared mode, source set, cards, rows, fixtures, or repair target named inside it.
+
+It does not prove:
+whole-house readiness
+source truth
+runtime behavior
+automation safety
+mutation authority
+cleanup authority
+commit authority
+push authority
+doctrine
+active-rule status
+future correctness
+
+It does not authorize:
+folder scan
+whole-house crawl
+source mutation
+script execution
+URL opening
+watcher startup
+automation
+active-guide rewrite
+cleanup
+commit
+push
+doctrine promotion
+
+It may route only the next legal action named by Final Judge.
+```
+
+Short seal:
+
+```text
+SHORT_SEAL
+
+Scoped only. Not doctrine. Not runtime proof. Not mutation authority. Not automation safety. Not whole-house readiness. Final Judge route only.
+```
+
+## 32.8 Master Build Order
+
+```text
+MASTER_BUILD_ORDER
+
+1. Assemble V0.1 candidate spec document from A01-A08.
+2. Run No-Drop Organ Ledger check.
+3. Run Duplicate-Control Ledger check.
+4. Run DoesNotProve presence check.
+5. Run blocked-verdict-word check.
+6. Run mode-authority check.
+7. Run fixture-card shape review on F01-F16 definitions.
+8. Repair fixture cards if shape review fails.
+9. Only after fixture shape review passes, request M2 fixture replay transition.
+10. Only after future fixture replay passes, request Bench-to-Lab Gate.
+11. Only after Bench-to-Lab opens, prepare M3 source selection.
+12. Only after M3 manifest passes, request M4 read-only replay transition.
+13. Only after M4 pass/fail court closes, route through After-M4 Gate.
+14. If repair needed, draft M7 repair plan.
+15. If repair later executes under proper authority, run Proof-of-Repair Court.
+16. Never skip Final Judge.
+```
+
+Hard build law:
+
+```text
+No implementation before spec assembly and fixture shape review.
+```
+
+---
+
+# 33. Final Next Legal Action
+
+## 33.1 Current Assembly Status
+
+The V0.1 candidate spec has now been assembled in eight batches:
+
+```text
+ASSEMBLY_BATCHES
+
+A01:
+Read Me First / Scope Boundary
+Current Mode and Authority
+Core Pipeline
+Universal Field Law
+Source Safety and Manifest
+
+A02:
+Atomization
+Gate Read-Scope
+Expected Trigger
+Actual Application Reader
+Pass-Forward Packets
+
+A03:
+Claim-Scope / DoesNotProve
+Concept Court
+Residue Board
+Lineage / Bone
+Shape Validation
+
+A04:
+Fixture Bench F01-F16
+Fixture Shape Review
+Fixture Replay Boundary
+Bench-to-Lab Gate
+
+A05:
+M3 Small-Lab Source Selection
+M4 Read-Only Replay Transition
+M4 Replay Row Protocol
+M4 Pass/Fail Court
+
+A06:
+After-M4 Route Gate
+Finding Bus
+Expansion Firewall
+Mode Authority Matrix
+
+A07:
+Output Report Pack Layout
+Repair Planning
+Proof-of-Repair Court
+Final Judge Rules
+
+A08:
+V0.1 Non-Goals
+Master Hard Stops
+Locked Vocabulary
+No-Drop Organ Ledger
+Appendix Ledger
+Final Next Legal Action
+```
+
+## 33.2 Final Candidate Spec Status
+
+```text
+FINAL_CANDIDATE_SPEC_STATUS
+
+ActiveObject:
+HOUSE_SEMANTIC_NERVOUS_SYSTEM_READ_ONLY_SPEC_V0_1
+
+SpecStatus:
+CANDIDATE_SPEC_ASSEMBLED_IN_CHAT
+
+DocumentStatus:
+READY_FOR_FILE_ASSEMBLY_OR_M1_FIXTURE_SHAPE_REVIEW_PREP
+
+CurrentMode:
+M0_SPEC
+
+DoctrineStatus:
+NOT_DOCTRINE
+
+ImplementationStatus:
+NO_SCRIPT / NO_TOOL / NO_REPLAY / NO_AUTOMATION
+
+SourceStatus:
+NO_SOURCE_READ
+
+FixtureStatus:
+FIXTURES_DEFINED_NOT_RUN
+
+ReplayStatus:
+NO_M4_REPLAY
+
+RepairStatus:
+NO_REPAIR_EXECUTION
+
+AuthorityStatus:
+A1_CHAT_SPEC_AUTHORITY_ONLY
+```
+
+## 33.3 Final Judge Closeout Packet
+
+```text
+A08_FINAL_JUDGE_CLOSEOUT_PACKET
+
+ActiveObject:
+HOUSE_SEMANTIC_NERVOUS_SYSTEM_READ_ONLY_SPEC_V0_1
+
+DeclaredMode:
+M0_SPEC
+
+PrimaryGate:
+SATURN
+
+CounterweightGate:
+EARTH + MERCURY + ROPE_ROUTER
+
+ClosedClaims:
+A01-A08 candidate spec assembly drafted the V0.1 nervous-system architecture.
+Major organs are preserved in the No-Drop Organ Ledger.
+Core mode boundaries are defined.
+Future fixture path is defined.
+Future small-lab path is defined.
+Future M4 row protocol and pass/fail court are defined.
+Finding Bus, Expansion Firewall, Repair Planning, Proof-of-Repair, and Final Judge are defined.
+Forbidden-overclaim seal is defined.
+One next legal action is selected.
+
+OpenClaims:
+file artifact exists
+fixture shape review passed
+fixture replay passed
+small-lab source selection approved
+M4 transition approved
+M4 read-only replay passed
+repair execution occurred
+proof-of-repair occurred
+runtime behavior
+automation safety
+doctrine
+mutation authority
+whole-house readiness
+commit authority
+push authority
+future correctness
+
+BlockedClaims:
+A08 assembly = implementation
+A08 assembly = doctrine
+A08 assembly = fixture pass
+A08 assembly = source replay
+A08 assembly = runtime proof
+A08 assembly = automation safety
+A08 assembly = mutation authority
+A08 assembly = whole-house readiness
+A08 assembly = done forever
+
+FinalRoute:
+CANDIDATE_SPEC_READY_FOR_FILE_ASSEMBLY_OR_M1_FIXTURE_SHAPE_REVIEW_PREP
+
+NextLegalAction:
+choose one of:
+1. assemble the A01-A08 text into a single .md file artifact
+or
+2. begin M1 fixture shape review prep over F01-F16
+
+StopCondition:
+Do not run fixtures, read sources, scan files, mutate, automate, promote doctrine, commit, push, or claim runtime proof.
+
+DoesNotProve:
+This closeout proves only that the candidate V0.1 spec was assembled in chat. It does not prove a file artifact exists, implementation exists, fixtures passed, real-source replay is ready, runtime works, automation is safe, mutation is authorized, doctrine is promoted, commit/push is authorized, or the whole house is ready.
+```
+
+## 33.4 Recommended One Next Move
+
+The cleanest next move is:
+
+```text
+NEXT_LEGAL_ACTION_RECOMMENDED
+
+ASSEMBLE_SINGLE_MARKDOWN_FILE_ARTIFACT_FROM_A01_A08
+```
+
+Reason:
+
+```text
+The spec exists in chat batches.
+Before M1 fixture shape review, the house needs one stable document body.
+```
+
+Required output if chosen:
+
+```text
+HOUSE_SEMANTIC_NERVOUS_SYSTEM_READ_ONLY_SPEC_V0_1.md
+```
+
+Forbidden during that move:
+
+```text
+fixture replay
+source replay
+file scan
+whole-house crawl
+script execution
+source mutation
+active-guide rewrite
+automation
+doctrine promotion
+cleanup
+commit
+push
+runtime proof claim
+```
+
+Stop condition:
+
+```text
+one Markdown file assembled
+No-Drop Organ Ledger included
+Forbidden-Overclaim Seal included
+Final Judge closeout included
+next legal action remains M1 fixture shape review prep
+```
+
+## 33.5 Alternative Legal Move
+
+If not making a file artifact yet, the other legal move is:
+
+```text
+NEXT_LEGAL_ACTION_ALTERNATIVE
+
+BEGIN_M1_FIXTURE_SHAPE_REVIEW_PREP
+```
+
+This means:
+
+```text
+review F01-F16 fixture cards for required fields, MustNotOutput, ExpectedBlockedClaims, ExpectedDoesNotProve, pass/fail criteria, repair path, and mode boundary.
+```
+
+It does not mean:
+
+```text
+run the fixtures
+read sources
+test real files
+mutate
+scan
+automate
+promote doctrine
+```
+
+## 33.6 Final Assembly Verdict
+
+```text
+A08_ASSEMBLY_COMPLETE
+
+SectionsAssembled:
+31. V0.1 Non-Goals
+32. Master Control Ledgers
+33. Final Next Legal Action
+
+OverallAssembly:
+A01_A08_COMPLETE
+
+SpecStatus:
+CANDIDATE_SPEC_ASSEMBLED_IN_CHAT
+
+CurrentMode:
+M0_SPEC
+
+DoctrineStatus:
+NOT_DOCTRINE
+
+ImplementationStatus:
+NO_SCRIPT / NO_TOOL / NO_REPLAY / NO_AUTOMATION
+
+NextRecommendedAction:
+ASSEMBLE_SINGLE_MARKDOWN_FILE_ARTIFACT_FROM_A01_A08
+
+DoesNotProve:
+A01-A08 assembly proves only that the V0.1 candidate specification has been drafted in chat. It does not prove a file artifact exists, implementation exists, fixtures passed, sources are ready, runtime works, automation is safe, mutation is authorized, doctrine is promoted, commit/push is authorized, or the whole house is ready.
+```
+
+Final rope status:
+
+```text
+HOUSE_SEMANTIC_NERVOUS_SYSTEM_READ_ONLY_SPEC_V0_1
+A01_A08_ASSEMBLY_COMPLETE_FOR_FILE_ARTIFACT_OR_M1_FIXTURE_SHAPE_REVIEW_PREP
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

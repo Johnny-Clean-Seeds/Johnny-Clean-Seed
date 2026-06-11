@@ -1,0 +1,7308 @@
+Helper files learning to be a real receptionist
+
+
+
+
+
+
+Yes, but not as one big bite.
+
+The right shape is: **root as the training sandbox, whole project as the later operating model.**
+
+Your instinct is good because the receptionist idea should not stay root-only forever. The whole point is for the house to learn placement, organization, custody, and routing as a general skill. But if we start with “scan and reorganize the whole project,” we create the same monster we are trying to beat: too many rooms, too many files, too much authority confusion, too much chance that a helper mistakes a support note for doctrine or a proof file for an active order.
+
+So I would split it like this.
+
+First, build a **project-wide receptionist rule candidate**, but do not apply it project-wide yet.
+
+That file would teach the behavior:
+
+`HOUSE_RECEPTIONIST_PLACEMENT_AND_CUSTODY_RULE_CANDIDATE_V0_1_20260608`
+
+Its job would be to define how any future receptionist helper thinks:
+
+What is this object?
+What room is it currently in?
+What room does it seem to belong to?
+Is it source, support, proof, receipt, helper, script, raw, old load, system, failed-runner evidence, or unknown?
+What proves that?
+What would be dangerous about moving it?
+Does it need user review?
+Is the proposed placement general rule material or just a one-time decision?
+Action now: always `NO` unless later executor authority exists.
+
+That is the “training manual.”
+
+Second, run the root receptionist as the **first class exercise**.
+
+That would still be the next practical dry-run object:
+
+`ROOT_RECEPTIONIST_PLACEMENT_DRY_RUN_SELECTOR_V0_1_20260608`
+
+It learns from the mess already in front of us. Root is the right first room because it is the exposed intake desk. If the receptionist cannot handle the front counter, it should not be allowed to walk the whole house.
+
+Third, every correction from you becomes a learning row.
+
+That output should feed:
+
+`PLACEMENT_LEARNING_LEDGER_V0_1_20260608`
+
+Example rows:
+
+`PowerShell runner build files` → likely helper/script custody review, not auto-run.
+`Receipt files` → proof/history or receipt lane, not active order.
+`desktop.ini` → leave in place / system metadata candidate.
+`zero-byte old-load-looking file` → not trash by default.
+`Chat Drop helper` → load aid/support, not source authority unless explicitly promoted.
+`active source object` → source custody, no rewrite.
+
+That way the helper files “learn” without inventing. They learn from reviewed tickets.
+
+Fourth, only after root succeeds, expand to **one room at a time**, not the whole project.
+
+The next larger object should not be “whole project route.” It should be:
+
+`HOUSE_RECEPTIONIST_ROOM_SURFACE_INDEX_DRY_RUN_V0_1`
+
+That means: list top-level rooms, classify each room’s purpose, identify room-level intake rules, but do not crawl everything deeply. The current Chat Source rule already says to use `URL -> LEDGER -> MAP -> KEY -> only needed tunnel`, and not load every tunnel by default. That is exactly the anti-bloat principle here. 
+
+So the progression should be:
+
+Root receptionist: file-level tickets for root.
+
+Room surface receptionist: top-level folder purpose map.
+
+Room-by-room receptionist: only one selected room at a time.
+
+Placement learning ledger: generalize approved patterns.
+
+Route executor: only later, only approved rows.
+
+My critique: “make helper files move the root files” is slightly too early. “Make helper files learn how to receive, ticket, classify, and propose placement” is exactly right. Movement is a separate later skill. Receptionist first. Mover second. Janitor much later.
+
+The distinction matters because the current route-plan state explicitly says we are at a clean pause, with no physical route yet, and the next boundary is only a user-approved dry-run selector. The route plan was imported as rough_local pointer truth, but the route plan itself is not route authority. 
+
+The deeper design should be:
+
+The **receptionist helper** learns placement language.
+
+The **room index** learns where things belong.
+
+The **ticket board** records one file’s proposed treatment.
+
+The **learning ledger** records patterns approved by you.
+
+The **executor** later moves only rows that already passed review.
+
+The **stress bench** proves nothing happened early.
+
+So yes, begin making the whole project capable of this, but only by installing the general receptionist brain first and proving it on root. Do not open the whole house crawl yet.
+
+My recommended next object changes slightly:
+
+`HOUSE_RECEPTIONIST_PLACEMENT_AND_CUSTODY_RULE_CANDIDATE_V0_1_20260608`
+
+Then:
+
+`ROOT_RECEPTIONIST_PLACEMENT_DRY_RUN_SELECTOR_V0_1_20260608`
+
+That gives us both: the general helper learning framework, and the small root pilot that tests it.
+
+
+
+
+Yes. After looking at the outside methods, I would **not** jump straight into building the receptionist mover. The smarter order is:
+
+`RESEARCH FIT REPORT -> RECEPTIONIST RULE CANDIDATE -> ROOT PILOT -> LEARNING LEDGER -> ROOM-BY-ROOM EXPANSION -> APPROVED MOVE EXECUTOR`
+
+That matches your “little bit by little bit” instinct better than a whole-house helper crawl.
+
+The current house boundary already agrees with that. Your latest handoff says the route plan is built and stress-benched, but it is **not a route order**, no physical route has happened, and the next step is only a user-approved dry-run selector.  So the research-backed move is to make the dry run smarter, not bigger.
+
+I would call the method:
+
+`RECEPTIONIST-CUSTODY METHOD`
+
+Plain version: every file first goes to a receptionist desk. The receptionist does not move it. It identifies it, gives it a ticket, proposes where it belongs, explains why, records risk, and asks for approval when uncertain. Only later does a separate mover act on approved tickets.
+
+The outside research supports this pretty strongly.
+
+Records-management practice says you do not organize serious records by vibes or filenames alone; you build a file plan. A file plan is a roadmap that says what records exist, where they are stored, how they are stored, and how long they are kept. It gives users a place to file records and a way to find them later. Queen’s University’s records guidance also says records should be classified upon creation or receipt, and that an inventory is the foundation for a good file plan. ([Queen’s University][1])
+
+The strongest records-management point is this: classify by **function**, not just by subject. Function-based file plans organize records by the work process that created or uses them; they tend to be more stable than subject-based or person-based filing, because topics and roles change faster than core functions. ([Queen’s University][1]) That maps almost perfectly to the house: do not ask only “what is this file about?” Ask “what job does this file do?”
+
+Information architecture adds the second piece: use a controlled vocabulary. NN/g describes taxonomy as a backstage metadata structure that supports retrieval through consistent classification terms. It also distinguishes navigation, IA structure, taxonomy, and content models, which matters here because your visible folder tree should not be forced to carry every hidden classification relationship. ([Nielsen Norman Group][2]) In house language: folder path is not the whole truth; the ticket needs metadata too.
+
+For your system, that means the receptionist should not invent new labels every run. It should use a small controlled vocabulary: `SOURCE_AUTHORITY`, `SUPPORT`, `PROOF_HISTORY`, `RECEIPT`, `HELPER_CANDIDATE`, `FAILED_RUNNER_EVIDENCE`, `OLD_LOAD`, `SYSTEM_FILE`, `UNKNOWN`, `BLOCKED`. Synonyms can be mapped later, but the live action terms must stay small.
+
+Personal-information-management research gives the warning. Malone’s classic desk-organization study found that office organization is not only about finding things later; piles also remind people what still needs attention, and categorizing information is cognitively hard. ([ResearchGate][3]) That is the direct reason not to “clean” everything. Some root files are not just clutter. Some are reminders, unresolved work, live intake, or visible pain points. If the receptionist hides them too early, the system loses the signal.
+
+Digital curation adds the custody layer. The Digital Curation Centre describes its lifecycle model as a way to define workflows, roles, responsibilities, and lifecycle actions for managing and preserving data. ([DCC][4]) That supports your receipt/hash/DoesNotProve structure: placement is not just organization; it is custody, preservation, and future retrieval.
+
+Kanban gives the work-control layer. The official Kanban guide frames Kanban as a way to manage knowledge work, visualize invisible work, limit work in progress, and improve through feedback. It explicitly says Kanban is not a big-bang transformation; it uses evolutionary change from the current way of working. ([kanban.university][5]) That is exactly the “bite by bite” part. The receptionist should visualize the file flow and limit how many files become “under decision” at once.
+
+PARA is useful but not enough by itself. Tiago Forte’s PARA method argues for organizing information by projects and goals, not broad school-like subject categories, because actionability matters. ([Forte Labs][6]) That helps your system, but PARA alone is too light for your house because it does not carry enough proof/custody logic. We can borrow its actionability principle without letting it flatten source authority, proof history, helper candidates, and blocked files into vague “resources.”
+
+The Wozniak angle is good as a design spirit, not as a literal file method. Wozniak’s Apple I was small, constrained, and efficient: Smithsonian notes it was designed around affordability by minimizing chip count and outputting video to a TV users already had; Computer History Museum notes the prototype was shown at Homebrew Computer Club before it became a market product. ([National Museum of American History][7]) The lesson for us is: build the smallest working board that teaches the next board. Do not build the whole machine first.
+
+So the best working method for your style is a hybrid:
+
+`RECEPTIONIST = intake triage`
+
+`FILE PLAN = where things belong by function`
+
+`TAXONOMY = controlled labels`
+
+`KANBAN = visible workflow and WIP limit`
+
+`DIGITAL CURATION = custody/proof/lifecycle`
+
+`PIM = do not destroy reminder piles too early`
+
+`WOZ STYLE = smallest elegant working slice first`
+
+The smart order should be this.
+
+Step 1: build a research/fit card, not a helper yet.
+
+Recommended object:
+
+`HOUSE_RECEPTIONIST_METHOD_RESEARCH_AND_FIT_REPORT_V0_1_20260608`
+
+Purpose: prove the method choice before making a new helper rule. It should say what outside methods were used, what was accepted, what was rejected, and how it fits the current house boundary.
+
+Step 2: build a candidate rule, still not doctrine.
+
+Recommended object:
+
+`HOUSE_RECEPTIONIST_PLACEMENT_AND_CUSTODY_RULE_CANDIDATE_V0_1_20260608`
+
+This teaches the receptionist behavior but does not authorize moving files.
+
+Step 3: root pilot only.
+
+Recommended object:
+
+`ROOT_RECEPTIONIST_PLACEMENT_DRY_RUN_SELECTOR_V0_1_20260608`
+
+It reads root, makes placement tickets, checks live deltas, and outputs proposed placement. No moves. No deletes. No routes. No execution. No commit unless a later rough_local import step is approved.
+
+Step 4: user correction pass.
+
+The receptionist output should be reviewed by you. Your corrections become:
+
+`PLACEMENT_LEARNING_LEDGER_V0_1_20260608`
+
+That is where the “learning” really happens. The helper should not pretend it learned from one guess. It learns only after user-reviewed tickets.
+
+Step 5: top-level house surface only.
+
+Recommended object:
+
+`HOUSE_RECEPTIONIST_ROOM_SURFACE_INDEX_DRY_RUN_V0_1_20260608`
+
+This does not crawl the whole project. It only classifies top-level rooms and their expected intake rules.
+
+Step 6: one-room pilot.
+
+Pick one room, probably the safest non-source room. Run the same receptionist method there. Still dry run only.
+
+Step 7: approved-row executor.
+
+Only after repeated tickets are correct do we build a mover. The mover should execute only rows marked approved, hash-matched, still-present, and non-blocked.
+
+The important design rule:
+
+The receptionist must never be the mover.
+
+The receptionist says: “This belongs at the proof desk, I think, because it is a receipt, has a hash, and proves a past action. Confidence 0.82. Action now: NO.”
+
+The mover says later: “User approved row 12. Source hash still matches. Destination exists or is authorized. Move now.”
+
+Those must stay separate.
+
+The most dangerous wrong turn would be making a “smart organizer” that both classifies and moves. That would recreate the exact failure class we have been fighting: helper sees pile, helper gets confident, helper mutates too early.
+
+My recommendation: the next actual work should be the research fit report first, then the receptionist candidate rule. Do not build the dry-run selector until the method card exists, because the method card becomes the receptionist’s training ground.
+
+[1]: https://www.queensu.ca/accessandprivacy/guidance/file-plan "Creating and Maintaining a File Plan | Records Management and Privacy Office"
+[2]: https://www.nngroup.com/articles/taxonomy-101/ "Taxonomy 101: Definition, Best Practices, and How It Complements Other IA Work - NN/G"
+[3]: https://www.researchgate.net/publication/220515815_Malone_T_How_Do_People_Organize_Their_Desks_Implications_for_the_Design_of_Office_Information_Systems_ACM_Transactions_on_Office_Information_Systems_11_99-112 "(PDF) Malone, T.: How Do People Organize Their Desks? Implications for the Design of Office Information Systems. ACM Transactions on Office Information Systems 1(1), 99-112"
+[4]: https://www.dcc.ac.uk/guidance/curation-lifecycle-model "Curation Lifecycle Model | DCC"
+[5]: https://kanban.university/kanban-guide/ "The Official Guide to The Kanban Method | Kanban University"
+[6]: https://fortelabs.com/blog/para/ "The PARA Method: The Simple System for Organizing Your Digital Life in Seconds"
+[7]: https://americanhistory.si.edu/collections/nmah_1692121?utm_source=chatgpt.com "Apple I Microcomputer | National Museum of American History"
+
+
+
+
+Yes. This is the correct moment to slow down and make the method itself into an index before building more helpers.
+
+My 33rd-pass verdict: **the best outside match is not “AI file organizer.” It is “intake triage + records file plan + controlled vocabulary + Kanban WIP + custody lifecycle + ADR decision log,” wrapped in your house style.** The receptionist should become the front-desk role of the whole file-house, but it must be trained first in a small pilot, not unleashed across the whole project.
+
+The research supports that order. Function-based file plans classify records by the work process that created or uses them, not by vague subject or creator, and are described as more stable because functions change less often than topics or positions. That means our receptionist should ask “what job does this file do?” before “what is this file named?” ([Queen’s University][1]) Taxonomy work adds that labels must be controlled, not invented freely each time; NN/g defines taxonomies as controlled vocabularies with a limited set of acceptable terms used to classify content. ([Nielsen Norman Group][2]) Digital curation adds lifecycle thinking: workflows, roles, responsibilities, preservation, and management across operational units. ([DCC][3])
+
+Kanban gives the “little bit by little bit” working order. The official Kanban guide says Kanban is applied on top of the current way of working, not as a big-bang replacement, and uses evolutionary change from the current state. ([kanban.university][4]) It also says policies should be sparse, simple, visible, always applied, and changeable by the people doing the work; that is exactly how the receptionist rules should be written. ([kanban.university][4]) Personal Kanban compresses this further into two rules: visualize work and limit work in progress. ([Personal Kanban][5])
+
+The “messy desk” research gives a critical warning: piles are not always junk; they often act as reminders of work still needing attention, and categorization itself is cognitively hard. ([ResearchGate][6]) That fits your house: root files may be loose because they are unresolved, intake, evidence, failed tools, or decision pressure. A receptionist must not hide pain signals too early.
+
+The Wozniak lesson is also useful: the Apple I worked because it was small, simple, affordable, and used what people already had, like a TV for video output. ([National Museum of American History][7]) Computer History Museum notes Wozniak showed the Apple-1 prototype at Homebrew before it became a broader product. ([CHM][8]) For us, that means: build the smallest useful receptionist desk first, prove it in root, then expand. Do not build the whole command center in one gulp.
+
+House fit: the current Chat Source already says to reduce chat load to `URL -> LEDGER -> MAP -> KEY -> only needed tunnel`, and to carry one active object, one source/proof pointer, and one next condition.  The current pause point also says the next boundary is only a user-approved dry-run selector, with no route executor, cleanup, move, delete, rename, push, or script execution.  The mule issue ledger reinforces one active object, helper preflight, receipts as proof not orders, load-surface checks, visible final returns, and blocked actions staying blocked unless explicitly approved. 
+
+So the method should be named:
+
+`HOUSE RECEPTIONIST CUSTODY METHOD`
+
+Not “organizer.” Not “cleaner.” Not “mover.” Receptionist.
+
+The receptionist receives files, identifies them, tickets them, proposes placement, records risk, asks for review, and learns from corrections. It does not move files.
+
+# HOUSE RECEPTIONIST CUSTODY METHOD — INDEX AND PLANNER GUIDE V0.1
+
+Status: RESEARCH_FIT_INDEX / PLANNER_GUIDE / NOT_DOCTRINE / NOT_EXECUTION_AUTHORITY
+
+## 0. Current Working Position
+
+Current mode:
+
+PAUSED AT CLEAN ROUTE-PLAN BOUNDARY
+
+Current next boundary:
+
+USER_APPROVED_ROOT_HELD_GROUP_ROUTE_DRY_RUN_SELECTOR_20260608
+
+No physical route has happened.
+
+Blocked until later explicit approval:
+
+* move
+* delete
+* rename
+* route
+* cleanup
+* execute
+* push
+* source rewrite
+* doctrine promotion
+* full evidence import
+* treating route plan as action authority
+
+The next useful development is not a mover.
+
+The next useful development is a receptionist method.
+
+## 1. Core Idea
+
+The file-house needs a front desk.
+
+The receptionist receives every loose or incoming object and asks:
+
+What is this?
+What job does it do?
+What proves it?
+What owns it?
+Where does it appear to belong?
+What would be dangerous about moving it?
+Does the user need to decide?
+What is the next legal action?
+Is action allowed now?
+
+Default answer:
+
+ACTION_NOW = NO
+
+## 2. Method Name
+
+HOUSE_RECEPTIONIST_CUSTODY_METHOD
+
+Plain-language meaning:
+
+A controlled intake, classification, ticketing, and learning method for deciding where files belong before any movement is authorized.
+
+## 3. Outside Method Stack
+
+The method borrows from:
+
+1. Records management file plans.
+2. Function-based classification.
+3. Information architecture and controlled vocabulary.
+4. Digital curation lifecycle.
+5. Kanban / Personal Kanban.
+6. Personal information management / messy desk research.
+7. Architectural Decision Records.
+8. Wozniak-style small working slice first.
+
+House translation:
+
+* File plan = room plan.
+* Function classification = what job the file does.
+* Taxonomy = controlled house labels.
+* Curation lifecycle = custody path.
+* Kanban = visible ticket board and WIP limit.
+* Messy desk = do not destroy reminder piles too early.
+* ADR = decision record for structural rules.
+* Woz style = smallest useful machine first.
+
+## 4. The Receptionist Is Not the Mover
+
+Hard separation:
+
+RECEPTIONIST:
+Receives, classifies, tickets, proposes, blocks, asks.
+
+MOVER:
+Moves only approved rows later.
+
+JANITOR:
+Cleanup only after custody, routing, proof, and explicit authority.
+
+Current stage:
+
+RECEPTIONIST ONLY
+
+## 5. Core Object Types
+
+Use controlled labels only.
+
+Primary role labels:
+
+* SOURCE_AUTHORITY_CANDIDATE
+* CURRENT_SOURCE
+* SUPPORT_GUARDRAIL
+* HELPER_CANDIDATE
+* EXECUTABLE_HELPER_REVIEW_REQUIRED
+* PROOF_HISTORY
+* RECEIPT
+* LEDGER
+* FAILED_RUNNER_EVIDENCE
+* ERROR_FREEZE
+* FIX_NOTE
+* RAW_SOURCE
+* ROUGH_STATE
+* CHAT_DROP_HELPER
+* SYSTEM_FILE_LEAVE_IN_PLACE
+* OLD_LOAD_OR_SUPERSEDED
+* UNKNOWN_NEEDS_USER
+* BLOCKED_DO_NOT_TOUCH
+
+No freeform promotion labels unless they go into a candidate/experimental field.
+
+## 6. Core State Labels
+
+Every file gets a state.
+
+* VERIFIED_PRESENT
+* MISSING_AT_REVIEW
+* HASH_MATCHED
+* HASH_CHANGED
+* NEW_SINCE_LAST_SNAPSHOT
+* REPORTED_NOT_VERIFIED
+* POINTER_ONLY
+* SUPERSEDED_BUT_PRESERVED
+* HELD_PENDING_REVIEW
+* BLOCKED_PENDING_AUTHORITY
+* USER_DECISION_REQUIRED
+
+## 7. Core Movement Labels
+
+Movement labels must not authorize movement by themselves.
+
+* PROPOSE_LEAVE_IN_PLACE
+* PROPOSE_ROUTE_LATER
+* PROPOSE_INDEX_AS_PROOF_HISTORY
+* PROPOSE_KEEP_IN_ROUGH_STATE
+* PROPOSE_REVIEW_AS_HELPER
+* PROPOSE_REVIEW_AS_SOURCE
+* PROPOSE_KEEP_AS_SUPPORT
+* PROPOSE_BLOCK
+* PROPOSE_USER_DECISION
+
+Required field:
+
+ACTION_NOW = NO
+
+Only a later executor may use:
+
+ACTION_APPROVED = YES
+
+## 8. Ticket Fields
+
+Each receptionist ticket should include:
+
+* Ticket ID
+* File name
+* Current path
+* SHA256
+* Size
+* Extension
+* Last modified time
+* Observed signals
+* Inferred role
+* Current state
+* Proposed destination or holding lane
+* Reason for proposal
+* Confidence
+* Risk
+* Proof needed
+* User decision needed
+* Blockers
+* Action now
+* DoesNotProve
+
+## 9. Confidence Scale
+
+Use simple confidence, not fake certainty.
+
+HIGH:
+Strong filename + hash + known pattern + expected location + matching prior ledger.
+
+MEDIUM:
+Some evidence fits, but source/role needs review.
+
+LOW:
+Filename suggests something, but proof is weak.
+
+UNKNOWN:
+Hold and ask. Do not force placement.
+
+## 10. Risk Scale
+
+LOW:
+Support note, duplicate pointer, already classified proof, no execution risk.
+
+MEDIUM:
+Helper candidate, generated script, source-looking file, old load, rough-state object.
+
+HIGH:
+Executable, active source, cleanup script, Git-affecting script, delete/move tool, raw evidence, anything with unclear authority.
+
+BLOCK:
+System metadata, unknown executable, hash mismatch, source rewrite risk, cleanup/delete route, user-approval boundary missing.
+
+## 11. Receptionist Workflow
+
+Step 1:
+Read current boundary.
+
+Step 2:
+Verify one active object.
+
+Step 3:
+Read helper preflight files.
+
+Step 4:
+Read current route/ledger/pause point.
+
+Step 5:
+Snapshot target surface.
+
+Step 6:
+Hash files.
+
+Step 7:
+Classify by function, not name alone.
+
+Step 8:
+Generate ticket board.
+
+Step 9:
+Mark all action_now as NO.
+
+Step 10:
+Generate receipt and stress bench.
+
+Step 11:
+Ask user for review/corrections.
+
+Step 12:
+Convert approved corrections into placement learning ledger rows.
+
+## 12. Root Pilot
+
+First practical pilot:
+
+ROOT_RECEPTIONIST_PLACEMENT_DRY_RUN_SELECTOR_V0_1_20260608
+
+Scope:
+
+Root only.
+
+Purpose:
+
+Turn current route-plan dry-run into receptionist training tickets.
+
+Output:
+
+* root file ticket board
+* receipt
+* stress bench
+* no physical action
+
+Blocked:
+
+* no move
+* no delete
+* no rename
+* no route
+* no execution
+* no push
+* no final destination creation
+* no doctrine promotion
+
+## 13. Learning Ledger
+
+After user review, corrections go into:
+
+PLACEMENT_LEARNING_LEDGER_V0_1_20260608
+
+Learning row fields:
+
+* Pattern ID
+* Original file signal
+* Proposed role
+* User correction
+* Final accepted role
+* Accepted destination lane
+* Reason
+* Counterexample
+* Rule candidate
+* Promotion state
+
+Promotion states:
+
+* OBSERVED_ONCE
+* REPEATED_PATTERN
+* USER_CONFIRMED
+* RULE_CANDIDATE
+* ACTIVE_RECEPTIONIST_RULE
+* REJECTED_PATTERN
+
+## 14. House-Wide Expansion Plan
+
+Do not crawl the whole project first.
+
+Expansion order:
+
+1. Root receptionist pilot.
+2. Root learning ledger.
+3. Top-level room surface index.
+4. One safe room pilot.
+5. Second room pilot.
+6. Compare room patterns.
+7. Promote repeated patterns only.
+8. Build approved-row route executor later.
+
+First house-wide object should be shallow:
+
+HOUSE_RECEPTIONIST_ROOM_SURFACE_INDEX_DRY_RUN_V0_1
+
+Scope:
+
+Top-level rooms only.
+
+Purpose:
+
+Classify folders/rooms, not all contents.
+
+## 15. Room Surface Fields
+
+Each top-level room gets:
+
+* Room name
+* Path
+* Expected function
+* Current visible signals
+* Known authority level
+* Allowed object types
+* Blocked object types
+* Intake rule
+* Exit rule
+* Proof requirement
+* Review frequency
+* User decision needed
+
+## 16. Receptionist Board Columns
+
+Use a visible Kanban-style board:
+
+NEW_AT_DESK
+IDENTIFIED
+NEEDS_PROOF
+NEEDS_USER
+PROPOSED_PLACEMENT
+APPROVED_FOR_LATER
+BLOCKED
+DONE_AS_TICKET_ONLY
+
+WIP rule:
+
+Only one active surface at a time.
+
+Recommended starting WIP:
+
+* 1 active room
+* 1 active ticket board
+* 0 physical movement
+
+## 17. ADR / Decision Record Rule
+
+Any structural rule change gets a decision record.
+
+ADR fields:
+
+* Decision ID
+* Context
+* Decision
+* Alternatives rejected
+* Consequences
+* Proof needed
+* Supersedes
+* DoesNotProve
+
+Examples requiring ADR:
+
+* adopting the receptionist method
+* separating receptionist from mover
+* defining controlled labels
+* allowing rough_local pointer import
+* creating a new room
+* changing default routing rules
+
+## 18. 33rd Triple Pass Method
+
+Pass 1 — Walls Pass:
+Check boundaries, labels, allowed actions, blocked actions, and current authority.
+
+Question:
+What walls stop damage?
+
+Pass 2 — Roof Pass:
+Check purpose, structure, room map, file plan, taxonomy, and workflow.
+
+Question:
+What roof gives the system shape?
+
+Pass 3 — Upside-Down Pass:
+Attack assumptions, find drift, test counterexamples, look for files that should not be moved, and identify false confidence.
+
+Question:
+What breaks if the receptionist is wrong?
+
+33rd Pass — Synthesis:
+Collapse the three passes into one next action.
+
+Question:
+What is the smallest safe move that teaches the most?
+
+## 19. Best Next Build Order
+
+Recommended sequence:
+
+1. HOUSE_RECEPTIONIST_METHOD_RESEARCH_AND_FIT_REPORT_V0_1_20260608
+2. HOUSE_RECEPTIONIST_PLACEMENT_AND_CUSTODY_RULE_CANDIDATE_V0_1_20260608
+3. ROOT_RECEPTIONIST_PLACEMENT_DRY_RUN_SELECTOR_V0_1_20260608
+4. PLACEMENT_LEARNING_LEDGER_V0_1_20260608
+5. HOUSE_RECEPTIONIST_ROOM_SURFACE_INDEX_DRY_RUN_V0_1
+6. FIRST_ROOM_RECEPTIONIST_DRY_RUN_SELECTOR
+7. APPROVED_ROW_ROUTE_EXECUTOR_CANDIDATE
+
+## 20. Current Verdict
+
+The receptionist method is the right next conceptual move.
+
+But the first build should not be the mover.
+
+The first build should be the method fit report and rule candidate.
+
+Final scoped verdict:
+
+RECEPTIONIST_METHOD_IS_READY_FOR_RESEARCH_FIT_REPORT_AND_RULE_CANDIDATE_NOT_READY_FOR_PHYSICAL_ROUTING
+
+The 33rd-pass synthesis is this:
+
+Pass 1, walls: the current boundary forbids movement, cleanup, execution, push, and route authority. So the next object must be non-mutating.
+
+Pass 2, roof: the research says organization should be function-based, label-controlled, visible, WIP-limited, and lifecycle-aware.
+
+Pass 3, upside-down: the danger is an “AI organizer” that becomes overconfident and moves evidence, source, system files, or unresolved reminders too early.
+
+33rd pass: build the **method card first**, then the **rule candidate**, then the **root receptionist dry run**.
+
+Recommended immediate next object:
+
+`HOUSE_RECEPTIONIST_METHOD_RESEARCH_AND_FIT_REPORT_V0_1_20260608`
+
+After that:
+
+`HOUSE_RECEPTIONIST_PLACEMENT_AND_CUSTODY_RULE_CANDIDATE_V0_1_20260608`
+
+Then, and only then:
+
+`ROOT_RECEPTIONIST_PLACEMENT_DRY_RUN_SELECTOR_V0_1_20260608`
+
+That is the smartest working order. It keeps the Woz bite-size build style, but it also keeps the custody walls up.
+
+[1]: https://www.queensu.ca/accessandprivacy/guidance/file-plan "Creating and Maintaining a File Plan | Records Management and Privacy Office"
+[2]: https://www.nngroup.com/articles/taxonomy-101/ "Taxonomy 101: Definition, Best Practices, and How It Complements Other IA Work - NN/G"
+[3]: https://www.dcc.ac.uk/guidance/curation-lifecycle-model "Curation Lifecycle Model | DCC"
+[4]: https://kanban.university/kanban-guide/ "The Official Guide to The Kanban Method | Kanban University"
+[5]: https://personalkanban.com/ "Welcome - Personal Kanban"
+[6]: https://www.researchgate.net/publication/220515815_Malone_T_How_Do_People_Organize_Their_Desks_Implications_for_the_Design_of_Office_Information_Systems_ACM_Transactions_on_Office_Information_Systems_11_99-112 "(PDF) Malone, T.: How Do People Organize Their Desks? Implications for the Design of Office Information Systems. ACM Transactions on Office Information Systems 1(1), 99-112"
+[7]: https://americanhistory.si.edu/collections/nmah_1692121 "Apple I Microcomputer | National Museum of American History"
+[8]: https://www.computerhistory.org/revolution/personal-computers/17/312 "
+  The Homebrew Computer Club - CHM Revolution  "
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+The master plan should sit above the future helper files. It should not be an executor, route order, or cleanup order. I’m anchoring it to the current pause point: the route plan is built, stress-benched, and imported as rough_local pointer truth, but no physical route has happened; the next boundary is a user-approved dry-run selector only.  The supporting rules are: one active object, helper preflight, receipts are proof not orders, blocked actions stay blocked, and final verdicts must stay scoped.  The living-system principle stays “URL -> LEDGER -> MAP -> KEY -> only needed tunnel,” with one active object, one source/proof pointer, and one next condition. 
+
+# HOUSE RECEPTIONIST MASTER PLAN V0.1
+
+Status: MASTER PLAN / PLANNER GUIDE / NOT DOCTRINE / NOT EXECUTION AUTHORITY / NOT CLEANUP ORDER
+
+## 1. Master Purpose
+
+The purpose of the House Receptionist system is to teach the project how to receive, identify, classify, ticket, and propose placement for files before any movement happens.
+
+The goal is not to clean the project fast.
+
+The goal is to make the project safer, more legible, and easier to work without losing custody, proof, source authority, or user control.
+
+The receptionist is the front desk of the house.
+
+It does not move files.
+It does not delete files.
+It does not execute helper scripts.
+It does not promote doctrine.
+It does not rewrite source.
+It does not push.
+It does not treat plans as permission.
+
+It receives the file, asks what job the file does, records what is known, proposes where it may belong, and waits for approval.
+
+## 2. Current Position
+
+Current project mode:
+
+PAUSED CLEAN AT ROUTE-PLAN BOUNDARY
+
+Current next boundary:
+
+USER_APPROVED_ROOT_HELD_GROUP_ROUTE_DRY_RUN_SELECTOR_20260608
+
+Current meaning:
+
+The system has a route plan.
+The route plan is not a route order.
+No physical routing has happened.
+The next allowed step is only a dry-run selector, and only after user approval.
+
+This master plan does not override that boundary.
+
+## 3. Core Philosophy
+
+The house should work by controlled learning, not by forced cleanup.
+
+The file pile is not automatically trash.
+Loose files may be intake, proof, reminders, source candidates, failed-runner evidence, helper candidates, rough state, or unresolved decisions.
+
+A smart system should not hide pain signals too early.
+
+The right order is:
+
+See.
+Name.
+Ticket.
+Propose.
+Review.
+Learn.
+Then maybe move.
+
+## 4. The Main Distinction
+
+The receptionist, mover, and janitor are separate roles.
+
+The receptionist identifies and proposes.
+
+The mover acts only on approved rows.
+
+The janitor cleans only after custody, routing, proof, and explicit cleanup authority exist.
+
+Current stage:
+
+RECEPTIONIST ONLY
+
+The receptionist must never become the mover by accident.
+
+## 5. System Metaphor
+
+The house is not a pile. It is a living operating system.
+
+Front Door gives entry scent.
+Ledger gives state.
+Map gives relation.
+Key gives permission language.
+Toolbelt chooses method.
+Proof Room preserves trust.
+Crime Scene captures failure.
+Smoke Break resets orientation.
+Creative Room creates candidate ideas.
+Final Judge decides fit, block, park, or proceed.
+
+The receptionist stands at the Front Door.
+
+It asks:
+
+What came in?
+What does it smell like?
+What state is it in?
+What does it connect to?
+What rules control it?
+What proof exists?
+What risk exists?
+What should happen next?
+Who must decide?
+
+## 6. Primary Rule
+
+Every file gets a ticket before it gets a move.
+
+A file ticket is a custody object.
+
+It should record:
+
+File name.
+Current path.
+Hash if available.
+Size.
+Type.
+Observed signals.
+Inferred role.
+Current state.
+Possible room.
+Reason.
+Risk.
+Confidence.
+Proof needed.
+User decision needed.
+Blocked actions.
+Action now.
+
+Default action:
+
+ACTION_NOW = NO
+
+## 7. Core Labels
+
+The receptionist must use a controlled vocabulary.
+
+Primary role labels:
+
+SOURCE_AUTHORITY_CANDIDATE
+CURRENT_SOURCE
+SUPPORT_GUARDRAIL
+HELPER_CANDIDATE
+EXECUTABLE_HELPER_REVIEW_REQUIRED
+PROOF_HISTORY
+RECEIPT
+LEDGER
+FAILED_RUNNER_EVIDENCE
+ERROR_FREEZE
+FIX_NOTE
+RAW_SOURCE
+ROUGH_STATE
+CHAT_DROP_HELPER
+SYSTEM_FILE_LEAVE_IN_PLACE
+OLD_LOAD_OR_SUPERSEDED
+UNKNOWN_NEEDS_USER
+BLOCKED_DO_NOT_TOUCH
+
+The receptionist may explain nuance in notes, but the action labels must stay controlled.
+
+No new live label should be invented casually.
+
+## 8. Core State Labels
+
+Every ticket needs a state.
+
+VERIFIED_PRESENT
+MISSING_AT_REVIEW
+HASH_MATCHED
+HASH_CHANGED
+NEW_SINCE_LAST_SNAPSHOT
+REPORTED_NOT_VERIFIED
+POINTER_ONLY
+SUPERSEDED_BUT_PRESERVED
+HELD_PENDING_REVIEW
+BLOCKED_PENDING_AUTHORITY
+USER_DECISION_REQUIRED
+
+The state label is not a move instruction.
+
+It only says what kind of custody fact exists.
+
+## 9. Core Proposal Labels
+
+The receptionist may propose, not act.
+
+Allowed proposal labels:
+
+PROPOSE_LEAVE_IN_PLACE
+PROPOSE_ROUTE_LATER
+PROPOSE_INDEX_AS_PROOF_HISTORY
+PROPOSE_KEEP_IN_ROUGH_STATE
+PROPOSE_REVIEW_AS_HELPER
+PROPOSE_REVIEW_AS_SOURCE
+PROPOSE_KEEP_AS_SUPPORT
+PROPOSE_BLOCK
+PROPOSE_USER_DECISION
+
+No proposal may become movement authority by itself.
+
+## 10. Authority Rules
+
+The house follows authority layers.
+
+Source authority is not the same as support.
+Support is not doctrine.
+Receipts are proof, not orders.
+Git is not the whole truth.
+Chat Drop is not source authority.
+Rough_local is pointer truth, not full evidence custody.
+A route plan is not a route order.
+A helper candidate is not executable just because it exists.
+A cleanup-looking file is not cleanup authority.
+A zero-byte file is not trash by default.
+A system-looking file is not safe to delete by default.
+
+## 11. Chat Drop Rules
+
+There are two required Chat Drop locations by default:
+
+C:\Users\13527\Desktop\123\Chat Drop
+
+C:\Users\13527\Desktop\Chat Drop
+
+ASSISTANT_LOCAL is not a required third mirror unless explicitly re-authorized.
+
+Old three-copy language is superseded.
+
+Current top-level Chat Drop helpers should be loaded before helper decisions.
+
+Old loads, sync reports, cleanup reports, receipt folders, workshop folders, and legacy auxiliary areas are not loaded by default.
+
+## 12. Receptionist Learning Rule
+
+The receptionist does not truly learn from its own guess.
+
+It learns from reviewed tickets.
+
+The learning cycle is:
+
+Receptionist proposes.
+User corrects.
+Correction is recorded.
+Repeated correction becomes a pattern.
+Pattern becomes a rule candidate.
+Rule candidate becomes active only after review.
+
+This prevents fake learning.
+
+## 13. Placement Learning Ledger
+
+Corrections should be stored in a placement learning ledger.
+
+Each learning row should capture:
+
+Pattern.
+Original guess.
+User correction.
+Accepted role.
+Accepted holding lane.
+Reason.
+Counterexample.
+Risk note.
+Promotion state.
+
+Promotion states:
+
+OBSERVED_ONCE
+REPEATED_PATTERN
+USER_CONFIRMED
+RULE_CANDIDATE
+ACTIVE_RECEPTIONIST_RULE
+REJECTED_PATTERN
+
+No single example should become broad law by itself.
+
+## 14. 33rd Triple Pass Method
+
+Every major receptionist method pass uses three checks and one synthesis.
+
+Walls Pass:
+
+Find what must not happen.
+Check authority, blocks, stale rules, unsafe assumptions, and user-approval boundaries.
+
+Roof Pass:
+
+Find the structure.
+Check purpose, labels, rooms, flow, relation, and proof needs.
+
+Upside-Down Pass:
+
+Attack the plan.
+Ask what breaks if the receptionist is wrong.
+Look for false confidence, hidden source authority, proof drag, stale labels, accidental cleanup, and movement-by-proposal.
+
+33rd Pass:
+
+Collapse the three passes into the smallest safe next move.
+
+The 33rd-pass question is:
+
+What is the smallest move that teaches the most without breaking custody?
+
+## 15. Working Order
+
+The master working order is:
+
+Research fit.
+Rule candidate.
+Root pilot.
+User correction.
+Learning ledger.
+Room surface index.
+One-room pilot.
+Second-room pilot.
+Pattern comparison.
+Approved-row executor candidate.
+Only later cleanup.
+
+The system should grow one proven bite at a time.
+
+## 16. Phase 1 — Method Fit
+
+Object:
+
+HOUSE_RECEPTIONIST_METHOD_RESEARCH_AND_FIT_REPORT_V0_1_20260608
+
+Purpose:
+
+Explain why the receptionist method fits the house.
+
+This phase captures the outside-method stack:
+
+Records management.
+Function-based file plans.
+Controlled vocabulary.
+Information architecture.
+Digital curation.
+Kanban.
+Personal information management.
+Decision records.
+Woz-style small working slice.
+
+Output:
+
+Method fit report.
+Accepted principles.
+Rejected shortcuts.
+House translation.
+DoesNotProve.
+
+This phase creates no mover and no execution authority.
+
+## 17. Phase 2 — Rule Candidate
+
+Object:
+
+HOUSE_RECEPTIONIST_PLACEMENT_AND_CUSTODY_RULE_CANDIDATE_V0_1_20260608
+
+Purpose:
+
+Define how the receptionist thinks.
+
+It should describe:
+
+Labels.
+Ticket fields.
+Risk scale.
+Confidence scale.
+Blocked actions.
+Learning loop.
+Review loop.
+Promotion path.
+
+It should remain candidate guidance until accepted.
+
+It must not be doctrine on creation.
+
+## 18. Phase 3 — Root Pilot
+
+Object:
+
+ROOT_RECEPTIONIST_PLACEMENT_DRY_RUN_SELECTOR_V0_1_20260608
+
+Purpose:
+
+Use the root as the training desk.
+
+Root is the correct first pilot because it is the visible intake surface and current pressure point.
+
+This phase should:
+
+Read root.
+Detect live deltas.
+Hash files.
+Classify files.
+Create tickets.
+Propose placement.
+Mark all action_now as NO.
+Create receipt.
+Create stress bench.
+
+This phase must not:
+
+Move.
+Delete.
+Rename.
+Route.
+Execute.
+Create final destination folders.
+Commit unless a separate rough_local import is later approved.
+Push.
+
+## 19. Phase 4 — User Review
+
+Object:
+
+ROOT_RECEPTIONIST_USER_REVIEW_AND_CORRECTION_PASS_V0_1
+
+Purpose:
+
+Let the user correct the receptionist.
+
+The user decides which proposed labels fit, which are wrong, which need holding, and which require a new rule candidate.
+
+This phase should be treated as learning, not annoyance.
+
+The user’s correction is the training signal.
+
+## 20. Phase 5 — Placement Learning Ledger
+
+Object:
+
+PLACEMENT_LEARNING_LEDGER_V0_1_20260608
+
+Purpose:
+
+Capture reviewed placement patterns.
+
+This becomes the memory of what the receptionist has learned.
+
+It should not become bloated.
+
+It should preserve clean rows and counterexamples.
+
+It should mark which rules are only observed, which are user-confirmed, and which are active.
+
+## 21. Phase 6 — House Room Surface Index
+
+Object:
+
+HOUSE_RECEPTIONIST_ROOM_SURFACE_INDEX_DRY_RUN_V0_1
+
+Purpose:
+
+Classify top-level rooms without crawling the whole house.
+
+This phase asks:
+
+What rooms exist?
+What does each room do?
+What belongs there?
+What should never go there?
+What proof is needed?
+What exit path exists?
+What intake path exists?
+What helper controls it?
+
+This phase must be shallow.
+
+No deep crawl.
+No broad route.
+No cleanup.
+
+## 22. Phase 7 — One-Room Pilot
+
+Object:
+
+FIRST_ROOM_RECEPTIONIST_DRY_RUN_SELECTOR_V0_1
+
+Purpose:
+
+Test the method inside one safe room after root.
+
+The first room should be low-risk and non-source-heavy.
+
+The goal is to test whether the root receptionist rules transfer to a room without causing bloat or false confidence.
+
+This phase should still be dry run only.
+
+## 23. Phase 8 — Pattern Comparison
+
+Object:
+
+RECEPTIONIST_PATTERN_COMPARISON_AND_RULE_PROMOTION_REVIEW_V0_1
+
+Purpose:
+
+Compare root patterns and room patterns.
+
+Promote only repeated, reviewed patterns.
+
+Block patterns that worked in root but fail in rooms.
+
+Keep counterexamples.
+
+Do not generalize too fast.
+
+## 24. Phase 9 — Approved-Row Executor Candidate
+
+Object:
+
+APPROVED_ROW_ROUTE_EXECUTOR_CANDIDATE_V0_1
+
+Purpose:
+
+Only after the receptionist method is stable, create a separate mover candidate.
+
+The executor must act only on rows that are:
+
+User approved.
+Hash matched.
+Still present.
+Non-blocked.
+Destination approved.
+Scope matched.
+Stress-bench ready.
+
+The executor is not allowed to decide placement.
+
+It only performs approved placement.
+
+## 25. Phase 10 — Cleanup Later
+
+Cleanup is a later discipline.
+
+Cleanup can happen only after:
+
+Custody is known.
+Placement is reviewed.
+Proof is preserved.
+Source authority is protected.
+Route executor has passed.
+User has approved cleanup scope.
+
+Cleanup is not part of the receptionist system.
+
+The receptionist may identify cleanup candidates, but it may not clean.
+
+## 26. Risk Controls
+
+The master risk controls are:
+
+One active object.
+No side quests.
+No movement by proposal.
+No receipt collapse.
+No support-to-doctrine promotion.
+No helper execution by existence.
+No broad crawl by default.
+No old-load deletion.
+No system-file deletion.
+No zero-byte deletion by assumption.
+No Git push by default.
+No full evidence import by default.
+No stale helper guidance.
+No invisible success.
+No unscoped final verdict.
+
+## 27. Hidden Failure Patterns
+
+Watch these closely:
+
+Receptionist becomes mover.
+Ticket board becomes action order.
+Route plan becomes route authority.
+Rough_local becomes fake full custody.
+Proof becomes live-carry bloat.
+Labels multiply until useless.
+Room map turns into whole-house crawl.
+User correction gets ignored.
+One example becomes doctrine.
+Old helper guidance stays active after supersession.
+Cleanup sneaks in as “organization.”
+Executor starts making decisions.
+
+Any of these should trigger a stop.
+
+## 28. Success Definition
+
+The receptionist system succeeds when:
+
+Every incoming or loose file can be ticketed.
+The ticket says what is known and not known.
+The ticket separates role, state, risk, and proposal.
+The user can correct the ticket.
+Corrections become learning rows.
+Repeated patterns become rules.
+Rules stay bounded.
+Movement stays separate.
+Proof stays preserved.
+The house becomes easier to navigate without becoming heavier to carry.
+
+## 29. Operating Motto
+
+Maximum reach.
+Minimum carry.
+
+All rooms available.
+One room active.
+
+All tools available.
+One toolbelt worn.
+
+All proof preserved.
+One proof pointer carried.
+
+All ideas available.
+One current frame.
+
+Every file gets a desk before it gets a destination.
+
+## 30. Current Final Verdict
+
+The House Receptionist method is the right next master direction.
+
+It should become the planner above future helper files.
+
+It is ready for a research-fit report and rule-candidate build.
+
+It is not ready for physical routing.
+
+Final scoped verdict:
+
+HOUSE_RECEPTIONIST_MASTER_PLAN_READY_AS_PLANNER_GUIDE_NOT_EXECUTION_AUTHORITY
+
+Clean critique: this plan is strong only if we keep the receptionist weak on purpose at first. The moment it gets permission to both classify and move, it becomes the same unsafe organizer we have been trying to prevent.
+
+
+
+
+The problem with the last version: it named the receptionist, but it did not fully build the **operating spine**. It gave labels, but not enough room logic, promotion logic, failure logic, or walk order.
+
+This is **Batch 1**. It locks the conceptual foundation and the first 33rd triple-pass walk set. No code. No executor. No cleanup. No route order.
+
+The outside research supports a controlled, incremental method: function-based file plans classify by the work a record does, not just its topic or creator; controlled vocabularies keep labels from drifting; curation lifecycle thinking keeps custody/proof across time; Kanban limits work in progress; ADRs preserve major decision context and consequences; sensemaking theory says data and frames adjust each other, which matches your “house learns from the file surface” idea. ([Queen’s University][1])
+
+The current house material already demands the same direction: one active object, helper preflight, receipts as proof not orders, blocked actions staying blocked, and no broad crawl. The current route-plan boundary also says the next thing is not a route executor, cleanup, move, delete, rename, push, or script execution; it is only a dry-run selector after explicit approval.   The chat-source rule says the house should enter through `URL -> LEDGER -> MAP -> KEY -> only needed tunnel`, carry one active object, one source/proof pointer, and one next condition, and avoid whole-house crawl. 
+
+# HOUSE RECEPTIONIST MASTER PLAN — BATCH 1
+
+## Method Spine, 33rd Triple-Pass Walk Set, and No-Drift Planner Guide
+
+Status: MASTER PLAN BATCH 1 / METHOD SPINE / PLANNER GUIDE / NOT DOCTRINE / NOT EXECUTION AUTHORITY / NOT CLEANUP ORDER / NOT ROUTE ORDER
+
+## 0. Current Lock Point
+
+Current position:
+
+PAUSED CLEAN AT ROUTE-PLAN BOUNDARY
+
+Current boundary:
+
+USER_APPROVED_ROOT_HELD_GROUP_ROUTE_DRY_RUN_SELECTOR_20260608
+
+Current meaning:
+
+The house has a route plan.
+The route plan is not a route order.
+The route plan does not authorize movement.
+The route plan does not authorize cleanup.
+The route plan does not authorize deletion.
+The route plan does not authorize execution.
+The route plan does not authorize push.
+The route plan does not authorize doctrine promotion.
+
+The next real technical step, when approved, is dry-run only.
+
+This master plan does not override the current boundary.
+
+## 1. Why the Receptionist Exists
+
+The project problem is not “files are messy.”
+
+The real problem is authority confusion.
+
+A loose file can be:
+
+source,
+support,
+proof,
+receipt,
+helper,
+failed-runner evidence,
+old load,
+system file,
+rough state,
+raw source,
+candidate rule,
+stale copy,
+live guide,
+or unknown.
+
+If a helper sees all files as “things to organize,” it will eventually damage the house.
+
+The receptionist exists to stop that.
+
+The receptionist receives files before action.
+The receptionist gives every file a desk.
+The receptionist makes the file explain its role.
+The receptionist records uncertainty.
+The receptionist proposes placement.
+The receptionist does not move.
+
+The receptionist is the front-desk intelligence layer between intake and action.
+
+## 2. The Main Principle
+
+Every object must pass through custody before placement.
+
+The order is:
+
+RECEIVE
+IDENTIFY
+CLASSIFY
+TICKET
+PROPOSE
+REVIEW
+LEARN
+APPROVE
+ONLY THEN MAYBE MOVE
+
+Any system that skips from IDENTIFY to MOVE is unsafe.
+
+Any system that skips REVIEW is fake learning.
+
+Any system that treats PROPOSE as APPROVE is a route-plan collapse.
+
+Any system that treats RECEIPT as ORDER is authority collapse.
+
+Any system that treats SUPPORT as DOCTRINE is promotion collapse.
+
+## 3. Role Separation
+
+The house must split roles cleanly.
+
+### Receptionist
+
+Receives.
+Classifies.
+Tickets.
+Asks.
+Proposes.
+Blocks.
+Learns from reviewed correction.
+
+The receptionist has no physical authority.
+
+### Mover
+
+Acts only on approved rows.
+Verifies hash and current path before action.
+Refuses if live state changed.
+Writes movement receipt.
+Does not decide placement.
+
+The mover has physical authority only inside approved scope.
+
+### Janitor
+
+Cleans only after custody is stable.
+Does not delete unresolved files.
+Does not delete proof.
+Does not delete system files by assumption.
+Does not treat zero-byte as trash.
+Does not operate before route proof.
+
+The janitor is late-stage only.
+
+### Archivist
+
+Preserves proof/history.
+Keeps old versions when they prove drift, supersession, or sequence.
+Separates proof from active carry.
+
+### Judge
+
+Decides accept, repair, park, block, promote, supersede, or reject.
+
+The judge is not the receptionist.
+
+### Teacher
+
+Converts reviewed corrections into rules.
+
+The teacher is the placement learning ledger.
+
+## 4. Why “Receptionist” Is the Right Word
+
+Organizer is too aggressive.
+Cleaner is too destructive.
+Mover is too physical.
+Scanner is too shallow.
+Indexer is too passive.
+Assistant is too vague.
+
+Receptionist is correct because the role is:
+
+front desk,
+first contact,
+triage,
+orientation,
+routing proposal,
+visitor/file check-in,
+escalation when uncertain,
+no unilateral back-room action.
+
+A receptionist can say:
+
+“Go to the proof desk.”
+
+But the receptionist does not drag the person there.
+
+That is the rule.
+
+## 5. House Translation of Outside Methods
+
+### Records File Plan
+
+Outside concept:
+
+Records should be organized by the function or work process they support.
+
+House translation:
+
+Ask what job the file does.
+
+Not:
+“What is the file named?”
+
+First:
+“What house function does this object serve?”
+
+Possible functions:
+
+source control,
+proof preservation,
+helper execution,
+helper review,
+support orientation,
+error freeze,
+user handoff,
+rough-state holding,
+learning,
+decision record,
+route plan,
+dry run,
+final executor,
+old-load history.
+
+### Controlled Vocabulary
+
+Outside concept:
+
+Classification terms must be controlled.
+
+House translation:
+
+The receptionist must not invent new live labels every run.
+
+It may add notes.
+It may propose a candidate label.
+It may record uncertainty.
+
+But official ticket labels must come from a small controlled set.
+
+### Digital Curation
+
+Outside concept:
+
+Objects have lifecycle, roles, responsibilities, preservation needs, and management states.
+
+House translation:
+
+Every file has custody state.
+
+A file’s meaning changes over time:
+
+candidate,
+accepted,
+active,
+superseded,
+proof-only,
+parked,
+blocked,
+retired,
+preserved.
+
+The receptionist must record lifecycle state, not only destination.
+
+### Kanban
+
+Outside concept:
+
+Visualize work and limit work in progress.
+
+House translation:
+
+The receptionist board must show where each ticket is.
+
+Only one surface at a time.
+Only one active room at a time.
+No whole-house crawl.
+No hidden work.
+
+### ADR / Decision Records
+
+Outside concept:
+
+Important structural decisions need context, decision, and consequence.
+
+House translation:
+
+When the house changes a rule, write a decision record.
+
+Examples:
+
+Adopt receptionist method.
+Separate receptionist from mover.
+Define label set.
+Block cleanup by default.
+Promote a placement rule.
+Retire a stale helper.
+Change Chat Drop law.
+Authorize an executor.
+
+### Sensemaking
+
+Outside concept:
+
+Data and frame shape each other.
+
+House translation:
+
+The house has a current frame, but file evidence can force frame repair.
+
+If many files do not fit the label set, do not force them.
+Repair the label set.
+
+If repeated runner failures appear, do not keep patching scripts.
+Name the failure family.
+
+If the route plan assumes root state that has changed, do not route.
+Reframe from route plan to live-delta review.
+
+## 6. 33rd Triple-Pass Method
+
+Each walk has three passes:
+
+CEILING
+WALLS
+ROOF
+
+Then a 33rd synthesis.
+
+### Ceiling Pass
+
+Purpose, sky, authority, why-this-exists.
+
+Questions:
+
+What is the object trying to become?
+What higher rule controls it?
+What must it never pretend to be?
+What is the current authority boundary?
+What is the current next legal action?
+What would make this too big?
+
+### Walls Pass
+
+Boundary, stop lines, safety, room edges.
+
+Questions:
+
+What actions are blocked?
+What old guidance is superseded?
+What must not be loaded?
+What must not be moved?
+What must not be deleted?
+What would count as drift?
+What would count as fake completion?
+
+### Roof Pass
+
+Structure, shelter, durable shape.
+
+Questions:
+
+What fields are required?
+What labels are allowed?
+What receipts are needed?
+What review path exists?
+What proof path exists?
+What return path exists?
+What is the next smallest build?
+
+### 33rd Synthesis
+
+Collapse the three passes.
+
+Question:
+
+What is the smallest safe next move that teaches the most and breaks nothing?
+
+Output:
+
+ONE active object.
+ONE next condition.
+ONE blocked list.
+ONE proof need.
+ONE verdict.
+
+## 7. Room and Tool Pairing Rule
+
+Each walk should choose rooms and tools that match the question.
+
+Do not use every room.
+Do not wear every toolbelt.
+
+The room/tool pair must fit the active job.
+
+### Front Door Room
+
+Use when deciding entry, intake, load order, current surface, and wrong-door prevention.
+
+Best tools:
+
+SMELL
+KEY
+NERVE
+
+### Ledger Room
+
+Use when deciding current state, next action, blocks, proof pointers, and drift.
+
+Best tools:
+
+BONE
+NERVE
+LOCK
+
+### Proof Room
+
+Use when deciding receipts, hashes, past action, DoesNotProve, and custody.
+
+Best tools:
+
+BONE
+SCAR
+LOCK
+
+### Sorting Bench
+
+Use when classifying objects, labels, buckets, route candidates, and room fit.
+
+Best tools:
+
+SMELL
+SCISSOR
+SEW
+HAND
+
+### Creative Room
+
+Use when a new grammar, method, or candidate rule is needed.
+
+Best tools:
+
+SEED
+SCISSOR
+SEW
+BREATH
+
+### Crime Scene Room
+
+Use when failures repeat, runners fail, hashes mismatch, outputs already exist, or route assumptions break.
+
+Best tools:
+
+SCAR
+BONE
+NERVE
+BREATH
+
+### Final Judge Room
+
+Use when deciding accept, repair, park, block, reject, promote, or supersede.
+
+Best tools:
+
+KEY
+BONE
+LOCK
+SCISSOR
+
+## 8. Walk Set Overview
+
+The receptionist method needs a sequence of walks.
+
+Do not build all outputs at once.
+
+The correct order:
+
+WALK 0 — Current Boundary Lock
+WALK 1 — Receptionist Identity
+WALK 2 — Authority and Role Separation
+WALK 3 — Ticket Grammar
+WALK 4 — Label Vocabulary
+WALK 5 — Risk and Confidence
+WALK 6 — Learning Ledger
+WALK 7 — Root Pilot
+WALK 8 — Room Surface Index
+WALK 9 — One-Room Pilot
+WALK 10 — Pattern Promotion
+WALK 11 — Approved-Row Executor Candidate
+WALK 12 — Cleanup Discipline
+
+Batch 1 covers Walk 0 through Walk 4 in full working shape.
+
+## 9. WALK 0 — Current Boundary Lock
+
+Rooms:
+
+Front Door
+Ledger Room
+Proof Room
+
+Tools:
+
+SMELL
+BONE
+NERVE
+LOCK
+
+### Ceiling Pass
+
+The current project is paused at a clean route-plan boundary.
+
+The route plan exists.
+The route plan is stress-benched.
+The route plan is imported as rough_local pointer truth.
+The nested Git state was clean at the last confirmed point.
+No physical route has happened.
+
+The higher rule:
+
+Do not convert plan into action.
+
+The current next action is not automatic execution.
+
+The current next action, if approved, is dry-run selector only.
+
+### Walls Pass
+
+Blocked:
+
+move,
+delete,
+rename,
+route,
+cleanup,
+execute,
+push,
+source rewrite,
+source replay,
+doctrine promotion,
+full evidence import,
+helper execution,
+desktop.ini deletion,
+zero-byte deletion,
+treating route plan as route authority,
+treating rough_local as full custody,
+treating receipts as current orders.
+
+Also blocked:
+
+whole-house crawl,
+broad file movement,
+auto-classification-to-move,
+silent helper promotion,
+stale three-copy Chat Drop logic.
+
+### Roof Pass
+
+The boundary lock must carry:
+
+current state,
+latest known commit,
+latest verdict,
+no-physical-action fact,
+next boundary,
+blocked list,
+DoesNotProve.
+
+The boundary lock should be read before any receptionist dry run.
+
+### 33rd Synthesis
+
+The receptionist master plan must start with a lock card, not a mover.
+
+Smallest safe next object:
+
+HOUSE_RECEPTIONIST_CURRENT_BOUNDARY_LOCK_CARD_V0_1
+
+Purpose:
+
+Preserve the current route-plan pause before new receptionist logic begins.
+
+Verdict:
+
+BOUNDARY_LOCK_REQUIRED_BEFORE_RECEPTIONIST_METHOD_BUILD
+
+## 10. WALK 1 — Receptionist Identity
+
+Rooms:
+
+Front Door
+Sorting Bench
+Creative Room
+
+Tools:
+
+SMELL
+HAND
+SEED
+SCISSOR
+
+### Ceiling Pass
+
+The receptionist exists to solve first-contact confusion.
+
+It is not a universal organizer.
+It is not a cleanup tool.
+It is not a file mover.
+It is not a doctrine promoter.
+It is not a Git exporter.
+It is not a source judge by itself.
+
+It is an intake intelligence role.
+
+It receives an object and turns confusion into a ticket.
+
+### Walls Pass
+
+The receptionist must never:
+
+move files,
+delete files,
+rename files,
+execute scripts,
+create final destination folders,
+promote doctrine,
+rewrite source,
+push to Git,
+declare project complete,
+mark uncertain files as safe,
+collapse support into source,
+collapse proof into instruction,
+collapse route plan into route authority.
+
+If it does any of these, it is no longer a receptionist.
+
+### Roof Pass
+
+The receptionist role needs a short contract.
+
+Contract fields:
+
+role name,
+purpose,
+allowed actions,
+blocked actions,
+input surface,
+output surface,
+required ticket fields,
+review path,
+learning path,
+DoesNotProve.
+
+### 33rd Synthesis
+
+The receptionist identity must be written as a role card before any dry-run selector.
+
+Smallest safe next object after boundary lock:
+
+HOUSE_RECEPTIONIST_ROLE_CARD_V0_1
+
+Verdict:
+
+RECEPTIONIST_ROLE_CARD_REQUIRED_BEFORE_PLACEMENT_RULES
+
+## 11. WALK 2 — Authority and Role Separation
+
+Rooms:
+
+Ledger Room
+Proof Room
+Final Judge Room
+
+Tools:
+
+BONE
+KEY
+SCISSOR
+LOCK
+
+### Ceiling Pass
+
+The house fails when authority layers collapse.
+
+The receptionist must know the difference between:
+
+source and support,
+proof and order,
+route plan and route authority,
+helper candidate and executable helper,
+rough_local pointer and full evidence,
+Chat Drop convenience and project source,
+old load and trash,
+zero-byte and deletion candidate,
+system metadata and safe-to-delete,
+candidate rule and doctrine.
+
+The higher principle:
+
+A file’s role controls what actions are legal.
+
+### Walls Pass
+
+Authority collapse examples:
+
+Receipt collapse:
+A receipt proves something happened, but does not authorize current action.
+
+Support collapse:
+A support note helps orientation, but does not become doctrine.
+
+Plan collapse:
+A route plan shows possible placement, but does not authorize movement.
+
+Helper collapse:
+A helper script exists, but does not become executable.
+
+Git collapse:
+Git has pointer truth, but not necessarily full local evidence.
+
+Chat collapse:
+Chat handoff helps the assistant, but does not replace local source custody.
+
+### Roof Pass
+
+Role separation must become a fixed table.
+
+Required columns:
+
+object role,
+may orient,
+may prove,
+may instruct,
+may execute,
+may authorize movement,
+may be source authority,
+needs user review,
+default action.
+
+Every major label should be mapped through this table.
+
+### 33rd Synthesis
+
+Before building placement labels, build the authority matrix.
+
+Smallest safe next object:
+
+HOUSE_RECEPTIONIST_AUTHORITY_ROLE_MATRIX_V0_1
+
+Verdict:
+
+AUTHORITY_MATRIX_REQUIRED_BEFORE_PLACEMENT_TICKETS
+
+## 12. WALK 3 — Ticket Grammar
+
+Rooms:
+
+Sorting Bench
+Proof Room
+Ledger Room
+
+Tools:
+
+SMELL
+BONE
+NERVE
+SEW
+
+### Ceiling Pass
+
+The ticket is the receptionist’s core artifact.
+
+A ticket is not a move command.
+A ticket is not a receipt.
+A ticket is not a final classification.
+A ticket is a structured custody question with a proposed answer.
+
+The ticket should let the user see:
+
+what the file is,
+what the system thinks it is,
+why it thinks that,
+what risk exists,
+what proof exists,
+what is unknown,
+what action is blocked,
+what decision is needed.
+
+### Walls Pass
+
+A bad ticket:
+
+uses vague labels,
+omits hash,
+omits current path,
+omits confidence,
+omits risk,
+omits proof need,
+does not say Action Now,
+hides uncertainty,
+forces a destination,
+uses “safe” without scope,
+mixes proposal and approval,
+does not include DoesNotProve.
+
+A good ticket:
+
+shows evidence and uncertainty separately.
+
+### Roof Pass
+
+Required ticket fields:
+
+Ticket ID.
+File name.
+Current path.
+Observed at time.
+SHA256 if readable.
+Size.
+Extension.
+Last modified.
+Current surface.
+Observed signals.
+Known prior references.
+Inferred role.
+State label.
+Authority level.
+Proposed holding lane.
+Proposed future destination if any.
+Reason.
+Confidence.
+Risk.
+Proof needed.
+User decision needed.
+Blocked actions.
+Action now.
+Review note.
+DoesNotProve.
+
+Required Action Now default:
+
+NO
+
+No receptionist ticket may default to YES.
+
+### 33rd Synthesis
+
+Ticket grammar is the first real operating skeleton.
+
+Smallest safe next object:
+
+HOUSE_RECEPTIONIST_TICKET_GRAMMAR_V0_1
+
+Verdict:
+
+TICKET_GRAMMAR_REQUIRED_BEFORE_ROOT_RECEPTIONIST_DRY_RUN
+
+## 13. WALK 4 — Label Vocabulary
+
+Rooms:
+
+Key Room
+Sorting Bench
+Final Judge Room
+
+Tools:
+
+KEY
+SCISSOR
+SEW
+HAND
+
+### Ceiling Pass
+
+Labels are the house language.
+
+If the label set is too small, files get forced into wrong buckets.
+If the label set is too large, the house becomes fog.
+If labels are invented every run, learning becomes impossible.
+If labels carry action authority, classification becomes dangerous.
+
+The purpose of labels is to describe role and state, not authorize movement.
+
+### Walls Pass
+
+Bad label behavior:
+
+“old” means delete,
+“support” means safe,
+“receipt” means instruction,
+“script” means run,
+“zero-byte” means trash,
+“Chat Drop” means authority,
+“rough_local” means Git has everything,
+“route plan” means route now,
+“helper” means trusted,
+“current” means doctrine.
+
+All of those must be blocked.
+
+### Roof Pass
+
+Label groups should be separate.
+
+Role labels say what the object is.
+
+State labels say what custody condition it is in.
+
+Proposal labels say what may happen later.
+
+Risk labels say how dangerous action would be.
+
+Authority labels say what the object is allowed to control.
+
+Review labels say who must decide.
+
+Do not combine these into one overloaded label.
+
+### 33rd Synthesis
+
+The label vocabulary must be split into five layers.
+
+Smallest safe next object:
+
+HOUSE_RECEPTIONIST_CONTROLLED_LABEL_SET_V0_1
+
+Verdict:
+
+CONTROLLED_LABEL_SET_REQUIRED_BEFORE_LEARNING_LEDGER
+
+## 14. Controlled Label Set — Batch 1 Draft
+
+### Role Labels
+
+CURRENT_SOURCE
+SOURCE_AUTHORITY_CANDIDATE
+RAW_SOURCE
+SUPPORT_GUARDRAIL
+SUPPORT_SOFT_SUIT
+HELPER_CANDIDATE
+EXECUTABLE_HELPER_REVIEW_REQUIRED
+RECEIPT
+LEDGER
+PROOF_HISTORY
+PROCESS_PROOF
+DRIFT_PROOF
+ERROR_FREEZE
+FIX_NOTE
+FAILED_RUNNER_EVIDENCE
+ROUGH_STATE
+CHAT_DROP_HELPER
+CHAT_DROP_RULE
+CHAT_DROP_ANCHOR
+OLD_LOAD_OR_SUPERSEDED
+SYSTEM_FILE_LEAVE_IN_PLACE
+UNKNOWN_NEEDS_USER
+BLOCKED_DO_NOT_TOUCH
+
+### State Labels
+
+VERIFIED_PRESENT
+MISSING_AT_REVIEW
+HASH_MATCHED
+HASH_CHANGED
+NEW_SINCE_LAST_SNAPSHOT
+REPORTED_NOT_VERIFIED
+POINTER_ONLY
+SUPERSEDED_BUT_PRESERVED
+HELD_PENDING_REVIEW
+BLOCKED_PENDING_AUTHORITY
+USER_DECISION_REQUIRED
+CURRENT_ACTIVE_FOR_SCOPE
+CANDIDATE_NOT_ACCEPTED
+ACCEPTED_WITH_REPAIR_NOTE
+REJECTED_KEEP_AS_HISTORY
+
+### Proposal Labels
+
+PROPOSE_LEAVE_IN_PLACE
+PROPOSE_ROUTE_LATER
+PROPOSE_INDEX_AS_PROOF_HISTORY
+PROPOSE_KEEP_IN_ROUGH_STATE
+PROPOSE_REVIEW_AS_HELPER
+PROPOSE_REVIEW_AS_SOURCE
+PROPOSE_KEEP_AS_SUPPORT
+PROPOSE_BLOCK
+PROPOSE_USER_DECISION
+PROPOSE_SUPERSEDE_BUT_PRESERVE
+PROPOSE_REPAIR_NOTE
+
+### Risk Labels
+
+LOW_RISK_POINTER
+LOW_RISK_SUPPORT
+MEDIUM_RISK_HELPER
+MEDIUM_RISK_OLD_LOAD
+MEDIUM_RISK_ROUGH_STATE
+HIGH_RISK_EXECUTABLE
+HIGH_RISK_SOURCE
+HIGH_RISK_CLEANUP_TOOL
+HIGH_RISK_DELETE_OR_MOVE_TOOL
+BLOCKED_RISK_SYSTEM_FILE
+BLOCKED_RISK_UNKNOWN_EXECUTABLE
+BLOCKED_RISK_AUTHORITY_CONFLICT
+
+### Authority Labels
+
+ORIENTS_ONLY
+PROVES_PAST_ACTION
+SUPPORTS_DECISION
+CANDIDATE_GUIDANCE
+CURRENT_CHAT_LAW
+SOURCE_AUTHORITY_FOR_SCOPE
+EXECUTION_CANDIDATE_ONLY
+MOVEMENT_AUTHORITY_NO
+DOCTRINE_AUTHORITY_NO
+USER_APPROVAL_REQUIRED
+
+## 15. The Receptionist Board
+
+The receptionist board is not the file system.
+
+It is the visible work surface.
+
+Columns:
+
+NEW_AT_DESK
+IDENTIFIED
+NEEDS_PROOF
+NEEDS_LABEL_REPAIR
+NEEDS_USER
+PROPOSED_PLACEMENT
+APPROVED_FOR_LATER
+BLOCKED
+DONE_AS_TICKET_ONLY
+
+Starting WIP limit:
+
+1 active surface.
+1 active room.
+1 active ticket board.
+0 physical moves.
+
+If more than one surface appears, collapse to parent object or stop.
+
+## 16. First Build Sequence From Batch 1
+
+The right next build sequence is not the root dry run yet.
+
+First build:
+
+HOUSE_RECEPTIONIST_CURRENT_BOUNDARY_LOCK_CARD_V0_1
+
+Second build:
+
+HOUSE_RECEPTIONIST_ROLE_CARD_V0_1
+
+Third build:
+
+HOUSE_RECEPTIONIST_AUTHORITY_ROLE_MATRIX_V0_1
+
+Fourth build:
+
+HOUSE_RECEPTIONIST_TICKET_GRAMMAR_V0_1
+
+Fifth build:
+
+HOUSE_RECEPTIONIST_CONTROLLED_LABEL_SET_V0_1
+
+Only after these exist should the root dry run be built.
+
+Reason:
+
+Without boundary lock, the receptionist may drift into route execution.
+Without role card, the receptionist may become a mover.
+Without authority matrix, support/proof/source may collapse.
+Without ticket grammar, outputs will be inconsistent.
+Without controlled labels, learning will drift.
+
+## 17. Batch 1 Final Verdict
+
+The House Receptionist system is valid as a master direction.
+
+But the first real work is not a script.
+
+The first real work is the method spine:
+
+boundary,
+role,
+authority,
+ticket,
+labels.
+
+Final scoped verdict:
+
+HOUSE_RECEPTIONIST_BATCH_1_METHOD_SPINE_READY_FOR_BOUNDARY_LOCK_AND_ROLE_CARD_NOT_READY_FOR_ROOT_DRY_RUN_OR_PHYSICAL_ROUTING
+
+Batch 1 closes the biggest loose end: the receptionist must be **defined before it is used**. The previous plan jumped too fast from concept to dry-run object. The corrected order is: boundary lock, role card, authority matrix, ticket grammar, controlled labels, then root pilot.
+
+The next batch should cover Walk 5 through Walk 8: risk/confidence scale, learning ledger, root pilot design, and room-surface expansion rules.
+
+[1]: https://www.queensu.ca/accessandprivacy/guidance/file-plan?utm_source=chatgpt.com "Creating and Maintaining a File Plan"
+
+
+
+
+
+
+
+Batch 2 starts where Batch 1 stopped. Batch 1 built the spine: boundary, role, authority, ticket grammar, label set. Batch 2 builds the **learning engine**: risk/confidence, correction capture, root pilot shape, and house-room expansion gate.
+
+Research anchor: function-based file plans say classify by the work a record supports, not by filename alone. ([Queen’s University][1]) Kanban says keep work visible and limit work in progress, which supports one surface / one room / one board at a time. ([Kanban University][2]) ADR practice says structural decisions need context and consequences, which matches your need to stop loose helper rules from becoming mystery law. ([GitHub][3]) Current house law also says one active object, helper preflight, receipts are proof not active orders, blocked actions stay blocked, and final verdicts must stay scoped.  Current chat-source law says enter through `URL -> LEDGER -> MAP -> KEY -> only needed tunnel`, use map files only as needed, and carry one active object, one proof/source pointer, and one next condition. 
+
+# HOUSE RECEPTIONIST MASTER PLAN — BATCH 2
+
+## Risk, Confidence, Learning Ledger, Root Pilot, and Room-Surface Expansion
+
+Status: MASTER PLAN BATCH 2 / LEARNING ENGINE / PLANNER GUIDE / NOT DOCTRINE / NOT EXECUTION AUTHORITY / NOT CLEANUP ORDER / NOT ROUTE ORDER
+
+## 0. Batch 2 Purpose
+
+Batch 1 defined the receptionist spine.
+
+Batch 2 defines how the receptionist learns without damaging the house.
+
+The critical question is:
+
+How does the receptionist become smarter without gaining unsafe power?
+
+Answer:
+
+It uses risk scoring, confidence scoring, user correction, learning rows, dry-run-only pilots, and room-surface expansion gates.
+
+The receptionist does not learn by acting.
+The receptionist learns by being reviewed.
+
+The user correction is the training signal.
+The learning ledger is the memory.
+The rule candidate is the possible promotion path.
+The executor remains separate.
+
+## 1. Batch 2 Walk Set
+
+Batch 2 covers:
+
+WALK 5 — Risk and Confidence
+WALK 6 — Placement Learning Ledger
+WALK 7 — Root Receptionist Pilot
+WALK 8 — House Room Surface Index
+
+Batch 2 does not cover:
+
+real movement,
+route execution,
+cleanup,
+Git push,
+full house crawl,
+doctrine promotion,
+source rewrite,
+helper execution.
+
+## 2. Batch 2 Core Rule
+
+A low-confidence ticket may still be useful.
+
+A high-confidence ticket may still be blocked.
+
+Confidence is about how well the evidence fits the label.
+
+Risk is about how much damage could happen if the system is wrong.
+
+These must never be collapsed.
+
+Example:
+
+A file may be HIGH confidence as a cleanup script and HIGH risk to execute.
+
+A receipt may be HIGH confidence as proof and LOW risk to preserve, but ZERO authority to command current action.
+
+A source file may be HIGH confidence as current source and HIGH risk to move.
+
+A system file may be HIGH confidence as system metadata and BLOCKED for deletion.
+
+## 3. WALK 5 — Risk and Confidence
+
+Rooms:
+
+Crime Scene Room
+Proof Room
+Final Judge Room
+
+Tools:
+
+SCAR
+BONE
+KEY
+LOCK
+
+Reason for these rooms/tools:
+
+Risk is not just classification.
+Risk is damage prediction.
+Crime Scene finds what breaks.
+Proof Room checks what is proven.
+Final Judge blocks false pass.
+SCAR looks for repeated failure patterns.
+BONE checks custody/proof.
+KEY checks permission language.
+LOCK prevents premature action.
+
+### Ceiling Pass
+
+Risk and confidence exist to stop fake certainty.
+
+The receptionist must not say:
+
+“I know what this is, so I can move it.”
+
+It must say:
+
+“I have this evidence, this confidence, this risk, and this proposed handling. Action now is NO.”
+
+The ceiling rule:
+
+Confidence never grants authority.
+
+Risk can block action even when confidence is high.
+
+The higher purpose:
+
+Separate knowledge from permission.
+
+### Walls Pass
+
+Blocked collapses:
+
+HIGH_CONFIDENCE = SAFE
+LOW_RISK = UNIMPORTANT
+RECEIPT = ORDER
+SUPPORT = DOCTRINE
+HELPER = RUNNABLE
+SOURCE = MOVABLE
+ZERO_BYTE = TRASH
+OLD = DELETE
+UNKNOWN = IGNORE
+ROUTE_PLAN = ROUTE_NOW
+
+All are invalid.
+
+Risk score must block movement when:
+
+the object is executable,
+the object is source-like,
+the object can delete/move/rename/commit/push,
+the object is system metadata,
+the object is unknown,
+the object is hash-changed,
+the object is only reported but not verified,
+the object is tied to rough_state,
+the object is linked to failed-runner evidence,
+the object is a cleanup tool,
+the object is a route executor candidate.
+
+Confidence score must drop when:
+
+name is vague,
+content is not read,
+hash is missing,
+path is stale,
+similar files disagree,
+older helper guidance conflicts,
+the file is only mentioned in a report,
+local state has changed,
+the file belongs to a blocked surface,
+the file role depends on user intent.
+
+### Roof Pass
+
+Risk and confidence need separate fields.
+
+Required confidence fields:
+
+confidence_score
+confidence_label
+confidence_reason
+evidence_used
+evidence_missing
+counterexample_possible
+
+Required risk fields:
+
+risk_score
+risk_label
+risk_reason
+damage_if_wrong
+blocked_action_list
+approval_needed
+safe_next_review_step
+
+Recommended confidence scale:
+
+0 — UNKNOWN
+1 — VERY_LOW
+2 — LOW
+3 — MEDIUM
+4 — HIGH
+5 — LOCKED_BY_PROOF
+
+Recommended risk scale:
+
+0 — NO_ACTION_RISK
+1 — LOW_REVIEW_RISK
+2 — MEDIUM_CUSTODY_RISK
+3 — HIGH_AUTHORITY_RISK
+4 — CRITICAL_MUTATION_RISK
+5 — BLOCKED_UNTIL_USER_AUTHORITY
+
+Confidence labels:
+
+UNKNOWN_CONFIDENCE
+LOW_CONFIDENCE
+MEDIUM_CONFIDENCE
+HIGH_CONFIDENCE
+PROOF_LOCKED_CONFIDENCE
+
+Risk labels:
+
+LOW_RISK_REVIEW_ONLY
+MEDIUM_RISK_CUSTODY_DECISION
+HIGH_RISK_AUTHORITY_DECISION
+CRITICAL_RISK_MUTATION_CAPABLE
+BLOCKED_RISK_DO_NOT_TOUCH
+
+### 33rd Synthesis
+
+The receptionist needs a two-axis gate.
+
+Do not rank files on one line.
+
+Use:
+
+Confidence: how sure are we what it is?
+Risk: how dangerous is it to be wrong?
+
+Smallest safe next object:
+
+HOUSE_RECEPTIONIST_RISK_CONFIDENCE_GATE_V0_1
+
+Final scoped verdict:
+
+RISK_CONFIDENCE_GATE_REQUIRED_BEFORE_LEARNING_LEDGER_AND_ROOT_PILOT
+
+## 4. Risk / Confidence Matrix
+
+### Case A — High Confidence / Low Risk
+
+Meaning:
+
+The file is likely understood, and review/holding is low danger.
+
+Examples:
+
+known support note,
+known proof pointer,
+known non-executable ledger,
+known old summary preserved as history.
+
+Allowed receptionist result:
+
+ticket,
+propose holding lane,
+no movement,
+possible user-batch approval later.
+
+Action now:
+
+NO
+
+### Case B — High Confidence / High Risk
+
+Meaning:
+
+The file is likely understood, but wrong movement or execution would hurt.
+
+Examples:
+
+active source,
+cleanup script,
+route executor,
+delete tool,
+Git-affecting script,
+helper runner,
+raw source,
+system file.
+
+Allowed receptionist result:
+
+ticket,
+block,
+request user decision,
+possibly send to specialist review.
+
+Action now:
+
+NO
+
+### Case C — Low Confidence / Low Risk
+
+Meaning:
+
+The file is not well understood, but review is safe.
+
+Examples:
+
+vague note,
+unclassified support-looking markdown,
+old handoff,
+orphan text summary.
+
+Allowed receptionist result:
+
+ticket,
+propose UNKNOWN_NEEDS_USER or SUPPORT_REVIEW,
+request better anchor.
+
+Action now:
+
+NO
+
+### Case D — Low Confidence / High Risk
+
+Meaning:
+
+The worst zone.
+
+Examples:
+
+unknown executable,
+unknown script,
+hash mismatch on source-like file,
+unknown cleanup/move tool,
+reported-only object,
+file with stale authority language.
+
+Allowed receptionist result:
+
+block,
+do not route,
+do not run,
+do not delete,
+send to user or specialist review.
+
+Action now:
+
+NO
+
+### Case E — Proof-Locked / Still Blocked
+
+Meaning:
+
+Hash or receipt proves identity, but identity does not authorize action.
+
+Examples:
+
+receipt proves a helper exists,
+hash proves a route-plan card exists,
+commit proves rough_local pointer import happened.
+
+Allowed receptionist result:
+
+record proof,
+preserve,
+do not collapse into authority.
+
+Action now:
+
+NO
+
+## 5. Risk Questions
+
+The receptionist must ask:
+
+What could be lost if this file is moved?
+What could be hidden if this file is routed away?
+What could be damaged if this file is executed?
+What could be falsely promoted if this file is treated as doctrine?
+What could be falsely deleted if this file is treated as old?
+What could become untraceable if this file is renamed?
+What could be exposed if this file is committed?
+What could be confused if this file is left loose?
+What does this file prove?
+What does this file not prove?
+
+## 6. Confidence Questions
+
+The receptionist must ask:
+
+Is the file physically present?
+Was the hash read now?
+Does the filename match a known pattern?
+Does content match the filename?
+Is it named in a current ledger?
+Is it named only in an older report?
+Is it source, support, proof, helper, or unknown?
+Is the current path expected?
+Is there conflicting guidance?
+Is the file part of a repeated family?
+Is it only a pointer?
+Is the real content missing?
+Is user intent needed?
+
+## 7. WALK 6 — Placement Learning Ledger
+
+Rooms:
+
+Brain Learning Room
+Ledger Room
+Creative Room
+
+Tools:
+
+SEED
+NERVE
+BREATH
+LOCK
+
+Reason for these rooms/tools:
+
+Learning belongs in Brain Learning.
+Current state belongs in Ledger.
+New patterns begin in Creative Room.
+SEED marks candidates.
+NERVE links correction to future behavior.
+BREATH prevents overpromotion after one run.
+LOCK saves only after proof/review.
+
+### Ceiling Pass
+
+The receptionist must learn from reviewed correction, not from its own guesses.
+
+The higher rule:
+
+No self-training from unreviewed output.
+
+A ticket is not learning until reviewed.
+
+A repeated pattern is not a rule until confirmed.
+
+A rule is not doctrine until promoted through authority.
+
+The learning ledger exists to preserve correction history and prevent the assistant from making the same mistake again.
+
+### Walls Pass
+
+Blocked learning failures:
+
+one example becomes law,
+assistant guess becomes rule,
+user correction is summarized too loosely,
+counterexamples are dropped,
+labels change without migration,
+old wrong rule remains active,
+learning ledger becomes doctrine,
+learning ledger becomes too large to use,
+rejected pattern returns later,
+correction does not name reason,
+future assistant cannot tell what changed.
+
+Learning must not:
+
+authorize movement,
+rewrite old receipts,
+delete proof,
+promote helpers,
+change source,
+bypass user review,
+overwrite current helper law,
+create new labels without review.
+
+### Roof Pass
+
+Placement Learning Ledger needs stable rows.
+
+Required row fields:
+
+Learning ID
+Date
+Source ticket ID
+File pattern
+Original receptionist guess
+User correction
+Accepted role
+Accepted state
+Accepted proposal
+Accepted holding lane
+Accepted future destination type
+Reason for correction
+Evidence used
+Counterexample
+Risk note
+Confidence change
+Rule candidate text
+Promotion state
+Supersedes
+DoesNotProve
+
+Promotion states:
+
+OBSERVED_ONCE
+OBSERVED_REPEAT
+USER_CONFIRMED
+RULE_CANDIDATE
+ACTIVE_RECEPTIONIST_RULE
+REJECTED_PATTERN
+SUPERSEDED_PATTERN
+PARKED_NEEDS_MORE_EXAMPLES
+
+The ledger needs a separate section for counterexamples.
+
+Counterexample fields:
+
+Pattern
+Where it failed
+Why it failed
+How to avoid false match
+Blocked generalization
+
+### 33rd Synthesis
+
+The learning ledger is the teacher.
+
+It must sit between root pilot and future rule promotion.
+
+Smallest safe next object:
+
+HOUSE_RECEPTIONIST_PLACEMENT_LEARNING_LEDGER_SCHEMA_V0_1
+
+Final scoped verdict:
+
+LEARNING_LEDGER_SCHEMA_REQUIRED_BEFORE_USER_CORRECTION_CAN_BECOME_RULE
+
+## 8. Learning Promotion Ladder
+
+The system should not jump from observation to rule.
+
+Promotion ladder:
+
+### Level 0 — Raw Observation
+
+A ticket suggested something.
+
+No rule.
+
+### Level 1 — User Correction
+
+User corrected the ticket.
+
+Still not a rule.
+
+### Level 2 — Observed Pattern
+
+Same correction appears more than once.
+
+Still not a rule.
+
+### Level 3 — Rule Candidate
+
+Pattern is written as a candidate rule with scope and counterexamples.
+
+Still not active.
+
+### Level 4 — Active Receptionist Rule
+
+User accepts the candidate for receptionist classification.
+
+Still not movement authority.
+
+### Level 5 — Executor-Eligible Rule
+
+Only after repeated proof, the rule may feed approved-row executor design.
+
+Still requires approved rows.
+
+### Level 6 — Doctrine Candidate
+
+Only structural house-level rules reach this level.
+
+Requires separate doctrine review.
+
+Default ceiling:
+
+Most placement learning should stop at Level 4.
+
+Not everything needs doctrine.
+
+## 9. Learning Ledger Anti-Bloat Rule
+
+The learning ledger must not become a dump.
+
+It should store patterns, not every tiny opinion.
+
+Keep:
+
+user corrections,
+repeated mistakes,
+dangerous false positives,
+new accepted labels,
+new blocked patterns,
+new room rules,
+new counterexamples.
+
+Do not keep:
+
+every obvious match,
+every duplicate ticket,
+every temporary wording preference,
+every single low-risk support note,
+every report paragraph.
+
+Compression rule:
+
+Many tickets can produce one learning row if they share the same reviewed pattern.
+
+## 10. Walk 6 Output Set
+
+Recommended outputs from Walk 6:
+
+HOUSE_RECEPTIONIST_PLACEMENT_LEARNING_LEDGER_SCHEMA_V0_1
+
+HOUSE_RECEPTIONIST_LEARNING_PROMOTION_LADDER_V0_1
+
+HOUSE_RECEPTIONIST_COUNTEREXAMPLE_TABLE_V0_1
+
+No executor.
+No file movement.
+No cleanup.
+
+## 11. WALK 7 — Root Receptionist Pilot
+
+Rooms:
+
+Front Door Room
+Sorting Bench
+Proof Room
+Crime Scene Room
+
+Tools:
+
+SMELL
+HAND
+BONE
+SCAR
+
+Reason for these rooms/tools:
+
+Root is the front counter.
+Sorting Bench classifies.
+Proof Room hashes and receipts.
+Crime Scene catches dangerous files and past failure families.
+SMELL identifies entry.
+HAND selects method.
+BONE checks proof.
+SCAR catches repeated defects.
+
+### Ceiling Pass
+
+Root is the correct first pilot because root is the exposed intake surface.
+
+If the receptionist cannot handle root safely, it should not handle the whole house.
+
+The root pilot should not be a route executor.
+
+It should be a ticket generator.
+
+The purpose:
+
+turn root confusion into reviewed placement tickets.
+
+The root pilot must respect current route-plan boundary.
+
+The route plan was built from locked custody queues, but live root may have changed.
+
+Therefore root pilot must recheck live root before proposing anything.
+
+### Walls Pass
+
+Root pilot must not:
+
+move files,
+delete files,
+rename files,
+route files,
+execute scripts,
+create final destination folders,
+commit,
+push,
+rewrite source,
+promote doctrine,
+run helper candidates,
+trust stale hashes,
+trust route plan without live delta,
+ignore new files,
+ignore missing files,
+ignore hash changes,
+treat action_now as YES,
+hide unknown files.
+
+Root pilot must block when:
+
+root file exists outside expected snapshot,
+hash changed,
+file missing,
+file is executable and unknown,
+file is cleanup/move/delete capable,
+file is source-like,
+file is system metadata,
+file belongs to old blocked lane,
+file has stale active guidance,
+file is reported but not verified.
+
+### Roof Pass
+
+Root pilot output must include:
+
+root snapshot summary,
+file ticket board,
+delta table,
+risk/confidence table,
+unknown table,
+blocked table,
+proposed holding lane table,
+user-decision-needed table,
+DoesNotProve,
+receipt,
+stress bench.
+
+Root pilot ticket board columns:
+
+Ticket ID
+File name
+Current path
+SHA256
+Size
+Extension
+Last modified
+Delta status
+Observed signals
+Role label
+State label
+Authority label
+Confidence score
+Risk score
+Proposed holding lane
+Proposed future destination type
+Reason
+User decision needed
+Blocked actions
+Action now
+DoesNotProve
+
+Required root pilot facts:
+
+physical moves: 0
+deletions: 0
+renames: 0
+routes: 0
+executions: 0
+commits: 0
+pushes: 0
+action_now_yes_rows: 0
+
+### 33rd Synthesis
+
+Root pilot should be built only after risk/confidence gate and learning ledger schema exist.
+
+Smallest safe root pilot object:
+
+ROOT_RECEPTIONIST_PLACEMENT_DRY_RUN_SELECTOR_V0_1
+
+Final scoped verdict:
+
+ROOT_RECEPTIONIST_PILOT_READY_ONLY_AFTER_RISK_CONFIDENCE_AND_LEARNING_LEDGER_SCHEMA
+
+## 12. Root Pilot Review Levels
+
+Not every root file needs the same review.
+
+### Review Level A — Leave/Preserve
+
+For system file, already-proven proof file, stable known support, or low-risk pointer.
+
+Result:
+
+ticket only,
+possibly leave in place,
+no move.
+
+### Review Level B — User Decision
+
+For unknown, ambiguous, source-like, helper-like, old-load-like, rough-state-like.
+
+Result:
+
+needs user review,
+no move.
+
+### Review Level C — Specialist Review
+
+For executable scripts, cleanup tools, Git tools, move/delete tools, active source, generated runners.
+
+Result:
+
+send to helper/script/source review lane,
+no run.
+
+### Review Level D — Block
+
+For hash mismatch, unknown executable, authority conflict, stale active guidance, route action without approval.
+
+Result:
+
+blocked,
+no move,
+freeze if failure-family evidence exists.
+
+## 13. Root Pilot DoesNotProve
+
+Root pilot proves only:
+
+file was observed,
+hash was captured if available,
+ticket was generated,
+proposal was made,
+risk/confidence was assigned,
+no physical action occurred,
+review is needed.
+
+Root pilot does not prove:
+
+file belongs there,
+file is safe to move,
+file is safe to delete,
+file is safe to run,
+route is approved,
+cleanup is approved,
+Git import is approved,
+source is correct,
+helper is accepted,
+doctrine is promoted,
+project is complete.
+
+## 14. WALK 8 — House Room Surface Index
+
+Rooms:
+
+Map Room
+Front Door Room
+Ledger Room
+Final Judge Room
+
+Tools:
+
+NERVE
+SMELL
+KEY
+SCISSOR
+
+Reason for these rooms/tools:
+
+Room expansion is about relation and entry, not deep crawl.
+Map Room sees room connections.
+Front Door controls entry.
+Ledger Room controls current state.
+Final Judge decides what is allowed.
+NERVE traces room relations.
+SMELL checks room scent.
+KEY checks permissions.
+SCISSOR cuts the urge to crawl everything.
+
+### Ceiling Pass
+
+The whole-project version is too big if it starts with deep file crawl.
+
+The first house-wide move must be shallow.
+
+Purpose:
+
+identify top-level rooms and what kind of objects each room should receive.
+
+The room surface index is not a file classifier for every file.
+
+It is a room classifier.
+
+It answers:
+
+What rooms exist?
+What does each room do?
+What should enter?
+What should not enter?
+What proof is needed?
+What exit path exists?
+What authority lives here?
+What helper controls this room?
+What must be left alone?
+
+### Walls Pass
+
+Room surface index must not:
+
+crawl every file,
+hash every file in the project,
+route files,
+delete files,
+rename folders,
+rewrite room structure,
+create new rooms,
+merge rooms,
+retire rooms,
+promote doctrine,
+mark rooms clean without proof,
+treat Git as whole truth,
+treat Chat Drop as source authority,
+load old receipts by default.
+
+It must block when:
+
+room purpose is unknown,
+room contains mixed authority,
+room contains raw/rough-state material,
+room contains old load,
+room contains helper scripts,
+room contains unverified source,
+room contains cleanup reports,
+room contains receipts as active-looking material,
+room contains stale active guidance.
+
+### Roof Pass
+
+Room surface index fields:
+
+Room ID
+Room name
+Path
+Observed surface signals
+Known current role
+Expected object types
+Forbidden object types
+Authority level
+Current load rule
+Current exit rule
+Proof requirement
+Receipts location
+Rough-state relation
+Chat Drop relation
+Git relation
+Helper relation
+Known blockers
+Unknowns
+Recommended next room-specific pilot
+Action now
+
+Required action now:
+
+NO
+
+Room categories:
+
+FRONT_DOOR_ROOM
+LEDGER_ROOM
+MAP_ROOM
+KEY_ROOM
+PROOF_ROOM
+BRAIN_LEARNING_ROOM
+SORTING_BENCH
+WORK_SHED
+CREATIVE_ROOM
+CRIME_SCENE_ROOM
+CHAT_DROP_ROOM
+ROUGH_STATE_HOLDING
+SOURCE_ROOM
+HELPER_ROOM
+RECEIPT_ROOM
+OLD_LOAD_HISTORY
+UNKNOWN_ROOM
+
+### 33rd Synthesis
+
+The first house-wide pass should not classify all files.
+
+It should classify room surfaces only.
+
+Smallest safe object:
+
+HOUSE_RECEPTIONIST_ROOM_SURFACE_INDEX_DRY_RUN_V0_1
+
+Final scoped verdict:
+
+ROOM_SURFACE_INDEX_READY_AFTER_ROOT_PILOT_REVIEW_NOT_BEFORE
+
+## 15. Room Surface Intake Rules
+
+Each room needs intake rules.
+
+### Front Door Room
+
+Accepts:
+
+entry pointers,
+current ledgers,
+load manifests,
+source pointers,
+next-action cards.
+
+Rejects:
+
+deep proof piles,
+old package dumps,
+raw source piles,
+executor scripts,
+cleanup tools.
+
+### Proof Room
+
+Accepts:
+
+receipts,
+hash records,
+commit proof,
+process proof,
+drift proof,
+DoesNotProve notes.
+
+Rejects:
+
+active orders,
+route executors,
+source rewrites,
+unsupported claims.
+
+### Brain Learning Room
+
+Accepts:
+
+learning rules,
+pattern ledgers,
+failure-family lessons,
+reviewed corrections,
+candidate rule promotions.
+
+Rejects:
+
+unreviewed guesses as rules,
+raw output dumps,
+movement authority.
+
+### Sorting Bench
+
+Accepts:
+
+classification cards,
+bucket reviews,
+option sets,
+ticket boards,
+placement proposals.
+
+Rejects:
+
+physical movement,
+cleanup execution,
+source authority by assumption.
+
+### Crime Scene Room
+
+Accepts:
+
+error freezes,
+failure incidents,
+runner defects,
+hash mismatch notes,
+repair cause analysis.
+
+Rejects:
+
+surface patch closure without root cause,
+rerun without repair,
+silent failure.
+
+### Chat Drop Room
+
+Accepts:
+
+helper load aids,
+assistant handoff files,
+current top-level Chat Drop copies.
+
+Rejects:
+
+source authority collapse,
+old loads by default,
+three-copy mirror drift,
+receipts as active orders.
+
+### Rough State Holding
+
+Accepts:
+
+working-state material,
+unreviewed raw piles,
+local-only evidence,
+not-public-safe material,
+held source candidates.
+
+Rejects:
+
+direct public Git transfer,
+cleanup by assumption,
+trash interpretation.
+
+## 16. Room Surface WIP Rule
+
+House-wide expansion must obey WIP.
+
+Starting limits:
+
+one active room surface,
+one active room index,
+one room pilot at a time,
+zero physical moves,
+zero cleanup actions.
+
+If the system wants to open more than one room, stop.
+
+If a room reveals source authority conflict, stop.
+
+If a room reveals unknown scripts, stop.
+
+If a room reveals stale helper guidance, stop and create a repair note.
+
+If a room reveals raw sensitive material, hold in rough-state logic.
+
+## 17. Batch 2 Build Sequence
+
+Correct Batch 2 build order:
+
+1. HOUSE_RECEPTIONIST_RISK_CONFIDENCE_GATE_V0_1
+2. HOUSE_RECEPTIONIST_PLACEMENT_LEARNING_LEDGER_SCHEMA_V0_1
+3. HOUSE_RECEPTIONIST_LEARNING_PROMOTION_LADDER_V0_1
+4. HOUSE_RECEPTIONIST_COUNTEREXAMPLE_TABLE_V0_1
+5. ROOT_RECEPTIONIST_PLACEMENT_DRY_RUN_SELECTOR_V0_1
+6. ROOT_RECEPTIONIST_USER_REVIEW_AND_CORRECTION_PASS_V0_1
+7. HOUSE_RECEPTIONIST_ROOM_SURFACE_INDEX_DRY_RUN_V0_1
+
+Do not build the room surface index before the root pilot has produced reviewed lessons.
+
+## 18. Batch 2 Drift Checks
+
+Before advancing to Batch 3, answer:
+
+Did we keep receptionist separate from mover?
+Did every ticket default to Action Now NO?
+Did confidence stay separate from authority?
+Did high-risk files remain blocked?
+Did user correction become the only learning source?
+Did the learning ledger capture counterexamples?
+Did root pilot stay dry-run only?
+Did room-surface index avoid deep crawl?
+Did any helper become doctrine by accident?
+Did any receipt become an active order?
+Did any proposal become approval?
+
+If any answer fails, Batch 2 is not clean.
+
+## 19. Batch 2 Final Verdict
+
+Batch 2 defines how the receptionist learns safely.
+
+The system is still not ready for movement.
+
+It becomes ready to build the learning spine and root pilot design after Batch 1 objects exist.
+
+Final scoped verdict:
+
+HOUSE_RECEPTIONIST_BATCH_2_LEARNING_ENGINE_READY_FOR_RISK_CONFIDENCE_GATE_AND_LEARNING_LEDGER_SCHEMA_NOT_READY_FOR_PHYSICAL_ROUTING_OR_WHOLE_HOUSE_CRAWL
+
+Batch 2 closes the second major gap: the receptionist needs a way to be wrong safely. Risk/confidence separation, user correction, learning ledger rows, and counterexamples are the difference between “AI organizer” and a real house receptionist.
+
+Batch 3 should cover Walk 9 through Walk 12: one-room pilot, pattern comparison, approved-row executor candidate, and cleanup discipline.
+
+[1]: https://www.queensu.ca/accessandprivacy/guidance/file-plan?utm_source=chatgpt.com "Creating and Maintaining a File Plan"
+[2]: https://kanban.university/kanban-guide/?utm_source=chatgpt.com "The Official Guide to The Kanban Method"
+[3]: https://github.com/architecture-decision-record/architecture-decision-record?utm_source=chatgpt.com "Architecture decision record (ADR)"
+
+
+
+
+
+
+
+
+
+
+
+Batch 3 closes the path from “receptionist can ticket” to “a later mover may exist,” without letting the mover appear early. This is where the plan needs the hardest walls, because this is the danger zone: the system starts to look capable, so it may get tempted to act.
+
+# HOUSE RECEPTIONIST MASTER PLAN — BATCH 3
+
+## One-Room Pilot, Pattern Promotion, Approved-Row Executor Candidate, and Cleanup Discipline
+
+Status: MASTER PLAN BATCH 3 / EXPANSION AND ACTION-SEPARATION GUIDE / NOT DOCTRINE / NOT EXECUTION AUTHORITY / NOT CLEANUP ORDER / NOT ROUTE ORDER
+
+## 0. Batch 3 Purpose
+
+Batch 1 built the receptionist spine:
+
+boundary,
+role,
+authority,
+ticket,
+labels.
+
+Batch 2 built the learning engine:
+
+risk,
+confidence,
+correction,
+learning ledger,
+root pilot,
+room-surface expansion.
+
+Batch 3 defines how the system may later expand from root into one room, compare patterns, design a separate mover, and keep cleanup late.
+
+Batch 3 is where the system must stay most disciplined.
+
+The danger is not ignorance anymore.
+
+The danger is premature competence.
+
+A system that can classify well may start believing it can move.
+A system that can find patterns may start believing one pattern is law.
+A system that can propose routes may start believing it has route authority.
+A system that can detect junk-looking files may start believing it has cleanup authority.
+
+Batch 3 blocks those collapses.
+
+## 1. Batch 3 Walk Set
+
+Batch 3 covers:
+
+WALK 9 — One-Room Receptionist Pilot
+WALK 10 — Pattern Comparison and Rule Promotion Review
+WALK 11 — Approved-Row Executor Candidate
+WALK 12 — Cleanup Discipline
+
+Batch 3 still does not authorize:
+
+physical movement,
+cleanup,
+deletion,
+renaming,
+execution,
+push,
+source rewrite,
+source replay,
+doctrine promotion,
+whole-house crawl,
+automatic helper promotion.
+
+## 2. Batch 3 Core Rule
+
+A correct receptionist does not create a mover.
+
+A reviewed pattern does not create a rule.
+
+An accepted rule does not create execution authority.
+
+An executor candidate does not create an executor.
+
+A cleanup candidate does not create cleanup permission.
+
+Every step has its own approval boundary.
+
+The safe chain is:
+
+Ticket.
+Review.
+Learning row.
+Pattern comparison.
+Rule candidate.
+Rule acceptance.
+Approved row.
+Executor candidate.
+Executor approval.
+Executor dry run.
+Executor run only if approved.
+Receipt.
+Stress bench.
+Then maybe cleanup candidate.
+
+## 3. WALK 9 — One-Room Receptionist Pilot
+
+Rooms:
+
+Selected Room
+Map Room
+Proof Room
+Final Judge Room
+
+Tools:
+
+NERVE
+SMELL
+BONE
+KEY
+
+Reason for these rooms/tools:
+
+The selected room is the local test zone.
+Map Room checks how that room relates to the rest of the house.
+Proof Room checks receipts, hashes, and custody.
+Final Judge blocks overreach.
+NERVE traces relation paths.
+SMELL checks whether files belong there by function and scent.
+BONE checks proof.
+KEY checks legal movement and authority.
+
+## 4. WALK 9 — Ceiling Pass
+
+The one-room pilot exists to test whether the receptionist method works outside root.
+
+Root is the front desk.
+A room is a working area.
+
+Those are not the same.
+
+A rule that works in root may fail inside a room.
+
+Example:
+
+A loose receipt in root may be intake needing ticketing.
+A receipt inside Proof Room may already be correctly placed.
+
+A helper script in root may be held for review.
+A helper script inside a helper workshop may be expected, but still not executable by default.
+
+A support guide in root may need routing proposal.
+A support guide inside Chat Drop may be a load helper, still not source authority.
+
+The ceiling principle:
+
+Do not generalize root behavior directly into every room.
+
+The one-room pilot asks:
+
+Does the receptionist understand room context?
+
+## 5. WALK 9 — Walls Pass
+
+The one-room pilot must not:
+
+crawl the whole project,
+crawl neighboring rooms,
+move files,
+delete files,
+rename files,
+execute files,
+create destination folders,
+repair the room,
+rewrite indexes,
+promote doctrine,
+clean old files,
+collapse room context,
+treat all misplaced-looking objects as wrong,
+treat all expected-looking objects as safe,
+treat room presence as authority.
+
+Blocked assumptions:
+
+“In the right room” means approved.
+“In the wrong room” means move now.
+“Old” means cleanup.
+“Duplicate” means delete.
+“Script in script room” means runnable.
+“Receipt in proof room” means active order.
+“Support in Chat Drop” means source authority.
+“Room index says expected” means no review needed.
+
+The one-room pilot must stop if:
+
+the room purpose is unclear,
+the room contains mixed source/support/proof authority,
+the room contains unknown executables,
+the room contains cleanup or route tools,
+the room contains stale active guidance,
+the room contains raw or sensitive rough-state material,
+the room contains conflicting ledgers,
+the room contains unverified source candidates.
+
+## 6. WALK 9 — Roof Pass
+
+The one-room pilot must have a room contract before reading file tickets.
+
+Room contract fields:
+
+Room ID
+Room name
+Room path
+Room purpose
+Room authority level
+Expected object types
+Forbidden object types
+Load rule
+Exit rule
+Proof requirement
+Review requirement
+Known parent room
+Known child rooms
+Known neighboring rooms
+Current blockers
+Allowed receptionist action
+Blocked physical actions
+DoesNotProve
+
+Then each file ticket inside the room should include:
+
+Ticket ID
+Room ID
+File name
+Current path
+SHA256 if available
+Observed signals
+Room-fit status
+Role label
+State label
+Authority label
+Confidence
+Risk
+Placement proposal
+Room-context reason
+Possible misfit reason
+User decision needed
+Blocked actions
+Action now
+
+Required default:
+
+ACTION_NOW = NO
+
+Room-fit labels:
+
+FITS_ROOM_PURPOSE
+MAY_FIT_ROOM_PURPOSE
+WRONG_ROOM_CANDIDATE
+ROOM_CONTEXT_UNKNOWN
+ROOM_AUTHORITY_CONFLICT
+ROOM_PROOF_ONLY
+ROOM_SUPPORT_ONLY
+ROOM_SOURCE_CANDIDATE
+ROOM_HELPER_REVIEW_REQUIRED
+BLOCKED_IN_ROOM
+
+## 7. WALK 9 — 33rd Synthesis
+
+The one-room pilot must be selected after root pilot review.
+
+It should test transfer, not expansion.
+
+Smallest safe object:
+
+FIRST_ROOM_RECEPTIONIST_DRY_RUN_SELECTOR_V0_1
+
+Selection rule:
+
+Pick a low-risk, non-source-heavy room first.
+
+Avoid as first room:
+
+active source room,
+rough_state holding,
+unknown script-heavy room,
+cleanup report room,
+Git-sensitive area,
+raw source area.
+
+Better first-room candidates:
+
+Proof-history style room,
+support/index room,
+learning/candidate room,
+non-executable ledger room.
+
+Final scoped verdict:
+
+ONE_ROOM_PILOT_ALLOWED_ONLY_AFTER_ROOT_REVIEW_AND_ROOM_CONTRACT_NOT_READY_FOR_MOVEMENT
+
+## 8. One-Room Pilot Output Set
+
+Required outputs:
+
+1. Room contract card.
+2. Room ticket board.
+3. Room-fit summary.
+4. Room blocker table.
+5. Room unknown table.
+6. Room counterexample table.
+7. Room learning-candidate table.
+8. Receipt.
+9. Stress bench.
+
+Required stress bench facts:
+
+files moved: 0
+files deleted: 0
+files renamed: 0
+files routed: 0
+files executed: 0
+destination folders created: 0
+commits: 0
+pushes: 0
+action_now_yes_rows: 0
+
+Required DoesNotProve:
+
+The one-room pilot does not prove the room is clean.
+It does not prove all files belong.
+It does not prove any file may move.
+It does not prove any helper may execute.
+It does not prove cleanup is approved.
+It does not prove room rules are doctrine.
+It does not prove the method works for all rooms.
+
+## 9. WALK 10 — Pattern Comparison and Rule Promotion Review
+
+Rooms:
+
+Brain Learning Room
+Ledger Room
+Final Judge Room
+Creative Room
+
+Tools:
+
+SEED
+NERVE
+SCISSOR
+LOCK
+
+Reason for these rooms/tools:
+
+Brain Learning stores reviewed corrections.
+Ledger checks current state.
+Final Judge decides promotion or block.
+Creative Room forms candidate rules.
+SEED marks candidates.
+NERVE traces relation across root and room.
+SCISSOR cuts false generalizations.
+LOCK preserves accepted rules only after proof.
+
+## 10. WALK 10 — Ceiling Pass
+
+Pattern comparison exists because one surface is not enough.
+
+The receptionist should not promote a rule just because it worked once.
+
+The comparison asks:
+
+Did the pattern appear in root?
+Did the pattern appear in a room?
+Did user correction confirm it?
+Did the room context change the rule?
+Did any counterexample appear?
+Is this a general rule or a room-specific rule?
+Does the rule affect classification only, or future movement?
+Does the rule need user approval before activation?
+
+The ceiling principle:
+
+Promotion requires repeated reviewed fit and counterexample check.
+
+## 11. WALK 10 — Walls Pass
+
+Pattern promotion must not:
+
+turn one ticket into law,
+erase counterexamples,
+ignore user correction,
+promote a root-only pattern to whole-house rule,
+promote room-specific pattern globally,
+turn classification into movement authority,
+turn movement eligibility into cleanup authority,
+override current Chat Drop law,
+override source custody,
+override proof boundaries,
+override blocked action lists,
+rewrite old receipts,
+delete old proof,
+hide superseded guidance without marking it.
+
+Promotion must block when:
+
+pattern has only one example,
+pattern was not user-reviewed,
+pattern conflicts with current authority,
+pattern affects source files,
+pattern affects executable helpers,
+pattern affects cleanup/delete/move,
+pattern lacks counterexample check,
+pattern would require new label not yet accepted,
+pattern contradicts existing helper law,
+pattern depends on stale file state.
+
+## 12. WALK 10 — Roof Pass
+
+Pattern comparison needs a formal review table.
+
+Required fields:
+
+Pattern ID
+Pattern source
+Root examples
+Room examples
+User-confirmed examples
+Counterexamples
+Original rule candidate
+Revised rule candidate
+Scope
+Applies to role labels
+Applies to state labels
+Applies to proposal labels
+Affects movement eligibility
+Affects cleanup eligibility
+Risk level
+Confidence level
+Authority conflict check
+Promotion decision
+Promotion reason
+Supersedes
+DoesNotProve
+
+Promotion decisions:
+
+PROMOTE_TO_ACTIVE_RECEPTIONIST_RULE
+PROMOTE_TO_ROOM_SPECIFIC_RULE
+KEEP_AS_RULE_CANDIDATE
+PARK_NEEDS_MORE_EXAMPLES
+REJECT_PATTERN
+BLOCK_PATTERN_DANGEROUS
+SPLIT_PATTERN_BY_ROOM
+SPLIT_PATTERN_BY_ROLE
+SUPERSEDE_OLDER_PATTERN
+
+Rule scopes:
+
+ROOT_ONLY
+ROOM_SPECIFIC
+ROOM_FAMILY
+HOUSE_WIDE_CLASSIFICATION_ONLY
+HOUSE_WIDE_REVIEW_ONLY
+EXECUTOR_ELIGIBLE_LATER
+BLOCKED_FROM_EXECUTOR
+DOCTRINE_CANDIDATE_REQUIRES_SEPARATE_REVIEW
+
+## 13. WALK 10 — 33rd Synthesis
+
+The pattern comparison review is the bridge between learning and rules.
+
+It must not create movement authority.
+
+Smallest safe object:
+
+RECEPTIONIST_PATTERN_COMPARISON_AND_RULE_PROMOTION_REVIEW_V0_1
+
+Final scoped verdict:
+
+PATTERN_PROMOTION_REVIEW_CAN_CREATE_CLASSIFICATION_RULES_NOT_MOVEMENT_AUTHORITY
+
+## 14. Rule Promotion Ladder — Final Form
+
+Level 0 — Ticket Guess
+
+The receptionist proposed a label.
+
+No learning.
+No rule.
+No authority.
+
+Level 1 — User Correction
+
+The user corrected the ticket.
+
+Learning signal exists.
+Still no rule.
+
+Level 2 — Learning Ledger Row
+
+The correction is stored with reason and counterexample.
+
+Pattern memory exists.
+Still no rule.
+
+Level 3 — Repeated Reviewed Pattern
+
+The same pattern appears again and survives review.
+
+Rule candidate may be written.
+Still no active rule.
+
+Level 4 — Active Receptionist Rule
+
+The pattern is accepted for future classification.
+
+Classification authority only.
+No movement authority.
+
+Level 5 — Executor-Eligible Classification Rule
+
+The rule may help select rows for future approved executor design.
+
+Still no execution.
+Still requires approved rows.
+
+Level 6 — Structural House Rule Candidate
+
+The rule changes how the house works.
+
+Requires separate authority review.
+Not automatic doctrine.
+
+Level 7 — Doctrine
+
+Rare.
+Requires explicit promotion.
+Most receptionist learning should not reach this level.
+
+## 15. Pattern Counterexample Discipline
+
+Every promoted rule needs counterexamples.
+
+Example pattern:
+
+“Files ending in `_RECEIPT.txt` are usually proof.”
+
+Counterexamples:
+
+A receipt may include stale next-action language.
+A receipt may prove only an old failed run.
+A receipt may not be current authority.
+A receipt may be in the wrong folder.
+A receipt hash proves identity, not quality.
+
+Therefore accepted rule:
+
+`_RECEIPT.txt` strongly suggests PROOF_HISTORY or RECEIPT role, but movement and authority remain blocked until current context is checked.
+
+Example pattern:
+
+“PowerShell files are helper candidates.”
+
+Counterexamples:
+
+Some PowerShell files may be unsafe cleanup tools.
+Some may be failed generated runners.
+Some may be current one-shot build files.
+Some may be obsolete proof/history artifacts.
+Some may touch Git or delete/move files.
+
+Therefore accepted rule:
+
+`.ps1` suggests EXECUTABLE_HELPER_REVIEW_REQUIRED, not runnable helper.
+
+Example pattern:
+
+“Zero-byte files are junk.”
+
+Counterexamples:
+
+Zero-byte may be marker, placeholder, failed output evidence, old-load proof, or system artifact.
+
+Therefore accepted rule:
+
+Zero-byte is a review signal only, never deletion proof.
+
+## 16. WALK 11 — Approved-Row Executor Candidate
+
+Rooms:
+
+Work Shed
+Proof Room
+Crime Scene Room
+Final Judge Room
+
+Tools:
+
+HAND
+BONE
+SCAR
+LOCK
+
+Reason for these rooms/tools:
+
+Work Shed builds tools.
+Proof Room verifies hashes and receipts.
+Crime Scene anticipates failure.
+Final Judge blocks unsafe action.
+HAND selects the exact tool.
+BONE verifies custody.
+SCAR stress-tests failure paths.
+LOCK prevents false completion.
+
+## 17. WALK 11 — Ceiling Pass
+
+The approved-row executor candidate is not the receptionist.
+
+It is a separate later tool concept.
+
+It may exist only after:
+
+root pilot,
+user review,
+learning ledger,
+room pilot,
+pattern comparison,
+approved movement rows,
+current live-delta check.
+
+The executor has no classification authority.
+
+It only acts on approved rows.
+
+The ceiling principle:
+
+The executor obeys; it does not decide.
+
+The executor candidate should be designed with strict gates:
+
+row approved,
+source path exists,
+hash matches,
+destination authorized,
+no blocked label,
+no authority conflict,
+no system-file delete,
+no source rewrite,
+no cleanup action,
+no unexpected live delta,
+dry run passed,
+user approved physical run.
+
+## 18. WALK 11 — Walls Pass
+
+The executor candidate must not:
+
+choose files,
+invent destinations,
+classify objects,
+approve rows,
+override risk,
+override confidence,
+move unapproved files,
+delete files by default,
+rename by default,
+execute helper scripts,
+rewrite source,
+commit by default,
+push,
+cleanup,
+create broad folder structures,
+operate on hash-changed files,
+operate on missing files,
+operate on unknown files,
+operate on blocked files,
+operate after Git dirty state unless approved,
+claim done without receipt.
+
+Executor must block when:
+
+row approval missing,
+hash mismatch,
+source path changed,
+destination path missing and creation not approved,
+file has HIGH_RISK_SOURCE,
+file has BLOCKED_RISK_UNKNOWN_EXECUTABLE,
+file has SYSTEM_FILE_LEAVE_IN_PLACE,
+file has USER_DECISION_REQUIRED,
+file is only reported-not-verified,
+file is receipt-as-order risk,
+file is helper candidate not accepted,
+file is source authority candidate,
+file is cleanup/delete/move capable,
+live root delta not reviewed.
+
+## 19. WALK 11 — Roof Pass
+
+Executor candidate needs two stages:
+
+Stage 1:
+executor dry run.
+
+Stage 2:
+executor physical run only if separately approved.
+
+Executor dry-run fields:
+
+Approved row ID
+Source path
+Source SHA256 expected
+Source SHA256 current
+Destination path
+Destination parent exists
+Destination parent creation approved
+Role label
+State label
+Risk label
+Authority label
+Approval proof
+Blocker check
+Dry-run action
+Physical action allowed
+DoesNotProve
+
+Physical run receipt fields:
+
+Run ID
+Approved row set
+Pre-run Git status
+Pre-run file state
+Files moved
+Files deleted
+Files renamed
+Files copied
+Files skipped
+Blockers
+Post-run file state
+Post-run hashes
+Post-run Git status
+Receipt hash
+Stress bench verdict
+DoesNotProve
+
+Default executor design:
+
+No delete.
+No overwrite.
+No rename unless row-specific.
+Move only approved rows.
+Stop on first unexpected state.
+Write receipt.
+No push.
+
+## 20. WALK 11 — 33rd Synthesis
+
+The approved-row executor is late.
+
+Before building it, the house must have approved rows.
+
+Smallest safe object before any executor:
+
+APPROVED_ROW_EXECUTOR_REQUIREMENTS_AND_BLOCKER_SPEC_V0_1
+
+Not the executor itself.
+
+Final scoped verdict:
+
+EXECUTOR_REQUIREMENTS_CAN_BE_DEFINED_NOW_EXECUTOR_CANNOT_BE_BUILT_UNTIL_APPROVED_ROWS_EXIST
+
+## 21. Executor Approval Ladder
+
+Level 0 — Route Plan
+
+Shows possible route.
+No action.
+
+Level 1 — Receptionist Ticket
+
+Proposes placement.
+No action.
+
+Level 2 — User-Reviewed Ticket
+
+User corrected or accepted.
+Still no action.
+
+Level 3 — Approved-for-Later Row
+
+User says row may be considered for movement.
+Still no action.
+
+Level 4 — Executor Dry-Run Row
+
+Executor dry run validates current state.
+Still no physical action.
+
+Level 5 — Physical Movement Approval
+
+User explicitly approves physical move for exact rows.
+Action allowed only in scope.
+
+Level 6 — Movement Receipt
+
+Action happened and was recorded.
+
+Level 7 — Post-Move Review
+
+Check that move did not create drift.
+
+No row may skip levels.
+
+## 22. Executor DoesNotProve
+
+An executor dry run proves only:
+
+the approved row was read,
+current state was checked,
+hashes were compared,
+destination was proposed,
+blockers were evaluated,
+no physical action happened.
+
+It does not prove:
+
+movement is approved,
+cleanup is approved,
+all rows are safe,
+future state will match,
+Git push is approved,
+source is correct,
+helper is safe to run,
+old files may be deleted.
+
+A physical executor receipt proves only:
+
+the scoped action happened as recorded.
+
+It does not prove:
+
+the route was semantically perfect,
+cleanup is now safe,
+project is complete,
+source is correct,
+future assistants may generalize.
+
+## 23. WALK 12 — Cleanup Discipline
+
+Rooms:
+
+Final Judge Room
+Proof Room
+Crime Scene Room
+Archive Room
+
+Tools:
+
+SCISSOR
+BONE
+SCAR
+LOCK
+
+Reason for these rooms/tools:
+
+Cleanup is cutting; it needs Final Judge.
+Proof Room prevents proof loss.
+Crime Scene prevents deleting failure evidence.
+Archive Room preserves history.
+SCISSOR cuts only with authority.
+BONE checks proof.
+SCAR detects false cleanup.
+LOCK records what happened.
+
+## 24. WALK 12 — Ceiling Pass
+
+Cleanup is not the same as organization.
+
+Routing puts things where they belong.
+Archiving preserves old/proof/history.
+Supersession marks old active guidance as no longer current.
+Cleanup removes or reduces only after custody is proven.
+
+The ceiling principle:
+
+Cleanup is a late-stage privilege.
+
+The house does not earn cleanup authority until:
+
+source is protected,
+proof is preserved,
+route results are verified,
+old guidance is superseded,
+user has approved cleanup scope,
+delete candidates are separated from archive candidates,
+system files are protected,
+rough_state has been reviewed,
+no unresolved evidence remains.
+
+## 25. WALK 12 — Walls Pass
+
+Cleanup must not:
+
+delete proof,
+delete receipts,
+delete old loads by assumption,
+delete zero-byte files by assumption,
+delete system files,
+delete failed-runner evidence,
+delete rough_state,
+delete source candidates,
+delete helper candidates,
+delete old helper files without supersession proof,
+collapse archive into trash,
+clean because root looks ugly,
+clean because files were routed,
+clean because Git is clean,
+clean because a receipt exists,
+clean because user is tired of mess,
+clean without exact list.
+
+Cleanup must block when:
+
+file proves drift,
+file proves failure,
+file proves sequence,
+file has unknown authority,
+file is only reported-not-verified,
+file has no current hash,
+file may contain local-only sensitive material,
+file is needed for rollback,
+file is old but not superseded,
+file is duplicate-looking but not compared,
+file is system metadata,
+file is rough-state material.
+
+## 26. WALK 12 — Roof Pass
+
+Cleanup needs separate candidate types.
+
+Cleanup candidate labels:
+
+ARCHIVE_CANDIDATE
+SUPERSEDE_AND_PRESERVE_CANDIDATE
+DELETE_CANDIDATE_USER_APPROVAL_REQUIRED
+LEAVE_IN_PLACE_SYSTEM
+LEAVE_IN_PLACE_PROOF
+LEAVE_IN_PLACE_ROUGH_STATE
+REVIEW_BEFORE_CLEANUP
+BLOCK_CLEANUP
+
+Cleanup ticket fields:
+
+File
+Current path
+Current hash
+Role
+State
+Why cleanup is considered
+Why preservation may be required
+Archive alternative
+Delete risk
+Proof value
+Rollback value
+User approval needed
+Recommended action
+Action now
+DoesNotProve
+
+Required default:
+
+ACTION_NOW = NO
+
+Cleanup approval must be exact-row approval.
+
+No batch delete by label alone.
+
+## 27. WALK 12 — 33rd Synthesis
+
+Cleanup is not part of the receptionist pilot.
+
+Cleanup gets its own later discipline after routing.
+
+Smallest safe object now:
+
+HOUSE_RECEPTIONIST_CLEANUP_DISCIPLINE_RULE_CANDIDATE_V0_1
+
+But it remains a candidate only.
+
+Final scoped verdict:
+
+CLEANUP_DISCIPLINE_CAN_BE_DEFINED_NOW_CLEANUP_ACTION_REMAINS_BLOCKED
+
+## 28. Cleanup Ladder
+
+Level 0 — Looks Old
+
+No action.
+
+Level 1 — Classified as Old/Superseded Candidate
+
+No action.
+
+Level 2 — Proof Value Checked
+
+Still no action.
+
+Level 3 — Archive Alternative Identified
+
+Still no action.
+
+Level 4 — User Reviews Cleanup Candidate
+
+Still no action unless exact approval.
+
+Level 5 — Exact Cleanup Approval
+
+Action allowed only for approved rows.
+
+Level 6 — Cleanup Execution
+
+Receipt required.
+
+Level 7 — Post-Cleanup Proof Review
+
+Confirm no proof/source/custody loss.
+
+Most files should stop at archive or preserve, not delete.
+
+## 29. Batch 3 Build Sequence
+
+Correct Batch 3 build order:
+
+1. FIRST_ROOM_RECEPTIONIST_ROOM_CONTRACT_SCHEMA_V0_1
+2. FIRST_ROOM_RECEPTIONIST_DRY_RUN_SELECTOR_REQUIREMENTS_V0_1
+3. RECEPTIONIST_PATTERN_COMPARISON_AND_RULE_PROMOTION_REVIEW_SCHEMA_V0_1
+4. RECEPTIONIST_RULE_PROMOTION_LADDER_FINAL_V0_1
+5. APPROVED_ROW_EXECUTOR_REQUIREMENTS_AND_BLOCKER_SPEC_V0_1
+6. EXECUTOR_APPROVAL_LADDER_V0_1
+7. HOUSE_RECEPTIONIST_CLEANUP_DISCIPLINE_RULE_CANDIDATE_V0_1
+8. CLEANUP_APPROVAL_LADDER_V0_1
+
+This sequence defines expansion and action boundaries.
+
+It still does not build the executor.
+
+## 30. Batch 3 Drift Checks
+
+Before leaving Batch 3, answer:
+
+Did one-room pilot stay one-room only?
+Did room context prevent root-rule overgeneralization?
+Did pattern comparison preserve counterexamples?
+Did rule promotion avoid movement authority?
+Did executor candidate stay separate from receptionist?
+Did executor design require exact approved rows?
+Did executor design require hash/current-state checks?
+Did cleanup remain late-stage?
+Did cleanup preserve proof by default?
+Did delete remain exact-row user-approved only?
+Did any row skip approval levels?
+Did any candidate become doctrine?
+Did any dry run become physical action?
+
+If any answer fails, Batch 3 is not clean.
+
+## 31. Batch 3 Final Verdict
+
+Batch 3 defines how the receptionist may expand and how a later mover may be specified without being created too early.
+
+The system is still not ready for physical routing.
+
+It is ready to define one-room pilot requirements, pattern promotion review, executor requirements, and cleanup discipline.
+
+Final scoped verdict:
+
+HOUSE_RECEPTIONIST_BATCH_3_EXPANSION_AND_ACTION_BOUNDARY_READY_FOR_ONE_ROOM_REQUIREMENTS_AND_EXECUTOR_SPEC_NOT_READY_FOR_EXECUTOR_BUILD_OR_CLEANUP_ACTION
+
+Batch 3 closes the third gap: the system can now think about expansion and action without accidentally granting action. The important correction is that we do **not** build the mover after the root pilot. We build the mover’s blocker spec first, then wait for approved rows.
+
+Next batch should be the full master index: all objects in order, gate dependencies, blocked-action map, and the final recommended build sequence from current pause point forward.
+
+
+
+
+
+
+
+Batch 4 anchors the master index to the current house laws: helper work must keep one active object and avoid side quests; receipts remain proof, not active orders; blocked actions stay blocked unless explicitly approved.  The chat-entry rule remains `URL -> LEDGER -> MAP -> KEY -> only needed tunnel`, with one active object, one source/proof pointer, and one next condition.  The current file-traction material also keeps the key distinction between verified, reported, support, proof/history, candidate, and blocked material. 
+
+# HOUSE RECEPTIONIST MASTER PLAN — BATCH 4
+
+## Master Index, Gate Dependencies, Blocked-Action Map, and Final Build Order
+
+Status: MASTER PLAN BATCH 4 / MASTER INDEX / DEPENDENCY GUIDE / NOT DOCTRINE / NOT EXECUTION AUTHORITY / NOT CLEANUP ORDER / NOT ROUTE ORDER
+
+## 0. Batch 4 Purpose
+
+Batch 1 built the method spine.
+
+Batch 2 built the learning engine.
+
+Batch 3 built the expansion and action-separation guide.
+
+Batch 4 turns all of that into a master index.
+
+The purpose of this batch is to answer:
+
+What are all the objects?
+What order do they come in?
+Which gates must pass first?
+What blocks each step?
+What does each object prove?
+What does each object not prove?
+When does the system stop?
+When does the system ask the user?
+When does the system learn?
+When does the system become allowed to act?
+
+This batch is still planner material.
+
+It does not build code.
+It does not move files.
+It does not authorize movement.
+It does not authorize cleanup.
+It does not authorize execution.
+It does not authorize Git push.
+It does not promote doctrine.
+
+## 1. Batch 4 Walk Set
+
+Batch 4 covers:
+
+WALK 13 — Master Object Index
+WALK 14 — Gate Dependency Map
+WALK 15 — Blocked-Action Map
+WALK 16 — Final Build Sequence From Current Pause Point
+WALK 17 — Stop/Ask/Proceed Rules
+WALK 18 — Final 33rd Compression
+
+Each walk uses ceiling, walls, roof, and 33rd synthesis.
+
+## 2. Master Rule of Batch 4
+
+No object may be built merely because it is listed.
+
+The index is not permission.
+
+The build order is not execution authority.
+
+The dependency map is not route authority.
+
+The blocked-action map is not cleanup authority.
+
+A listed future executor is not an executor.
+
+A listed cleanup discipline is not cleanup permission.
+
+A listed doctrine candidate is not doctrine.
+
+The index tells the house what exists in the plan and what must happen first.
+
+## 3. WALK 13 — Master Object Index
+
+Rooms:
+
+Map Room
+Ledger Room
+Sorting Bench
+Final Judge Room
+
+Tools:
+
+NERVE
+BONE
+HAND
+KEY
+
+Reason for rooms/tools:
+
+Map Room sees relation.
+Ledger Room sees current state.
+Sorting Bench separates object classes.
+Final Judge prevents false promotion.
+NERVE traces sequence.
+BONE checks proof need.
+HAND chooses what kind of object each item is.
+KEY defines what each object is allowed to mean.
+
+## 4. WALK 13 — Ceiling Pass
+
+The master object index exists so future assistants do not invent the next step.
+
+It names the planned objects and their roles.
+
+The index must prevent two failures:
+
+First, missing-link drift, where the assistant skips a needed rule and jumps to root dry run.
+
+Second, overbuild drift, where the assistant builds too many helper files at once.
+
+The ceiling principle:
+
+The object index gives sequence, not permission.
+
+Every object must declare:
+
+status,
+purpose,
+input,
+output,
+allowed use,
+blocked use,
+dependency,
+DoesNotProve.
+
+## 5. WALK 13 — Walls Pass
+
+The master object index must not:
+
+authorize execution,
+authorize movement,
+authorize cleanup,
+authorize push,
+authorize doctrine promotion,
+collapse batches into one mega-file,
+turn every concept into a new helper,
+ignore current pause boundary,
+repeat old completed work,
+reopen washer queue work,
+reopen Phase 2 Chat Drop work,
+treat older next-actions as current,
+treat route plan as route order.
+
+Index failure patterns:
+
+Too many objects with no dependency.
+Objects named but no purpose.
+Objects with purpose but no stop condition.
+Objects with stop condition but no DoesNotProve.
+Objects whose names imply execution too early.
+Objects that combine receptionist and mover.
+Objects that combine mover and cleanup.
+Objects that combine rule and doctrine.
+
+## 6. WALK 13 — Roof Pass
+
+The master object index needs layers.
+
+Layer A:
+
+Current Boundary and Method Foundation.
+
+Layer B:
+
+Receptionist Definition.
+
+Layer C:
+
+Ticket and Label Grammar.
+
+Layer D:
+
+Risk, Confidence, and Learning.
+
+Layer E:
+
+Root Pilot.
+
+Layer F:
+
+Room Surface and One-Room Expansion.
+
+Layer G:
+
+Pattern Comparison and Promotion.
+
+Layer H:
+
+Executor Requirements.
+
+Layer I:
+
+Cleanup Discipline.
+
+Layer J:
+
+Doctrine/Rule Promotion Review.
+
+Layer K:
+
+Final Handoff and Operating Ledger.
+
+Every layer must have:
+
+main object,
+support object,
+gate,
+blocked action,
+review point,
+next legal action.
+
+## 7. WALK 13 — 33rd Synthesis
+
+The master object index should be a controlled ladder.
+
+Not a pile.
+
+Smallest safe object from this walk:
+
+HOUSE_RECEPTIONIST_MASTER_OBJECT_INDEX_V0_1
+
+Final scoped verdict:
+
+MASTER_OBJECT_INDEX_CAN_BE_BUILT_AS_PLANNER_GUIDE_NOT_AUTHORITY
+
+## 8. Master Object Index — Layer A: Current Boundary and Method Foundation
+
+### A1. HOUSE_RECEPTIONIST_CURRENT_BOUNDARY_LOCK_CARD_V0_1
+
+Role:
+
+Locks the current pause point before new receptionist work begins.
+
+Purpose:
+
+Prevent the route-plan pause from being overwritten by the new method.
+
+Must record:
+
+current boundary,
+current route-plan status,
+latest known commit if available,
+no-physical-action fact,
+blocked actions,
+next approval gate,
+DoesNotProve.
+
+Allowed use:
+
+orientation,
+continuation,
+drift check.
+
+Blocked use:
+
+movement authority,
+cleanup authority,
+executor authority,
+doctrine authority.
+
+Dependency:
+
+current handoff / route-plan pause state.
+
+Next:
+
+A2.
+
+### A2. HOUSE_RECEPTIONIST_METHOD_RESEARCH_AND_FIT_REPORT_V0_1
+
+Role:
+
+Explains why the receptionist method is the right pattern.
+
+Purpose:
+
+Connect outside methods and house methods.
+
+Must include:
+
+records/file-plan fit,
+controlled vocabulary fit,
+curation/custody fit,
+Kanban/WIP fit,
+decision-record fit,
+Woz-style small-slice fit,
+house translation,
+accepted principles,
+rejected shortcuts.
+
+Allowed use:
+
+method justification,
+future assistant education.
+
+Blocked use:
+
+execution authority,
+movement authority,
+doctrine promotion.
+
+Dependency:
+
+A1.
+
+Next:
+
+B1.
+
+## 9. Master Object Index — Layer B: Receptionist Definition
+
+### B1. HOUSE_RECEPTIONIST_ROLE_CARD_V0_1
+
+Role:
+
+Defines the receptionist as a non-mutating intake role.
+
+Purpose:
+
+Prevent the receptionist from becoming mover, janitor, source judge, or doctrine promoter.
+
+Must include:
+
+allowed actions,
+blocked actions,
+input surface,
+output ticket,
+review path,
+learning path,
+DoesNotProve.
+
+Allowed use:
+
+role definition,
+assistant instruction,
+helper preflight.
+
+Blocked use:
+
+physical action,
+movement,
+cleanup,
+execution.
+
+Dependency:
+
+A2.
+
+Next:
+
+B2.
+
+### B2. HOUSE_RECEPTIONIST_ROLE_SEPARATION_CARD_V0_1
+
+Role:
+
+Separates receptionist, mover, janitor, archivist, judge, teacher.
+
+Purpose:
+
+Prevent role collapse.
+
+Must include:
+
+role table,
+what each role may do,
+what each role may never do,
+handoff boundary between roles.
+
+Allowed use:
+
+method control,
+future helper boundary.
+
+Blocked use:
+
+creating executor early,
+cleanup permission.
+
+Dependency:
+
+B1.
+
+Next:
+
+C1.
+
+## 10. Master Object Index — Layer C: Authority, Ticket, and Label Grammar
+
+### C1. HOUSE_RECEPTIONIST_AUTHORITY_ROLE_MATRIX_V0_1
+
+Role:
+
+Maps file roles to allowed authority.
+
+Purpose:
+
+Prevent support/proof/source/helper collapse.
+
+Must include columns:
+
+object role,
+may orient,
+may prove,
+may instruct,
+may execute,
+may authorize movement,
+may be source authority,
+needs user review,
+default action.
+
+Allowed use:
+
+classification control.
+
+Blocked use:
+
+movement approval,
+helper execution,
+doctrine promotion.
+
+Dependency:
+
+B2.
+
+Next:
+
+C2.
+
+### C2. HOUSE_RECEPTIONIST_TICKET_GRAMMAR_V0_1
+
+Role:
+
+Defines the ticket fields.
+
+Purpose:
+
+Make every file classification visible, reviewable, and non-mutating.
+
+Must include:
+
+ticket ID,
+file name,
+current path,
+hash,
+size,
+extension,
+observed signals,
+role,
+state,
+authority,
+risk,
+confidence,
+proposal,
+proof needed,
+user decision needed,
+blocked actions,
+Action Now,
+DoesNotProve.
+
+Default:
+
+ACTION_NOW = NO
+
+Allowed use:
+
+ticket generation.
+
+Blocked use:
+
+movement order.
+
+Dependency:
+
+C1.
+
+Next:
+
+C3.
+
+### C3. HOUSE_RECEPTIONIST_CONTROLLED_LABEL_SET_V0_1
+
+Role:
+
+Defines official role/state/proposal/risk/authority labels.
+
+Purpose:
+
+Stop label inflation and drift.
+
+Must include:
+
+role labels,
+state labels,
+proposal labels,
+risk labels,
+authority labels,
+review labels,
+candidate-label path.
+
+Allowed use:
+
+ticket classification.
+
+Blocked use:
+
+inventing new live labels,
+movement authority.
+
+Dependency:
+
+C2.
+
+Next:
+
+D1.
+
+## 11. Master Object Index — Layer D: Risk, Confidence, and Learning
+
+### D1. HOUSE_RECEPTIONIST_RISK_CONFIDENCE_GATE_V0_1
+
+Role:
+
+Separates knowledge from permission.
+
+Purpose:
+
+Prevent high confidence from becoming authority.
+
+Must include:
+
+risk scale,
+confidence scale,
+risk/confidence matrix,
+examples,
+block conditions.
+
+Allowed use:
+
+ticket scoring,
+review triage.
+
+Blocked use:
+
+approving movement.
+
+Dependency:
+
+C3.
+
+Next:
+
+D2.
+
+### D2. HOUSE_RECEPTIONIST_PLACEMENT_LEARNING_LEDGER_SCHEMA_V0_1
+
+Role:
+
+Defines how reviewed corrections become learning rows.
+
+Purpose:
+
+Prevent fake learning from assistant guesses.
+
+Must include:
+
+learning row fields,
+promotion states,
+counterexample section,
+anti-bloat rule,
+DoesNotProve.
+
+Allowed use:
+
+recording user-reviewed corrections.
+
+Blocked use:
+
+doctrine authority,
+movement authority,
+self-training from guesses.
+
+Dependency:
+
+D1.
+
+Next:
+
+D3.
+
+### D3. HOUSE_RECEPTIONIST_LEARNING_PROMOTION_LADDER_V0_1
+
+Role:
+
+Defines how observations become candidate rules.
+
+Purpose:
+
+Stop one example from becoming law.
+
+Must include:
+
+ticket guess,
+user correction,
+learning row,
+repeated reviewed pattern,
+rule candidate,
+active receptionist rule,
+executor-eligible classification rule,
+structural house rule candidate,
+doctrine.
+
+Allowed use:
+
+promotion review.
+
+Blocked use:
+
+automatic promotion.
+
+Dependency:
+
+D2.
+
+Next:
+
+D4.
+
+### D4. HOUSE_RECEPTIONIST_COUNTEREXAMPLE_TABLE_V0_1
+
+Role:
+
+Captures where a pattern fails.
+
+Purpose:
+
+Prevent overgeneralization.
+
+Must include:
+
+pattern,
+false match,
+where it failed,
+why it failed,
+blocked generalization,
+safe revised rule.
+
+Allowed use:
+
+rule repair.
+
+Blocked use:
+
+deleting old learning.
+
+Dependency:
+
+D3.
+
+Next:
+
+E1.
+
+## 12. Master Object Index — Layer E: Root Pilot
+
+### E1. ROOT_RECEPTIONIST_PLACEMENT_DRY_RUN_SELECTOR_REQUIREMENTS_V0_1
+
+Role:
+
+Defines the root pilot requirements before building the pilot.
+
+Purpose:
+
+Prevent root dry run from becoming route executor.
+
+Must include:
+
+scope,
+input,
+output,
+blocked actions,
+ticket fields,
+delta requirements,
+risk/confidence use,
+stress bench requirements.
+
+Allowed use:
+
+pilot design.
+
+Blocked use:
+
+physical routing.
+
+Dependency:
+
+D4.
+
+Next:
+
+E2.
+
+### E2. ROOT_RECEPTIONIST_PLACEMENT_DRY_RUN_SELECTOR_V0_1
+
+Role:
+
+Runs root-only dry-run classification and ticketing.
+
+Purpose:
+
+Make root legible without touching files.
+
+Must output:
+
+root snapshot summary,
+delta table,
+ticket board,
+unknown table,
+blocked table,
+proposed holding lane table,
+user decision table,
+receipt,
+stress bench.
+
+Must prove:
+
+0 moved,
+0 deleted,
+0 renamed,
+0 routed,
+0 executed,
+0 committed,
+0 pushed,
+0 Action Now YES rows.
+
+Allowed use:
+
+user review.
+
+Blocked use:
+
+movement.
+
+Dependency:
+
+E1 and explicit user approval for dry-run selector.
+
+Next:
+
+E3.
+
+### E3. ROOT_RECEPTIONIST_USER_REVIEW_AND_CORRECTION_PASS_V0_1
+
+Role:
+
+Captures user correction of root tickets.
+
+Purpose:
+
+Turn root pilot output into reviewed learning.
+
+Must include:
+
+accepted tickets,
+rejected tickets,
+corrected labels,
+corrected risk,
+corrected confidence,
+corrected holding lane,
+new counterexamples,
+new user decision points.
+
+Allowed use:
+
+learning ledger input.
+
+Blocked use:
+
+movement.
+
+Dependency:
+
+E2.
+
+Next:
+
+E4.
+
+### E4. ROOT_RECEPTIONIST_PLACEMENT_LEARNING_UPDATE_V0_1
+
+Role:
+
+Applies reviewed root corrections into learning ledger.
+
+Purpose:
+
+Convert user correction into structured patterns.
+
+Must include:
+
+learning rows,
+counterexample rows,
+candidate rules,
+rejected patterns,
+promotion state.
+
+Allowed use:
+
+future receptionist improvement.
+
+Blocked use:
+
+executor authority.
+
+Dependency:
+
+E3.
+
+Next:
+
+F1.
+
+## 13. Master Object Index — Layer F: Room Surface and One-Room Expansion
+
+### F1. HOUSE_RECEPTIONIST_ROOM_SURFACE_INDEX_REQUIREMENTS_V0_1
+
+Role:
+
+Defines shallow house-wide room surface index.
+
+Purpose:
+
+Prevent whole-project deep crawl.
+
+Must include:
+
+top-level room fields,
+room role labels,
+room intake rules,
+room exit rules,
+proof requirements,
+blocked room states.
+
+Allowed use:
+
+room-surface planning.
+
+Blocked use:
+
+deep file crawl,
+route action,
+folder rewrite.
+
+Dependency:
+
+E4.
+
+Next:
+
+F2.
+
+### F2. HOUSE_RECEPTIONIST_ROOM_SURFACE_INDEX_DRY_RUN_V0_1
+
+Role:
+
+Classifies top-level rooms only.
+
+Purpose:
+
+Find room purposes before room file pilots.
+
+Must output:
+
+room list,
+room role,
+expected object types,
+forbidden object types,
+authority level,
+proof requirement,
+known blockers,
+unknown rooms,
+recommended first room pilot.
+
+Allowed use:
+
+select one room.
+
+Blocked use:
+
+classifying every file,
+routing,
+cleanup.
+
+Dependency:
+
+F1.
+
+Next:
+
+F3.
+
+### F3. FIRST_ROOM_RECEPTIONIST_ROOM_CONTRACT_SCHEMA_V0_1
+
+Role:
+
+Defines contract for the selected first room.
+
+Purpose:
+
+Prevent room pilot from ignoring room context.
+
+Must include:
+
+room purpose,
+room authority,
+expected object types,
+forbidden object types,
+parent/child/neighbor relations,
+proof rules,
+exit rules,
+blocked actions.
+
+Allowed use:
+
+selected room pilot.
+
+Blocked use:
+
+whole-house expansion.
+
+Dependency:
+
+F2.
+
+Next:
+
+F4.
+
+### F4. FIRST_ROOM_RECEPTIONIST_DRY_RUN_SELECTOR_V0_1
+
+Role:
+
+Dry-run tickets inside one selected room.
+
+Purpose:
+
+Test root-learned rules in room context.
+
+Must output:
+
+room contract,
+room ticket board,
+room-fit summary,
+unknown table,
+blocker table,
+counterexample table,
+learning-candidate table,
+receipt,
+stress bench.
+
+Must prove:
+
+0 moved,
+0 deleted,
+0 renamed,
+0 routed,
+0 executed,
+0 destination folders created,
+0 commits,
+0 pushes,
+0 Action Now YES rows.
+
+Allowed use:
+
+room learning.
+
+Blocked use:
+
+movement,
+cleanup,
+room rewrite.
+
+Dependency:
+
+F3 and explicit user approval.
+
+Next:
+
+F5.
+
+### F5. FIRST_ROOM_USER_REVIEW_AND_LEARNING_UPDATE_V0_1
+
+Role:
+
+Captures user correction from first room.
+
+Purpose:
+
+Compare root expectations against room reality.
+
+Must include:
+
+accepted room patterns,
+rejected root transfer patterns,
+room-specific corrections,
+counterexamples,
+candidate room rules.
+
+Allowed use:
+
+pattern comparison.
+
+Blocked use:
+
+global promotion without review.
+
+Dependency:
+
+F4.
+
+Next:
+
+G1.
+
+## 14. Master Object Index — Layer G: Pattern Comparison and Promotion
+
+### G1. RECEPTIONIST_PATTERN_COMPARISON_AND_RULE_PROMOTION_REVIEW_SCHEMA_V0_1
+
+Role:
+
+Defines pattern comparison fields.
+
+Purpose:
+
+Prevent one surface from becoming house-wide law.
+
+Must include:
+
+root examples,
+room examples,
+user confirmations,
+counterexamples,
+rule scope,
+risk,
+authority conflict,
+promotion decision.
+
+Allowed use:
+
+promotion review.
+
+Blocked use:
+
+automatic rule activation.
+
+Dependency:
+
+F5.
+
+Next:
+
+G2.
+
+### G2. RECEPTIONIST_PATTERN_COMPARISON_AND_RULE_PROMOTION_REVIEW_V0_1
+
+Role:
+
+Compares root and room learning.
+
+Purpose:
+
+Decide whether patterns stay parked, become room-specific, or become active receptionist rules.
+
+Promotion decisions:
+
+PROMOTE_TO_ACTIVE_RECEPTIONIST_RULE
+PROMOTE_TO_ROOM_SPECIFIC_RULE
+KEEP_AS_RULE_CANDIDATE
+PARK_NEEDS_MORE_EXAMPLES
+REJECT_PATTERN
+BLOCK_PATTERN_DANGEROUS
+SPLIT_PATTERN_BY_ROOM
+SPLIT_PATTERN_BY_ROLE
+SUPERSEDE_OLDER_PATTERN
+
+Allowed use:
+
+classification rule promotion.
+
+Blocked use:
+
+movement authority,
+cleanup authority,
+doctrine promotion.
+
+Dependency:
+
+G1.
+
+Next:
+
+G3.
+
+### G3. ACTIVE_RECEPTIONIST_RULES_LEDGER_V0_1
+
+Role:
+
+Stores accepted receptionist classification rules.
+
+Purpose:
+
+Separate active classification rules from learning notes.
+
+Must include:
+
+rule ID,
+rule text,
+scope,
+examples,
+counterexamples,
+authority limit,
+review date,
+supersession relation,
+DoesNotProve.
+
+Allowed use:
+
+future ticket classification.
+
+Blocked use:
+
+executor authority,
+cleanup authority,
+source authority.
+
+Dependency:
+
+G2.
+
+Next:
+
+H1.
+
+## 15. Master Object Index — Layer H: Executor Requirements
+
+### H1. APPROVED_ROW_EXECUTOR_REQUIREMENTS_AND_BLOCKER_SPEC_V0_1
+
+Role:
+
+Defines requirements for a later mover.
+
+Purpose:
+
+Make sure executor obeys approved rows and does not classify.
+
+Must include:
+
+approved-row requirement,
+hash/current-path check,
+destination approval,
+blocker list,
+stop conditions,
+receipt requirement,
+stress bench requirement,
+no-delete default,
+no-overwrite default,
+no-push default.
+
+Allowed use:
+
+future executor design.
+
+Blocked use:
+
+building executor now.
+
+Dependency:
+
+G3 and user-approved movement rows.
+
+Next:
+
+H2 only after rows exist.
+
+### H2. APPROVED_ROW_EXECUTOR_DRY_RUN_REQUIREMENTS_V0_1
+
+Role:
+
+Defines executor dry run.
+
+Purpose:
+
+Validate approved rows without physical movement.
+
+Must include:
+
+row ID,
+source path,
+expected hash,
+current hash,
+destination,
+parent exists,
+approval proof,
+blockers,
+dry-run action,
+physical action allowed flag.
+
+Allowed use:
+
+executor dry run planning.
+
+Blocked use:
+
+physical movement.
+
+Dependency:
+
+H1 and exact approved rows.
+
+Next:
+
+H3 only after dry run passes and user approves.
+
+### H3. APPROVED_ROW_ROUTE_EXECUTOR_V0_1
+
+Role:
+
+Physical mover for exact approved rows only.
+
+Purpose:
+
+Move scoped rows after all gates.
+
+Must not:
+
+classify,
+choose files,
+invent destinations,
+delete,
+overwrite,
+push,
+execute helpers,
+rewrite source,
+cleanup.
+
+Allowed use:
+
+exact approved physical move.
+
+Blocked use:
+
+any unapproved row.
+
+Dependency:
+
+H2, clean dry run, exact user approval.
+
+Next:
+
+H4.
+
+### H4. POST_MOVE_RECEIPT_AND_STRESS_BENCH_V0_1
+
+Role:
+
+Records what happened after movement.
+
+Purpose:
+
+Prevent invisible success and drift.
+
+Must include:
+
+pre-state,
+action rows,
+skipped rows,
+post-state,
+hashes,
+blockers,
+receipt hash,
+stress bench,
+DoesNotProve.
+
+Allowed use:
+
+post-move proof.
+
+Blocked use:
+
+declaring cleanup safe.
+
+Dependency:
+
+H3.
+
+Next:
+
+I1.
+
+## 16. Master Object Index — Layer I: Cleanup Discipline
+
+### I1. HOUSE_RECEPTIONIST_CLEANUP_DISCIPLINE_RULE_CANDIDATE_V0_1
+
+Role:
+
+Defines cleanup as a late-stage separate discipline.
+
+Purpose:
+
+Prevent organization from becoming deletion.
+
+Must include:
+
+cleanup ladder,
+archive preference,
+proof-preservation rule,
+delete approval rule,
+system-file protection,
+zero-byte protection,
+old-load protection,
+rough-state protection.
+
+Allowed use:
+
+cleanup planning.
+
+Blocked use:
+
+cleanup action.
+
+Dependency:
+
+H4 or later route proof.
+
+Next:
+
+I2.
+
+### I2. CLEANUP_CANDIDATE_TICKET_GRAMMAR_V0_1
+
+Role:
+
+Defines cleanup ticket fields.
+
+Purpose:
+
+Make cleanup exact-row and reviewable.
+
+Must include:
+
+file,
+hash,
+role,
+state,
+why cleanup considered,
+proof value,
+archive alternative,
+delete risk,
+user approval needed,
+Action Now,
+DoesNotProve.
+
+Allowed use:
+
+cleanup candidate review.
+
+Blocked use:
+
+bulk deletion.
+
+Dependency:
+
+I1.
+
+Next:
+
+I3.
+
+### I3. CLEANUP_CANDIDATE_REVIEW_DRY_RUN_V0_1
+
+Role:
+
+Dry-run cleanup candidate review.
+
+Purpose:
+
+List possible archive/delete/preserve decisions without action.
+
+Allowed use:
+
+user review.
+
+Blocked use:
+
+delete,
+move,
+archive,
+rename.
+
+Dependency:
+
+I2 and explicit approval.
+
+Next:
+
+I4 only if user approves.
+
+### I4. APPROVED_CLEANUP_EXECUTOR_CANDIDATE_V0_1
+
+Role:
+
+Potential future cleanup executor.
+
+Purpose:
+
+Exact approved cleanup rows only.
+
+Default:
+
+archive over delete,
+delete only explicit rows,
+no proof deletion,
+no system deletion.
+
+Allowed use:
+
+only with exact approval.
+
+Blocked use:
+
+automatic cleanup.
+
+Dependency:
+
+I3, reviewed rows, exact approval.
+
+## 17. Master Object Index — Layer J: Doctrine and Rule Promotion
+
+### J1. RECEPTIONIST_STRUCTURAL_RULE_REVIEW_V0_1
+
+Role:
+
+Reviews which receptionist rules are structural.
+
+Purpose:
+
+Prevent every learning rule from becoming doctrine.
+
+Must classify:
+
+working rule,
+room-specific rule,
+active receptionist rule,
+executor-eligible rule,
+structural house rule candidate,
+doctrine candidate,
+blocked rule.
+
+Allowed use:
+
+rule governance.
+
+Blocked use:
+
+automatic doctrine promotion.
+
+Dependency:
+
+G3 and enough reviewed evidence.
+
+### J2. RECEPTIONIST_DOCTRINE_CANDIDATE_PACKET_V0_1
+
+Role:
+
+Packages only rare structural rules for possible doctrine review.
+
+Purpose:
+
+Make doctrine promotion explicit.
+
+Must include:
+
+context,
+decision,
+reason,
+counterexamples,
+supersedes,
+risk,
+DoesNotProve.
+
+Allowed use:
+
+user review.
+
+Blocked use:
+
+automatic install.
+
+Dependency:
+
+J1 and explicit user request.
+
+## 18. Master Object Index — Layer K: Final Handoff and Operating Ledger
+
+### K1. HOUSE_RECEPTIONIST_OPERATING_LEDGER_V0_1
+
+Role:
+
+Summarizes accepted receptionist operating rules.
+
+Purpose:
+
+Give future assistants a compact current guide.
+
+Must include:
+
+current role,
+active label set,
+active risk/confidence gate,
+active learning ledger,
+active room rules,
+blocked actions,
+current next action.
+
+Allowed use:
+
+future helper preflight.
+
+Blocked use:
+
+source authority,
+execution authority,
+cleanup authority.
+
+Dependency:
+
+A through J as accepted.
+
+### K2. HOUSE_RECEPTIONIST_NEXT_ACTION_SELECTOR_V0_1
+
+Role:
+
+Selects the next legal object after each completed phase.
+
+Purpose:
+
+Stop assistants from asking “what next?” when the last card gives a next condition.
+
+Must include:
+
+current object,
+completion verdict,
+blocked list,
+candidate next objects,
+selected next object,
+why,
+DoesNotProve.
+
+Allowed use:
+
+controlled continuation.
+
+Blocked use:
+
+skipping approval gates.
+
+Dependency:
+
+K1 or current phase closeout.
+
+## 19. WALK 14 — Gate Dependency Map
+
+Rooms:
+
+Ledger Room
+Proof Room
+Map Room
+Crime Scene Room
+
+Tools:
+
+NERVE
+BONE
+SCAR
+LOCK
+
+Reason for rooms/tools:
+
+Dependencies are state and proof.
+Map Room links objects.
+Ledger Room says current/next.
+Proof Room checks evidence.
+Crime Scene finds missing-gate failures.
+NERVE traces order.
+BONE checks proof.
+SCAR finds drift.
+LOCK prevents premature proceed.
+
+## 20. WALK 14 — Ceiling Pass
+
+A gate dependency map exists to stop steps from firing early.
+
+Every object has a “before” condition.
+
+No object should be built if its parent proof is missing.
+
+No dry run should happen before its requirements exist.
+
+No learning update should happen before user review.
+
+No executor spec should become executor.
+
+No cleanup candidate should happen before route proof.
+
+The ceiling principle:
+
+Dependency is protection.
+
+## 21. WALK 14 — Walls Pass
+
+Dependency failure patterns:
+
+root pilot built before labels,
+room pilot built before room surface index,
+pattern promotion built before room review,
+executor built before approved rows,
+cleanup planned before routing proof,
+doctrine packet built before repeated patterns,
+Git import assumed from local output,
+receipt treated as current order,
+old next-action treated as current,
+multiple active objects open.
+
+All must block.
+
+## 22. WALK 14 — Roof Pass
+
+Dependency map fields:
+
+Object ID
+Object name
+Parent object
+Required proof
+Required user approval
+Required input
+Required blocked-action check
+Output expected
+DoesNotProve
+Next legal object
+Stop condition
+
+Gate outcomes:
+
+PASS_TO_NEXT
+PASS_TO_USER_REVIEW
+REPAIR_REQUIRED
+BLOCKED_MISSING_PARENT
+BLOCKED_MISSING_PROOF
+BLOCKED_AUTHORITY_CONFLICT
+BLOCKED_SCOPE_TOO_WIDE
+BLOCKED_USER_APPROVAL_REQUIRED
+PARK_AS_CANDIDATE
+
+## 23. WALK 14 — 33rd Synthesis
+
+The dependency map must become the project’s no-skip ladder.
+
+Smallest safe object:
+
+HOUSE_RECEPTIONIST_GATE_DEPENDENCY_MAP_V0_1
+
+Final scoped verdict:
+
+GATE_DEPENDENCY_MAP_REQUIRED_BEFORE_ANY_SELECTOR_BUILD
+
+## 24. Critical Gate Dependencies
+
+Boundary lock before role card.
+
+Role card before role separation.
+
+Role separation before authority matrix.
+
+Authority matrix before ticket grammar.
+
+Ticket grammar before controlled labels.
+
+Controlled labels before risk/confidence gate.
+
+Risk/confidence gate before learning ledger schema.
+
+Learning ledger schema before root pilot requirements.
+
+Root pilot requirements before root pilot.
+
+Root pilot before user review.
+
+User review before learning update.
+
+Learning update before room surface requirements.
+
+Room surface requirements before room surface index.
+
+Room surface index before first room contract.
+
+First room contract before first room pilot.
+
+First room pilot before first room review.
+
+First room review before pattern comparison.
+
+Pattern comparison before active receptionist rules ledger.
+
+Active receptionist rules ledger before executor requirements.
+
+Approved rows before executor dry run.
+
+Executor dry run before physical executor.
+
+Physical executor before post-move receipt.
+
+Post-move receipt before cleanup candidate review.
+
+Cleanup review before cleanup executor candidate.
+
+Structural rule review before doctrine candidate packet.
+
+## 25. WALK 15 — Blocked-Action Map
+
+Rooms:
+
+Final Judge Room
+Crime Scene Room
+Proof Room
+Key Room
+
+Tools:
+
+KEY
+SCAR
+BONE
+SCISSOR
+
+Reason for rooms/tools:
+
+Blocked actions are permission language.
+Final Judge enforces decisions.
+Crime Scene remembers damage patterns.
+Proof Room protects evidence.
+Key Room defines legal/illegal action.
+KEY checks wording.
+SCAR checks hidden risk.
+BONE checks proof.
+SCISSOR cuts illegal moves.
+
+## 26. WALK 15 — Ceiling Pass
+
+The blocked-action map exists because old assistants drifted into action too fast.
+
+The house needs one place to say:
+
+This is blocked.
+This remains blocked.
+This can only unlock by exact condition.
+This object does not unlock it.
+
+The ceiling principle:
+
+A blocked action stays blocked until a named gate unlocks it.
+
+No general “looks good” can unlock a blocked action.
+
+## 27. WALK 15 — Walls Pass
+
+The blocked map must prevent:
+
+movement by proposal,
+cleanup by organization,
+delete by oldness,
+execution by existence,
+push by clean Git,
+source rewrite by route plan,
+doctrine by support note,
+helper promotion by filename,
+receipt-as-order,
+rough_local-as-full-custody,
+Chat-Drop-as-source,
+route-plan-as-route-order,
+dry-run-as-executor,
+single-example-as-rule,
+root-rule-as-house-wide,
+room-rule-as-global,
+support-as-authority,
+proof-as-live-carry.
+
+## 28. WALK 15 — Roof Pass
+
+Blocked-action map fields:
+
+Action
+Current status
+Why blocked
+What object may discuss it
+What object may not unlock it
+Unlock requirement
+Required approval
+Required proof
+Required receipt
+DoesNotProve
+
+Blocked statuses:
+
+BLOCKED_ALWAYS_UNLESS_EXPLICIT
+BLOCKED_UNTIL_PARENT_PROOF
+BLOCKED_UNTIL_USER_APPROVAL
+BLOCKED_UNTIL_DRY_RUN_PASS
+BLOCKED_UNTIL_HASH_MATCH
+BLOCKED_UNTIL_ROUTE_RECEIPT
+BLOCKED_UNTIL_SOURCE_REVIEW
+BLOCKED_UNTIL_DOCTRINE_REVIEW
+BLOCKED_UNTIL_CLEANUP_REVIEW
+BLOCKED_NO_CURRENT_PATH
+
+## 29. WALK 15 — 33rd Synthesis
+
+Blocked actions need their own map because they are the main safety wall.
+
+Smallest safe object:
+
+HOUSE_RECEPTIONIST_BLOCKED_ACTION_MAP_V0_1
+
+Final scoped verdict:
+
+BLOCKED_ACTION_MAP_REQUIRED_BEFORE_ROOT_DRY_RUN_AND_ANY_EXECUTOR_SPEC
+
+## 30. Current Blocked-Action Map — Draft
+
+### Move
+
+Current status:
+
+BLOCKED_UNTIL_EXACT_APPROVED_ROWS_AND_EXECUTOR_APPROVAL
+
+May discuss:
+
+route plan,
+receptionist tickets,
+executor requirements.
+
+May unlock:
+
+approved-row executor only after dry run and user approval.
+
+May not unlock:
+
+receptionist ticket,
+route plan,
+support note,
+receipt,
+rough_local commit.
+
+### Delete
+
+Current status:
+
+BLOCKED_UNTIL_CLEANUP_REVIEW_AND_EXACT_USER_APPROVAL
+
+May discuss:
+
+cleanup discipline,
+cleanup candidate ticket.
+
+May unlock:
+
+exact cleanup approval only.
+
+May not unlock:
+
+old label,
+zero-byte label,
+duplicate-looking file,
+successful route.
+
+### Execute
+
+Current status:
+
+BLOCKED_UNTIL_HELPER_REVIEW_AND_EXACT_APPROVAL
+
+May discuss:
+
+helper candidate review,
+script custody queue,
+executor requirements.
+
+May unlock:
+
+exact helper execution approval.
+
+May not unlock:
+
+.ps1 extension,
+helper filename,
+generated script existence.
+
+### Push
+
+Current status:
+
+BLOCKED_UNTIL_EXPLICIT_USER_APPROVAL
+
+May discuss:
+
+Git status,
+rough_local import,
+public-safe packet.
+
+May unlock:
+
+explicit user push command only.
+
+May not unlock:
+
+clean Git status,
+successful commit,
+receipt.
+
+### Commit
+
+Current status:
+
+BLOCKED_BY_DEFAULT_EXCEPT_SCOPE_APPROVED_ROUGH_LOCAL_IMPORT
+
+May discuss:
+
+rough_local pointer import,
+exact staged set.
+
+May unlock:
+
+specific rough_local import approval.
+
+May not unlock:
+
+local output existence,
+route plan,
+dry run.
+
+### Source rewrite
+
+Current status:
+
+BLOCKED_UNTIL_SOURCE_AUTHORITY_REVIEW_AND_EXACT_APPROVAL
+
+May discuss:
+
+source review,
+source candidate ticket.
+
+May unlock:
+
+specific source rewrite approval.
+
+May not unlock:
+
+support note,
+helper output,
+route plan.
+
+### Doctrine promotion
+
+Current status:
+
+BLOCKED_UNTIL_STRUCTURAL_RULE_REVIEW_AND_EXPLICIT_PROMOTION
+
+May discuss:
+
+rule candidate,
+pattern comparison,
+doctrine packet.
+
+May unlock:
+
+explicit doctrine promotion.
+
+May not unlock:
+
+learning row,
+support guide,
+think tank file,
+candidate grammar.
+
+### Cleanup
+
+Current status:
+
+BLOCKED_UNTIL_ROUTE_PROOF_AND_CLEANUP_REVIEW
+
+May discuss:
+
+cleanup discipline,
+cleanup candidate dry run.
+
+May unlock:
+
+exact cleanup approval.
+
+May not unlock:
+
+root looks cleaner,
+route succeeded,
+old file label,
+zero-byte label.
+
+## 31. WALK 16 — Final Build Sequence From Current Pause Point
+
+Rooms:
+
+Front Door Room
+Ledger Room
+Work Shed
+Final Judge Room
+
+Tools:
+
+SMELL
+NERVE
+HAND
+LOCK
+
+Reason for rooms/tools:
+
+Front Door checks entry.
+Ledger checks current state.
+Work Shed prepares future builds.
+Final Judge blocks skipped gates.
+SMELL confirms current surface.
+NERVE traces sequence.
+HAND chooses build type.
+LOCK preserves scope.
+
+## 32. WALK 16 — Ceiling Pass
+
+The current practical question is:
+
+What should be built first from here?
+
+Not:
+
+What could eventually exist?
+
+The first build must reduce drift, not increase output volume.
+
+The ceiling principle:
+
+Start with the boundary lock and role definition.
+
+Do not start with root dry run.
+Do not start with executor.
+Do not start with cleanup.
+Do not start with whole-house room crawl.
+
+## 33. WALK 16 — Walls Pass
+
+Do not build:
+
+root dry run before method objects,
+room index before root review,
+executor before approved rows,
+cleanup before movement proof,
+doctrine before rule review,
+mega-pack before single cards,
+all objects in one run.
+
+Stop if:
+
+user asks to move files,
+user asks to cleanup,
+state changed,
+current commit unknown,
+helper law conflict appears,
+stale three-copy guidance appears,
+multiple active objects appear,
+old next action conflicts with current pause point.
+
+## 34. WALK 16 — Roof Pass
+
+Final build order from current pause point:
+
+1. HOUSE_RECEPTIONIST_CURRENT_BOUNDARY_LOCK_CARD_V0_1
+2. HOUSE_RECEPTIONIST_METHOD_RESEARCH_AND_FIT_REPORT_V0_1
+3. HOUSE_RECEPTIONIST_ROLE_CARD_V0_1
+4. HOUSE_RECEPTIONIST_ROLE_SEPARATION_CARD_V0_1
+5. HOUSE_RECEPTIONIST_AUTHORITY_ROLE_MATRIX_V0_1
+6. HOUSE_RECEPTIONIST_TICKET_GRAMMAR_V0_1
+7. HOUSE_RECEPTIONIST_CONTROLLED_LABEL_SET_V0_1
+8. HOUSE_RECEPTIONIST_RISK_CONFIDENCE_GATE_V0_1
+9. HOUSE_RECEPTIONIST_PLACEMENT_LEARNING_LEDGER_SCHEMA_V0_1
+10. HOUSE_RECEPTIONIST_GATE_DEPENDENCY_MAP_V0_1
+11. HOUSE_RECEPTIONIST_BLOCKED_ACTION_MAP_V0_1
+12. ROOT_RECEPTIONIST_PLACEMENT_DRY_RUN_SELECTOR_REQUIREMENTS_V0_1
+13. User approval for root dry-run selector
+14. ROOT_RECEPTIONIST_PLACEMENT_DRY_RUN_SELECTOR_V0_1
+15. ROOT_RECEPTIONIST_USER_REVIEW_AND_CORRECTION_PASS_V0_1
+16. ROOT_RECEPTIONIST_PLACEMENT_LEARNING_UPDATE_V0_1
+17. HOUSE_RECEPTIONIST_ROOM_SURFACE_INDEX_REQUIREMENTS_V0_1
+18. HOUSE_RECEPTIONIST_ROOM_SURFACE_INDEX_DRY_RUN_V0_1
+19. FIRST_ROOM_RECEPTIONIST_ROOM_CONTRACT_SCHEMA_V0_1
+20. User approval for first room dry-run selector
+21. FIRST_ROOM_RECEPTIONIST_DRY_RUN_SELECTOR_V0_1
+22. FIRST_ROOM_USER_REVIEW_AND_LEARNING_UPDATE_V0_1
+23. RECEPTIONIST_PATTERN_COMPARISON_AND_RULE_PROMOTION_REVIEW_V0_1
+24. ACTIVE_RECEPTIONIST_RULES_LEDGER_V0_1
+25. APPROVED_ROW_EXECUTOR_REQUIREMENTS_AND_BLOCKER_SPEC_V0_1
+26. Only if approved rows exist: executor dry-run requirements
+27. Only after dry-run and exact approval: physical executor
+28. Only after route proof: cleanup discipline review
+
+## 35. WALK 16 — 33rd Synthesis
+
+The very next thing is not the whole sequence.
+
+The next thing is the first object in the sequence.
+
+Smallest safe next object:
+
+HOUSE_RECEPTIONIST_CURRENT_BOUNDARY_LOCK_CARD_V0_1
+
+After that:
+
+HOUSE_RECEPTIONIST_METHOD_RESEARCH_AND_FIT_REPORT_V0_1
+
+Final scoped verdict:
+
+FINAL_BUILD_SEQUENCE_READY_NEXT_OBJECT_IS_BOUNDARY_LOCK_CARD_NOT_ROOT_DRY_RUN
+
+## 36. WALK 17 — Stop / Ask / Proceed Rules
+
+Rooms:
+
+Final Judge Room
+Front Door Room
+Crime Scene Room
+
+Tools:
+
+KEY
+SMELL
+SCAR
+BREATH
+
+Reason for rooms/tools:
+
+Stop/ask/proceed is decision law.
+Final Judge decides.
+Front Door checks entry.
+Crime Scene sees danger.
+KEY defines legal action.
+SMELL checks wrong-door risk.
+SCAR catches hidden failure.
+BREATH prevents momentum from carrying into action.
+
+## 37. WALK 17 — Ceiling Pass
+
+The system needs clear moments where it stops.
+
+A smart receptionist is not one that always proceeds.
+
+A smart receptionist knows when to ask.
+
+The ceiling principle:
+
+Stopping is successful behavior when authority is missing.
+
+## 38. WALK 17 — Walls Pass
+
+Stop immediately if:
+
+the next step would move files,
+the next step would delete files,
+the next step would execute scripts,
+the next step would push,
+the next step would promote doctrine,
+the next step would rewrite source,
+the next step would crawl the whole house,
+the next step would use stale helper guidance,
+the next step would skip user review,
+the next step would treat a receipt as an order,
+the next step would treat a route plan as route authority,
+the next step would make a single example into a rule.
+
+Ask user if:
+
+scope changes,
+a new active object appears,
+a file is high-risk and ambiguous,
+an approval boundary is reached,
+route rows need approval,
+cleanup rows need approval,
+source authority is unclear,
+helper execution is requested,
+old and current rules conflict.
+
+Proceed only if:
+
+one active object is named,
+required parent exists,
+required proof exists,
+blocked actions are checked,
+scope is bounded,
+output is non-mutating,
+DoesNotProve is clear,
+next legal action is named.
+
+## 39. WALK 17 — Roof Pass
+
+Every object should end with:
+
+VERIFIED
+REPORTED
+NOT_VERIFIED
+BLOCKED
+NEXT_SINGLE_ACTION
+DOESNOTPROVE
+FINAL_SCOPED_VERDICT
+
+No object should end with:
+
+done,
+all good,
+safe,
+ready,
+clean,
+
+unless scoped.
+
+Correct:
+
+READY_FOR_USER_REVIEW_NO_PHYSICAL_ACTION
+
+Incorrect:
+
+READY
+
+Correct:
+
+BOUNDARY_LOCK_CARD_READY_AS_PLANNER_GUIDE_NOT_EXECUTION_AUTHORITY
+
+Incorrect:
+
+SYSTEM READY
+
+## 40. WALK 17 — 33rd Synthesis
+
+The stop/ask/proceed rule is the receptionist’s brake pedal.
+
+Smallest safe object:
+
+HOUSE_RECEPTIONIST_STOP_ASK_PROCEED_RULE_V0_1
+
+Final scoped verdict:
+
+STOP_ASK_PROCEED_RULE_REQUIRED_BEFORE_ANY_DRY_RUN_SELECTOR
+
+## 41. WALK 18 — Final 33rd Compression
+
+Rooms:
+
+Front Door Room
+Map Room
+Ledger Room
+Final Judge Room
+Creative Room
+
+Tools:
+
+SMELL
+NERVE
+BONE
+KEY
+LOCK
+BREATH
+
+Reason for rooms/tools:
+
+Final compression needs entry, relation, current state, judgment, invention, proof, and reset.
+
+## 42. WALK 18 — Ceiling Pass
+
+The whole plan exists to make the house able to receive and place files safely.
+
+The current target is not physical organization.
+
+The current target is intelligence before action.
+
+The house must learn:
+
+what a file is,
+what it proves,
+what it does not prove,
+what room it belongs near,
+what risk it carries,
+what approval it needs,
+what not to do.
+
+## 43. WALK 18 — Walls Pass
+
+The whole plan fails if:
+
+receptionist becomes mover,
+mover becomes classifier,
+janitor appears before routing,
+route plan becomes route order,
+dry run becomes physical run,
+support becomes doctrine,
+receipt becomes active order,
+Chat Drop becomes source authority,
+rough_local becomes full evidence,
+one example becomes rule,
+room crawl becomes whole-house crawl,
+cleanup hides evidence,
+helpers execute because they exist.
+
+## 44. WALK 18 — Roof Pass
+
+The durable roof is:
+
+one active object,
+one source/proof pointer,
+one next condition,
+controlled labels,
+separate risk/confidence,
+reviewed learning,
+counterexamples preserved,
+gates before action,
+movement separated,
+cleanup late,
+scope verdicts only.
+
+## 45. WALK 18 — 33rd Synthesis
+
+The final compressed method:
+
+The receptionist is the house’s front-desk custody role.
+
+It receives, smells, tickets, scores, proposes, blocks, and learns.
+
+It does not move.
+
+The system grows:
+
+boundary,
+role,
+authority,
+ticket,
+labels,
+risk,
+learning,
+root pilot,
+room pilot,
+pattern review,
+executor requirements,
+cleanup discipline.
+
+The smallest next move:
+
+create the boundary lock card.
+
+Final master verdict:
+
+HOUSE_RECEPTIONIST_MASTER_INDEX_READY_AS_PLANNER_GUIDE_NEXT_OBJECT_BOUNDARY_LOCK_CARD_NO_PHYSICAL_ACTION_AUTHORIZED
+
+Batch 4 closes the index gap. We now have the ladder: what exists, what depends on what, what stays blocked, and the exact next object.
+
+Next batch should be the **adoption packet**: a tight “how to use this plan” card, the final current-next-action card, and the exact acceptance/rejection tests for whether this master plan is good enough to hand to another agent.
+
+
+
+
+Good. Current clean position:
+
+The master plan is no longer “make files move.”
+
+It is:
+
+`Receptionist first. Mover later. Janitor last.`
+
+The next correct object is:
+
+`HOUSE_RECEPTIONIST_CURRENT_BOUNDARY_LOCK_CARD_V0_1`
+
+Purpose: lock the current pause point before building any receptionist helper material.
+
+That card should say, in plain terms:
+
+The route plan exists.
+The route plan is not a route order.
+No physical movement has happened.
+The next work is receptionist-method planning.
+No move, delete, rename, route, execute, cleanup, push, or doctrine promotion is authorized.
+The first receptionist build is a boundary lock, not a dry-run selector.
+
+After that, the next object would be:
+
+`HOUSE_RECEPTIONIST_METHOD_RESEARCH_AND_FIT_REPORT_V0_1`
+
+Then the role card, authority matrix, ticket grammar, labels, risk/confidence gate, and learning ledger.
+
+So the rope is held here:
+
+`HOUSE_RECEPTIONIST_MASTER_INDEX_READY_AS_PLANNER_GUIDE_NEXT_OBJECT_BOUNDARY_LOCK_CARD_NO_PHYSICAL_ACTION_AUTHORIZED`
+
+
+
+
+
+---
+
+
+
+
+Yes — I can read it well as `.txt`.
+
+I loaded `Receptionist_helpers.txt`. It is a plain-text Markdown-style file, about **151,029 characters** and **7,209 lines**, so the full file is large enough that the search viewer truncates it, but the sandbox read confirms the full content is present.
+
+My first read: this is not yet a clean final helper file. It is a **source bundle / working draft pile** containing the receptionist idea, research notes, master plan, Batch 1–4 material, and the current rope line. That is good as source material, but it should not be treated as the final polished helper.
+
+Best classification:
+
+`RECEPTIONIST_HELPER_SOURCE_BUNDLE / WORKING_DRAFT_COMBINED / NOT_DOCTRINE / NOT_EXECUTION_AUTHORITY`
+
+Strongest current line inside it:
+
+`HOUSE_RECEPTIONIST_MASTER_INDEX_READY_AS_PLANNER_GUIDE_NEXT_OBJECT_BOUNDARY_LOCK_CARD_NO_PHYSICAL_ACTION_AUTHORIZED`
+
+That means the next real object remains:
+
+`HOUSE_RECEPTIONIST_CURRENT_BOUNDARY_LOCK_CARD_V0_1`
+
+Clean critique: this file is readable, but it is too large and repetitive to be the file future helpers should load every time. It should be condensed into a smaller live helper set:
+
+1. Boundary Lock Card
+2. Receptionist Role Card
+3. Authority Matrix
+4. Ticket Grammar
+5. Controlled Label Set
+6. Risk/Confidence Gate
+7. Learning Ledger Schema
+8. Gate Dependency + Blocked Action Map
+
+So yes, `.txt` works fine. This specific file should be treated as the **ore pile** we mine from, not the finished front-desk manual.
+
+
+
+
+
+Agreed. Correction accepted.
+
+`Receptionist_helpers.txt` is now the **working list**, not just an ore pile. We will not try to condense it first. We will use it as the live step ladder and work it **one step at a time**. 
+
+Current working rule:
+
+The file is the active receptionist planner list.
+We do not build everything at once.
+We do not skip ahead to root dry run.
+We do not move, delete, route, execute, cleanup, push, or promote doctrine.
+We take the next named step, finish it, then return to the list.
+
+Current next step from the list:
+
+`HOUSE_RECEPTIONIST_CURRENT_BOUNDARY_LOCK_CARD_V0_1`
+
+Purpose:
+
+Lock the current pause point before building any receptionist helper material.
+
+This is the first real step because it protects the rope: route plan exists, route plan is not route authority, no physical action is authorized, and the next phase is receptionist-method planning only.
+
+So the working queue begins:
+
+1. `HOUSE_RECEPTIONIST_CURRENT_BOUNDARY_LOCK_CARD_V0_1`
+2. `HOUSE_RECEPTIONIST_METHOD_RESEARCH_AND_FIT_REPORT_V0_1`
+3. `HOUSE_RECEPTIONIST_ROLE_CARD_V0_1`
+4. `HOUSE_RECEPTIONIST_ROLE_SEPARATION_CARD_V0_1`
+5. `HOUSE_RECEPTIONIST_AUTHORITY_ROLE_MATRIX_V0_1`
+
+We start at item 1.
+
+
+
+
+
+Yes. This is better.
+
+Better because it changes the file’s job from **“big pile we need to polish first”** into **“working step ladder we follow one item at a time.”** That is closer to the whole receptionist method: controlled intake, one active object, no skipping, no premature cleanup, no dry-run before the boundary card. The uploaded `Receptionist_helpers.txt` already contains the needed sequence and the current rope line: `HOUSE_RECEPTIONIST_MASTER_INDEX_READY_AS_PLANNER_GUIDE_NEXT_OBJECT_BOUNDARY_LOCK_CARD_NO_PHYSICAL_ACTION_AUTHORIZED`. 
+
+The key improvement is this:
+
+Before, I was trying to compress it into “final helper files” too early.
+
+Your correction is stronger: **use the working list as the queue, then build each object one at a time.** That keeps us from making another mega-file or jumping into root routing too early.
+
+So the live rule should be:
+
+`Receptionist_helpers.txt = WORKING_LIST / STEP_QUEUE / SOURCE_FOR_NEXT_OBJECT / NOT_DOCTRINE / NOT_EXECUTION_AUTHORITY`
+
+And the next active object stays:
+
+`HOUSE_RECEPTIONIST_CURRENT_BOUNDARY_LOCK_CARD_V0_1`
+
+That is cleaner than treating the file as ore. It is not final doctrine, but it is good enough to steer the next step.
+

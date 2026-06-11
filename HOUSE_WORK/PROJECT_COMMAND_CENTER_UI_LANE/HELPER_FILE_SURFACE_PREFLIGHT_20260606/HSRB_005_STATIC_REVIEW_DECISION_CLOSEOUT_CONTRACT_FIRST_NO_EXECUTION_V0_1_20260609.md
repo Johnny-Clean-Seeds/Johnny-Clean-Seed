@@ -1,0 +1,54 @@
+# HSRB-005 Static Review Decision Closeout Contract First V0.1
+
+Status: CONTRACT_FIRST_CLOSEOUT / NO_EXECUTION / NO_ROUTE / NO_CLEANUP
+
+selected_batch_id: HSRB-005
+selected_batch_rows: 18
+summary_rows: 18
+risk_index_rows: 18
+
+Input verification:
+selected_batch_csv_sha256: 2B27276D9B580AFDD883387BB755F2C5DC808B7C861A05C5160E7A0549316C13
+static_summary_csv_sha256: BFEAF1DF2F09BE1C6C193A293AF029DB5EF61CFCF89227C6A6F781602F31716D
+static_packet_md_sha256: 36355621C2874541AB806B286202EDA6DDFD2E63539C5676EB78F8445486DB23
+static_packet_print_sha256: 36355621C2874541AB806B286202EDA6DDFD2E63539C5676EB78F8445486DB23
+static_packet_receipt_sha256: 766FC59AB439FCA184BF1A7AC1E283F61D6EFBF5165B5AD2237ED6013F0F8537
+selector_report_sha256: 89152B0A51615FD6606FEE7B1CC27513EDC3D09FE242414A381920AF4291B8D5
+selector_receipt_sha256: BC9BF014B380FBB9405D5D072A23EA2DF93731F78D6DD0100CC308A318806C9B
+
+Contract counts:
+blank_ticket_id_count: 0
+missing_filename_count: 0
+missing_declared_sha256_count: 0
+missing_actual_sha256_count: 18
+source_hash_mismatch_count: 0
+source_missing_count: 0
+text_read_fail_count: 0
+unknown_static_disposition_count: 0
+unknown_disposition_bucket_count: 0
+root_held_route_or_hold_family_count: 18
+contains_copy_item_count: 4
+contains_git_command_count: 18
+contains_move_item_count: 6
+contains_remove_item_count: 0
+contains_rename_item_count: 0
+contains_start_process_count: 0
+contains_invoke_expression_count: 0
+contains_set_clipboard_count: 0
+high_risk_command_marker_row_count: 6
+risk_marked_row_count: 18
+unclassified_risk_marker_count: 0
+execution_clearance_count: 0
+route_clearance_count: 0
+cleanup_clearance_count: 0
+doctrine_promotion_count: 0
+action_now_non_no_count: 0
+blocker_count: 24
+
+Decision:
+The copy/git markers are preserved as review-only evidence. They do not grant execution, route, cleanup, commit, push, or doctrine authority.
+
+contract_gate_passed: False
+next_single_action: STOP_AND_REVIEW_HSRB_005_STATIC_REVIEW_DECISION_CLOSEOUT_BLOCKERS_NO_EXECUTION
+final_verdict: HSRB_005_STATIC_REVIEW_DECISION_CLOSEOUT_V0_1_WRITTEN_WITH_BLOCKERS_NO_PHYSICAL_ACTION
+physical_actions: move=0 delete=0 rename=0 route=0 execute=0 commit=0 push=0

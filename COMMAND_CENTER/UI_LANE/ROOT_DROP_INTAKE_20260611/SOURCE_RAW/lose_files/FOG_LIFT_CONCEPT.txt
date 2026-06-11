@@ -1,0 +1,32 @@
+Correct. “Think hard” is too generic. It could mean deeper reasoning, not parent-chain recovery.
+
+Better trigger words should be explicit control commands:
+
+`pull anchor`
+`fog lift`
+`find the trunk`
+`show parent chain`
+`where are we really`
+`restore the rope`
+`return to main rope`
+`lock this pivot`
+`make an anchor`
+`read the anchor`
+
+The clean rule should be:
+
+When the chat gets long, or when we hit a real pivot, we write an **Anchor Note**. That note captures the parent chain, active object, branch reason, last good state, blocker, no-action boundary, and return path.
+
+Then later, instead of saying “think hard,” you can say:
+
+`pull anchor`
+
+That means: stop local task mode, recover the parent chain, and show where this branch belongs before continuing.
+
+The best name is probably:
+
+`FOG_LIFT_ANCHOR_GATE`
+
+Short law:
+
+`At real pivots or long-chat intervals, write an anchor. When the user says “pull anchor” or “fog lift,” recover the parent chain before taking the next action.`

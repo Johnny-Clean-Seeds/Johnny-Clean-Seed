@@ -1,0 +1,9 @@
+{
+  "Status": "STARTED",
+  "RunId": "EXPECTED_FAIL_20260604_192756",
+  "JobName": "EXPECTED_FAIL",
+  "StartedUtc": "2026-06-04T23:27:56.3305070Z",
+  "ParentPid": 4060,
+  "RequiresKeyboardInput": false,
+  "ProofType": "FILE_FIRST_PARENT_STARTED"
+}

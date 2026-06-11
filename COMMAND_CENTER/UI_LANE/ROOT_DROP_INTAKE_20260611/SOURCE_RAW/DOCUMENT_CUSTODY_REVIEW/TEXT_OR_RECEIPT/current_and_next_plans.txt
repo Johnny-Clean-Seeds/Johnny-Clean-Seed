@@ -1,0 +1,228 @@
+Next is **file assembly**, not more research and not fixture review yet.
+
+The correct next legal action is:
+
+`ASSEMBLE_SINGLE_MARKDOWN_FILE_ARTIFACT_FROM_A01_A08`
+
+Target file:
+
+`HOUSE_SEMANTIC_NERVOUS_SYSTEM_READ_ONLY_SPEC_V0_1.md`
+
+Why this comes next: the spec exists in chat batches, but the house needs one stable object before M1 fixture shape review. If we jump into fixture review while the spec is still scattered across A01–A08, we risk dropping organs, duplicating rules, or reviewing against an unstable source.
+
+The next run should be:
+
+`FILE_ASSEMBLY_PASS_F01`
+
+Its job:
+
+`combine A01-A08 into one clean Markdown spec`
+
+`preserve every organ in the No-Drop Organ Ledger`
+
+`keep the Forbidden-Overclaim Seal`
+
+`keep the Final Judge closeout`
+
+`remove duplicate wording only where meaning is preserved`
+
+`end with next legal action: M1_FIXTURE_SHAPE_REVIEW_PREP`
+
+Still forbidden:
+
+`no fixture run`
+
+`no source read`
+
+`no scan`
+
+`no script`
+
+`no mutation`
+
+`no doctrine`
+
+So the next thing to say is:
+
+`start FILE_ASSEMBLY_PASS_F01`
+
+
+
+
+
+
+
+
+FILE_ASSEMBLY_PASS_F01 is complete.
+
+Created:
+
+[HOUSE_SEMANTIC_NERVOUS_SYSTEM_READ_ONLY_SPEC_V0_1.md](sandbox:/mnt/data/HOUSE_SEMANTIC_NERVOUS_SYSTEM_READ_ONLY_SPEC_V0_1.md)
+
+Receipt:
+
+[ASSEMBLY_RECEIPT](sandbox:/mnt/data/HOUSE_SEMANTIC_NERVOUS_SYSTEM_READ_ONLY_SPEC_V0_1_ASSEMBLY_RECEIPT.md)
+
+SHA256:
+
+`84A7C41C8698FE4A141C6A4DC1613CF753708BBA69AFFF7E183FA74C6572BB31`
+
+Next legal action:
+
+`BEGIN_M1_FIXTURE_SHAPE_REVIEW_PREP_OVER_F01_F16`
+
+Still blocked:
+
+`NO_FIXTURE_RUN`
+
+`NO_SOURCE_READ`
+
+`NO_SCAN`
+
+`NO_SCRIPT`
+
+`NO_MUTATION`
+
+`NOT_DOCTRINE`
+
+
+
+
+
+
+
+
+
+
+Now we move from **spec assembly** to **M1 fixture shape review prep**.
+
+The next legal action is:
+
+`BEGIN_M1_FIXTURE_SHAPE_REVIEW_PREP_OVER_F01_F16`
+
+That means we review the 16 fixture cards for structure only. We do **not** run them.
+
+We check each fixture for:
+
+`FixtureId`
+
+`FixturePurpose`
+
+`InputAtom`
+
+`ExpectedTriggeredGates`
+
+`ExpectedPrimaryGate`
+
+`ExpectedCounterweightGate`
+
+`ExpectedEarthNeed`
+
+`ExpectedBlockedClaims`
+
+`ExpectedDoesNotProve`
+
+`MustNotOutput`
+
+`PassCriteria`
+
+`FailCriteria`
+
+`RepairIfFailed`
+
+`DoesNotProve`
+
+The output should be a shape review table/report:
+
+`FIXTURE_SHAPE_REVIEW_REPORT_V0_1`
+
+Possible verdicts:
+
+`FIXTURE_SHAPE_REVIEW_PASS_FOR_DESIGN`
+
+`FIXTURE_SHAPE_REVIEW_PASS_WITH_WARNINGS`
+
+`FIXTURE_SHAPE_REVIEW_REPAIR_REQUIRED`
+
+`FIXTURE_SHAPE_REVIEW_HARD_STOP`
+
+Still blocked:
+
+`NO_FIXTURE_RUN`
+
+`NO_SOURCE_READ`
+
+`NO_SCAN`
+
+`NO_SCRIPT`
+
+`NO_MUTATION`
+
+`NOT_DOCTRINE`
+
+So the next thing to say is:
+
+`start M1 fixture shape review prep`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+{
+  "Status": "FAILED",
+  "RunId": "EXPECTED_FAIL_20260604_192756",
+  "FinishedUtc": "2026-06-04T23:27:56.7656667Z",
+  "ChildPid": 20524,
+  "RequiresKeyboardInput": false,
+  "Error": "EXPECTED_SELFTEST_FAILURE"
+}

@@ -1,0 +1,64 @@
+GENERATED POWERSHELL COLLECTION CONTRACT RULE
+
+Status:
+LOCAL_RULE_CARD / HELPER_TEMPLATE_RULE / NOT_DOCTRINE / NO_EXECUTION_AUTHORITY
+
+Purpose:
+Stop repeated generated PowerShell helper failures caused by ambiguous scalar, list, array, string, and empty-collection behavior.
+
+Trigger:
+This rule applies after repeated failures in the same helper family where PowerShell errors show collection-shape confusion, such as:
+
+* argument types do not match
+* `.Count` missing
+* `.ToArray()` called on a string
+* empty collection returned as `$null`
+* line writer receiving `$null`
+* scalar treated as collection
+* collection treated as scalar
+
+Core finding:
+The problem is not the source data until proven otherwise. The first classification is:
+
+GENERATED_POWERSHELL_COLLECTION_CONTRACT_DEFECT
+
+Rule:
+No generated PowerShell helper may rely on PowerShell’s implicit scalar/list behavior for control logic, counts, report lines, CSV rows, file lists, or verification rows.
+
+Hard requirements:
+
+1. Empty collections must not be returned through normal function pipeline output if the caller expects a real collection object.
+2. Collection containers must be created and owned in caller scope when practical.
+3. Report-line buffers must be initialized as real mutable lists before use.
+4. Line writers must be null-safe and blank-line-safe.
+5. Counts must be computed from known containers or through explicit `Measure-Object`, not by assuming `.Count` exists.
+6. A single string must never be treated as a file collection.
+7. A single object must never be treated as a multi-row collection without explicit wrapping.
+8. Distinct meanings must be separated:
+
+   * source evidence
+   * selector decision
+   * action authority
+   * clearance
+   * boundary marker
+9. A helper failure before contract output does not prove source-data truth.
+10. After three failed attempts in the same helper family, stop patching and redesign the helper template or switch to a smaller diagnostic.
+
+Forbidden pattern:
+Do not keep producing V0.4, V0.5, V0.6 patches in the same failing helper family without stepping back.
+
+Required response after three failures:
+
+1. Stop.
+2. Name the defect family.
+3. Separate known facts from unproven facts.
+4. Confirm no physical action occurred unless evidence says otherwise.
+5. Rebuild the parent chain.
+6. Design a smaller diagnostic or a safer helper template.
+7. Resume only after the defect model is fixed.
+
+Current applied case:
+The HSRB-001 through HSRB-006 coverage rollup failed three times, then the smaller diagnostic failed once with the same collection/null pattern. Therefore the active problem is no longer coverage math. The active problem is generated PowerShell collection contract failure.
+
+Current safe verdict:
+NO_MORE_COVERAGE_ROLLUP_PATCHES_UNTIL_COLLECTION_CONTRACT_TEMPLATE_IS_FIXED

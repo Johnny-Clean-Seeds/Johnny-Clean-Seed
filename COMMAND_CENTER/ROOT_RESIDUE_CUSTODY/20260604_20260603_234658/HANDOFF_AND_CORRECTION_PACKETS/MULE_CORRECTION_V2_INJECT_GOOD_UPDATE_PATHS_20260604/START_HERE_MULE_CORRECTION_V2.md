@@ -1,0 +1,29 @@
+# START HERE — MULE CORRECTION V2 QUICK ORDER
+
+Use the full order:
+
+`MULE_CORRECTION_V2_INJECT_GOOD_UPDATE_PATHS_20260604.md`
+
+Core correction:
+
+Root cleanup is not enough.
+
+You must:
+
+`APPLY_ROOT_RULE_NOW -> CLASSIFY_ROOT_RESIDUE -> IDENTIFY_GOOD_MATERIAL -> TEST_OR_PROVE_GOODNESS -> INJECT_GOOD_INTO_CORRECT_PROJECT_LANE -> UPDATE_PATHS_POINTERS_MANIFESTS_STATUS -> FINAL_ROOT_NO_LOOSE_FILES_CHECK`
+
+Do not just move files.
+
+Do not leave old root paths as live paths.
+
+Do not open wild lanes.
+
+If unclear:
+
+`DIRECTION_UNCLEAR_STOP_AND_ASK`
+
+Final closeout must include:
+
+`GOOD_MATERIAL_EXTRACTED_PROVED_INJECTED_PATHS_UPDATED_READY_FOR_USE`
+
+or a clear blocked reason.

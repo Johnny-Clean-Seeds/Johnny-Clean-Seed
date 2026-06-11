@@ -1,0 +1,14 @@
+HSRB-002 TEMPLATE RULE AND ATTEMPT INDEX CLOSEOUT - COPY PRINT
+
+Plain meaning:
+HSRB-002 is closed as review/index only. One template-rule-card row remains candidate material, not doctrine. Three field-apply attempts and two freeze/repair attempts remain evidence. Nothing is executable from this closeout.
+
+selected_batch_rows: 6
+template_rule_card_count: 1
+field_apply_attempt_count: 3
+freeze_repair_attempt_count: 2
+unknown_index_role_count: 0
+contains_git_command_count: 6
+blocker_count: 0
+next_single_action: RETURN_TO_64_ROW_HELPER_SCRIPT_REVIEW_QUEUE_AND_SELECT_NEXT_BATCH_NO_EXECUTION
+physical_actions: move=0 delete=0 rename=0 route=0 execute=0 commit=0 push=0

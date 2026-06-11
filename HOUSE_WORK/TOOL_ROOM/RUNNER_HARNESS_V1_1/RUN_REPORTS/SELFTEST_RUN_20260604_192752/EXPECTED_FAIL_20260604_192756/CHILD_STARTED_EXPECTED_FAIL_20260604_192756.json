@@ -1,0 +1,8 @@
+{
+  "Status": "STARTED",
+  "RunId": "EXPECTED_FAIL_20260604_192756",
+  "StartedUtc": "2026-06-04T23:27:56.7255381Z",
+  "ChildPid": 20524,
+  "RequiresKeyboardInput": false,
+  "TestKind": "EXPECTED_FAIL"
+}

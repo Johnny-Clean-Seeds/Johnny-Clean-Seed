@@ -1,0 +1,43 @@
+REPEATED FAILURE RED FLAG RULE
+
+Status:
+LIVING_RULE / SAFETY_GATE / NO_PHYSICAL_ACTION_AUTHORITY
+
+Purpose:
+Prevent repeated helper, script, parser, hash, custody, or report-generation failures from being dismissed as isolated accidents when the evidence suggests an underlying defect pattern.
+
+Rule:
+Repeated errors are real red flags unless proven otherwise.
+
+When two or more failures occur in the same lane, helper family, contract layer, parser/list/array/hash/custody mechanism, or generated-script pattern, stop forward motion and classify the situation as:
+
+POSSIBLE_UNDERLYING_DEFECT
+
+The assistant may not call the failure “just a bad script” unless it first proves all of the following:
+
+1. The exact failing line is identified.
+2. The local cause is explained.
+3. The same defect class is checked against recent failures.
+4. The failed attempt is frozen as evidence.
+5. The repair explains why it prevents recurrence, not merely why it fixes the current line.
+6. The next run remains no-execution / no-route / no-cleanup unless explicitly authorized.
+7. The final verdict names the defect class and states whether the issue is local, systemic, or still unresolved.
+
+Required language:
+If repeated failures share a mechanism, say:
+“This is a possible underlying defect until proven otherwise.”
+
+Forbidden language:
+Do not say:
+“little issue”
+“just a bad run”
+“probably nothing”
+“fixed now”
+“safe to continue normally”
+
+unless the evidence proves that claim.
+
+Current applied example:
+HSRB-005 V0.1 failed because `$queueRows.Add($_)` was called on a null-valued expression. Because prior HSRB work already showed repeated collection/list/array/custody-generation defects, this failure must be treated as part of a possible underlying helper-generation defect chain until a stronger repair gate proves otherwise.
+
+No physical action is authorized by this rule.

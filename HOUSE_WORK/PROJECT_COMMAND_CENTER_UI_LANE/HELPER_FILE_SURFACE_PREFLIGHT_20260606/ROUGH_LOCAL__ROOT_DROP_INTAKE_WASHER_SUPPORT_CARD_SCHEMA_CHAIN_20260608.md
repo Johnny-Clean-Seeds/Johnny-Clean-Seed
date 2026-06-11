@@ -1,0 +1,94 @@
+# ROUGH_LOCAL__ROOT_DROP_INTAKE_WASHER_SUPPORT_CARD_SCHEMA_CHAIN_20260608
+
+Status: ROUGH_LOCAL_HASH_LEDGER / GIT_SAFE_POINTER_CANDIDATE / SUPPORT_GUARDRAIL_POINTER / FULL_LOCAL_EVIDENCE_NOT_INCLUDED / NOT_DOCTRINE
+
+Created: 2026-06-08 18:44:17
+
+Working root:
+C:\Users\13527\Desktop\123
+
+Lane:
+C:\Users\13527\Desktop\123\HOUSE_WORK\PROJECT_COMMAND_CENTER_UI_LANE\HELPER_FILE_SURFACE_PREFLIGHT_20260606
+
+Nested Git repo:
+C:/Users/13527/Desktop/123/Jxhnny_Kl33N_Seedz
+
+Purpose:
+Carry the root-drop intake washer support-card schema chain into Git as hash-truth without turning the washer into an executor.
+
+Boundary:
+Full local evidence remains local.
+Git receives only this rough_local ledger, the local ledger receipt, and the Git import receipt.
+No source file is moved.
+No cleanup is authorized.
+No routing is authorized.
+No full evidence folder is staged.
+No root file is staged by default.
+
+Source chain:
+
+01 root-drop intake washer rule:
+C:\Users\13527\Desktop\123\ROOT_DROP_INTAKE_WASHER_GATE_RULE_V0_1_20260608.md
+SHA256:
+ADDC4E8A2DA3226660663DAF61801AC505ED5F417B624F3E2CF58024A59FD4A9
+
+02 root-drop washer selector field-test report:
+C:\Users\13527\Desktop\123\HOUSE_WORK\PROJECT_COMMAND_CENTER_UI_LANE\HELPER_FILE_SURFACE_PREFLIGHT_20260606\PLANETARY_GATE_SELECTOR_FIELD_TEST_PACKET_FOR_ROOT_DROP_INTAKE_WASHER_GATE_RULE_20260608.md
+SHA256:
+E04A18A9156CA14F72F06E0DA52D6D3D398403DCFF631632A1A4A4B1155618A9
+
+03 root-drop washer selector field-test receipt:
+C:\Users\13527\Desktop\123\HOUSE_WORK\PROJECT_COMMAND_CENTER_UI_LANE\HELPER_FILE_SURFACE_PREFLIGHT_20260606\PLANETARY_GATE_SELECTOR_FIELD_TEST_PACKET_FOR_ROOT_DROP_INTAKE_WASHER_GATE_RULE_RECEIPT_20260608.txt
+SHA256:
+2EB4F22BFD7DCDA3D09E46037BE2B8AEEF66B76B7C95744BD470427C504A8698
+
+04 support-card schema:
+C:\Users\13527\Desktop\123\HOUSE_WORK\PROJECT_COMMAND_CENTER_UI_LANE\HELPER_FILE_SURFACE_PREFLIGHT_20260606\ROOT_DROP_INTAKE_WASHER_SUPPORT_CARD_SCHEMA_20260608.md
+SHA256:
+3DABB1A98075F3FEF20A6B4F1042C49EE8024001227120D9E35C3DCE79A3F5D0
+
+05 support-card dry-run card:
+C:\Users\13527\Desktop\123\HOUSE_WORK\PROJECT_COMMAND_CENTER_UI_LANE\HELPER_FILE_SURFACE_PREFLIGHT_20260606\ROOT_DROP_INTAKE_WASHER_SUPPORT_CARD_DRY_RUN__ROOT_DROP_RULE_20260608.md
+SHA256:
+D4C259530B55406DCAD612FD0CF3E74DC04C1B18E425140C0AC8B7132B3C3A15
+
+06 support-card schema/dry-run receipt:
+C:\Users\13527\Desktop\123\HOUSE_WORK\PROJECT_COMMAND_CENTER_UI_LANE\HELPER_FILE_SURFACE_PREFLIGHT_20260606\ROOT_DROP_INTAKE_WASHER_SUPPORT_CARD_SCHEMA_AND_DRY_RUN_RECEIPT_20260608.txt
+SHA256:
+70D9CAD70D21162A1143D5B074852AE2A66F34814F95D2E8A42502E8C3A283A2
+
+07 generated-runner safe-template rule:
+C:\Users\13527\Desktop\123\HOUSE_WORK\PROJECT_COMMAND_CENTER_UI_LANE\HELPER_FILE_SURFACE_PREFLIGHT_20260606\GENERATED_RUNNER_SAFE_TEMPLATE_AND_STOP_ON_BLOCKER_RULE_CARD_20260608.md
+SHA256:
+E0013BA267527AF2201B934E8AEEB55710835EF0CC3ECD78250729E6ECB8FB26
+
+08 safe-template V0_3 field-apply:
+C:\Users\13527\Desktop\123\HOUSE_WORK\PROJECT_COMMAND_CENTER_UI_LANE\HELPER_FILE_SURFACE_PREFLIGHT_20260606\GENERATED_RUNNER_SAFE_TEMPLATE_RULE_CARD_FIELD_APPLY_TO_NEXT_RUNNER_V0_3_20260608.md
+SHA256:
+CB29519867976D554AFCB3A498670C5CA816CABD5775010FD6F3040F32FCCEDA
+
+Selector classification:
+Primary planet: SATURN_GATE
+Counterweight planet: MERCURY_GATE
+Mechanical gates: Hash/Receipt Gate; Intake Gate; Boundary Gate; Proof Gate
+Route: PARK_AS_SUPPORT_GUARDRAIL
+
+Standing rule:
+The root-drop washer is a read-only support guardrail unless a later proof path explicitly authorizes executor behavior.
+
+Blocked by default:
+- move
+- delete
+- rename
+- route
+- cleanup
+- stage
+- commit root object
+- push
+- source rewrite
+- doctrine promotion
+- active guide promotion
+- current truth index rewrite
+
+DoesNotProve:
+This rough_local ledger does not prove the washer is active, complete, doctrine, current truth, an executor, cleanup authority, routing authority, Git authority, source authority, or project complete.

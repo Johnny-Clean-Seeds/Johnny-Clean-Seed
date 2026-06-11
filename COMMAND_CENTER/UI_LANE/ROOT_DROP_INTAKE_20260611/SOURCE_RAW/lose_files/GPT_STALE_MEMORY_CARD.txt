@@ -1,0 +1,32 @@
+MEMORY UPDATE STALENESS RULE
+
+Status:
+ASSISTANT_SIDE_RULE / MEMORY_HANDLING_RULE / NOT_PROJECT_DOCTRINE
+
+Purpose:
+Keep memory clean when rules evolve.
+
+Rule:
+When updating certain memories or assistant-side standing rules, do not carry old hashes, stale artifact names, obsolete file versions, or outdated temporary evidence unless the user explicitly asks to preserve them.
+
+Keep:
+
+* the current living rule
+* the useful stable preference
+* the active operating principle
+* still-valid context needed to avoid future mistakes
+
+Drop:
+
+* stale hashes
+* superseded file names
+* obsolete version trails
+* temporary terminal-output details
+* old proof fragments that no longer guide future behavior
+* prior wording that has been replaced by a clearer rule
+
+Do not drop material merely because it is old.
+Only drop material that has become stale, superseded, misleading, or no longer useful.
+
+Short law:
+Memory should carry the living rule, not the fossil pile.

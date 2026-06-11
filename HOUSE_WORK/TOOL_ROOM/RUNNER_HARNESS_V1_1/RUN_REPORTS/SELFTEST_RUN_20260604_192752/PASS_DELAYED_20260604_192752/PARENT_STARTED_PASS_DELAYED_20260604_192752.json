@@ -1,0 +1,9 @@
+{
+  "Status": "STARTED",
+  "RunId": "PASS_DELAYED_20260604_192752",
+  "JobName": "PASS_DELAYED",
+  "StartedUtc": "2026-06-04T23:27:52.7806990Z",
+  "ParentPid": 4060,
+  "RequiresKeyboardInput": false,
+  "ProofType": "FILE_FIRST_PARENT_STARTED"
+}

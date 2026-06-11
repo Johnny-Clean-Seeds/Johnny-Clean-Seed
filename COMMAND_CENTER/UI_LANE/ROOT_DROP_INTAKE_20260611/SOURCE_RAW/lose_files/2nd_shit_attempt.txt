@@ -1,0 +1,1126 @@
+Locked into the soft suit. Dead chat dropped. Rope held.
+
+This lane is now:
+
+`HOUSE_SEMANTIC_NERVOUS_SYSTEM`
+
+Not just:
+
+`Gate Trigger Tracer`
+
+The soft-suit boundary stays: maximum reach / minimum carry, one room active, one toolbelt worn, one proof pointer carried, and no doctrine / automation / watcher / graph database / delete / move.  Front Door rule also holds: one object, one proof pointer, one next condition, smoke-break reset between waves, and no treating Chat Drop or links as proof. 
+
+Tools used this pass: file search on the current house batch text and soft-suit cards, plus web search across tracing, provenance, concept systems, validation, lineage, supply-chain integrity, similarity, clustering, topic modeling, and semantic embeddings.
+
+## Batch T12 — Soft-Suit Lock / Outside Research Expansion / Hard Architecture Repair
+
+The last material was good, but still had one watery weakness: it described the organs, but it did not yet make a hard enough distinction between **sensing**, **judging**, **validating**, **grouping**, **lineage**, and **proof**.
+
+So the corrected architecture is not one tracer.
+
+It is eight organs:
+
+`TRACE ORGAN` — what happened.
+
+`READ-SCOPE ORGAN` — what each gate was allowed to see.
+
+`TRIGGER ORGAN` — what should have fired.
+
+`ACTUAL-APPLICATION ORGAN` — what actually fired or appeared in the text/status.
+
+`CONCEPT ORGAN` — what family the atom belongs to.
+
+`LINEAGE ORGAN` — where the atom came from and what touched it.
+
+`CLAIM-SCOPE ORGAN` — what the evidence proves and does not prove.
+
+`RESIDUE ORGAN` — what failed grouping and may be a missing gate, bridge, contradiction, or root signal.
+
+The current uploaded batch already says the real object is a House Semantic Nervous System with Trace, Concept, Lineage, and Residue organs; it also says the system must stay bounded because the house already blocks “load everything / connect everything / call it proof” behavior.  That remains right. The upgrade is: add **Read-Scope**, **Actual-Application**, **Claim-Scope**, and **Validation** as first-class organs.
+
+The outside sources confirm the separate bones. OpenTelemetry gives the span shape: spans represent specific operations and can carry attributes that describe what happened. House translation: every gate activation becomes a span-like record with gate name, readable signals, trigger reason, verdict, blocked claims, next gate, and proof need. ([OpenTelemetry][1])
+
+W3C PROV gives the lineage shape: provenance is modeled around entities, activities, derivations, agents, bundles, and collections. House translation: source, atom, trace span, concept group, residue, report, and receipt must all keep parentage. ([W3C][2])
+
+OpenLineage gives the run/job/dataset shape: it models jobs, datasets, runs, and lineage events. House translation: a trace scan is a job, the scan execution is a run, and files/atoms/groups are dataset-like entities that must show how they came into being. ([OpenLineage][3])
+
+SKOS gives the controlled concept shape: concepts can have preferred labels, alternate labels, broader/narrower relations, related concepts, and scope notes inside a knowledge-organization model. House translation: concept groups need preferred labels, aliases, hidden labels, forbidden synonyms, broader/narrower concepts, related gates, and DoesNotProve. ([W3C][4])
+
+SHACL gives the validation shape: it validates RDF data graphs against shapes graphs. House translation: later, after we define the schema, the house can validate whether trace spans, concept cards, residue cards, and claim-scope cards are structurally complete before trusting them. ([W3C][5])
+
+SLSA gives artifact provenance pressure: provenance should describe where, when, and how an artifact was produced, and the build platform is responsible for generating provenance. House translation: a generated concept card or trace report must show its source set, activity, agent, and derivation; it cannot just appear as “smart output.” ([SLSA][6])
+
+CycloneDX gives the bill-of-materials pressure: it is a full-stack BOM standard for supply-chain visibility and risk. House translation: the tracer eventually needs a “bill of atoms / bill of concepts / bill of traces / bill of residues,” not just a prose summary. ([CycloneDX][7])
+
+The similarity side also needs tighter boundaries. Sentence-BERT creates sentence embeddings that can be compared with cosine similarity, so it can help find “same idea, different words,” but it cannot decide truth, proof, authority, or house fit. ([ACL Anthology][8]) HDBSCAN is useful because real data contains noise and outliers, and density clustering can leave material unclustered instead of forcing everything into a group. House translation: residue is allowed. ([HDBSCAN][9]) BERTopic’s c-TF-IDF is useful because it tries to identify what distinguishes one cluster from another; house translation: group names should come from distinguishing terms and gate signatures, not loud cheap words. ([Maarten Gr GitHub Pages][10])
+
+## Hard correction
+
+The system must not be called:
+
+`CONCEPT_GROUPER`
+
+That is too small.
+
+It must be called:
+
+`HOUSE_SEMANTIC_NERVOUS_SYSTEM`
+
+Inside it, the `CONCEPT_GROUPER` is only one organ.
+
+The full order is:
+
+`SCENT PASS`
+
+What entered, where from, what type, what can be safely read.
+
+`READ-SCOPE PASS`
+
+What each gate is allowed to read from this object.
+
+`EXPECTED TRIGGER PASS`
+
+Which gates should fire based on the readable signals.
+
+`ACTUAL APPLICATION PASS`
+
+Which gates actually appear to fire in the text, card, receipt, report, or prior verdict.
+
+`PASS-FORWARD PACKET PASS`
+
+What each gate passes to the next gate.
+
+`CONCEPT COURT PASS`
+
+Which atoms belong together, and whether that grouping survives role/gate/proof/risk checks.
+
+`CLAIM-SCOPE PASS`
+
+What each evidence token proves and does not prove.
+
+`RESIDUE PASS`
+
+What failed grouping and what it means.
+
+`LINEAGE / BONE PASS`
+
+Where every atom, trace, concept, residue, and report came from.
+
+That is the working architecture.
+
+## What catches my eye
+
+The strongest missing piece is not embeddings. It is **Actual Application**.
+
+You said it exactly: “run a file in it that reads what the gate can read then it can see what the gate actually applied.”
+
+That becomes a hard organ:
+
+`GATE_ACTUAL_APPLICATION_READER`
+
+Its job:
+
+`Given this atom, what gate-readable signals exist?`
+
+Then:
+
+`Given the surrounding text/status/receipt, what gate/verdict actually appeared?`
+
+Then:
+
+`What should have appeared but did not?`
+
+This creates the real comparison:
+
+`EXPECTED_GATE_TRIGGER`
+
+versus
+
+`ACTUAL_GATE_APPLICATION`
+
+That is better than a ledger. A ledger says what should happen. The actual-application reader shows what did happen.
+
+Example:
+
+Input atom:
+
+`SHA256 verified. This proves the tool works.`
+
+Readable signals:
+
+`SHA256`, `verified`, `proves`, `tool works`.
+
+Expected gates:
+
+`TOKEN_CUSTODY`
+
+`MERCURY`
+
+`SATURN`
+
+`EARTH`
+
+Actual gate application:
+
+maybe only `EARTH_HASH_MATCH_CONFIRMED`.
+
+Diff:
+
+`TOKEN_CUSTODY_MISSING`
+
+`MERCURY_MISSING`
+
+`SATURN_MISSING`
+
+`HASH_AS_RUNTIME_OVERCLAIM`
+
+That is the nervous system.
+
+## New hard rule
+
+`NO_GATE_TRUST_WITHOUT EXPECTED_VS_ACTUAL.`
+
+A gate is not proven linked because the text describes it.
+
+A gate is proven linked when the house can show:
+
+`what the object exposed`
+
+`what the gate was allowed to read`
+
+`why the gate should have fired`
+
+`whether it actually fired`
+
+`what verdict it applied`
+
+`what it blocked`
+
+`what it passed forward`
+
+`what the next gate inherited`
+
+`what proof remained open`
+
+`what residue was left behind`
+
+## Research upgrade map
+
+The outside tools should be used like this:
+
+`OpenTelemetry`
+
+Use for trace/run/span shape.
+
+House object:
+
+`GATE_TRACE_SPAN`
+
+`W3C PROV`
+
+Use for source/entity/activity/agent/derivation chain.
+
+House object:
+
+`PROVENANCE_CARD`
+
+`OpenLineage`
+
+Use for scan job / run / dataset-like entity events.
+
+House object:
+
+`TRACE_RUN_EVENT`
+
+`SKOS`
+
+Use for concept cards and controlled vocabulary.
+
+House object:
+
+`CONCEPT_CARD`
+
+`SHACL`
+
+Use later to validate whether cards are structurally complete.
+
+House object:
+
+`TRACE_SCHEMA_VALIDATION`
+
+`SLSA`
+
+Use for artifact-production provenance.
+
+House object:
+
+`GENERATED_REPORT_PROVENANCE`
+
+`CycloneDX`
+
+Use for bill-of-materials thinking.
+
+House object:
+
+`BILL_OF_ATOMS / BILL_OF_CONCEPTS / BILL_OF_TRACES`
+
+`SBERT / embeddings`
+
+Use for same-idea / different-word candidate links.
+
+House warning:
+
+`SEMANTIC_NEARNESS_NOT_PROOF`
+
+`MinHash / SimHash`
+
+Use for near-duplicate and drifted-copy detection.
+
+House warning:
+
+`NEAR_DUPLICATE_NOT_SAME_AUTHORITY`
+
+`HDBSCAN`
+
+Use for clusters plus allowed noise/outliers.
+
+House warning:
+
+`NOISE_NOT_TRASH`
+
+`BERTopic / c-TF-IDF`
+
+Use for distinguishing terms after grouping.
+
+House warning:
+
+`LOUD_WORD_NOT_GROUP_NAME`
+
+## Batch T12 sewn output
+
+The next spec must not be watery. It should create this exact file later:
+
+`HOUSE_SEMANTIC_NERVOUS_SYSTEM_RESEARCH_AND_ARCHITECTURE_SPEC_V0_1.md`
+
+Its required sections:
+
+`1. Soft Suit Boundary`
+
+No doctrine. No automation. No watcher. No graph database. No whole-house crawl. No source mutation. No cleanup. No install. No commit/push.
+
+`2. Organs`
+
+Trace, Read-Scope, Expected Trigger, Actual Application, Pass-Forward Packet, Concept Court, Claim Scope, Residue, Lineage.
+
+`3. Outside Research Pressure Map`
+
+OpenTelemetry, PROV, OpenLineage, SKOS, SHACL, SLSA, CycloneDX, SBERT, MinHash, SimHash, HDBSCAN, BERTopic.
+
+`4. Gate-Readable Scope`
+
+For every gate: what it can read and what it cannot decide.
+
+`5. Expected-vs-Actual Gate Court`
+
+Expected trigger, actual application, missing trigger, overtrigger, wrong gate, gate swallowing, proof-rung mismatch.
+
+`6. Stacked Group Signatures`
+
+ExactHash, NormalizedHash, NearDuplicateSignature, SemanticSignature, ConceptSignature, RoleSignature, GateSignature, RouteSignature, ProofSignature, RiskSignature, ResidueSignature.
+
+`7. False Match Court`
+
+Cheap word blocker, role mismatch blocker, proof mismatch blocker, authority mismatch blocker, metaphor blocker, embedding fog blocker.
+
+`8. Residue Board`
+
+False match, orphan, bridge, contradiction, fog, root signal, new mechanism, authority spike, room drift, time drift.
+
+`9. Claim Scope / DoesNotProve Engine`
+
+Every evidence object states supported claim, unsupported stronger claims, proof rung, upgrade evidence, responsible gate, counterweight gate, Earth proof need.
+
+`10. Pass-Forward Packets`
+
+The next gate receives object plus inherited packet, not raw object alone.
+
+`11. Fixture Bench`
+
+Minimum first bench: hash overclaim, static/runtime collapse, custody/cleanup collapse, outside-standard overreach, action without authority, candidate/doctrine collapse, one-echo overdig, leftover delete.
+
+The uploaded batch already names those eight as the first minimum bench and says not to run real source until they pass. 
+
+`12. Small-Lab Replay`
+
+Bounded source set only. No whole house. No parked drift V0.3. Report-only outputs.
+
+`13. DoesNotProve`
+
+The spec does not prove the tracer works. It does not run the soft-suit test. It does not prove doctrine. It does not authorize automation. It does not edit files.
+
+## Batch T12 verdict
+
+`SOFT_SUIT_LOCKED`
+
+`DEAD_CHAT_DROPPED`
+
+`HOUSE_SEMANTIC_NERVOUS_SYSTEM_SELECTED`
+
+`GATE_TRIGGER_TRACER_REHOMED_AS_TRACE_ORGAN`
+
+`CONCEPT_GROUPER_REHOMED_AS_CONCEPT_ORGAN`
+
+`ACTUAL_APPLICATION_READER_ADDED`
+
+`CLAIM_SCOPE_ENGINE_REQUIRED`
+
+`LINEAGE_BONE_REQUIRED`
+
+`RESIDUE_BOARD_REQUIRED`
+
+`FIXTURE_FIRST_RULE_REINFORCED`
+
+`SMALL_LAB_BEFORE_REAL_SCAN`
+
+`OUTSIDE_STANDARDS_PRESSURE_ONLY`
+
+`NOT_DOCTRINE`
+
+`NO_SCRIPT_YET`
+
+`NO_SCAN_YET`
+
+`NO_WHOLE_HOUSE_CRAWL`
+
+Next batch should be:
+
+`Batch T13 — Actual Application Reader / How the tracer detects what each gate really applied instead of only what should have triggered.`
+
+[1]: https://opentelemetry.io/docs/specs/semconv/general/trace/?utm_source=chatgpt.com "Trace semantic conventions"
+[2]: https://www.w3.org/TR/prov-dm/?utm_source=chatgpt.com "PROV-DM: The PROV Data Model"
+[3]: https://openlineage.io/docs/spec/object-model/?utm_source=chatgpt.com "Object Model"
+[4]: https://www.w3.org/TR/skos-reference/?utm_source=chatgpt.com "SKOS Simple Knowledge Organization System Reference"
+[5]: https://www.w3.org/TR/shacl/?utm_source=chatgpt.com "Shapes Constraint Language (SHACL)"
+[6]: https://slsa.dev/spec/v1.2/provenance?utm_source=chatgpt.com "SLSA • Provenance"
+[7]: https://cyclonedx.org/?utm_source=chatgpt.com "CycloneDX Bill of Materials Standard | CycloneDX"
+[8]: https://aclanthology.org/D19-1410/?utm_source=chatgpt.com "Sentence Embeddings using Siamese BERT-Networks"
+[9]: https://hdbscan.readthedocs.io/en/latest/how_hdbscan_works.html?utm_source=chatgpt.com "How HDBSCAN Works — hdbscan 0.8.1 documentation"
+[10]: https://maartengr.github.io/BERTopic/getting_started/ctfidf/ctfidf.html?utm_source=chatgpt.com "5. c-TF-IDF - BERTopic"
+
+
+
+
+
+
+Rope held. Same lane. Batch T13.
+
+## Batch T13 — Actual Application Reader / What the gate actually applied
+
+This is the sharpest part so far.
+
+The tracer cannot only ask:
+
+`What should have triggered?`
+
+It must also ask:
+
+`What did the material itself show was actually applied?`
+
+That is a different question.
+
+A gate can be expected but absent.
+A gate can be named but not actually applied.
+A gate can be applied weakly.
+A gate can be applied in shadow.
+A gate can be swallowed by another gate.
+A gate can appear in a receipt but not in the source.
+A gate can be implied by a verdict word even when its name is missing.
+
+So the new organ is:
+
+`GATE_ACTUAL_APPLICATION_READER`
+
+Its job is to read the material and decide what gate action is actually visible.
+
+The uploaded batch already states the core requirement: a gate is not proven linked because it is described; it is proven linked when the house can show what it read, why it triggered, what verdict it applied, what it blocked, what it passed forward, what the next gate received, what proof remained, and what residue stayed ungrouped.  The replay batch also says the system must compare expected triggers against actual gate language and expose missing triggers, overtriggers, wrong gates, packet breaks, proof overclaims, false groups, and unhandled residue. 
+
+Outside research backs the shape. OpenTelemetry says traces are made of spans, and spans represent operations in a trace tree; that gives us the skeleton for “one gate operation = one trace span.” ([OpenTelemetry][1]) Open Policy Agent decision logs are closer to our “actual application” need because they record policy queries, input, queried policy, bundle metadata, and other information for auditing and offline debugging. ([Open Policy Agent][2]) Drools/Red Hat rule-engine event listeners are also useful because they can report rule-engine activity such as fact insertions and rule executions, including after-match-fired behavior. ([Red Hat Documentation][3])
+
+House translation:
+
+`OpenTelemetry = span skeleton.`
+`OPA decision logs = decision/audit skeleton.`
+`Drools event listeners = actual fired-rule skeleton.`
+`House Actual Application Reader = what gate visibly applied, missed, overreached, or swallowed.`
+
+## The key distinction
+
+There are three different things:
+
+`EXPECTED_TRIGGER`
+
+The house rules say this gate should wake.
+
+`ACTUAL_APPLICATION`
+
+The material shows this gate, verdict, block, proof need, or pass-forward packet was actually used.
+
+`MATERIAL_PROOF`
+
+Earth proves a file/path/hash/output/state exists.
+
+Do not collapse them.
+
+Example:
+
+A text says:
+
+`SHA256 verified. This proves the tool works.`
+
+Expected triggers:
+
+`TOKEN_CUSTODY`
+
+`MERCURY`
+
+`SATURN`
+
+`EARTH`
+
+Actual application might show only:
+
+`EARTH_HASH_MATCH_CONFIRMED`
+
+That means Earth was actually applied, but Token Custody, Mercury, and Saturn were missing.
+
+Material proof:
+
+The hash may be real.
+
+But claim scope:
+
+Hash proves identity, not tool behavior.
+
+So the Actual Application Reader would report:
+
+`EXPECTED: TOKEN_CUSTODY / MERCURY / SATURN / EARTH`
+
+`ACTUAL: EARTH_ONLY`
+
+`GAP: TOKEN_CUSTODY_MISSING / MERCURY_MISSING / SATURN_MISSING`
+
+`RISK: HASH_AS_RUNTIME_PROOF`
+
+`REPAIR: add token-scope, word-scope, proof-burden packet`
+
+## Why this is not just keyword search
+
+A keyword search sees the word `Saturn`.
+
+The Actual Application Reader asks:
+
+Did Saturn do Saturn’s job?
+
+Saturn’s job is not being mentioned. Saturn’s job is:
+
+`boundary`
+
+`proof burden`
+
+`blocked claim`
+
+`unlock condition`
+
+`scope limit`
+
+If a document says:
+
+`Saturn reviewed this`
+
+but it does not name proof burden, blocked claims, or unlock condition, then Saturn is only **named**, not applied.
+
+So the reader needs levels.
+
+`LEVEL 0 — ABSENT`
+
+The gate is neither named nor implied.
+
+`LEVEL 1 — NAMED`
+
+The gate name appears, but no job is done.
+
+Example:
+
+`Saturn gate checked.`
+
+No proof burden. No blocked claim. Weak.
+
+`LEVEL 2 — IMPLIED`
+
+The gate name is missing, but its job appears.
+
+Example:
+
+`This is blocked until runtime output exists.`
+
+That is Saturn-shaped even if the word Saturn is absent.
+
+`LEVEL 3 — APPLIED_WEAK`
+
+Some job appears, but incomplete.
+
+Example:
+
+`Proof required.`
+
+Missing exact proof target and unlock condition.
+
+`LEVEL 4 — APPLIED_DIGNIFIED`
+
+The gate does its own job, stays in lane, names blocked claims, names next gate, and names proof need.
+
+`LEVEL 5 — APPLIED_SHADOW`
+
+The gate appears but abuses its job.
+
+Example:
+
+Saturn blocks forever with no unlock condition. Jupiter promotes too fast. Pluto root-dives one weak signal.
+
+`LEVEL 6 — APPLIED_OVERREACH`
+
+The gate decides outside its authority.
+
+Example:
+
+Mercury defines words and then claims proof. Earth confirms file exists and then claims idea is true.
+
+That level system is the missing sharp edge.
+
+## 33rd pass — Actual Application Reader findings
+
+1. `ACTUAL_IS_NOT_EXPECTED`
+
+Expected trigger is what should happen. Actual application is what the material shows happened.
+
+2. `NAMED_IS_NOT_APPLIED`
+
+A gate name appearing does not prove the gate did its job.
+
+3. `APPLIED_IS_NOT_PROVEN`
+
+A gate applying a verdict does not prove the verdict is materially true. Earth still checks exact proof.
+
+4. `IMPLIED_APPLICATION_COUNTS_WITH_CAUTION`
+
+If a gate’s job appears without the gate name, record implied application with confidence, not certainty.
+
+5. `VERDICT_WORDS_ARE_APPLICATION_CLUES`
+
+Words like `BLOCKED`, `PROOF_REQUIRED`, `DO_NOT_USE`, `RUNTIME_NOT_PROVEN`, `PARKED`, and `NOT_DOCTRINE` are clues that gates applied.
+
+6. `MISSING_VERDICT_IS_A_SIGNAL`
+
+If a gate should trigger but no verdict appears, that is a missing-trigger finding.
+
+7. `BLOCKED_CLAIMS_PROVE_GATE_STRENGTH`
+
+A gate is stronger when it names what it blocks.
+
+8. `DOES_NOT_PROVE_PROVES_BOUNDARY`
+
+A gate or evidence object is safer when it carries DoesNotProve.
+
+9. `NEXT_GATE_PROVES_PASS_FORWARD`
+
+A gate is not complete unless it says where the object goes next or why it stops.
+
+10. `EARTH_PROOF_NEED_PROVES_CLOSURE_TARGET`
+
+Every actual application needs a proof target, even if the proof target is “not available yet.”
+
+11. `GATE_CONDITION_MUST_BE_RECORDED`
+
+The reader must mark dignified, weak, shadow, overreach, missing, swallowed, or blocked.
+
+12. `SHADOW_APPLICATION_IS_REAL_APPLICATION`
+
+A gate in shadow still affected the object. Do not ignore it.
+
+13. `OVERREACH_IS_A TRACE EVENT`
+
+When a gate does another gate’s job, that is not just wrong wording. It is an actual bad gate event.
+
+14. `SWALLOWED_GATE_DETECTION_REQUIRED`
+
+If Mercury handles proof, or Saturn handles runtime, or Jupiter handles doctrine, the swallowed gate must be named.
+
+15. `ACTUAL_APPLICATION_CAN_BE_FOUND_IN RECEIPTS`
+
+Receipts may show what was claimed, blocked, hashed, or not proven.
+
+16. `RECEIPT_APPLICATION_IS_SCOPED`
+
+A receipt showing a gate verdict does not prove the gate was correct.
+
+17. `SOURCE_APPLICATION_AND_RECEIPT_APPLICATION_CAN_DISAGREE`
+
+If the source says one thing and receipt says another, route to Mercury/Saturn/Earth.
+
+18. `ACTUAL_APPLICATION_READER_MUST_READ NEARBY_CONTEXT`
+
+One line may not be enough. A verdict line may need the heading, boundary, and next-action line.
+
+19. `ATOM_CONTEXT_WINDOW_REQUIRED`
+
+Each atom needs a small context window: heading path, previous boundary line, next verdict line.
+
+20. `ACTUAL_TRIGGER_CONFIDENCE_REQUIRED`
+
+Use `HIGH`, `MEDIUM`, `LOW`, or `REVIEW_REQUIRED`.
+
+21. `HIGH_CONFIDENCE_REQUIRES_JOB_EVIDENCE`
+
+High confidence requires gate job evidence, not only gate name.
+
+22. `LOW_CONFIDENCE_SHOULD_NOT_FAIL_THE_SYSTEM`
+
+Low-confidence actual findings should route to review, not automatic failure.
+
+23. `EXPLICIT_BLOCKS_ARE_STRONGER_THAN IMPLIED_BLOCKS`
+
+“Do not use parked V0.3” is stronger than “parked V0.3 not active” if the source is messy.
+
+24. `ACTUAL_APPLICATION_READER_NEEDS GATE_JOB_DICTIONARY`
+
+For each gate, define what counts as applied.
+
+25. `ACTUAL_APPLICATION_READER_NEEDS FALSE_APPLICATION_DICTIONARY`
+
+For each gate, define what fake application looks like.
+
+26. `APPLICATION_WITHOUT_PACKET_IS_INCOMPLETE`
+
+A gate that applies but does not pass a packet creates a packet break.
+
+27. `APPLICATION_WITHOUT_DOESNOTPROVE_IS_RISKY`
+
+A gate that applies proof/status without DoesNotProve creates proof overreach risk.
+
+28. `APPLICATION_WITHOUT_STOP_CONDITION_CAN_DRIFT`
+
+Rope, Season, Pluto, Jupiter, and research routes especially need stop condition.
+
+29. `APPLICATION_ORDER_MATTERS`
+
+Correct gate but wrong season can still damage the material.
+
+30. `SUPPORT_APPLICATION_MUST_PRECEDE_PLANETARY_JUDGMENT`
+
+Echo-first and support membrane must appear before planetary judgment in the run order.
+
+31. `ACTUAL_APPLICATION_READER_IS_READ_ONLY`
+
+It observes. It does not repair. It does not merge. It does not promote.
+
+32. `ACTUAL_APPLICATION_READER_FEEDS_REPAIR_BACKLOG`
+
+It produces findings: missing trigger, overtrigger, wrong gate, swallowed gate, weak packet, missing DoesNotProve.
+
+33. `ACTUAL_APPLICATION_READER_IS_THE NERVE TEST`
+
+It is how the house sees whether the nervous signal actually traveled, not whether we hoped it traveled.
+
+## Gate application tests
+
+Each gate needs a small “what counts as applied” rule.
+
+`INTAKE` is actually applied only if the object is classified, first risk is named, blocked actions are named, and next route is selected.
+
+Fake Intake:
+
+`This came in and looks fine.`
+
+Real Intake:
+
+`OBJECT_CLASSIFIED: RAW_SOURCE`
+
+`RISK: UNKNOWN_REVIEW`
+
+`BLOCKED: doctrine / install / cleanup / delete`
+
+`NEXT: MOON / MERCURY / EARTH`
+
+`MOON` is actually applied only if custody/home/hold/parking/raw preservation is named.
+
+Fake Moon:
+
+`Saved it somewhere.`
+
+Real Moon:
+
+`RAW_SOURCE_HELD`
+
+`RAW_MUST_STAY_RAW`
+
+`CUSTODY_RECEIPT_REQUIRED`
+
+`DOES_NOT_PROVE: source trusted`
+
+`MERCURY` is actually applied only if terms, forbidden synonyms, claim wording, or route grammar are defined.
+
+Fake Mercury:
+
+`Wording looks clean.`
+
+Real Mercury:
+
+`verified = static copy check only`
+
+`verified != runtime pass`
+
+`NEXT: SATURN / EARTH`
+
+The Mercury gate source already warns that Mercury can become lawyer-fog if it makes wording feel done; the correct Mercury move is to define the words and send the object to the proper next gate for judgment. 
+
+`SATURN` is actually applied only if proof burden, boundary, blocked authority, or unlock condition is named.
+
+Fake Saturn:
+
+`Blocked.`
+
+Real Saturn:
+
+`BLOCKED: doctrine promotion`
+
+`UNLOCK: soft-suit test + promotion authority`
+
+`EARTH_PROOF_NEED: review receipt`
+
+`EARTH` is actually applied only if exact material proof or exact proof gap is named.
+
+Fake Earth:
+
+`Looks proven.`
+
+Real Earth:
+
+`HASH_MATCH_CONFIRMED`
+
+`FILE_EXISTS_CONFIRMED`
+
+`RUNTIME_NOT_PROVEN`
+
+`DOES_NOT_PROVE: content quality / doctrine / acceptance`
+
+The planetary source says Earth decides material proof, runtime behavior, path truth, machine truth, and actual result, while also warning that Earth can overclaim by treating “file exists” as enough. 
+
+`ROPE_ROUTER` is actually applied only if rope, player, counterweight, proof need, negative trigger, route cost, failure risk, and stop condition are named.
+
+Fake Rope:
+
+`Next.`
+
+Real Rope:
+
+`ROPE: review candidate`
+
+`PLAYER: Mercury/Saturn/Earth`
+
+`COUNTERWEIGHT: Saturn`
+
+`PROOF_NEED: markers and hashes`
+
+`STOP: receipt only`
+
+The Rope Router material already says route without reason is style drift, every rope needs a negative trigger, route cost, failure risk, proof need, and stop condition, and every route must end with a rope card. 
+
+`JUPITER` is actually applied only if growth is scoped.
+
+Fake Jupiter:
+
+`This is useful, use it everywhere.`
+
+Real Jupiter:
+
+`GROWTH_CANDIDATE`
+
+`SCOPE: this lane only`
+
+`BLOCKED: doctrine / universal adoption`
+
+`NEXT: SATURN`
+
+`PLUTO` is actually applied only if repeated hidden-parent evidence is named and bounded.
+
+Fake Pluto:
+
+`This feels like a root issue.`
+
+Real Pluto:
+
+`ROOT_PARENT_SUSPECTED`
+
+`EVIDENCE: repeated across word/proof/action/time`
+
+`COUNTERWEIGHT: SATURN + EARTH`
+
+`BLOCKED: root found from one sign`
+
+`NEPTUNE` is actually applied only if fog/vision/leak/metaphor risk is named and bounded.
+
+Fake Neptune:
+
+`This feels deep.`
+
+Real Neptune:
+
+`FOG_DETECTED`
+
+`VISION_PARKED`
+
+`METAPHOR_NOT_MECHANISM`
+
+`EARTH_PROOF_REQUIRED`
+
+`URANUS` is actually applied only if old-pattern failure and new mechanism need are named with boundary.
+
+Fake Uranus:
+
+`New idea!`
+
+Real Uranus:
+
+`OLD_PATTERN_FAILED: gate ledger cannot prove actual trigger`
+
+`NEW_MECHANISM: actual application reader`
+
+`BLOCKED: automation / whole-house crawl`
+
+`PROOF_NEED: fixture bench`
+
+The Uranus gate material says new mechanism or exception must name the old failure, new structure, preserved boundary, blocked bypass, proof need, and return path. 
+
+## Actual Application Card
+
+The reader needs its own card.
+
+`ACTUAL_APPLICATION_CARD`
+
+Fields:
+
+`RunId`
+
+`SourceEntityId`
+
+`AtomId`
+
+`GateName`
+
+`ExpectedTrigger: true/false`
+
+`ActualApplicationLevel: absent / named / implied / weak / dignified / shadow / overreach`
+
+`ActualEvidenceText`
+
+`EvidenceLocation`
+
+`GateJobEvidence`
+
+`VerdictFound`
+
+`BlockedClaimsFound`
+
+`BlockedActionsFound`
+
+`DoesNotProveFound`
+
+`NextGateFound`
+
+`ProofNeedFound`
+
+`PacketFound`
+
+`GateCondition`
+
+`Confidence`
+
+`GapClass`
+
+`RepairSuggestion`
+
+`DoesNotProve`
+
+This card is not optional. Without it, the tracer only produces impressions.
+
+## Gap classes
+
+The Actual Application Reader should output exact gap names.
+
+`EXPECTED_AND_APPLIED`
+
+The gate should fire and did fire.
+
+`EXPECTED_BUT_ABSENT`
+
+The gate should fire but no gate job is visible.
+
+`EXPECTED_BUT_ONLY_NAMED`
+
+The gate name appears, but the gate did not do its job.
+
+`EXPECTED_BUT_WEAK`
+
+The gate partly applied but missed proof, boundary, next gate, or DoesNotProve.
+
+`NOT_EXPECTED_BUT_APPLIED`
+
+A gate applied without enough trigger.
+
+`WRONG_GATE_APPLIED`
+
+Another gate did the job.
+
+`GATE_SWALLOWED_ANOTHER`
+
+One gate absorbed another gate’s authority.
+
+`SHADOW_APPLICATION`
+
+The gate’s shadow behavior is visible.
+
+`ORDER_DAMAGE`
+
+The gate applied too early or too late.
+
+`PACKET_BREAK`
+
+The gate applied but did not pass forward a usable packet.
+
+`PROOF_RUNG_MISMATCH`
+
+The gate used evidence for a stronger claim than the evidence supports.
+
+## The important repair
+
+The next spec must stop saying only:
+
+`ActualTrigger: true/false`
+
+That is too thin.
+
+Replace it with:
+
+`ActualApplicationLevel`
+
+and:
+
+`GateJobEvidence`
+
+Because a gate can be “true” only in name.
+
+Bad field:
+
+`ActualTrigger=True`
+
+Better field:
+
+`ActualApplicationLevel=NAMED_ONLY`
+
+`GateJobEvidence=missing blocked claim / missing next gate / missing proof need`
+
+That distinction will save the system.
+
+## How the next gate sees it
+
+The next gate should not receive:
+
+`Mercury triggered.`
+
+It should receive:
+
+`Mercury application level: DIGNIFIED`
+
+`Mercury read: verified / runtime / not proven`
+
+`Mercury verdict: verified scoped to static proof`
+
+`Mercury blocked: verified = runtime pass`
+
+`Mercury proof need: launch output`
+
+`Mercury next gate: Saturn`
+
+Now Saturn sees the object correctly.
+
+If Mercury was only named, Saturn receives:
+
+`Mercury application level: NAMED_ONLY`
+
+`Mercury did not define claim scope`
+
+`Saturn must not assume Mercury completed word-scope`
+
+Then Saturn can say:
+
+`ROUTE_BACK_TO_MERCURY`
+
+or:
+
+`SATURN_BLOCK_UNTIL_MERCURY_SCOPE`
+
+That is a living nervous system.
+
+## Batch T13 sewn rule
+
+`The Actual Application Reader does not ask only whether a gate should have fired. It asks what the material shows the gate actually did: whether it was absent, merely named, implied, weakly applied, dignified, shadowed, overreaching, swallowed, out of order, or packet-broken. A gate is treated as applied only when its gate-specific job evidence appears: verdict, blocked claim, DoesNotProve, proof need, next gate, and stop condition where required.`
+
+Second sewn rule:
+
+`The next gate receives the object through the actual-application card, not through hope. If the prior gate was only named or weakly applied, the next gate must inherit that weakness and either repair, route back, block, or continue with scoped warning.`
+
+## Batch T13 verdict
+
+`ACTUAL_APPLICATION_READER_DEFINED`
+
+`NAMED_IS_NOT_APPLIED_LOCKED`
+
+`ACTUAL_APPLICATION_LEVELS_DEFINED`
+
+`GATE_JOB_EVIDENCE_REQUIRED`
+
+`EXPECTED_VS_ACTUAL_REPAIRED`
+
+`GATE_SWALLOWING_DETECTION_STRENGTHENED`
+
+`PACKET_BREAK_DETECTION_STRENGTHENED`
+
+`NEXT_GATE_INHERITS_ACTUAL_APPLICATION_STATE`
+
+`NOT_DOCTRINE`
+
+`NO_SCRIPT_YET`
+
+`NO_SCAN_YET`
+
+`NO_WHOLE_HOUSE_CRAWL`
+
+Next batch:
+
+`Batch T14 — Read-Scope Contracts: define exactly what each gate is allowed to read, what it must ignore, what it must route away, and how read-scope prevents gates from becoming god-gates.`
+
+[1]: https://opentelemetry.io/docs/specs/otel/trace/api/?utm_source=chatgpt.com "Tracing API"
+[2]: https://openpolicyagent.org/docs/management-decision-logs?utm_source=chatgpt.com "Decision Logs"
+[3]: https://docs.redhat.com/en/documentation/red_hat_process_automation_manager/7.8/html/decision_engine_in_red_hat_process_automation_manager/engine-event-listeners-con_decision-engine?utm_source=chatgpt.com "Chapter 8. Decision engine event listeners and debug ..."
+
+
+
+
+
+
+
+
+
+
+
+

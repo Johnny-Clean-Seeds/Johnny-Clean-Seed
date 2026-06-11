@@ -1,0 +1,730 @@
+**SHELL: CLEAN SHELL.**
+
+Yes. Dropping the uploaded `Deadchat.txt` content as the current dead-chat anchor. This is the HSRB/helper-contract rope, not the latest scaffold gate file. Source file loaded as `Deadchat.txt`. 
+
+```text
+DROP DEAD CHAT ANCHOR — ROOT HELD ROUTE PLAN / HSRB / HELPER CONTRACT STATE
+
+Status:
+ANCHOR_NOTE / DROP_DEAD_CHAT_READY / NOT_DOCTRINE / NOT_ACTION_ORDER / NO_PHYSICAL_ACTION_AUTHORIZED
+
+Purpose:
+Preserve the full working rope if the chat resets, fogs, compresses, or a new assistant/agent enters midstream.
+
+This anchor is not an approval to move, delete, rename, route, clean, execute, commit, push, promote doctrine, or run reviewed helper scripts.
+
+CORE TRUTH
+
+The real main job is not HSRB, not PowerShell, not the receptionist helper, and not “review scripts forever.”
+
+The real main job is:
+
+Regain trustworthy authority over the local house file situation so no file, helper, report, receipt, route plan, mule output, or assistant wording can accidentally become action authority before it has been classified.
+
+The trunk is:
+
+CURRENT_NOTES.txt
+→ root-held route-plan pause
+→ user-approved dry-run selector
+→ live-root review surface
+→ helper surface classification
+→ return to route-plan decision
+→ only later, with explicit approval, possible physical routing/cleanup.
+
+TRUE START
+
+The true start is the clean route-plan pause inside CURRENT_NOTES.txt.
+
+At that point:
+
+Route plan was built.
+Route plan was stress-benched.
+rough_local was imported as pointer truth.
+Nested Git was clean.
+No physical route happened.
+No cleanup happened.
+No move/delete/rename happened.
+No execution happened.
+No commit/push by the route-plan card.
+The next boundary was only:
+
+USER_APPROVED_ROOT_HELD_GROUP_ROUTE_DRY_RUN_SELECTOR_20260608
+
+That phrase matters. It means the next legal action was a dry-run selector only, not route execution.
+
+Known route-plan/import facts:
+
+Latest committed object:
+ROOT_HELD_GROUP_ROUTE_PLAN_ONLY_V0_1_ROUGH_LOCAL_IMPORT_20260608
+
+Latest commit:
+bdc74ff82837fe30a10f7f5047d0b54b65321016
+
+Latest verdict:
+ROUGH_LOCAL_ROOT_HELD_GROUP_ROUTE_PLAN_ONLY_V0_1_COMMITTED_TO_NESTED_REPO
+
+Git status after commit:
+CLEAN
+
+Route-plan facts:
+script_plan_row_count: 53
+non_script_plan_row_count: 5
+total_plan_row_count: 58
+action_now_row_count: 0
+move_route_now_row_count: 0
+dry_run_required_row_count: 56
+
+Important meaning:
+The route plan is not a route order.
+rough_local import is pointer truth, not full evidence custody.
+Receipts prove past work; they are not active orders.
+
+RECEPTIONIST HELPERS ROLE
+
+Receptionist_helpers.txt is a sidequest/candidate method branch, not the main job.
+
+It supplies method language for the dry-run selector:
+
+receive first
+name first
+ticket first
+classify first
+propose first
+review first
+learn first
+movement later
+janitor/mover much later
+
+The receptionist is not the mover.
+
+Correct relationship:
+
+CURRENT_NOTES.txt is the main rope.
+Receptionist_helpers.txt is candidate method support.
+Receptionist method can shape dry-run ticketing/classification.
+It cannot override CURRENT_NOTES.
+It cannot approve movement.
+
+CHAT DROP / LOAD SURFACE RULE
+
+Current Chat Drop law:
+
+Required locations only:
+C:\Users\13527\Desktop\123\Chat Drop
+C:\Users\13527\Desktop\Chat Drop
+
+ASSISTANT_LOCAL is not a required third mirror unless explicitly reauthorized.
+
+Chat Drop files are burden reducers and support surfaces.
+They are not automatically source authority.
+
+Do not load old loads, sync reports, cleanup reports, receipts, assistant local, or workshop folders by default.
+
+STABLE OPERATING RULES
+
+One active object.
+No side quests unless parked under the main rope.
+Separate state from authority.
+Proof is not authority.
+Receipt is not order.
+Route plan is not route order.
+Proposal is not approval.
+Chat Drop is not source authority by default.
+Helper file is not assistant.
+Report written does not mean report correct.
+Final verdict wording cannot override blocker count.
+Known issue pattern skipped means verdict cannot be clean.
+No physical mutation without explicit approval.
+
+Hard no list:
+
+No move.
+No delete.
+No rename.
+No cleanup.
+No route execution.
+No helper execution under review.
+No commit.
+No push.
+No doctrine promotion.
+No treating proposal as approval.
+No treating receipt as active order.
+No treating Chat Drop as source authority.
+No treating “packet generated” as “reviewed files cleared.”
+
+ROOT HELD DRY-RUN SELECTOR CHAIN
+
+The dry-run selector was created because the route plan was built from locked custody queues and needed a live-root delta check before any future route.
+
+The dry-run selector’s job was:
+
+verify Git state
+reread live root
+compare live root against route-plan/custody evidence
+create receptionist-style tickets
+assign role/state/risk/confidence/proposal labels
+write report and receipt
+perform zero physical actions
+
+Early script attempts failed due to generated PowerShell defects:
+count/scalar issues
+argument-type mismatch
+regex/path escape issue
+strict-mode problems
+
+V0.5 finally succeeded.
+
+Known V0.5 output:
+ROOT_HELD_GROUP_ROUTE_DRY_RUN_SELECTOR_V0_5_20260609.md
+SHA256:
+7FF73554A783AF238BAE8C1D9B1FA9BC6359C693FC19ACC890B3BC0C65945543
+
+Receipt SHA256:
+83BAF6AA1B48B4BB6B50A5939DC2AB824F032E835E34F781E506B46F71DD8819
+
+Verdict:
+ROOT_HELD_GROUP_ROUTE_DRY_RUN_SELECTOR_V0_5_WRITTEN_WITH_CONSERVATIVE_LIVE_ROOT_REVIEW_REQUIRED
+
+Physical actions:
+move=0 delete=0 rename=0 route=0 execute=0 commit=0 push=0
+
+Meaning:
+V0.5 gave a review surface, not action authority.
+
+REVIEW CARD / USER PACKET / 69-ROW BOARD
+
+Review card V0.1 failed from parser/string defect.
+Review card V0.2 succeeded.
+
+Review card V0.2:
+ROOT_HELD_GROUP_ROUTE_DRY_RUN_SELECTOR_V0_5_REVIEW_AND_NEXT_ACTION_CARD_V0_2_20260609.md
+SHA256:
+27EF576560656F28091410B53357A875803ABA2F593930F00BC78BA1606D1FA0
+
+Next selected:
+USER_REVIEWS_V0_5_CONSERVATIVE_LIVE_ROOT_BOARD_THEN_DECIDES_REPAIR_PARSER_OR_BUILD_MANUAL_APPROVED_ROW_SELECTOR
+
+User review packet V0.1 failed.
+User review packet V0.2 succeeded.
+
+User review packet V0.2:
+ROOT_HELD_GROUP_ROUTE_DRY_RUN_SELECTOR_V0_5_USER_REVIEW_PACKET_V0_2_20260609.md
+SHA256:
+38D59D51507A5869B821CAD8834DC5EF38B2720EDFC044D49EC8A4772A3F2328
+
+Counts:
+ticket_count: 69
+system_leave_in_place: 1
+helper_review_required: 64
+high_or_blocked_risk: 65
+user_decision_required: 68
+action_now_non_no: 0
+blocker: 0
+
+Manual decision worksheet succeeded.
+
+Worksheet MD:
+ROOT_HELD_GROUP_ROUTE_DRY_RUN_SELECTOR_V0_5_MANUAL_DECISION_WORKSHEET_20260609.md
+SHA256:
+EC0F192AB6B42BBCB10A733CD0AA55F1732AAD1691E8D9918386E87E4FD212F5
+
+Worksheet CSV:
+ROOT_HELD_GROUP_ROUTE_DRY_RUN_SELECTOR_V0_5_MANUAL_DECISION_WORKSHEET_20260609.csv
+SHA256:
+2A29F825FEDE1EB4EA5EA3F9F22F733803F09944F57F4538EFDEF2C28BE0BF40
+
+User marked rows:
+Rows 001–032: REVIEW
+Row 033 current_and_next_plans.txt: HOLD
+Row 034 desktop.ini: HOLD
+Rows 035–039: REVIEW
+Rows 040–042: HOLD
+Rows 043–069: REVIEW
+
+Marked result:
+HOLD: 5
+REVIEW: 64
+BLOCK: 0
+LATER_APPROVED_ROW_CANDIDATE: 0
+
+Marked CSV SHA256:
+DB41FAF1985E4FA729934CB8258F9084FCC725A476ABB9072FAAC58662A75A5D
+
+Marked MD SHA256:
+DD0A2E7951D6783BC2BC823EE51BFE49657A790C2EE5D4C4B0155546416EDB5F
+
+Closeout SHA256:
+5151964CA547748825386CF881153CF5FA71B73BD35260FA1D8F8A4B4B81C38F
+
+Closeout receipt SHA256:
+C9367818C378F6EE90D33416A835E7C6AD0598F6706AEA1CD305007AE132325B
+
+Meaning:
+The 69-row board became the 64-row helper review queue.
+This was preflight, not drift.
+
+64-ROW HELPER REVIEW QUEUE
+
+64-row queue V0.1 failed due list/count formatting PowerShell defect.
+64-row queue V0.2 succeeded.
+
+Queue CSV SHA256:
+791B70E2A44AE19365D5AB410FB55E5D4AA40BA7F9A957B0A95C5BC8ADB59B43
+
+Queue MD SHA256:
+FDDE84E707460948DEA21115B31D2738FED10E9DA74EE87D2B4480043BB295C5
+
+Queue print SHA256:
+50DA5C4F65FA3EF26B62E5A4849D841AAAA417CEA892FB89D963922EB19F071A
+
+Receipt SHA256:
+8CDA1DCB238C360A13E3648E549190485035FD02C9EFE755F9881176C10995CB
+
+Counts:
+total_rows: 69
+queue_review_rows: 64
+HOLD: 5
+REVIEW: 64
+blocker: 0
+
+Meaning:
+The 64-row helper queue became the working review branch.
+
+HSRB MEANING
+
+HSRB = Helper Script Review Batch.
+
+HSRB is not the main mission.
+HSRB is the batch method for reviewing the 64 helper-related files before letting helpers influence routing, cleanup, or future route proposals.
+
+Purpose:
+classify helper scripts as proof, candidate, support-only, superseded failed attempt, blocked, or needs deeper review.
+
+HSRB-001
+
+Batch:
+active route selector defect chain
+
+Selector succeeded.
+
+Static packet V0.1 failed:
+null .NET List issue
+
+Static packet V0.2 succeeded.
+
+Decision closeout V0.1 failed:
+schema mismatch, expected Decision but actual StaticDisposition
+
+Decision closeout V0.2 succeeded.
+
+Proof index chain succeeded after one V0.1 empty-collection binding failure and V0.2 repair.
+
+HSRB-001 final meaning:
+one last passing proof
+four superseded failed attempts
+no physical actions
+
+Known HSRB-001 proof index:
+index CSV SHA256:
+5F4C92667A153770A22F6B3F3839A4BAC14112FAFC2581B0457CFFEC5C32D20D
+
+index MD SHA256:
+99861F58CE240DE2164D47AFF458C0BB28B2FE2B249DF50F58D81049BD1AE6AC
+
+proof index closeout SHA256:
+B4CE65335BEBB4771A947066CDD468B81BF9B39EB155D9D53AC3DC71C1A523EA
+
+proof index closeout receipt SHA256:
+D21B0116023B0D6CC9861F33D3CC38003C0A2857E06B05A14274EF2FFB9E8781
+
+Status:
+HSRB-001 closed as proof/index work.
+
+HSRB-002
+
+Batch:
+generated-runner safe-template chain
+
+Selected rows:
+6
+
+Static review packet succeeded.
+
+Decision closeout V0.1 failed:
+empty-string Lines parameter binding
+
+Decision closeout V0.2 succeeded.
+
+Template rule and attempt index V0.1 succeeded structurally but had a hidden custody defect:
+TicketID column blank for all six rows.
+
+This mattered because TicketID is the custody handle tying derived reports back to the 64-row queue.
+
+Repair chain:
+
+V0.1 repair failed:
+null line list factory
+
+V0.2:
+fixed TicketID
+but role counts became 0
+
+V0.3:
+fixed role counts
+but TicketID remained blank
+
+V0.4:
+fixed TicketID and role counts
+but missing_sha256_count became 6 and index receipt SHA printed blank
+
+V0.5:
+finally passed full gate:
+repaired_blank_ticket_id_count: 0
+missing_sha256_count: 0
+selected_batch_rows: 6
+repaired_index_rows: 6
+template_rule_card_count: 1
+field_apply_attempt_count: 3
+freeze_repair_attempt_count: 2
+unknown_index_role_count: 0
+blocker_count: 0
+physical_actions: move=0 delete=0 rename=0 route=0 execute=0 commit=0 push=0
+
+HSRB-002 V0.5 outputs:
+
+output_index_csv:
+HSRB_002_TEMPLATE_RULE_AND_ATTEMPT_INDEX_NO_EXECUTION_V0_5_20260609.csv
+SHA256:
+A5415882B49E896C29CD09472407CD482BB0881FCE1B4B449E53143A3BA3DCCD
+
+output_index_md:
+HSRB_002_TEMPLATE_RULE_AND_ATTEMPT_INDEX_NO_EXECUTION_V0_5_20260609.md
+SHA256:
+57580C42967071CB41FAAC01D1892A9D394F1AB9764AE67813C498D3FEDA86B8
+
+output_index_receipt:
+HSRB_002_TEMPLATE_RULE_AND_ATTEMPT_INDEX_NO_EXECUTION_RECEIPT_V0_5_20260609.txt
+SHA256:
+8CA09494D6601B6C4F132B59A9DF01B2D561975ED6F8421C90A67FE6A94089AC
+
+output_closeout:
+HSRB_002_TEMPLATE_RULE_AND_ATTEMPT_INDEX_CLOSEOUT_NO_EXECUTION_V0_5_20260609.md
+SHA256:
+F76388ACDD752D9D72B3E6E7F3B56955D4B4700A094881D5AA6E6E26E23BD776
+
+output_closeout_receipt:
+HSRB_002_TEMPLATE_RULE_AND_ATTEMPT_INDEX_CLOSEOUT_NO_EXECUTION_RECEIPT_V0_5_20260609.txt
+SHA256:
+01A4AFFBA42B6ABA08AE299AA35B0DB96A3CA78C5DA3294AB7131ADD85E574EF
+
+Important evidence created:
+ERROR_FREEZE for blank TicketID defect
+ERROR_FREEZE for V0.1 null list repair failure
+ERROR_FREEZE for V0.2 zero role counts
+ERROR_FREEZE for V0.3 TicketID still blank
+ERROR_FREEZE for V0.4 missing SHA
+HELPER_GENERATION_EVIDENCE__DERIVED_INDEXES_MUST_VALIDATE_TICKET_ID_ROLE_COUNTS_AND_SHA_TOGETHER_20260609.md
+
+HSRB-002 final status:
+repaired and closed at V0.5.
+Earlier bad attempts are evidence of helper-generation defects.
+
+LOWER-LAYER DIAGNOSIS FROM HSRB-002
+
+Before HSRB-002:
+problem looked like generated PowerShell bugs.
+
+After HSRB-002:
+problem became helper/report generation layer can produce convincing reports that are semantically incomplete.
+
+Deeper diagnosis:
+LOWER_LAYER_HELPER_GENERATION_DEFECT
+DERIVED_REPORTS_WERE_OUTPUT_FIRST_NOT_CONTRACT_FIRST
+CUSTODY_FIELDS_NOT_VALIDATED_TOGETHER
+BLOCKER_VERDICTS_NOT_ALWAYS_DOMINANT
+
+Meaning:
+Report written does not mean report correct.
+Final verdict language cannot override blocker count.
+A repair cannot be trusted if it fixes one field while dropping another.
+Derived helper reports must validate all required custody fields together.
+
+HELPER OUTPUT CONTRACT
+
+Every derived helper report, selector, packet, index, closeout, and receipt must validate the full custody contract before it can claim pass.
+
+Required fields/checks:
+
+TicketID present and not blank.
+FileName present.
+Declared SHA256 present when row came from queue.
+Actual SHA256 computed when applicable.
+Declared SHA and actual SHA match when applicable.
+Source exists.
+Role/disposition known.
+Decision/next action explicit.
+Risk markers counted and named.
+Blocker count printed.
+Physical action count printed.
+No hidden physical actions.
+No optimistic verdict if blocker_count > 0.
+
+Verdict dominance:
+If blocker_count > 0, final verdict must be a blocker verdict.
+
+Blockers:
+blank TicketID
+missing SHA
+missing source
+unknown disposition
+hash mismatch
+unclassified risk marker
+physical action count nonzero when no-action scope
+known issue pattern skipped
+packet language implying reviewed files are cleared when only packet generation passed
+
+HSRB-003
+
+Batch:
+root drop intake washer build-option-set chain
+
+HSRB-003 selector V0.1:
+selected nine rows
+SHA present
+but blank_ticket_id_count: 9
+blocker_count: 1
+physical actions zero
+
+Meaning:
+HSRB-002 defect was not isolated. TicketID custody defect leaked into next batch selector.
+
+HSRB-003 selector V0.2:
+passed after repair.
+
+Outputs:
+
+selected batch CSV:
+HELPER_SCRIPT_REVIEW_NEXT_BATCH_SELECTOR_HSRB_003_FROM_64_QUEUE_NO_EXECUTION_SELECTED_BATCH_003_V0_2_20260609.csv
+SHA256:
+46453987B9A3E61AD054AB9063BB3C5EBBA5749996C1935EF9DB909D61632BE5
+
+report MD:
+HELPER_SCRIPT_REVIEW_NEXT_BATCH_SELECTOR_HSRB_003_FROM_64_QUEUE_NO_EXECUTION_V0_2_20260609.md
+SHA256:
+50BEB51F64B5C4180890EBF87AAF0AFB089A341C6C4EEC8FCF2E06DC1A357343
+
+receipt:
+HELPER_SCRIPT_REVIEW_NEXT_BATCH_SELECTOR_HSRB_003_FROM_64_QUEUE_NO_EXECUTION_RECEIPT_V0_2_20260609.txt
+SHA256:
+B26C9C1D86413BCA12D6A71950CD1ACF428D8E96F139EBF5F96C0340831DB2E1
+
+Counts:
+queue_review_rows: 64
+selected_batch_id: HSRB-003
+selected_batch_rows: 9
+present_in_queue_count: 9
+source_present_count: 9
+source_missing_count: 0
+v0_1_blank_ticket_id_count: 9
+blank_ticket_id_count: 0
+fallback_ticket_id_count: 0
+missing_sha256_count: 0
+review_only_count: 9
+blocker_count: 0
+
+Next selected action:
+BUILD_STATIC_REVIEW_PACKET_FOR_BATCH_HSRB_003_ROOT_DROP_INTAKE_WASHER_BUILD_OPTION_SET_CHAIN_NO_EXECUTION
+
+HSRB-003 selector status:
+usable.
+
+HSRB-003 static review packet V0.1:
+
+Outputs:
+
+summary CSV:
+STATIC_REVIEW_PACKET_BATCH_HSRB_003_ROOT_DROP_INTAKE_WASHER_BUILD_OPTION_SET_CHAIN_SUMMARY_V0_1_20260609.csv
+SHA256:
+BDA4237D9453936BDEE9C43D270B6E82B9CC3255A34A05DD210CEAE6EB4F59BF
+
+packet MD:
+STATIC_REVIEW_PACKET_BATCH_HSRB_003_ROOT_DROP_INTAKE_WASHER_BUILD_OPTION_SET_CHAIN_V0_1_20260609.md
+SHA256:
+CDDAD451AE35644EBA42694119F96E8AB348B14E245CFA4EA58FCD9DDDC1B4FF
+
+print:
+STATIC_REVIEW_PACKET_BATCH_HSRB_003_ROOT_DROP_INTAKE_WASHER_BUILD_OPTION_SET_CHAIN_COPY_PRINT_V0_1_20260609.txt
+SHA256:
+CDDAD451AE35644EBA42694119F96E8AB348B14E245CFA4EA58FCD9DDDC1B4FF
+
+receipt:
+STATIC_REVIEW_PACKET_BATCH_HSRB_003_ROOT_DROP_INTAKE_WASHER_BUILD_OPTION_SET_CHAIN_RECEIPT_V0_1_20260609.txt
+SHA256:
+1925821AEBE747D1797E4EE8544338104B8ABD301DC12F6540734A5DA42D6544
+
+Counts:
+selected_batch_id: HSRB-003
+selected_batch_rows: 9
+summary_rows: 9
+blank_ticket_id_count: 0
+missing_declared_sha256_count: 0
+missing_actual_sha256_count: 0
+source_hash_mismatch_count: 0
+source_missing_count: 0
+text_read_fail_count: 0
+helper_candidate_option_set_count: 1
+old_load_or_system_option_set_count: 1
+queue_closeout_and_next_action_card_count: 1
+review_queue_family_count: 2
+source_authority_candidate_option_set_count: 1
+support_candidate_option_set_count: 2
+support_card_schema_and_dry_run_count: 1
+unknown_static_disposition_count: 0
+contains_move_item_count: 0
+contains_remove_item_count: 0
+contains_rename_item_count: 0
+contains_copy_item_count: 1
+contains_start_process_count: 0
+contains_invoke_expression_count: 0
+contains_git_command_count: 9
+blocker_count: 0 for packet generation
+physical_actions: move=0 delete=0 rename=0 route=0 execute=0 commit=0 push=0
+
+Critical interpretation:
+The packet generator passed custody/write checks.
+The reviewed helper files are not cleared.
+The batch contains risk markers:
+contains_copy_item_count: 1
+contains_git_command_count: 9
+
+HSRB-003 is paused before decision closeout.
+
+Do not say:
+HSRB-003 passed.
+
+Say:
+HSRB-003 static packet generated correctly, but reviewed batch remains risk-marked and evidence-only until copy/git hits are classified under the helper-output contract.
+
+HSRB-003 decision closeout script was generated but should not be run casually until the helper-output contract is explicitly applied.
+
+CURRENT BOOKMARK
+
+MAIN_TRUNK:
+CURRENT_NOTES route-plan pause
+
+ORIGINAL ACTIVE COMMAND:
+USER_APPROVED_ROOT_HELD_GROUP_ROUTE_DRY_RUN_SELECTOR_20260608
+
+ORIGINAL PURPOSE:
+reread live root and produce dry-run ticket/classification rows without physical action
+
+DERIVED SURFACE:
+69-row review board
+
+USER DECISION SPLIT:
+5 HOLD / 64 REVIEW
+
+CURRENT REVIEW BRANCH:
+64-row helper-script review queue
+
+CLOSED:
+HSRB-001
+
+REPAIRED CLOSED:
+HSRB-002 V0.5
+
+CURRENT:
+HSRB-003
+
+LAST GOOD HSRB-003 OBJECT:
+selector V0.2
+
+LAST GENERATED HSRB-003 OBJECT:
+static review packet V0.1
+
+CURRENT RISK:
+copy marker 1
+git command markers 9
+
+CURRENT BLOCKER:
+helper-output contract must be made dominant before trusting HSRB-003 decision closeout
+
+NEXT REAL MOVE:
+contract-first HSRB-003 decision closeout, not route execution
+
+FORWARD PATH
+
+1. Lock helper-output contract as pass/fail gate.
+2. Apply contract to HSRB-003 decision closeout.
+3. Classify HSRB-003 copy/git risk markers.
+4. Close HSRB-003 into scoped disposition:
+   PROOF_ONLY
+   SUPPORT_ONLY
+   CANDIDATE_REVIEW_REQUIRED
+   BLOCKED
+   NEEDS_DEEPER_SUBREVIEW
+5. Continue HSRB-004 and remaining helper batches under same contract.
+6. Build full helper disposition ledger.
+7. Return to CURRENT_NOTES route-plan pause.
+8. Build new current dry-run route proposal using classified helper ledger.
+9. User reviews proposed route rows.
+10. Only if explicitly approved, build physical routing/cleanup executor.
+11. Verify every action and preserve receipts/rollback/proof.
+
+FULL HELPER DISPOSITION LEDGER GOAL
+
+When the 64-row helper review queue is finished, produce a trusted ledger showing:
+
+which helpers are last-passing proof
+which helpers are superseded failed attempts
+which helpers are candidate methods
+which helpers are support-only
+which helpers are blocked
+which helpers mention copy/move/remove/rename/git/start-process/invoke-expression
+which helpers can be referenced as evidence
+which helpers must not be used
+which helper families have unresolved defects
+which rows still require user review
+
+Only after that can the house return to the larger route-plan pause with enough trust to build a new route proposal.
+
+FOG LIFT / ANCHOR GATE
+
+Problem:
+Long chats create fog. Fog is not just missing memory. Fog is parent-chain loss. An assistant can see the current branch but forget the trunk.
+
+New rule:
+At real pivots or long-chat intervals, create an Anchor Note.
+
+Anchor Note must capture:
+parent object
+current object
+why this branch exists
+what it protects
+last good object
+current blocker
+return-to-main condition
+no-action boundary
+next single legal action
+
+Trigger phrases:
+pull anchor
+fog lift
+find the trunk
+show parent chain
+where are we really
+restore the rope
+return to main rope
+lock this pivot
+make an anchor
+read the anchor
+
+Do not rely on “think hard” as primary trigger. It is too generic.
+
+FOG_LIFT_ANCHOR_GATE short law:
+When branch depth gets high, rebuild the parent chain before producing the next action. If the assistant cannot name the trunk, branch, blocker, and return path, it may not continue with scripts, routing, cleanup, or verdicts.
+
+CURRENT SCOPED VERDICT
+
+MAIN_ROPE_PRESERVED__WE_ARE_ON_A_REQUIRED_CONTRACT_REPAIR_BRANCH_CREATED_BY_HSRB_EVIDENCE__NEXT_MOVE_IS_CONTRACT_FIRST_HSRB_003_DECISION_CLOSEOUT__NO_PHYSICAL_ACTION_AUTHORIZED
+```

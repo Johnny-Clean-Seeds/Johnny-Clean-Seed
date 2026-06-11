@@ -1,0 +1,166 @@
+# Static Review Packet - Batch HSRB-003 Root Drop Intake Washer Build Option Set Chain - V0.1
+
+Status: STATIC_REVIEW_PACKET / NO_EXECUTION / NO_ROUTE / NO_CLEANUP / NO_COMMIT / NO_PUSH
+
+## Purpose
+
+Review Batch HSRB-003 as static text only. This packet reads the selected root drop intake washer helper scripts for source presence, TicketID custody, SHA custody, role classification, and static safety markers. It does not run any selected helper script.
+
+## Boundary
+
+No selected script is executed. No root file is moved, deleted, renamed, copied, routed, cleaned, committed, or pushed. This output is review evidence only.
+
+## Verified selector inputs
+
+| Input | Exists | HashMatch | SHA256 |
+| --- | ---: | ---: | --- |
+| selected_batch_003_v0_2_csv | True | True | `46453987B9A3E61AD054AB9063BB3C5EBBA5749996C1935EF9DB909D61632BE5` |
+| hsrb_003_selector_v0_2_md | True | True | `50BEB51F64B5C4180890EBF87AAF0AFB089A341C6C4EEC8FCF2E06DC1A357343` |
+| hsrb_003_selector_v0_2_print | True | True | `50BEB51F64B5C4180890EBF87AAF0AFB089A341C6C4EEC8FCF2E06DC1A357343` |
+| hsrb_003_selector_v0_2_receipt | True | True | `B26C9C1D86413BCA12D6A71950CD1ACF428D8E96F139EBF5F96C0340831DB2E1` |
+| hsrb_003_selector_v0_2_fix_note | True | True | `20D8656FCD99BFFB7B0C4431F50E96D9F836D11EA0E73AB738FF0FDF2233B2D4` |
+| hsrb_003_selector_helper_generation_evidence | True | True | `6BD3DBA31BC5386DC4E60BA5FA6FA4B206975469BC331CC4233DEE5872ABC798` |
+
+## Counts
+
+- selected_batch_id: HSRB-003
+- selected_batch_rows: 9
+- summary_rows: 9
+- blank_ticket_id_count: 0
+- missing_declared_sha256_count: 0
+- missing_actual_sha256_count: 0
+- source_hash_mismatch_count: 0
+- source_missing_count: 0
+- text_read_fail_count: 0
+- helper_candidate_option_set_count: 1
+- old_load_or_system_option_set_count: 1
+- queue_closeout_and_next_action_card_count: 1
+- review_queue_family_count: 2
+- source_authority_candidate_option_set_count: 1
+- support_candidate_option_set_count: 2
+- support_card_schema_and_dry_run_count: 1
+- unknown_static_disposition_count: 0
+- contains_move_item_count: 0
+- contains_remove_item_count: 0
+- contains_rename_item_count: 0
+- contains_copy_item_count: 1
+- contains_start_process_count: 0
+- contains_invoke_expression_count: 0
+- contains_git_command_count: 9
+- blocker_count: 0
+
+## Static review table
+
+| TicketID | FileName | Lines | KnownOutcome | StaticDisposition | DeclaredSHA256 | ActualSHA256 | HashMatch |
+| --- | --- | ---: | --- | --- | --- | --- | ---: |
+| RHG-DRY-005 | `BUILD_ROOT_DROP_INTAKE_WASHER_HELPER_CANDIDATE_OPTION_SET_20260608.ps1` | 531 | ROOT_DROP_INTAKE_WASHER_HELPER_CANDIDATE_OPTION_SET; REVIEW_ONLY | HELPER_CANDIDATE_OPTION_SET_REVIEW_ONLY | `978BBF7777416A53B41F5667B0BDB0F3DBB52FC58F6D079D4DC4AFEE3F0BB40C` | `978BBF7777416A53B41F5667B0BDB0F3DBB52FC58F6D079D4DC4AFEE3F0BB40C` | True |
+| RHG-DRY-006 | `BUILD_ROOT_DROP_INTAKE_WASHER_OLD_LOAD_OR_SYSTEM_OPTION_SET_V0_2_20260608.ps1` | 731 | ROOT_DROP_INTAKE_WASHER_OLD_LOAD_OR_SYSTEM_OPTION_SET; REVIEW_ONLY | OLD_LOAD_OR_SYSTEM_OPTION_SET_REVIEW_ONLY | `BC8B975998FDE49582AF1D626494274060F657DA88608174C4A020CF002E17FB` | `BC8B975998FDE49582AF1D626494274060F657DA88608174C4A020CF002E17FB` | True |
+| RHG-DRY-007 | `BUILD_ROOT_DROP_INTAKE_WASHER_QUEUE_CLOSEOUT_AND_NEXT_ACTION_CARD_20260608.ps1` | 662 | ROOT_DROP_INTAKE_WASHER_QUEUE_CLOSEOUT_AND_NEXT_ACTION_CARD; REVIEW_ONLY | QUEUE_CLOSEOUT_AND_NEXT_ACTION_CARD_REVIEW_ONLY | `6C6C2CCD07CFBD8AECB58BE5D1B414F62981B4FD3627C4A42BF21B7F8724BBD8` | `6C6C2CCD07CFBD8AECB58BE5D1B414F62981B4FD3627C4A42BF21B7F8724BBD8` | True |
+| RHG-DRY-008 | `BUILD_ROOT_DROP_INTAKE_WASHER_REVIEW_QUEUE_20260608.ps1` | 506 | ROOT_DROP_INTAKE_WASHER_REVIEW_QUEUE; REVIEW_ONLY | REVIEW_QUEUE_FAMILY_REVIEW_ONLY | `46B5C36ED5DD0F81B461D31451BA43FE792E6C108ABAC08C459C31B2D28E70CB` | `46B5C36ED5DD0F81B461D31451BA43FE792E6C108ABAC08C459C31B2D28E70CB` | True |
+| RHG-DRY-009 | `BUILD_ROOT_DROP_INTAKE_WASHER_REVIEW_QUEUE_SUMMARY_AND_OPTION_SET_20260608.ps1` | 511 | ROOT_DROP_INTAKE_WASHER_REVIEW_QUEUE_SUMMARY_AND_OPTION_SET; REVIEW_ONLY | REVIEW_QUEUE_FAMILY_REVIEW_ONLY | `209B743FA6CE50DA1E5382134BFCFE19DED84C08C04B35817C9ABD83E5FC6A59` | `209B743FA6CE50DA1E5382134BFCFE19DED84C08C04B35817C9ABD83E5FC6A59` | True |
+| RHG-DRY-010 | `BUILD_ROOT_DROP_INTAKE_WASHER_SOURCE_AUTHORITY_CANDIDATE_OPTION_SET_20260608.ps1` | 511 | ROOT_DROP_INTAKE_WASHER_SOURCE_AUTHORITY_CANDIDATE_OPTION_SET; REVIEW_ONLY | SOURCE_AUTHORITY_CANDIDATE_OPTION_SET_REVIEW_ONLY | `FA00C5CC12E68C932890B6BD79AF051F8710B878553E9C26CE905C56DB902AD4` | `FA00C5CC12E68C932890B6BD79AF051F8710B878553E9C26CE905C56DB902AD4` | True |
+| RHG-DRY-011 | `BUILD_ROOT_DROP_INTAKE_WASHER_SUPPORT_CANDIDATE_OPTION_SET_20260608.ps1` | 618 | ROOT_DROP_INTAKE_WASHER_SUPPORT_CANDIDATE_OPTION_SET; REVIEW_ONLY | SUPPORT_CANDIDATE_OPTION_SET_REVIEW_ONLY | `4D020C550899629BDDF01B0C493798585C86545167542AB9F4B44DDF861F6813` | `4D020C550899629BDDF01B0C493798585C86545167542AB9F4B44DDF861F6813` | True |
+| RHG-DRY-012 | `BUILD_ROOT_DROP_INTAKE_WASHER_SUPPORT_CANDIDATE_OPTION_SET_V0_2_20260608.ps1` | 850 | ROOT_DROP_INTAKE_WASHER_SUPPORT_CANDIDATE_OPTION_SET_V0_2; REVIEW_ONLY | SUPPORT_CANDIDATE_OPTION_SET_REVIEW_ONLY | `B40174F150AC0B698484A4F76A30E7CAD844787F9391D03A02053693983F3AAE` | `B40174F150AC0B698484A4F76A30E7CAD844787F9391D03A02053693983F3AAE` | True |
+| RHG-DRY-013 | `BUILD_ROOT_DROP_INTAKE_WASHER_SUPPORT_CARD_SCHEMA_AND_DRY_RUN_20260608.ps1` | 423 | ROOT_DROP_INTAKE_WASHER_SUPPORT_CARD_SCHEMA_AND_DRY_RUN; REVIEW_ONLY | SUPPORT_CARD_SCHEMA_AND_DRY_RUN_REVIEW_ONLY | `7BA811323EDB857D1C1F5E808769C8ED0303CA4FF76415A274881927FFAE1604` | `7BA811323EDB857D1C1F5E808769C8ED0303CA4FF76415A274881927FFAE1604` | True |
+
+## Static safety scan
+
+| FileName | Move-Item | Remove-Item | Rename-Item | Copy-Item | Start-Process | Invoke-Expression | GitCommand | Set-Content | Export-Csv | Set-Clipboard |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| `BUILD_ROOT_DROP_INTAKE_WASHER_HELPER_CANDIDATE_OPTION_SET_20260608.ps1` | False | False | False | False | False | False | True | True | False | False |
+| `BUILD_ROOT_DROP_INTAKE_WASHER_OLD_LOAD_OR_SYSTEM_OPTION_SET_V0_2_20260608.ps1` | False | False | False | False | False | False | True | True | False | False |
+| `BUILD_ROOT_DROP_INTAKE_WASHER_QUEUE_CLOSEOUT_AND_NEXT_ACTION_CARD_20260608.ps1` | False | False | False | False | False | False | True | True | False | False |
+| `BUILD_ROOT_DROP_INTAKE_WASHER_REVIEW_QUEUE_20260608.ps1` | False | False | False | False | False | False | True | True | False | False |
+| `BUILD_ROOT_DROP_INTAKE_WASHER_REVIEW_QUEUE_SUMMARY_AND_OPTION_SET_20260608.ps1` | False | False | False | False | False | False | True | True | False | False |
+| `BUILD_ROOT_DROP_INTAKE_WASHER_SOURCE_AUTHORITY_CANDIDATE_OPTION_SET_20260608.ps1` | False | False | False | False | False | False | True | True | False | False |
+| `BUILD_ROOT_DROP_INTAKE_WASHER_SUPPORT_CANDIDATE_OPTION_SET_20260608.ps1` | False | False | False | False | False | False | True | True | False | False |
+| `BUILD_ROOT_DROP_INTAKE_WASHER_SUPPORT_CANDIDATE_OPTION_SET_V0_2_20260608.ps1` | False | False | False | True | False | False | True | True | False | False |
+| `BUILD_ROOT_DROP_INTAKE_WASHER_SUPPORT_CARD_SCHEMA_AND_DRY_RUN_20260608.ps1` | False | False | False | False | False | False | True | True | False | False |
+
+## Review notes
+
+### BUILD_ROOT_DROP_INTAKE_WASHER_HELPER_CANDIDATE_OPTION_SET_20260608.ps1
+
+- TicketID: RHG-DRY-005
+- Known outcome: ROOT_DROP_INTAKE_WASHER_HELPER_CANDIDATE_OPTION_SET; REVIEW_ONLY
+- Static disposition: HELPER_CANDIDATE_OPTION_SET_REVIEW_ONLY
+- Review note: Candidate option-set builder for helper files in the root drop intake washer chain. Static review only; no helper is approved for execution.
+- Action now: NO_EXECUTION_NO_ROUTE_NO_CLEANUP
+
+### BUILD_ROOT_DROP_INTAKE_WASHER_OLD_LOAD_OR_SYSTEM_OPTION_SET_V0_2_20260608.ps1
+
+- TicketID: RHG-DRY-006
+- Known outcome: ROOT_DROP_INTAKE_WASHER_OLD_LOAD_OR_SYSTEM_OPTION_SET; REVIEW_ONLY
+- Static disposition: OLD_LOAD_OR_SYSTEM_OPTION_SET_REVIEW_ONLY
+- Review note: Option-set builder for old-load or system classification. Review as routing-design evidence only.
+- Action now: NO_EXECUTION_NO_ROUTE_NO_CLEANUP
+
+### BUILD_ROOT_DROP_INTAKE_WASHER_QUEUE_CLOSEOUT_AND_NEXT_ACTION_CARD_20260608.ps1
+
+- TicketID: RHG-DRY-007
+- Known outcome: ROOT_DROP_INTAKE_WASHER_QUEUE_CLOSEOUT_AND_NEXT_ACTION_CARD; REVIEW_ONLY
+- Static disposition: QUEUE_CLOSEOUT_AND_NEXT_ACTION_CARD_REVIEW_ONLY
+- Review note: Closeout/next-action card builder for the root drop intake washer queue. Review evidence only.
+- Action now: NO_EXECUTION_NO_ROUTE_NO_CLEANUP
+
+### BUILD_ROOT_DROP_INTAKE_WASHER_REVIEW_QUEUE_20260608.ps1
+
+- TicketID: RHG-DRY-008
+- Known outcome: ROOT_DROP_INTAKE_WASHER_REVIEW_QUEUE; REVIEW_ONLY
+- Static disposition: REVIEW_QUEUE_FAMILY_REVIEW_ONLY
+- Review note: Review queue or queue-summary builder. Must preserve TicketID and SHA custody if used later.
+- Action now: NO_EXECUTION_NO_ROUTE_NO_CLEANUP
+
+### BUILD_ROOT_DROP_INTAKE_WASHER_REVIEW_QUEUE_SUMMARY_AND_OPTION_SET_20260608.ps1
+
+- TicketID: RHG-DRY-009
+- Known outcome: ROOT_DROP_INTAKE_WASHER_REVIEW_QUEUE_SUMMARY_AND_OPTION_SET; REVIEW_ONLY
+- Static disposition: REVIEW_QUEUE_FAMILY_REVIEW_ONLY
+- Review note: Review queue or queue-summary builder. Must preserve TicketID and SHA custody if used later.
+- Action now: NO_EXECUTION_NO_ROUTE_NO_CLEANUP
+
+### BUILD_ROOT_DROP_INTAKE_WASHER_SOURCE_AUTHORITY_CANDIDATE_OPTION_SET_20260608.ps1
+
+- TicketID: RHG-DRY-010
+- Known outcome: ROOT_DROP_INTAKE_WASHER_SOURCE_AUTHORITY_CANDIDATE_OPTION_SET; REVIEW_ONLY
+- Static disposition: SOURCE_AUTHORITY_CANDIDATE_OPTION_SET_REVIEW_ONLY
+- Review note: Source-authority candidate option-set builder. Candidate evidence only; not source authority.
+- Action now: NO_EXECUTION_NO_ROUTE_NO_CLEANUP
+
+### BUILD_ROOT_DROP_INTAKE_WASHER_SUPPORT_CANDIDATE_OPTION_SET_20260608.ps1
+
+- TicketID: RHG-DRY-011
+- Known outcome: ROOT_DROP_INTAKE_WASHER_SUPPORT_CANDIDATE_OPTION_SET; REVIEW_ONLY
+- Static disposition: SUPPORT_CANDIDATE_OPTION_SET_REVIEW_ONLY
+- Review note: Support candidate option-set builder. Candidate evidence only; not routing authority.
+- Action now: NO_EXECUTION_NO_ROUTE_NO_CLEANUP
+
+### BUILD_ROOT_DROP_INTAKE_WASHER_SUPPORT_CANDIDATE_OPTION_SET_V0_2_20260608.ps1
+
+- TicketID: RHG-DRY-012
+- Known outcome: ROOT_DROP_INTAKE_WASHER_SUPPORT_CANDIDATE_OPTION_SET_V0_2; REVIEW_ONLY
+- Static disposition: SUPPORT_CANDIDATE_OPTION_SET_REVIEW_ONLY
+- Review note: Support candidate option-set builder. Candidate evidence only; not routing authority.
+- Action now: NO_EXECUTION_NO_ROUTE_NO_CLEANUP
+
+### BUILD_ROOT_DROP_INTAKE_WASHER_SUPPORT_CARD_SCHEMA_AND_DRY_RUN_20260608.ps1
+
+- TicketID: RHG-DRY-013
+- Known outcome: ROOT_DROP_INTAKE_WASHER_SUPPORT_CARD_SCHEMA_AND_DRY_RUN; REVIEW_ONLY
+- Static disposition: SUPPORT_CARD_SCHEMA_AND_DRY_RUN_REVIEW_ONLY
+- Review note: Support-card schema and dry-run builder. Dry-run evidence only; no physical routing authority.
+- Action now: NO_EXECUTION_NO_ROUTE_NO_CLEANUP
+
+## Blockers
+
+None.
+
+## DoesNotProve
+
+This static packet does not prove any selected script is safe to execute, route-approved, cleanup-approved, source-authoritative, current doctrine, or ready to commit/push. It proves only that the selected batch was read as static text and classified for review.
+
+## Next single action
+
+BUILD_HSRB_003_STATIC_REVIEW_DECISION_CLOSEOUT_NO_EXECUTION
+
+Final verdict: STATIC_REVIEW_PACKET_BATCH_HSRB_003_ROOT_DROP_INTAKE_WASHER_BUILD_OPTION_SET_CHAIN_V0_1_WRITTEN_WITH_NO_PHYSICAL_ACTION

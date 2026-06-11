@@ -1,0 +1,49 @@
+{
+  "Status": "PASS",
+  "CreatedUtc": "2026-06-04T23:28:01.9227678Z",
+  "ToolDir": "C:\\Users\\13527\\Desktop\\123\\HOUSE_WORK\\TOOL_ROOM\\RUNNER_HARNESS_V1_1",
+  "RunRoot": "C:\\Users\\13527\\Desktop\\123\\HOUSE_WORK\\TOOL_ROOM\\RUNNER_HARNESS_V1_1\\RUN_REPORTS\\SELFTEST_RUN_20260604_192752",
+  "ProofType": "RUNNER_HARNESS_V1_1_PASS_FAIL_HUNG_SELFTEST",
+  "RequiresKeyboardInput": false,
+  "Cases": [
+    {
+      "Name": "PASS_DELAYED",
+      "ExpectedStatus": "PASS",
+      "ObservedStatus": "PASS",
+      "Passed": true,
+      "RunDir": "C:\\Users\\13527\\Desktop\\123\\HOUSE_WORK\\TOOL_ROOM\\RUNNER_HARNESS_V1_1\\RUN_REPORTS\\SELFTEST_RUN_20260604_192752\\PASS_DELAYED_20260604_192752",
+      "ParentReceipt": "C:\\Users\\13527\\Desktop\\123\\HOUSE_WORK\\TOOL_ROOM\\RUNNER_HARNESS_V1_1\\RUN_REPORTS\\SELFTEST_RUN_20260604_192752\\PASS_DELAYED_20260604_192752\\PARENT_RECEIPT_PASS_DELAYED_20260604_192752.json",
+      "RequiresKeyboardInput": false,
+      "ChildExited": true,
+      "ChildKilled": false,
+      "ChildExitCode": 0,
+      "FailureReason": ""
+    },
+    {
+      "Name": "EXPECTED_FAIL",
+      "ExpectedStatus": "FAIL",
+      "ObservedStatus": "FAIL",
+      "Passed": true,
+      "RunDir": "C:\\Users\\13527\\Desktop\\123\\HOUSE_WORK\\TOOL_ROOM\\RUNNER_HARNESS_V1_1\\RUN_REPORTS\\SELFTEST_RUN_20260604_192752\\EXPECTED_FAIL_20260604_192756",
+      "ParentReceipt": "C:\\Users\\13527\\Desktop\\123\\HOUSE_WORK\\TOOL_ROOM\\RUNNER_HARNESS_V1_1\\RUN_REPORTS\\SELFTEST_RUN_20260604_192752\\EXPECTED_FAIL_20260604_192756\\PARENT_RECEIPT_EXPECTED_FAIL_20260604_192756.json",
+      "RequiresKeyboardInput": false,
+      "ChildExited": true,
+      "ChildKilled": false,
+      "ChildExitCode": 23,
+      "FailureReason": "CHILD_EXIT_CODE_23"
+    },
+    {
+      "Name": "EXPECTED_HUNG",
+      "ExpectedStatus": "HUNG",
+      "ObservedStatus": "HUNG",
+      "Passed": true,
+      "RunDir": "C:\\Users\\13527\\Desktop\\123\\HOUSE_WORK\\TOOL_ROOM\\RUNNER_HARNESS_V1_1\\RUN_REPORTS\\SELFTEST_RUN_20260604_192752\\EXPECTED_HUNG_20260604_192756",
+      "ParentReceipt": "C:\\Users\\13527\\Desktop\\123\\HOUSE_WORK\\TOOL_ROOM\\RUNNER_HARNESS_V1_1\\RUN_REPORTS\\SELFTEST_RUN_20260604_192752\\EXPECTED_HUNG_20260604_192756\\PARENT_RECEIPT_EXPECTED_HUNG_20260604_192756.json",
+      "RequiresKeyboardInput": false,
+      "ChildExited": false,
+      "ChildKilled": true,
+      "ChildExitCode": null,
+      "FailureReason": "CHILD_TIMEOUT"
+    }
+  ]
+}
