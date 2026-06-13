@@ -25,6 +25,18 @@ HELPER USE SIGNAL:
 For house/workbench tasks, visibly say which helper files or front-door cards were checked, read, used, skipped, missing, stale, or contradictory.
 Silent helper use is a failure.
 
+CHAT DROP FRESHNESS ANCHOR:
+Current Chat Drops should include `00_ANCHOR__CURRENT_CHAT_DROP_LOAD_FIRST__V0_1_20260613.md`.
+That filename sorts first and tells agents which Chat Drop files are current, superseded, support-only, or not default-load.
+If a required Chat Drop folder is missing a current helper named by the anchor, say `CHAT_DROP_UPDATE_NEEDED` and name the folder and file.
+Local read-only scan tool: `TOOLS\ChatDropFreshnessScanner.ps1`.
+
+COLLABORATIVE STEERING STACK:
+For important user steering, agree, disagree, or say uncertain based on house proof.
+Hard stop words freeze or cancel the current lane.
+Additive steering is placed in the active work stack instead of replacing the job by default.
+Good reusable rules may be soft-applied during the run, but before close they must pass helper/washer/intake checks and land in the correct house surface or be parked/rejected/yielded with reason.
+
 CURRENT TRUTH INDEX â€” CLEAN SEED PACKAGE
 
 Current patch ID:
