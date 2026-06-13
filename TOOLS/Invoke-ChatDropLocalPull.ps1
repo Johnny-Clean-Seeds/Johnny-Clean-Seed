@@ -3,7 +3,9 @@ param(
     [string]$RepoRoot,
     [string]$SourceChatDrop = (Join-Path ([Environment]::GetFolderPath('Desktop')) 'Chat Drop'),
     [string]$PeerChatDrop = (Join-Path (Join-Path ([Environment]::GetFolderPath('Desktop')) '123') 'Chat Drop'),
-    [string]$OutputRoot = (Join-Path (Join-Path ([Environment]::GetFolderPath('Desktop')) '123') '_CHAT_DROP_LOCAL_PULLS')
+    [string]$OutputRoot = (Join-Path (Join-Path ([Environment]::GetFolderPath('Desktop')) '123') '_CHAT_DROP_LOCAL_PULLS'),
+    [string]$IntentionalNegativeTestName = '',
+    [string]$ExpectedFailureContains = ''
 )
 
 Set-StrictMode -Version Latest
@@ -14,6 +16,7 @@ $script:ReportOut = $null
 $script:EvidenceOutputRoot = $OutputRoot
 $script:LastCleanPoint = 'SCRIPT_START'
 $script:FirstFailingPoint = ''
+$script:NegativeTestRows = New-Object System.Collections.Generic.List[object]
 
 $currentFiles = @(
     '00_ANCHOR__CURRENT_CHAT_DROP_LOAD_FIRST__V0_1_20260613.md',
@@ -21,6 +24,11 @@ $currentFiles = @(
     'CHAT_DROP_COPY__COLLABORATIVE_STEERING_STACK_AND_GATE_DISCIPLINE_V0_1_20260613.md',
     'CHAT_DROP_COPY__PULL_MEANS_LOCAL_FILES_RULE_V0_1_20260613.md',
     'CHAT_DROP_COPY__HELPER_ERROR_EVIDENCE_LOGGING_RULE_V0_1_20260613.md',
+    'CHAT_DROP_COPY__HELPER_ERROR_CATALOG_RULE_V0_1_20260613.md',
+    'CHAT_DROP_COPY__HELPER_GAP_AND_CAUSE_LADDER_RULE_V0_1_20260613.md',
+    'CHAT_DROP_COPY__WEB_SEARCH_CRAWL_LADDER_RULE_V0_1_20260613.md',
+    'CHAT_DROP_COPY__SAFE_CODING_HELPER_SEED_RULE_V0_1_20260613.md',
+    'CHAT_DROP_COPY__HELPER_THINKING_LOGIC_LADDER_RULE_V0_1_20260613.md',
     'CHAT_DROP_COPY__DEEP_SEARCH_EXTENDED_SEARCH_DISCIPLINE_CARD_V0_4_20260613.md',
     'CHAT_DROP_COPY__HOUSE_SEMANTIC_NERVOUS_SYSTEM_CURRENT_CUSTODY_ANCHOR_ADDENDUM_V0_2_20260607.md',
     'CHAT_DROP_COPY__TWO_LOCATION_CHAT_DROP_AND_HELPER_PREFLIGHT_RULE_ADDENDUM_20260607.md',
@@ -38,8 +46,19 @@ $frontDoorTargets = @(
     'PUBLIC_NOTES\CHAT_DROP_ANCHOR_NAMING_AND_FRESHNESS_RULE_V0_1_20260613.md',
     'PUBLIC_NOTES\CHAT_DROP_PULL_MEANS_LOCAL_FILES_RULE_V0_1_20260613.md',
     'PUBLIC_NOTES\HELPER_ERROR_EVIDENCE_LOGGING_RULE_V0_1_20260613.md',
+    'PUBLIC_NOTES\HELPER_ERROR_CATALOG_RULE_V0_1_20260613.md',
+    'PUBLIC_NOTES\HELPER_GAP_AND_CAUSE_LADDER_RULE_V0_1_20260613.md',
+    'PUBLIC_NOTES\WEB_SEARCH_CRAWL_LADDER_RULE_V0_1_20260613.md',
+    'PUBLIC_NOTES\SAFE_CODING_HELPER_SEED_RULE_V0_1_20260613.md',
+    'PUBLIC_NOTES\HELPER_THINKING_LOGIC_LADDER_RULE_V0_1_20260613.md',
     'TOOLS\ChatDropFreshnessScanner.ps1',
-    'TOOLS\Invoke-ChatDropLocalPull.ps1'
+    'TOOLS\Invoke-ChatDropLocalPull.ps1',
+    'TOOLS\Invoke-HelperErrorCatalogBuild.ps1',
+    'TOOLS\HelperGapCauseScanner.ps1',
+    'TOOLS\Invoke-CleanWebCrawl.ps1',
+    'TOOLS\New-SafeCodingHelperPacket.ps1',
+    'TOOLS\Test-SafeCodingHelperPacket.ps1',
+    'TOOLS\Invoke-HelperThinkingPatternBuild.ps1'
 )
 
 function Set-CleanPoint {
@@ -153,6 +172,43 @@ function Add-Line {
     [void]$Lines.Add($Text)
 }
 
+function Add-EvidenceSignal {
+    param(
+        [Parameter(Mandatory = $true)][ValidateSet('INTENTIONAL_NEGATIVE_TEST', 'CLEARED_SUSPECT')][string]$Status,
+        [Parameter(Mandatory = $true)][string]$SuspectedIssue,
+        [Parameter(Mandatory = $true)][string]$Trigger,
+        [Parameter(Mandatory = $true)][string]$EvidenceChecked,
+        [Parameter(Mandatory = $true)][string]$ExpectedResult,
+        [Parameter(Mandatory = $true)][string]$ActualResult,
+        [Parameter(Mandatory = $true)][string]$WhyPassedFailedOrCleared,
+        [Parameter(Mandatory = $true)][string]$WatchNote,
+        [Parameter(Mandatory = $true)][string]$DoesNotProve
+    )
+
+    $script:NegativeTestRows.Add([PSCustomObject]@{
+        Status = $Status
+        SuspectedIssue = $SuspectedIssue
+        Trigger = $Trigger
+        EvidenceChecked = $EvidenceChecked
+        ExpectedResult = $ExpectedResult
+        ActualResult = $ActualResult
+        WhyPassedFailedOrCleared = $WhyPassedFailedOrCleared
+        WatchNote = $WatchNote
+        DoesNotProve = $DoesNotProve
+    })
+}
+
+function Write-EvidenceSignalReport {
+    if (-not $script:ReportOut) {
+        return
+    }
+
+    $path = Join-Path $script:ReportOut 'NEGATIVE_TESTS_AND_CLEARED_SUSPECTS.csv'
+    if ($script:NegativeTestRows.Count -gt 0) {
+        $script:NegativeTestRows | Export-Csv -LiteralPath $path -NoTypeInformation -Encoding UTF8
+    }
+}
+
 function Get-MarkdownFence {
     param([AllowNull()][string]$Text)
 
@@ -179,6 +235,38 @@ function Write-FailureReport {
 
     if ([string]::IsNullOrWhiteSpace($script:FirstFailingPoint)) {
         Set-FailingPoint -Point ('EXCEPTION_AFTER_' + $script:LastCleanPoint)
+    }
+
+    if (-not [string]::IsNullOrWhiteSpace($IntentionalNegativeTestName)) {
+        $expected = if ([string]::IsNullOrWhiteSpace($ExpectedFailureContains)) {
+            'Route should fail and save evidence.'
+        } else {
+            'Route should fail with text containing: ' + $ExpectedFailureContains
+        }
+
+        $actual = 'Route failed with: ' + $Message
+        $matched = if ([string]::IsNullOrWhiteSpace($ExpectedFailureContains)) {
+            $true
+        } else {
+            $Message -like ('*' + $ExpectedFailureContains + '*')
+        }
+        $why = if ($matched) {
+            'Negative test behaved as expected and saved failure evidence.'
+        } else {
+            'Negative test failed, but not with the expected error text; review needed.'
+        }
+
+        Add-EvidenceSignal `
+            -Status 'INTENTIONAL_NEGATIVE_TEST' `
+            -SuspectedIssue $IntentionalNegativeTestName `
+            -Trigger 'Intentional bad input supplied to helper runner.' `
+            -EvidenceChecked ('LastCleanPoint=' + $script:LastCleanPoint + '; FirstFailingPoint=' + $script:FirstFailingPoint) `
+            -ExpectedResult $expected `
+            -ActualResult $actual `
+            -WhyPassedFailedOrCleared $why `
+            -WatchNote 'Use this row to teach future helpers what a clean blocked failure looks like.' `
+            -DoesNotProve 'Does not prove every failure path works or that production output was clean.'
+        Write-EvidenceSignalReport
     }
 
     $failurePath = Join-Path $script:ReportOut 'FAILED.txt'
@@ -266,6 +354,21 @@ try {
         }
     }
     $surfaceRows | Export-Csv -LiteralPath (Join-Path $script:ReportOut 'CHAT_DROP_LOAD_SURFACE.csv') -NoTypeInformation -Encoding UTF8
+    foreach ($row in $surfaceRows) {
+        if ($row.Status -in @('NOT_DEFAULT_LOAD', 'SUPERSEDED_BY_V0_2_FOR_MIRROR_LAW', 'SUPPORT_ONLY_UNLESS_TASK_NAMES_LIVING_SYSTEM', 'CANDIDATE_SUPPORT_ONLY')) {
+            Add-EvidenceSignal `
+                -Status 'CLEARED_SUSPECT' `
+                -SuspectedIssue ('Apparent Chat Drop stale/support item: ' + $row.Name) `
+                -Trigger ('Top-level load-surface scan under ' + $row.Root) `
+                -EvidenceChecked ('Anchor classification status: ' + $row.Status) `
+                -ExpectedResult 'Classify without loading by default or blocking the route.' `
+                -ActualResult 'Classified as non-default-load, support-only, candidate, or superseded history.' `
+                -WhyPassedFailedOrCleared 'The anchor and scanner classification made this a cleared suspect rather than a blocker.' `
+                -WatchNote 'Do not delete or load by default; revisit only if the active task names this support lane.' `
+                -DoesNotProve 'Does not prove the item is useless, current doctrine, or safe to delete.'
+        }
+    }
+    Write-EvidenceSignalReport
     Set-CleanPoint -Point 'CHAT_DROP_LOAD_SURFACE_RECORDED'
 
     $blockers = New-Object System.Collections.Generic.List[string]
@@ -326,6 +429,7 @@ try {
 
     $manifestCsv = Join-Path $script:PullRoot 'CHAT_DROP_LOCAL_PULL_MANIFEST.csv'
     $manifestRows | Export-Csv -LiteralPath $manifestCsv -NoTypeInformation -Encoding UTF8
+    Write-EvidenceSignalReport
     Set-CleanPoint -Point 'MANIFEST_WRITTEN'
 
     $combinedPath = Join-Path $script:PullRoot 'CHAT_DROP_PULL_COMBINED_FOR_ASSISTANT.md'
@@ -342,6 +446,12 @@ try {
     Add-Line $combined '- `00_ANCHOR__CURRENT_CHAT_DROP_LOAD_FIRST__V0_1_20260613.md` loaded first.'
     Add-Line $combined '- `CHAT_DROP_COPY__PULL_MEANS_LOCAL_FILES_RULE_V0_1_20260613.md` used for pull-language routing.'
     Add-Line $combined '- `CHAT_DROP_COPY__HELPER_ERROR_EVIDENCE_LOGGING_RULE_V0_1_20260613.md` used for evidence logging and false-pass blocking.'
+    Add-Line $combined '- `CHAT_DROP_COPY__HELPER_ERROR_CATALOG_RULE_V0_1_20260613.md` used for reusable helper error families and clean fixes.'
+    Add-Line $combined '- `CHAT_DROP_COPY__HELPER_GAP_AND_CAUSE_LADDER_RULE_V0_1_20260613.md` used for missing/stale helper detection and lower-cause routing.'
+    Add-Line $combined '- `CHAT_DROP_COPY__WEB_SEARCH_CRAWL_LADDER_RULE_V0_1_20260613.md` used for bounded web crawl/search evidence collection.'
+    Add-Line $combined '- `CHAT_DROP_COPY__SAFE_CODING_HELPER_SEED_RULE_V0_1_20260613.md` used for no-mutation coding helper packet setup.'
+    Add-Line $combined '- `CHAT_DROP_COPY__HELPER_THINKING_LOGIC_LADDER_RULE_V0_1_20260613.md` used for bounded thinking-pattern capture without hidden chain-of-thought.'
+    Add-Line $combined '- Intentional negative tests and cleared suspects are saved under `REPORTS\NEGATIVE_TESTS_AND_CLEARED_SUSPECTS.csv` when present.'
     Add-Line $combined '- `CHAT_DROP_COPY__MULE_STANDING_ISSUE_LEDGER_V0_1_20260607.md` used for two-copy law, load-surface check, and visible final return.'
     Add-Line $combined '- `TOOLS\Invoke-ChatDropLocalPull.ps1` built this bundle.'
     Add-Line $combined ''
@@ -407,6 +517,9 @@ try {
         'Reports:',
         $script:ReportOut,
         '',
+        'Intentional negative tests / cleared suspects report when present:',
+        (Join-Path $script:ReportOut 'NEGATIVE_TESTS_AND_CLEARED_SUSPECTS.csv'),
+        '',
         'No delete, rename, cleanup, commit, push, clone, fetch, GitHub pull, source replay, fixture run, or doctrine promotion was performed.',
         'Plain pull means local files here.'
     ) | Set-Content -LiteralPath $readMePath -Encoding UTF8
@@ -426,6 +539,7 @@ catch {
     Write-FailureReport -Message $message
     Write-Host ''
     Write-Host 'VERDICT: CHAT_DROP_LOCAL_PULL_FAILED'
+    Write-Host ('ERROR_TEXT: ' + $message)
     Write-Error $message
     exit 1
 }

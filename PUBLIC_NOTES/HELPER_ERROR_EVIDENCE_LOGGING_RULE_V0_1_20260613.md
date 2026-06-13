@@ -23,6 +23,32 @@ If an error, blocker, parser issue, missing file, hash mismatch, stale helper, c
 9. Record DoesNotProve.
 10. Return a scoped `FAILED`, `BLOCKED`, or `YIELD` verdict until proof passes.
 
+If the problem is missing, stale, weak, contradictory, or too-broad helper coverage, also use:
+
+`PUBLIC_NOTES\HELPER_GAP_AND_CAUSE_LADDER_RULE_V0_1_20260613.md`
+
+That card decides whether the signal is `HELPER_GAP_DETECTED`, `HELPER_STALE_DETECTED`, or `HELPER_CAUSE_LADDER_CLEAR`.
+
+## Negative Test And Cleared Suspect Rule
+
+An intentional negative test is a deliberate bad command, bad path, bad input, missing folder, parser failure, or unsafe scenario run to prove the helper blocks the right thing.
+
+A cleared suspect is a signal that looked like an error, blocker, stale file, bad route, or unsafe state, but was later cleared by evidence.
+
+Do not erase either kind. Save intentional negative tests as `INTENTIONAL_NEGATIVE_TEST` evidence, and save cleared suspects as `CLEARED_SUSPECT` evidence. Both can teach future helpers how failures should look, what not to panic about, and what still needs watching.
+
+For each intentional negative test or cleared suspect, record:
+
+- evidence type;
+- suspected issue or deliberate bad condition;
+- trigger;
+- evidence checked;
+- expected result;
+- actual result;
+- why it passed, failed, or was cleared;
+- remaining risk or watch note;
+- DoesNotProve.
+
 ## Storage Shape
 
 Use a timestamped evidence folder when a script or helper route creates output.
@@ -33,6 +59,7 @@ Minimum clean evidence set:
 - `REPORTS\CHAT_DROP_LOAD_SURFACE.csv` or equivalent load-surface proof when Chat Drop state matters;
 - `REPORTS\BLOCKERS.txt` when blockers exist;
 - `REPORTS\FAILED.txt` when the route fails;
+- `REPORTS\NEGATIVE_TESTS_AND_CLEARED_SUSPECTS.csv` when intentional bad tests are run or apparent issues are cleared by evidence;
 - manifest CSV when files are copied or bundled;
 - final README/open-first file for the user;
 - combined output file only after it passes validation.

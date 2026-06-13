@@ -13,6 +13,11 @@ $currentFiles = @(
     'CHAT_DROP_COPY__COLLABORATIVE_STEERING_STACK_AND_GATE_DISCIPLINE_V0_1_20260613.md',
     'CHAT_DROP_COPY__PULL_MEANS_LOCAL_FILES_RULE_V0_1_20260613.md',
     'CHAT_DROP_COPY__HELPER_ERROR_EVIDENCE_LOGGING_RULE_V0_1_20260613.md',
+    'CHAT_DROP_COPY__HELPER_ERROR_CATALOG_RULE_V0_1_20260613.md',
+    'CHAT_DROP_COPY__HELPER_GAP_AND_CAUSE_LADDER_RULE_V0_1_20260613.md',
+    'CHAT_DROP_COPY__WEB_SEARCH_CRAWL_LADDER_RULE_V0_1_20260613.md',
+    'CHAT_DROP_COPY__SAFE_CODING_HELPER_SEED_RULE_V0_1_20260613.md',
+    'CHAT_DROP_COPY__HELPER_THINKING_LOGIC_LADDER_RULE_V0_1_20260613.md',
     'CHAT_DROP_COPY__DEEP_SEARCH_EXTENDED_SEARCH_DISCIPLINE_CARD_V0_4_20260613.md',
     'CHAT_DROP_COPY__HOUSE_SEMANTIC_NERVOUS_SYSTEM_CURRENT_CUSTODY_ANCHOR_ADDENDUM_V0_2_20260607.md',
     'CHAT_DROP_COPY__TWO_LOCATION_CHAT_DROP_AND_HELPER_PREFLIGHT_RULE_ADDENDUM_20260607.md',
@@ -77,4 +82,11 @@ foreach ($root in $ChatDropRoots) {
 
 Write-Output 'PULL_LANGUAGE_RULE: Plain pull means local files in this house. This scanner does not clone, fetch, pull from GitHub, or use Git remotes.'
 Write-Output 'LOCAL_PULL_RUNNER: To create a combined assistant bundle, run .\TOOLS\Invoke-ChatDropLocalPull.ps1 from the repo. Do not paste long interactive blocks for this job.'
+Write-Output 'HELPER_GAP_SCANNER: To inspect helper-gap/cause-ladder surfaces read-only, run .\TOOLS\HelperGapCauseScanner.ps1 from the repo.'
+Write-Output 'HELPER_DRY_RUN_SUITE: To run current/live helper cards and scripts through dry tasks, run .\TOOLS\Invoke-HelperDryRunSuite.ps1 from the repo.'
+Write-Output 'HELPER_ERROR_CATALOG: To build a bounded helper error catalog, run .\TOOLS\Invoke-HelperErrorCatalogBuild.ps1 from the repo.'
+Write-Output 'WEB_CRAWL_LADDER: To run a bounded same-host web crawl with evidence logs, run .\TOOLS\Invoke-CleanWebCrawl.ps1 from the repo.'
+Write-Output 'SAFE_CODING_SEED: To create a no-mutation coding helper packet, run .\TOOLS\New-SafeCodingHelperPacket.ps1 from the repo.'
+Write-Output 'SAFE_CODING_VALIDATOR: To validate a safe coding helper packet, run .\TOOLS\Test-SafeCodingHelperPacket.ps1 from the repo.'
+Write-Output 'HELPER_THINKING_LOGIC: To build visible thinking-pattern scaffolding, run .\TOOLS\Invoke-HelperThinkingPatternBuild.ps1 from the repo.'
 Write-Output 'DOES_NOT_PROVE: This read-only scan does not mutate files, prove Git state, approve cleanup, or make Chat Drop source authority.'
