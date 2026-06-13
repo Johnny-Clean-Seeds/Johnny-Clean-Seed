@@ -40,9 +40,22 @@ Current required locations:
 
 - `00_ANCHOR__CURRENT_CHAT_DROP_LOAD_FIRST__V0_1_20260613.md`
 - `CHAT_DROP_COPY__CLEAR_LENS_ENTRY_SUIT_AND_OUTSIDE_AGENT_IDENTITY_CARD_V0_1_20260613.md`
+- `CHAT_DROP_COPY__PULL_MEANS_LOCAL_FILES_RULE_V0_1_20260613.md`
+- `PUBLIC_NOTES\CHAT_DROP_PULL_MEANS_LOCAL_FILES_RULE_V0_1_20260613.md`
 - `TOOLS\ChatDropFreshnessScanner.ps1`
 
 ## Agent Behavior
+
+Plain `pull` means take from, read from, inspect, or bring forward from the named local file surface.
+
+For Chat Drop work, `pull the chat drops` means inspect or take from:
+
+1. `C:\Users\13527\Desktop\123\Chat Drop`
+2. `C:\Users\13527\Desktop\Chat Drop`
+
+Plain `pull` does not mean GitHub, Git remote, clone, fetch, sparse checkout, or `git pull` unless the user explicitly says `git`, `GitHub`, `remote`, `repo`, `branch`, `commit`, `clone`, `fetch`, `git pull`, or gives a repo URL.
+
+If the target is unclear, ask a short clarification or run only the local read-only scanner.
 
 If the anchor says a file is missing from one required Chat Drop folder, say:
 
@@ -53,6 +66,8 @@ If the agent is local and has the Git repo, it may run the read-only scanner:
 `powershell -NoProfile -ExecutionPolicy Bypass -File .\TOOLS\ChatDropFreshnessScanner.ps1`
 
 The scanner must not mutate, rename, delete, move, commit, or push.
+
+The scanner must not clone, fetch, pull from GitHub, or print a pass verdict after missing proof.
 
 If the user approves a Git publish lane after Chat Drop updates, use helper files, stage only exact public-safe files, run `git diff --cached --check`, commit, push, and report the commit.
 
