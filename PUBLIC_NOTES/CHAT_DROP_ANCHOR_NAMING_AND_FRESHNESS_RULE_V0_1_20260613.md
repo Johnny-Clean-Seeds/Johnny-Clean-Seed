@@ -41,8 +41,11 @@ Current required locations:
 - `00_ANCHOR__CURRENT_CHAT_DROP_LOAD_FIRST__V0_1_20260613.md`
 - `CHAT_DROP_COPY__CLEAR_LENS_ENTRY_SUIT_AND_OUTSIDE_AGENT_IDENTITY_CARD_V0_1_20260613.md`
 - `CHAT_DROP_COPY__PULL_MEANS_LOCAL_FILES_RULE_V0_1_20260613.md`
+- `CHAT_DROP_COPY__HELPER_ERROR_EVIDENCE_LOGGING_RULE_V0_1_20260613.md`
 - `PUBLIC_NOTES\CHAT_DROP_PULL_MEANS_LOCAL_FILES_RULE_V0_1_20260613.md`
+- `PUBLIC_NOTES\HELPER_ERROR_EVIDENCE_LOGGING_RULE_V0_1_20260613.md`
 - `TOOLS\ChatDropFreshnessScanner.ps1`
+- `TOOLS\Invoke-ChatDropLocalPull.ps1`
 
 ## Agent Behavior
 
@@ -56,6 +59,12 @@ For Chat Drop work, `pull the chat drops` means inspect or take from:
 Plain `pull` does not mean GitHub, Git remote, clone, fetch, sparse checkout, or `git pull` unless the user explicitly says `git`, `GitHub`, `remote`, `repo`, `branch`, `commit`, `clone`, `fetch`, `git pull`, or gives a repo URL.
 
 If the target is unclear, ask a short clarification or run only the local read-only scanner.
+
+If the user needs a combined assistant handoff bundle, run the local pull runner:
+
+`powershell -NoProfile -ExecutionPolicy Bypass -File .\TOOLS\Invoke-ChatDropLocalPull.ps1`
+
+Do not use GitHub for this route, and do not paste long interactive PowerShell blocks that can split inside markdown-building code.
 
 If the anchor says a file is missing from one required Chat Drop folder, say:
 

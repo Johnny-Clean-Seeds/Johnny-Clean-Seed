@@ -12,6 +12,7 @@ $currentFiles = @(
     'CHAT_DROP_COPY__CLEAR_LENS_ENTRY_SUIT_AND_OUTSIDE_AGENT_IDENTITY_CARD_V0_1_20260613.md',
     'CHAT_DROP_COPY__COLLABORATIVE_STEERING_STACK_AND_GATE_DISCIPLINE_V0_1_20260613.md',
     'CHAT_DROP_COPY__PULL_MEANS_LOCAL_FILES_RULE_V0_1_20260613.md',
+    'CHAT_DROP_COPY__HELPER_ERROR_EVIDENCE_LOGGING_RULE_V0_1_20260613.md',
     'CHAT_DROP_COPY__DEEP_SEARCH_EXTENDED_SEARCH_DISCIPLINE_CARD_V0_4_20260613.md',
     'CHAT_DROP_COPY__HOUSE_SEMANTIC_NERVOUS_SYSTEM_CURRENT_CUSTODY_ANCHOR_ADDENDUM_V0_2_20260607.md',
     'CHAT_DROP_COPY__TWO_LOCATION_CHAT_DROP_AND_HELPER_PREFLIGHT_RULE_ADDENDUM_20260607.md',
@@ -75,4 +76,5 @@ foreach ($root in $ChatDropRoots) {
 }
 
 Write-Output 'PULL_LANGUAGE_RULE: Plain pull means local files in this house. This scanner does not clone, fetch, pull from GitHub, or use Git remotes.'
+Write-Output 'LOCAL_PULL_RUNNER: To create a combined assistant bundle, run .\TOOLS\Invoke-ChatDropLocalPull.ps1 from the repo. Do not paste long interactive blocks for this job.'
 Write-Output 'DOES_NOT_PROVE: This read-only scan does not mutate files, prove Git state, approve cleanup, or make Chat Drop source authority.'

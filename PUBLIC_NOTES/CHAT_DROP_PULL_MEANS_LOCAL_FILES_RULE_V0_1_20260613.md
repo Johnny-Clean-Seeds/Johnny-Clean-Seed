@@ -44,6 +44,12 @@ Safe default for `pull Chat Drops`:
 
 That scanner may report local state only. It must not move, delete, rename, edit, commit, push, clone, fetch, or pull from GitHub.
 
+If the user needs a local assistant bundle of the current Chat Drop helpers, use:
+
+`powershell -NoProfile -ExecutionPolicy Bypass -File .\TOOLS\Invoke-ChatDropLocalPull.ps1`
+
+That runner must resolve the public repo front door from its own script path, verify both local Chat Drop folders by hash, copy only the current load set into an output bundle, and build the combined assistant markdown from file contents. Do not paste a long interactive PowerShell block for this job.
+
 ## False Pass Block
 
 No helper script may print `PASS`, `COMPLETE`, or a green verdict after:
@@ -57,6 +63,8 @@ No helper script may print `PASS`, `COMPLETE`, or a green verdict after:
 - a skipped required proof step.
 
 If proof fails, the only honest close is `BLOCKED`, `FAILED`, or `YIELD`, with the missing proof named.
+
+For combined assistant bundles, `## Files` is markdown content, not PowerShell syntax. Build it from a script file and validate that the combined output exists, has content, and contains the expected `## Files` and `## FILE 1:` markers before printing a pass verdict.
 
 ## Agent Sentence
 
