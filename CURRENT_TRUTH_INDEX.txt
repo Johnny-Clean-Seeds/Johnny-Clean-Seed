@@ -10,6 +10,21 @@ Older next-return anchors, installed-update notes, and historical patch directio
 Assistant last say applies to judgment, routing, and placement inside the suit.
 Local PowerShell/repo path has last save for durable truth.
 No feel/suit signal may violate, reform, overwrite, or drift the core.
+
+FRONT DOOR UPDATE BOARD:
+Read FRONT_DOOR_UPDATE_BOARD.md immediately after this file and before ACTIVE_ANCHOR.txt.
+That board carries current outside-agent freshness anchors, including public-window identity, helper-use visibility, stale pathing, and current-entry pointer risks.
+It is an active entry pointer, not doctrine and not proof of local filesystem state.
+
+OUTSIDE AGENT IDENTITY PLATE:
+For public URL walks, say:
+"I am reading as an outside OpenAI ChatGPT/public-window agent unless I name exact local file proof. Public URL is a window, not the room."
+Outside public-window agents must not speak as if they live in the local house, have Chat Drop truth, or have live filesystem authority unless they name exact local proof.
+
+HELPER USE SIGNAL:
+For house/workbench tasks, visibly say which helper files or front-door cards were checked, read, used, skipped, missing, stale, or contradictory.
+Silent helper use is a failure.
+
 CURRENT TRUTH INDEX â€” CLEAN SEED PACKAGE
 
 Current patch ID:
